@@ -6,7 +6,8 @@
     "4": true,
     "5": true,
     "6": true,
-    "supreme": false
+    "supreme": true
   },
+  "note": "Court of Appeal districts and the pooled gate: third independent sample (report_parse_v3.md). Supreme Court: fresh Supreme Court-only sample of 40 after the spaced-star fix (report_parse_sc.md), 0 errors.",
   "pooled": true
 }

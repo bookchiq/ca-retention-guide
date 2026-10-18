@@ -51,7 +51,7 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 ## 2026-10-18: Parsing gate decided; review rule clarification
 
-**Parsing gate (third independent sample, 200 opinions never used for a fix):** author 100%, panel 99.5%, separate opinions 100%. Pooled gate and all six Court of Appeal districts pass, including the 4th District. The Supreme Court stratum failed on one panel error (an assigned Court of Appeal justice printed "Fujisaki *"); fixed, and re-checked on a fresh Supreme Court-only sample before metrics are computed for Groban and Evans.
+**Parsing gate (third independent sample, 200 opinions never used for a fix):** author 100%, panel 99.5%, separate opinions 100%. Pooled gate and all six Court of Appeal districts pass, including the 4th District. The Supreme Court stratum failed on one panel error (an assigned Court of Appeal justice printed "Fujisaki *"); fixed, and re-checked on a fresh Supreme Court-only sample of 40 opinions (none previously sampled): 0 errors on author, panel, and separate opinions. **The parsing gate (R9) passes for every district and the Supreme Court.**
 
 **Reading rule clarification.** Two readers decided *People v. Brown* (S271877) differently: whether a ruling on continuing a suppression hearing puts the search issue "at issue." Ruled: yes. A ruling on how a suppression motion is litigated (timeliness, continuance, whether a hearing is required) rules on the claim the way a forfeiture ruling does. A case in several justices' queues must get the same at-issue call for each. New exclusion reason `no_rule_applies`: the issue is at issue but the justice's role meets no listing rule (for example, joined a dissent another justice wrote).
 
