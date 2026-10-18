@@ -37,4 +37,10 @@ SPEC §4's list of short-tenure justices was incomplete. Applying the 12-month r
 
 Source conflicts resolved in favor of the official release date (noted per row): Chou (bio July 2023; release 2023-06-23), Boulware Eurie (bio Aug 4, 2022; release Aug 3, 2022), Simons (bio 2000; roster 2001).
 
+## 2026-10-17: Review queue rules (U9)
+
+- L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.
+- Excluded records are promoted to the public `data/case_notes.jsonl` with their exclusion reason, so readers can audit which queued cases were not listed and why.
+- "not_reached" is an *outcome* (SPEC §8.5), never an exclusion reason: a case nobody has read stays undecided and keeps its justice-topic at "Not yet reviewed".
+
 ## Changelog
