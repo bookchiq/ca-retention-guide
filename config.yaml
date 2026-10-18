@@ -17,7 +17,7 @@ bulk:
 api:
   base: https://www.courtlistener.com/api/rest/v4/
   # Fixed spacing keeps a run under the documented 50 requests/hour limit.
-  min_interval_seconds: 75
+  min_interval_seconds: 80
   # Stop rather than wait longer than this on a 429 Retry-After.
   max_retry_after_seconds: 3600
 

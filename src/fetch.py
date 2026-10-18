@@ -15,32 +15,12 @@ import sqlite3
 import sys
 from urllib.parse import urlencode
 
-from src import cl_api, config, db, textutil
+from src import bulk, cl_api, config, coverage, db, textutil
 
 log = logging.getLogger(__name__)
 
 CLUSTER_FIELDS = "id,docket_id,case_name,date_filed,precedential_status,absolute_url"
 OPINION_FIELDS = "id,cluster_id,type," + ",".join(textutil.TEXT_FIELDS)
-
-
-def insert_opinion(
-    conn: sqlite3.Connection, opinion_id: int, cluster_id: int, opinion_type: str | None,
-    text: str, field: str | None, source: str,
-) -> bool:
-    """Insert one opinion unless it or identical text is already stored."""
-    digest = textutil.text_hash(text) if text else None
-    if conn.execute("SELECT 1 FROM opinions WHERE cl_opinion_id = ?", (opinion_id,)).fetchone():
-        return False
-    if digest and conn.execute(
-        "SELECT 1 FROM opinions WHERE text_hash = ?", (digest,)
-    ).fetchone():
-        return False
-    conn.execute(
-        "INSERT INTO opinions (cl_opinion_id, cl_cluster_id, opinion_type, text, "
-        "text_field_used, text_hash, source) VALUES (?, ?, ?, ?, ?, ?, ?)",
-        (opinion_id, cluster_id, opinion_type, text, field, digest, source),
-    )
-    return True
 
 
 def fetch_api_gap(client: cl_api.Client, conn: sqlite3.Connection, court: str, since: str) -> int:
@@ -66,7 +46,9 @@ def fetch_api_gap(client: cl_api.Client, conn: sqlite3.Connection, court: str, s
     added = 0
     for o in client.paginate(f"opinions:{court}:{since}", opinion_url):
         text, field = textutil.choose_text(o)
-        added += insert_opinion(conn, o["id"], o["cluster_id"], o.get("type"), text, field, "api")
+        added += db.insert_opinion(
+            conn, o["id"], o["cluster_id"], o.get("type"), text, field, "api"
+        )
     conn.commit()
     return added
 
@@ -77,11 +59,47 @@ def main(argv: list[str] | None = None) -> int:
     api = sub.add_parser("api", help="fetch the post-snapshot gap through the API")
     api.add_argument("--since", default="2026-10-01")
     api.add_argument("--court", action="append", help="court id; repeatable")
+    blk = sub.add_parser("bulk", help="filter the bulk snapshot into SQLite")
+    blk.add_argument(
+        "--stages", default="dockets,clusters,opinions", help="comma list of stages to run"
+    )
+    sub.add_parser("coverage", help="write data/validation/coverage.md")
     args = parser.parse_args(argv)
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     settings = config.load()
     conn = db.connect(settings.path("database"))
+
+    if args.cmd == "bulk":
+        snap = settings.raw["bulk"]["snapshot"]
+        folder = settings.path("bulk")
+        source = f"bulk-{snap}"
+        stages = set(args.stages.split(","))
+        starts = {
+            "calctapp": settings.raw["window"]["start"],
+            "cal": settings.raw["window"]["supreme_court_start"],
+        }
+        if "dockets" in stages:
+            n = bulk.load_dockets(conn, folder / f"dockets-{snap}.csv.bz2",
+                                  set(settings.raw["bulk"]["courts"]))
+            log.info("dockets kept: %d", n)
+        if "clusters" in stages:
+            n = bulk.load_clusters(conn, folder / f"opinion-clusters-{snap}.csv.bz2", starts,
+                                   source)
+            log.info("clusters kept: %d", n)
+        if "opinions" in stages:
+            n = bulk.load_opinions(conn, folder / f"opinions-{snap}.csv.bz2", source)
+            log.info("opinions added: %d", n)
+
+    if args.cmd == "coverage":
+        report = coverage.build_report(
+            conn, expected_per_year=7000,
+            window_options=[settings.raw["window"]["start"], "2023-01-01"],
+        )
+        out = settings.path("validation") / "coverage.md"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(report)
+        log.info("wrote %s", out)
 
     if args.cmd == "api":
         client = cl_api.Client(settings, conn)

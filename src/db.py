@@ -8,6 +8,8 @@ from __future__ import annotations
 import sqlite3
 from pathlib import Path
 
+from src import textutil
+
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS clusters (
     cl_cluster_id     INTEGER PRIMARY KEY,
@@ -87,12 +89,37 @@ CREATE TABLE IF NOT EXISTS api_cursors (
     done              INTEGER NOT NULL DEFAULT 0
 );
 
+CREATE TABLE IF NOT EXISTS bulk_dockets (
+    docket_id         INTEGER PRIMARY KEY,
+    court             TEXT NOT NULL,
+    docket_number     TEXT,
+    case_name         TEXT
+);
+
 CREATE TABLE IF NOT EXISTS bulk_checkpoints (
     stage             TEXT PRIMARY KEY,
     rows_done         INTEGER NOT NULL,
     done              INTEGER NOT NULL DEFAULT 0
 );
 """
+
+
+def insert_opinion(
+    conn: sqlite3.Connection, opinion_id: int, cluster_id: int, opinion_type: str | None,
+    text: str, field: str | None, source: str,
+) -> bool:
+    """Insert one opinion unless it, or identical text, is already stored."""
+    digest = textutil.text_hash(text) if text else None
+    if conn.execute("SELECT 1 FROM opinions WHERE cl_opinion_id = ?", (opinion_id,)).fetchone():
+        return False
+    if digest and conn.execute("SELECT 1 FROM opinions WHERE text_hash = ?", (digest,)).fetchone():
+        return False
+    conn.execute(
+        "INSERT INTO opinions (cl_opinion_id, cl_cluster_id, opinion_type, text, "
+        "text_field_used, text_hash, source) VALUES (?, ?, ?, ?, ?, ?, ?)",
+        (opinion_id, cluster_id, opinion_type, text, field, digest, source),
+    )
+    return True
 
 
 def connect(path: Path | str) -> sqlite3.Connection:
