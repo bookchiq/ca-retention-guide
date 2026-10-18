@@ -247,7 +247,10 @@ def main(argv: list[str] | None = None) -> int:
     sub = parser.add_subparsers(dest="cmd", required=True)
     for name in ("sample", "tag-sample"):
         sub.add_parser(name).add_argument("--seed", type=int, required=True)
-    sub.add_parser("score")
+    sc = sub.add_parser("score")
+    sc.add_argument("--labels", default="labels_parse.csv",
+                    help="labels file in data/validation/ (the gate uses the latest fresh sample)")
+    sc.add_argument("--report", default="report_parse.md")
     sub.add_parser("tag-score")
     args = parser.parse_args(argv)
 
@@ -266,8 +269,8 @@ def main(argv: list[str] | None = None) -> int:
             write_label_template(ids, labels)
         print(f"{len(ids)} opinions; packets in {packets / 'parse'}")
     elif args.cmd == "score":
-        result = score(conn, vdir / "labels_parse.csv")
-        (vdir / "report_parse.md").write_text(report_markdown(result))
+        result = score(conn, vdir / args.labels)
+        (vdir / args.report).write_text(report_markdown(result))
         (vdir / "status.json").write_text(json.dumps(result["status"], indent=2,
                                                       sort_keys=True) + "\n")
         print(json.dumps(result["status"], indent=2))

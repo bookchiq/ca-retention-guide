@@ -6,7 +6,7 @@
 
 search_seizure:
   tier: 1
-  validated: false   # set true once data/validation/report_tags.md passes R10
+  validated: true    # report_tags.md round 2: 98% precision (2026-10-18)
   # Counted as "addressing" the topic only when it is litigated, not just mentioned
   # (KTD9). Added 2026-10-18 after the anchor-or-3-broad rule measured 28% precision.
   tag_rule:
