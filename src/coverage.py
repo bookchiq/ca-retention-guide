@@ -48,10 +48,13 @@ def build_report(
         "| Year | Court | Published | Unpublished | Other | Total | Flag |",
         "|---|---|---|---|---|---|---|",
     ]
+    latest = conn.execute("SELECT MAX(date_filed) FROM clusters").fetchone()[0] or ""
     for (year, court), c in sorted(counts.items()):
         total = sum(c.values())
         flag = ""
-        if court == "calctapp" and total < LOW_SHARE * expected_per_year:
+        if year == latest[:4]:
+            flag = f"partial year through {latest}"
+        elif court == "calctapp" and total < LOW_SHARE * expected_per_year:
             flag = "LOW"
         lines.append(
             f"| {year} | {court} | {c['published']} | {c['unpublished']} | {c['other']} "

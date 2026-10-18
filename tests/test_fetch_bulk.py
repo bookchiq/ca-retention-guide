@@ -127,3 +127,16 @@ def test_coverage_report_flags_thin_year_and_projects_workload(tmp_path):
     assert "LOW" in report.split("| 2021 |")[1].splitlines()[0]
     assert "LOW" not in report.split("| 2023 |")[1].splitlines()[0]
     assert "2020-01-01" in report and "2023-01-01" in report
+
+
+def test_latest_year_is_marked_partial_not_low(tmp_path):
+    conn = db.connect(":memory:")
+    conn.executemany(
+        "INSERT INTO clusters (cl_cluster_id, court, docket_number, date_filed, "
+        "precedential_status, source) VALUES (?, 'calctapp', 'D0', ?, 'Published', 't')",
+        [(1, "2025-06-01"), (2, "2026-10-14")],
+    )
+    report = coverage.build_report(conn, expected_per_year=7000, window_options=["2020-01-01"])
+    row_2026 = report.split("| 2026 |")[1].splitlines()[0]
+    assert "partial year through 2026-10-14" in row_2026 and "LOW" not in row_2026
+    assert "LOW" in report.split("| 2025 |")[1].splitlines()[0]

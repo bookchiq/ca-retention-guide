@@ -37,6 +37,12 @@ SPEC §4's list of short-tenure justices was incomplete. Applying the 12-month r
 
 Source conflicts resolved in favor of the official release date (noted per row): Chou (bio July 2023; release 2023-06-23), Boulware Eurie (bio Aug 4, 2022; release Aug 3, 2022), Simons (bio 2000; roster 2001).
 
+## 2026-10-17: Data loaded; window decision pending (R6)
+
+Loaded 43,674 opinions (2026-09-30 bulk snapshot plus 267 Court of Appeal opinions filed 2026-10-01 onward via the API; no new Supreme Court opinions in that gap). Full parse: 42,811 ok (98.0%), 423 unresolved, 285 without a signature, 1,883 superseded duplicates linked. 4th District: 99.3% ok.
+
+Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are complete (6,300–7,100 a year). **2020 is thin: 3,810 opinions, of which only 2,750 unpublished, against about 6,000 unpublished in later years.** Projected Tier 1 reading pool: 555 4th District opinions with a search-and-seizure anchor since 2020, 314 since 2023. Owner decision pending: keep 2020 onward (default) or cut to 2023 onward.
+
 ## 2026-10-17: Review queue rules (U9)
 
 - L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.
