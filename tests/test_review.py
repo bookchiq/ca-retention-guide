@@ -206,6 +206,16 @@ def test_promote_is_deterministic_and_guard_clean(workspace):
     assert problems == []
 
 
+def test_promote_records_reviewed_manifest_even_for_empty_queue(workspace):
+    write_queue(workspace, "dato", "search_seizure", [])
+    write_drafts(workspace, "dato", "search_seizure", [])
+    assert review.promote(workspace, "dato", "search_seizure", TOPICS) == 0
+    manifest = review.load_reviewed(workspace)
+    assert manifest[("dato", "search_seizure")] == {
+        "justice_slug": "dato", "topic": "search_seizure", "queued": 0, "listed": 0,
+        "excluded": 0}
+
+
 def test_mark_sample_sets_drawn_pending_and_finish_sets_not_sampled(workspace):
     recs = [listed(cl_opinion_id=i, verified=True, second_check=None) for i in range(1, 8)]
     write_drafts(workspace, "dato", "search_seizure", recs)

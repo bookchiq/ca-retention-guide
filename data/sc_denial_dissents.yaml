@@ -1,0 +1,19 @@
+# Dissents from denial of review (SPEC §5.3, R22). Third-party compilation:
+# quoted with attribution, never restated as this project's own measurement.
+source:
+  title: "The 2024–2025 term in numbers — the conferences [Updated]"
+  author: David S. Ettinger
+  publication: At the Lectern (Horvitz & Levy)
+  date: "2025-09-15"
+  url: https://www.horvitzlevy.com/the-2024-2025-term-in-numbers-the-conferences-updated/
+  checked: "2026-10-17"
+term: "2024–25"
+justices:
+  kelli-m-evans:
+    dissenting_votes: 63
+    criminal: 63
+    civil: 0
+  joshua-groban:
+    dissenting_votes: 22
+    criminal: 10
+    civil: 12

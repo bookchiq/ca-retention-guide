@@ -1,0 +1,4 @@
+# Allowed occurrences of banned words (KTD11). Each entry needs a DECISIONS.md line.
+# - file: guide/justices/<slug>.md   (or "*" for every page)
+#   phrase: exact quoted text from an opinion
+[]

@@ -1,0 +1,12 @@
+# California appellate justices on the November 3, 2026 ballot
+
+California voters decide whether to retain Supreme Court and Court of Appeal justices with a yes/no vote. This guide describes each justice's record on the bench with links to the opinions. It does not grade, rank, or recommend.
+
+**How to read this.** Each justice's page has background facts with sources, automated counts compared with the same counts for their court ("baseline"), and, for justices on San Diego County ballots, a verified list of search-and-seizure cases selected by fixed rules applied to everyone. Court of Appeal justices appear on the ballot for their whole district. See the [methodology](methodology.md) for how the data was gathered and what it cannot show.
+
+Last updated: {{ updated }}.
+
+| Justice | Court | Appointed | Prior career | Opinions written | Separate opinions | Search-and-seizure cases listed | Record status |
+|---|---|---|---|---|---|---|---|
+{% for j in justices %}| [{{ j.display_name }}](justices/{{ j.slug }}.md) | {{ j.court_label }} | {{ j.appointed_text }} | {{ j.career_text or "—" }} | {{ j.index_authored }} | {{ j.index_separate }} | {{ j.index_listed }} | {{ j.record_status }} |
+{% endfor %}

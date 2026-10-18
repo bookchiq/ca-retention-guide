@@ -342,7 +342,24 @@ def promote(ws: Workspace, slug: str, topic: str, topics: dict) -> int:
         r.get("justice_slug", ""), r.get("topic", ""), _desc(r.get("date_filed", "")),
         r["cl_opinion_id"]))
     _write_jsonl(ws.case_notes, merged)
+
+    # The manifest is how render tells "reviewed, nothing listed" from "not yet reviewed".
+    reviewed = load_reviewed(ws)
+    reviewed[(slug, topic)] = {
+        "justice_slug": slug, "topic": topic, "queued": len(queue_ids),
+        "listed": sum(1 for r in promoted if r.get("listing_decision") == "listed"),
+        "excluded": sum(1 for r in promoted if r.get("listing_decision") == "excluded"),
+    }
+    _write_jsonl(_reviewed_path(ws), [reviewed[k] for k in sorted(reviewed)])
     return len(promoted)
+
+
+def _reviewed_path(ws: Workspace) -> Path:
+    return ws.case_notes.parent / "reviewed.jsonl"
+
+
+def load_reviewed(ws: Workspace) -> dict[tuple[str, str], dict]:
+    return {(r["justice_slug"], r["topic"]): r for r in _read_jsonl(_reviewed_path(ws))}
 
 
 def _desc(value: str) -> str:
