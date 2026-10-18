@@ -38,9 +38,15 @@ def normalize(text: str) -> str:
 class Hits:
     anchor_hits: int
     broad_hits: int
+    core_hits: int = 0
+    rule: dict | None = None
 
     @property
     def tagged(self) -> bool:
+        if self.rule:
+            # A validated topic's own rule (KTD9): the topic is litigated, not just mentioned.
+            return (self.anchor_hits >= self.rule["min_distinct_anchors"]
+                    and self.core_hits >= self.rule["min_core_hits"])
         return self.anchor_hits > 0 or self.broad_hits >= TAG_BROAD_MIN
 
     @property
@@ -51,9 +57,10 @@ class Hits:
 @dataclass
 class Compiled:
     pattern: re.Pattern
-    # normalized term -> list of (topic, "anchor" | "broad")
+    # normalized term -> list of (topic, "anchor" | "broad" | "core")
     owners: dict[str, list[tuple[str, str]]]
     topics: list[str]
+    rules: dict[str, dict]
 
 
 def load_keywords(path: Path = KEYWORDS) -> dict:
@@ -65,28 +72,37 @@ def compile_topics(topics: dict) -> Compiled:
     prefixes: set[str] = set()
     for topic, spec in topics.items():
         prefixes |= {normalize(p) for p in spec.get("prefix_terms", [])}
+        rule = spec.get("tag_rule") or {}
         for key, kind in (("anchors", "anchor"), ("broad", "broad")):
             for term in spec.get(key, []):
                 owners.setdefault(normalize(term), []).append((topic, kind))
+        for term in rule.get("core_terms", []):
+            owners.setdefault(normalize(term), []).append((topic, "core"))
     ordered = sorted(owners, key=len, reverse=True)
     whole = "|".join(re.escape(t) for t in ordered if t not in prefixes)
     stems = "|".join(re.escape(t) for t in ordered if t in prefixes)
     # One shared left boundary instead of one per alternative: far fewer checks per
     # position on long opinion texts.
     body = rf"(?:{whole})(?![a-z0-9])" + (f"|(?:{stems})" if stems else "")
-    return Compiled(re.compile(rf"(?<![a-z0-9])(?:{body})"), owners, list(topics))
+    rules = {t: s["tag_rule"] for t, s in topics.items() if s.get("tag_rule")}
+    return Compiled(re.compile(rf"(?<![a-z0-9])(?:{body})"), owners, list(topics), rules)
 
 
 def score(text: str, compiled: Compiled) -> dict[str, Hits]:
     found: dict[str, dict[str, set[str]]] = {
         t: {"anchor": set(), "broad": set()} for t in compiled.topics
     }
+    core = dict.fromkeys(compiled.topics, 0)
     for match in compiled.pattern.finditer(normalize(text or "")):
         term = match.group(0)
         for topic, kind in compiled.owners.get(term, []):
-            found[topic][kind].add(term)
+            if kind == "core":
+                core[topic] += 1  # occurrences, not distinct terms
+            else:
+                found[topic][kind].add(term)
     return {
-        t: Hits(anchor_hits=len(k["anchor"]), broad_hits=len(k["broad"]))
+        t: Hits(anchor_hits=len(k["anchor"]), broad_hits=len(k["broad"]), core_hits=core[t],
+                rule=compiled.rules.get(t))
         for t, k in found.items()
     }
 

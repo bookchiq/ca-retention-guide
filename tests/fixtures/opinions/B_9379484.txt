@@ -1,0 +1,1565 @@
+cl_opinion_id: 9379484
+cluster: 9384008
+docket: B319662
+date: 2023-03-15
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re M.Y. CA2/3
+----
+Filed 3/15/23 In re M.Y. CA2/3
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                      DIVISION THREE
+
+In re M.Y., a Person Coming                                    B319662
+Under the Juvenile Court Law.
+                                                               Los Angeles County
+LOS ANGELES COUNTY                                             Super. Ct. No.
+DEPARTMENT OF CHILDREN                                         19CCJP05288A
+AND FAMILY SERVICES,
+
+         Plaintiff and Respondent,
+
+         v.
+
+R.Y.,
+
+         Defendant and Appellant.
+
+       APPEAL from an order of the Superior Court of
+Los Angeles County. Lisa A. Brackelmanns, Judge Pro Tempore
+of the Juvenile Court. Affirmed.
+       Aida Aslanian, under appointment by the Court of Appeal,
+for Defendant and Appellant.
+       Dawyn R. Harrison, Interim County Counsel, Kim Nemoy,
+Assistant County Counsel, Navid Nakhjavani, Principal Deputy
+County Counsel, for Plaintiff and Respondent.
+                   _________________________
+       Mother appeals the juvenile court’s order terminating her
+parental rights to her daughter M.Y. She contends the juvenile
+court erred in finding the beneficial parent relationship exception
+to adoption did not apply under In re Caden C. (2021) 11 Cal.5th
+614 (Caden C.). She also contends the court and the Los Angeles
+County Department of Children and Family Services (DCFS)
+failed to make an adequate inquiry under the Indian Child
+Welfare Act of 1978 (25 U.S.C. § 1901 et seq.) (ICWA) and related
+California law (Welf. & Inst. Code, § 224 et seq.).1 We find no
+prejudicial error and affirm.
+       FACTUAL AND PROCEDURAL BACKGROUND
+1.     Child welfare history
+       Mother and father have a history with the dependency
+court.2 M.Y.’s three older siblings C.Y., J.Y., and T.Y. were
+declared dependents of the juvenile court, primarily due to
+parents’ substance abuse, between May 2003 and May 2009.
+The court granted legal guardianship of C.Y. and J.Y. to paternal
+grandmother, and terminated parents’ parental rights as to T.Y.,
+who was adopted.
+       In May 2012, M.Y. (born April 2012) was declared a
+dependent of the juvenile court after her meconium tested
+positive for methamphetamine. The court granted parents,
+
+
+1     Undesignated statutory references are to the Welfare
+and Institutions Code. Because ICWA uses the term “Indian,”
+we do the same for consistency, although we recognize other
+terms are preferred. (In re Benjamin M. (2021) 70 Cal.App.5th
+735, 739, fn. 1 (Benjamin M.).)
+2     Father is not a party to this appeal.
+
+
+
+
+                                 2
+who were married, family reunification services and placed M.Y.
+with paternal cousin Lisa and her husband. Parents reunified
+with M.Y., and the court terminated its jurisdiction in December
+2013.
+2.     Current petition
+       M.Y. again came to DCFS’s attention on August 10, 2019,
+when she and mother were seen walking around a mall parking
+lot. Mother appeared disheveled and did not know what day
+it was; M.Y. had blisters on her feet and her clothes were dirty.
+Mother was homeless. She had been using vouchers to stay at
+hotels but had checked out of the last one.
+       The responding DCFS social worker (CSW) spoke to
+relatives but could not reach mother. According to paternal
+cousin Kristen, mother had a history of bipolar disorder, alcohol
+abuse, and methamphetamine use. In 2018, the family had
+become homeless. Lisa and her husband let the family stay in
+a camper parked in their yard—M.Y. slept in the house with Lisa
+and her husband and parents stayed in the camper. The family
+left in November 2018 after Lisa and her husband found drug
+paraphernalia in the camper. Kristen said DCFS was going to
+open a new case with the family, but mother sent M.Y. to live
+with maternal uncle in Oregon.
+       Maternal uncle confirmed mother brought M.Y. to Oregon
+in January 2019 to stay with him and his wife. Mother returned
+to Oregon in March and stayed until July 3, 2019, when she
+and M.Y. left. In June 2019, mother was arrested. Uncle had
+called the police, believing mother was having a bipolar episode,
+when he found her screaming and smashing the windows of her
+car. Mother and M.Y. returned to California after the incident.
+
+
+
+
+                                3
+Maternal uncle asked that he and his wife be considered for
+placement.
+       Mother and M.Y. had “show[n] up” at Lisa’s house on
+August 11. A CSW interviewed mother and M.Y. there. On
+returning from Oregon, mother and M.Y. stayed with maternal
+grandmother and then lived in hotels. Mother had separated
+from father in January 2019. M.Y. said father sometimes stayed
+the night at their hotel.
+       Mother denied current drug use, stating she last used
+methamphetamine nine months earlier. She said she’d used
+methamphetamine “ ‘on and off’ ” since 2005––she “would get
+clean and then relapse.” Mother last had been in an inpatient
+treatment program in 2014. She told the CSW she drank alcohol
+only “ ‘sporadically’ ” and denied any mental health diagnoses.
+She said homelessness was the only issue impacting the family.
+       M.Y. confirmed she’d been living in Oregon with her uncle
+and was not sure why she returned to California. She denied
+having to sleep outside. M.Y. felt happy and safe with mother
+and father.
+       Lisa and her husband had agreed to allow mother to live
+in the camper again if she enrolled in Narcotics Anonymous.
+Mother was willing to do so and to drug test that day for DCFS.3
+       On August 14, 2019, DCFS obtained an expedited removal
+order detaining M.Y. from parents. Mother asked that M.Y. be
+left in Lisa’s and her husband’s custody. Lisa and her husband
+
+
+
+3      Mother’s August 12, 2019 drug test results were negative
+for all substances, but her test was diluted.
+
+
+
+
+                                4
+were willing to adopt M.Y. if parents did not reunify with the
+child.
+       On August 16, 2019, DCFS filed a section 300 petition
+on behalf of M.Y. alleging parents’ substance abuse rendered
+them incapable of caring for M.Y. and had led to the permanent
+placement of M.Y.’s older siblings. At the August 19 detention
+hearing, the court detained M.Y. from parents and ordered
+they have monitored visitation.4
+3.     Jurisdiction and disposition
+       A DCFS dependency investigator (DI) interviewed M.Y.
+at Lisa’s home on September 5, 2019. M.Y. missed her parents.
+She last had seen father in court and had not talked to her
+mother “since she left.” M.Y. stated, “ ‘[M]aybe I can see my mom
+and dad for an hour or two and when they get a house, maybe I’d
+like to see them more[;] I only like to visit them.’ ” M.Y. changed
+the subject when asked about staying in hotels and parents’
+behaviors. She denied any physical or sexual abuse.
+       On September 17, 2019, the CSW met with mother at
+her treatment center, where she had been voluntarily admitted
+earlier that month. Mother told the CSW she had taken
+methamphetamines “right before coming” because she feared
+the facility otherwise would not deem her in need of treatment.
+Mother denied having used any type of substance in the weeks
+leading up to M.Y.’s detention. Mother wanted to divorce father,
+whom she described as a “functional addict.” She believed father
+was “toxic” for her, and she had stayed with him because he
+
+
+4    Father appeared at the hearing, but mother did not. She
+was arraigned on October 11, 2019.
+
+
+
+
+                                 5
+was her “ ‘dealer.’ ” Mother said father had hit her in the past,
+including when she had returned to California while M.Y. was
+in Oregon. Mother said she would do whatever was necessary
+to reunify with M.Y.
+       On October 1, 2019, mother transitioned to an outpatient
+program. The DI interviewed her the next day. Mother appeared
+“scattered in her thoughts,” but was cooperative and able to
+maintain eye contact. Mother, then 52 years old, said she began
+“smoking pot” at 12 and began experimenting with other drugs
+and alcohol at 19. She tried methamphetamine in 2001 when
+she met father. Mother had been using meth off and on since
+then; she said she’d been sober about five years over the years.
+She had a “ ‘[h]ard time’ ” getting off meth and into a treatment
+program.
+       Mother told DCFS her parents divorced when she was
+about one year old. Her stepfather raised her; she had minimal
+contact with her biological father. Mother left home at age 11
+and lived with an aunt, moving to an adolescent home when
+she was 12.
+       Mother had a monitored visit with M.Y. at her inpatient
+facility in late September. Mother was appropriate and told M.Y.
+she loved her; M.Y. appeared comfortable.
+       DCFS filed its jurisdiction/disposition report on October 10,
+2019. It asserted parents had “an unresolved history of illicit
+drug abuse,” and suspected current methamphetamine use,
+that rendered them incapable of caring for M.Y. Mother
+appeared to be “extremely codependent on father”; she told
+the DI “every time she completes a program, she returns to
+father.” DCFS expressed concern that parents’ issues were not
+“one-time incidents, but are indicative of a chronic, long-term
+
+
+
+
+                                 6
+pattern of abuse for both of them.” DCFS concluded M.Y. could
+not safely remain with either parent. It recommended parents
+receive no reunification services.
+       At the jurisdiction hearing on October 22, 2019, the court
+sustained the section 300 petition as to mother and father and
+continued the disposition hearing.
+       Mother was visiting M.Y. consistently every Sunday.
+The CSW had no concerns. During a monitored visit in a park
+on November 9, mother “displayed a positive behavior and
+engaged properly with [M.Y.]” However, M.Y.’s caregiver said
+M.Y. “is always concerned about her mother.”
+       Mother’s counselor at her outpatient program confirmed
+mother had attended all group sessions and completed all
+assignments, had attended more than the required number
+of AA meetings per week, and had a sponsor. Mother’s weekly
+drug tests had been negative.
+       At the contested November 18, 2019 disposition hearing,
+DCFS asked the court to take judicial notice of the sustained
+petitions, case plans, and minute orders in the earlier
+dependency case file concerning M.Y. and her siblings. The
+court admitted those electronic files into evidence, as well as
+DCFS’s most recent report. The court also admitted mother’s
+exhibits, including: a letter from her outpatient program that
+she was actively engaged in the 12-step program and doing well
+in treatment; a letter from mother’s psychologist that she had
+been attending weekly sessions since October 8 and had made
+good progress; and divorce paperwork mother had filed.
+       DCFS asked the court to bypass reunification services
+for parents. But M.Y.’s counsel recommended the court provide
+mother with reunification services. The court ordered M.Y.
+
+
+
+
+                                7
+removed from parents. It bypassed reunification services for
+father but granted them for mother. The court ordered mother
+to participate in a full drug/alcohol program with aftercare,
+weekly drug testing, a 12-step program, a domestic violence
+victims support group, parenting classes, individual counseling,
+and mental health counseling, and to undergo a psychiatric
+evaluation. Mother was to have monitored visitation for
+a minimum of six hours per week.
+4.     Six-month review period
+       In a status review report filed April 24, 2020, DCFS
+noted M.Y. was doing well with Lisa and her husband. She
+had begun weekly mental health services and was to receive
+special education services in reading. Lisa and her husband
+wanted to adopt M.Y. if mother failed to reunify. They loved
+M.Y. and wanted to give her a loving and stable home.
+       Mother remained in the outpatient, residential treatment
+program she had entered on October 1, 2019. She was working
+at a Wal-Mart and looking for housing outside the program.
+Mother continued to test negative for drugs and alcohol each
+week. She also was participating in her other court-ordered
+services and in the process of beginning individual counseling.
+       Mother had visited M.Y. for two hours each Saturday at
+a park near her treatment facility, traveled to visit with M.Y. for
+special occasions, and called M.Y. daily. The report noted mother
+and M.Y. appeared “to have a strong bond and [M.Y.] appear[ed]
+to be comfortable in the mother’s presence.” With the onset
+of the pandemic, mother began to visit with M.Y. daily through
+FaceTime. Mother was concerned about exposing M.Y. to the
+virus. Mother visited M.Y. in person for her birthday, however,
+which was important to M.Y.
+
+
+
+
+                                 8
+       DCFS assessed mother as in “partial compliance” with
+her court-ordered programs, as she had yet to participate in
+individual counseling. DCFS also wanted more time to assess
+whether mother would remain sober outside the structure
+and support of her residential program. DCFS recommended
+the court continue reunification services.
+       Due to COVID-19-related court closures, the court
+continued the six-month review hearing from May 2020 to
+September 2020. DCFS’s status review report, filed August 14,
+noted DCFS had liberalized mother’s visits to unmonitored for
+two hours each (in April), and then increased the time to four
+hours (in June), and eight hours (in August). Due to mother’s
+work schedule, she could visit M.Y. only one day per week. She
+telephoned or video called M.Y. on the other days. Mother and
+M.Y. had “been observed to have a strong bond.” DCFS noted
+M.Y. said she would like to live with mother, but if she couldn’t,
+then she would like to live with her caregivers or for mother
+to live with M.Y. and her caregivers.
+       Mother had made substantial progress. She’d completed
+her full treatment program and continued to remain sober for a
+year. Mother left the facility in June 2020. She was living with
+a friend and working full time. She had a driver’s license and
+had saved money to buy a car.5
+       DCFS said “the only obstacle at this time to reunification
+is housing for the mother.” It noted the case was eligible for
+housing assistance. DCFS recommended the court continue
+
+5    Mother had stopped taking psychotropic medication,
+however, believing the medication was not necessary now that
+she was clean and sober.
+
+
+
+
+                                 9
+reunification services and set a progress hearing in three months
+to discuss mother’s housing and the return of M.Y. to her care.
+       The court found mother had substantially complied with
+her case plan. The court ordered DCFS to assess mother for
+overnight visits. It continued reunification services and set a
+combined 12-month/18-month review hearing.
+5.     Combined 12- and 18-month review period
+       In its interim review report filed November 10, 2020, DCFS
+recommended the court return M.Y. to mother’s custody, with
+DCFS to provide family maintenance services. Mother was living
+with maternal step-grandfather and on a waiting list for housing.
+She continued to work full time.
+       On October 2, 2020, mother began overnight visits with
+M.Y. at step-grandfather’s home each weekend, except for a
+weekend after she had surgery.6 She began extended weekend
+visits with M.Y. on November 6. Mother called M.Y. nightly
+when not visiting.
+       M.Y. completed therapy in October 2020; she had met
+her therapy goals. She participated in a conjoint therapy session
+with mother and mother’s therapist in October.
+        In a report filed December 3, 2020, however, DCFS
+told the court it had seen a change in mother’s behavior that
+concerned it. Despite DCFS’s earlier home-of-mother
+recommendation, mother believed DCFS and paternal relatives
+were colluding against her reunification with M.Y. so M.Y.
+
+
+
+6    Mother took a leave of absence from her job after her
+mid-October surgery and apparently did not return to work.
+
+
+
+
+                               10
+could be adopted. Mother repeatedly called and/or texted
+the CSW and paternal cousin Kristen about this belief.
+       Mother was to have an extended Thanksgiving visit
+with M.Y. from November 25 through November 29, 2020, but
+maternal step-grandfather had a heart attack on November 24.
+She told the CSW she might have to change the time she picked
+up M.Y. M.Y. waited for hours, however, before mother called
+Lisa, crying. She said she would not be able to pick up M.Y. until
+that Friday morning. On that morning, however, mother texted
+Lisa, “ ‘[M.Y.] is having so much fun there, I will not be picking
+her up today.’ ”
+       Over the next several days, the CSW, the caregivers,
+and Kristen received several telephone calls and texts from
+mother. Mother said she was going to leave step-grandfather’s
+home (where she had fought with another relative) because it
+didn’t matter where she lived—she knew M.Y. would not be
+returned to her. Mother said she planned to live under
+the freeway in a tent. Mother continued to accuse DCFS of
+planning for M.Y. to be adopted, alleging it would receive a
+$40,000 bonus if she were. She did not attend the scheduled
+team meeting despite the CSW’s encouragement. The CSW
+asked mother to drug test, but mother said she was sick, and
+her doctor had told her to quarantine.
+       Based on mother’s behavior, DCFS believed her issues
+had resurfaced or no longer were being addressed. Mother’s
+mental health appeared to be deteriorating, and DCFS also was
+concerned mother might be using drugs again. M.Y. appeared
+to be “picking up on” mother’s decline; Kristen and Lisa reported
+M.Y. was establishing an “ ‘escape route’ ” by memorizing the
+
+
+
+
+                                11
+way back to her relatives’ homes. M.Y. had been “exhibiting
+signs of concern and sadness.”
+       At the scheduled December 9, 2020 progress hearing, the
+juvenile court ordered M.Y. remain in her placement. DCFS
+was to ensure mother received monitored visits with M.Y. at
+a minimum of six hours per week. Mother was to continue in
+her programs and to test.
+       DCFS learned that, on December 26, 2020, mother had
+enrolled herself in a 30-day residential treatment program at
+Discovery House, which she completed on January 25, 2021.
+Mother had relapsed after step-grandfather died.7 Her substance
+abuse counselor wrote DCFS, stating mother had tested negative
+for all substances at discharge and had been a model client.
+The counselor noted mother had been diagnosed with PTSD
+and depression and had been prescribed Prozac. Mother was
+to enroll in an outpatient program.
+       The day after her discharge, mother called the CSW and
+said she was not attending an outpatient program because she
+“ ‘knew that she would not be able to reunify with [M.Y.].’ ”
+Mother said she was staying with a friend but would not provide
+the address. The CSW encouraged mother to enroll in aftercare.
+       In early February, the CSW went to father’s apartment
+to try to visit mother. No one answered the door, but father’s
+neighbors confirmed mother was staying there. A week later,
+father responded to a message the CSW had left. He said he
+
+
+7     According to the substance abuse counselor, mother also
+had lost her own mother (maternal grandmother) in the past
+six months.
+
+
+
+
+                               12
+didn’t know where mother was. As of DCFS’s February 16, 2021
+status review report, mother’s whereabouts were unknown.
+       M.Y. continued to live with Lisa, appeared to be
+“very happy” in her caregivers’ home, and had formed a close
+relationship with other nearby paternal relatives. She had
+begun group counseling sessions at her school and was to
+resume individual therapy on February 3. M.Y. told the CSW
+she’d like to continue living with her caregivers.
+       Mother had three monitored visits with M.Y. during this
+reporting period: two at a park in December and one at mother’s
+treatment facility in January. No concerns were reported.
+Mother had not contacted M.Y. since she left the treatment
+facility on January 25, 2021, however. DCFS recommended
+the court terminate mother’s reunification services.
+       In a March addendum for the 18-month review hearing,
+DCFS reported that, on February 9, 2021, mother and her
+substance abuse counselor called and told the CSW mother
+had returned to Discovery House and was re-enrolled in its
+residential treatment program.8
+       On February 16, the CSW met with M.Y. and her
+caregivers to discuss mother’s return to treatment and the
+upcoming hearing. M.Y. said she wanted to continue to live with
+her caregivers but to have visits with mother. DCFS noted M.Y.
+seemed to like the stability and routine of her caregivers. M.Y.
+also enjoyed spending time with Kristen and paternal great aunt.
+
+8     A February 24, 2021 letter from the director of outpatient
+services confirmed mother voluntarily entered the residential
+treatment program from January 31 to February 22 and then
+was admitted to the outpatient program.
+
+
+
+
+                               13
+M.Y. was concerned she wouldn’t be able to see them if she lived
+with mother.
+       The CSW monitored two visits between mother and M.Y.
+at a park on February 21 and March 2, 2021. No concerns were
+reported. Mother was to have two-hour, weekly visits on Tuesday
+afternoons at the park. Mother also called M.Y. daily.
+       The court continued the March review hearing to May 2021
+for mother’s contest. DCFS updated the court on mother’s
+progress in an April 22, 2021 addendum. As of April 15, mother
+was a few weeks away from completing her 90-day program. She
+planned to move to a sober living home that accepted mothers
+with children. Mother’s sponsor told the CSW mother had gained
+insight into her past and now was taking responsibility for her
+actions after having been resistant at first. On April 21, 2021,
+mother’s outpatient program reported she was in good standing
+and all her drug tests had been negative. Mother was attending
+several 12-step meetings per week and demonstrated “a strong
+resolve to stay sober.” She also had resumed individual
+counseling on March 18. Mother continued to visit M.Y. weekly
+with no reported concerns.
+       For the May 5, 2021 review hearing, mother submitted
+letters of support from her counselor at Discovery House, her
+individual therapist, and her adult son. The son wrote a letter
+in support of her regaining custody of M.Y. Mother’s drug
+counselor and therapist described her positive progress in her
+recovery. The therapist also noted mother had been successfully
+addressing her grief from the deaths of her parents. Both noted
+mother was dedicated to M.Y. and to providing her with a safe
+and loving home. The therapist also concluded “a mutual caring,
+loving, and respectful relationship exists” between mother and
+
+
+
+
+                              14
+M.Y. She had observed mother and M.Y. together in two
+sessions, and in both had seen “a strong bond” between them,
+including their laughing and joking together.
+      The court found mother’s progress toward alleviating
+or mitigating the issues that led to M.Y.’s removal had been
+“substantial[ ] ([p]artial).” The court continued reunification
+services and set the matter for a section 366.25 hearing on
+September 21, 2021.
+6.    Termination of reunification services
+      In its status review report filed August 25, 2021, DCFS
+noted M.Y.’s wishes—to remain in paternal cousin’s home
+but be able to visit mother—had not changed. In July, when
+the CSW probed M.Y. about her “worries and wishes,” M.Y.
+expressed concerns “ ‘about Court’ ” and “ ‘going back home
+to my mom’s.’ ” She said she wanted “ ‘to stay at Lisa’s.’ ”
+On further questioning, M.Y. explained she was worried about
+mother “ ‘possibly getting back on drugs’ ” or “ ‘los[ing] our
+apartment or house again.’ ” M.Y. gave the CSW consent to tell
+the court she had “ ‘really big worries’ about living with mother.”
+      Mother had been living at a sober living facility since
+the end of February 2021. She planned to move to a different
+sober living facility for families on September 1, in anticipation
+of M.Y. living with her. Mother expected to graduate from her
+program soon. Mother continued to attend several meetings
+each week and to consult with her sponsors. Mother’s counselor
+reported she tested randomly for drugs 43 times during her
+outpatient program and each test had been negative.
+      Mother consistently visited M.Y. At the beginning of July
+2021, mother’s weekly visits with M.Y. were extended by an hour.
+The monitor continued to report no concerns. Mother and M.Y.
+
+
+
+
+                                15
+“appear[ed] to get along well and have an enjoyable time during
+their visits.”
+       Mother appeared “to be doing well in her sobriety,” and
+continued “to have heavy support from her sponsor, drug
+counselor, and sober living program.” The report went on,
+however, to describe mother’s “yo-yo pattern” of recovery and
+relapse, noting her struggle to remain sober after completing
+each treatment program had resulted in the detention and
+re-detention of her children. DCFS thus found the likelihood of
+mother relapsing—and the risk of harm to M.Y.—remained high.
+It recognized “the extraordinary efforts” mother made to regain
+sobriety but nevertheless recommended the court terminate
+reunification services.
+       At the September 21, 2021 hearing, the court found
+mother’s progress in alleviating or mitigating the issues
+requiring M.Y.’s placement had “not been substantial” and
+terminated mother’s reunification services. The court signed
+a stipulated attorney order, prepared by M.Y.’s counsel,
+that mother have six hours of weekly visitation with M.Y.:
+three hours monitored and three hours unmonitored—with
+conditions—in a public setting. The court gave DCFS discretion
+to liberalize visitation.
+7.     Permanency planning
+       DCFS’s section 366.26 report, filed December 30, 2021,
+summarized the type and frequency of visits between mother and
+M.Y. throughout the case; it included about 35 pages of visitation
+case notes. The visits were positive and M.Y. was happy to see
+and engage with mother. Mother played, sang, danced, and
+exercised with M.Y., read with her and helped her with
+homework, brought her gifts, activities, and healthy snacks,
+
+
+
+
+                                16
+encouraged and asked about her, attended to her needs and
+comforted her, appropriately disciplined and redirected her,
+and generally interacted positively with her. M.Y. and mother
+were affectionate with and expressed their love for one another.
+DCFS intended to liberalize mother’s second weekly visit from
+monitored to unmonitored, beginning in January, as she had
+been doing well and continued to test negative.
+      The report also included DCFS’s analysis of the
+inapplicability of the beneficial parent relationship exception
+to adoption. DCFS found there was “no doubt that mother and
+child are bonded.” Nevertheless, it “question[ed]” how mother’s
+interaction with M.Y. could “rise to the level of a parental role
+through weekly brief visits in the park.” (Bold type omitted.)
+      The analysis included M.Y.’s earlier statements that she
+had concerns about living with mother and wanted to stay with
+her caregivers “ ‘because she likes her home, her life, her school
+and does not want to leave.’ ” M.Y. had said she “loves her
+mother[ ] and is ‘worried’ about returning to live with her mother,
+because ‘What if she starts doing drugs again? What if she loses
+our house again? What happens to me?’ ” DCFS found M.Y.
+thus “d[id] not view mother as a safe, stable, parental figure
+in her life.”9
+      DCFS recommended adoption by the current caregiver as
+M.Y.’s permanent plan: “[M.Y.] is very attached to her caregiver,
+
+9     In an addendum filed January 11, 2022, DCFS noted,
+under a heading about the child’s statement about the
+prospective adoption, “The child is too young and not required
+to make a statement.” M.Y. was a few months shy of her tenth
+birthday at the time.
+
+
+
+
+                                17
+who is eager to provide a permanent, nurturing and stable home
+for her through adoption. [¶] . . . The child has demonstrated a
+strong, loving bond with caregivers.” The caregivers intended
+to support “ongoing contact” between mother and M.Y., as long
+as mother maintained sobriety.
+        On January 10, 2022, mother filed a section 388 petition.
+She asked the court to reinstate reunification services,
+return M.Y. to her custody when she found housing, or order
+unmonitored visits for nine hours each week, with overnight
+visits when mother secured housing. Mother attached various
+letters of support, her own statements, and a 2020 permanency
+planning report that noted M.Y. said “she would like to go home
+with her mother, but that she likes living with Lisa [and her
+husband] and wants to stay there if she does not go back home
+to the mother.” The court set a hearing on mother’s petition
+and M.Y.’s permanent plan for February 23, 2022, which
+ultimately was continued to March 23, 2022.
+        DCFS responded to the section 388 petition in an interim
+report filed February 14. A DI spoke to M.Y. about mother’s
+petition. M.Y. responded, “ ‘I want to stay with Lisa.’ ” M.Y.
+“ ‘fe[lt] safer with her.’ ” The DI asked M.Y. about her visits
+with mother. She said, “ ‘They are fine[;] we visit only in parks.’ ”
+M.Y. said she felt safe visiting with mother but “ ‘only if [the
+visits] are in the parks near the home.’ ” The DI asked M.Y.
+how she felt about mother wanting to reunify with her. M.Y.
+“looked down and became quiet. She [then] looked up and
+appeared hesitant,” stating, “ ‘I only want to visit with my
+mom[,]’ ” adding, “ ‘Will you make sure my mom does not
+know it is from me[?]’ ” The child clarified she was not afraid
+of mother; rather, she did not want to hurt mother’s feelings.
+
+
+
+
+                                 18
+M.Y. reiterated she wanted “ ‘to stay with Lisa and visit my
+mom.’ ” The DI also spoke to Lisa, who relayed that M.Y. “ ‘loves
+her mom but she worries about going back. She is worried that
+her mother is uncertain.’ ”
+      According to the report, the next day the CSW gave
+the DI a letter M.Y. wanted to give to the judge. She wrote,
+“ ‘Dear Jadge Can you stop givieng more and more expanding
+the time Make a dison soon Love, [M.Y.]’ ”10 M.Y. apparently
+had given the note to the CSW the month before.
+      The DI interviewed mother by telephone. Mother had been
+clean for over a year, had completed her programs, and was living
+with a friend while wait-listed for housing. Mother admitted she
+was in contact with father, however, and they believed Lisa was
+“ ‘a monster.’ ” Mother accused Lisa of lying and blocking contact
+between M.Y. and father and her brothers. She insisted Lisa
+would “ ‘cut [her] off’ ” from M.Y. if adoption were granted.
+Mother accused DCFS of failing to consider the strength of her
+bond with M.Y. The DI also contacted mother’s former neighbors
+and “sober living sister.” They described mother’s bond with
+M.Y. and perseverance in maintaining her sobriety.
+      DCFS “strongly recommend[ed]” the court honor M.Y.’s
+wishes and deny mother’s section 388 petition, and the
+permanent plan of adoption “go forward.” In a last minute
+information, DCFS reproduced a text message mother had
+sent Lisa, essentially accusing her of having manipulated M.Y.
+to write the letter to the court. Mother called Lisa a “f---ing
+
+
+10     The copy of the note attached to the report cuts off after the
+“ex” in “expanding.”
+
+
+
+
+                                 19
+monster,” declared they were “open enemies,” and accused Lisa
+of dissolving M.Y.’s “entire family of origin.”
+8.     Combined section 388 and section 366.26 hearing
+       DCFS filed its final status review report on March 8, 2022.
+It noted M.Y. was happy and comfortable living with Lisa and
+her husband, and had “a strong bond with the prospective
+adoptive parents.” M.Y. had made progress in school, where
+she attended weekly group counseling sessions. Lisa had not
+reported any concerns about M.Y.’s mental or emotional health.
+       At the combined hearing on March 23, the court admitted
+into evidence DCFS’s reports with attachments and took judicial
+notice of the case file, as well as the file in the earlier dependency
+case. Mother did not object. The court also admitted mother’s
+exhibits: mostly letters from friends, relatives in Oregon, her
+doctor and therapist, and personnel from her treatment program.
+       Mother testified in support of her section 388 petition
+and M.Y.’s permanent plan. She spoke about completing her
+treatment program, her continued participation in aftercare,
+and her living arrangements. She also testified about her bond
+with M.Y. and her twice weekly visits with M.Y. in the park—
+both unmonitored since January 2022. Mother described her
+interactions with M.Y. during those visits and their nightly calls.
+She also testified about attending M.Y.’s doctor’s appointment
+and participating in a telephonic teacher-parent conference.
+Mother wanted to remain involved in M.Y.’s life even if M.Y.
+continued to live with Lisa. She believed she could provide M.Y.
+with continued emotional support. Mother also addressed her
+concerns about M.Y.’s caretakers.
+       After mother testified, the court heard argument on
+the section 388 petition and denied it. The court commended
+
+
+
+
+                                 20
+mother on her hard work to maintain her sobriety but found
+her circumstances were still changing, and it was not in M.Y.’s
+best interest to offer more reunification services.
+       As to M.Y.’s permanent plan, mother’s counsel argued the
+beneficial parent relationship exception to adoption applied and
+asked the court to order DCFS to assess legal guardianship as
+M.Y.’s permanent plan. Counsel argued mother had visited M.Y.
+regularly, and mother’s interactions with M.Y. were beneficial
+to M.Y. As to detriment to M.Y.—the final element of the
+exception—counsel explained the court must assume M.Y.
+would never see mother again if parental rights were terminated.
+Counsel noted M.Y. consistently asserted she wanted to continue
+visiting mother and argued it would not be in M.Y.’s best interest
+to “terminate mother’s parental rights and to cut off this loving,
+caring parental relationship.”
+       M.Y.’s counsel, who also represented M.Y. in her first
+dependency case, asked the court to terminate parental rights.
+Counsel acknowledged mother and M.Y. had “really great visits,”
+but the visitation notes did not indicate M.Y. had a “substantial,
+positive emotional attachment to her mother.” Counsel
+noted M.Y. never had issues ending visits and never asked
+for more extensive visits with mother. Counsel argued M.Y.
+had expressed “time and time again, throughout the last two
+years, that she doesn’t want to live with her mom. She wants
+to be adopted and have a more stable, predictable childhood.”
+DCFS’s counsel joined in minor’s counsel’s arguments, adding
+the unmonitored visits had been very limited and in a structured
+setting, and mother’s recent behavior of lashing out at the
+caretakers seemed to be placing M.Y. at risk.
+
+
+
+
+                                21
+       The court agreed mother had visited M.Y. consistently
+and loved M.Y. But, the court noted, M.Y. had been removed
+once before, followed by a period of instability while in parents’
+care due to their substance abuse and unstable housing. The
+court also noted M.Y. had been out of mother’s care for the past
+two and a half years. The court continued,11
+                   “And I do agree that although mother
+             has had good visits, and the child seems to
+             enjoy those visits, they’ve been in a structured
+             setting and have been limited in terms of their
+             time that they’ve been able to spend together,
+             and I don’t see any evidence that shows such
+             a substantial, emotional positive attachment
+             that would satisfy prong two.
+                   “The court is also noting that [M.Y.]
+             does not want to return to her mother. She has
+             not even asked for more time with her mother
+             other than what has been ordered by the court.”
+       The court did not give great weight to mother’s therapist’s
+letter about the bond between mother and M.Y., noting the
+therapist’s limited contact with M.Y.12 The court continued,
+“And I’m also noticing [M.Y.’s] desire for permanency and
+
+
+11    Mother became upset and repeatedly interrupted the court
+during its ruling. She left the courtroom before the court
+finished.
+12   M.Y.’s counsel had argued the therapist, who was not a
+bonding expert, was not qualified to determine mother and M.Y.
+shared a bond, having observed them together only twice.
+
+
+
+
+                                22
+stability, which her parents have not been able to give her, so far,
+and she’s been getting with the caregiver; and the anxiety and
+the worries that she has about living with her mother, her
+mother relapsing again and . . . not knowing what her housing
+situation is going to be like.”
+       Finally, as to detriment, the court did “not find that the
+termination of this [parent-child] relationship outweigh[ed]
+the potential benefit to [M.Y.] being adopted.” The court found
+any harm “or trauma” M.Y. may experience from the termination
+of the relationship with mother “is outweighed by the benefits
+of stability and permanency provided by her current caregivers.”
+The court recognized M.Y. knew mother was her mother but
+explained M.Y. also knew “what it’s been like living with her
+mother and father, and that has, in the past, been very uncertain
+and traumatic and unstable.”
+       Accordingly, the court found mother had failed to
+demonstrate the second and third prongs of the beneficial
+parent relationship exception to adoption. Specifically, mother
+had maintained regular visitation but “the benefit accruing to
+the child from the relationship with the parent is outweighed by
+the physical and emotional benefit the child will receive through
+the permanency and stability of adoption and that adoption is in
+the best interests of the child.” Finding M.Y. was adoptable and
+no exception to adoption applied, the court terminated mother’s
+and father’s parental rights and designated the current caregiver
+as the prospective adoptive parent. Mother appealed.13
+
+
+13    In her opening brief, mother states this appeal addresses
+only the order terminating parental rights.
+
+
+
+
+                                23
+9.     Facts relating to ICWA
+       On August 19, 2019, father signed and filed an ICWA-020
+form indicating he had “no Indian ancestry as far as [he] kn[e]w.”
+At the detention hearing, the court confirmed with father that
+he had no Indian ancestry. The court found it had no reason
+to know ICWA applied as to father. Father also told the
+investigator, in September 2019, he had no Indian ancestry.
+       As to mother, an ICWA-010(A) form attached to the
+August 16, 2019 petition stated DCFS questioned mother on
+August 12 about the child’s Indian status. The form states,
+“Mother reports the maternal grandmother is Cherokee Indian.
+On 9/20/12, the Court found ICWA does not apply.” The
+detention report included a similar note, adding, “Mother stated
+that she is not certain if the child is registered with the Tribe.”
+       On October 2, 2019, mother told the DI that she had no
+American Indian ancestry. The October 10 jurisdiction report
+stated ICWA “does or may apply.” The report again noted that,
+in September 2012, the court had found ICWA did not apply to
+M.Y.
+       Mother signed and filed an ICWA-020 form on October 11,
+2019, indicating she had “no Indian ancestry as far as [she]
+kn[e]w.” At mother’s arraignment that same day, the court
+noted mother had indicated she had no Indian ancestry and
+found ICWA did not apply as to her. DCFS’s subsequent status
+review report noted the court found it had no reason to know
+M.Y. is an Indian child as defined under ICWA and had not
+ordered notice to any tribe or the Bureau of Indian Affairs (BIA).
+       A June 20, 2011 minute order from the earlier dependency
+case, of which the court took judicial notice at the disposition
+
+
+
+
+                                24
+hearing,14 states that, on May 6, 2011, the court had ordered
+ICWA notices be sent to two “other” Cherokee tribes. The court
+already had received responses to ICWA notices from the BIA
+and Cherokee Nation Oklahoma, and now had responses from
+the United Keetowah tribe, Eastern Band Cherokee, and
+Cherokee Nation Oklahoma. The court found the ICWA notices
+were “proper and complete,” and the child—one of M.Y.’s older
+full siblings—did not “fall within the provisions of the ICWA
+statute,” and the court had “no reason to know the child [was]
+an Indian child as defined by [ICWA].” The court found ICWA
+did not apply.15
+                           DISCUSSION
+1.     The court did not err in terminating mother’s
+       parental rights
+       a.    Applicable law and standards of review
+       Under section 366.26, once the juvenile court terminates
+reunification services and determines a dependent child is
+adoptable—a finding not in dispute here—it must select adoption
+as the permanent plan and terminate parental rights unless
+it finds doing so would be detrimental to the child under one
+of several statutory exceptions. (§ 366.26, subd. (c)(1); Caden C.,
+supra, 11 Cal.5th at pp. 630–631.)
+       The beneficial parent relationship exception applies
+where the parent has “maintained regular visitation and contact
+
+
+14    The court also took judicial notice of the judicial file of the
+earlier case at the section 366.26 hearing.
+15   That minute order relates to the hearing at which the court
+terminated parents’ rights to M.Y.’s full sibling T.Y.
+
+
+
+
+                                  25
+with the child and the child would benefit from continuing the
+relationship.” (§ 366.26, subd. (c)(1)(B)(i).) Our Supreme Court
+recently clarified the three elements a parent must prove, by
+a preponderance of the evidence, to establish the exception:
+(1) the parent’s regular visitation and contact with the child;
+(2) the child’s “substantial, positive, emotional attachment to
+the parent,” “the continuation of which would benefit the child”;
+and (3) that the termination of “that attachment would be
+detrimental to the child even when balanced against the
+countervailing benefit of a new, adoptive home.” (Caden C.,
+supra, 11 Cal.5th at pp. 631, 636.)
+       In assessing whether terminating parental rights would
+be detrimental to the child, the court must perform a “case-
+specific inquiry,” asking, “does the benefit of placement in a new,
+adoptive home outweigh ‘the harm [the child] would experience
+from the loss of [a] significant, positive, emotional relationship
+with [the parent?]’ [Citation.] When the relationship with a
+parent is so important to the child that the security and stability
+of a new home wouldn’t outweigh its loss, termination would be
+‘detrimental to the child due to’ the child’s beneficial relationship
+with a parent.” (Caden C., supra, 11 Cal.5th at pp. 633–634.)
+       “A showing the child derives some benefit from the
+relationship is not a sufficient ground to depart from the
+statutory preference for adoption.” (In re Breanna S. (2017)
+8 Cal.App.5th 636, 646, disapproved on another ground in
+Caden C., supra, 11 Cal.5th at pp. 637–638, fns. 6–7.) Rather,
+the parent must show the relationship “promotes the well-being
+of the child to such a degree as to outweigh the well-being
+the child would gain in a permanent home with new, adoptive
+parents.” (In re Autumn H. (1994) 27 Cal.App.4th 567, 575.)
+
+
+
+
+                                 26
+       In evaluating the existence of a beneficial parental
+relationship, courts consider several factors, including “[t]he age
+of the child, the portion of the child’s life spent in the parent’s
+custody, the ‘positive’ or ‘negative’ effect of interaction between
+parent and child, and the child’s particular needs.” (In re
+Autumn H., supra, 27 Cal.App.4th at p. 576.) The Caden C.
+court clarified, however, that a parent’s failure to make adequate
+progress with her case plan or “continued struggles” with issues
+that led to the dependency—standing alone—do not preclude
+application of the exception. (Caden C., supra, 11 Cal.5th at
+pp. 637–638.)
+       We review the court’s findings as to whether the parent
+has maintained regular visitation and whether the child
+would benefit from continuing the parent-child relationship
+for substantial evidence. (Caden C., supra, 11 Cal.5th at pp. 639–
+640.) In so doing, we do “ ‘not reweigh the evidence, evaluate
+the credibility of witnesses, or resolve evidentiary conflicts,’ ” and
+we will uphold the juvenile court’s determinations even where
+substantial evidence to the contrary also exists. (Id. at p. 640.)
+Where, as here, a parent contends the court erred in finding she
+did not meet her burden of proof, we must determine whether
+“the evidence compels a finding in favor of the appellant as a
+matter of law. [Citations.] Specifically, the question becomes
+whether the appellant’s evidence was (1) ‘uncontradicted and
+unimpeached’ and (2) ‘of such a character and weight as to leave
+no room for a judicial determination that it was insufficient to
+support a finding.’ [Citation.]” (In re I.W. (2009) 180 Cal.App.4th
+1517, 1528, disapproved on another ground in Conservatorship
+of O.B. (2020) 9 Cal.5th 989, 1003, fn. 4, 1010, fn. 7.)
+
+
+
+
+                                 27
+       “[T]he ultimate decision—whether termination of parental
+rights would be detrimental to the child due to the child’s
+relationship with [her] parent—is discretionary and properly
+reviewed for abuse of discretion.” (Caden C., supra, 11 Cal.5th
+at p. 640.)
+       b.     The court did not err in finding the beneficial parent
+              relationship exception did not apply
+       It is undisputed mother regularly visited M.Y., as the
+court found. As to the second and third elements, the court
+found mother had not demonstrated her parent-child relationship
+with M.Y. was so substantial and positive that its termination
+would be detrimental to M.Y. The court found that any “trauma”
+or detriment M.Y. may experience from its loss was outweighed
+by the benefits of stability and permanence M.Y. would receive
+through adoption.
+       Mother contends the court relied on improper factors under
+Caden C., including considering M.Y.’s earlier dependency case,
+“inferring that [m]other’s sobriety problems were ongoing,”
+failing to consider the parent-child relationship within the
+visitation that had been allowed, and comparing mother’s bond
+to M.Y.’s bond with her caregivers through their day-to-day
+interaction. Mother also argues that, because DCFS never
+asked M.Y. how she felt about being adopted and the possibility
+of not seeing mother again, the juvenile court could not properly
+have weighed the detriment to M.Y. from severing the parent-
+child relationship against the benefits of adoption.
+       The record demonstrates mother and M.Y. had consistently
+positive visits—most recently, twice a week, usually at a park,
+for two to three hours. Mother and M.Y. also talked on the phone
+or by FaceTime almost daily. DCFS and its counsel, M.Y.’s
+
+
+
+
+                                28
+counsel, and the court all agreed mother’s visits with M.Y were
+positive—“great” even—and M.Y. enjoyed them. DCFS also had
+reported there was “no doubt that mother and child are bonded.”
+       M.Y.’s counsel argued, however, the visitation notes did
+not demonstrate M.Y. had a “substantial, positive emotional
+attachment to her mother.” Counsel noted M.Y. “was perfectly
+fine leaving the visits” and had “never asked the worker, her
+mom, her caregiver[,] or even [counsel] for more time with her
+mom, for overnight visits, for weekend visits, for [a] longer
+period[ ] of time rather than those two to four hours a week.”
+Counsel argued M.Y.—who was almost 10 years old and could
+voice her desires to the CSW—had “not once questioned those
+visits, and why she’s not getting more.” DCFS’s counsel added
+mother had only three hours of unmonitored visits a week, and
+asserted, “it’s very hard to build a true bond with the minor
+in such a short, limited structured setting.”
+        The court agreed with counsel that the visits were positive
+but had been “in a structured setting” and “limited” in terms of
+the time mother and M.Y. were able to spend together. The court
+found the evidence did not show “such a substantial, emotional
+positive attachment that would satisfy prong two.”
+       We agree with mother the evidence describing her
+visits with M.Y. demonstrated she and M.Y. shared a positive
+relationship that benefitted M.Y. Contrary to DCFS’s
+questioning of how mother’s interaction with M.Y. during
+visits in the park could “rise to the level of a parental role,”
+the monitor’s notes show mother in fact parented M.Y. during
+their visits. (See, e.g., In re J.D. (2021) 70 Cal.App.5th 833, 856–
+857 [visitation logs demonstrated mother acted in parental role
+during visits by comforting child, encouraging him, teaching him,
+
+
+
+
+                                29
+setting limits, and expressing love and affection].) Mother also
+went to M.Y.’s doctor’s appointment and participated in a parent-
+teacher conference. And, as the court acknowledged, M.Y. knew
+mother was her mother. The visitation logs reflect M.Y. called
+mother “ ‘mommy,’ ” appeared happy and comfortable with
+mother, and looked forward to visits.
+       That their visits were structured and limited to a few hours
+each visit, does not—on its own—support a finding M.Y. did not
+have a positive emotional attachment to mother or that she
+would not benefit from continuing their relationship. As our
+high court explained, “it is not necessary—even if it were possible
+—to calibrate a precise ‘quantitative measurement of the specific
+amount of “comfort, nourishment or physical care” [the parent]
+provided during [his or] her weekly visits’ ” in assessing whether
+“ ‘the child would benefit from continuing the relationship.’ ”
+(Caden C., supra, 11 Cal.5th at p. 632.) Although mother’s visits
+with M.Y. were limited to a setting primarily conducive to play––
+and M.Y. described the visits as “fun”––the logs show mother
+engaged with M.Y. on a level beyond that of a “friendly visitor.”
+(In re Katherine J. (2002) 75 Cal.App.5th 303, 318–319.)
+       Further, the record shows M.Y., who had spent at least
+half her life with mother, derived a benefit from their continued
+relationship. Even when M.Y. was emphatic that she did not
+want to return to mother’s care, she clearly—and repeatedly—
+expressed her wish to continue visits with mother.
+       M.Y.’s counsel noted M.Y nevertheless was perfectly fine
+leaving her visits with mother. True, but the case notes indicated
+M.Y. became upset or was disappointed when mother had to take
+calls from her sponsor and her attorney during visits, as well as
+when mother told M.Y. she would have to reschedule a visit due
+
+
+
+
+                                30
+to the monitor’s unavailability. When M.Y. learned there would
+be a makeup visit, the monitor described her as “giddy.”
+       And, as mother notes, contrary to DCFS’s assertions and
+M.Y.’s counsel’s argument at the hearing—repeated by the court
+—M.Y. did ask for more visits with mother, at least once, in the
+first year of her dependency. As evidenced in DCFS’s section
+366.26 report, in July 2020, M.Y. told the CSW “ ‘she would like
+to see her mother more [often].’ ” The CSW responded “ ‘she
+would like that too, but that . . . mother worked a lot.’ ” Around
+that time, M.Y. also said she wanted to live with mother or
+have mother live with her and her caregivers. In May 2020,
+M.Y. had told the CSW she liked having unmonitored visits
+with mother “ ‘because it could just be her and her mother.’ ”
+Nevertheless, there is no evidence M.Y. asked about more
+time with, or living with, mother over the next year and a half,
+as the dependency continued, and mother relapsed.
+       In any event, to the extent the court erred in finding
+mother and M.Y. did not share “such a substantial, emotional
+positive attachment” (italics added) because their visits were
+limited in nature and structure, that error is harmless. That
+mother’s relationship with M.Y. may have met the threshold
+of constituting a “substantial, positive, emotional attachment”
+does not mean M.Y.’s attachment to mother was of such a
+degree as to outweigh the benefits of adoption. The court
+here specifically considered whether the harm of severing the
+parent-child relationship outweighed the benefits of stability
+and permanency that adoption would provide and found it
+did not. (Caden C., supra, 11 Cal.5th at pp. 633–634 [termination
+of parental rights is “ ‘detrimental to the child due to’ the child’s
+beneficial relationship with a parent” when “the harm of severing
+
+
+
+
+                                 31
+the relationship outweighs ‘the security and the sense of
+belonging a new family would confer’ ”].)
+       As the record demonstrates the court did not base its
+evaluation of the strength of M.Y.’s emotional attachment
+to mother on the limited nature of their visits alone—which we
+address below—we are convinced the court properly examined
+the degree of that attachment when finding the termination
+of mother’s parental rights would not be detrimental to M.Y.,
+as compared to the benefits of adoption. Nor did the court run
+afoul of the directives in Caden C. in so finding, as we discuss.
+(Cf. In re B.D. (2021) 66 Cal.App.5th 1218, 1228 [remanding
+for new section 366.26 hearing where record did not convince
+reviewing court that juvenile court examined the nature of
+the relationship before the dependency or visits during the
+proceeding, and the court relied on improper factors in finding
+lack of substantial, positive, emotional attachment].)
+       The court also considered “the overall impact mother’s
+past behavior had on [M.Y.].” (Cf. In re J.D., supra, 70
+Cal.App.5th at p. 863 [remanding in part because record
+contained “no assessment of the overall impact mother’s
+past behavior had on” child where juvenile court did not have
+the benefit of Caden C. when it found the beneficial parental
+relationship exception did not apply].) Addressing M.Y.’s
+relationship with mother before the current dependency,
+the court noted that period was “unstable and rocky due to
+the parents’ substance abuse issues and unstable housing.”
+The record supports the court’s observation. Even before DCFS
+became reinvolved with the family in August 2019, M.Y. had
+experienced instability and been intermittently out of mother’s
+care. When parents became homeless in 2018, M.Y. spent
+
+
+
+
+                                32
+nights in Lisa’s home while parents stayed in a camper out front.
+Mother relapsed, was homeless again, and left M.Y. with
+relatives in Oregon. After returning to California, M.Y. and
+mother stayed with a relative and then lived in different hotel
+rooms. M.Y. did not understand why she left Oregon.
+       These events clearly traumatized M.Y. The court noted
+M.Y.’s anxieties. M.Y. feared mother would relapse and again
+lose her housing. Given M.Y.’s repeated concerns and express
+desire not to return to mother’s care, the court reasonably could
+infer mother’s pattern of sobriety and relapse, and continued
+inability to find stable housing, negatively affected M.Y.’s
+emotional attachment to mother, or at least diluted the strength
+of that attachment. (See Caden C., supra, 11 Cal.5th at p. 634
+[“[i]n many cases ‘the strength and quality of the natural parent/
+child relationship’ will substantially determine how detrimental
+it would be to lose that relationship, which must be weighed
+against the benefits of a new adoptive home”].)
+       Contrary to mother’s contention, the court’s consideration
+of mother’s struggles was not impermissible under Caden C.
+While a parent’s issues are not “a categorical bar” to applying
+the beneficial parent relationship exception, Caden C. made clear
+that “a parent’s struggles with substance abuse, mental health
+issues, or other problems could be directly relevant to a juvenile
+court’s analysis in deciding whether termination would be
+detrimental.” (Caden C., supra, 11 Cal.5th at pp. 637, 639.)
+The court here considered how mother’s issues that led to the
+dependency and termination of reunification services affected
+M.Y.’s relationship with mother. In other words, mother’s
+struggles informed the court’s analysis as to whether M.Y.
+would “benefit from continuing the relationship and be harmed,
+
+
+
+
+                                33
+on balance, by losing it”—a question to which a parent’s case
+issues are relevant under Caden C. (Id. at p. 638.)
+      We also can infer from the record that the court considered
+how M.Y. “would be affected by losing the parental relationship”
+when it determined any harm M.Y. might experience was
+outweighed by the benefits she would receive through adoption.
+(Caden C., supra, 11 Cal.5th at p. 633.) The court noted M.Y.
+desired permanency and stability, which her parents had been
+unable to give her, but that she had been getting from her
+caregivers. The court commented on “the anxiety and the worries
+[M.Y.] has about living with her mother,” as well as the fact M.Y.
+did not want to return to mother and had not asked for more time
+with her.16
+      As an initial matter, we do not view the court’s remark
+as improperly “comparing the parent’s attributes as custodial
+caregiver relative to those of any potential adoptive parent(s).”
+(Caden C., supra, 11 Cal.5th at p. 634.) Rather, the court was
+assessing the importance to M.Y.’s wellbeing of permanence
+and stability. That assessment directly related to the court’s
+evaluation of whether any harm M.Y. would experience if mother
+no longer were in her life outweighed those benefits M.Y. would
+receive from adoption. (Ibid.)
+      Substantial evidence supports the juvenile court’s finding
+that the benefits of adoption—permanency and stability—
+outweighed the benefit M.Y. would receive from maintaining her
+parental relationship with mother. As DCFS’s reports and the
+
+16     M.Y. asked for more time with mother at one point in 2020,
+but there is no evidence that she asked for more visits, or a
+different arrangement, after that.
+
+
+
+
+                               34
+court noted, M.Y. decidedly did not want to reunify with mother
+and repeatedly expressed her anxiety about returning to mother’s
+care. She wanted permanency. She consistently stated she
+wanted to live with Lisa (and her husband). M.Y. felt “ ‘safer
+with her.’ ” Yet, she didn’t want mother to know her wishes
+so as not to hurt her feelings. M.Y.’s caregivers in turn were
+committed to giving her a stable, permanent home. Mother
+presented no evidence they could not provide for M.Y.’s needs
+other than to testify to “minor” concerns she had about their
+not taking seriously M.Y.’s predisposition toward diabetes and
+sun sensitivity inherited through mother’s family. Moreover,
+the court found credible M.Y.’s letter to the court, describing it
+as “calling out for . . . a decision . . . and . . . to be able to have
+a stable environment where she knows what’s going to happen
+from day-to-day.”
+       Undisputedly, M.Y. also consistently said she wanted to
+have visits with mother. She wanted “ ‘to stay with Lisa and
+visit my mom.’ ” Mother contends the court failed to consider
+the detrimental effect terminating her parental rights would
+have on M.Y. given her desire to continue to visit mother, even
+if she stayed with Lisa. Mother argues that, because DCFS failed
+to ask M.Y. about adoption––that it could mean never seeing
+mother again—as opposed to with whom she wanted to live,
+the court could not properly assess whether terminating parental
+rights would be detrimental to M.Y. when balanced against the
+benefits of adoption.17
+
+
+17    Mother’s counsel seems to contend DCFS purposefully
+did not ask M.Y. about her feelings about adoption—stating
+she was too young to make a statement on the subject––
+
+
+
+
+                                  35
+      We disagree. DCFS’s reports were before the court. It was
+aware M.Y. wanted to visit mother. We can infer it took M.Y.’s
+wishes into account when considering possible detriment from
+losing her relationship with mother. Moreover, although M.Y.
+wanted to visit mother, she wanted to do so within limited
+parameters. In the month before the section 366.26 hearing,
+the social worker asked M.Y. if she felt safe visiting mother.
+M.Y. responded, “Yes, only if they [the visits] are in the parks
+near the home.” In other words, M.Y. felt comfortable having
+temporary contact with mother only in a neutral setting close
+to her caregivers.
+
+
+“to . . . avoid allowing [M.Y.] to repeat her wishes to keep visiting
+with mother.” We disagree. DCFS fully documented M.Y.’s
+wish to visit with mother. We find it curious DCFS deemed M.Y.
+unable to state her feelings about adoption given her other
+statements. Indeed, M.Y.’s counsel argued M.Y. was old enough
+to make her wishes known to the CSW. But the record does
+not support counsel’s insinuation.
+        We agree with mother, however, that DCFS’s “assessment”
+in its section 366.26 report of the inapplicability of the beneficial
+parent relationship exception—and other areas of DCFS’s reports
+—took on the role of an advocate rather than an objective
+reporter. Nor, as mother asserts, did the analysis always abide
+by the directives in Caden C. Nothing suggests the juvenile court
+blindly followed that analysis, however. We have concluded the
+court adhered to Caden C. in assessing whether termination of
+parental rights would be detrimental to M.Y. Moreover, at the
+hearing, mother’s counsel went through what the court was and
+was not to consider under Caden C., M.Y.’s counsel discussed
+Caden C. and one of its progeny, and the court itself referred
+to Caden C. when issuing its ruling.
+
+
+
+
+                                 36
+       Thus, the juvenile court implicitly found that, even if M.Y.
+were upset if she could not see mother again, her statements
+demonstrated her emotional attachment to mother was not
+significant enough to cause detriment if severed when balanced
+against the security and sense of wellbeing M.Y. would gain
+from adoption by her caregivers of two and half years. (See
+In re Autumn H., supra, 27 Cal.App.4th at p. 575.) Mother’s
+testimony, and letters of support describing her bond with M.Y.,
+did not compel a different result. (In re I.W., supra, 180
+Cal.App.4th at p. 1528.) We will not reweigh that evidence.
+(Caden C., supra, 11 Cal.5th at p. 640.)
+       Finally, we address the notion that implementing legal
+guardianship as M.Y.’s permanent plan would preserve the
+parent-child relationship and ensure M.Y. continues to have
+visits with mother, while allowing M.Y. to remain with her
+caregivers. Even though M.Y.’s return to mother’s custody was
+not a consideration at this stage of the proceeding (Caden C.,
+supra, 11 Cal.5th at p. 638), the court reasonably could conclude
+that, unless adopted, M.Y. would continue to be plagued by
+her “ ‘big worries’ ” about returning to mother’s care. “The . . .
+Legislature recognized that, ‘Although guardianship may be a
+more stable solution than foster care, it is not irrevocable and
+thus falls short of the secure and permanent placement intended
+by the Legislature.’ ” (In re Beatrice M. (1994) 29 Cal.App.4th
+1411, 1419.) Accordingly, only through adoption could M.Y.
+be assured of receiving the stability and permanence she had
+“call[ed] out” to the court to provide her.
+       We commend mother on maintaining her sobriety, and we
+have no doubt mother and M.Y. love each other. But the issue
+here is not simply whether a bond existed between mother and
+
+
+
+
+                                37
+her daughter. (In re Anthony B. (2015) 239 Cal.App.4th 389, 396,
+disapproved on another ground in Caden C., supra, 11 Cal.5th at
+p. 638, fn. 7.) Rather, “[t]he question is whether that relationship
+remained so significant and compelling in [the child’s] life that
+the benefit of preserving it outweighed the stability and benefits
+of adoption.” (Ibid.) We cannot say the juvenile court abused
+its discretion in finding the benefit M.Y. received from her
+relationship with mother did not. Accordingly, the court did
+not err in finding the beneficial parent relationship exception
+inapplicable.
+2.     Any ICWA error is harmless
+       a.    Applicable law and standard of review
+       Congress enacted ICWA “ ‘to protect the best interests
+of Indian children and to promote the stability and security of
+Indian tribes and families by the establishment of minimum
+Federal standards for the removal of Indian children from their
+families and the placement of such children in foster or adoptive
+homes which will reflect the unique values of Indian culture.’ ”
+(In re Isaiah W. (2016) 1 Cal.5th 1, 7–8; see 25 U.S.C. § 1902.)
+Both ICWA and state law define an “ ‘Indian child’ ” as “any
+unmarried person who is under age eighteen and is either
+(a) a member of an Indian tribe or (b) is eligible for membership
+in an Indian tribe and is the biological child of a member of an
+Indian tribe.” (25 U.S.C. § 1903(4); § 224.1, subd. (a) [adopting
+federal definition].)
+       State law and federal regulations implementing ICWA
+require juvenile courts to ask all participants in a dependency
+case whether they know or have reason to know the child is
+an Indian child and to instruct the parties to inform the court
+“if they subsequently receive information that provides
+
+
+
+
+                                38
+reason to know the child is an Indian child.” (25 C.F.R.
+§ 23.107(a) (2022); § 224.2, subds. (b), (c); Cal. Rules of Court,
+rule 5.481(a)(2).18) The rules also require courts to order the
+parents to complete an ICWA-020 form. (Rule 5.481(a)(2)(C).)
+       Under California law, the juvenile courts and the child
+protective agencies, “(but not parents)[, have] an ‘affirmative and
+continuing duty to inquire’ whether a child in the dependency
+proceeding ‘is or may be an Indian child.’ ” (Benjamin M., supra,
+70 Cal.App.5th at pp. 741–742, quoting § 224.2, subd. (a).) That
+duty to inquire “begins with [the] initial contact . . . and obligates
+the juvenile court and child protective agencies to ask all relevant
+involved individuals whether the child may be an Indian child.”
+(In re T.G. (2020) 58 Cal.App.5th 275, 290, citing § 224.2, subds.
+(a)–(c).)
+       As of January 1, 2019, whenever DCFS takes a child
+into its temporary custody, its duty of initial inquiry “includes,
+but is not limited to, asking the child, parents, legal guardian,
+Indian custodian, extended family members, others who have
+an interest in the child, and the party reporting child abuse
+or neglect, whether the child is, or may be, an Indian child.”
+(§ 224.2, subd. (b); Benjamin M., supra, 70 Cal.App.5th at p. 742.)
+Extended family members include adults who are the child’s
+“grandparent, aunt or uncle, brother or sister, brother-in-law
+or sister-in-law, niece or nephew, first or second cousin, or
+stepparent.” (25 U.S.C. § 1903(2); § 224.1, subd. (c) [adopting
+federal definition].)
+       If that initial inquiry gives the juvenile court or DCFS
+a “reason to believe that an Indian child is involved,” then their
+
+18    References to rules are to the California Rules of Court.
+
+
+
+
+                                 39
+duty to “make further inquiry regarding the possible Indian
+status of the child” is triggered, which includes contacting,
+among others, the BIA and tribe(s). (§ 224.2, subd. (e) & (e)(2);
+Benjamin M., supra, 70 Cal.App.5th at p. 742.) And, once
+there is a “reason to know” an Indian child is involved, formal
+notice under ICWA must be given to the child’s “parents or
+legal guardian, Indian custodian, if any, and the child’s tribe.”
+(§ 224.3, subd. (a); rule 5.481(c)(1); 25 U.S.C. § 1912(a).)
+       The juvenile court may find ICWA does not apply to a
+child’s proceeding if it finds DCFS’s duty of inquiry has been
+satisfied and there is no reason to know that child is an Indian
+child. (§ 224.2, subd. (i)(2); rule 5.481(b)(3)(A).) The court’s
+finding that ICWA does not apply thus “ ‘ “implies that . . .
+social workers and the court did not know or have a reason to
+know the children were Indian children and that social workers
+had fulfilled their duty of inquiry.” ’ ” (In re Josiah T. (2021)
+71 Cal.App.5th 388, 401.)
+       We generally review the juvenile court’s ICWA findings
+for substantial evidence, “ ‘which requires us to determine if
+reasonable, credible evidence of solid value supports’ the court’s
+ICWA finding.” (In re Dezi C. (2022) 79 Cal.App.5th 769, 777
+(Dezi C.), review granted Sept. 21, 2022, S275578; cf. In re
+Ezequiel G. (2022) 81 Cal.App.5th 984, 1004–1005, review den.
+Nov. 22, 2022, S276223 [reviewing court’s finding that it had
+no reason to know a child is an Indian child for substantial
+evidence but reviewing decision that ICWA inquiry was
+adequate for abuse of discretion].)
+       b.    Analysis
+       Mother asserts the court erred when it did not
+independently inquire of mother to reconcile her initial claim of
+
+
+
+
+                                40
+Cherokee heritage, followed by her denial of it in her ICWA-020
+form. She argues that—despite DCFS’s reference to the court’s
+2012 finding that ICWA did not apply to M.Y.—“[i]t remains
+unknown why mother initially claimed . . . Cherokee Indian
+ancestry through maternal grandmother, and thereafter denied
+it.” Mother notes the ICWA inquiry requirements in 2011 and
+2012 were more limited than those in effect in 2019.
+       Mother also asserts error based on DCFS’s failure to ask
+extended family members with whom it had contact about M.Y.’s
+possible Indian ancestry: specifically, paternal cousins Kristen
+and Lisa, paternal great aunt and uncle, and maternal uncle
+in Oregon.
+       First, we see no error in the court not asking mother
+directly about her Indian status. Speaking to mother, the court
+stated, “[Y]ou’ve indicated in your ICWA-020 form that you
+do not have any Indian ancestry as far as you know; so the court
+is going to find that ICWA does not apply as to the mother.”
+Mother was present at the hearing and represented by counsel.
+Neither counsel nor mother corrected the court. The court’s
+minute order from that hearing also ordered mother to inform
+DCFS, her attorney, and the court if she learned of “any new
+information relating to possible ICWA status.” She never did.
+       More importantly, the record shows that, in connection
+with the earlier dependency case, the court had ordered, and
+DCFS had sent, notices to the Cherokee tribes and the BIA, all
+of whom had responded. The court found the notices were proper
+and complete and the responses indicated ICWA did not apply.
+The court here took judicial notice of the case file in the earlier
+case, including that order and finding. It is undisputed M.Y.
+and her siblings share the same biological parents. Thus, this
+
+
+
+
+                                41
+no-ICWA finding based on the BIA’s and Cherokee tribes’
+responses in 2011 applies equally to M.Y. despite her later birth.
+And, in 2012 the court found ICWA did not apply to M.Y. The
+earlier finding, combined with parents’ denials of Indian ancestry
+in the current case, provides substantial evidence to support the
+court’s finding that it had no reason to know M.Y. is an Indian
+child.
+       DCFS apparently did not ask M.Y.’s extended family
+members about her possible Indian status under section 224.2,
+subdivision (b). We conclude any purported error from DCFS’s
+failure to do so is harmless. (Cal. Const., art. VI, § 13 [state
+law error must result in “miscarriage of justice” to be set aside];
+Dezi C., supra, 79 Cal.App.5th at p. 779 [case will be returned
+to the juvenile court for error based on inadequate ICWA inquiry
+only if the error was prejudicial].) The appropriate standard
+to determine prejudicial error for a defective initial inquiry is
+pending before our Supreme Court. (Dezi C., S275578.)
+       The court in Dezi C. concluded an inadequate ICWA
+inquiry in these circumstances is prejudicial if “the record
+contains information suggesting a reason to believe that the
+child may be an ‘Indian child’ within the meaning of ICWA,
+such that the absence of further inquiry was prejudicial to the
+juvenile court’s ICWA finding.” (Dezi C., supra, 79 Cal.App.5th
+at p. 779; In re Ezequiel G., supra, 81 Cal.App.5th at p. 1014
+[majority adopts the Dezi C. “reason to believe” standard in
+assessing whether ICWA inquiry error is prejudicial in appeal
+from order terminating parental rights].) The Fourth District
+stated the rule for prejudice somewhat differently—that a
+defective initial inquiry requires reversal if “readily obtainable
+information that was likely to bear meaningfully upon whether
+
+
+
+
+                                42
+the child is an Indian child” existed. (Benjamin M., supra,
+70 Cal.App.5th at p. 744; see Dezi C., at p. 778.) We conclude
+any error here is harmless under either standard.
+       The court found it had no reason to know M.Y.’s full sibling
+was an Indian child after receiving responses from the BIA and
+Cherokee tribes. Moreover, remand here to inquire of M.Y.’s
+relatives would be futile. Maternal grandmother—the relative
+through whom the family’s Cherokee ancestry originally had
+been claimed—reportedly died during the proceedings. Mother’s
+biological father lives in Oregon, but he did not raise mother and
+likely would have no information about maternal grandmother’s
+heritage. Mother’s stepfather also is deceased. Nothing in the
+record suggests mother’s brother, who lives in Oregon, would
+have more information about M.Y.’s potential Indian ancestry
+than mother has or than already was revealed in the earlier
+dependency case. Nor does mother claim Indian heritage
+on appeal.
+       As for paternal relatives, nothing in the record suggests
+they had information about paternal Indian ancestry that father
+did not know about when he denied ancestry. The court asked
+father directly if his ICWA-020 statement denying Indian
+ancestry was correct. He unequivocally stated, “Yes.” Paternal
+cousin Lisa and paternal great aunt and uncle were in the
+courtroom. They did not contradict father or ask to be heard
+on the subject.
+       In short, it is neither “reasonably probable” that DCFS’s
+inquiry error “affected the correctness (that is, the outcome)
+of the juvenile court’s ICWA finding” (Dezi C., supra, 79
+Cal.App.5th at p. 781), nor is it likely further inquiry of extended
+family members would have produced information that “would
+
+
+
+
+                                 43
+have shed meaningful light” on the child’s Indian status
+(Benjamin M., supra, 70 Cal.App.5th at p. 744). Any purported
+error by DCFS in failing to inquire of extended family members
+here was thus harmless.
+                              DISPOSITION
+       The juvenile court’s order terminating parental rights
+is affirmed.
+
+      NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+
+
+
+                                   EGERTON, J.
+
+I concur:
+
+
+
+
+            NGUYEN (KIM), J.*
+
+
+
+
+*     Judge of the Los Angeles County Superior Court, assigned
+by the Chief Justice pursuant to article VI, section 6 of the
+California Constitution.
+
+
+
+
+                              44
+LAVIN, J., Dissenting:
+
+      For the reasons set forth in my dissent in In re Ezequiel G.
+(2022) 81 Cal.App.5th 984, 1015–1025, I would conditionally
+affirm the order terminating mother’s parental rights to her
+daughter M.Y. and remand for further proceedings. The
+Department of Children and Family Services could easily have
+asked the parents’ identified family members about the child’s
+possible Indian heritage and documented those efforts. It did not.
+Further, nothing in the record shows how those extended family
+members would have responded to questions about the child’s
+possible Indian heritage.
+
+
+
+
+                                          LAVIN, Acting P. J.

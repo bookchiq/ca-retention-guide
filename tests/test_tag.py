@@ -3,10 +3,14 @@
 from src import db, tag
 
 TOPICS = tag.load_keywords()
+# The default anchor-or-3-broad rule, tested on the search_seizure vocabulary without
+# that topic's own stricter tag_rule.
+DEFAULT_RULE = {k: {kk: vv for kk, vv in v.items() if kk != "tag_rule"}
+                for k, v in TOPICS.items()}
 
 
 def hits(text, topic="search_seizure"):
-    return tag.score(text, tag.compile_topics(TOPICS))[topic]
+    return tag.score(text, tag.compile_topics(DEFAULT_RULE))[topic]
 
 
 def test_single_anchor_tags():
@@ -45,6 +49,22 @@ def test_one_broad_term_matches_queue_but_not_tag():
 def test_prefix_term_matches_word_stem():
     h = hits("The agreement was procedurally unconscionable.", "arbitration")
     assert h.tagged
+
+
+def test_topic_tag_rule_requires_distinct_anchors_and_core_hits():
+    topics = {"t": {"anchors": ["search warrant", "motion to suppress", "warrantless"],
+                    "broad": ["detention"],
+                    "tag_rule": {"min_distinct_anchors": 2, "core_terms": ["motion to suppress"],
+                                 "min_core_hits": 2}}}
+    comp = tag.compile_topics(topics)
+    facts_only = tag.score("Officers obtained a search warrant.", comp)["t"]
+    assert not facts_only.tagged and facts_only.queue_match
+    one_core = tag.score("A search warrant issued. The motion to suppress was denied.", comp)["t"]
+    assert not one_core.tagged
+    litigated = tag.score("The search warrant was invalid, so the motion to suppress should "
+                          "have been granted; we reverse the order on the motion to suppress.",
+                          comp)["t"]
+    assert litigated.tagged
 
 
 def test_rerun_after_keyword_change_replaces_rows():

@@ -1,0 +1,499 @@
+cl_opinion_id: 4910478
+cluster: 5093093
+docket: C090373
+date: 2021-09-13
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. McKinney CA3
+----
+Filed 9/13/21 P. v. McKinney CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                         (Butte)
+                                                            ----
+
+
+
+
+    THE PEOPLE,                                                                                C090373
+
+                    Plaintiff and Respondent,                                     (Super. Ct. No. 17CF02821)
+
+           v.
+
+    SHEA BOVEE MCKINNEY,
+
+                    Defendant and Appellant.
+
+
+
+
+         Defendant Shea Bovee McKinney appeals a sentence of three years’ probation
+entered following his guilty plea to some charges and trial by jury on another. He argues
+insufficient evidence supports his conviction for resisting/deterring an executive officer
+from the performance of his duty (Pen. Code, § 69, subd. (a)) because the officer in
+question was engaged in unlawful conduct at the time of his resistance.1 Defendant
+further challenges the trial court’s imposition of certain fines and fees in contravention of
+
+
+
+1   Undesignated statutory references are to the Penal Code.
+
+                                                             1
+People v. Dueñas (2019) 30 Cal.App.5th 1157 (Dueñas), arguing any failure to raise the
+issue was ineffective assistance of counsel. Finally, defendant requests the reduction of
+his probation term in light of the amendments Assembly Bill No. 1950 (2019-2020 Reg.
+Sess.) (Assembly Bill 1950) made to section 1203.1 (Stats. 2020, ch. 328, § 2). The
+People concur that defendant is entitled to retroactive application of Assembly Bill 1950
+but oppose his remaining claims. We will remand the matter for the express purpose of
+allowing the trial court to modify defendant’s term of probation consistent with the
+passage of Assembly Bill 1950. The judgment is otherwise affirmed.
+                                   I. BACKGROUND
+       The People’s first amended complaint filed July 13, 2017, charged defendant with
+fleeing a pursuing peace officer while driving recklessly (Veh. Code, § 2800.2—count 1);
+resisting/deterring an executive officer in performance of his duties (§ 69, subd. (a)—
+count 2); possession of a short-barreled rifle or shotgun (§ 33210—count 3); and
+possession of a zip gun (§ 33600—count 4). Defendant pled not guilty.
+A.     The Motions to Suppress
+       Defendant moved to suppress (§ 1538.5) all tangible and intangible evidence
+arising from law enforcement’s unlawful contact, detention, arrest, and warrantless
+search of defendant (including officer observations) obtained in violation of the Fourth
+and Fourteenth Amendments to the United States Constitution. The People opposed this
+motion, arguing in pertinent part: (1) there was reasonable suspicion for the investigative
+stop; (2) following that stop, law enforcement had probable cause to investigate
+defendant’s compliance with marijuana laws given the strong smell of unburnt marijuana
+coming from the truck; and (3) defendant’s attempt to punch the officer and flight
+therefrom were intervening acts.
+       The hearing on defendant’s motion to suppress was held concurrent with the
+preliminary hearing. At that hearing, Butte County Sheriff Deputy Ian Dickerson
+testified to his contact with defendant for Vehicle Code violations, that he smelled a
+
+                                             2
+strong order of unburnt marijuana emanating from defendant’s truck, and that defendant
+denied there was any marijuana in the truck. Deputy Dickerson told defendant he was
+going to search the truck because he believed it contained “a large amount of marijuana.”
+The deputy wanted to confirm whether defendant was in compliance with marijuana
+regulations. At this point the stop devolved, the circumstances of which are not relevant
+to this appeal. Ultimately, defendant fled from the scene, dragging Deputy Dickerson
+along until Dickerson was able to let go of defendant’s arm and roll away from the truck.
+A short pursuit of defendant’s truck was called off for safety reasons. The truck was
+found the next day and had defendant’s identification in it. No weapons or ammunition
+were recovered. The testimony did not mention whether any marijuana was recovered.
+       Deputy Bryan Parson testified to arresting defendant in the early morning hours of
+June 9, 2017, after Deputy Dickerson confirmed defendant’s identity. Dickerson retook
+the stand and confirmed he identified defendant the day he was arrested. Defendant
+waived his right to remain silent and admitted fleeing from Dickerson, explaining he was
+afraid because he had a self-made zip gun that fired 12-gauge shotgun shells. Defendant
+admitted to running a red light when he fled and leaving the zip gun at a friend’s shop
+where he had been hiding. Dickerson recovered the gun where defendant said he had left
+it. The barrel was approximately 17.5 inches long.
+       The court denied the suppression motion, explaining the officer properly
+investigated the Vehicle Code violations and the smell of the unburnt marijuana, and
+thus, there was no unlawful detention. Defendant then fled, so there was nothing
+searched or seized. Further, the deputy’s observations of defendant’s resistance and
+flight were not “suppressible.” Defendant was held to answer on all counts, and the court
+denied defendant’s section 17, subdivision (b) motion to reduce any of the charges to
+misdemeanors.
+       On May 11, 2018, defendant renewed his motion to suppress (§ 1538.5, subd. (i)),
+arguing “the magistrate relied on assumptions not supported by the evidence.” The
+
+                                            3
+People disagreed, arguing Deputy Dickerson’s testimony established a lawful stop to
+investigate Vehicle Code violations, that Dickerson had reasonable suspicion to detain
+defendant longer to investigate the unburnt marijuana smell that “would lead a reasonable
+officer to believe there was an open container of marijuana or a package in the vehicle[,]”
+and defendant’s acts of punching Dickerson and fleeing were “independent intervening
+acts.” Defendant argued in reply that lawful possession of marijuana is not a basis for
+“ ‘detention, search, or arrest,’ ” citing Health and Safety Code section 11362.1. Thus, a
+search premised upon the smell of marijuana was unlawful, and defendant was justified
+in leaving the scene because the stop extended beyond that necessary for Dickerson to
+perform his traffic enforcement duties. Because all subsequent searches were derived
+from the unlawful detention and attempted search, that evidence should also be
+suppressed.
+       Defendant separately moved to set aside the information, arguing probable cause
+did not support the information (§ 995) and requesting a reduction in the charges (§ 17,
+subd. (b)). Specifically, defendant argued Deputy Dickerson was not going to write him
+a ticket for the Vehicle Code infractions and sought to illegally search defendant’s truck.
+Under these circumstances, defendant was entitled to leave. The People opposed this
+motion, arguing the evidence presented at the preliminary hearing supported the
+information. They further requested remand to the magistrate should the court determine
+any evidence was lacking (§ 995a, subd. (b)(1)) and argued against a section 17,
+subdivision (b) reduction given the dangerous nature of defendant’s conduct.
+       On July 19, 2018, the court heard defendant’s motions together, electing to
+dismiss count 1 because there was no evidence in the record regarding the deputy’s use of
+lights or siren. The court also granted defendant’s request to reduce the firearm
+possession counts to misdemeanors. However, the court denied defendant’s request as to
+count 2 (resisting an executive officer in performance of his duties). Defendant later pled
+
+
+
+                                             4
+no contest to the two misdemeanor possession charges and received a jury trial on the
+resisting count.
+B.     The Trial
+       At trial, Deputy Dickerson testified in pertinent part to his training and experience,
+including the training required for his K-9 partner as part of the Narcotics and
+Apprehension unit, which included looking for marijuana, methamphetamine, heroin, and
+ecstasy. Dickerson had received Proposition 64 training and knew that it was against the
+law to possess more than 28.5 grams of marijuana, as well as to have an open container
+of marijuana in a car (similar to the alcohol prohibition). He understood court decisions
+supported that it was lawful to “search to make sure someone is within compliance of the
+marijuana ordinances.” When Dickerson conducted traffic stops, he was mindful of
+officer and public safety concerns, including driver demeanor, movements, and honesty.
+Honesty was “very important” because dishonesty indicated the driver could be
+concealing something illegal. He had been trained on appropriate escalation of response
+to a developing situation, which required an objectively reasonable response given all
+circumstances and discussed that continuum.
+       Specific to Deputy Dickerson’s June 6, 2017 stop of defendant, Dickerson was
+working alone with his K-9 companion when, at approximately 8:30 p.m., he saw a group
+of people in the parking lot of a bargain store. The store was closed, and Dickerson
+wanted to investigate what they were doing there. He parked and made consensual
+contact with a man on a bicycle who had left the group. He noted defendant’s truck was
+missing a front license plate and had a cracked windshield obscuring the driver’s view,
+both Vehicle Code violations. Dickerson walked over to the truck, which was slowly
+making its way towards the road, and made contact with defendant through his open
+window. Defendant stopped and complied with a request to shut off his engine.
+Dickerson informed defendant about the code violations and asked for his driver’s license
+
+
+
+                                             5
+and if he had anything illegal in the truck. He then walked to the back of the truck, where
+he noted a tarp partially covering the license plate (another code infraction).
+        Deputy Dickerson returned to defendant and told him he smelled marijuana. It
+was a “strong, strong odor” of unburnt marijuana, coming from “within the vehicle.” He
+noticed this smell after reading the rear license plate to dispatch. Such a smell possibly
+indicated an open container of marijuana and/or a significant amount of marijuana,
+depending on the marijuana’s concentration. Dickerson asked defendant about the smell,
+and defendant denied there was any marijuana in the truck. Defendant’s “tone” was
+“nervous” and “aggravated.” “He was shaking as soon as [Dickerson] began asking him
+about the marijuana.” In response, Dickerson told defendant he “smelled a strong odor of
+marijuana and given the overall circumstances, [Dickerson] was going to be searching his
+vehicle” to confirm his compliance with marijuana regulations once another officer
+arrived.2 These circumstances were: “The initial Vehicle Code violations, the obstructed
+license plate, his nervous response, [and] the fact that he denied marijuana within the
+vehicle, despite the strong odor.” Denial of possession of marijuana was suspicious
+because it suggested an attempt to conceal that defendant was violating the law. Other
+information brought out on Dickerson’s redirect were that it was a high crime, high drug,
+and high drug sales area. Finally, Dickerson had stopped because he saw individuals
+crowded together around defendant’s truck in a poorly lit area, consistent with hand-to-
+hand drug transactions and a desire to avoid detection.
+        According to the sheriff’s report, defendant told Deputy Dickerson he could not
+detain him and that he was not under arrest. Dickerson explained that defendant could be
+detained pending search. Defendant was “shaking uncontrollably and stuttering,” as he
+pleaded with the deputy to let him go so he could see his daughter. Defendant also
+
+
+
+
+2   Dickerson radioed for his partner Deputy King to come after smelling the marijuana.
+
+                                              6
+started moving, only intermittently complying with repeated directions to stop, reaching
+towards his center console, causing the deputy to draw his gun and order defendant to
+place his hands on the door. Defendant complained he was scared, and Dickerson told
+him as long as he complied with his directions “that everything would be fine.” After
+Deputy King arrived, defendant refused directions to get out of the truck. Defendant
+reached for the ignition, causing Dickerson to grab defendant’s left arm in an effort to
+stop him.
+       Defendant started the truck anyway. He struggled to get away, striking Deputy
+Dickerson with his left arm. Defendant managed to put the truck in gear and began
+driving, dragging Dickerson who still had ahold of defendant’s arm inside the truck. The
+deputy repositioned himself, sprayed defendant in the face with pepper spray, and then
+determined how to safely disengage from the truck because defendant was headed for the
+street where there was traffic. After freeing himself, Dickerson told Deputy King to
+follow and attempted to follow himself, but the pursuit was canceled shortly thereafter
+because of safety concerns.
+       The jury convicted defendant of the section 69 violation. Thereafter, on
+August 29, 2019, the trial court sentenced defendant for this matter, as well as two
+misdemeanor cases. The court suspended sentence and placed defendant on formal
+probation for three years under various terms and conditions. Following defense
+counsel’s request not to impose certain specified fees because of an inability to pay, the
+court imposed five $40 court operations assessment fees (§ 1465.8); five $30 conviction
+assessment fees (Gov. Code, § 70373),3 and $600 ($300, $150, and $150) in restitution
+
+
+
+3 It appears the trial court stayed both the court operations assessment and conviction
+assessment fees associated with count 4 in this case. The court stated, “For each count in
+each case, the Court is ordering the $30 conviction assessment fee pursuant to 70373 of
+the Government Code and the $40 court operations assessment pursuant to 1465.8 of the
+Penal Code. [¶] For Count Four in 17CF02821, the Court is imposing that, however,
+
+                                             7
+fines (§ 1202.4, subd. (b)), matching, suspended $600 probation revocation restitution
+fines (§ 1202.44), as well as a monthly supervision fee of $164 and other fees associated
+with the misdemeanor matters not subject to this appeal. The court found defendant was
+unable to pay the cost of the presentence investigation report and the public defender
+fees. Defendant timely appealed.
+                                    II. DISCUSSION
+A.     Evidence Supporting the Lawful Duty Element
+       Defendant seeks reversal of his conviction for resisting/deterring an executive
+officer from the performance of his duty (§ 69, subd. (a)), arguing there was insufficient
+evidence Deputy Dickerson was acting within his lawful duty because the deputy
+detained him to search his truck without probable cause. As we shall explain, we find
+substantial evidence supported the lawful duty element of defendant’s conviction.4
+       In assessing the validity of defendant’s claim, we will first orient ourselves to the
+appropriate standard to be employed. Because defendant is challenging the sufficiency of
+the evidence supporting his section 69 conviction, we will evaluate “ ‘ “whether, after
+viewing the evidence in the light most favorable to the prosecution, any rational trier of
+fact could have found the essential elements of the crime beyond a reasonable doubt.” ’ ”
+(In re Manuel G. (1997) 16 Cal.4th 805, 822 (Manuel G.); id. at pp. 810-811 [applying
+this test to the findings supporting the juvenile court’s determination that the minor had
+
+
+staying it.” However, the minute order following sentencing only reflects a stay of the
+court operations assessment. The court did not articulate a basis for staying these
+amounts, but if it had done so because of section 654, that would be inappropriate. (See
+People v. Sencion (2012) 211 Cal.App.4th 480, 483-484 [holding court is required to
+impose court facility and court security fees on all counts stayed under section 654
+because those fees are not punishment].) We will direct the court to clarify its decision
+and correct that action if needed.
+4 Defendant does not challenge the sufficiency of the evidence surrounding the
+remaining elements, and thus, we will focus on the sufficiency of the lawful duty
+element.
+
+                                              8
+violated section 69].) In so doing, “ ‘[w]e “ ‘presume in support of the judgment the
+existence of every fact the trier could reasonably deduce from the evidence.’ ” ’ ” (Id. at
+p. 822.) If such evidence reasonably supports the judgment, we cannot reverse simply
+because the circumstances could also support a contrary finding. (Id. at p. 823.)
+       Section 69, subdivision (a) provides: “Every person who attempts, by means of
+any threat or violence, to deter or prevent an executive officer from performing any duty
+imposed upon the officer by law, or who knowingly resists, by the use of force or
+violence, the officer, in the performance of his or her duty, is punishable by a fine not
+exceeding ten thousand dollars ($10,000), or by imprisonment pursuant to subdivision (h)
+of Section 1170, or in a county jail not exceeding one year, or by both such fine and
+imprisonment.” “The statute sets forth two separate ways in which an offense can be
+committed. The first is attempting by threats or violence to deter or prevent an officer
+from performing a duty imposed by law; the second is resisting by force or violence an
+officer in the performance of his or her duty.” (Manuel G., supra, 16 Cal.4th at p. 814.)
+       “The long-standing rule in California and other jurisdictions is that a defendant
+cannot be convicted of an offense against a peace officer ‘ “engaged in . . . the
+performance of . . . [his or her] duties” ’ unless the officer was acting lawfully at the time
+the offense against the officer was committed. [Citations.] ‘The rule flows from the
+premise that because an officer has no duty to take illegal action, he or she is not engaged
+in “duties,” for purposes of an offense defined in such terms, if the officer’s conduct is
+unlawful. . . . [¶] . . . [T]he lawfulness of the victim’s conduct forms part of the corpus
+delicti of the offense.’ ” (Manuel G., supra, 16 Cal.4th at p. 815, italics omitted.) As has
+been recognized by the high court, an officer conducting a warrantless traffic stop
+without reasonable suspicion would not be acting pursuant to a lawful duty, as required
+for a section 69 conviction. (People v. Hernandez (2008) 45 Cal.4th 295, 298-302
+[upholding appellate court’s reversal of § 69 conviction where officer pulled defendant’s
+vehicle over without cause].) Thus, to determine whether defendant’s section 69
+
+                                              9
+conviction can withstand scrutiny, we must determine whether substantial evidence
+supports the jury’s determination that Deputy Dickerson was acting lawfully at the time
+defendant violently resisted him. At its essence, this requires us to determine whether
+there was probable cause to detain defendant to search his truck.5
+       “The Fourth Amendment protects against unreasonable searches and seizures.
+(U.S. Const., 4th Amend.; Terry v. Ohio (1968) 392 U.S. 1 [20 L.Ed.2d 889].) ‘A
+detention is reasonable under the Fourth Amendment when the detaining officer can point
+to specific articulable facts that, considered in light of the totality of the circumstances,
+provide some objective manifestation that the person detained may be involved in
+criminal activity.’ [Citation.] Ordinary traffic stops are treated as investigatory
+detentions for which the officer must be able to articulate specific facts justifying the
+suspicion that a crime is being committed.” (People v. Hernandez, supra, 45 Cal.4th at
+pp. 299.) A search pursuant to the automobile exception must be supported by probable
+cause that a search of the vehicle will yield “contraband or evidence of a crime.” (People
+v. Moore (2021) 64 Cal.App.5th 291, 297.) In determining whether probable cause
+supported the decision to search, “we consider the totality of the circumstances.” (People
+v. Johnson (2020) 50 Cal.App.5th 620, 625.)
+       As previously explained by this court in Johnson, “In 2016, Proposition 64
+legalized the possession of up to 28.5 grams of marijuana by individuals 21 years or
+older. ([Health & Saf. Code,] § 11362.1, subd. (a)(1).) The use and possession of
+marijuana is not unconditional, however; there are various statutory provisions
+
+
+
+
+5 Defendant does not challenge whether there was reasonable suspicion to stop his truck
+for the Vehicle Code infractions of missing a front license plate and having a cracked
+windshield obstructing the driver’s view. Further, because we find probable cause
+supports Deputy Dickerson’s decision to search defendant’s truck, we need not address
+the People’s argument that suggests defendant’s detention for an intended, but unrealized
+search, only had to be supported by reasonable suspicion.
+
+                                              10
+proscribing such use and possession in certain circumstances. (See, e.g., Health & Saf.
+Code, § 11362.3; Veh. Code, § 23222, subd. (b).) Notwithstanding any other
+proscription by law, [Health & Safety Code] section 11362.1, subdivision (c) provides
+that ‘[c]annabis and cannabis products involved in any way with conduct deemed lawful
+by this section are not contraband nor subject to seizure, and no conduct deemed lawful
+by this section shall constitute the basis for detention, search, or arrest.’ Thus, section
+[Health & Safety Code] 11362.1, subdivision (c) does not apply when the totality of the
+circumstances gives rise to a fair probability that an existing marijuana regulation was
+violated when the search occurred.” (People v. Johnson, supra, 50 Cal.App.5th at
+pp. 625-626, fn. omitted.)
+        Taking the evidence in the light most favorable to the judgment, we find the
+totality of the circumstances supported the legality of Deputy Dickerson’s decision to
+search. These circumstances included that Dickerson had stopped because he observed
+individuals crowded together near defendant’s truck in a poorly lit area, consistent with
+hand-to-hand drug transactions and a desire to avoid detection. These individuals were in
+the parking lot of a closed business at 8:30 p.m. Dickerson noted a strong smell of
+unburnt marijuana coming from inside defendant’s truck, but defendant denied he had
+any marijuana, which Dickerson found suspicious and indicative of attempting to hide
+unlawful conduct. Further, defendant’s tone was “nervous” and “aggravated” when he
+denied there was marijuana in the truck; he also started to shake when marijuana was
+mentioned. Finally, this stop took place in a high crime, high drug, and high drug sales
+area.
+        While any one of these factors alone may be insufficient to justify defendant’s
+detention, taken together they constitute probable cause supporting Deputy Dickerson’s
+decision to detain defendant for the purpose of searching his truck to determine whether
+he was in compliance with marijuana laws. (See People v. Moore, supra, 64 Cal.App.5th
+at pp. 300-301 [strong unexplained unburnt marijuana smell, suspected dishonesty and
+
+                                              11
+evasiveness in questioning, presence in a high crime area, and apparent avoidance of the
+officer constituted probable cause considering the totality of the circumstances]; accord,
+People v. Fews (2018) 27 Cal.App.5th 553, 561 [“evasive and uncooperative conduct,
+combined with the high-crime area in which the traffic stop took place, the odor and
+presence of marijuana, and Fews’s continuous and furtive movements inside the SUV,
+were sufficiently unusual to raise the officers’ suspicions that Mims and Fews were
+involved in criminal activity related to drugs and could be armed”]; see also People v.
+Lee (2019) 40 Cal.App.5th 853, 862 [lawful amount of marijuana alone insufficient to
+establish probable cause, but may support probable cause where coupled with other
+factors contributing to an officer’s reasonable belief a defendant may be violating
+regulations concerning marijuana possession].) Accordingly, we find sufficient evidence
+supported the lawful duty element.
+B.     Defendant’s Dueñas Challenge
+       Defendant argues that the trial court erred in imposing five $40 court operations
+assessment fees (§ 1465.8); five $30 conviction assessment fees (Gov. Code, § 70373),
+and $600 ($300, $150, and $150) in restitution fines (§ 1202.4, subd. (b)); matching,
+suspended $600 probation revocation restitution fines (§ 1202.44); as well as a monthly
+supervision fee of $164 and other fees associated with the misdemeanor matters not
+subject to this appeal. He complains that under Dueñas, supra, 30 Cal.App.5th 1157 an
+ability to pay hearing was required prior to imposing these amounts, pointing to what he
+characterizes as “probation’s finding of indigence” and the court’s own refusal to impose
+a fee for the cost of the presentence investigation report and the public defender fees. He
+therefore requests remand for an ability to pay hearing. We find defendant’s failure to
+raise Dueñas below has forfeited this claim on appeal and that his counsel’s failure to
+object on that basis was not ineffective assistance of counsel.
+       That a defendant must first object and demonstrate his inability to pay amounts
+imposed at sentencing is a longstanding and well-recognized rule. (See, e.g., People v.
+
+                                             12
+Nelson (2011) 51 Cal.4th 198, 227 [defendant’s claim that the court erroneously failed to
+consider ability to pay a $10,000 restitution fine is forfeited by the failure to object];
+People v. Gamache (2010) 48 Cal.4th 347, 409 [challenge to $10,000 restitution fine
+forfeited by failure to object to alleged inadequate consideration of defendant’s ability to
+pay]; People v. Avila (2009) 46 Cal.4th 680, 729 [rejecting argument that defendant was
+exempted from forfeiture because his restitution fine amounted to an unauthorized
+sentence based upon his inability to pay]; see also People v. Lowery (2020)
+43 Cal.App.5th 1046, 1053-1054 [failure to exercise statutory right to object on ability to
+pay for fine imposed over statutory minimum forfeited that objection]; People v.
+Gutierrez (2019) 35 Cal.App.5th 1027, 1033 [defendant’s failure to challenge restitution
+fine was a classic example of circumstance appropriate for forfeiture rule].)
+       Further, that the court imposed the minimum mandatory fines and fees does not
+forgive defendant’s forfeiture. Defendant was sentenced on August 29, 2019, over eight
+months after issuance of the Dueñas decision. (Dueñas, supra, 30 Cal.App.5th 1157,
+decided Jan. 8, 2019.) Therefore, his failure to raise Dueñas at sentencing forfeits his
+Dueñas arguments by operation of normal rules of appellate review. (People v. Scott
+(1994) 9 Cal.4th 331, 351-354 [to preserve a sentencing issue for appellate review, the
+defendant must raise it in the trial court].)
+       That defendant’s ability to pay claims are constitutional in character does not alter
+the application of the forfeiture doctrine. (See People v. Trujillo (2015) 60 Cal.4th 850,
+859 [constitutional exception to forfeiture rule did not apply to claim concerning failure
+to obtain express waiver of an ability to pay hearing]; In re Sheena K. (2007) 40 Cal.4th
+875, 880-881 [noting longstanding rule that a constitutional right may be forfeited in
+criminal proceedings by “ ‘ “failure to make timely assertion of the right before a tribunal
+having jurisdiction to determine it” ’ ”].)
+       Nor has defendant established that his counsel was ineffective for failing to object.
+To prevail on a claim of ineffective assistance of counsel, a defendant must show (1)
+
+                                                13
+counsel’s performance fell below an objective standard of reasonableness under
+prevailing professional norms, and (2) the deficient performance prejudiced defendant.
+(Strickland v. Washington (1984) 466 U.S. 668, 687-688, 693-694; People v. Ledesma
+(1987) 43 Cal.3d 171, 216-218.) To show prejudice, defendant must show a reasonable
+probability that he would have received a more favorable result had counsel’s
+performance not been deficient. (Strickland, supra, at pp. 693-694; Ledesma, supra, at
+pp. 217-218.) “A reasonable probability is a probability sufficient to undermine
+confidence in the outcome.” (Strickland, supra, at p. 694; accord, Ledesma, supra, at
+p. 218.)
+       Defendant cannot show his counsel was ineffective because we find his arguments
+to be without merit. (People v. Kipp (1998) 18 Cal.4th 349, 377 [failure to assert a
+meritless position does not demonstrate ineffective assistance of counsel].) Defendant’s
+appeal hinges on the analysis in Dueñas finding an ability to pay hearing is required
+before imposing fines and fees, and we are not persuaded that this analysis is correct.
+Our Supreme Court is now poised to resolve this question, having granted review in
+People v. Kopp (2019) 38 Cal.App.5th 47, review granted November 13, 2019, S257844,
+which agreed with the court’s conclusion in Dueñas that due process requires the trial
+court to conduct an ability to pay hearing and ascertain a defendant’s ability to pay before
+it imposes court operations and court facility assessment fees under section 1465.8 and
+Government Code section 70373, but not restitution fines under section 1202.4. (Kopp,
+supra, at pp. 95-96.)
+       In the meantime, we join several other courts in concluding that the principles of
+due process do not require determination of a defendant’s present ability to pay before
+imposing the fines and assessments at issue in Dueñas and in this proceeding. (People v.
+Cota (2020) 45 Cal.App.5th 786, 794-795; People v. Kingston (2019) 41 Cal.App.5th
+272, 279; People v. Hicks (2019) 40 Cal.App.5th 320, 329, review granted Nov. 26,
+
+
+
+                                            14
+2019, S258946; People v. Aviles (2019) 39 Cal.App.5th 1055, 1069; People v. Caceres
+(2019) 39 Cal.App.5th 917, 928.)
+C.     Retroactive Application of Assembly Bill 1950
+       The parties agree that Assembly Bill 1950 should apply retroactively to
+defendant’s non-final judgment. For the reasons previously explained by this court in
+People v. Lord (2021) 64 Cal.App.5th 241, 244-246, we concur that defendant is entitled
+to have his probation term reduced to the new maximum term of two years. (§ 1203.1,
+subd (a).)6 Because of the proximity to the end of what will be defendant’s new
+probation term, we will remand the matter to allow the trial court to shorten the probation
+term and adjust any other conditions impacted by this change.
+
+
+
+
+6 We note that neither of the exceptions to the two-year limitation apply to this matter.
+(§ 1203.1, subd. (m).)
+
+                                            15
+                                    III. DISPOSITION
+       The trial court is directed to amend the probation order consistent with this
+opinion and provide a copy to the probation department. The court shall also clarify the
+decision to stay at least some of the fees associated with the sentence for count 4 in this
+case and shall un-stay those amounts if the court had stayed them because of an
+application of section 654. (See People v. Sencion, supra, 211 Cal.App.4th at pp. 483-
+484 [holding court is required to impose court facility and court security fees on all
+counts stayed under section 654 because those fees are not punishment].) The judgment
+is otherwise affirmed.
+
+
+                                                           /S/
+
+                                                   RENNER, J.
+
+
+
+       I concur:
+
+
+       /S/
+
+       HOCH, J.
+
+
+
+       I concur; as to part II.B of the Discussion, I concur in the result.
+
+
+       /S/
+
+       MAURO, Acting P. J.
+
+
+
+
+                                              16

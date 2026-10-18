@@ -1,0 +1,677 @@
+cl_opinion_id: 11351287
+cluster: 10883759
+docket: G064718M
+date: 2026-07-01
+status: Published
+type: 010combined
+field: plain_text
+case: Taduran v. James R. Glidewell, Dental Ceramics
+----
+Filed 7/1/26 (unmodified opn. attached)
+
+
+
+
+                                CERTIFIED FOR PUBLICATION
+
+               IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                 FOURTH APPELLATE DISTRICT
+
+                                          DIVISION THREE
+
+ ABRAHAM TADURAN,
+
+      Plaintiff and Appellant,                     G064718
+
+          v.                                       (Super. Ct. Case No. 30-2017-
+                                                   00934037)
+ JAMES R. GLIDEWELL, DENTAL
+ CERAMICS, INC.,
+                                                    ORDER MODIFYING OPINION;
+      Defendant and Respondent.                     NO CHANGE IN JUDGMENT
+
+
+                 It is hereby ordered that the opinion filed herein on May 26,
+2026, is hereby MODIFIED as follows:
+                 On page 8, second full paragraph, first sentence, replace, “On
+May 30, 2017” with, “On May 3, 2024.”
+                 On page 9, first full paragraph, replace: “Taduran contingency
+risk for ‘a case that has lasted seven years, involving over 1,500 attorney
+hours and nearly $100,000 in actual out-of-pocket litigations costs.’” with
+“Taduran contended the 1.5 multiplier was appropriate based on the
+contingency risk for ‘a case that has lasted seven years, involving over 1,500
+attorney hours and nearly $100,000 in actual put-of-pocket litigations costs.’”
+            This modification does not change the judgment.
+
+
+
+
+                                         DELANEY, ACTING P. J.
+
+
+I CONCUR:
+
+
+
+SCOTT, J.
+
+
+
+
+                                     2
+Filed 5/26/26; Certified for Publication 6/17/26 (order attached) (unmodified opinion)
+
+
+
+
+        IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                            FOURTH APPELLATE DISTRICT
+
+                                      DIVISION THREE
+
+
+ ABRAHAM TADURAN,
+
+     Plaintiff and Appellant,                               G064718
+
+         v.                                                 (Super. Ct. Case No. 30-2017-
+                                                             00934037)
+ JAMES R. GLIDEWELL, DENTAL
+ CERAMICS, INC.,                                            OPINION
+
+     Defendant and Respondent.
+
+
+
+
+               Appeal from a judgment of the Superior Court of Orange County,
+William D. Claster, Judge. Affirmed.
+               Stiller Law Firm, Ari J. Stiller, Ariel Still-Shulman, and Haines
+Law Group, Paul K. Haines, Fletcher W. Schmidt and Andrew Rowbotham,
+for Plaintiff and Appellant.
+            Jackson Lewis, Scott C. Lacunza, Kathy A. Le, and Dylan B.
+Carp, for Defendant and Respondent.
+                        *            *           *
+            Abraham Taduran sued his former employer James R. Glidewell,
+Dental Ceramics, Inc. (Glidewell) for various Labor Code violations. The trial
+court awarded a total of $516,965 in civil penalties for four Labor Code
+violations, reducing the maximum penalty for several violations on a per
+employee basis. Taduran contends the trial court was required to reduce
+penalties for Labor Code violations on a per pay period basis. As discussed
+below, we conclude the Labor Code does not mandate any particular method
+for reducing a maximum civil penalty. The trial court did not abuse its
+discretion in awarding a lesser amount of civil penalties here.
+            Taduran also sought $1,570,500 in attorney fees as the prevailing
+party, based on a lodestar of $1.047 million and a multiplier of 1.5. The trial
+court accepted the lodestar figure, but applied a modifier of 0.70, resulting in
+an award of $733,440 in attorney fees. Taduran contends the court’s
+reasoning for applying a negative multiplier cannot withstand “heightened
+scrutiny.” We disagree and find no abuse of discretion. As discussed below,
+the trial court considered the proper factors and reasonably applied a
+negative multiplier. Accordingly, we affirm.
+                            STATEMENT OF THE CASE
+                                         I.
+                 COMPLAINTS AND SUMMARY ADJUDICATIONS
+            On September 17, 2018, Taduran filed a second amended
+complaint (SAC), alleging a single cause of action under the Labor Code
+Private Attorneys General Act of 2024 (PAGA), Labor Code sections 2698 et
+
+
+
+                                         2
+    1
+seq. The SAC alleged Glidewell committed eight categories of Labor Code
+violations against its employees. It alleged: (1) minimum wage violations, (2)
+overtime wage violations, (3) rest period violations, (4) meal period violations,
+(5) separation earnings violations, (6) wage statement violations, (7) biweekly
+payment violations, and (8) recordkeeping violations.
+            The parties filed motions for summary adjudication. Taduran
+sought summary adjudication of the wage statement violations and the
+overtime wage violations. Glidewell sought summary adjudication that its
+wage statements complied with the Labor Code.
+            On July 10, 2020, the trial court granted in part Taduran’s
+summary adjudication motion and denied Glidewell’s motion. The court noted
+that “[nearly all facts relevant to [its] ruling have been stipulated to by the
+parties.” As to overtime wage violations, the court noted that Glidewell
+conceded nearly all the issues, except for holiday bonus pay, which it argued
+was discretionary. The court therefore granted summary adjudication on the
+overtime pay issue, except as to the holiday bonus pay. As to the wage
+statement issue, the court concluded that in light of Glidewell’s concession of
+the overtime wage issue, the wage statement necessarily did not include all of
+an employee’s wage information. The remaining dispute concerned whether
+the wage statement included information on an employee’s piece-rate pay.
+Glidewell argued it substantially complied with the Labor Code because it
+provided the piece-rate information on a separate document, a “Production
+Sheet.” The court rejected the argument that an employer may avoid liability
+by substantially complying with the Labor Code requirements, but stated
+
+
+            1
+             All further statutory references are to the Labor Code, unless
+stated otherwise.
+
+                                        3
+that it would consider substantial compliance when “determining appropriate
+civil penalties under Labor Code [section] 2699(e)(2).”
+               On December 16, 2021, the parties jointly stipulated to allow
+Taduran to file a Third Amended Complaint (TAC) to conform to the trial
+court’s rulings on the summary adjudication motions and to other issues.
+Based on the stipulation, the trial court granted Taduran permission to the
+file the TAC.
+               The TAC, the operative complaint in this case, alleged: (1)
+overtime wage violations, (2) rest period violations, (3) separation earnings
+violations, (4) wage statements violations, and (5) recordkeeping violations.
+                                         II.
+                                   COURT TRIAL
+A. Joint Stipulations
+               On November 17, 2022, the parties informed the court that
+Glidewell was stipulating to liability on the rest period claim, and they would
+submit the only remaining issue (the amount of civil penalties for that claim)
+to the court by way of trial briefs rather than live testimony or presentation
+of evidence.
+               On November 28, 2022, the parties submitted a joint stipulation
+regarding trial procedures and undisputed facts and conclusions for trial. The
+undisputed facts included, among others, the total number of relevant wage
+statements, total number of affected employees, total number of pay periods
+where Glidewell underpaid, and aggregate and average amounts of
+underpayment per employee for each violation.
+B. Trial Briefs
+               On December 20, 2022, Taduran submitted his trial brief. In his
+brief, Taduran asserted the trial concerned four distinct issues, and it is
+
+                                         4
+undisputed that Glidewell is liable on each issue. Specifically, the trial court
+already had summarily adjudicated three issues in his favor. It had
+determined: (1) Glidewell did not include information of piece-rate pay on
+wage statements from August 4, 2016 through March 1, 2019 (wage
+statement issue); (2) Glidewell failed to include the value of non-discretionary
+bonus pay (bonus pay issue); and (3) Glidewell failed to include in overtime
+pay the value of payments for non-productive time, referred to as “Uptime” by
+the parties (uptime issue). As to the fourth issue which concerns rest period
+pay, Glidewell later stipulated to liability (rest period issue). Taduran also
+claimed that all relevant facts have been stipulated to by parties for the
+purposes of summary adjudication and trial. Thus, the only remaining trial
+issue is the amount of civil penalties for the Labor Code violations. Taduran
+argued the PAGA civil penalties totaled $55,985,350. He acknowledged the
+trial court has discretion to reduce this number, but argued “the facts here—
+including Glidewell’s failure to pay wages that it admits are owed and its
+significant delay in rectifying admittedly faulty systems−do not support an
+overly drastic reduction to the PAGA penalties in light of the deterrent
+purposes of PAGA.” Taduran did not suggest any particular reduction.
+            In Glidewell’s trial brief, it agreed that “[l]iability has been
+determined” in Taduran’s favor on the four remaining Labor Code claims at
+issue in the lawsuit, and the parties “have stipulated to relevant facts in lieu
+of presentation of trial evidence and testimony regarding the award of civil
+penalties. Accordingly, the only remaining issue on the merits of [Taduran’s]
+claims is for the Court to determine the amount of civil penalties to be
+awarded under PAGA to [Taduran] and the Aggrieved Employees.” (Fn.
+omitted.) Glidewell argued the trial court should award a lesser amount than
+the maximum statutory penalties based on the facts the violations were
+
+                                        5
+“hyper-technical” or “very narrow” so they do not warrant a significant
+penalty. Glidewell proposed the court award civil penalties of $65 per
+aggrieved employee on the wage statement issue, for a total award of
+$100,165. On the rest period issue, it proposed either $0.78 per pay period,
+for a total of $172,135.86, or $98.91 per aggrieved employee, for a total of
+$188,819.19. As to the uptime issue, Glidewell proposed either $3.33 per pay
+period, for a total of $21,941.37, or $6.55 per aggrieved employee, or a total of
+$29,929.40. As to the bonus pay issue, Glidewell suggested different amounts
+of penalties for each of the bonus pay, totaling $40,303.89 when calculated
+per pay period, or $40,300.47, when calculated per aggrieved employee.
+             In reply, Taduran recognized that the trial court would apply a
+discretionary reduction to the maximum penalty, but argued “the reduction
+requested by Glidewell of more than 99[percent] would be tantamount to an
+outright elimination of the penalty.” It argued: “Glidewell’s violations led to
+nearly $85,000 in unpaid wages and were allowed to continue for months
+even after Glidewell acknowledged liability. These are clear violations of the
+California Labor Code which PAGA is intended to penalize and deter, and an
+overly drastic reduction of the civil penalty would frustrate the intent behind
+the PAGA.”
+C. Trial Court’s Rulings
+             Following the parties’ briefing, the trial court awarded a total of
+$515,955 in civil penalties for the four Labor Code violations. It provided
+detailed reasoning for its reduction from the maximum penalty.
+              On the wage statement issue, the court noted that the
+noncompliant wage statements did not result in any unpaid wages. Moreover,
+when the incomplete weekly wage statements were supplemented by the
+Production Sheets that Glidewell provided to its employees, the combination
+
+                                        6
+satisfied the purpose of the Labor Code wage statement requirements.
+Additionally, the maximum penalty of $33,199,250 (based on $250 per pay
+period) was “enormous” because Glidewell provided weekly rather than bi-
+weekly pay check. Glidewell also corrected the wage statements beginning on
+March 1, 2019, which was 16 months before the trial court granted summary
+adjudication. Based on these circumstances, the trial court concluded “a
+penalty of $100,165 is appropriate and that any penalty beyond this amount
+qualifies as ‘unjust, arbitrary[, and] oppressive.’”
+            On the rest period issue, the court explained this issue concerned
+how Glidewell calculated pay based on fractional rest periods. For example,
+an employee who took 20 minutes of rest would be credited with 0.33 hours,
+while an employee who took 40 minutes would be credited with 0.67 hours.
+Based on rounding, the employee who took 20 minutes of rest would be
+penalized. Over the relevant five-year period, employees were underpaid an
+average of $0.26 per pay period, for a total of $63,464 in unpaid wages. The
+parties agreed the maximum penalty for this violation was $22,068,700. The
+court applied a discretionary reduction because it concluded Glidewell’s
+method of calculation of rest period wages for piece-rate employees was
+established and applied in good faith. Other facts supporting reduction
+include Glidewell’s willingness to change the system prior to adjudication,
+and its apparent willingness to pay the affected employees by March 31,
+2023. Based on these circumstances, the court concluded that “a penalty of
+$190,900 (1,909 employees x $100 per employee) is appropriate.”
+                As to the uptime issue, the court explained the violation
+occurred because Glidewell paid overtime wages based on the regular hourly
+pay and does not include uptime pay. Thus, in weeks where the uptime rate
+is higher than the regular hourly rate, the overtime wages are underpaid. A
+
+                                         7
+total of $7,310 in lost wages occurred, translating to $6.55 per employee or
+$1.11 per pay period. The parties agreed the maximum penalty for this
+violation is $658,900. The court concluded the relatively minimal amount of
+unpaid wages and Glidewell’s willingness to repay those wages support a
+reduction. It determined “a penalty of $167,400 or $150 per affected employee
+serves both the deterrence and punishment function[s] of PAGA.”
+             Finally, as to the bonus pay issue, Glidewell did not include the
+bonuses in the regular rate calculation. A total of $13,433 in lost wages
+occurred, and the maximum penalty is $58,500. Although Glidewell
+suggested a reduction to $40,303, the trial court declined to reduce the
+penalty and imposed the full $58,500 penalty.
+                                      III.
+                            ATTORNEY FEE MOTION
+             On May 30, 2017, Taduran filed a motion for attorney fees and
+costs. He requested $1,571,658.75 in attorney fees, consisting of a 1.5
+multiplier on a lodestar amount of $1,047,772.50, plus $98,138.21 in costs.
+Taduran argued the 1.5 multiplier was warranted based on the novelty of his
+legal theory concerning the rest pay issue, counsel’s skill and experience,
+counsel’s lost opportunity to work on other matters, and contingency risk.
+             Glidewell opposed the attorney fee motion, arguing the lodestar
+amount was excessive and unreasonable given the nature of the claims. It
+asserted the reasonable lodestar amount is $261,943.13, or 25 percent of the
+requested amount. It further argued no fee enhancement multiplier was
+warranted because the two primary claims (wage statement issue and rest
+period issue) were relatively straightforward from an evidentiary and proof
+standpoint, and the civil penalty award was well below what Taduran sought
+in his trial brief.
+
+                                        8
+            In reply, Taduran argued the lodestar amount was reasonable,
+noting Glidewell has not identified a single billing entry that it contends is
+vague, duplicative, excessive or unnecessary. Taduran contingency risk for “a
+case that has lasted seven years, involving over 1,500 attorney hours and
+nearly $100,000 in actual out-of-pocket litigations costs.”
+            On July 15, 2024, the trial court awarded Taduran $733,440 in
+attorney fees and $98,138.21 in costs. The court accepted the lodestar
+amount, but noted the amount was based on current billing rates for three
+attorneys even for legal work performed many years before their billing rates
+increased. Specifically, the court noted that in 2020 in another case, the same
+attorneys had claimed billing rates of $650, $595, and $425, but for work in
+this case which began in 2017, Taduran used rates of $850, $750, and $650,
+respectively. This represented an upward multiplier of 1.3, 1.26, and 1.53
+respectively for time billed in 2020. The court noted it would take the billing
+rates into consideration when setting the final fee amount.
+            As to the multiplier, the court considered: (1) the relatively
+straightforward, records-based nature of the claims, (2) the reasonable and
+expected skill in prosecuting the claims, (3) that the civil penalty award was
+less than 1 percent of what Taduran sought, and (4) the contingency risk,
+which “weigh[ed] in favor of an upward multiplier but only slightly given that
+liability of certain claims was established over four years ago.” Based on all
+these factors, the trial court concluded a 0.70 multiplier was appropriate.
+            A final judgment awarding $515,965.00 in civil penalties, plus
+$733,440 in attorney fees and $98,138.21 in litigation costs, was entered on
+September 13, 2024. Taduran appealed.
+
+
+
+
+                                        9
+                                   DISCUSSION
+                                         I.
+                         CIVIL PENALTIES UNDER PAGA
+             Taduran acknowledges the trial court may reduce the maximum
+amount of civil penalties under section 2699, subdivision (e)(2), but argues
+the court was required to apply the reduction on a per pay period basis, not a
+per employee basis. We review the trial court’s reduction of civil penalties
+under section 2699, subdivision (e)(2) for an abuse of discretion. However,
+“judicial discretion must be exercised within the confines of the statute that
+grants the discretion . . . [and] in the context of section 2699, subdivision
+(e)(2) . . . a court can only exercise its discretion to award lesser penalties
+based on the enumerated considerations.” (Amaral v. Cintas Corp. No. 2
+(2008) 163 Cal.App.4th 1157, 1213.) Accordingly, we apply a de novo
+standard of review to determine the scope of the trial court’s authority to
+reduce civil penalties under section 2699, subdivision (e)(2) before reviewing
+the trial court’s exercise of that authority for an abuse of discretion. (See
+Thurman v. Bayshore Transit Management, Inc. (2012) 203 Cal.App.4th
+1112, 1135 (Thurman), disapproved on another point by ZB, N.A. v. Superior
+Court (2019) 8 Cal.5th 175, 196, fn. 8 [noting the appellate court would
+review “the trial court’s award of civil penalties in an amount less than the
+statutory maximum [for] abuse of discretion—i.e., whether the trial court
+reasonably determined that imposition of the maximum statutory penalty
+amount would result in an award that is unjust, arbitrary, oppressive, or
+confiscatory based on the facts and circumstances of this case”].)
+             Section 2699, subdivision (e)(2) provides: “In any action by an
+aggrieved employee seeking recovery of a civil penalty available under
+subdivision (a) or (f), a court may award a lesser amount than the maximum
+
+                                         10
+civil penalty amount specified by this part, including the penalty amounts in
+subdivisions (g) and (h), or may, notwithstanding the limitations set forth in
+subdivisions (g) and (h) exceed the limitations set forth in those subdivisions,
+if, based on the facts and circumstances of the particular case, to do otherwise
+would result in an award that is unjust, arbitrary and oppressive, or
+confiscatory.”
+            Section 2699, subdivision (a) does not provide a formula for
+calculating the amount of civil penalty, but section 2699, subdivision (f)
+provides that civil penalties are computed based on a fixed amount “for each
+aggrieved employee per pay period.” (See, e.g., § 2699, subd. (f)(2)(A) [civil
+penalty is “One hundred dollars ($100) for each aggrieved employee per pay
+period”].) Section 2699, subdivisions (g) and (h) limit the civil penalty under
+certain circumstances to not more than “15 percent of the penalty sought
+under subdivision (a) or (f),” (§ 2699, subd. (g)(1)), and “30 percent of the
+penalty sought under subdivision (a) or (f).” (§ 2699, subd. (h)(1).) Thus,
+under the plain language of the statute, the trial court is not constrained to
+the civil penalty formula set forth in those statutory provisions.
+            Taduran argues a reduction must be applied on a per pay period
+basis because PAGA imposes civil penalties on a per pay period basis. We
+disagree. Section 2699, subdivision (e)(2) does not provide a formula for
+reducing the maximum civil penalty; it merely states that the court may
+award a “lesser amount.” The initial step of calculating the maximum civil
+penalty is set forth in section 2699, subdivision (f), which provides for
+calculation on a per pay period basis. Section 2699, subdivision (f), however,
+does not reference reduction of a civil penalty, let alone provide any
+mandatory formula for reduction. Thus, after calculating the maximum civil
+penalty on a per pay period basis, the trial court is not precluded from using
+
+                                        11
+any reasonable method to reduce that amount, including applying a reduction
+on a percentage, per pay period or per employee basis.
+            Taduran argues that only a per pay period method satisfies
+PAGA’s purpose of deterring Labor Code violations because “[a]n employer
+faced with a per-person award has no incentive to discontinue committing
+violations because it will be penalized the same whether a violation occurs in
+one pay period or one thousand pay periods.” However, such an employer has
+no foreknowledge the trial court would apply any particular reduction
+method, let alone apply any reduction at all. For example, in this case the
+trial court awarded the full amount of civil penalties, which was calculated on
+a per pay period basis, on the bonus pay issue. Thus, there remains sufficient
+deterrence notwithstanding this particular award of civil penalties.
+            Taduran’s reliance on several cases which applied a reduction on
+a per pay period is misplaced because, as he acknowledges, none of those
+cases hold that applying a reduction on per employee basis is prohibited. We
+have reviewed those cases, and they did not address a limitation on the
+method of applying a reduction under section 2699, subdivision (e)(2). (See
+Thurman, supra, 203 Cal.App.4th 1112; Carrington v. Starbucks Corp. (2018)
+30 Cal.App.5th 504, 517; Bernstein v. Virgin America, Inc. (N.D. Cal. 2019)
+365 F.Supp.3d 980.) As stated above, a trial court may apply a reduction on a
+per pay period basis, but that discretionary choice does not preclude other
+trial courts from applying a reduction on a per employee basis.
+            Finally, citing Moniz v. Adecco USA, Inc. (2021) 72 Cal.App.5th
+56, disapproved on another point by Turrieta v. Lyft, Inc. (2024) 16 Cal.5th
+664, 709, Taduran argues that because civil penalties are subsequently
+allocated 75 percent to the Labor and Workforce Development Agency
+(LWDA) and 25 percent to the aggrieved employees, applying a reduction on
+
+                                      12
+a per employee period would be disproportionate and unjust because “[t]hose
+who worked for Glidewell for the full liability period would have their share
+diluted and those who worked for a short period would receive a windfall.”
+Moniz is factually distinguishable. There, the appellate court concluded the
+trial court abused its discretion in approving a settlement of a PAGA action
+involving two class of employees (Associates and Colleagues), wherein, of the
+25 percent to the aggrieved employees, “88 percent was allocated to the
+Associates and 12 percent was allocated to the Colleagues.” (Id. at p. 68.)
+Here, there was no allocation of a settlement among classes of aggrieved
+employees. Rather, there is a single common fund from which all aggrieved
+employees can be compensated proportionately. In sum, the trial court did
+not abuse its discretion in calculating a reduction to the maximum civil
+penalty on a per employee basis.
+            Aside from the method of reducing the maximum amount of civil
+penalties, Taduran’s only challenge to the trial court’s consideration of the
+various factors and its final determination of the proper amounts of penalties
+is that the reduction is too drastic, approaching zero percent. But this
+challenge ignores the factors leading to the reduction and examines only the
+final result divorced from the facts and circumstances of this case. Moreover,
+the exact result could still occur if the trial court reduced the penalties on a
+per pay period basis. Glidewell proposed reductions on both a per pay period
+basis and a per employee basis, and the reduction can be mathematically
+calculated to result in the same amount of penalties. Here, the trial court
+could reasonably determine the amount of civil penalties for the main
+violations (wage statements and rest period issues) should be drastically
+
+
+
+
+                                        13
+                                                     2
+reduced for the reasons stated in its written ruling. There was no abuse of
+discretion. Accordingly, the award of civil penalties is affirmed.
+                                       II.
+                   AWARD OF ATTORNEY FEES UNDER PAGA
+            Section 2699, subdivision (k)(1) provides that “[a]ny employee
+who prevails in any action shall be entitled to an award of reasonable
+attorney’s fees and costs.” Here, the parties and the trial court applied the
+lodestar method to calculate reasonable attorney fees. “The lodestar method,
+or more accurately the lodestar-multiplier method, calculates the fee ‘by
+multiplying the number of hours reasonably expended by counsel by a
+reasonable hourly rate. Once the court has fixed the lodestar, it may increase
+or decrease that amount by applying a positive or negative “multiplier” to
+take into account a variety of other factors, including the quality of the
+representation, the novelty and complexity of the issues, the results obtained,
+and the contingent risk presented.’” (Laffitte v. Robert Half Internat. Inc.
+(2016) 1 Cal.5th 480, 489 (Laffitte).) The trial court awarded Taduran the full
+amount of requested costs, but applied a 0.7 multiplier to the requested
+lodestar. Taduran challenges the trial court’s application of a negative
+multiplier to the lodestar.
+            The parties dispute how the trial court’s downward adjustment of
+the lodestar should be reviewed. Generally, “[w]e review attorney fee awards
+on an abuse of discretion standard. ‘The “experienced trial judge is the best
+
+            2
+              For example, specifically as to the wage statements, the trial
+court noted the employees received all the required wage information, albeit
+in two separate documents, and no employee lost any wages. As to the rest
+period issue, the court explained it resulted from a method of rounding
+minutes to fractional hours that was not determined to be illegal until this
+litigation and the resulting lost wages were minimal.
+
+                                       14
+judge of the value of professional services rendered in his court, and while his
+judgment is of course subject to review, it will not be disturbed unless the
+appellate court is convinced that it is clearly wrong.”’” (Laffitte, supra, 1
+Cal.5th 480, 488.) As to the multiplier, “[n]o established criteria calibrate the
+precise size and direction of the multiplier, thus implying considerable
+deference to trial court decisionmaking about attorney fee awards.” (Karton v.
+Ari Design & Construction, Inc. (2021) 61 Cal.App.5th 734, 745 (Karton).)
+            The dispute concerning appellate review arises from a trial
+court’s “‘across-the-board percentage cut,’” such as a negative multiplier to
+the lodestar. In Kerkeles v. City of San Jose (2015) 243 Cal.App.4th 102, the
+appellate court applied what it called “‘heightened scrutiny’”—a term
+borrowed from federal cases—to the trial court’s application of reduced hourly
+rates to calculate the lodestar and a subsequent 0.5 multiplier to that
+lodestar. (See id. at pp. 101–102.) The appellate court reversed the attorney
+fee award, concluding “the reasoning expressed in the court’s order does not
+meet the federal criterion of a clear and specific explanation [of the reduced
+attorney fees award] sufficient for meaningful appellate review. Indeed, it is
+not at all evident that the court independently reviewed the parties’
+submissions before signing the order drafted by defense counsel.” (Id. at p.
+104.) In Warren v. Kia Motors America, Inc. (2018) 30 Cal.App.5th 24
+(Warren), the appellate court applied “heightened scrutiny” to a trial court’s
+application of a 0.33 multiplier. The Warren court explained this standard of
+review means the trial court “must clearly explain its reasons for choosing
+the particular negative multiplier that it chose; otherwise, the reviewing
+court is unable to determine that the court had valid, specific reasons for its
+across-the-board percentage reduction.” (Id. at p. 41.)
+
+
+
+                                        15
+            The appellate court in Morris v. Hyundai Motor America (2019)
+41 Cal.App.5th 24, however, disagreed with the Warren court’s holding that
+“a heightened standard is appropriate for appellate review of fee awards.”
+(Morris. at p. 37, fn. 6.) The Morris court concluded that under California
+law, the “‘trial court has no sua sponte duty to make specific factual findings
+explaining its calculation of the fee award and the appellate courts will infer
+all findings to support the trial court’s determination.’” (Ibid.) Whether to
+apply heightened scrutiny to across-the-board cuts to fee awards is pending
+before the California Supreme Court. (See Cash v. County of Los Angeles
+(2025) 111 Cal.App.5th 741, review granted, August 20, 2025, No. S291827.)
+We need not resolve this dispute because we conclude the trial court here
+provided specific explanations for its choice of a 0.7 multiplier. We thus
+review that reasoning to determine whether the court’s reduction constituted
+                          3
+an abuse of discretion.
+            The trial court found one factor supported an upward adjustment
+of the lodestar—the contingency risk. The skill of the attorneys was a neutral
+factor. However, multiple factors supported a downward adjustment,
+
+
+            3
+               We reject interpreting “heightened scrutiny” as requiring the
+trial court to explain why it chose a 0.70 multiplier instead of another
+multiplier, such as a 0.75 multiplier. There is no legal principle to support
+such precision in the abuse of discretion standard of review, which
+contemplates a range of permissible behavior. (See, e.g., Cahill v. San Diego
+Gas & Electric Co. (2011) 194 Cal.App.4th 939, 957 [“Under that standard,
+there is no abuse of discretion requiring reversal if there exists a reasonable
+or fairly debatable justification under the law for the trial court’s decision or,
+alternatively stated, if that decision falls within the permissible range of
+options set by the applicable legal criteria”].)
+
+
+
+
+                                        16
+including the complexity of the legal issues, the relative success, and the
+upward adjusted billing rates “baked” into the lodestar. Based on these
+factors, the court concluded a 0.7 multiplier was appropriate. Aside from the
+court’s reasoning, we note the same trial judge who awarded the reduced
+attorney fees has presided over the case from its inception and the court’s
+reasoning did not adopt Glidewell’s opposition, which sought a reduction of
+the lodestar amount and a multiplier of 0.25.
+            Taduran challenges the consideration of past, usually lower
+hourly attorney rates to justify a negative multiplier. Citing PLCM Group,
+Inc. v. Drexler (2000) 22 Cal.4th 1084, he argues the reasonableness of the
+hourly rates should reflect the prevailing market hourly rate, not whether
+they were higher than several years ago. We disagree. In PLCM, the
+California Supreme Court stated: “The reasonable hourly rate is that
+prevailing in the community for similar work. [Citations.] The lodestar figure
+may then be adjusted, based on consideration of factors specific to the case, in
+order to fix the fee at the fair market value for the legal services provided.”
+(Id. at p. 1095.) Thus, the trial court may consider lower past hourly rates to
+calculate the lodestar figure to “fix the fee at the fair market value” as long as
+it does not use the same factor to reduce the lodestar amount. (Ibid.; Cf.
+Graciano v. Robinson Ford Sales, Inc. (2006) 144 Cal.App.4th 140, 156
+(Graciano) [“If the court had decided that a lesser hourly rate should apply
+because of the lack of novelty or complexity of issues, then its reduction
+would be improperly duplicative, since the court had already considered and
+declined to apply a positive multiplier for those factors”].) Here, the trial
+court declined to calculate the “correct” hourly rate for legal work performed
+in 2020 and before, and instead considered the fact that lower rates were
+charged during that period in applying a negative multiplier. We find no
+
+                                        17
+abuse of discretion in doing so. Generally, the prevailing market rate for legal
+work performed by an inexperienced associate is lower than that performed
+by a seasoned partner. Thus, the trial court does not abuse its discretion in
+determining that current hourly rates do not necessarily reflect the market
+value for prior work.
+            Taduran also challenges the relative success factor, arguing the
+trial court improperly relied on proportionality considerations to reduce the
+attorney fees. We disagree. “[T]he trial court rightly sought an appropriate
+relationship between the result achieved and the size of the fee. For a century
+or more, California courts have considered the success or failure of attorney
+efforts when evaluating attorney fee requests.” (Karton, supra, 61
+Cal.App.5th at p. 746.) Specifically in representative actions to vindicate
+public rights, such as the PAGA action here, the percentage of recovery can
+be used to support a negative multiplier. (See Lealao v. Beneficial California,
+Inc. (2000) 82 Cal.App.4th 19, 53 (Lealo) [“[T]he ‘reasonableness’ of a fee in a
+representative action will often require some consideration of the amount to
+be awarded as a percentage of the class recovery”]; accord, Chavez v. Netflix,
+Inc. (2008) 162 Cal.App.4th 43, 63 [percentage calculation may be used to
+determine a lodestar multiplier]; see also Gunther v. Alaska Airlines, Inc.
+(2021) 72 Cal.App.5th 334, 358 [noting that “courts have considered the
+amount of the monetary award in assessing the reasonableness of fees”].)
+Here, the trial court expressly considered the amount of the monetary award
+in determining how to adjust the lodestar. (Cf. Gunther, supra, 72
+Cal.App.5th at p. 359 [in that case, “[t]he trial court did not place significant
+reliance on the extent of Gunther’s monetary success in this litigation” when
+calculating the multiplier. “On this record, we see no likelihood the trial court
+
+
+
+                                        18
+would have exercised its discretion differently in the absence of the error
+regarding the civil penalties”].)
+            Taduran’s reliance on Warren, supra, 30 Cal.App.5th 24, and
+Graciano, supra, 144 Cal.App.4th 140, to preclude consideration of the
+amount of monetary recovery is misplaced. Those cases did not involve a
+representative action. (See Graciano, 144 Cal.App.4th at p. 164 [“This was
+not a representative action, and the underlying rationales expressed in
+[Lealao] are inapplicable”]; Warren, supra, 30 Cal.App.5th at p. 37 [applying
+Graciano to an action under the Song-Beverly Consumer Warranty Act, Civ.
+Code § 1790 et seq.].) In sum, the trial court properly considered various
+relevant factors and reasonably arrived at a negative multiplier. There was
+no abuse of discretion.
+                                    DISPOSITION
+            The Final Judgment is affirmed. Respondent is entitled to its
+costs on appeal.
+
+
+
+                                             DELANEY, ACTING P. J.
+
+
+WE CONCUR:
+
+
+
+GOODING, J.
+
+
+
+SCOTT, J.
+
+
+
+
+                                        19
+Filed 6/17/26
+                        CERTIFIED FOR PUBLICATION
+
+       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         FOURTH APPELLATE DISTRICT
+
+                                 DIVISION THREE
+
+ ABRAHAM TADURAN,
+
+     Plaintiff and Appellant,                    G064718
+
+         v.                                      (Super. Ct. Case No. 30-2017-
+                                                  00934037)
+ JAMES R. GLIDEWELL, DENTAL
+ CERAMICS, INC.,                                  ORDER
+
+     Defendant and Respondent.
+
+
+
+                Respondent has requested that our opinion, filed May 26, 2026,
+be certified for publication. It appears that the opinion meets the standards
+set forth in California Rules of Court, rule 8.1105(c). The request is
+GRANTED.
+                The opinion is ordered published in the Official Reports.
+
+                                              DELANEY, ACTING P. J.
+
+WE CONCUR:
+
+
+GOODING, J.
+
+
+SCOTT, J.

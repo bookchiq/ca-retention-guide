@@ -192,6 +192,61 @@ def test_title_above_name_signature_shape():
     assert ("HOFFSTADT", "brian-m-hoffstadt", "joined") in seats(r)
 
 
+def test_lone_star_line_above_joiners_marks_the_signature_it_sits_over():
+    # "                *" over "BENDIX, Acting P. J.        FEDERMAN, J."
+    r = run("B_4646827")
+    assert [(x.surname, x.role) for x in r.seats] == [
+        ("CHANEY", "author"), ("BENDIX", "joined"), ("FEDERMAN", "joined"),
+    ]
+    federman = r.seats[2]
+    assert (federman.assigned, federman.resolution) == (True, "trial_judge")
+    assert "San Luis Obispo County Superior Court" in federman.assignment_note
+    assert not r.seats[1].assigned
+    r = run("B_6321734")  # dagger alone above "CRANDALL, J."
+    assert [(x.surname, x.role) for x in r.seats] == [
+        ("CHANEY", "author"), ("BENDIX", "joined"), ("CRANDALL", "joined"),
+    ]
+    assert (r.seats[2].assigned, r.seats[2].resolution) == (True, "trial_judge")
+
+
+def test_parenthesized_given_name_signature():
+    r = run("B_9379484")  # EGERTON, J. / I concur: NGUYEN (KIM), J.* / LAVIN dissenting
+    assert [(x.surname, x.role) for x in r.seats] == [
+        ("EGERTON", "author"), ("K. NGUYEN", "joined"), ("LAVIN", "joined"),
+    ]
+    nguyen = r.seats[1]
+    assert (nguyen.assigned, nguyen.resolution) == (True, "trial_judge")
+    assert [(s.type, s.slug) for s in r.separate_opinions] == [("dissent", "luis-a-lavin")]
+
+
+def test_blank_line_titles_with_names_below_in_columns():
+    r = run("B_10473754")  # "____, J.       ____, J." over "CHAVEZ        HOFFSTADT"
+    assert seats(r) == [
+        ("ASHMANN-GERST", "judith-ashmann-gerst", "author"),
+        ("CHAVEZ", "victoria-m-chavez", "joined"),
+        ("HOFFSTADT", "brian-m-hoffstadt", "joined"),
+    ]
+
+
+def test_second_concur_line_qualified_in_part_is_a_joiner_not_a_separate_opinion():
+    # RENNER / I concur: HOCH / "I concur; as to part II.B ..., I concur in the result." MAURO
+    r = run("C_4910478")
+    assert [(x.surname, x.role) for x in r.seats] == [
+        ("RENNER", "author"), ("HOCH", "joined"), ("MAURO", "joined"),
+    ]
+    assert r.seats[2].slug == "louis-mauro"
+    assert r.separate_opinions == []
+
+
+def test_order_before_the_opinion_does_not_supply_the_panel():
+    # ORDER MODIFYING OPINION (DELANEY / I CONCUR: SCOTT) above the opinion itself.
+    r = run("G_11351287")
+    assert [(x.surname, x.role) for x in r.seats] == [
+        ("DELANEY", "author"), ("GOODING", "joined"), ("SCOTT", "joined"),
+    ]
+    assert r.disposition_class == "affirmed"
+
+
 def test_assigned_trial_judge_is_an_assigned_seat_with_no_slug():
     r = run("A_11171776")  # CLAY, J.* -- Judge of the Alameda Superior Court
     author = r.seats[0]
@@ -392,6 +447,14 @@ def test_supreme_court_separate_opinion_joiner_without_comma():
     r = run("S_5175655")
     assert [(s.type, s.author_raw) for s in r.separate_opinions] == [("concurrence", "Justice Liu")]
     assert "Kruger" in [s.surname for s in r.seats]
+
+
+def test_supreme_court_separate_opinion_with_plural_justices_typo():
+    r = run("S_9322897")  # "Justices Liu filed a dissenting opinion." / Justice Kruger ...
+    assert sorted((s.type, s.author_raw) for s in r.separate_opinions) == [
+        ("dissent", "Justice Kruger"), ("dissent", "Justice Liu"),
+    ]
+    assert "Liu" in [s.surname for s in r.seats]
 
 
 def test_supreme_court_opinion_concurring_in_the_judgment():

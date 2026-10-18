@@ -7,6 +7,12 @@
 search_seizure:
   tier: 1
   validated: false   # set true once data/validation/report_tags.md passes R10
+  # Counted as "addressing" the topic only when it is litigated, not just mentioned
+  # (KTD9). Added 2026-10-18 after the anchor-or-3-broad rule measured 28% precision.
+  tag_rule:
+    min_distinct_anchors: 2
+    core_terms: [fourth amendment, motion to suppress, section 1538.5, suppression]
+    min_core_hits: 4
   anchors:
     - fourth amendment
     - motion to suppress

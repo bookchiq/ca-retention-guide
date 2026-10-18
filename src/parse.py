@@ -38,8 +38,9 @@ PREFIXES = {
 # --- signature tokens -------------------------------------------------------------
 
 _WORD = r"(?!(?i:acting)\b)[A-ZÀ-Þ][A-Za-zÀ-ÿ'\-]*"
-# Initials distinguish same-surname justices: "M. KIM, J." and "KIM (D.), J.".
-_NAME = rf"(?:[A-Z]\. )?{_WORD}(?: {_WORD}){{0,3}}(?: \([A-Z]\.\))?"
+# Initials distinguish same-surname justices: "M. KIM, J." and "KIM (D.), J.", and a
+# given name in parentheses does the same: "NGUYEN (KIM), J.".
+_NAME = rf"(?:[A-Z]\. )?{_WORD}(?: {_WORD}){{0,3}}(?: \((?:[A-Z]\.|[A-Z][A-Za-z'\-]+)\))?"
 # Final period sometimes missing ("PETROU, J"); comma sometimes missing ("DE SANTOS J.").
 _TITLE = (
     r"(?:(?:(?i:acting),?\s+)?(?:P\.\s*J|C\.\s*J)\.?|A\.\s*P\.\s*J\.?|J\.?)(?![A-Za-z])"
@@ -68,7 +69,7 @@ def norm_title(raw: str) -> str:
 
 
 def make_sig(name: str, title: str, stars: str | None, line: int) -> Sig:
-    paren = re.fullmatch(r"(.+?) \(([A-Z])\.\)", name)
+    paren = re.fullmatch(r"(.+?) \(([A-Z])[^)]*\)", name)
     surname = f"{paren.group(2)}. {paren.group(1)}" if paren else name
     return Sig(surname, norm_title(title), stars or "", line)
 
@@ -131,10 +132,67 @@ def tokenize(lines: list[str]) -> list[Token]:
         elif nxt is not None and (pair := _split_sig(c, cleaned[nxt], i)):
             tokens.append(Token("sig", i, nxt, f"{c} {cleaned[nxt]}", [pair]))
             k += 1
+        elif nxt is not None and (cols := _split_columns(c, cleaned[nxt], i)):
+            tokens.append(Token("sig", i, nxt, f"{c} {cleaned[nxt]}", cols))
+            k += 1
         else:
             tokens.append(Token("other", i, i, c))
         k += 1
-    return tokens
+    return _attach_star_lines(tokens, lines)
+
+
+_STARS_ONLY = re.compile(r"[*†]+")
+
+
+def _attach_star_lines(tokens: list[Token], lines: list[str]) -> list[Token]:
+    """An assigned judge's star printed alone on the line above a signature line
+    belongs to the signature whose column it sits over (nearest by column)."""
+    out: list[Token] = []
+    for k, tok in enumerate(tokens):
+        nxt = tokens[k + 1] if k + 1 < len(tokens) else None
+        if not (
+            tok.kind == "other" and _STARS_ONLY.fullmatch(tok.text)
+            and nxt is not None and nxt.kind == "sig" and nxt.start - tok.end <= 8
+        ):
+            out.append(tok)
+            continue
+        col = lines[tok.start].index(tok.text)
+        # Underscores and "/s/" blanked to equal-length spaces keep the columns.
+        sig_text = re.sub(r"_|/s/|\\s\\", lambda m: " " * len(m.group(0)), lines[nxt.start],
+                          flags=re.I)
+        spans = [m.span() for m in SIG_RE.finditer(sig_text)]
+        if len(spans) != len(nxt.sigs):
+            spans = [m.span() for m in re.finditer(r"\S+(?: \S+)*", sig_text)]
+        if len(spans) == len(nxt.sigs):
+            k_sig = min(range(len(spans)),
+                        key=lambda j: max(spans[j][0] - col, col - spans[j][1] + 1, 0))
+        else:
+            k_sig = 0 if len(nxt.sigs) == 1 else None
+        if k_sig is None:
+            out.append(tok)
+            continue
+        nxt.sigs[k_sig].stars += tok.text
+    return out
+
+
+def _split_columns(first: str, second: str, line: int) -> list[Sig] | None:
+    """Two or more blank-line signatures side by side, titles on one line and the
+    names in the same column order on the other ("____, J.    ____, J." / "CHAVEZ
+    HOFFSTADT")."""
+    for name_line, title_line in ((first, second), (second, first)):
+        names = re.split(r"\s{2,}", name_line)
+        titles = re.split(r"\s{2,}", title_line)
+        if len(names) < 2 or len(names) != len(titles):
+            continue
+        ns = [_NAME_ONLY.fullmatch(x) for x in names]
+        ts = [_TITLE_ONLY.fullmatch(x) for x in titles]
+        if all(ns) and all(ts) and all(sum(c.islower() for c in n.group("name")) <= 2 for n in ns):
+            return [
+                make_sig(n.group("name"), t.group("title"),
+                         (n.group("star") or "") + (t.group("star") or ""), line)
+                for n, t in zip(ns, ts, strict=True)
+            ]
+    return None
 
 
 def _split_sig(first: str, second: str, line: int) -> Sig | None:
@@ -485,7 +543,7 @@ _SC_AUTHOR = re.compile(
     r"the\s+Court,?\s+in\s+which\s+(?P<joined>.+?)\s+concurred\."
 )
 _SC_SEPARATE = re.compile(
-    r"(?P<who>(?:Chief\s+)?Justice\s+\S+?)\s+filed\s+(?:an?\s+"
+    r"(?P<who>(?:Chief\s+)?Justices?\s+\S+?)\s+filed\s+(?:an?\s+"
     r"(?P<kind>concurring and dissenting|dissenting|concurring)\s+opinion"
     r"|an\s+opinion\s+(?P<kind2>concurring\s+in\s+the\s+(?:judgment|result)"
     r"|concurring and dissenting|dissenting))"
@@ -639,7 +697,7 @@ def parse_opinion(
             typ, part = _KINDS[kind]
             seps.append(SeparateOpinion(typ, part, _sc_raw(sig), sig.surname, sig.title,
                                         sig.stars, line=header_line))
-    block = _majority_block(tokens)
+    block = _majority_block(tokens, lines)
     if block:
         a_k, k, end_k = block
         if not sc:
@@ -737,11 +795,23 @@ def _seat(sig: Sig, role: str, raw: str | None = None) -> Seat:
     return Seat(raw or sig.raw, sig.surname, sig.title, role, line=sig.line)
 
 
-def _majority_block(tokens: list[Token]) -> tuple[int, int, int] | None:
-    """(author index, marker index, last joiner index) for the first "We concur" /
-    "I concur" that follows a signature."""
+# "I concur; as to part II.B of the Discussion, I concur in the result." signed by
+# a joiner directly below it: a qualified concurrence, not a separate opinion.
+_QUALIFIED_CONCUR = re.compile(r"(?:WE|We|I)\s+(?:CONCUR|Concur|concur)\b.{0,160}")
+# An order (modifying the opinion, certifying it for publication) printed in the
+# same document; its signatures are not the panel that decided the case.
+_ORDER_HEAD = re.compile(
+    r"\bORDER\s+(?:MODIFYING|CERTIFYING|DENYING|GRANTING)\b|\S\s{3,}ORDER\s*$|^\s*ORDER\s*$"
+)
+_FILED_HEAD = re.compile(r"\s*Filed\s+\d{1,2}/\d{1,2}/\d{2,4}\b")
+
+
+def _majority_blocks(tokens: list[Token]) -> list[tuple[int, int, int]]:
+    """(author index, marker index, last joiner index) for each "We concur" /
+    "I concur" that follows a signature, in order."""
+    blocks: list[tuple[int, int, int]] = []
     for k, tok in enumerate(tokens):
-        if tok.kind != "marker":
+        if tok.kind != "marker" or (blocks and k <= blocks[-1][2]):
             continue
         # A page-bottom footnote ("7 People v. Marsden ...") may sit between the
         # author's signature and "WE CONCUR".
@@ -750,9 +820,40 @@ def _majority_block(tokens: list[Token]) -> tuple[int, int, int] | None:
             j -= 1
         if j >= 0 and tokens[j].kind == "sig":
             end = k
-            while end + 1 < len(tokens) and tokens[end + 1].kind == "sig":
-                end += 1
-            return j, k, end
+            while True:
+                while end + 1 < len(tokens) and tokens[end + 1].kind == "sig":
+                    end += 1
+                # Each joiner may have a concur line of their own: "I concur:" HOCH
+                # then "I concur; as to part II.B ... in the result." MAURO.
+                nxt = tokens[end + 1] if end + 1 < len(tokens) else None
+                if (
+                    nxt is not None and end + 2 < len(tokens) and tokens[end + 2].kind == "sig"
+                    and (nxt.kind == "marker" or (
+                        nxt.kind == "other" and _QUALIFIED_CONCUR.fullmatch(nxt.text)))
+                ):
+                    end += 1
+                    continue
+                break
+            blocks.append((j, k, end))
+    return blocks
+
+
+def _majority_block(tokens: list[Token], lines: list[str]) -> tuple[int, int, int] | None:
+    """The block that signs the decision: the first one, unless it signs an order
+    printed ahead of the opinion and a later block exists."""
+    blocks = _majority_blocks(tokens)
+    # A new document starts after the previous block, at a "Filed 5/26/26" header,
+    # or after a per curiam order ("THE COURT").
+    starts = [i for i, x in enumerate(lines) if _FILED_HEAD.match(x)]
+    starts += [t.end + 1 for t in tokens if t.kind == "court"]
+    prev_end = 0
+    for n, block in enumerate(blocks):
+        start = tokens[block[0]].start
+        seg = max([prev_end, *(s for s in starts if s <= start)])
+        is_order = any(_ORDER_HEAD.search(x) for x in lines[seg:start])
+        if not is_order or n == len(blocks) - 1:
+            return block
+        prev_end = tokens[block[2]].end + 1
     return None
 
 
