@@ -118,6 +118,11 @@ def test_excluded_without_reason_fails():
     assert any("exclusion_reason" in e for e in errors)
 
 
+def test_no_rule_applies_is_an_exclusion_reason():
+    rec = listed(listing_decision="excluded", exclusion_reason="no_rule_applies")
+    assert review.validate_record(rec, TOPICS) == []
+
+
 def test_not_reached_is_not_an_exclusion_reason():
     errors = review.validate_record(
         listed(listing_decision="excluded", exclusion_reason="not_reached"), TOPICS)

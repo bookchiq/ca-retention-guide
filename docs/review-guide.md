@@ -6,7 +6,11 @@ How each queued case is read, decided, and recorded. The same rules apply to eve
 
 The case is **at issue** if the court decides a search or seizure claim on the merits, or rules one forfeited, waived, or not cognizable: Fourth Amendment claims; motions to suppress (Pen. Code § 1538.5); warrant sufficiency; warrantless searches and their exceptions (consent, exigency, automobile, search incident to arrest, probation/parole/Fourth-waiver searches, inevitable discovery, good faith); detentions, stops, pat-downs, prolonged stops; the lawfulness of an arrest as a seizure; CalECPA suppression. An ineffective-assistance claim counts only if the court analyzes whether the search or seizure was lawful. Mentions in the facts or procedural history, probation-condition challenges (Lent/overbreadth), and Miranda-only issues are **not** at issue.
 
+A ruling on how a suppression motion is litigated (its timeliness, a continuance of the suppression hearing, whether a hearing must be held) **is** at issue: it rules on the claim the way a forfeiture ruling does. *(Clarified 2026-10-18 after two readers decided* People v. Brown *(S271877) differently.)*
+
 Not at issue → `listing_decision: excluded`, `exclusion_reason: topic_not_at_issue`. Stop.
+
+A case shared by several justices' queues gets the same at-issue decision for every justice.
 
 ## 2. Which listing rule applies?
 
@@ -21,6 +25,8 @@ Check the queue entry's `candidate_rules`, then decide from the opinion. Use the
 | L4 | The justice wrote or joined the majority over another justice's dissent **on the search or seizure issue** | `joined_majority_over_dissent` (or `author` if they wrote it) | Dissent on another issue → exclude, `dissent_on_other_issue` |
 
 A queued opinion that is the same decision as another queued one (a modified version, a duplicate) → exclude, `duplicate`.
+
+The issue is at issue but the justice's role meets none of the rules (for example, they joined a dissent another justice wrote, or joined a unanimous unpublished affirmance) → exclude, `no_rule_applies`.
 
 ## 3. The record (listed cases)
 

@@ -37,6 +37,7 @@ ROLES_FOR_RULE = {
 }
 EXCLUSION_REASONS = {
     "topic_not_at_issue", "topic_issue_affirmed", "dissent_on_other_issue", "duplicate",
+    "no_rule_applies",  # at issue, but the justice's role meets no rule (e.g. joined a dissent)
 }
 POSTURES = {
     "defendant_appeal", "people_appeal", "writ_by_defendant", "writ_by_people", "civil_appeal",

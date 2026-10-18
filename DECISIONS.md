@@ -49,6 +49,14 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 **Keyword change: `search_seizure` tag rule.** The anchor-or-3-broad rule measured **28% precision** (14 of 50 tagged opinions address a search or seizure claim; independent labels, KTD9 definition) with no misses among 60 untagged criminal opinions. Most false positives mention "search warrant" once in the facts. New rule for this topic only: at least 2 distinct anchor terms **and** at least 4 occurrences of core terms (Fourth Amendment, motion to suppress, section 1538.5, suppression). It tags 598 opinions instead of 2,305. The reading queue keeps the loose match (any anchor or broad term), so the stricter rule never shrinks what readers see. The rule was fit on that sample, so it is being re-validated on fresh samples: 50 newly tagged (precision) and 50 the old rule tagged but the new rule drops (recall loss).
 
+## 2026-10-18: Parsing gate decided; review rule clarification
+
+**Parsing gate (third independent sample, 200 opinions never used for a fix):** author 100%, panel 99.5%, separate opinions 100%. Pooled gate and all six Court of Appeal districts pass, including the 4th District. The Supreme Court stratum failed on one panel error (an assigned Court of Appeal justice printed "Fujisaki *"); fixed, and re-checked on a fresh Supreme Court-only sample before metrics are computed for Groban and Evans.
+
+**Reading rule clarification.** Two readers decided *People v. Brown* (S271877) differently: whether a ruling on continuing a suppression hearing puts the search issue "at issue." Ruled: yes. A ruling on how a suppression motion is litigated (timeliness, continuance, whether a hearing is required) rules on the claim the way a forfeiture ruling does. A case in several justices' queues must get the same at-issue call for each. New exclusion reason `no_rule_applies`: the issue is at issue but the justice's role meets no listing rule (for example, joined a dissent another justice wrote).
+
+**Data quality.** CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
+
 ## 2026-10-17: Review queue rules (U9)
 
 - L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.
