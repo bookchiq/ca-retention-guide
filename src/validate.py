@@ -39,8 +39,14 @@ def norm_name(name: str | None) -> str:
     name = name.split(",")[0]
     name = unicodedata.normalize("NFKD", name)
     name = "".join(ch for ch in name if not unicodedata.combining(ch))
-    name = re.sub(r"[^A-Za-z ]", "", name).upper()
-    return re.sub(r"\s+", " ", name).strip()
+    name = re.sub(r"[^A-Za-z ]", " ", name).upper()
+    # Compare surnames only: drop titles and initials, ignore spacing
+    # ("Chief Justice Cantil-Sakauye" = "CANTIL-SAKAUYE", "D KIM" = "KIM (D.)").
+    tokens = [t for t in name.split() if len(t) > 1 and t not in _TITLE_WORDS]
+    return "".join(tokens)
+
+
+_TITLE_WORDS = {"CHIEF", "JUSTICE", "PRESIDING", "ACTING", "ASSOCIATE", "JUDGE"}
 
 
 def _pool(conn: sqlite3.Connection) -> list[dict]:

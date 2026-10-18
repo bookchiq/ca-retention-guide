@@ -402,6 +402,10 @@ _HEAD_GENERIC = re.compile(
     re.I,
 )
 _RESPECTFULLY = re.compile(r"\bI (?:respectfully )?dissent\b")
+# "POLLAK, P.J. — I concur in the disposition ..." / "SMITH, J. -- I respectfully dissent."
+_DASH_LEAD = re.compile(
+    r"^\s*(?P<sig>[^—–]+?,\s*(?:Acting\s+)?(?:P\.\s*J\.|J\.))\s*(?:—|–|--)\s*(?P<rest>I\b.*)$"
+)
 _KINDS = {
     "concurring in part and dissenting in part": ("dissent", True),
     "concurring and dissenting": ("dissent", True),
@@ -430,6 +434,21 @@ def separate_opinions(tokens: list[Token]) -> list[SeparateOpinion]:
                 pending_kind_line = False
             continue
         if tok.kind != "other":
+            continue
+        lead = _DASH_LEAD.match(tok.text)
+        if lead and (lead_sigs := sig_line(lead.group("sig"))) and len(lead_sigs) == 1:
+            rest = lead.group("rest")[:120].lower()
+            if "concur" in rest and "dissent" in rest:
+                typ, partial = "dissent", True
+            elif "dissent" in rest:
+                typ, partial = "dissent", False
+            else:
+                typ, partial = "concurrence", False
+            sig = lead_sigs[0]
+            current = SeparateOpinion(typ, partial, sig.raw, sig.surname, sig.title, sig.stars,
+                                      line=tok.start)
+            out.append(current)
+            pending_kind_line = False
             continue
         named = heading_signers(tok.text)
         if named:
@@ -466,8 +485,11 @@ _SC_AUTHOR = re.compile(
     r"the\s+Court,?\s+in\s+which\s+(?P<joined>.+?)\s+concurred\."
 )
 _SC_SEPARATE = re.compile(
-    r"(?P<who>(?:Chief\s+)?Justice\s+\S+?)\s+filed\s+an?\s+"
+    r"(?P<who>(?:Chief\s+)?Justice\s+\S+?)\s+filed\s+(?:an?\s+"
     r"(?P<kind>concurring and dissenting|dissenting|concurring)\s+opinion"
+    r"|an\s+opinion\s+(?P<kind2>concurring\s+in\s+the\s+(?:judgment|result)"
+    r"|concurring and dissenting|dissenting))"
+    r"(?:,\s+in\s+which\s+(?P<joined>[^.]+?)\s+concurred)?\."
 )
 
 
@@ -498,10 +520,21 @@ def supreme_statement(text: str) -> tuple[Sig, list[Sig], list[tuple[Sig, str]]]
         if p:
             joined.append(p)
     separates = []
+    seated = {author.surname} | {j.surname for j in joined}
     for s in _SC_SEPARATE.finditer(flat):
         p = _sc_person(s.group("who"))
-        if p:
-            separates.append((p, s.group("kind")))
+        if not p:
+            continue
+        kind = s.group("kind") or re.sub(r"\s+", " ", s.group("kind2"))
+        separates.append((p, kind))
+        # Separate-opinion authors and their joiners sat on the case too.
+        others = [p] + [q for part in re.split(r",\s*and\s+|,\s*|\s+and\s+",
+                                               s.group("joined") or "")
+                        if (q := _sc_person(part))]
+        for q in others:
+            if q.surname not in seated:
+                joined.append(q)
+                seated.add(q.surname)
     return author, joined, separates
 
 

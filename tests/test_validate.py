@@ -124,6 +124,15 @@ def test_names_compare_ignoring_case_accents_and_apostrophes():
     assert validate.norm_name("Rodríguez") == validate.norm_name("RODRIGUEZ")
 
 
+def test_names_compare_ignoring_titles_initials_and_spacing():
+    assert validate.norm_name("Chief Justice Cantil-Sakauye") == validate.norm_name(
+        "CANTIL-SAKAUYE")
+    assert validate.norm_name("Justice Liu") == validate.norm_name("LIU")
+    assert validate.norm_name("D KIM") == validate.norm_name("KIM (D.)")
+    assert validate.norm_name("DeSantos") == validate.norm_name("DE SANTOS")
+    assert validate.norm_name("KIM") != validate.norm_name("KIN")
+
+
 def test_tag_precision_and_recall_scoring(tmp_path):
     path = tmp_path / "tags.csv"
     with open(path, "w", newline="") as fh:

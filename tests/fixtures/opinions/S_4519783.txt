@@ -1,0 +1,637 @@
+cl_opinion_id: 4519783
+cluster: 4739436
+docket: S249495
+date: 2020-03-26
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Orozco
+----
+IN THE SUPREME COURT OF
+               CALIFORNIA
+
+                       THE PEOPLE,
+                  Plaintiff and Respondent,
+                              v.
+                     ERNEST OROZCO,
+                  Defendant and Appellant.
+
+                           S249495
+
+           Fourth Appellate District, Division One
+                         D067313
+
+              San Diego County Superior Court
+                        SCN335521
+
+
+
+                        March 26, 2020
+
+Justice Liu authored the opinion of the Court, in which Chief
+Justice Cantil-Sakauye and Justices Chin, Corrigan, Kruger
+and Groban concurred.
+
+Justice Cuéllar filed an opinion concurring in the judgment.
+                     PEOPLE v. OROZCO
+                            S249495
+
+
+                Opinion of the Court by Liu, J.
+
+
+      Proposition 47, the Safe Neighborhoods and Schools Act,
+amended several statutory provisions to reduce certain criminal
+offenses from felonies to misdemeanors. Here we consider
+whether Proposition 47 applies to an offense under Penal Code
+section 496d, subdivision (a), which criminalizes receipt of a
+stolen vehicle. (All undesignated statutory citations are to the
+Penal Code.) Proposition 47 amended section 496, the general
+statute that criminalizes receipt of stolen property, by making
+the offense a misdemeanor whenever the value of the property
+does not exceed $950. (§ 496, subd. (a) (§ 496(a)).) But
+Proposition 47 did not amend section 496d.
+     Defendant Ernest Orozco pleaded guilty to one felony
+count of “unlawfully buying, receiving, concealing, selling or
+withholding a stolen vehicle” in violation of section 496d. He
+argues that Proposition 47 applies to his offense and seeks to
+reduce his conviction to a misdemeanor. The Court of Appeal
+held that Proposition 47’s revision to section 496, making the
+offense of receiving stolen property a misdemeanor when the
+value of the property is $950 or less, does not extend to
+convictions for receiving a stolen vehicle under section 496d. We
+agree.
+                               I.
+      Orozco was stopped by police officers on August 7, 2014
+while he was driving in Escondido. A routine license plate check
+
+
+                               1
+                       PEOPLE v. OROZCO
+                   Opinion of the Court by Liu, J.
+
+
+indicated the car Orozco was driving had been reported stolen.
+According to the police report, Orozco was the only occupant of
+the vehicle, and the car had a damaged ignition starter and was
+running without a key. The police report listed the value of the
+vehicle as $301. Orozco pleaded guilty to one count of
+unlawfully driving a vehicle in violation of Vehicle Code section
+10851, subdivision (a), and one count of receiving a stolen
+vehicle in violation of Penal Code section 496d, subdivision (a).
+He also admitted to three prior convictions for violating Vehicle
+Code section 10851 and eight prior prison terms under Penal
+Code section 667.5. His prior Vehicle Code section 10851
+convictions required him to be sentenced as a felon under section
+666.5 for his two August 2014 convictions.
+     After Orozco pleaded guilty, California voters enacted
+Proposition 47. On December 11, 2014, Orozco filed a motion
+under Proposition 47 to reduce both his convictions to
+misdemeanors. Because Orozco had not yet been sentenced, he
+sought relief directly under the new law rather than
+resentencing under section 1170.18, subdivision (a). (See People
+v. Lara (2019) 6 Cal.5th 1128, 1135 [“Because defendant had not
+yet been sentenced at the time Proposition 47 became effective,
+its ameliorative provisions apply.”].) The trial court denied
+Orozco’s motion and treated both convictions as felonies.
+     Orozco appealed, and the Court of Appeal affirmed. We
+granted review and transferred the case to the Court of Appeal
+for reconsideration in light of our decision in People v. Page
+(2017) 3 Cal.5th 1175 (Page). Page held that under Proposition
+47, “obtaining an automobile worth $950 or less by theft . . . is
+punishable only as a misdemeanor, regardless of the statutory
+section under which the theft was charged.” (Page, at p. 1187.)
+Upon reconsideration, the Court of Appeal affirmed Orozco’s
+
+                                 2
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+conviction under Vehicle Code section 10851 without prejudice
+to his filing an amended petition to show that the conviction was
+based on theft of a vehicle worth $950 or less. The Court of
+Appeal further held that Proposition 47’s revisions to section
+496 did not affect Orozco’s conviction under section 496d. We
+then granted review on the latter issue.
+                                 II.
+      As amended by Proposition 47, section 496(a) provides in
+part: “Every person who buys or receives any property that has
+been stolen or that has been obtained in any manner
+constituting theft or extortion, knowing the property to be so
+stolen or obtained, or who conceals, sells, withholds, or aids in
+concealing, selling, or withholding any property from the owner,
+knowing the property to be so stolen or obtained, shall be
+punished by imprisonment in a county jail for not more than one
+year, or imprisonment pursuant to subdivision (h) of Section
+1170. However, if the value of the property does not exceed nine
+hundred fifty dollars ($950), the offense shall be a misdemeanor,
+punishable only by imprisonment in a county jail not exceeding
+one year . . . .” (Italics added.) The italicized sentence indicates
+the portion of the statute amended by Proposition 47. Before
+Proposition 47, that sentence read: “However, if the district
+attorney or the grand jury determines that this action would be
+in the interests of justice, the district attorney or the grand jury,
+as the case may be, may, if the value of the property does not
+exceed nine hundred fifty dollars ($950), specify in the
+accusatory pleading that the offense shall be a misdemeanor,
+punishable only by imprisonment in a county jail not exceeding
+one year.” (Former § 496(a); see Voter Information Guide, Gen.
+Elec. (Nov. 4, 2014) text of Prop. 47, § 9, p. 72.) In other words,
+receiving stolen property worth $950 or less was previously a
+
+                                  3
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+“wobbler” offense, i.e., a crime punishable as either a felony or a
+misdemeanor. As a result of Proposition 47, the statute now
+dictates that “the offense shall be a misdemeanor.” (§ 496(a).)
+      Section 496d, subdivision (a) also criminalizes buying or
+receiving stolen property, but it applies specifically to buying or
+receiving a stolen “motor vehicle, as defined in Section 415 of the
+Vehicle Code, any trailer, as defined in Section 630 of the
+Vehicle Code, any special construction equipment, as defined in
+Section 565 of the Vehicle Code, or any vessel, as defined in
+Section 21 of the Harbors and Navigation Code . . . .” (§ 496d,
+subd. (a).) A violation of this statute is a wobbler offense:
+receiving a stolen vehicle “shall be punished by imprisonment
+. . . for 16 months or two or three years or a fine of not more than
+ten thousand dollars ($10,000), or both, or by imprisonment in a
+county jail not to exceed one year or a fine of not more than one
+thousand dollars ($1,000), or both.”          (Ibid.)  As noted,
+Proposition 47 did not amend section 496d.
+      Orozco contends that because the term “any property” in
+section 496(a) includes automobiles, his conviction for receiving
+a stolen vehicle in violation of section 496d must be treated as a
+misdemeanor under the amended language of section 496(a).
+The Attorney General argues that Orozco’s conviction for
+receiving a stolen vehicle is unaffected by Proposition 47’s
+amendment of section 496 because section 496d is a “separate
+and distinct” statute from section 496.
+      “We first examine the statutory language, giving it a plain
+and commonsense meaning” “in the context of the statutory
+framework as a whole.” (Coalition of Concerned Communities,
+Inc. v. City of Los Angeles (2004) 34 Cal.4th 733, 737.) Orozco
+was charged and convicted under section 496d and not section
+
+
+                                  4
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+496(a), a separate statute. Proposition 47 amended section
+496(a) to require receipt of stolen property worth $950 or less to
+be punished as a misdemeanor. It did not add a similar
+provision to section 496d. Section 496d remains the same as it
+was prior to the enactment of Proposition 47. It makes no
+reference to a value threshold below which receipt of a stolen
+vehicle must be punished as a misdemeanor.
+     It is a settled principle of statutory interpretation that
+when voters have “ ‘ “employed a term or phrase in one place
+and excluded it in another, it should not be implied where
+excluded.” ’ ” (People v. Buycks (2018) 5 Cal.5th 857, 880
+(Buycks).) In Buycks, we examined whether section 1170.18,
+subdivision (k), enacted by Proposition 47, “retroactively
+mitigates the already-imposed collateral consequence of a felony
+conviction that is subsequently reduced under [Proposition 47].”
+(Buycks, at p. 878.) Section 1170.18, subdivision (k) provides
+that a felony conviction reduced by Proposition 47 to a
+misdemeanor “shall be considered a misdemeanor for all
+purposes.” In Buycks, we acknowledged that the statute’s text
+clearly reduces the future collateral consequences of offenses
+that Proposition 47 reduces. But we noted that the language is
+silent as to whether it also reduces the already-imposed
+collateral consequences of such offenses. (Buycks, at p. 878.) We
+found it “significant” that the language in subdivisions (a)
+and (f) of section 1170.18, nearby provisions which Proposition
+47 also added, clearly reflect an intent to have full retroactive
+application. (Buycks, at p. 880.) Because section 1170.18,
+subdivision (k) “uses no similar language,” we held that it does
+not have full retroactive effect. (Buycks, at p. 881.)
+     The same reasoning applies here.                 “[W]e generally
+presume that the electorate is aware of existing laws.” (People
+
+                                  5
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+v. Romanowski (2017) 2 Cal.5th 903, 909, citing In re Lance W.
+(1985) 37 Cal.3d 873, 890 & fn. 10.) We therefore presume it
+was aware of section 496d when it approved Proposition 47.
+Proposition 47 only amended section 496(a) to reduce receipt of
+stolen property valued at $950 or less to a misdemeanor. If the
+electorate had intended to reclassify section 496d offenses as
+well, it could have done so in the same way that it did in
+amending section 496(a). It also could have created a new
+misdemeanor sentencing provision governing all receipt of
+stolen property offenses, akin to the misdemeanor sentencing
+provision governing petty theft in section 490.2, which, as
+discussed below, reclassified offenses for theft of property valued
+at $950 or less into the offense of petty theft. But the electorate
+did not do so. Based on this straightforward reading, Orozco’s
+section 496d conviction is not eligible for a sentence reduction
+under Proposition 47.
+      Orozco argues that the term “any property” in section
+496(a) renders his conviction under section 496d a
+misdemeanor. He relies on our decision in Page, supra, 3
+Cal.5th 1175, where we examined the reach of Proposition 47’s
+petty theft provision, section 490.2. Section 490.2, subdivision
+(a) provides: “Notwithstanding Section 487 or any other
+provision of law defining grand theft, obtaining any property by
+theft where the value of the money, labor, real or personal
+property taken does not exceed nine hundred fifty dollars ($950)
+shall be considered petty theft and shall be punished as a
+misdemeanor . . . .” The defendant in Page had received a felony
+conviction under Vehicle Code section 10851, which “may be
+violated in several ways, including by theft of the vehicle.”
+(Page, at p. 1180.) The question was whether the defendant
+could be resentenced to a misdemeanor term under section 490.2
+
+
+                                  6
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+if his Vehicle Code section 10851 conviction was based on theft
+of a vehicle worth $950 or less.
+      In answering yes, we held that “Proposition 47’s new petty
+theft provision, section 490.2, covers the theft form of the
+Vehicle Code section 10851 offense,” even though Vehicle Code
+section 10851 was not amended by Proposition 47 and “is not
+mentioned in the opening clause of section 490.2,
+subdivision (a).” (Page, supra, 3 Cal.5th at pp. 1183, 1186.) We
+explained that “the operative language” of section 490.2
+“ ‘stands on its own and means what it says — the act of
+“obtaining any property by theft where the value . . . does not
+exceed nine hundred fifty dollars ($950)” constitutes petty theft
+and must be charged as a misdemeanor.’ ” (Page, at p. 1186.)
+Because “[a]n automobile is personal property,” we said, “ ‘an
+offender who obtains a car valued at less than $950 by
+theft must be charged with petty theft and may not be charged
+as a felon under any other criminal provision.’ ” (Id. at p. 1183.)
+      Page also concluded that the ballot material was
+consistent with this reading. We noted the Legislative Analyst’s
+explanation in the Proposition 47 voter guide, which said that
+“under existing law, theft of property worth $950 or less could
+be charged as a felony ‘if the crime involves the theft of certain
+property (such as cars).’ (Voter Information Guide, supra,
+analysis of Prop. 47 by Legis. Analyst, p. 35.) Under the
+initiative, according to the analysis, such crimes would no longer
+be charged as grand theft ‘solely because of the type of property
+involved.’ ” (Page, supra, 3 Cal.5th at p. 1187.)
+      According to Orozco, the term “any property” in section
+496(a) is just as encompassing as the term “any property” in
+section 490.2. Therefore, under Page’s logic, the act of receiving
+
+
+                                  7
+                         PEOPLE v. OROZCO
+                     Opinion of the Court by Liu, J.
+
+
+a stolen vehicle worth $950 or less is punishable only as a
+misdemeanor under Proposition 47’s amendment of section
+496(a), even if the offense was prosecuted under section 496d.
+The Court of Appeal in People v. Wehr (2019) 41 Cal.App.5th 123
+(Wehr), relied on the same reasoning: “Just as section 490.2
+applies to obtaining any property by theft, section 496 applies to
+‘buy[ing] or receiv[ing] any property that has been stolen.’
+(§ 496, subd. (a), italics added.) . . . . Thus, receiving a stolen car
+valued at no more than $950 must be treated as a misdemeanor
+pursuant to section 496.” (Id. at p. 131.)
+     However, section 490.2 differs from section 496(a) in two
+ways that together make Orozco’s analogy inapt. First, section
+490.2 is intended to reclassify conduct previously criminalized
+by other offenses into the offense of petty theft. Instead of
+modifying the penalties for the existing grand theft statutes,
+section 490.2 separately defines a category of conduct called
+“petty theft” that sweeps broadly to include theft of any property
+valued at $950 or less. (See Page, supra, 3 Cal.5th at p. 1183
+[“[S]ection 490.2, subdivision (a), mandates misdemeanor
+punishment for a defendant who ‘obtain[ed] any property by
+theft’ where the property is worth no more than $950.”].) For
+this reason, “ ‘the independent clause [in section 490.2]
+containing the definition of petty theft stands on its own and
+means what it says.’ ” (Page, at p. 1186.) Section 490.2 was
+therefore intended to function as a sweeping catch-all that
+would capture all forms of theft, including those chargeable
+under Penal Code section 484e or Vehicle Code section 10851.
+     Proposition 47’s amendment to section 496(a), by contrast,
+does not exhibit the same intent to reclassify conduct
+criminalized by section 496d. Section 496(a) is a longstanding
+statute that previously authorized charging receipt of stolen
+
+                                   8
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+property as a felony regardless of the property’s value. As a
+result of Proposition 47, section 496(a) was amended to state
+that “if the value of the property does not exceed [$950], the
+offense shall be a misdemeanor . . . . ”          (Italics added.)
+Proposition 47’s amendment to section 496(a) did not create a
+new offense or purport to broadly reclassify several existing
+offenses, but rather reduced the punishment for a subset of an
+existing offense. The term “the offense” in the amended portion
+plainly refers to the offense specified in the previous sentence,
+i.e., receipt of stolen property punished under section 496(a).
+Thus, unlike section 490.2, the clause in section 496(a) reducing
+punishment for receipt of stolen property valued at $950 or less
+does not “ ‘stand[] on its own.’ ” (Page, supra, 3 Cal.5th at
+p. 1186.) It refers exclusively to offenses punished under section
+496(a). The amended statute says nothing about an offense
+under section 496d, suggesting that the drafters intended to
+allow prosecutors to retain their discretion to charge section
+496d offenses involving vehicles worth $950 or less as felonies.
+      Second, section 490.2 applies “[n]otwithstanding Section
+487 or any other provision of law defining grand theft.” (§ 490.2,
+subd. (a).) In Page, we concluded that this “notwithstanding”
+clause did not limit the application of the operative part of
+section 490.2 (Page, supra, 3 Cal.5th at p. 1186), but we did not
+say that the clause was irrelevant either.           Rather, we
+acknowledged that the “notwithstanding” clause “saves [the]
+operation [of the statute] against interference from other
+statutory provisions defining certain conduct as grand theft.”
+(Ibid.) In other words, the “notwithstanding” clause in section
+490.2 clarifies that if the statute conflicts with a preexisting
+statute punishing the same conduct, section 490.2 would
+override that other statute. Although “the fact that the opening
+
+
+                                  9
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+clause does not mention Vehicle Code section 10851 may suggest
+its drafters did not have that statute specifically in mind as a
+potential source of conflict,” the existence of the
+“notwithstanding” clause at least indicates that the drafters
+anticipated that conduct criminalized by section 490.2 would
+overlap with conduct criminalized by other statutes and that
+they intended section 490.2 to reclassify such conduct as “petty
+theft” punishable only as a misdemeanor. (Page, at p. 1186.)
+The absence of any “notwithstanding” clause in section 496(a)
+indicates that the drafters did not intend for the statute to affect
+conduct criminalized in other statutes, let alone reclassify
+conduct covered in those statutes. Section 490.2 is therefore not
+comparable to section 496(a) in the way that Orozco claims.
+      The concurring opinion in Wehr reasoned that a
+“notwithstanding” clause expressly stating that section 496(a)
+overrides section 496d is unnecessary because “the relationship
+between section 496 and the more specific receiving stolen
+property provisions [like section 496d] is obvious. The latter are
+special cases of the former.” (Wehr, supra, 41 Cal.App.5th at
+p. 139 (conc. opn. of Slough, Acting P. J.).) But there is nothing
+obvious about construing amendments to one statute as
+impliedly amending another, even if the unamended statute is
+a more specific version of the amended statute. As explained
+above, such construction contravenes the settled principle
+against reading language used in one place into places where it
+is not used. (Buycks, supra, 5 Cal.5th at p. 880.)
+      We also reject the alternative rationale that People v.
+Williams (2018) 23 Cal.App.5th 641 (Williams) relied upon to
+reach the conclusion that Orozco here urges. Williams held that
+section 496d qualifies as a “theft offense” within the meaning of
+section 490.2 and is thus subject to section 490.2’s general
+
+                                  10
+                         PEOPLE v. OROZCO
+                     Opinion of the Court by Liu, J.
+
+
+provision that all theft offenses involving property valued at
+$950 or less are misdemeanors. (Williams, at pp. 649–650.)
+This reasoning is unpersuasive for several reasons.
+      First, we have defined theft as a “taking with intent to
+steal the property — that is, the intent to permanently deprive
+the owner of its possession.” (Page, supra, 3 Cal.5th at p. 1182.)
+The elements of receipt of stolen property, in contrast, do not
+require the defendant to have engaged in any such taking. (See
+generally People v. Russell (2006) 144 Cal.App.4th 1415, 1425
+[setting forth the elements of receipt of stolen property],
+disapproved on another ground in People v. Covarrubias (2016)
+1 Cal.5th 838, 874, fn. 14.) Second, it is well established that a
+person who steals property cannot be convicted of receiving that
+property. (See People v. Ceja (2010) 49 Cal.4th 1, 6 [“commission
+of the theft excludes the possibility of a receiving conviction”].)
+Because a “theft conviction operates as a bar to a receiving
+conviction” (id. at p. 3), it is difficult to understand how receiving
+stolen property could amount to theft. Third, interpreting
+receiving stolen property to be a form of a theft offense would
+render part of Proposition 47 superfluous. Proposition 47 both
+amended section 496, receiving stolen property, and added
+section 490.2, petty theft. There would be no need to amend
+section 496 if the amendments to section 490.2 applied to
+receiving stolen property offenses. We disapprove People v.
+Wehr, supra, 41 Cal.App.5th 123 and People v. Williams, supra,
+23 Cal.App.5th 641 to the extent they are inconsistent with this
+opinion.
+      Finally, we conclude that the construction we adopt here
+results in no absurdity because the electorate plausibly could
+have chosen to punish receipt of stolen vehicles more severely
+than vehicle theft or receipt of other types of stolen property.
+
+                                   11
+                        PEOPLE v. OROZCO
+                    Opinion of the Court by Liu, J.
+
+
+For example, the electorate could have concluded that stolen
+vehicles, unlike other items of stolen property, are often
+dismantled and sold for parts on the secondary market, which
+can raise their worth above retail value.
+     Because the language of sections 496 and 496d is clear
+that a conviction for receiving a stolen vehicle valued at $950 or
+less under section 496d does not qualify for sentence reduction,
+we need not look to extrinsic sources for guidance. (In re D.B.
+(2014) 58 Cal.4th 941, 945 [“ ‘If the statutory language is clear
+and unambiguous our inquiry ends.’ ”].) We recognize that there
+is language in the ballot material suggesting that voters
+intended Proposition 47 to reach convictions under section 496d.
+In the voter guide, the analysis by the Legislative Analyst said:
+“Receiving Stolen Property. Under current law, individuals
+found with stolen property may be charged with receiving stolen
+property, which is a wobbler crime. Under this measure,
+receiving stolen property worth $950 or less would always be a
+misdemeanor.” (Voter Information Guide, Gen. Elec., supra,
+analysis of Prop. 47 by Legis. Analyst, p. 35.) The word “always”
+may have conveyed to voters that every conviction for receiving
+stolen property, regardless of the type of property or statute of
+conviction, would be a misdemeanor if the property is worth
+$950 or less. Alternatively, it may have conveyed to voters that
+every conviction for receiving stolen property worth $950 or less
+pursuant to section 496(a) would always be a misdemeanor.
+Whatever the meaning of the ballot material, it cannot overcome
+the unambiguous statutory text, which indicates that
+Proposition 47’s amendments to section 496(a) do not affect
+punishments for receipt of stolen vehicles under section 496d.
+We must interpret the statutory language that the electorate
+actually wrote. (See Amwest Surety Ins. Co. v. Wilson (1995) 11
+
+
+                                  12
+                       PEOPLE v. OROZCO
+                   Opinion of the Court by Liu, J.
+
+
+Cal.4th 1243, 1260–1261 [voters “ ‘must be assumed to have
+voted intelligently upon an [initiative], the whole text of which
+was supplied each of them prior to the election, and which they
+must be assumed to have duly considered, regardless of any
+insufficient recitals in the instructions to voters or the
+arguments pro and con of its advocates or opponents
+accompanying the text of the proposed measure’ ”].)
+                        CONCLUSION
+     We hold that Proposition 47’s amendment to section
+496(a) did not affect convictions for receiving stolen property
+under section 496d. Accordingly, we affirm the judgment of the
+Court of Appeal.
+
+
+
+
+                                                         LIU, J.
+
+
+We Concur:
+CANTIL-SAKAUYE, C. J.
+CHIN, J.
+CORRIGAN, J.
+KRUGER, J.
+GROBAN, J.
+
+
+
+
+                                 13
+                     PEOPLE v. OROZCO
+                            S249495
+
+
+      Opinion by Cuéllar, J., concurring in the judgment
+
+
+      When California’s voters approved Proposition 47 in 2014,
+they amended the crime of receiving stolen property under
+Penal Code section 496, subdivision (a) (section 496(a)). What
+the court holds today is that this change “did not affect”
+convictions for receiving a stolen vehicle under section 496d.
+(Maj. opn., ante, at p. 13.) I agree. But this conclusion is less
+mysterious –– and more snugly consistent not only with the
+language of the statute, but also the ballot materials explaining
+Proposition 47 to California’s voters –– than the majority
+opinion suggests.
+     Prior to Proposition 47, the crime of receiving stolen
+property when the value of the property did not exceed $950 was
+a so-called wobbler offense: a crime punishable as either a
+felony or a misdemeanor. (Pen. Code, former § 496(a); Voter
+Information Guide, Gen. Elec. (Nov. 4, 2014) text of Prop. 47,
+§ 9, p. 72.) What Proposition 47 did was transform this offense
+from a wobbler into a misdemeanor, provided the property’s
+value does not exceed $950. (§ 496(a).)
+      Contrast this with Penal Code section 496d, which defines
+a separate offense: receiving stolen vehicles, trailers, vessels,
+and certain related equipment. Irrespective of a vehicle’s value,
+the offense remains a wobbler. The Legislature enacted this
+separate statute, “specific to vehicles” and related equipment,
+“in order to better track” such conduct. (Sen. Rules Com., Off.
+                        PEOPLE v. OROZCO
+                  Cuéllar, J., concurring in judgment
+
+
+of Sen. Floor Analyses, 3d reading analysis of Assem. Bill No.
+2390 (1997-1998 Reg. Sess.) as amended June 23, 1998, p. 2.) As
+the parties readily conceded at oral argument, that purpose
+would be poorly served if prosecutors retained unfettered
+discretion to prosecute the crime of receiving a stolen vehicle
+under the more general provision of receiving stolen property
+(§ 496(a)) instead of section 496d.
+      If a person receiving a stolen vehicle may indeed be
+charged only under Penal Code section 496d, then the resolution
+of this case is straightforward. By amending section 496(a)
+while leaving section 496d untouched, California’s voters
+embraced a reduction in punishment that left unchanged the
+penalties for receiving a stolen vehicle. That latter offense was
+a wobbler before Proposition 47, and so it remains.
+      The distinct reach of these two statutes also helps make
+sense of the Proposition 47 ballot materials. As the Legislative
+Analyst explained, “[u]nder current law, individuals found with
+stolen property may be charged with receiving stolen property,
+which is a wobbler crime. Under this measure, receiving stolen
+property worth $950 or less would always be a misdemeanor.”
+(Voter Information Guide, Gen. Elec., supra, analysis of Prop.
+47 by Legis. Analyst, p. 35.) When they read that “receiving
+stolen property worth $950 or less would always be a
+misdemeanor” (ibid., italics added) without any reference to a
+specific statute, reasonable voters likely would have understood
+the mitigated punishment to encompass only general “property
+that has been stolen” within the meaning of section 496(a) —
+which necessarily excludes stolen vehicles. Because defendant
+was convicted of receiving a stolen vehicle in violation of section
+496d, he’s not entitled to relief under Proposition 47. For these
+reasons, I agree the judgment below should be affirmed.
+
+                                  2
+      PEOPLE v. OROZCO
+Cuéllar, J., concurring in judgment
+
+
+
+
+                            CUÉLLAR, J.
+
+
+
+
+                3
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion People v. Orozco
+__________________________________________________________________________________
+
+Unpublished Opinion
+Original Appeal
+Original Proceeding
+Review Granted XXX 24 Cal.App.5th 667
+Rehearing Granted
+
+__________________________________________________________________________________
+
+Opinion No. S249495
+Date Filed: March 26, 2020
+__________________________________________________________________________________
+
+Court: Superior
+County: San Diego
+Judge: Michael J. Popkins
+
+__________________________________________________________________________________
+
+Counsel:
+
+Benjamin B. Kington, under appointment by the Supreme Court, for Defendant and Appellant.
+
+Kamala D. Harris and Xavier Becerra, Attorneys General, Gerald A. Engler and Lance E. Winters, Chief
+Assistant Attorneys General, Julie L. Garland, Assistant Attorney General, A. Natasha Cortina, Meagan
+Beale, Kristen Kinnaird Chenelia, Michael Pulos, Minh U. Le and Daniel Hilton, Deputy Attorneys
+General, for Plaintiff and Respondent.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+Benjamin Kington
+Boyce & Schaefer
+934 23rd Street
+San Diego, CA 92102-1914
+(619) 232-3320
+
+Minh U. Le
+Deputy Attorney General
+600 West Broadway, Suite 1800
+San Diego, CA 92101
+(619) 738-9055

@@ -1,0 +1,1547 @@
+cl_opinion_id: 4433270
+cluster: 4656017
+docket: S248105
+date: 2019-08-26
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Aledamat
+----
+IN THE SUPREME COURT OF
+               CALIFORNIA
+
+                        THE PEOPLE,
+                   Plaintiff and Respondent,
+                               v.
+                     YAZAN ALEDAMAT,
+                   Defendant and Appellant.
+
+                           S248105
+
+           Second Appellate District, Division Two
+                         B282911
+
+              Los Angeles County Superior Court
+                          BA451225
+
+
+
+                       August 26, 2019
+
+Justice Chin authored the opinion of the Court, in which Chief
+Justice Cantil-Sakauye and Justices Corrigan and Kruger
+concurred.
+
+
+Justice Liu filed a concurring and dissenting opinion.
+
+
+Justice Cuéllar filed a concurring and dissenting opinion, in
+which Justice Groban concurred.
+                   PEOPLE v. ALEDAMAT
+                           S248105
+
+
+               Opinion of the Court by Chin, J.
+
+
+      Defendant Yazan Aledamat was charged with assault
+with a deadly weapon, specifically a box cutter. A few objects
+are inherently deadly weapons. Others, including a box cutter,
+are deadly weapons only if used in a way that makes them
+deadly weapons. Here, the trial court erroneously permitted the
+jury to consider the box cutter an inherently deadly weapon. It
+presented the jury with two possible theories of guilt: (1) that
+the box cutter was inherently deadly, and (2) that defendant
+used the box cutter in a deadly way. The first of these theories
+was erroneous under the facts. A box cutter is, as a matter of
+law, not inherently deadly. The second theory was correct. We
+must decide what standard of review applies to this error.
+      We conclude the usual “beyond a reasonable doubt”
+standard of review established in Chapman v. California (1967)
+386 U.S. 18, 24 (Chapman) for federal constitutional error
+applies. The reviewing court must reverse the conviction unless,
+after examining the entire cause, including the evidence, and
+considering all relevant circumstances, it determines the error
+was harmless beyond a reasonable doubt. On this record,
+applying this standard, we conclude beyond a reasonable doubt
+that the error was harmless. Accordingly, we reverse the
+judgment of the Court of Appeal, which found the error
+prejudicial.
+
+
+
+
+                               1
+                       PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+           I. FACTUAL AND PROCEDURAL HISTORY
+       The Court of Appeal opinion summarized the facts. “In
+October 2016, defendant approached a woman working at a
+lunch truck parked in downtown Los Angeles. He told her that
+he found her attractive and asked her for her phone number; she
+declined, explaining that she was married with children. On
+October 22, 2016, defendant approached the woman’s husband,
+who owned the food truck. Defendant asked, ‘Where’s your
+wife?’ Defendant then told the man that he wanted to ‘fuck’ his
+wife because she was ‘very hot’ and ‘had a big ass and all of that.’
+When the man turned away to remove his apron, defendant
+pulled a box cutter out of his pocket and extended the blade;
+from three or four feet away, defendant thrust the blade at the
+man at waist level, saying, ‘I’ll kill you.’ Two nearby police
+officers on horses intervened and arrested defendant.” (People
+v. Aledamat (2018) 20 Cal.App.5th 1149, 1151-1152
+(Aledamat).)
+      As relevant to the issue on review, the People charged
+defendant with assault with a deadly weapon under Penal Code
+section 245, subdivision (a)(1), and making a criminal threat
+under Penal Code section 422.1 As to the threat charge, the
+People also alleged that defendant personally used a deadly and
+dangerous weapon. (§ 12022, subd. (b)(1).) The case went to a
+jury trial.
+      The court instructed the jury that, for the assault charge,
+the People had to prove the following: “The defendant did an act
+with a deadly weapon other than a firearm that by its nature
+would directly and probably result in the application of force to
+
+
+1
+      All further statutory references are to the Penal Code.
+
+
+                                  2
+                       PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+say [sic] person; the defendant did that act willfully; when the
+defendant acted, he was aware of facts that would lead a
+reasonable person to realize that his act by its nature would
+directly and probably result in the application of force to
+someone; and when the defendant acted, he had the present
+ability to apply force with a deadly weapon other than a firearm
+to a person.” (See CALCRIM No. 875.)
+      The court defined “a deadly weapon” as “any object,
+instrument, or weapon that is inherently deadly or one that is
+used in such a way that it is capable of causing and likely to
+cause death or . . . great bodily injury.” (See CALCRIM No.
+875.) Regarding the weapon enhancement, the court instructed
+that “a deadly or dangerous weapon is any object, instrument,
+or weapon that is inherently dangerous, . . . or one that is used
+in such a way that it is capable of causing or likely to cause death
+or great bodily injury. In deciding whether an object is a deadly
+weapon, consider all of the surrounding circumstances including
+when and where the object was possessed and any other
+evidence that indicates whether the object would be used for a
+dangerous rather than a harmless purpose.” (See CALCRIM
+No. 3145.) The court did not define what “inherently” deadly or
+dangerous meant.
+      In his opening argument to the jury, the prosecutor argued
+that the box cutter was a “deadly weapon” because “[i]f used in
+a way to cause harm, it would cause harm.” Emphasizing the
+word “probably,” defense counsel argued that defendant’s act
+would not probably result in the application of force to the
+victim. Defense counsel did not specifically discuss whether the
+box cutter was a deadly weapon. In his closing argument, the
+prosecutor argued that the box cutter was an “inherently deadly
+
+
+
+                                  3
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+weapon,” noting that “you wouldn’t want your children playing
+with” it.
+      The jury convicted defendant of both counts and found the
+weapon allegation true. The court sentenced defendant to
+prison, and he appealed.
+      The Court of Appeal affirmed the conviction for making a
+criminal threat. But it reversed the conviction of assault with a
+deadly weapon and the true finding on the weapon allegation.
+It found that the trial court erroneously permitted the jury to
+find the box cutter to be an inherently deadly weapon. It
+believed the error required it to reverse the conviction “ ‘absent
+a basis in the record to find that the verdict was actually based
+on a valid ground,’ ” which “exists only when the jury has
+‘actually’ relied upon the valid theory.” (Aledamat, supra, 20
+Cal.App.5th at p. 1153.) It found “no basis in the record for
+concluding that the jury relied on the alternative definition of
+‘deadly weapon’ (that is, the definition looking to how a
+noninherently dangerous weapon was actually used).” (Id. at p.
+1154.)
+       The Court of Appeal added that “the rules regarding
+prejudice that we apply in this case are arguably in tension with
+more recent cases, such as People v. Merritt (2017) 2 Cal.5th 819
+[216 Cal.Rptr.3d 265, 392 P.3d 421], providing that the failure
+to instruct on the elements of a crime does not require reversal
+if those omitted elements are ‘uncontested’ and supported by
+‘ “overwhelming evidence.” ’ (Id. at pp. 821-822, 830-832; see
+Neder v. United States (1999) 527 U.S. 1, 17-18 [144 L.Ed.2d 35,
+119 S.Ct. 1827].) That test would certainly be satisfied here,
+where defendant never disputed that the box cutter was being
+
+
+
+
+                                  4
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+used as a deadly weapon and where the evidence of such use is
+overwhelming.” (Aledamat, supra, 20 Cal.App.5th at p. 1154.)
+     We granted the Attorney General’s petition for review to
+determine the standard of review of error of this kind, and to
+determine whether the error was prejudicial under this
+standard.
+                         II. DISCUSSION
+     A. The Error
+      The jury found defendant guilty of assault with a deadly
+weapon under section 245, subdivision (a)(1), and, as to the
+criminal threat charge, it found true that defendant personally
+used a deadly or dangerous weapon under section 12022,
+subdivision (b)(1). The court instructed the jury that a weapon
+could be either inherently deadly or deadly in the way defendant
+used it. The instruction accurately stated the law. However, as
+the parties agree, the evidence did not support the instruction.
+       “As used in section 245, subdivision (a)(1), a ‘deadly
+weapon’ is ‘any object, instrument, or weapon which is used in
+such a manner as to be capable of producing and likely to
+produce, death or great bodily injury.’ [Citation.] Some few
+objects, such as dirks and blackjacks, have been held to be
+deadly weapons as a matter of law; the ordinary use for which
+they are designed establishes their character as such. (People v.
+Graham (1969) 71 Cal.2d 303, 327 [78 Cal.Rptr. 217, 455 P.2d
+153] . . . .) Other objects, while not deadly per se, may be used,
+under certain circumstances, in a manner likely to produce
+death or great bodily injury. In determining whether an object
+not inherently deadly or dangerous is used as such, the trier of
+fact may consider the nature of the object, the manner in which
+it is used, and all other facts relevant to the issue.” (People v.
+
+
+                                  5
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+Aguilar (1997) 16 Cal.4th 1023, 1028-1029; accord, People v.
+Perez (2018) 4 Cal.5th 1055, 1065.)
+      Because a knife can be, and usually is, used for innocent
+purposes, it is not among the few objects that are inherently
+deadly weapons. “While a knife is not an inherently dangerous
+or deadly instrument as a matter of law, it may assume such
+characteristics, depending upon the manner in which it was
+used . . . .” (People v. McCoy (1944) 25 Cal.2d 177, 188.) “A box
+cutter is a type of knife” that, “because it is designed to cut
+things and not people,” is not an inherently deadly weapon as a
+matter of law under McCoy. (Aledamat, supra, 20 Cal.App.5th
+at p. 1153; see People v. Stutelberg (2018) 29 Cal.App.5th 314,
+317 (Stutelberg) [also involving assault with a box cutter].)2
+      Accordingly, as the Court of Appeal held in this case, and
+as the court in Stutelberg, supra, 29 Cal.App.5th at page 317,
+held, the trial court erred in presenting the jury with two
+theories by which it could find the box cutter a deadly weapon:
+
+
+
+2
+       The weapon enhancement is for use of a “deadly or
+dangerous” weapon (§ 12022, subd. (b)(1)), rather than
+specifically a deadly weapon, as under section 245, subdivision
+(a)(1). But the same rule appears to apply, as indicated by
+McCoy’s statement that “a knife is not an inherently dangerous
+or deadly instrument as a matter of law.” (People v. McCoy,
+supra, 25 Cal.2d at p. 188; see People v. Graham, supra, 71
+Cal.2d at p. 327 [stating the same rule regarding whether an
+object is a “ ‘dangerous or deadly weapon,’ ” cited in People v.
+Aguilar, supra, 16 Cal.4th at p. 1029]; People v. Brown (2012)
+210 Cal.App.4th 1, 9-10.) Accordingly, a box cutter is neither an
+inherently deadly nor an inherently deadly or dangerous
+weapon. For simplicity, we will generally refer to this case as
+involving a deadly weapon.
+
+
+
+                                  6
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+(1) inherently or (2) as used. The first theory (inherently) is
+incorrect, but the second theory (as used) is correct.
+      In People v. Guiton (1993) 4 Cal.4th 1116 (Guiton), we
+considered the consequences when a court instructs on two
+theories of guilt, one correct and the other incorrect.3 We
+distinguished between two categories of incorrect theories.
+Under what we called a “ ‘factually inadequate theory,’ ” the
+theory is incorrect only because the evidence does not support it.
+(Id. at p. 1128.) We said that “[i]f the inadequacy of proof is
+purely factual, of a kind the jury is fully equipped to detect,
+reversal is not required whenever a valid ground for the verdict
+remains, absent an affirmative indication in the record that the
+verdict actually did rest on the inadequate ground.” (Id. at p.
+1129; see People v. Rivera (2019) 7 Cal.5th 306, 329.)
+      Under what we called a “ ‘legally inadequate theory,’ ” the
+theory is incorrect because it is contrary to law. (Guiton, supra,
+4 Cal.4th at p. 1128.) An example of this second category “is a
+case where the inadequate theory ‘fails to come within the
+statutory definition of the crime.’ ” (Ibid.) As an example, we
+cited People v. Green (1980) 27 Cal.3d 1, where the jury was
+erroneously permitted to consider 90 feet to be sufficient to
+satisfy the asportation element for kidnapping. “At issue [in
+Green] was whether 90 feet was sufficient asportation to satisfy
+the elements, or the ‘statutory definition,’ of kidnapping. There
+was no insufficiency of proof in the sense that there clearly was
+evidence from which a jury could find that the victim had been
+asported the 90 feet. Instead, we held that the distance was
+
+3
+      We will call this kind of error “alternative-theory error,”
+as has the United States Supreme Court. (Hedgpeth v. Pulido
+(2008) 555 U.S. 57, 61 (Hedgpeth).)
+
+
+                                  7
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+‘legally insufficient.’ (Green, supra, 27 Cal.3d at p. 67, italics
+added.)” (Guiton, at p. 1128.)
+      When the theory is legally erroneous—i.e., of a kind the
+jury is not equipped to detect—a higher standard must be met
+for the error to be found harmless. “These different tests reflect
+the view that jurors are ‘well equipped’ to sort factually valid
+from invalid theories, but ill equipped to sort legally valid from
+invalid theories.” (Aledamat, supra, 20 Cal.App.5th at pp. 1153-
+1154, quoting Guiton, supra, 4 Cal.4th at p. 1126.) Or, as the
+Stutelberg court summarized, “A legal error is an incorrect
+statement of law, whereas a factual error is an otherwise valid
+legal theory that is not supported by the facts or evidence in a
+case. [Citation.] Between the two, legal error requires a more
+stringent standard for prejudice, for jurors are presumed to be
+less able to identify and ignore an incorrect statement of law due
+to their lack of formal legal training. [Citation.] Factual errors,
+on the other hand, are less likely to be prejudicial because jurors
+are generally able to evaluate the facts of a case and ignore
+factually inapplicable theories.”         (Stutelberg, supra, 29
+Cal.App.5th at p. 318.)
+      As both the Court of Appeal and Stutelberg held, the error
+here is of the second category: legal error. Courts have held
+that a knife is not inherently deadly as a matter of law. Only a
+few items that are designed to be used as deadly weapons are
+inherently deadly. (People v. Perez, supra, 4 Cal.5th at p. 1065;
+People v. Aguilar, supra, 16 Cal.4th at p. 1029.) If the court had
+instructed the jury on this point, the error would have been
+purely factual. “But the jurors were never provided with this
+definition, and they could reasonably classify a box cutter, which
+is sharp and used for cutting, as inherently dangerous based on
+the common understanding of the term. This amounts to legal,
+
+                                  8
+                       PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+rather than factual, error.” (Stutelberg, supra, 29 Cal.App.5th
+at p. 319.) “There was no failure of proof—that is, a failure to
+show through evidence that the box cutter is an ‘inherently
+dangerous’ weapon. Instead, a box cutter cannot be an
+inherently deadly weapon ‘as a matter of law.’ ” (Aledamat,
+supra, 20 Cal.App.5th at p. 1154.) Because the trial court here
+did not define what “inherently deadly” meant, the jury would
+not be equipped to know that, contrary to what the instruction
+suggested, a box cutter is not an inherently deadly weapon.
+      Based on the state of the law at the time, in Guiton, we
+said that legal error is “subject to the rule generally requiring
+reversal.” (Guiton, supra, 4 Cal.4th at p. 1128.) But we also
+said that this does not mean that reversal is always required
+when the error is legal. (Id. at p. 1129.) Because the error in
+Guiton was purely factual, and thus subject to the lenient
+standard of review applicable to factually inadequate theories,
+we did not need to decide the exact standard of review of cases
+involving legal error. (Id. at p. 1130.) We said that “[o]ne way
+of finding this kind of error harmless has long been recognized.
+Sometimes it is possible to determine from other portions of the
+verdict that the jury necessarily found the defendant guilty on a
+proper theory. [Citations.] [¶] There may be additional ways
+by which a court can determine that [legal] error . . . is harmless.
+We leave the question to future cases.” (Id. at pp. 1130-1131.)
+      We now consider this question.
+      B. Standard of Review of the Error
+      “[B]efore a federal constitutional error can be held
+harmless, the court must be able to declare a belief that it was
+harmless beyond a reasonable doubt.” (Chapman, supra, 386
+U.S. at p. 24.) This harmless error rule applies in a variety of
+
+
+                                  9
+                       PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+contexts, such as to error in omitting entirely one or more
+elements of a charged offense. (People v. Merritt, supra, 2
+Cal.5th at p. 822 (Merritt).)
+      In Merritt, the trial court neglected to instruct the jury on
+most of the elements of the charged offenses of robbery. We
+found the error, “serious though it was,” subject to harmless
+error review. (Merritt, supra, 2 Cal.5th at p. 822.) Relying
+heavily on United States Supreme Court decisions such as
+Neder v. United States, supra, 527 U.S. 1 (Neder) (omission of
+an element of the offense) and Hedgpeth, supra, 555 U.S. 57
+(alternative-theory error like that of this case), we held the error
+“is reversible unless harmless beyond a reasonable doubt.”
+(Merritt, at p. 822.)
+      Defendant argues that the application of Chapman is
+different for alternative-theory error than for other
+misdescriptions of the elements of the charged offense. The
+Court of Appeal agreed. Citing Guiton, supra, 4 Cal.4th 1116, it
+believed the error requires reversal unless there is a basis in the
+record to find that “the jury has ‘actually’ relied upon the valid
+theory . . . .” (Aledamat, supra, 20 Cal.App.5th at p. 1153.) The
+court further believed that, on this record, it could not find that
+the jury actually relied on the valid theory. Guiton did not
+resolve the question; it reserved it for a future case. (See People
+v. Chun (2009) 45 Cal.4th 1172, 1203 (Chun); People v. Cross
+(2008) 45 Cal.4th 58, 70 (conc. opn. of Baxter, J.).) We conclude
+that no higher standard of review applies to alternative-theory
+error than applies to other misdescriptions of the elements. The
+same beyond a reasonable doubt standard applies to all such
+misdescriptions, including alternative-theory error. We agree
+with the recent Court of Appeal decisions of Stutelberg, supra,
+29 Cal.App.5th at pages 319-321, and People v. Brown, supra,
+
+                                 10
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+210 Cal.App.4th at pages 12-13, which reached similar
+conclusions regarding similar error.4
+      Chun, supra, 45 Cal.4th 1172, involved alternative-theory
+error concerning the element of implied malice in a murder case.
+Citing authority that included Neder, supra, 527 U.S. 1, and
+Hedgpeth, supra, 555 U.S. 57, we reiterated that “[i]nstructional
+error regarding the elements of the offense requires reversal of
+the judgment unless the reviewing court concludes beyond a
+reasonable doubt that the error did not contribute to the
+verdict.” (Chun, at p. 1201.) In seeking a more precise test, we
+quoted Justice Scalia’s concurring opinion in another case
+involving misdescription of an element: “ ‘The error in the
+present case can be harmless only if the jury verdict on other
+points effectively embraces this one or if it is impossible, upon
+the evidence, to have found what the verdict did find without
+finding this point as well.’ ” (Id. at p. 1204, quoting California
+v. Roy (1996) 519 U.S. 2, 7 (conc. opn. of Scalia, J.).) We then
+said, “Without holding that this is the only way to find error
+
+
+4
+       Although Stutelberg, supra, 29 Cal.App.5th 314,
+purported to apply the Chapman test, it concluded its harmless
+error analysis as to one count as follows: “Had the jury been
+provided only with the ‘deadly or dangerous as used’ theory and
+not the inapplicable ‘inherently deadly weapon’ theory, there is
+no reasonable probability it would have rejected the deadly
+weapon enhancement on count 1. Therefore, the instructional
+error was harmless beyond a reasonable doubt.” (Id. at p. 322,
+italics added.) But the reasonable probability test is different
+and more lenient than the reasonable doubt test that applies
+here. (See People v. Watson (1956) 46 Cal.2d 818, 836
+[reasonable probability test applies to errors of state law].)
+Reviewing courts must apply the Chapman test to error of this
+kind, not the inapplicable Watson test.
+
+
+                                 11
+                       PEOPLE v. ALEDAMAT
+                    Opinion of the Court by Chin, J.
+
+
+harmless, we think this test works well here, and we will use it.
+If other aspects of the verdict or the evidence leave no
+reasonable doubt that the jury made the findings necessary for
+conscious-disregard-for-life malice, the erroneous felony-murder
+instruction was harmless.” (Chun, at pp. 1204-1205.)
+       In People v. Cross, supra, 45 Cal.4th 58, the defendant
+argued that alternative-theory error can be found harmless only
+if the verdict itself shows that the jury relied on a valid theory.
+Justice Baxter authored a concurring opinion arguing against
+this position, which we find persuasive. He “agree[d] with the
+weight of existing authority, which applies the Chapman
+harmless-error standard in determining whether the
+submission to the jury of two legal theories, one valid and one
+invalid, requires reversal.” (Cross, at p. 70 (conc. opn. of Baxter,
+J.).) Noting that a related question was then before the high
+court (ibid., citing the case that later became Hedgpeth, supra,
+555 U.S. 57), he argued that “an instructional error with respect
+to an element does not become more problematic simply because
+the jury may potentially have relied on an alternative theory
+that was entirely error free. Defendant’s argument [that a more
+stringent test applies to alternative-theory error] ‘reduces to the
+strange claim that, because the jury here received both a “good”
+charge and a “bad” charge on the issue, the error was somehow
+more pernicious than in [a high court decision]—where the only
+charge on the critical issue was a mistaken one. That assertion
+cannot possibly be right, so it is plainly wrong.’ (Quigley v. Vose
+(1st Cir. 1987) 834 F.2d 14, 16; accord, Becht v. U.S. (8th Cir.
+2005) 403 F.3d 541, 548 [“it would be ‘anomalous’ to preclude
+harmless-error review under Chapman ‘because the jury also
+was given the option to convict based on a constitutionally valid
+theory . . .’] . . . .)” (Cross, at p. 71 (conc. opn. of Baxter, J.).)
+
+
+                                  12
+                       PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+       A few months after Justice Baxter wrote this in Cross, the
+high court expressed similar views in the case that he
+mentioned. (Hedgpeth, supra, 555 U.S. 57.) After citing
+decisions such as Neder, supra, 527 U.S. 1, that applied the
+reasonable doubt standard to review of instructional error
+regarding the elements of the charged offense, the high court
+said this: “Although these cases did not arise in the context of a
+jury instructed on multiple theories of guilt, one of which is
+improper, nothing in them suggests that a different harmless-
+error analysis should govern in that particular context. . . . [¶]
+In fact, drawing a distinction between alternative-theory error
+and the instructional errors in [several cases including Neder]
+would be ‘patently illogical,’ given that such a distinction
+‘ “reduces to the strange claim that, because the jury . . .
+received both a ‘good’ charge and a ‘bad’ charge on the issue, the
+error was somehow more pernicious than . . . where the only
+charge on the critical issue was a mistaken one.” ’ ” (Hedgpeth,
+at p. 61, quoting Pulido v. Chrones (9th Cir. 2007) 487 F.3d 669,
+677-678 (conc. opn. of O’Scannlain, J.), which quoted Quigley v.
+Vose, supra, 834 F.2d at p. 16, and citing Becht v. U.S., supra,
+403 F.3d 541, 548.)
+      Hedgpeth, supra, 555 U.S. 57, involved collateral review
+on federal habeas corpus. But, in another case of alternative-
+theory error, the high court “clarif[ied]” that harmless-error
+analysis “applies equally to cases on direct appeal.” (Skilling v.
+United States (2010) 561 U.S. 358, 414, fn. 46 [remanding the
+case to the circuit court to determine whether the error was
+prejudicial].) As the court that reviewed the Skilling case on
+remand recognized, in Hedgpeth and Skilling, the court “did not
+specifically identify the harmless-error standard that is
+applicable to alternative-theory errors, but it cited to a string of
+
+
+                                 13
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+cases that apply a common harmless-error standard to other
+types of instructional errors.” (U.S. v. Skilling (5th Cir. 2011)
+638 F.3d 480, 481; see id. at p. 482 [applying the beyond a
+reasonable doubt standard].)            Additionally, Hedgpeth’s
+statement that nothing “suggests that a different harmless-
+error analysis should govern” alternative-theory error
+(Hedgpeth, at p. 61), leaves no doubt that the same Chapman
+analysis of harmless error applies to alternative-theory error as
+applies to other kinds of misdescription of the elements. Federal
+circuit decisions have consistently applied the Chapman test to
+alternative-theory error. (U.S. v. Garrido (9th Cir. 2013) 713
+F.3d 985, 994; Bereano v. U.S. (4th Cir. 2013) 706 F.3d 568, 577-
+578; U.S. v. Jefferson (4th Cir. 2012) 674 F.3d 332, 360-361; U.S.
+v. Ferguson (2d Cir. 2011) 676 F.3d 260, 276-277; U.S. v. Black
+(7th Cir. 2010) 625 F.3d 386, 388.)
+      Applying a different standard of error in this case would
+be particularly anomalous. If the trial court had simply
+instructed the jury that a box cutter was a deadly weapon as a
+matter of law, and given no correct instruction whatsoever, the
+error would clearly be subject to Chapman harmless error
+review. (People v. Brooks (2017) 3 Cal.5th 1, 69 [misdescription
+of an element of a charged offense].) But here, the court also
+provided the jury with a valid theory. Providing the jury with
+both a valid and an invalid theory should not be subject to a
+higher standard of review than applies when the court provides
+the jury only with an invalid theory.
+      Our decisions in In re Martinez (2017) 3 Cal.5th 1216
+(Martinez) and People v. Chiu (2014) 59 Cal.4th 155 (Chiu) are
+not to the contrary. In both cases, we reviewed alternative-
+theory error regarding the elements of first degree murder. In
+Chiu, we said that “[w]hen a trial court instructs a jury on two
+
+                                 14
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+theories of guilt, one of which was legally correct and one legally
+incorrect, reversal is required unless there is a basis in the
+record to find that the verdict was based on a valid ground.
+[Citations.] Defendant’s first degree murder conviction must be
+reversed unless we conclude beyond a reasonable doubt that the
+jury based its verdict on the legally valid theory that defendant
+directly aided and abetted the premeditated murder.” (Chiu, at
+p. 167.) But we also noted that questions from the jury during
+deliberations “shows that the jury may have based its verdict of
+first degree premeditated murder on the [erroneous] theory.”
+(Ibid.) Accordingly, we could not “conclude beyond a reasonable
+doubt that the jury ultimately based its first degree murder
+verdict on a different theory, i.e., the legally valid theory that
+defendant directly aided and abetted the murder.” (Id. at p.
+168.)
+      In Martinez, we applied the same standard to collateral
+review of cases containing the same error: “Chiu error requires
+reversal unless the reviewing court concludes beyond a
+reasonable doubt that the jury actually relied on a legally valid
+theory in convicting the defendant of first degree murder.”
+(Martinez, supra, 3 Cal.5th at p. 1218.) But we also noted that
+the prosecutor had relied heavily on the invalid theory in
+argument to the jury, and that “an inquiry by the jury during its
+deliberations suggested that it was considering the” invalid
+theory. (Id. at p. 1227.) For these reasons, “we conclude[d] that
+the Attorney General has not shown beyond a reasonable doubt
+that the jury relied on a legally valid theory in convicting
+Martinez of first degree murder.” (Ibid.)
+     Defendant argues that, by focusing on what the jury
+actually did, Chiu and Martinez stated a standard different, and
+higher, than Chapman’s reasonable doubt standard. But Chiu
+
+                                 15
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+and Martinez were only a specific application of the more
+general reasonable doubt test stated in cases like Neder, supra,
+527 U.S. 1, and Merritt, supra, 2 Cal.5th 819. The test stated in
+Chiu and Martinez was taken from Chun, supra, 45 Cal.4th at
+pages 1203 to 1205. (See Chiu, supra, 59 Cal.4th at p. 167.)
+Chun also stated that the error “requires reversal of the
+judgment unless the reviewing court concludes beyond a
+reasonable doubt that the error did not contribute to the
+verdict.” (Chun, at p. 1201.) Finding beyond a reasonable doubt
+that the error did not contribute to the verdict is essentially the
+same as finding the error harmless beyond a reasonable doubt.
+In Chun, we said that one way, but not necessarily the only way,
+the Chapman test could be satisfied was to apply Justice Scalia’s
+test of whether “ ‘it is impossible, upon the evidence, to have
+found what the verdict did find without finding’ ” the missing
+point as well. (Id. at p. 1204.) We equated this impossibility
+with a conclusion that the jury actually made the necessary
+finding. (Id. at pp. 1204-1205.)
+       In determining this impossibility or, more generally,
+whether the error was harmless, the reviewing court is not
+limited to a review of the verdict itself. An examination of the
+actual verdict may be sufficient to demonstrate harmlessness,
+but it is not necessary. In both Chiu and Martinez, we examined
+the record and found that it affirmatively showed the jury might
+have based its verdict on the invalid theory. Because no other
+basis to find the error harmless beyond a reasonable doubt was
+at issue, we did not explore whether other ways of finding the
+error harmless existed. Those cases merely provide one way in
+which a court might evaluate harmlessness. They do not
+preclude other ways.
+
+
+
+                                 16
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+      For these reasons, we conclude that alternative-theory
+error is subject to the more general Chapman harmless error
+test. The reviewing court must reverse the conviction unless,
+after examining the entire cause, including the evidence, and
+considering all relevant circumstances, it determines the error
+was harmless beyond a reasonable doubt. We disapprove of any
+interpretation of People v. Green, supra, 27 Cal.3d 1, that limits
+the reviewing court to an examination of the jury’s findings as
+reflected in the verdict itself or that is otherwise inconsistent
+with this opinion.
+     We now apply this standard to this case.
+     C. Application of the Standard to This Case
+      A number of circumstances convince us beyond a
+reasonable doubt that the error was harmless. It is clear the
+error did not contribute to the verdict.
+      The argument that the error was prejudicial supposes
+that, under the instructions, the jury would believe there were
+two separate ways it could find the box cutter to have been a
+deadly weapon. The first method would be simply to find it was
+inherently deadly without considering any of the surrounding
+circumstances. The second method would be to consider how
+defendant used it. Technically, this is correct. The court used
+the disjunctive “or,” which, out of context, would seem to permit
+such separation. In context, however, it is unlikely the jury
+would so view the instructions.
+     The instruction referred to an object that is “inherently
+deadly or one that is used in such a way that it is capable of
+causing and likely to cause death or . . . great bodily injury.”
+This juxtaposition at least indicates what the “inherently
+deadly” language was driving at. Additionally, the jury was also
+
+
+                                 17
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+instructed: “In deciding whether an object is a deadly weapon,
+consider all of the surrounding circumstances including when
+and where the object was possessed and any other evidence that
+indicates whether the object would be used for a dangerous
+rather than a harmless purpose.” This part of the instruction
+suggested the question was unitary, that is, that the jury had to
+consider all of the circumstances in deciding whether the object
+was a deadly weapon, either inherently or as used. The jury
+would likely view the “inherently deadly” language in light of
+this additional instruction that it had to consider all of the
+circumstances. Given this additional instruction, it seems
+unlikely the jury would simply view the box cutter as inherently
+deadly without considering the circumstances, including how
+defendant used it.
+       The arguments of counsel support this conclusion. At one
+point, the prosecutor stated that the box cutter was inherently
+deadly because “you wouldn’t want your children playing with”
+it, without further explaining the term. But no one ever
+suggested to the jury that there were two separate ways it could
+decide whether the box cutter was a deadly weapon. Defense
+counsel argued that defendant did not use the box cutter in a
+way that would probably result in the application of force, that
+is, that defendant did not assault the victim at all—an argument
+the jury necessarily rejected when it found defendant guilty of
+that crime. But counsel never argued that, if he did assault the
+victim with the box cutter, the box cutter was not a deadly
+weapon. Although defense counsel did not expressly concede
+that the box cutter was a deadly weapon, he did not contest the
+point.
+      Contesting the point would have been futile based on the
+record here. A box cutter is not inherently deadly because it is
+
+                                 18
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+not designed for that purpose. But if used to assault someone,
+i.e., used as a weapon, a box cutter is potentially deadly even if
+not designed for that purpose. (See People v. Graham, supra, 71
+Cal.2d at pp. 327-328 [explaining that when a sharp or heavy
+object “is capable of being used in a ‘dangerous or deadly’
+manner, and it may be fairly inferred from the evidence that its
+possessor intended on a particular occasion to use it as a weapon
+should the circumstances require, we believe that its character
+as a ‘dangerous or deadly weapon’ may be thus established”].)
+Counsel could readily believe it would be pointless for him to
+argue that even if (contrary to the argument counsel did make)
+the jury found defendant assaulted the victim with the box
+cutter, it was not a deadly weapon. This is particularly so in
+light of defendant’s statement, “I’ll kill you.”
+      A nonexclusive way the error can be found harmless
+beyond a reasonable doubt, one that “work[ed] well” in Chun,
+supra, 45 Cal.4th at page 1205, and that also works well here,
+is the test derived from Justice Scalia’s concurring opinion in
+California v. Roy, supra, 519 U.S. at page 7. The reviewing court
+examines what the jury necessarily did find and asks whether it
+would be impossible, on the evidence, for the jury to find that
+without also finding the missing fact as well. (Chun, at pp.
+1204-1205.) Here, under the instructions, the jury necessarily
+found the following: (1) defendant did an act with a deadly
+weapon (either inherently or as used) that by its nature would
+directly and probably result in the application of force; (2)
+defendant was aware of facts that would lead a reasonable
+person to realize that his act by its nature would directly and
+probably result in the application of force to someone; and (3)
+defendant had the present ability to apply force with a deadly
+weapon to a person.
+
+
+                                 19
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+      Additionally, the jury must have considered the term
+“inherently deadly” to mean something. As the Stutelberg court
+explained, the theoretical risk is that, because the court did not
+define the term, the jury might have applied its common
+understanding to find the box cutter deadly because it is sharp
+and used for cutting. (Stutelberg, supra, 29 Cal.App.5th at p.
+319; cf. People v. Pruett (1997) 57 Cal.App.4th 77, 86 [the trial
+court did not err in failing to define what is a deadly weapon
+because “[j]urors can certainly employ common sense and
+experience to determine whether or not such a knife is a ‘deadly’
+instrument”].) But if the jury did so, it would necessarily find
+the box cutter deadly in the colloquial sense of the term—i.e.,
+readily capable of inflicting deadly harm—and that defendant
+used it as a weapon.
+      “No reasonable jury that made all of these findings could
+have failed to find” that defendant used the box cutter in a way
+that is capable of causing or likely to cause death or great bodily
+injury. (Merritt, supra, 2 Cal.5th at p. 832.) For all of these
+reasons, the error was harmless beyond a reasonable doubt.
+      D. The Instructions
+      As this case demonstrates, the standard instructions on
+assault with a deadly weapon and use of a deadly and dangerous
+weapon are problematic. (See CALCRIM Nos. 875, 3145.) They
+do not define what is an inherently deadly weapon. Worse,
+without modification, they provide the jury with the “inherently
+deadly” theory even in those cases (i.e., most of them) in which
+the weapon is not inherently deadly as a matter of law. We
+suggest the instructions be modified to avoid these problems in
+the future.
+
+
+
+
+                                 20
+                      PEOPLE v. ALEDAMAT
+                   Opinion of the Court by Chin, J.
+
+
+     In most cases, the inherently deadly language is
+inapplicable, for most objects are not inherently deadly even if
+they may be used in a way that makes them deadly. The
+inherently deadly language is also generally unnecessary. For
+the most part, those objects that are designed for use as a deadly
+weapon will be also used in a way that makes them deadly
+weapons.5 Accordingly, the standard instruction might be
+improved by simply deleting any reference in the usual case to
+inherently deadly weapons.
+      But because, under current law, some objects, such as
+dirks and blackjacks, are inherently deadly, instructing on that
+theory might be appropriate in some cases. (But see fn. 5.) If
+the prosecution believes the weapon used in a given case is
+inherently deadly, and it believes modifying the instruction
+would be useful, it may request the court to add that theory of
+the case to the instructions. On such a request, the court should
+consider whether the evidence would support a finding that the
+weapon is inherently deadly. If so, the court would have
+discretion to instruct on that theory. If it does so, however, it
+should also define what is meant by inherently deadly, i.e., an
+object that is designed for use as a deadly weapon. (See People
+v. Perez, supra, 4 Cal.5th at p. 1065.)
+
+
+
+
+5
+      In light of this, it may be asked whether a policy exists for
+treating inherently deadly weapons differently from other
+objects capable of being used as a deadly weapon, particularly
+since the distinction is not reflected in the text of section 245.
+Because the facts and arguments of this case do not present the
+question, we leave it for another day.
+
+
+                                 21
+                   PEOPLE v. ALEDAMAT
+                Opinion of the Court by Chin, J.
+
+
+                    III. CONCLUSION
+      We reverse the judgment of the Court of Appeal and
+remand the matter to that court for further proceedings
+consistent with this opinion.
+                                                   CHIN, J.
+We Concur:
+
+CANTIL-SAKAUYE, C. J.
+CORRIGAN, J.
+KRUGER, J.
+
+
+
+
+                              22
+                    PEOPLE v. ALEDAMAT
+                             S248105
+
+
+       Concurring and Dissenting Opinion by Justice Liu
+
+
+       I agree with today’s opinion that alternative-theory error
+is subject to the Chapman beyond-a-reasonable-doubt harmless
+error standard (Chapman v. California (1967) 386 U.S. 18, 24)
+and that our decisions in People v. Chun (2009) 45 Cal.4th 1172,
+People v. Chiu (2014) 59 Cal.4th 155, and In re Martinez (2017)
+3 Cal.5th 1216 are “not to the contrary.” (Maj. opn., ante, at
+p. 14; see id. at pp. 14–16.)
+         I part ways with today’s opinion, however, with respect to
+its conclusion that in light of what “the jury necessarily did find
+. . . it would be impossible, on the evidence, for the jury to find
+that without also finding the missing fact as well.” (Maj. opn.,
+ante, at p. 19.) Justice Cuéllar’s concurring and dissenting
+opinion carefully explains why we cannot be confident beyond a
+reasonable doubt that the jury in this case found the box cutter
+to be a deadly weapon on a valid legal theory. In particular, the
+trial court’s own equivocation and the prosecutor’s repeated
+conflation of the deadly-weapon and force requirements in
+closing argument could well have misled the jury. (Conc. & dis.
+opn. of Cuéllar, J., post, at pp. 7–8.) Because of these confusing
+statements, and because the trial court erred in providing the
+“inherently deadly” instruction to the jury, the jury may have
+convicted defendant for conduct that does not constitute the
+crime of assault with a deadly weapon. Although the jury “must
+have considered the term ‘inherently deadly’ to mean
+something” (maj. opn., ante, at p. 20), it is quite possible that the
+                      PEOPLE v. ALEDAMAT
+                  Liu, J., concurring and dissenting
+
+
+jury understood “inherently deadly” to mean that the box cutter
+itself was readily capable of causing deadly harm, without
+finding that defendant in fact used the box cutter in a manner
+likely to cause death or great bodily injury. Accordingly, I would
+affirm the judgment of the Court of Appeal.
+
+
+                                             LIU, J.
+
+
+
+
+                                  2
+                    PEOPLE v. ALEDAMAT
+                            S248105
+
+
+    Concurring and Dissenting Opinion by Justice Cuéllar
+
+
+       In our constitutional system the right to trial by jury
+means “the jury, rather than the judge, reach[es] the requisite
+finding of ‘guilty.’ ” (Sullivan v. Louisiana (1993) 508 U.S. 275,
+277; see Cal. Const., art. I, § 16.) That’s a principle that can be
+simple to state but difficult to honor, especially when harmless
+error review is at stake. Because virtually all forms of harmless
+error review risk infringing on “the jury’s factfinding role and
+affect[ing] the jury’s deliberative process in ways that are,
+strictly speaking, not readily calculable,” courts performing
+harmless error review are walking a tightrope — where they
+must weigh how an error affected the proceedings without
+displacing the jury as finder of fact. (Neder v. United States
+(1999) 527 U.S. 1, 18 (Neder).)
+      That’s why caution’s been the watchword when we’ve
+stepped onto that tightrope. Like the United States Supreme
+Court, to date we’ve found instructional error harmless only
+when we can conclude “beyond a reasonable doubt” either that
+the jury necessarily relied on a valid legal theory (see People v.
+Chun (2009) 45 Cal.4th 1172, 1205 (Chun); see maj. opn., ante,
+at p. 20) or that the element omitted or misdescribed “was
+uncontested and supported by overwhelming evidence, such that
+the jury verdict would have been the same absent the error”
+(Neder, supra, 527 U.S. at p. 17, italics added; see, e.g., maj.
+opn., ante, at p. 19; People v. Merritt (2017) 2 Cal.5th 819, 824
+(Merritt) [finding error harmless where the defense expressly
+                        PEOPLE v. ALEDAMAT
+                  Cuéllar, J., concurring and dissenting
+
+
+conceded a robbery occurred and there was overwhelming video
+evidence of the only contested issue]; cf. People v. Canizales
+(2019) 7 Cal.5th 591, 616 (Canizales) [examining both the
+“strong” and the “conflicting evidence” on a contested issue and
+noting “both the prosecutor’s closing argument and the
+attempted murder instruction” had “the potential to cause
+confusion”]; People v. Mil (2012) 53 Cal.4th 400, 417 (Mil)
+[reversing burglary and robbery special circumstances because
+the defendant “contested whether he acted with reckless
+indifference to human life” and “the record support[ed] a
+reasonable doubt as to that element”]).         These tests —
+permutations of harmless-error review tailored for instructional
+error — demand searching inquiry, and rightly so: They help us
+maintain the critical equilibrium between constitutional
+guarantees and “ ‘society’s interest in punishing the guilty.’ ”
+(Id. at p. 18.)
+      The majority loses that balance today. Tumbling headlong
+into the jury’s factfinding role, the majority fails to live up to the
+“more general Chapman [v. California] harmless error test” it
+purports to apply. (Maj. opn., ante, at p. 16; see Chapman v.
+California (1967) 386 U.S. 18 (Chapman).)                The result,
+unfortunately, is an error of our own –– one hardly harmless to
+the defendant in this case. With respect, I dissent.
+                                    I.
+       To find Yazan Aledamat guilty of assault with a deadly
+weapon, the jury had to decide not only that he had the box
+cutter in his hand, but that he used it as a deadly weapon. The
+trial judge issued form instructions from CALCRIM No. 875,
+which provides that the prosecution must prove:
+
+
+
+
+                                    2
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+     (1) that the defendant did an act with a deadly weapon
+other than a firearm that by its nature would directly and
+probably result in the application of force to a person;
+      (2) that the defendant did that act willfully;
+      (3) that when the defendant acted, he was aware of facts
+that would lead a reasonable person to realize that his act by its
+nature would directly and probably result in the application of
+force to someone; and
+      (4) that when the defendant acted, he had the present
+ability to apply force with a deadly weapon other than a firearm.
+(CALCRIM No. 875.)
+      Here’s what’s also covered by those jury instructions: to
+“apply force” means “to touch in a harmful or offensive manner,”
+which can include “the slightest touching” if done in a rude or
+angry way. As long as the prosecution can prove the defendant’s
+act would probably result in the application of force, it is not
+required to prove “that the defendant actually touched
+someone.” (CALCRIM No. 875.) A deadly weapon other than a
+firearm, moreover, “is any object, instrument, or weapon that is
+inherently deadly or one that is used in such a way that it is
+capable of causing and likely to cause death or great bodily
+injury.” (Ibid.) Great bodily injury, in turn, “means significant
+or substantial physical injury. It is injury that is greater than
+minor or moderate harm.” (Ibid.)
+      Presented to the jury during trial, these instructions
+permit the jury to conclude a box cutter can be a deadly weapon.
+But to reach that conclusion, a jury must find the box cutter is
+either “inherently deadly” or was “used in such a way that it is
+capable of causing and likely to cause death or great bodily
+injury.” (CALCRIM No. 875.) Yet as the majority explains, this
+
+                                   3
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+instruction is incorrect, at least in this case: as a matter of law,
+a box cutter is not inherently deadly. (Maj. opn., ante, at p. 5.)
+It is, however, capable of causing death or great bodily injury
+and, depending on how it is used, may even be likely to cause
+death or great bodily injury. (Ibid.) So for a proper conviction
+of assault with a deadly weapon on these facts, the jury would
+have needed to rely on the second prong of the deadly weapon
+definition — the legally valid theory in this case.
+      The majority plays up that there’s more than “one way”
+(maj. opn., ante, pp. 16, 19) a reviewing court can conclude
+“ ‘beyond a reasonable doubt that the error did not contribute to
+the verdict’ ” (id. at p. 16, quoting Chun, supra, 45 Cal.4th at
+p. 1201). I agree. But when, we cannot “conclude, beyond a
+reasonable doubt, that the jury based its verdict on a legally
+valid theory” (Chun, supra, 45 Cal.4th at p. 1203), we may find
+the instructional error harmless only if we can determine
+beyond a reasonable doubt that “the jury verdict would have
+been the same absent the error.” (Neder, supra, 527 U.S. at
+p. 17.) That’s the situation here.
+      In other words, we ask whether it is clear beyond a
+reasonable doubt the jury would have found Aledamat guilty of
+assault with a deadly weapon had it been given only the correct
+instruction, which required it to find that he used a box cutter
+in a manner “capable of causing and likely to cause death or
+great bodily injury.” (CALCRIM No. 875.) Or, “ ‘in typical
+appellate-court fashion,’ ” we ask the inverse: “ ‘whether the
+record contains evidence that could rationally lead to a contrary
+finding with respect to the [deadly weapon] element.’ ” (Merritt,
+supra, 2 Cal.5th at p. 832, quoting Neder, supra, 527 U.S. at p.
+19.) And Neder itself provided a useful rubric to evaluate
+instructional error, explaining that Chapman’s mandate can be
+
+                                   4
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+satisfied where the element omitted or misdescribed “was
+uncontested and supported by overwhelming evidence.” (Neder,
+at p. 17.)
+       The majority seems not to have made this inquiry. Indeed,
+its primary quarrel is with the very notion that the instruction
+was error, let alone prejudicial error. (Maj. opn., ante, at p. 17.)
+It argues, in essence, that the jury “likely” understood the term
+“inherently deadly” to mean something approximating the
+correct instruction — “capable of and likely to cause great bodily
+injury.” (Id. at pp. 17, 18.) That is, a jury is “unlikely” to find
+the disjunctive “or” — “inherently deadly or . . . capable of
+causing and likely to cause” great bodily injury (CALCRIM No.
+875, italics added) — to present two alternatives. (Maj. opn.,
+ante, at pp. 17–18.) Instead, the majority says, the jury will
+understand “inherently deadly” to be defined by the words
+surrounding it, notwithstanding the disjunctive. (Id. at p. 17
+[explaining the “juxtaposition” of the words “at least indicates
+what the ‘inherently deadly’ language was driving at”]; id. at
+p. 20 [“[T]he jury must have considered the term ‘inherently
+deadly’ to mean something”].) In other words, if the jury doesn’t
+understand that “inherently deadly” is a shortcut, it will hold
+the prosecution to roughly the same standard that the correct
+instruction does.
+      Three problems mar this argument. First, it is pure
+conjecture. Nothing in the record suggests, let alone compels us
+to conclude, that the jury read the instructions in the way the
+majority speculates. It is just as likely — and more consistent
+with principles of English usage — that the “juxtaposition” of
+two disjunctive clauses suggests just that (maj. opn., ante, at p.
+17): They are juxtaposed because they are distinct. One does
+not define the other, in whole or in part.
+
+                                   5
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+      Second, the argument is at odds with the majority’s
+characterization of the instructions as “problematic” and its
+suggestion that they be “modified to avoid these problems in the
+future.” (Maj. opn., ante, at p. 21.) Why alter anything if, as the
+majority implies, jurors can more or less figure it out on their
+own? (Id. at p. 20 [citing People v. Pruett (1997) 57 Cal.App.4th
+77, 86 for the proposition that jurors can determine whether a
+knife is a deadly instrument based on “common sense”].)
+(Indeed, jurors can guess approximate meanings for most legal
+principles and elements, from robbery to “deadly weapon”; I
+imagine the majority would not suggest we dispense with those
+instructions out of an abiding belief that common sense will
+suffice.)
+      Third — and perhaps most importantly — in this case
+there is evidence not only that the jury may have misunderstood
+the task before it, but that it was affirmatively (though
+inadvertently) misled.
+       The confusion began when the judge instructed the jury
+on the elements. On beginning to read the definition of great
+bodily injury — and before reaching the definition of a deadly
+weapon — the judge stopped, said the jury “[didn’t] need that
+definition” and asked the jury to cross it out. The jurors affirmed
+that they had crossed out the definition. Moving on to the
+deadly weapon instruction, the judge realized the definition of
+“great bodily injury” was relevant. He stopped, had a short
+exchange on the record with counsel, told the jury to ignore their
+earlier strike-through of the definition — “And despite the fact
+I told you to cross it out, I [now] want you to consider it. Okay?
+If you want to write it in, you can.” — and allowed the jury a
+brief break. He then recited the criminal threat instructions
+
+
+
+                                   6
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+without revisiting the remainder of the deadly weapon
+instruction.
+       The majority highlights a feature of the jury instructions.
+The jury was instructed to consider “all of the surrounding
+circumstances” in deciding whether an object is a deadly weapon
+— “ ‘including when and where the object was possessed and any
+other evidence that indicates whether the object would be used
+for a dangerous rather than a harmless purpose.’ ” (Maj. opn.,
+ante, at p. 17.) “Given this additional instruction,” the majority
+writes, “it seems unlikely the jury would simply view the box
+cutter as inherently deadly without considering the
+circumstances, including how the defendant used it.” (Id. at p.
+18.)
+      But the additional instruction didn’t apply to the assault
+charge. The judge read it in instructing the jury on the deadly
+weapon enhancement, and expressly said it became relevant
+only if the jury “[found] the defendant guilty of the crimes
+charged in counts 1 and 2.” What’s more, during deliberations
+the jury asked the court “how to deal with the issue of the
+allegation, the deadly or dangerous weapon allegation.” It is far
+from obvious that the jury understood its obligation to make a
+finding on the deadliness of the box cutter. (See Canizales,
+supra, 7 Cal.5th at p. 617 [noting that the jury requested a
+readback of testimony that “suggests the jurors at one point
+were focused on testimony that would have supported the
+[defense] theory”].)
+      There’s more. In closing arguments the prosecutor
+exacerbated this confusion, suggesting that the mere existence
+of the box cutter was sufficient to satisfy the deadly weapon
+allegation: “You don’t have to actually inflict injury on the
+
+
+                                   7
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+person. What [Aledamat] did was sufficient; he committed a
+crime, a crime of assault with a deadly weapon. And the added
+allegation is that he used a box cutter.” (Italics added.) She then
+conflated the deadly weapon and force requirements, saying,
+“Ladies and gentlemen, you wouldn’t want your children using
+a box cutter, would you? This is a deadly weapon. If used in a
+way to cause harm, it would cause harm. It’s not whether he did
+cause harm; it’s could he; could he have caused harm with that
+box cutter? The answer: Absolutely.”
+      That statement is wrong. Mangling the recitation of the
+applicable deadly weapon instruction, the prosecutor’s
+statement confuses the minimal force requirement with the
+requirement that Aledamat have used the box cutter in a way
+“likely to cause death or great bodily injury.” (CALCRIM No.
+875.) Nevertheless, the majority charges that defense counsel
+failed to “contest the point” (maj. opn., ante, at p.
+18) — seemingly recognizing that Neder compels an inquiry of
+whether the mistaken instruction was contested.
+      True: We and the United States Supreme Court have said
+that “removing an element of the crime from the jury’s
+consideration” can be harmless “where the defendant concedes
+or admits that element.” (People v. Flood (1998) 18 Cal.4th 470,
+504; see Hurst v. Florida (2016) 136 S. Ct. 616, 623 [describing
+Neder as “holding that the failure to submit an uncontested
+element of an offense to a jury may be harmless,” italics added];
+Connecticut v. Johnson (1983) 460 U.S. 73, 87 (plur. opn. of
+Blackmun, J.) [stating that an instructional error “may be
+harmless” if “defendant himself has taken the issue . . . away
+from the jury”].) But the burden of proof in a criminal trial lies
+solely with the People. (See Flood, at p. 481.) That burden “is
+not relieved by a defendant’s tactical decision not to contest an
+
+                                   8
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+essential element of the offense.” (Estelle v. McGuire (1991) 502
+U.S. 62, 69.) Moreover still, where the defense contested
+Aledamat’s slightest application of force, it defies logic that the
+defense would not also contest an element predicated — at least
+in this case — on an even greater application of force. It is at
+the very least inconsistent with what we have previously
+required. (See, e.g., Merritt, supra, 2 Cal.5th at p. 824 [finding
+the defense conceded that a robbery occurred when counsel said
+there was “no question these people were robbed, okay. Our only
+contention is with element number one that it was not the
+defendant.”].)
+      And counsel did contest the point — explicitly, at the
+outset of his closing argument, when he told the jury that one of
+the “two main questions” that they “need[ed] to answer” was
+“with respect to the great bodily injury.”
+      On rebuttal, the prosecutor continued to conflate the
+minimal touching requirement with the dangerousness of the
+box cutter itself. “As I said before,” she said, “you wouldn’t want
+your children playing with this (indicating). It’s inherently a
+deadly weapon. It’s by definition the reason this law was
+created.” (Italics added.) By that time, there was no opportunity
+for defense counsel to “contest” the point.
+      It’s quite plausible that the jury took the prosecutor at her
+parting words: the box cutter is “inherently a deadly weapon”
+and “by definition the reason this law” — assault with a deadly
+weapon — “was created.” The majority all but acknowledges the
+only possible understanding of these words, noting that “no one
+ever suggested to the jury that there were two separate ways it
+could decide whether the box cutter was a deadly weapon.”
+(Maj. opn., ante, at p. 18.) That’s true. The prosecutor suggested
+
+
+                                   9
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+only one method of finding the box cutter was a deadly weapon,
+and that method was incorrect as a matter of law. That the
+defense spent so little time discussing the element — which,
+again, was not its burden to disprove — further risked letting
+the case pivot on the prosecutor’s easy reassurance that
+“inherently deadly” was, in essence, just a matter of common
+sense — what objects you wouldn’t let your children play with.
+(See In re Martinez (2017) 3 Cal.5th 1216, 1226–1227
+[concluding the jury could have convicted on the invalid theory
+where the prosecutor argued that theory to the jury “at length
+during closing argument and rebuttal”].) This is not the kind of
+record to give one confidence in the majority’s argument that the
+jury understood “inherently deadly” to mean something
+approximating deadly as-used. Far more likely on this record is
+that the jury would “quickly and easily have found the element
+satisfied” by “relying on the instructional misdefinition”
+available to it. (People v. Harris (1994) 9 Cal.4th 407, 445 (conc.
+opn. of Mosk, J.); see Canizales, supra, 7 Cal.5th at p. 614
+[concluding there was “a reasonable likelihood that the jury
+understood the kill zone instruction in a legally impermissible
+manner” because the prosecution’s definition “was significantly
+broader than a proper understanding of the theory permits” and
+thus “had the potential to mislead the jury”].) So based on the
+jury instructions and counsel’s arguments we can’t conclude
+“that the jury verdict would have been the same absent the
+error.” (Neder, supra, 527 U.S. at p. 17.)
+                                  II.
+      The majority’s harmless-error analysis makes scant
+reference to the evidence in the record. Relying on that record,
+however, is how we evaluate whether the evidence to support
+the correct theory — that Aledamat used the box cutter in a
+
+                                  10
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+way “capable of causing and likely to cause death or great
+bodily injury” (CALCRIM No. 875) — was so strong that we
+can safely conclude the instructional error did not contribute to
+the verdict. (See Neder, supra, 527 U.S. at p. 17.)
+       Consider, for instance, what we decided in the recent case
+of In re B.M. (2018) 6 Cal.5th 528 (B.M.). We analyzed the
+sufficiency of the evidence supporting a conviction for assault
+with a deadly weapon — in that case, a butter knife. We
+explained that “for an object to qualify as a deadly weapon based
+on how it was used, the defendant must have used the object in
+a manner not only capable of producing but also likely to
+produce death or great bodily injury.” (Id. at p. 530, italics
+omitted.) Though we avoided defining “likely,” we explained
+that we have previously treated the term to mean at least
+“probable” (id. at p. 533) — based on “how the defendant
+actually ‘used’ the object,” rather than on conjecture as to how
+the object could have been used or what injury might have been
+inflicted had the object been used differently (id. at p. 534).
+      As an example, we discussed People v. Duke (1985) 174
+Cal.App.3d 296, 302, in which the defendant used a headlock to
+hold his victim. The victim said the headlock made her feel
+choked but did not cut off her breathing; the defendant’s grip
+was “ ‘firm,’ ” but the victim did not testify that he tightened his
+grip. (B.M., supra, 6 Cal.5th at p. 534.) We favorably cited the
+Duke court’s explanation for reversing the conviction: “[T]he
+fact that appellant could have easily broken [the victim’s] neck
+or could have choked her to the point of cutting off her breathing
+by exerting greater pressure on her neck or windpipe will not
+support the conviction of felony assault.” (B.M., at p. 534,
+quoting Duke, at p. 303, internal quotation marks omitted.) It
+would involve “gross speculation on the part of the jury as to
+
+                                  11
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+what the appellant would have done if he had not stopped.”
+(B.M., at p. 534, quoting Duke, at p. 303, internal quotation
+marks omitted.) We emphasized in B.M., however, that it is
+appropriate to consider “what harm could have resulted from
+the way the object was actually used.” (B.M., at p. 535.) We
+further held that “the extent of actual injury or lack of injury” is
+relevant, in that it may “suggest that the nature of the object or
+the way it was used was not capable of producing or likely to
+produce death or serious harm.” (Ibid.)
+      Against that backdrop, here is what the jury heard in
+Aledamat’s trial:      Aledamat approached a food truck in
+downtown Los Angeles and made crude remarks about the truck
+owner’s wife. The owner, standing on the sidewalk, reacted in
+shock, and removed his apron. From approximately three or
+four feet away, Aledamat took a step back, pulled from his right
+pocket a box cutter, blade extended — how far it extended, how
+large it was, or whether it was locked in its casing, no one
+explained — and “thrust” or “pointed” it from his waist towards
+the owner, saying, “I’ll kill you.” It was clear that Aledamat had
+moved his arm toward the truck owner. But there was no
+indication that Aledamat jabbed the box cutter at the owner, or
+that he flailed his arms around or advanced as though to cut
+him. Naturally, the owner jerked back. The jury heard nothing
+about what the owner was wearing or how close the box cutter
+actually got to his clothing or body. The box cutter did not touch
+him.
+      A police officer approached on horse and noticed Aledamat
+was holding the box cutter in his right hand “in a forward
+direction, about waistline.” The officer said Aledamat was not
+lunging; he was “just holding” the box cutter. When Aledamat
+saw the officer, he retracted the box cutter and placed it back in
+
+                                  12
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+his pocket. The truck owner reported to the police that
+Aledamat had “pulled a knife” on him.
+       On these facts, it may well have been reasonable for the
+jury to convict Aledamat of using the box cutter in a way
+“capable of causing and likely to cause death or great bodily
+injury,” where “great bodily injury,” in turn, is “significant or
+substantial.” (CALCRIM No. 875.) Aledamat did, after all, say,
+“I’ll kill you” while wielding a sharp blade. But “our task in
+analyzing the prejudice from the instructional error is [to
+determine] whether any rational fact finder could have come to
+the opposite conclusion.” (Mil, supra, 53 Cal.4th at p. 418, first
+italics added.)
+      Even a brief survey of the evidence presented at trial
+reveals that the answer is yes. The People admitted in rebuttal
+that Aledamat had not “lunged” at the victim; he had “thrust”
+the box cutter out from his waist from a distance of several feet.
+(Cf. B.M., supra, 6 Cal.5th at p. 536 [defendant used the knife
+only on the victim’s legs, which were covered in a blanket, and
+did not attempt to use the knife on any exposed or vulnerable
+part of the victim’s body].) The jury received no information
+about how far the blade was extended, whether the blade was
+locked — such that it would have stayed protruded had it made
+contact with the victim — or whether, at the time, it was spring-
+operated to snap back into its casing. (Cf. People v. Stutelberg
+(2018) 29 Cal.App.5th 314, 322 [finding instructional error
+prejudicial in part because “[t]he exact manner in which
+Stutelberg used the box cutter against [a victim]” was
+“unclear”].) Nor did the jury hear testimony about what the
+victim was wearing, which has some bearing on whether a single
+thrust likely would cause serious bodily injury. (Cf. B.M., at p.
+536 [“[T]he moderate pressure that B.M. applied with the knife
+
+                                  13
+                       PEOPLE v. ALEDAMAT
+                 Cuéllar, J., concurring and dissenting
+
+
+was insufficient to pierce the blanket, much less cause serious
+bodily injury to [the victim].”].) And there was no evidence to
+suggest Aledamat reared for another thrust, that he advanced
+on the victim after his initial threat, or that he wielded the box
+cutter uncontrollably. (Cf. id. at p. 538 [noting that the butter
+knife “was not applied to any vulnerable part of [the victim’s]
+body” and there was “no evidence that B.M. wielded the knife
+wildly or uncontrollably”]; Stutelberg, at p. 322 [“The jury could
+reasonably conclude that his ‘flicking’ motion was more of a
+threat, as opposed to an act likely to cause death or great bodily
+injury.”].) Indeed, the truck owner refused to confirm his
+previous statement to the police, claiming instead not to know
+what he had said and repeating only that Aledamat “pulled out
+[the box cutter] when we were close to each other.”
+       Only by casting aside this record evidence and
+supplanting it with its own reasoning can the majority justify
+its conclusion. It assumes the jury understood “inherently
+deadly” — the inapt instruction — to mean “something,” and
+assumes that something is a “common understanding” that a
+box cutter is deadly. (Maj. opn., ante, at p. 20.) But it overlooks
+the reasonable possibility that the “something” the jury
+understood was not “capable of causing and likely to cause death
+or great bodily injury” (CALCRIM No. 875), but instead likely to
+cut your child during ill-advised play. It assumes that finding
+the box cutter deadly “in the colloquial sense of the term” is
+sufficient because a box cutter is “readily capable of inflicting
+deadly harm.” (Maj. opn., ante, at p. 20.) But it both misstates
+the standard — which requires the likelihood of deadly harm —
+and misses the holdings of B.M., which require a jury to look at
+how the weapon was actually used in context. (B.M., supra, 6
+Cal.5th at p. 535.)
+
+
+                                  14
+                      PEOPLE v. ALEDAMAT
+                Cuéllar, J., concurring and dissenting
+
+
+      These assumptions aside, the evidence is sufficient for a
+reasonable jury to have found Aledamat guilty under the correct
+definition of a deadly weapon. To its credit, the majority
+concedes that’s not the standard here. (Maj. opn., ante, at pp.
+16–17; Chun, supra, 45 Cal.4th at p. 1201 [stating that we
+reverse unless it is clear “beyond a reasonable doubt that the
+error did not contribute to the verdict”].) Yet, for whatever
+reason, that’s the standard it ends up applying. (See, e.g., maj.
+opn., ante, at p. 17 [speculating that it is “unlikely” the jury
+would have viewed the instructions as presenting two
+alternative methods of finding the box cutter “deadly”]; id. at
+pp. 18–19 [arguing it would have been futile for defense counsel
+to contest deadliness because a box cutter is “potentially”
+deadly].)
+                                III.
+       We do not undermine a defendant’s Sixth Amendment
+right to a fair trial by jury if we hold an instructional error
+harmless where the record demonstrates that the jury actually
+relied on a different legal theory, untouched by error. (Martinez,
+supra, 3 Cal.5th at p. 1226; Chun, supra, 45 Cal.4th at p. 1205.)
+Nor do we undermine that guarantee under the “unusual
+circumstances” in which “each element was undisputed, the
+defense was not prevented from contesting any of the omitted
+elements, and overwhelming evidence supports the omitted
+element.” (Mil, supra, 53 Cal.4th at p. 414.) In those limited
+cases, harmless-error review serves the useful purpose of
+preventing us from “setting aside convictions for small errors or
+defects that have little, if any, likelihood of having changed the
+result of the trial.” (Ibid., quoting Neder, supra, 527 U.S. at
+p. 19, internal quotation marks omitted.)
+
+
+
+                                 15
+                      PEOPLE v. ALEDAMAT
+                Cuéllar, J., concurring and dissenting
+
+
+     This is not such a case, and today the majority dispenses
+with the guardrails that help us discern as much. Aledamat
+contested the element of force in the assault, which necessarily
+extends to the greater degree of force required to convict him of
+using a deadly weapon. The People presented little or no
+evidence that Aledamat used the box cutter in a way likely to
+cause death or great bodily injury, and further confused the jury
+by referring to the box cutter as “inherently deadly” and
+suggesting heuristics for assessing its dangerousness. (Cf.
+People v. Marsh (2019) 37 Cal.App.5th 474, 490 [finding no
+prejudice where “the prosecutor only presented the [deadly-as-
+used] theory”].) On this record, I cannot conclude beyond a
+reasonable doubt that the jury verdict would have been the same
+absent the error. (See Neder, supra, 527 U.S. at p. 19; Chun,
+supra, 45 Cal.4th at p. 1215.)
+      No doubt we’ll continue doing our utmost to tread carefully
+when deciding whether an error was harmless under the
+Chapman standard. But today the majority loses its footing. I
+dissent with respect.
+                                             CUÉLLAR, J.
+
+
+I Concur:
+GROBAN, J.
+
+
+
+
+                                 16
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion People v. Aledamat
+__________________________________________________________________________________
+
+Unpublished Opinion
+Original Appeal
+Original Proceeding
+Review Granted XXX 20 Cal.App.5th 1149
+Rehearing Granted
+
+__________________________________________________________________________________
+
+Opinion No. S248105
+Date Filed: August 26, 2019
+__________________________________________________________________________________
+
+Court: Superior
+County: Los Angeles
+Judge: Stephen A. Marcus
+
+__________________________________________________________________________________
+
+Counsel:
+
+Andrea S. Bitar, under appointment by the Supreme Court, for Defendant and Appellant.
+
+Xavier Becerra, Attorney General, Edward C. DuMont, State Solicitor General, Gerald A. Engler, Chief
+Assistant Attorney General, Lance E. Winters, Assistant Attorney General, Steve Mercer, Timothy L.
+O’Hair and Viet H. Nguyen, Deputy Attorneys General, and Michael R. Johnsen, Deputy State Solicitor
+General, for Plaintiff and Respondent.
+
+Mary K. McComb, State Public Defender, Barry P. Helft, Chief Deputy State Public Defender, and Samuel
+Weiscovitz, Deputy State Public Defender, as Amici Curiae.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+Andrea S. Bitar
+Bird Rock Law Group
+5580 La Jolla Boulevard, #456
+La Jolla, CA 92037
+(619) 356-1624
+
+Michael R. Johnsen
+Deputy State Solicitor General
+300 South Spring Street, Suite 1702
+Los Angeles, CA 90013
+(213) 269-6090
+
+Samuel Weiscovitz
+Deputy State Public Defender
+1111 Broadway, Suite 1000
+Oakland, CA 94607
+(510) 267-3300

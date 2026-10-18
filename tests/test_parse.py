@@ -371,6 +371,29 @@ def test_supreme_court_filed_separate_opinion():
     assert r.has_concurrence is True and r.has_dissent is False
 
 
+def test_dash_led_separate_opinion_is_detected():
+    # "POLLAK, P.J. — I concur in the disposition of this appeal, but ..." then signed.
+    r = run("A_8210908")
+    assert [(s.type, s.surname) for s in r.separate_opinions] == [("concurrence", "POLLAK")]
+    assert "POLLAK" in [s.surname for s in r.seats]
+
+
+def test_supreme_court_joiner_of_separate_opinion_is_on_the_panel():
+    # "Justice Cuéllar filed a concurring and dissenting opinion, in which Justice Groban
+    # concurred." Groban is not in the majority's "in which ... concurred" list.
+    r = run("S_4433270")
+    assert "Groban" in [s.surname for s in r.seats]
+    assert sorted((s.author_raw, s.type, s.partial) for s in r.separate_opinions) == [
+        ("Justice Cuéllar", "dissent", True), ("Justice Liu", "dissent", True)]
+
+
+def test_supreme_court_opinion_concurring_in_the_judgment():
+    r = run("S_4519783")  # "Justice Cuéllar filed an opinion concurring in the judgment."
+    [sep] = r.separate_opinions
+    assert (sep.type, sep.author_raw) == ("concurrence", "Justice Cuéllar")
+    assert "Cuéllar" in [s.surname for s in r.seats]
+
+
 def test_former_supreme_court_justices_resolve_within_their_service():
     r = run("S_4638160")  # filed 2020-11-30
     assert (r.seats[1].slug, r.seats[3].slug) == (

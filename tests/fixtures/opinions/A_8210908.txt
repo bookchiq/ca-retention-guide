@@ -1,0 +1,532 @@
+cl_opinion_id: 8210908
+cluster: 8245645
+docket: A161959
+date: 2022-09-30
+status: Published
+type: 010combined
+field: plain_text
+case: Internat. Union of Operating Engineers, Local 39 v. Macy's, Inc.
+----
+Filed 9/30/22
+                CERTIFIED FOR PUBLICATION
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                 FIRST APPELLATE DISTRICT
+
+                         DIVISION FOUR
+
+
+ INTERNATIONAL UNION OF
+ OPERATING ENGINEERS,
+ LOCAL 39,                             A161959, A163029
+      Defendant and Appellant,
+                                       (San Francisco City &
+ v.                                    County Super. Ct. No.
+ MACY’S, INC.,                         CGC-20-587033)
+      Plaintiff and Respondent.
+
+
+       Plaintiff Macy’s, Inc. (Macy’s) sued Defendant Stationary
+Engineers Local 39 (Local 39) for damages and injunctive relief
+based on allegations that Local 39 had engaged in unlawful
+conduct in connection with its picketing activities outside Macy’s
+San Francisco store. Local 39 filed a special motion to strike
+Macy’s complaint pursuant to Code of Civil Procedure section
+425.16 (anti-SLAPP statute), which the trial court denied in part.
+After Macy’s filed an amended complaint, Local 39 filed a second
+anti-SLAPP motion, which the trial court denied.
+       Local 39 appealed both orders, and we consolidated the two
+appeals for all purposes. Local 39 argues that the trial court
+should have granted its anti-SLAPP motions in full because
+Macy’s complaints were based on protected conduct and Macy’s
+failed to demonstrate a probability of prevailing on its claims.
+
+
+                                  1
+      We need not address the merits of Local 39’s appeal of the
+denial of its second anti-SLAPP motion because we agree with it
+in the first appeal that the trial court should have granted its
+first anti-SLAPP motion in full and ordered the entire complaint
+stricken.
+                         BACKGROUND
+      Macy’s runs a department store in San Francisco. Local 39
+represents a group of employees who work at the store fixing
+mechanical issues. After its last collective bargaining agreement
+with Macy’s expired and the parties were unable to agree on a
+new agreement, Local 39 called a strike and began picketing at
+the store in September 2020.
+      In October 2020, Macy’s filed a five-page complaint against
+Local 39. It alleged that Local 39 had engaged in a continuing
+and escalating pattern of unlawful misconduct at the store that
+included (1) mass picketing at the store’s five entrances; (2)
+blocking ingress and egress at two entrances; (3) disturbing the
+public through loud and boisterous conduct; (4) creating an
+unsafe and threatening environment in the community; and (5)
+damaging property by clogging a drainpipe. Macy’s alleged that
+Local 39 had authorized, directed, and ratified the misconduct to
+force Macy’s to accede to its demands in the labor dispute.
+Macy’s asked for a temporary restraining order and preliminary
+and permanent injunctions preventing Local 39 from picketing at
+any of the store’s entrances, blocking ingress or egress, disturbing
+the public, threatening public safety, or damaging property.
+Macy’s also asked for compensatory and punitive damages.
+
+
+
+                                 2
+      On November 20, 2020, Macy’s moved for leave to amend
+its complaint because Local 39 would not stipulate to the filing of
+an amended complaint. Local 39 filed its first anti-SLAPP
+motion against the original complaint on November 24, 2020.
+Local 39 argued the complaint alleged acts in furtherance of its
+right to free speech on a public issue because its statements and
+conduct occurred during and concerned a labor dispute. It then
+argued Macy’s could not establish a probability of prevailing on
+the merits because, among other things, the complaint did not
+satisfy Labor Code section 1138, which establishes a heightened
+standard of proof for claims against organizations arising out of
+labor disputes. 1
+      During the briefing on the anti-SLAPP motion, Macy’s
+submitted declarations from its employees that expanded upon
+the allegations in the complaint. One employee stated that on
+one occasion, a picketer hit her on the shoulder with a sign.
+Another employee said a picketer had followed him and blasted a
+siren from a bullhorn in his ears. A third employee described
+how picketers stood between customers and the store’s entrances,
+causing the customers to push through the picketers, and stood in
+the receiving dock area, preventing the delivery of goods to the
+store. The employee stated that picketers created loud and
+obnoxious noise through loud music, compressed air horns and
+whistles, sirens on electronic bullhorns, and banging on drums
+and pieces of metal that caused employees to have migraines,
+dizziness, disorientation, and hearing loss. This employee said
+
+
+      1   Undesignated statutory references are to the Labor Code.
+
+                                  3
+the picketers blasted customers and employees, including
+himself, directly in the face with the compressed air horn. The
+employee described security camera footage that showed
+picketers looking into a drainpipe shortly before a sewage backup
+occurred in the pipe, which was likely caused by a T-shirt and
+water bottle placed in the drainpipe. This employee further
+stated that water ceased flowing in some store restroom faucets
+because certain wires were cut and that Local 39 members had
+unique knowledge about the wires that activated the faucets.
+The employee also accused the picketers of damaging a planter
+by banging a piece of metal against it and throwing small rocks
+into several doorways that caused the doors to jam, necessitating
+repair.
+      After a hearing on December 30, 2020, the trial court
+granted Local 39’s anti-SLAPP motion in part. The court ruled
+that Macy’s could not show a probability that it would prevail on
+the complaint’s allegation that Local 39 engaged in misconduct
+through mass picketing and its prayer for relief requesting an
+injunction preventing Local 39 from allowing any picketing at the
+store, so it ordered those aspects of the complaint stricken. But
+the trial court also ruled that the complaint’s claims based on
+obstruction of ingress and egress, unreasonable noise, property
+damage, striking an employee with a sign, and blasting of a
+bullhorn in an employee’s ears had minimal merit and could
+proceed.
+      That same day, the trial court granted Macy’s leave to
+amend its complaint. Local 39 then filed a notice of appeal of the
+
+
+
+                                 4
+anti-SLAPP ruling. A few days after that, Macy’s filed an
+amended complaint, which omitted the language from the
+original complaint that the trial court had ordered stricken and
+added details that had previously been set forth only in the
+various declarations.
+      Local 39 responded by filing a second anti-SLAPP motion
+directed at the amended complaint. The trial court denied this
+motion on two grounds: first, it viewed the motion as an
+untimely motion for reconsideration of its ruling on the first anti-
+SLAPP motion; and second, it determined that Local 39’s appeal
+of the ruling on the first anti-SLAPP motion stayed all further
+proceedings on the merits of the causes of action in the original
+complaint. Local 39 moved for reconsideration of the ruling on
+the second anti-SLAPP motion, but the trial court denied that
+motion as well.
+
+                              DISCUSSION
+I.   Applicable legal principles and standard of review
+      “The anti-SLAPP statute is ‘designed to protect defendants
+from meritless lawsuits that might chill the exercise of their
+rights to speak and petition on matters of public concern.
+[Citations.] To that end, the statute authorizes a special motion
+to strike a claim “arising from any act of that person in
+furtherance of the person’s right of petition or free speech under
+the United States Constitution or the California Constitution in
+connection with a public issue.” ([Code Civ. Proc.,] § 425.16,
+subd. (b)(1).)’ [Citation.]
+
+
+
+
+                                  5
+      “Litigation of an anti-SLAPP motion involves a two-step
+process. First, ‘the moving defendant bears the burden of
+establishing that the challenged allegations or claims “aris[e]
+from” protected activity in which the defendant has engaged.’
+[Citation.] Second, for each claim that does arise from protected
+activity, the plaintiff must show the claim has ‘at least “minimal
+merit.” ’ [Citation.] If the plaintiff cannot make this showing,
+the court will strike the claim.” (Bonni v. St. Joseph Health
+System (2021) 11 Cal.5th 995, 1008–1009.)
+      “We review de novo the grant or denial of an anti-SLAPP
+motion. [Citation.] We exercise independent judgment in
+determining whether, based on our own review of the record, the
+challenged claims arise from protected activity. [Citations.] In
+addition to the pleadings, we may consider affidavits concerning
+the facts upon which liability is based. [Citations.] We do not,
+however, weigh the evidence, but accept plaintiff’s submissions as
+true and consider only whether any contrary evidence from the
+defendant establishes its entitlement to prevail as a matter of
+law.” (Park v. Board of Trustees of California State University
+(2017) 2 Cal.5th 1057, 1067.)
+II.   First anti-SLAPP motion
+      Macy’s does not dispute that the trial court correctly
+determined that the complaint arises from protected activity
+because its allegations concern picketing. We therefore proceed
+directly to the second anti-SLAPP step and consider whether the
+trial court correctly concluded that Macy’s established that the
+claims in the complaint have minimal merit. Macy’s has not
+
+                                 6
+appealed from the trial court’s order that some of the claims in
+the complaint be stricken because they lacked minimal merit.
+We therefore consider only the claims that the trial court allowed
+to proceed. Local 39 offers several different reasons why Macy’s
+cannot establish that its claims have minimal merit, but we need
+only address one—the argument that the trial court misstated
+and misapplied the standard of proof specified in section 1138. 2
+      “To satisfy [the anti-SLAPP] prong-two showing, the
+plaintiff must present credible evidence that satisfies the
+standard of proof required by the substantive law of the cause of
+action the anti-SLAPP motion challenges.” (De Havilland v. FX
+Networks, LLC (2018) 21 Cal.App.5th 845, 856.) Where the law
+requires proof by a higher standard for a cause of action, such as
+clear and convincing evidence, a court must evaluate the
+plaintiff’s evidentiary showing bearing in mind the higher
+standard of proof. (Ibid.; Conroy v. Spitzer (1999) 70 Cal.App.4th
+1446, 1451–1452; cf. Conservatorship of O.B. (2020) 9 Cal.5th
+989, 1011 [“an appellate court must account for the clear and
+convincing standard of proof when addressing a claim that the
+evidence does not support a finding made under this standard”].)
+      Section 1138 is one such a law. That statute states in full,
+“No officer or member of any association or organization, and no
+association or organization, participating or interested in a labor
+
+
+      2 We deny as unnecessary Local 39’s request for judicial
+notice of a ruling by an administrative law judge in a related
+proceeding before the National Labor Relations Board, as that
+request is relevant only to arguments that we need not reach.
+
+                                 7
+dispute, shall be held responsible or liable in any court of this
+state for the unlawful acts of individual officers, members, or
+agents, except upon clear proof of actual participation in, or
+actual authorization of those acts.” (§ 1138, italics added.) This
+statute was modeled after section 6 of the federal Norris-
+LaGuardia Act (29 U.S.C. 101 et seq.), which is substantively
+identical except that it permits the imposition of liability “upon
+clear proof of actual participation in, or actual authorization of,
+such acts, or of ratification of such acts after actual knowledge
+thereof.” (29 U.S.C. § 106; Waremart Foods v. United Food and
+Commercial Workers Union, Local 588 (2001) 87 Cal.App.4th 145,
+156 (Waremart).)
+      “[T]he simple concern of Congress [behind the federal
+statute] was that unions had been found liable for violence and
+other illegal acts occurring in labor disputes which they had
+never authorized or ratified and for which they should not be held
+responsible. Congress discerned a tendency in courts to blame
+unions for everything occurring during a strike. Nor was the
+problem necessarily limited to labor unions. The straightforward
+answer was [29 United States Code section 106], with its
+requirement that when illegal acts of any individual are charged
+against one of the major antagonists in a labor dispute—whether
+employer or union—the evidence must clearly prove that the
+individual’s acts were authorized or ratified.” (Ramsey v. Mine
+Workers (1971) 401 U.S. 302, 310, fn. omitted.) The Supreme
+Court has clarified that the federal statute’s “ ‘clear proof’’ ”
+standard means “ ‘clear, unequivocal, and convincing proof’ ” that
+
+                                   8
+persuades “by a substantial margin,” which is more than the
+usual civil standard of a bare preponderance of the evidence but
+less than the criminal standard of proof beyond a reasonable
+doubt. (Mine Workers v. Gibbs (1966) 383 U.S. 715, 737 (Gibbs).)
+The Legislature’s express purpose for section 1138 was to adopt a
+rule similar to the federal law. (Waremart, supra, 87 Cal.App.4th
+at p. 156.)
+       It is undisputed here that Local 39 is an organization
+participating or interested in a labor dispute. The only questions
+are whether the trial court applied the correct standard of proof
+when considering Macy’s evidentiary showing and whether it did
+so correctly.
+       Local 39 first argues that the trial court erroneously ruled
+that Local 39’s request that it hold Macy’s to the clear proof
+standard in section 1138 was asking the court to apply an
+unrealistically high standard. This argument is based on the
+trial court’s statements that it rejected Local 39’s argument that
+Macy’s evidentiary showing was insufficient to show the requisite
+clear proof of Local 39’s participation in or authorization of the
+alleged unlawful conduct, and that Local 39 “would have the
+Court impose an unrealistically high standard of proof.” Local 39
+reads these statements as meaning Macy’s did not have to show
+clear proof of Local 39’s participation at the second anti-SLAPP
+step. Macy’s agrees, although it contends this correctly states the
+law.
+       As explained, ante, the standard of proof affects the
+showing a plaintiff must make in anti-SLAPP litigation, with a
+
+                                  9
+higher standard of proof requiring a greater evidentiary showing.
+(De Havilland v. FX Networks, LLC, supra, 21 Cal.App.5th at
+p. 856.) Macy’s need not prove its case in the sense that it need
+not disprove any contrary evidence from Local 39. But Macy’s
+must present evidence that, if credited, would satisfy the higher
+standard of clear proof, as required under section 1138. The trial
+court’s statement of the standard was consistent with this
+principle. Read in context, the trial court did not mean that the
+clear proof standard was unrealistically high or that Macy’s did
+not need to submit prima facie evidence that would satisfy it.
+Rather, the trial court meant merely that Local 39’s position that
+Macy’s had not made a prima facie showing of clear proof was too
+exacting, and that Macy’s evidence satisfied the standard in this
+case. The trial court therefore used the correct standard of proof.
+      The trial court nevertheless erred in applying this standard
+to Macy’s claims and evidentiary showing. The trial court’s
+reasoning, which Macy’s endorses on appeal, began from the
+premise that Macy’s did not need to provide evidence of a direct
+order from Local 39 to engage in misconduct in order to hold it
+liable, implying that circumstantial proof was sufficient. The
+trial court drew this principle from Security Farms v.
+International Broth., Warehousemen & Helpers (9th Cir. 1997)
+124 F.3d 999, 1013–1014 (Security Farms). In that decision
+applying the federal model for section 1138, the court held that
+the record supported the trial court’s finding that the plaintiff
+established clear proof of a union’s participation in certain
+misconduct, despite the absence of evidence of a direct order to
+
+                                 10
+engage in misconduct. (Id. at pp. 1013–1014.) The court found
+sufficient evidence that (1) the union’s leaders committed
+unlawful acts themselves or were often present when the
+unlawful acts were committed; (2) the union knew of its leaders’
+actions, did not discipline them, and allowed them to keep their
+positions; and (3) the union did not always act to prevent or
+curtail the wrongful conduct. (Id. at p. 1014.)
+      Applying Security Farms, the trial court here concluded
+that a trier of fact could readily infer that Local 39 had
+knowledge of the alleged unlawful acts and did not always act to
+prevent or curtail it. As evidence supporting such an inference,
+the trial court cited Local 39’s admission that it called the strike,
+the pervasive and repeated nature of the actions over the course
+of 75 days, and a record of complaints and other communications
+between Macy’s and Local 39. The trial court further explained
+at the hearing that Local 39’s argument about the lack of
+authorization was more persuasive as to single instances of
+misconduct, such as the incident in which a picketer struck an
+employee on the shoulder with a sign. But it found that for the
+repeated conduct over the course of the 75-day strike that
+involved seemingly concerted behavior, Macy’s evidence
+supported an inference that Local 39 itself authorized the
+activity.
+      The trial court ultimately allowed Macy’s to proceed on its
+claims based on five categories of misconduct: (1) obstruction of
+ingress and egress; (2) unreasonable noise; (3) property damage
+from the sewer backup, damage to restrooms, throwing rocks at
+
+                                 11
+doors, and banging a piece of metal on a planter; (4) hitting an
+employee with a sign; and (5) blasting a bullhorn directly in an
+employee’s ears. But three of these categories—the property
+damage, the battery with the sign, and the blasting of the
+bullhorn—did not involve repeated and pervasive conduct. Both
+involved actions that Macy’s alleged happened only in single or a
+few instances. Even by the trial court’s own rationale, the
+inference of authorization that might arise from pervasive
+misconduct repeated over a long period cannot save these claims,
+so Macy’s did not make a prima facie showing that would support
+a judgment in its favor on them.
+      Macy’s evidence also does not constitute clear proof as to
+any of these claims because of a complete lack of evidence of
+Local 39’s actual involvement. Circumstantial proof of actual
+participation or actual authorization can satisfy the statute.
+(James R. Snyder Co. v. Edward Rose & Sons (6th Cir. 1976)
+546 F.2d 206, 209 [construing federal statute].) But such
+circumstantial evidence must nevertheless be “ ‘clear,
+unequivocal, and convincing proof.’ ” (Gibbs, supra, 383 U.S. at
+p. 737; Snyder, at p. 209). Proof of this sort requires something
+more than evidence of unlawful acts by Local 39’s members, even
+in groups and over a substantial period of time, or Local 39’s
+failure to take measures to prevent such acts; “ ‘there must be
+evidence showing some definite and substantial connection’ ”
+between Local 39 and the unlawful acts Macy’s alleged. (Fry v.
+Airline Pilots Ass’n, Intern. (10th Cir. 1996) 88 F.3d 831, 842,
+italics omitted.)
+
+                                 12
+      The only evidence Macy’s offered to show a definite
+connection between Local 39 and the unlawful acts was that
+Local 39 called the strike and that misconduct took place during
+the picketing over a substantial period of time. This case is
+therefore unlike Security Farms because Macy’s submitted no
+evidence that union leaders of any type were present during the
+alleged actions or knew about them, much less evidence that the
+leaders actually participated in the unlawful actions. (Security
+Farms, supra, 124 F.3d at p. 1014; see also Gibbs, supra, 383 U.S.
+at p. 738 [no proof of union’s authorization or participation in
+violence where union representative was not present at the site
+during the violence and violence subsided when he returned].)
+Based on the evidentiary record Macy’s has provided, there is
+nothing to suggest that Local 39 itself actually approved of the
+alleged unlawful actions, as opposed to Local 39’s rank-and-file
+members undertaking the actions on their own. While an
+inference that Local 39 actually authorized unlawful acts based
+on the mere existence of a long strike that involved pervasive use
+of loud noisemaking devices or repeated blocking of store
+entrances might satisfy a preponderance of the evidence
+standard, such an inference does not constitute “clear proof”
+sufficient to survive the second prong of the anti-SLAPP test.
+(Gibbs, supra, 383 U.S. at p. 741 [“An ‘impression’ is too
+ephemeral a product to be the result of ‘clear proof’ ”].)
+      The trial court cited a record of complaints and
+communication between Macy’s and Local 39 as evidence
+supporting Macy’s complaint. But we have been unable to find,
+
+                                 13
+and Macy’s has not cited, any evidence in the record to
+substantiate the trial court’s statement. One of Macy’s
+employees declared that he and other employees asked the
+picketers “every day” to keep back from the store’s entrances and
+requested multiple times that they lower the volume of their
+activities. But speaking with picketers is not equivalent to
+speaking with Local 39; to establish the latter, Macy’s needed to
+submit evidence that it spoke to an officer, business agent, or
+other officer with responsibility for the organization. Without
+evidence that the picketers the employee spoke to were Local 39
+leaders of some sort, Macy’s conversations with picketers do not
+tend to show that the organization itself actually authorized any
+misconduct.
+      The need for evidence directly tying Local 39 to the
+behavior Macy’s complains of is not a mere formality. Section
+1138, like its federal counterpart, exists to prevent courts from
+holding a union liable for misconduct by its members during a
+strike without clear proof that the union itself actually approved
+the misconduct. (Waremart, supra, 87 Cal.App.4th at p. 156;
+Ramsey v. Mine Workers, supra, 401 U.S. at p. 310.) Thus, Local
+39 cannot be held responsible for the actions of its members on
+the picket line without some indication that Local 39 itself
+actually authorized the actions. Moreover, the individuals on the
+picket line who committed the various actions alleged may not
+have been members of Local 39 at all. Local 39 submitted a
+declaration stating that members of other unions and the general
+public joined Local 39 members in a showing of solidarity with
+
+                                14
+the union. The potential presence of non-members on the picket
+line makes it essential that Macy’s tie the alleged misconduct to
+Local 39 itself to prove its claims have minimal merit.
+      Our conclusion that Macy’s evidentiary showing falls short
+of the clear proof standard does not mean that the standard is
+impossible to meet in anti-SLAPP cases, as Macy’s contends.
+Macy’s presumably has long known who Local 39’s leaders are
+and could recognize them on the picket line. A simple declaration
+attesting to a leader’s participation in picketing in front of an
+entrance or using a loud noisemaking device or, at a minimum, a
+leader’s presence at the picketing during such actions would have
+satisfied the statute. If Macy’s did not have such evidence but
+believed it existed, it could have requested limited discovery to
+obtain it. (Code Civ. Proc., § 425.16, subd. (g).)
+      Macy’s also could have submitted evidence that it
+complained directly to Local 39’s leaders about the misconduct,
+which would have established Local 39’s knowledge of the alleged
+misconduct. Section 1138, unlike its federal counterpart, does
+not permit imposition of liability based on clear proof that an
+organization ratified misconduct, so this would not necessarily
+permit the imposition of liability for misconduct pre-dating the
+communication. (Compare § 1138 [requiring clear proof of actual
+participation or actual authorization] with 29 U.S.C. § 106
+[requiring clear proof of actual participation, actual
+authorization, or ratification after actual knowledge]; see also
+Assem. Comm. On Labor and Employment, Rep. on Assem. Bill.
+No. 1268 (1999–2000 Reg. Sess.) Apr. 21, 1999, at p. 6 [noting the
+
+                                 15
+ absence of the ratification provision].) But continued misconduct
+ after such complaints could support an inference that Local 39
+ approved of and actually authorized the further misconduct.
+III.   Second anti-SLAPP motion
+        Because the trial court should have granted Local 39’s first
+ anti-SLAPP motion in full, it is unnecessary to discuss the merits
+ of Local 39’s second anti-SLAPP motion directed at the amended
+ complaint. Had the trial court granted the first motion, Macy’s
+ would not have been allowed to file the amended complaint, so
+ Local 39 would not have needed to file a second anti-SLAPP
+ motion against it. (Dickinson v. Cosby (2017) 17 Cal.App.5th 655,
+ 676 [“Although the anti-SLAPP statute does not specifically state
+ it, a plaintiff whose complaint is stricken by a successful anti-
+ SLAPP motion cannot try again with an amended complaint.
+ There is no such thing as granting an anti-SLAPP motion with
+ leave to amend”].)
+                                DISPOSITION
+        The trial court’s order granting in part and denying in part
+ Local 39’s first anti-SLAPP motion is affirmed to the extent that
+ it granted the motion and reversed to the extent that it denied
+ the motion. The trial court is directed to enter a new order
+ granting the motion in its entirety and striking Macy’s original
+ complaint.
+                                                      BROWN, J.
+
+ I CONCUR:
+
+ GOLDMAN, J.
+ Stationary Engineers Local 39 v. Macy’s, Inc. (A161959)
+
+
+                                         16
+POLLAK, P.J. — I concur in the disposition of this appeal, but I
+do so with considerable misgivings. As a matter of common sense,
+it is virtually undeniable that, given the nature and duration of
+the challenged conduct, union leadership must have been aware
+of that conduct and took no steps to terminate it. Yet, as the
+majority opinion explains, Macy’s presented absolutely no
+evidence that the illegal behavior (as opposed to the lawful
+picketing) was in fact brought to the attention of the leadership.
+Moreover, no formal attempt was made to obtain limited
+discovery to obtain such evidence. And although the union’s brief
+in this court made this argument explicitly, Macy’s reply simply
+ignores the issue. Therefore, while we can hardly be certain that
+trial would not disclose evidence that the union knew about and
+approved the disputed conduct, nothing was presented in
+opposition to the anti-SLAPP motion to demonstrate Macy’s
+likelihood of prevailing on that issue at trial. For that reason
+alone, I concur.
+
+
+
+
+                                                  POLLAK, P. J.
+
+
+
+
+                                  1
+Trial Court:   San Francisco City & County Superior Court
+
+Trial Judge:   Hon. Ethan P. Schulman
+
+Counsel:       Weinberg, Roger & Rosenfeld, Gary P.
+               Provencher and Andrea Matsuoka for
+               Defendant and Appellant.
+
+               Jackson Lewis, Gabriel N. Rubin and JaVon A.
+               Payton for Plaintiff and Respondent.
