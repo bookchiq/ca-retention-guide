@@ -111,6 +111,8 @@ def load_dockets(conn: sqlite3.Connection, path: Path, courts: set[str]) -> int:
                 (int(row["id"]), row["court_id"], row["docket_number"], row["case_name"]),
             )
             kept += 1
+            if kept % BATCH == 0:
+                conn.commit()  # short transactions so the API fetcher can write too
     _checkpoint(conn, stage, kept, True)
     return kept
 
@@ -144,6 +146,8 @@ def load_clusters(
              f"/opinion/{row['id']}/{row['slug']}/", source),
         )
         kept += 1
+        if kept % BATCH == 0:
+            conn.commit()
     _checkpoint(conn, stage, kept, True)
     return kept
 
@@ -166,8 +170,12 @@ def load_opinions(conn: sqlite3.Connection, path: Path, source: str) -> int:
             added += db.insert_opinion(
                 conn, int(row["id"]), int(row["cluster_id"]), row["type"], text, field, source
             )
-        if seen % (BATCH * 50) == 0:
+        # Checkpoint (and commit) often enough that other writers are never
+        # blocked for long; resume skips `seen` rows, so this must stay in step
+        # with the inserts it covers.
+        if seen % BATCH == 0:
             _checkpoint(conn, stage, seen, False)
+        if seen % 500_000 == 0:
             log.info("opinions: %d rows scanned, %d added", seen, added)
     _checkpoint(conn, stage, seen, True)
     return added
