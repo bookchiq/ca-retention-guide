@@ -29,6 +29,12 @@ Every change to rules, scope, keywords, or method, with date and reason (SPEC.md
 - Supreme Court court ID: `cal` confirmed via `GET /api/rest/v4/courts/cal/` (2026-10-17).
 - Anonymous access to opinions/clusters/dockets returns 401 (API v4.3+); token required.
 - Bulk snapshot 2026-09-30 sizes (S3 listing, 2026-10-17): opinions 55,252,643,429 B; dockets 5,144,011,100 B; opinion-clusters 2,467,613,433 B.
-- SOS ballot re-check: pending (U2).
+- SOS ballot re-check (2026-10-17, against the SOS judicial candidates PDF): all 64 names, courts, districts, and divisions match SPEC §4, including presiding titles. `data/justices.csv` uses the SOS spellings; court-roster forms (e.g., "Stephen" Goorvitch, "Rodríguez", "Bermúdez", John Shepard Wiley Jr.) are kept in `notes` and `data/aliases.csv`. The ballot lists Lisa Rodriguez as "San Diego County Superior Court Judge", Frederick S. Chung as "Superior Court Judge", and David B. Sapp with no title.
+
+## 2026-10-17: Limited appellate record
+
+SPEC §4's list of short-tenure justices was incomplete. Applying the 12-month rule to sourced start dates flags 15 justices as `limited_record`: Rodriguez, Macaulay, Damrell, Sapp, Chung, and C. F. Adams (named in the spec), plus Bermudez, Servino, Goorvitch, Daum, Guerra, Sandhu, Lee, Scherb, and Harrell. Sapp, Chung, and Rodriguez take their seats only on 2027-01-04 if retained. Open question for the owner: Amy K. Guerra served pro tem at the Fifth District (Oct 2025–Jan 2026) before her 2026-05-22 confirmation; the data currently counts only the confirmed service.
+
+Source conflicts resolved in favor of the official release date (noted per row): Chou (bio July 2023; release 2023-06-23), Boulware Eurie (bio Aug 4, 2022; release Aug 3, 2022), Simons (bio 2000; roster 2001).
 
 ## Changelog
