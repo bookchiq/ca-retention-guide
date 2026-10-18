@@ -1,0 +1,146 @@
+# Topic keyword sets (SPEC §7.4). Matching is case-insensitive on whole words,
+# with "§" normalized to "section". An opinion is tagged when it has any anchor
+# or at least 3 distinct broader terms (KTD9). The San Diego reading queue uses
+# a looser match: any anchor or at least 1 broader term (KTD7).
+# Log every change to this file in DECISIONS.md.
+
+search_seizure:
+  tier: 1
+  validated: false   # set true once data/validation/report_tags.md passes R10
+  anchors:
+    - fourth amendment
+    - motion to suppress
+    - section 1538.5
+    - search warrant
+    - warrantless
+    - exclusionary rule
+    - calecpa
+    - electronic communications privacy act
+    - section 1546
+  broad:
+    - probable cause
+    - reasonable suspicion
+    - detention
+    - consent to search
+    - good faith exception
+    - leon
+    - inevitable discovery
+    - terry stop
+    - pat-down
+    - probation search
+    - parole search
+    - fourth waiver
+    - knock-notice
+    - franks hearing
+    - geofence
+    - cell site
+    - automobile exception
+    - search incident to arrest
+  issue_types: [warrant_sufficiency, warrantless_exception, detention_or_stop, consent,
+                probation_parole_search, electronic_data, vehicle, home_entry, other]
+  outcomes: [evidence_suppressed_or_search_held_unlawful, search_upheld, mixed, not_reached]
+
+interrogation:
+  tier: 2
+  validated: false
+  anchors: [miranda, custodial interrogation, voluntariness, involuntary confession]
+  broad: []
+
+counsel_fair_trial:
+  tier: 2
+  validated: false
+  anchors: [ineffective assistance, strickland, marsden, faretta, sixth amendment]
+  broad: []
+
+jury_selection:
+  tier: 2
+  validated: false
+  anchors: [batson, wheeler, section 231.7]
+  broad: []
+
+racial_justice_act:
+  tier: 2
+  validated: false
+  anchors: [racial justice act, section 745]
+  broad: []
+
+police_records:
+  tier: 2
+  validated: false
+  anchors: [pitchess, evidence code section 1043, section 832.7, senate bill 1421]
+  broad: []
+
+immigration_pleas:
+  tier: 2
+  validated: false
+  anchors: [section 1473.7, immigration consequences, padilla v. kentucky]
+  broad: []
+
+resentencing:
+  tier: 2
+  validated: false
+  anchors: [section 1172.6, section 1170.95, senate bill 1437, senate bill 775, section 3051,
+            youth offender parole, franklin, section 1172.1, section 1172.75]
+  broad: []
+
+arbitration:
+  tier: 3
+  validated: false
+  anchors: [motion to compel arbitration, arbitration agreement, unconscionab, armendariz]
+  broad: []
+  prefix_terms: [unconscionab]
+  outcomes: [arbitration_compelled, arbitration_denied, mixed, not_reached]
+
+employment:
+  tier: 3
+  validated: false
+  anchors: [private attorneys general act, paga, labor code section 2698, feha, wage and hour,
+            wrongful termination]
+  broad: []
+  outcomes: [ruling_for_employee, ruling_for_employer, mixed, not_reached]
+
+consumer:
+  tier: 3
+  validated: false
+  anchors: [song-beverly, lemon law, consumers legal remedies act,
+            business and professions code section 17200, unfair competition law]
+  broad: []
+  outcomes: [ruling_for_consumer, ruling_for_business, mixed, not_reached]
+
+landlord_tenant:
+  tier: 3
+  validated: false
+  anchors: [unlawful detainer, tenant protection act, civil code section 1946.2, rent control]
+  broad: []
+  outcomes: [ruling_for_tenant, ruling_for_landlord, mixed, not_reached]
+
+transparency:
+  tier: 3
+  validated: false
+  anchors: [california public records act, government code section 7920, section 6250,
+            brown act, government code section 54950]
+  broad: []
+  outcomes: [disclosure_ordered_or_violation_found, disclosure_denied_or_no_violation, mixed,
+             not_reached]
+
+anti_slapp:
+  tier: 3
+  validated: false
+  anchors: [anti-slapp, section 425.16]
+  broad: []
+  outcomes: [motion_granted, motion_denied, mixed, not_reached]
+
+taxpayer:
+  tier: 3
+  validated: false
+  anchors: [proposition 218, proposition 13, proposition 26, special tax, howard jarvis]
+  broad: []
+  outcomes: [tax_or_fee_invalidated, tax_or_fee_upheld, mixed, not_reached]
+
+land_use_housing:
+  tier: 3
+  validated: false
+  anchors: [ceqa, california environmental quality act, housing accountability act,
+            "builder's remedy", density bonus]
+  broad: []
+  outcomes: [project_or_approval_set_aside, project_or_approval_upheld, mixed, not_reached]
