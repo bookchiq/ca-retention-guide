@@ -371,10 +371,22 @@ def test_supreme_court_filed_separate_opinion():
     assert r.has_concurrence is True and r.has_dissent is False
 
 
+def test_former_supreme_court_justices_resolve_within_their_service():
+    r = run("S_4638160")  # filed 2020-11-30
+    assert (r.seats[1].slug, r.seats[3].slug) == (
+        "tani-cantil-sakauye", "mariano-florentino-cuellar",
+    )
+    assert r.parse_status == "ok"
+
+
 def test_unresolvable_names_are_kept_and_marked_unresolved():
-    # Cantil-Sakauye and Cuéllar have aliases but no service period in
-    # data/service_periods.csv, so they cannot be placed on the court that day.
-    r = run("S_4638160")
+    # Cantil-Sakauye (left 2023-01-02) and Cuéllar (left 2021-10-31) have aliases,
+    # but no service period covers a later filing date, so they cannot be placed.
+    meta, body = load("S_4638160")
+    r = parse.parse_opinion(
+        body, court="cal", docket_number=meta["docket"], date_filed="2023-06-01",
+        precedential_status=meta["status"],
+    )
     cs = r.seats[1]
     assert cs.slug is None and cs.resolution == "no_match"
     assert r.parse_status == "unresolved"
@@ -495,6 +507,9 @@ def _seed(conn, names: list[str]) -> None:
 def test_parse_database_is_idempotent_and_queues_unresolved(tmp_path):
     conn = db.connect(tmp_path / "cases.sqlite")
     _seed(conn, ["D_11171775", "S_4638160", "E_4684756", "E_4685458", "D_4639750"])
+    # Move S_4638160 past Cantil-Sakauye's and Cuéllar's service so two seats queue.
+    conn.execute("UPDATE clusters SET date_filed = '2023-06-01' WHERE cl_cluster_id = 4834381")
+    conn.commit()
     queue = tmp_path / "unresolved.csv"
     log = tmp_path / "parse_log.csv"
     for _ in range(2):
