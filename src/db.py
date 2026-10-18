@@ -38,6 +38,9 @@ CREATE TABLE IF NOT EXISTS opinions (
     published         INTEGER,
     partial_publication INTEGER,
     disposition_text  TEXT,
+    disposition_class TEXT,   -- affirmed | affirmed_as_modified | reversed | reversed_in_part |
+                              -- vacated | dismissed | writ_granted | writ_denied | other
+    docket_number_text TEXT,  -- docket number parsed from the caption
     author_slug       TEXT,
     author_raw        TEXT,
     per_curiam        INTEGER,
@@ -52,9 +55,11 @@ CREATE INDEX IF NOT EXISTS opinions_hash ON opinions(text_hash);
 CREATE TABLE IF NOT EXISTS panel_seats (
     cl_opinion_id     INTEGER NOT NULL,
     seat_raw          TEXT NOT NULL,
-    slug              TEXT,
-    role              TEXT NOT NULL,          -- author | joined | separate | assigned
+    slug              TEXT,                   -- NULL when unresolved or an assigned trial judge
+    role              TEXT NOT NULL,          -- author | joined (per curiam panels: joined)
+    title             TEXT,                   -- J. | P. J. | Acting P. J. | C. J.
     assigned          INTEGER NOT NULL DEFAULT 0,
+    assignment_note   TEXT,                   -- footnote text for an assigned judge
     PRIMARY KEY (cl_opinion_id, seat_raw, role)
 );
 
@@ -131,4 +136,22 @@ def connect(path: Path | str) -> sqlite3.Connection:
     conn.execute("PRAGMA journal_mode=WAL")
     conn.execute("PRAGMA synchronous=NORMAL")
     conn.executescript(SCHEMA)
+    _add_missing_columns(conn)
     return conn
+
+
+# Columns added after a database may already exist: (table, column, type).
+ADDED_COLUMNS = [
+    ("opinions", "disposition_class", "TEXT"),
+    ("opinions", "docket_number_text", "TEXT"),
+    ("panel_seats", "title", "TEXT"),
+    ("panel_seats", "assignment_note", "TEXT"),
+]
+
+
+def _add_missing_columns(conn: sqlite3.Connection) -> None:
+    for table, column, kind in ADDED_COLUMNS:
+        existing = {r[1] for r in conn.execute(f"PRAGMA table_info({table})")}
+        if column not in existing:
+            conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {kind}")
+    conn.commit()
