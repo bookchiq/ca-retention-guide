@@ -68,11 +68,13 @@ def compile_topics(topics: dict) -> Compiled:
         for key, kind in (("anchors", "anchor"), ("broad", "broad")):
             for term in spec.get(key, []):
                 owners.setdefault(normalize(term), []).append((topic, kind))
-    parts = []
-    for term in sorted(owners, key=len, reverse=True):
-        tail = "" if term in prefixes else r"(?![a-z0-9])"
-        parts.append(r"(?<![a-z0-9])" + re.escape(term) + tail)
-    return Compiled(re.compile("|".join(parts)), owners, list(topics))
+    ordered = sorted(owners, key=len, reverse=True)
+    whole = "|".join(re.escape(t) for t in ordered if t not in prefixes)
+    stems = "|".join(re.escape(t) for t in ordered if t in prefixes)
+    # One shared left boundary instead of one per alternative: far fewer checks per
+    # position on long opinion texts.
+    body = rf"(?:{whole})(?![a-z0-9])" + (f"|(?:{stems})" if stems else "")
+    return Compiled(re.compile(rf"(?<![a-z0-9])(?:{body})"), owners, list(topics))
 
 
 def score(text: str, compiled: Compiled) -> dict[str, Hits]:
@@ -91,16 +93,17 @@ def score(text: str, compiled: Compiled) -> dict[str, Hits]:
 
 def tag_all(conn: sqlite3.Connection, topics: dict) -> int:
     compiled = compile_topics(topics)
-    conn.execute("DELETE FROM topic_tags")
     count = 0
-    cursor = conn.execute("SELECT cl_opinion_id, text FROM opinions")
     batch = []
-    for opinion_id, text in cursor.fetchall():
+    # Score everything before writing, so the write lock is held only briefly and
+    # other jobs (parsing, fetching) can write to the database meanwhile.
+    for opinion_id, text in conn.execute("SELECT cl_opinion_id, text FROM opinions"):
         for topic, h in score(text, compiled).items():
             if h.anchor_hits or h.broad_hits:
                 batch.append((opinion_id, topic, h.anchor_hits, h.broad_hits, int(h.tagged),
                               int(h.queue_match)))
         count += 1
+    conn.execute("DELETE FROM topic_tags")
     conn.executemany(
         "INSERT INTO topic_tags (cl_opinion_id, topic, anchor_hits, broad_hits, tagged, "
         "queue_match) VALUES (?, ?, ?, ?, ?, ?)",

@@ -489,7 +489,7 @@ _SC_SEPARATE = re.compile(
     r"(?P<kind>concurring and dissenting|dissenting|concurring)\s+opinion"
     r"|an\s+opinion\s+(?P<kind2>concurring\s+in\s+the\s+(?:judgment|result)"
     r"|concurring and dissenting|dissenting))"
-    r"(?:,\s+in\s+which\s+(?P<joined>[^.]+?)\s+concurred)?\."
+    r"(?:,?\s+in\s+which\s+(?P<joined>[^.]+?)\s+concurred)?"
 )
 
 

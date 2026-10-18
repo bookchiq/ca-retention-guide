@@ -1,0 +1,1396 @@
+cl_opinion_id: 5175655
+cluster: 5342993
+docket: S259999
+date: 2022-01-03
+status: Published
+type: 010combined
+field: plain_text
+case: In re Mohammad
+----
+IN THE SUPREME COURT OF
+               CALIFORNIA
+
+              In re MOHAMMAD MOHAMMAD
+                     on Habeas Corpus.
+
+
+
+                           S259999
+
+           Second Appellate District, Division Five
+                         B295152
+
+             Los Angeles County Superior Court
+                         BH011959
+
+
+
+                       January 3, 2022
+
+Chief Justice Cantil-Sakauye authored the opinion of the
+Court, in which Justices Corrigan, Liu, Kruger, Groban,
+Jenkins, and Levy* concurred.
+
+Justice Liu filed a concurring opinion in which Justice Kruger
+concurred.
+
+
+
+
+__________________________
+*
+      Associate Justice of the Court of Appeal, Fifth Appellate
+District, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+                       In re MOHAMMAD
+
+
+                             S259999
+
+
+         Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+    This case asks whether Proposition 57, The Public Safety
+and Rehabilitation Act of 2016, requires California’s
+Department of Corrections and Rehabilitation (the Department)
+to provide early parole consideration to individuals currently
+serving a term of incarceration for a violent felony.
+      Petitioner Mohammad Mohammad was incarcerated after
+having been convicted of nine violent felony counts and six
+nonviolent felony counts. The trial court ordered all terms to be
+served consecutively.       After petitioner’s conviction, the
+electorate approved Proposition 57 in November 2016, which
+added section 32 to article I of the California Constitution to
+provide, in relevant part, that “[a]ny person convicted of a
+nonviolent felony offense and sentenced to state prison shall be
+eligible for parole consideration after completing the full term
+for his or her primary offense.” (Cal. Const., art. I, § 32, subd.
+(a)(1).)1 The ballot initiative also directed the Department to
+“adopt regulations in furtherance of these provisions” and
+instructed the Secretary of the Department to “certify that these
+
+
+
+1
+      Article I, subdivisions 32(a), 32(a)(1), 32(a)(1)(A), and
+32(b) of the California Constitution are referred to in this
+opinion as “article I, section 32(a),” “article I, section 32(a)(1),”
+“article I, section 32(a)(1)(A),” and “article I, section 32(b).”
+
+
+                                 1
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+regulations protect and enhance public safety.” (Art. I, § 32,
+subd. (b).)
+     The Department subsequently adopted regulations
+implementing early parole consideration under article I, section
+32.2 Those regulations exclude from nonviolent offender early
+parole consideration any inmate who “is currently serving a
+term of incarceration for a ‘violent felony[.]’ ” (Cal. Code Regs.,
+tit. 15, § 3490, subd. (a)(5).)3 The regulations state that a
+“ ‘[v]iolent felony’ is a crime or enhancement as defined in
+subdivision (c) of Section 667.5 of the Penal Code.” (Id., § 3490,
+subd. (c).)
+      Consistent with those regulations, the Department
+determined petitioner was ineligible for nonviolent offender
+early parole consideration because he was serving a term of
+incarceration for a violent felony. Petitioner challenged that
+determination, and the Court of Appeal granted relief, holding
+that the language of article I, section 32(a) requires early parole
+consideration for any inmate convicted of a nonviolent felony
+even when that inmate was also convicted of a violent felony.
+(In re Mohammad (2019) 42 Cal.App.5th 719, 727
+(Mohammad).)
+
+
+2
+      The Department refers to early parole consideration under
+article I, section 32 as “nonviolent offender parole review.”
+(California Department of Corrections and Rehabilitation,
+Nonviolent Offender Parole Review Process for Determinately-
+Sentenced      Inmates      <https://www.cdcr.ca.gov/bph/nvopr-
+overview/> [as of Dec. 28, 2021].) All internet citations in this
+opinion are archived by year, docket number, and case name at
+<http://courts.ca.gov/38324.htm>.
+3
+      Further undesignated references to the California Code of
+Regulations are to title 15 unless otherwise noted.
+
+
+                                  2
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      We granted review to decide the validity of the
+Department’s regulation prohibiting early parole consideration
+under the Proposition 57 scheme for inmates “currently serving
+a term of incarceration for a ‘violent felony.’ ” (Cal. Code Regs.,
+§ 3490, subd. (a)(5).) While the matter was pending in this
+court, four other appellate courts disagreed with Mohammad
+and concluded the Department’s regulations properly excluded
+from early parole consideration inmates currently serving a
+term of incarceration for a violent felony offense.4
+      We conclude that the Department acted within the
+authority provided by article I, section 32(b) when it adopted the
+regulation at issue here. In reaching this conclusion, we find
+the constitutional text is ambiguous concerning the application
+of article I, section 32(a) to an inmate like petitioner who is
+currently serving a term of incarceration for a violent felony
+offense. Considering the text together with the materials
+presented to the voters, we hold that the Department’s approach
+is reasonably necessary to effectuate the purpose of
+Proposition 57. We therefore agree with the majority of the
+appellate courts, and reverse the decision of the Court of Appeal
+below.
+
+
+
+
+4
+      We granted review in each of those four matters and
+deferred further action pending consideration and disposition of
+the issue before us in this case. (In re Guice (2021)
+66 Cal.App.5th 933, 937, review granted Sept. 29, 2021,
+S270524; In re Ontiveros (2021) 65 Cal.App.5th 899, 902–903,
+review granted Aug. 25, 2021, S269832; In re Viehmeyer (2021)
+62 Cal.App.5th 973, 984–985, review granted June 30, 2021,
+S268660; In re Douglas (2021) 62 Cal.App.5th 726, 729, review
+granted June 16, 2021, S268570.)
+
+
+                                  3
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+            I. FACTS AND PROCEDURAL HISTORY
+      A. The Underlying Conviction
+      In 2012, petitioner pleaded no contest to nine counts of
+second degree robbery (Pen. Code, § 211) and six counts of
+receiving stolen property (id., § 496, subd. (a)). The trial court
+designated one count of receiving stolen property to be the
+principal term and ordered the remaining counts to run
+consecutively. Petitioner was sentenced to 29 years in prison —
+three years for the principal term of receiving stolen property,
+eight months for each of the other counts of receiving stolen
+property, one year for each of the nine counts of robbery, and a
+total of 13 years eight months for gang enhancements attached
+to six counts (id., § 186.22, subds. (b)(1)(A), (b)(1)(C)).5
+Petitioner did not appeal.
+      B. The Petition for Writ of Habeas Corpus and the
+         Court of Appeal Opinion
+      The   electorate    approved     Proposition      57   in   2016.
+Petitioner subsequently filed a request with the Department
+asking for early parole consideration.      He asserted that
+Proposition 57 requires early parole consideration for inmates
+who have completed the full term for a primary offense when
+that offense is nonviolent. He noted that the trial court in his
+case designated as the principal term one count of receiving
+stolen property, and that receiving stolen property is not defined
+as a violent felony under Penal Code section 667.5, subdivision
+(c). The Department denied petitioner’s request. Petitioner
+
+
+5
+     The principal term is “the greatest term of imprisonment
+imposed by the court for any of the crimes, including any term
+imposed for applicable specific enhancements.” (Pen. Code,
+§ 1170.1, subd. (a).)
+
+
+                                  4
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+filed a petition for a writ of habeas corpus in the Los Angeles
+County Superior Court. The superior court denied the petition
+in November 2018, agreeing with the Department.
+     In January 2019, petitioner sought habeas corpus relief in
+the Court of Appeal. That court ultimately held in a published
+opinion that the Department’s regulations improperly excluded
+petitioner from early parole consideration. (Mohammad, supra,
+42 Cal.App.5th at p. 729.) The court focused on the language of
+the constitutional provision establishing parole consideration
+for “ ‘[a]ny person convicted of a nonviolent felony offense’ upon
+completion of ‘the full term of his or her primary offense.’ ”
+(Id. at p. 726, quoting art. I, § 32(a)(1).) This language, the court
+held, contains the sole requirement for early parole
+consideration under Proposition 57 — conviction of a nonviolent
+felony. (Mohammad, supra, 42 Cal.App.5th at p. 726.) Early
+parole consideration is therefore required, according to the
+Court of Appeal, “so long as [the inmate] commits ‘a’ single
+nonviolent felony offense — even if that offense is not his or her
+only offense.” (Ibid.)
+      In support of its conclusion, the court pointed to the
+constitutional language defining the “ ‘full term for the primary
+offense’ as ‘the longest term of imprisonment imposed by the
+court for any offense, excluding the imposition of an
+enhancement, [a] consecutive sentence, or [an] alternative
+sentence.’ ” (Mohammad, supra, 42 Cal.App.5th at p. 726,
+quoting art. I, § 32(a)(1)(A).) Under this provision, the court
+asserted, “an inmate who is ‘convicted of a nonviolent felony
+offense’ not only remains eligible if he or she is sentenced to a
+consecutive sentence, but in fact, becomes eligible for an early
+parole hearing prior to serving that consecutive sentence.”
+
+
+
+                                   5
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+(Mohammad, supra, 42 Cal.App.5th at p. 727, quoting art. I,
+§ 32(a)(1).)
+     The court rejected the Department’s regulations as
+incompatible with the language of article I, section 32(a)(1).
+(Mohammad, supra, 42 Cal.App.5th at pp. 726–727.) The court
+noted that those regulations “dictate a different result, but only
+by impermissibly defining and limiting the universe of eligible
+inmates to ‘nonviolent offenders’ — a term that does not appear
+anywhere in [article I,] section 32(a)(1).” (Id. at p. 726, quoting
+Cal. Code Regs., § 3491.) The court declined to consider the
+ballot materials presented to the voters, determining that
+review of extrinsic sources was unnecessary because the
+language of the constitutional provision itself was unambiguous.
+(Mohammad, supra, 42 Cal.App.5th at p. 727, citing Silicon
+Valley Taxpayers’ Assn., Inc. v. Santa Clara County Open Space
+Authority (2008) 44 Cal.4th 431, 444–445.)
+      The Court of Appeal acknowledged that the Department’s
+argument “has some intuitive appeal. It cannot be, the
+argument goes, that voters intended a defendant who is
+convicted of more crimes, i.e., both violent and nonviolent
+felonies, to be eligible for early parole consideration while a
+defendant convicted of fewer crimes, i.e., the same violent felony
+but no nonviolent felonies, is not.” (Mohammad, supra,
+42 Cal.App.5th at p. 727.)     But this “intuitive appeal” is
+overcome and that interpretation foreclosed, the court
+determined, by the language of the provision. (Id. at pp. 727–
+728.)
+      The court also noted that petitioner’s case “is an unusual
+one” in that the trial court designated a nonviolent felony as
+petitioner’s principal term, while “[o]ften” an individual’s most
+
+
+                                  6
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+serious violent felony is deemed the principal term.
+(Mohammad, supra, 42 Cal.App.5th at p. 728.) The court
+suggested that these facts — “when an inmate becomes eligible
+for early parole consideration before serving time for any of his
+or her violent felony offenses” — “will not frequently arise.”
+(Ibid., fn. omitted.)
+      We granted the Attorney General’s petition for review.
+After the filing of our opinion in In re Gadlin (2020) 10 Cal.5th
+915 (Gadlin), we granted petitioner’s motion to file
+supplemental briefing to address Gadlin as well as Proposition
+20, a ballot initiative that was rejected by the voters in
+November 2020.
+                          II. DISCUSSION
+      A. Proposition 57
+      We recently described the history of Proposition 57 in
+Gadlin. We noted there that the California Legislature and the
+electorate have taken steps to decrease the California prison
+population, including the electorate’s approval of Proposition 57
+in November 2016. (Gadlin, supra, 10 Cal.5th at pp. 922–923,
+citing Cal. Sect. of State, Statement of Vote Summary Pages
+(2016)      p. 12     <https://elections.cdn.sos.ca.gov/sov/2016-
+general/sov/06-sov-summary.pdf> [as of Dec. 28, 2021].) The
+initiative, in relevant part, added section 32 to article I of the
+California Constitution, which provides: “Any person convicted
+of a nonviolent felony offense and sentenced to state prison shall
+be eligible for parole consideration after completing the full term
+for his or her primary offense.” (Art. I, § 32(a)(1).) Article I,
+section 32 further specifies that “the full term for the primary
+offense means the longest term of imprisonment imposed by the
+court for any offense, excluding the imposition of an
+
+
+                                   7
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+enhancement, consecutive sentence, or alternative sentence”
+(id., subd. (a)(1)(A)),6 directs the Department to “adopt
+regulations in furtherance of these provisions” (id., § 32(b)), and
+instructs the Secretary of the Department to “certify that these
+regulations protect and enhance public safety” (ibid.).
+      We described the purposes of the constitutional provision
+in Gadlin: “ ‘[T]o enhance public safety, improve rehabilitation,
+and avoid the release of prisoners by federal court order,
+notwithstanding anything in this article or any other provision
+of law.’ ” (Gadlin, supra, 10 Cal.5th at p. 923, quoting art. I,
+§ 32(a).) Uncodified portions of Proposition 57 further identify
+the initiative’s purpose and intent, in relevant part, as follows:
+“1. Protect and enhance public safety. [¶] 2. Save money by
+reducing wasteful spending on prisons. [¶] 3. Prevent federal
+courts from indiscriminately releasing prisoners. [¶] 4. Stop
+the revolving door of crime by emphasizing rehabilitation,
+especially for juveniles.” (Voter Information Guide, Gen. Elec.
+(Nov. 8, 2016) text of Prop. 57, § 2, p. 141.) The initiative further
+states that the “act shall be liberally construed to effectuate its
+purposes.” (Id., § 9, p. 146.)
+      B. The Department’s Regulations
+     In March 2017, the Department proposed emergency
+regulations to implement Proposition 57. As we described in
+Gadlin, those emergency regulations were replaced by final
+
+6
+      This definition of an individual’s “primary offense” for
+purposes of early parole consideration renders the primary
+offense distinct from an individual’s principal term. (See art. I,
+§ 32(a)(1).) As noted above, the principal term is “the greatest
+term of imprisonment imposed by the court for any of the crimes,
+including any term imposed for applicable specific
+enhancements.” (Pen. Code, § 1170.1, subd. (a).)
+
+
+                                   8
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+regulations in May 2018 and subsequently amended in response
+to various appellate opinions. (Gadlin, supra, 10 Cal.5th at
+pp. 924–925.)    The regulations define a “determinately-
+sentenced nonviolent offender” as an inmate who is not, among
+other things, “currently serving a term of incarceration for a
+‘violent felony.’ ”  (Cal. Code Regs., § 3490, subd. (a)(5).)
+Further, the regulations define a “violent felony” for purposes of
+early parole consideration as “a crime or enhancement” listed in
+Penal Code section 667.5, subdivision (c). (Id., § 3490, subd. (c).)
+       Other provisions of the regulations exclude from early
+parole consideration individuals “currently serving a
+determinate term prior to beginning a term of life with the
+possibility of parole or prior to beginning a term for an in-prison
+offense that is a ‘violent felony’ ” (Cal. Code Regs., § 3490, subd.
+(a)(4)) and those “currently serving a term of incarceration for a
+nonviolent felony offense after completing a concurrent
+determinate term for a ‘violent felony’ ” (id., § 3490, subd. (a)(6)).
+Additionally, the regulations detail the eligibility criteria for
+both determinately-sentenced offenders (see id., §§ 3490–3491)
+and indeterminately-sentenced offenders (see id., §§ 3495–
+3496). Like the regulatory provision defining a “determinately-
+sentenced nonviolent offender” (id., § 3490, subd. (a)), the
+regulations define an “indeterminately-sentenced nonviolent
+offender” as an inmate who is not, among other things,
+“currently serving a term of life with the possibility of parole for
+a ‘violent felony’ ” (id., § 3495, subd. (a)(3)). Because petitioner’s
+exclusion from early parole consideration is governed solely by
+section 3490, subdivision (a)(5) of the California Code of
+Regulations, however, we decline to address in this case the
+validity of any other portion of the regulations.
+
+
+
+                                   9
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+     C. Standard of Review and Principles of Statutory
+        Interpretation
+      We apply well settled principles to determine the validity
+of regulations promulgated by a state agency. As in Gadlin, we
+acknowledge that although these precepts “have traditionally
+been applied in the context of a state agency’s regulations
+addressing statutes enacted by the Legislature (Gadlin, supra,
+10 Cal.5th at p. 925, citing Morris v. Williams (1967) 67 Cal.2d
+733, 748 (Morris)), the parties here do not assert that “the
+relevant principles of interpretation differ when an agency has
+promulgated regulations to give force to a constitutional
+provision, rather than a statutory provision” (id. at p. 926).
+     In undertaking this analysis, we ask whether the
+regulation is “ ‘consistent and not in conflict with’ ” the
+constitutional provision that authorizes it (see Morris, supra,
+67 Cal.2d at p. 748, italics omitted, quoting Gov. Code, former
+§ 113747) and whether the regulation is reasonably necessary to
+effectuate the purpose of the authorizing law (Morris, supra,
+67 Cal.2d at p. 749; see also Gov. Code, § 11342.2 [“Whenever by
+the express or implied terms of any statute a state agency has
+authority to adopt regulations to implement, interpret, make
+specific or otherwise carry out the provisions of the statute, no
+regulation adopted is valid or effective unless consistent and not
+in conflict with the statute and reasonably necessary to
+effectuate the purpose of the statute”]; Woods v. Superior Court
+(1981) 28 Cal.3d 668, 679 (Woods)). Our task “ ‘ “is to decide
+whether the [agency] reasonably interpreted the legislative
+mandate.” [Citation.] ’ ” (Woods, supra, 28 Cal.3d at p. 679,
+
+
+7
+     Former section 11374 of the Government Code was
+renumbered as section 11342.2. (Stats. 1979, ch. 567, §§ 1–2.)
+
+
+                                  10
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+quoting Credit Ins. Gen. Agents Assn. v. Payne (1976) 16 Cal.3d
+651, 657.) In doing so, we presume the validity of the regulation
+(Assn. of California Ins. Companies v. Jones (2017) 2 Cal.5th
+376, 389); the burden lies with the party challenging the
+regulation to show its invalidity (Payne, supra, 16 Cal.3d at
+p. 657). Because this inquiry poses a question of law (see
+Western States Petroleum Assn. v. Board of Equalization (2013)
+57 Cal.4th 401, 415), we review the Court of Appeal’s decision
+de novo. (See People v. Gonzales (2018) 6 Cal.5th 44, 49, citing
+Apple Inc. v. Superior Court (2013) 56 Cal.4th 128, 135.)
+      Our “primary concern” in construing a constitutional
+provision enacted through voter initiative is “giving effect to the
+intended purpose of the provisions at issue” (California
+Cannabis Coalition v. City of Upland (2017) 3 Cal.5th 924, 933)
+by applying “the same principles that govern statutory
+construction” (People v. Rizo (2000) 22 Cal.4th 681, 685, citing
+Horwich v. Superior Court (1999) 21 Cal.4th 272, 276). In doing
+so, we look to the text of the constitutional provision at issue
+and, as appropriate, extrinsic sources such as an initiative’s
+ballot materials. (See City of Upland, supra, 3 Cal.5th at
+pp. 933–934.) Although we are obligated to strike down
+regulations that alter or amend the constitutional provision or
+its scope (Woods, supra, 28 Cal.3d at p. 679, citing Morris, supra,
+67 Cal.2d at p. 748), our role is not to examine the wisdom of the
+regulations but their legality (Woods, supra, 28 Cal.3d at p. 679,
+quoting Morris, supra, 67 Cal.2d at p. 737). “Such a limited
+scope of review constitutes no judicial interference with the
+administrative discretion in that aspect of the rulemaking
+function which requires a high degree of technical skill and
+expertise.” (Woods, supra, 28 Cal.3d at p. 679.)
+
+
+
+                                  11
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      D. The Language of Proposition 57
+      We begin our analysis with the language of the
+constitutional provisions enacted by Proposition 57. Article I,
+section 32(a)(1) states: “Any person convicted of a nonviolent
+felony offense and sentenced to state prison shall be eligible for
+parole consideration after completing the full term for his or her
+primary offense.” Article I, section 32(a)(1)(A) defines the “full
+term for the primary offense” as “the longest term of
+imprisonment imposed by the court for any offense, excluding
+the imposition of an enhancement, consecutive sentence, or
+alternative sentence.” And article I, section 32(b) provides that
+the Department shall “adopt regulations in furtherance of these
+provisions.” The question here is whether these constitutional
+provisions require the Department to provide early parole
+consideration when the inmate is currently serving a term for a
+violent felony.
+      As noted, the Court of Appeal below concluded that the
+voters intended to extend early parole consideration to an
+inmate convicted of “a” nonviolent felony, regardless of whether
+that inmate was currently serving a term for a violent felony.
+(Mohammad, supra, 42 Cal.App.5th at p. 725; see id. at pp. 725–
+726.) The court declined to consider the ballot materials
+presented to the voters, concluding “[t]here is nothing
+ambiguous about what [article I,] section 32(a)(1) means in this
+case . . . .” (Id. at p. 727.) The Department asserts, on the other
+hand, that the constitutional provisions are ambiguous and
+require consideration of the ballot materials to determine the
+intent of the electorate.
+     We first examine whether the constitutional language is
+ambiguous; if the text “is unambiguous and provides a clear
+
+
+
+                                  12
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+answer, we need go no further.” (Microsoft Corp. v. Franchise
+Tax Bd. (2006) 39 Cal.4th 750, 758.) When a constitutional
+provision is “ ‘clear and unambiguous’ ” it should be given its
+ordinary meaning. (People v. Valencia (2017) 3 Cal.5th 347, 357,
+quoting Lungren v. Deukmejian (1988) 45 Cal.3d 727, 735.)
+“The words of the statute must be construed in context, keeping
+in mind the statutory purpose . . . .” (Dyna-Med, Inc. v. Fair
+Employment & Housing Com. (1987) 43 Cal.3d 1379, 1387
+(Dyna-Med).) If the text is ambiguous, it is appropriate to
+examine the ballot materials before the voters. (People v.
+Valencia (2017) 3 Cal.5th 347, 364, citing Robert L. v. Superior
+Court (2003) 30 Cal.4th 894, 905.)
+      Article I, section 32(a)(1) establishes early parole
+consideration for “[a]ny person convicted of a nonviolent felony
+offense . . . after completing the full term for his or her primary
+offense.” This language does not expressly address whether
+inmates with nonviolent felony convictions who are currently
+serving a prison term for a violent felony are eligible for early
+parole consideration. The parties and appellate courts have
+offered various interpretations of this provision.
+      The Court of Appeal concluded the language is clear and
+unambiguous: An inmate convicted of “a” nonviolent felony
+would be eligible for early parole consideration after completing
+the full term of the primary offense. (Mohammad, supra,
+42 Cal.App.5th at p. 725; see id. at pp. 725–726.) The court
+stated that the requirement that an inmate be convicted of “a”
+nonviolent felony “takes the singular form, which indicates it
+applies to an inmate so long as he or she commits ‘a’ single
+nonviolent felony offense — even if that offense is not his or her
+only offense.” (Id. at p. 726.) The court also determined the
+inclusion of the term “primary offense” in the constitutional
+
+                                  13
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+provision further indicates the electorate would have
+understood that inmates “might be serving a sentence for more
+than one offense, i.e., a primary offense and other secondary
+offenses.”   (Ibid.)    Moreover, the court noted that the
+constitutional definition of the “full term for the primary
+offense” specifically references (and excludes) the imposition of
+a consecutive sentence. (Ibid.)
+      Considered alone and outside of the context of the entire
+initiative, the Court of Appeal’s interpretation is a plausible
+reading of the language that is, on its face, consistent with
+article I, section 32(a).8 But language that seems plain when
+considered in isolation may be ambiguous when examined
+within the context of the scheme it implements. (See, e.g., Small
+v. United States (2005) 544 U.S. 385, 388 [finding phrase
+“convicted in any court” to be ambiguous when determining
+whether statute included a conviction in a foreign court], citing
+Nixon v. Missouri Municipal League (2004) 541 U.S. 125, 132
+[“ ‘any’ ” can mean “different things depending upon the
+setting”]; People v. Woodhead (1987) 43 Cal.3d 1002, 1008
+[noting the term “convicted” “may have different meanings in
+
+
+8
+      Another Court of Appeal reached the same conclusion,
+finding that the language of section 32(a)(1) “support[s] a
+conclusion that an inmate is eligible for early parole
+consideration after completing his or her primary offense if the
+inmate was convicted of a nonviolent offense, even if the term
+for that nonviolent offense was not designated as the primary
+offense, and even if the inmate was also convicted of one or more
+violent offenses . . . .” (In re Douglas, supra, 62 Cal.App.5th at
+p. 731.) Ultimately, however, that appellate court concluded
+that interpreting the initiative in such a manner would lead to
+absurd results not intended by the electorate and thus declined
+to do so. (Id. at pp. 732–734.)
+
+
+                                  14
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+different contexts, or even different meanings within a single
+statute”].)
+     We have found similar language to be ambiguous. (In re
+Reeves (2005) 35 Cal.4th 765 (Reeves).) In Reeves, we considered
+a statute that provided “ ‘any person who is convicted of a
+[violent] felony offense . . . shall accrue no more than 15 percent
+of worktime credit . . . .’ ” (Id. at p. 768, fn. omitted, quoting
+Pen. Code, § 2933.1, subd. (a).) The issue in Reeves was whether
+an inmate convicted of both nonviolent and violent felonies was
+subject to the 15 percent credit limit. (Id. at p. 770.) We noted
+that the “seemingly plain language” of the statute was subject
+to various possible interpretations based on the term “ ‘is
+convicted.’ ” (Id. at p. 770; see id. at p. 771 [“ ‘any person who is
+convicted of a [violent] felony offense’ [citation], might
+conceivably refer simply to a point of historical fact”].) We
+therefore determined that “the conclusion that [the statute] is
+ambiguous, at least as applied to the facts of this case, seems
+inescapable.” (Id. at pp. 770–771.)
+     The constitutional provision here contains language
+nearly identical to the statutory language we considered in
+Reeves. Article I, section 32(a) does not directly state whether
+an inmate like petitioner — who has nonviolent felony
+convictions but is currently serving a term of incarceration for a
+violent felony — would be eligible for early parole consideration.
+Like in Reeves, it “seems inescapable” that the language is
+ambiguous as it applies to inmates like petitioner. (Reeves,
+supra, 35 Cal.4th at pp. 770–771.)
+      Further, the appellate courts and the parties here advance
+various interpretations of article I, section 32(a) that reflect
+ambiguities in the constitutional language. Petitioner, for
+
+
+                                   15
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+example, asserts that inmates convicted of a nonviolent felony
+as their primary offense are eligible for early parole
+consideration “once they have served the full term for that
+offense.” (Italics added.) In other words, under petitioner’s
+view, early parole consideration is required when an inmate’s
+primary offense is a nonviolent felony even if the inmate is
+currently serving a term for a violent felony, but not when the
+inmate’s primary offense is a violent felony and the inmate is
+currently serving a term for a nonviolent felony.9
+      A concurring opinion in another appellate decision
+provides a different approach: When an inmate has been
+convicted of a violent felony offense that is deemed the primary
+offense and also has been convicted of a nonviolent felony
+offense, the inmate is eligible for nonviolent offender parole
+consideration after serving the sentence for the violent felony.
+(In re Douglas, supra, 62 Cal.App.5th at p. 735 (conc. opn. of
+Robie, Acting P. J.).) The Department asserts the language
+permits the exclusion of inmates who have nonviolent felony
+
+
+
+
+9
+       Petitioner asserts this approach is consistent with the
+approach adopted by the Court of Appeal below. We disagree.
+Although the court’s discussion took place in the context of
+evaluating petitioner’s eligibility for early parole consideration
+(and petitioner’s primary offense was a nonviolent felony), no
+language in the Court of Appeal’s opinion limited its holding to
+inmates whose primary offense was a nonviolent felony. Indeed,
+the Court of Appeal’s language was quite broad: “under
+[article I, section 32(a) and article I, section 32(a)(1)(A)], an
+inmate who is serving an aggregate sentence for more than one
+conviction will be eligible for an early parole hearing if one of
+those convictions was for ‘a’ nonviolent felony offense.”
+(Mohammad, supra, 42 Cal.App.5th at p. 726.)
+
+
+                                  16
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+convictions and are currently serving a term of incarceration for
+a violent felony offense.
+     The language of article I, section 32(a) alone does not tell
+us which of these interpretations is correct. That there are
+several plausible interpretations of the constitutional language
+indicates the meaning of the text is ambiguous. (See People v.
+Gonzales (2018) 6 Cal.5th 44, 52 [considering ballot materials
+when statutory language “could have several possible
+interpretations”]; Arias v. Superior Court (2009) 46 Cal.4th 969,
+979 [“there is no need to construe a provision’s words when they
+are clear and unambiguous and thus not reasonably susceptible
+of more than one meaning”], citing People v. Leal (2004)
+33 Cal.4th 999, 1007, People v. Gardeley (1996) 14 Cal.4th 605,
+621; see also In re Douglas, supra, 62 Cal.App.5th at p. 735
+(conc. opn. of Robie, Acting P. J.) [“It is clear section 32(a)(1) is
+ambiguous given the divergence of appellate opinions as to its
+meaning”].)
+     Petitioner contends that our recent opinion in Gadlin
+compels a contrary conclusion. But in Gadlin, we found the
+language of article I, section 32(a)(1) to be unambiguous in other
+respects. (Gadlin, supra, 10 Cal.5th at p. 935.) There, we were
+asked to decide whether the Department could exclude from
+early parole consideration all inmates convicted of a sex offense
+requiring registration under Penal Code section 290, even when
+the Department’s regulations defined some of those inmates as
+nonviolent offenders. (Gadlin, supra, 10 Cal.5th at pp. 919–
+920.) We held it could not in light of the language of article I,
+section 32(a)(1), which provides that “[a]ny person convicted of
+a nonviolent felony offense” shall be eligible for early parole
+consideration. (Gadlin, supra, 10 Cal.5th at pp. 932–933.)
+Indeed, in so holding, we stated that “article I, section 32(a)(1),
+
+                                   17
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+although containing some terms that might be ambiguous in
+other respects, is not ambiguous concerning its scope regarding
+offenders who were previously convicted of a registerable sex
+offense or who are currently convicted of a registerable sex
+offense that the Department has itself defined as nonviolent.”
+(Gadlin, supra, 10 Cal.5th at p. 932, italics added.) Our holding
+was thus limited to the specific question before us in that case,
+and we acknowledged that the language of the constitutional
+provision might be ambiguous in other respects. Thus, Gadlin
+does not compel a conclusion that the constitutional provision is
+unambiguous as it relates to the distinct question before us now.
+We disapprove of the following opinions to the extent they have
+held the language of article I, section 32(a) is unambiguous in
+this context: In re Ontiveros (2021) 65 Cal.App.5th 899, 905
+[“We accept, for purposes of our opinion, that the text of
+Proposition 57 is clear and unambiguous”]; In re Douglas (2021)
+62 Cal.App.5th 726, 731.
+      E. Consideration of the Ballot Materials
+      Because the constitutional text provides “ ‘no definitive
+answer’ ” to the question before us (People v. Hazelton (1996)
+14 Cal.4th 101, 105, quoting People v. Coronado (1995)
+12 Cal.4th 145, 151), we consider the materials that were before
+the voters. (People v. Valencia, supra, 3 Cal.5th at p. 364, citing
+Robert L. v. Superior Court, supra, 30 Cal.4th at p. 905.)
+         1. The ballot materials presented to the voters
+      The voters were provided ballot materials that consisted
+of the official title and summary prepared by the Attorney
+
+
+
+
+                                  18
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+General, the analysis by the Legislative Analyst, and the
+arguments in favor of and against the proposition.10
+      The official title and summary described the relevant
+provisions of Proposition 57 as follows:        “Allows parole
+consideration for persons convicted of nonviolent felonies, upon
+completion of prison term for their primary offense as defined.
+[¶] . . . [¶]   Requires Department of Corrections and
+Rehabilitation to adopt regulations to implement new parole
+and sentence credit provisions and certify they enhance public
+safety.” (Voter Information Guide, Gen. Elec., supra, Official
+Title and Summary, p. 54.)
+      The analysis by the Legislative Analyst generally
+summarized California’s then-existing sentencing and parole
+consideration scheme, and described the changes to the parole
+system that would result were Proposition 57 to be adopted. The
+analysis described the proposed parole scheme as “parole
+consideration for nonviolent offenders” and stated that the
+initiative “changes the State Constitution to make individuals
+who are convicted of ‘nonviolent felony’ offenses eligible for
+parole consideration after serving the full prison term for their
+primary offense.” (Voter Information Guide, Gen. Elec., supra,
+analysis of Prop. 57 by Legis. Analyst, p. 56.) The analysis noted
+that “[a]lthough the measure and current law do not specify
+which felony crimes are defined as nonviolent, this analysis
+assumes a nonviolent felony offense would include any felony
+offense that is not specifically defined in statute as violent.”
+
+
+10
+      The Arguments included an argument in favor of the
+initiative by the proponents followed by a rebuttal by the
+opponents, and an argument against the initiative by the
+opponents followed by a rebuttal by the proponents.
+
+
+                                  19
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+(Ibid.) Based on that assumption, the analysis estimated that,
+“[a]s of September 2015, there were about 30,000 individuals in
+state prison who would be affected by the parole consideration
+provisions of the measure.” (Ibid.) And the analysis estimated
+that eligible inmates “currently serve about two years in prison
+before being considered for parole and/or released” but under the
+initiative “would serve around one and one-half years in prison
+before being considered for parole and/or released.” (Ibid.)
+      Finally, the arguments in favor of and against the
+initiative were presented to the voters. The proponents urged
+that Proposition 57 would allow “parole consideration for people
+with non-violent convictions who complete the full prison term
+for their primary offense.” (Voter Information Guide, Gen. Elec.,
+supra, argument in favor of Prop. 57, p. 58.) The proponents did
+not address whether individuals with nonviolent felony
+convictions who are currently serving a term of incarceration for
+a violent felony would be eligible for early parole consideration.
+      The opponents’ rebuttal and argument against
+Proposition 57 asserted that the initiative would allow parole
+consideration for “VIOLENT CRIMINALS.” (Voter Information
+Guide, Gen. Elec., supra, rebuttal to argument in favor of
+Prop. 57, p. 58.) The opponents claimed the measure was
+“poorly drafted” and would allow for parole consideration for
+various crimes allegedly categorized by Proposition 57 as “non-
+violent.” (Id., p. 59.) The opponents asserted that if the measure
+passed “16,000 dangerous criminals, including those previously
+convicted of murder and rape, would be eligible for early
+release.” (Id., p. 59, italics omitted.) The opponents did not
+address whether individuals with nonviolent felony convictions
+who are currently serving a term of incarceration for a violent
+felony would be eligible for early parole consideration.
+
+                                  20
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The proponents’ rebuttal responded by stating that the
+initiative would not authorize parole for violent offenders, and
+cited Brown v. Superior Court (2016) 62 Cal.4th 335 for the
+position that Proposition 57 would apply “ ‘only to prisoners
+convicted of non-violent felonies.’ ” (Voter Information Guide,
+Gen. Elec., supra, rebuttal to argument against Prop. 57, p. 59,
+quoting Brown v. Superior Court, supra, 63 Cal.4th at p. 352.)
+The proponents emphasized, too, that “[v]iolent criminals as
+defined in Penal Code 667.5(c) are excluded from parole.” (Voter
+Information Guide, Gen. Elec., supra, rebuttal to argument
+against Prop. 57, p. 59.)
+        2. Analysis
+      The Department contends the ballot materials reveal that
+the voters intended to exclude any inmate currently serving a
+term for a violent felony from early parole consideration,
+regardless of whether such an inmate has also been convicted of
+a nonviolent felony.     The Department stresses that the
+Legislative Analyst stated that the initiative provided for
+“parole consideration for nonviolent offenders.”        (Voter
+Information Guide, Gen. Elec., supra, analysis of Prop. 57 by
+Legis. Analyst, p. 56.) The Department also emphasizes that
+the rebuttal to the arguments opposing Proposition 57
+reiterated that the initiative “Does NOT authorize parole for
+violent offenders” and that “[v]iolent criminals as defined in
+Penal Code 667.5(c) are excluded from parole.”       (Voter
+Information Guide, Gen. Elec., supra, rebuttal to argument
+against Prop. 57, p. 59.)11
+
+
+11
+      In its briefing before this court, the Department also
+asserted that the number of inmates eligible for early parole
+
+
+                                  21
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The Department further contends that even if it was not
+compelled to exclude from early parole consideration inmates
+currently serving a term of incarceration for a violent felony, it
+acted within its discretion to do so. In support of this position,
+the Department points to article I, section 32(b), which directs
+the Department to “adopt regulations in furtherance of [the
+constitutional] provisions . . . .” (Art. I, § 32(b).) The exclusion
+of inmates currently serving a term for a violent felony from
+early parole consideration, the Department asserts, reflects its
+reasoned consideration of the policy and public safety
+considerations vested in it by article I, section 32(b), and aligns
+with the intent of the voters as reflected by the ballot materials.
+     We agree that the Department acted within the authority
+granted by article I, section 32(b) when it promulgated section
+
+
+
+
+consideration under the Court of Appeal’s approach — inmates
+convicted only of nonviolent felonies and inmates convicted of
+both    nonviolent   and    violent    felonies —   constituted
+approximately 96 percent of the prison population in 2019. The
+Department contrasted this number with the Legislative
+Analyst’s estimate that 30,000 inmates would receive early
+parole consideration under the initiative.
+      Prior to oral argument, however, the Department
+discovered its statistics were erroneous and withdrew its
+arguments related to those statistics. Following oral argument,
+the Department submitted additional data regarding the
+inmate population but did not purport to rely on the new data
+or to otherwise reassert its original argument. Although such
+data may be relevant to interpreting the voters’ intent in some
+contexts, we decline to consider it here given the Attorney
+General’s withdrawal of the argument on this point.
+
+
+                                   22
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+3490, subdivision (a)(5) of the California Code of Regulations.12
+We reach this conclusion based on our consideration of the
+constitutional text, the ballot materials, the stated purposes of
+the initiative, and the Department’s discretion to promulgate
+regulations under the Constitution.          We hold that the
+Department’s regulation is consistent with article I, section 32,
+and is reasonably necessary to effectuate the purpose of
+Proposition 57. (See Morris, supra, 67 Cal.2d at pp. 748–749.)
+      Neither the language of the constitutional provision nor
+the materials presented to the voters explicitly stated whether
+an inmate currently serving a term for a violent felony would be
+eligible for parole consideration under the initiative. As we have
+explained, the constitutional text is ambiguous on this point.
+Although the ballot materials do not directly answer the
+question, they conveyed to the voters that Proposition 57 would
+establish “parole consideration for nonviolent offenders” (Voter
+Information Guide, Gen. Elec., supra, analysis of Prop. 57 by
+Legis. Analyst, p. 56) and would not authorize early parole
+consideration for “violent offenders” (Voter Information Guide,
+Gen. Elec., supra, rebuttal to argument against Prop. 57, p. 59).
+     As the Department observes, the proponents’ rebuttal
+asserted “violent offenders” and “[v]iolent criminals as defined
+in Penal Code 667.5(c)” would not be eligible for early parole
+consideration. (Voter Information Guide, Gen. Elec., supra,
+rebuttal to argument against Prop. 57, p. 59.) Moreover, the
+ballot materials focus on the distinction between inmates
+convicted of violent felonies and inmates convicted of nonviolent
+
+12
+     In light of this conclusion, we do not address the
+Department’s position that article I, section 32 compels the
+approach the Department adopted in its regulations.
+
+
+                                  23
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+felonies. For this reason, the opponents and proponents sparred
+over the scope of the term nonviolent felony. The proponents
+asserted violent felonies would be defined by Penal Code section
+667.5, subdivision (c) (Voter Information Guide, Gen. Elec.,
+supra, rebuttal to argument against Prop. 57, p. 59), that the
+initiative would “[k]eep[] the most dangerous offenders locked
+up” (id., argument in favor of Prop. 57, p. 58), and that “parole
+eligibility under Prop. 57 applies, ‘only to prisoners convicted of
+non-violent felonies.’    [Brown v. Superior Court, supra,
+63 Cal.4th at p. 352.] Violent criminals as defined in Penal Code
+667.5(c) are excluded from parole” (Voter Information Guide,
+Gen. Elec., supra, rebuttal to argument against Prop. 57, p. 59).
+      The opponents’ arguments in the ballot materials did not
+allege that inmates currently serving a term for a violent felony
+offense would be eligible for parole consideration under the
+initiative, or assert the initiative should be rejected for that
+reason. Instead, the thrust of the opponents’ arguments was
+that the scope of the term “violent felony” was too narrow. (See
+Voter Information Guide, Gen. Elec., supra, argument against
+Prop. 57, p. 59.)      The opponents described a number of
+offenses — including certain types of rape, sex trafficking, and
+assault with a deadly weapon — that would be categorized as
+“nonviolent” under the initiative. (Id., rebuttal to argument in
+favor of Prop. 57, p. 58.)
+      In this context, Proposition 57 directed the Department to
+“adopt regulations in furtherance of [the constitutional]
+provisions,” and to “certify that these regulations protect and
+enhance public safety.” (Art. I, § 32(b).) In doing so, the
+Department determined that individuals currently serving a
+term of incarceration for a violent felony should be excluded
+from early parole consideration, regardless of whether the
+
+                                  24
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+inmate had also been convicted of a nonviolent felony. (See Cal.
+Code. Regs., § 3490, subd. (a)(5).) This approach “reasonably
+interpreted” the Department’s mandate to adopt regulations
+(Woods, supra, 28 Cal.3d at p. 679), is consistent with the
+constitutional language and ballot materials, and is “reasonably
+necessary to effectuate the purpose” of Proposition 57 (Gov.
+Code, § 11342.2).
+      The ballot materials support such a conclusion.
+Underlying the debate between the proponents and opponents
+of Proposition 57 was the implication that an inmate serving a
+prison term for a violent felony would be excluded from parole
+consideration. As the Department puts it, “the singular focus on
+‘nonviolent felonies’ supports the inference that individuals
+serving time for violent felonies would not be eligible.” There
+would be little reason to debate the meaning and scope of the
+term violent felony if having a conviction for a nonviolent felony
+triggered early parole consideration regardless of whether an
+individual was currently serving a term of incarceration for a
+violent felony conviction. The Department’s decision to craft its
+regulations in a way that excluded individuals currently serving
+a term of incarceration for a violent felony is consistent with the
+distinction between violent and nonviolent felonies emphasized
+in the ballot materials.
+      Petitioner’s arguments to the contrary are unavailing.
+First, he notes the materials presented to the voters stated that
+“persons convicted of nonviolent felonies” would be eligible for
+parole “upon completion of [a] prison term for their primary
+offense as defined,” but did not indicate that there was an
+exception that would apply if these individuals were currently
+serving a term for a violent felony. (See Voter Information
+Guide, Gen. Elec., supra, Official Title and Summary, p. 54.)
+
+                                  25
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+This assertion is premised on the assumption that the phrase
+“any person convicted of a nonviolent felony” in article I, section
+32(a)(1) clearly and unambiguously applies to inmates currently
+serving a term of incarceration for a violent felony conviction —
+a premise we have already rejected above.
+      Second, petitioner asserts the ballot materials should not
+be relied on because they are partisan and “may serve to mislead
+a voter about an initiative’s purpose, intent, and effect.” It is
+true that, as we noted in Gadlin, the voters “were explicitly
+warned in the margins of the voter guide that ‘Arguments
+printed on this page are the opinions of the authors, and have
+not been checked for accuracy by any official agency.’ ” (Gadlin,
+supra, 10 Cal.5th at pp. 940–941, quoting Voter Information
+Guide, Gen. Elec., supra, pp. 58, 59.) Still, petitioner provides
+no explanation regarding why any potential partisan bias aids
+him here. He observes that the opponents emphasized the
+initiative would apply to “violent criminals.” (Voter Information
+Guide, Gen. Elec., supra, rebuttal to argument in favor of
+Prop. 57, p. 58, capitalization omitted.) But the opponents’ focus
+on the term “violent criminals,” when taken in context, had
+nothing to do with inmates currently serving a term for a violent
+felony. Rather, the opponents were concerned with the types of
+offenses that would be considered nonviolent under the
+initiative. (See Voter Information Guide, Gen. Elec., supra,
+rebuttal to argument in favor of Prop. 57, p. 58 [asserting
+inmates convicted of crimes including sex trafficking, assault
+with a deadly weapon, lewd acts against a 14-year-old, hostage
+taking, and hate crimes causing injury would be classified as
+nonviolent].) As noted above, neither the proponents nor the
+opponents of Proposition 57 expressly addressed the
+circumstance we consider here. Thus, it cannot be said that the
+
+
+                                  26
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+materials misled the voters with respect to the treatment of
+inmates currently serving a term of incarceration for a violent
+felony, or that the Department acted in excess of its authority
+when crafting the regulation at issue here.
+      Petitioner next asserts that the initiative informed the
+voters that the Board of Parole Hearings would guard public
+safety by evaluating each eligible inmate for parole suitability.
+(Voter Information Guide, Gen. Elec., supra, argument in favor
+of Prop. 57, p. 58.) But petitioner does not explain how this
+would have conveyed to the voters an understanding that
+inmates currently serving a term for a violent felony would be
+eligible for early parole consideration.
+      Further, petitioner’s reliance on Gadlin with regard to the
+ballot materials is misplaced. In Gadlin, we rejected the
+Department’s position that the ballot materials indicated the
+voters intended to exclude from early parole consideration
+inmates convicted of nonviolent offenses requiring registration
+pursuant to section 290. (Gadlin, supra, 10 Cal.5th at pp. 939–
+940.) We noted that the Department relied on “a single line in
+the proponents’ rebuttal argument” in a manner that “overlooks
+the context of the entire ballot materials provided to the voters.”
+(Id. at p. 939.) Here, by contrast, the ballot materials provide
+much stronger support for the Department’s position than the
+single line on which it relied in Gadlin. As described above, the
+ballot materials consistently contrasted for voters the
+distinction between violent felonies and nonviolent felonies.
+This contrast was further underscored by the analysis of the
+Legislative Analyst, which “assume[d] a nonviolent felony
+offense would include any felony offense that is not specifically
+defined in statute as violent.” (Voter Information Guide, Gen.
+Elec., supra, analysis of Prop. 57 by Legis. Analyst, p. 56.)
+
+                                  27
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+Unlike the circumstances in Gadlin, the Department was well
+within its discretion to frame its regulations in light of the
+robust debate captured in the ballot materials.
+     Finally, petitioner asserts the voters’ rejection of
+Proposition 20 at the 2020 election constitutes evidence that the
+voters, in passing Proposition 57 in 2016, intended to afford
+parole consideration to inmates serving terms of imprisonment
+for both violent and nonviolent felonies.         He notes that
+Proposition 20 would have explicitly excluded such inmates
+from early parole consideration by adding Penal Code section
+3040.3, subdivision (a) to state: “An inmate whose current
+commitment includes a concurrent, consecutive, or stayed
+sentence for an offense or allegation defined as violent by
+subdivision (c) of Section 667.5 or Section 3040.1 shall be
+deemed a violent offender for purposes of Section 32 of Article I
+of the Constitution.” (Text of Proposed Laws, Gen. Elec. (Nov. 3,
+2020) text of Prop. 20, p. 20.) He asserts that voters’ rejection of
+this “opportunity to override the lower court’s decision in the
+current case” indicates that voters intended Proposition 57 to
+apply to inmates like him who have been convicted of both
+violent and nonviolent felonies.
+      Petitioner’s argument is entirely unavailing. A failed
+initiative presented to the voters in 2020 cannot provide
+evidence of the voters’ intent when they cast their ballots in
+2016. (Santa Clara County Local Transportation Authority v.
+Guardino (1995) 11 Cal.4th 220, 238 [“we cannot speculate that
+the rejection [of an initiative by the voters] amounted to an
+implied approval” of a court opinion that would have been
+effectively overturned by the initiative], citing Dyna-Med, supra,
+43 Cal.3d at p. 1396; In re Guice, supra, 66 Cal.App.5th at p. 942
+
+
+
+                                   28
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+[“There is simply no way of knowing why voters rejected
+Proposition 20 four years after they approved Proposition 57”].)
+      We therefore conclude that the Department acted within
+its discretion when it promulgated section 3490, subdivision
+(a)(5) of the California Code of Regulations excluding
+individuals currently serving a sentence for a violent felony from
+early parole consideration. This conclusion, however, is not a
+determination that the Department’s regulation is the most
+plausible of the various interpretations offered. Because the
+Department is vested with the authority to adopt regulations in
+this context, we need only conclude that its regulation is a valid
+exercise of its rulemaking authority.
+      As to the application of the regulation to this case,
+petitioner does not contest the Department’s determination that
+he is currently serving a term of incarceration for a violent
+felony. As described, petitioner was convicted of nine counts of
+second degree robbery (a violent felony), six counts of receiving
+stolen property (a nonviolent felony), and various gang
+enhancements. His only argument before this court is that he
+should be entitled to early parole consideration because he is a
+“mixed-offense prisoner whose nonviolent felony offense is his
+primary offense and whose violent offenses are secondary ones
+that run consecutive and subordinate to that primary and
+principal offense.” Because petitioner has not contested the
+Department’s determination that he is currently serving a term
+for a violent felony, and because we have determined that the
+regulation excluding from early parole consideration inmates
+who are currently serving a term for a violent felony is a valid
+exercise of the Department’s rulemaking authority under
+article I, section 32(b), we conclude the Department’s denial of
+
+
+
+                                  29
+                          In re MOHAMMAD
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+petitioner’s request      for   early   parole     consideration   was
+permissible.13
+                         III. CONCLUSION
+      Neither the language of article I, section 32(a)(1) of the
+California Constitution nor the ballot materials presented to the
+voters speak directly to whether inmates with nonviolent felony
+convictions who are currently serving a term for a violent felony
+must be considered for early parole suitability. Against this
+backdrop, and the direction in article I, section 32(b) to
+promulgate regulations, the Department determined that
+inmates serving a term of incarceration for a violent felony
+should be excluded from early parole consideration. (Cal. Code
+Regs., § 3490, subd. (a)(5).) The Department’s approach is
+consistent with a reasonable interpretation of the constitutional
+language and the ballot materials. We cannot say that the
+Department abused its rulemaking authority in coming to this
+conclusion.
+
+
+13
+       The concurring opinion in Douglas agreed that the
+petitioner there was “still serving a sentence for a violent felony
+offense” and thus was ineligible for early parole consideration at
+the time he sought it. (Douglas, supra, 62 Cal.App.5th at p. 739
+(conc. opn. of Robie, Acting P. J.).) The concurring opinion
+further asserted that article I, section 32(a)(1)(A) required the
+court to “break an inmate’s sentence into its component parts
+for the purpose of determining whether that inmate has served
+his or her primary offense, making the particular sequence in
+which an inmate serves his or her violent offense a meaningful
+abstraction.” (Id. at p. 738.) Because petitioner here does not
+contest that he is currently serving a term of incarceration for a
+violent felony, we are not presented with the issue of whether
+article I, section 32 requires us to break an inmate’s sentence
+into its component parts. We express no view on that issue or
+on the approach adopted by the concurring opinion in Douglas.
+
+
+                                   30
+                         In re MOHAMMAD
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+     The judgment of the Court of Appeal is reversed.
+
+
+                                       CANTIL-SAKAUYE, C. J.
+
+
+We Concur:
+CORRIGAN, J.
+LIU, J.
+KRUGER, J.
+GROBAN, J.
+JENKINS, J.
+LEVY, J.*
+
+
+
+
+*
+      Associate Justice of the Court of Appeal, Fifth Appellate
+District, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+
+
+                                  31
+                        In re MOHAMMAD
+                              S259999
+
+                Concurring Opinion by Justice Liu
+
+       The Public Safety and Rehabilitation Act of 2016, known
+as Proposition 57, provides that “[a]ny person convicted of a
+nonviolent felony offense . . . shall be eligible for parole
+consideration after completing the full term for his or her
+primary offense.” (Cal. Const., art. I, § 32, subd. (a)(1) (article I,
+section 32(a)(1)).) To implement this provision, the Department
+of Corrections and Rehabilitation (Department) adopted a
+regulation that makes ineligible for early parole consideration
+any inmate who is “currently serving a term of incarceration for
+a ‘violent felony.’ ” (Cal. Code Regs., tit. 15, § 3490, subd. (a)(5).)
+For the reasons stated in today’s opinion, I agree that this
+regulation, as written, is a reasonable construction of article I,
+section 32(a)(1).
+      Lurking beneath this holding, however, are a number of
+questions concerning what it means for an inmate with both
+violent and nonviolent felony convictions to be “currently
+serving a term of incarceration for a ‘violent felony.’ ” (Cal. Code
+Regs., tit. 15, § 3490, subd. (a)(5).) But because petitioner
+Mohammad Mohammad has not contested the Department’s
+determination that he is currently serving a term for a violent
+felony, we have no occasion here to examine the proper
+application of the regulation to inmates like Mohammad who
+are incarcerated for both violent and nonviolent felony offenses.
+(Maj. opn., ante, at pp. 29–30 & fn. 13.)
+     Mohammad was sentenced to a consecutive term of 29
+years for multiple violent (robbery) and nonviolent (receiving
+                         In re MOHAMMAD
+                         Liu, J., concurring
+
+
+stolen property) offenses. In its administrative review of his
+request for early parole consideration, the Department
+determined that his robbery offense (any one of them) “ ‘makes
+all of his offenses to be considered violent during this term.’ ”
+(In re Mohammad (2019) 42 Cal.App.5th 719, 724.) In In re
+Reeves (2005) 35 Cal.4th 765, 772, we said that “[u]nder the
+Determinate Sentencing Act ([Pen. Code,] § 1170 et seq.),
+multiple consecutive determinate terms must be combined into
+a single, ‘aggregate term of imprisonment for all [such]
+convictions’ ([id.,] § 1170.1, subd. (a)) that merges all terms to
+be served consecutively . . . .”     The Department seems to
+contemplate that the merger of consecutive terms into a single
+aggregate term means that an inmate serving a consecutive
+sentence for violent and nonviolent felony convictions is
+“currently serving a term of incarceration for a ‘violent felony’ ”
+(Cal. Code Regs., tit. 15, § 3490, subd. (a)(5)) throughout the
+entire duration of the consecutive sentence.
+      But there is some tension between the Department’s view
+and Proposition 57’s definition of “primary offense” to mean “the
+longest term of imprisonment imposed by the court for any
+offense, excluding the imposition of an enhancement,
+consecutive sentence, or alternative sentence.”          (Art. I,
+§ 32(a)(1)(A), italics added.) As Justice Robie explained in In re
+Douglas (2021) 62 Cal.App.5th 726, this language seems to
+“require[ ] us to break an inmate’s sentence into its component
+parts,” notwithstanding the merger rule, in order to determine
+what term the inmate is currently serving at the time he or she
+seeks early parole consideration. (Id. at p. 738 (conc. opn. of
+Robie, Acting P. J.); see art. I, § 32(a) [“The following provisions
+are hereby enacted . . . notwithstanding anything in this article
+or any other provision of law . . . .”].)
+
+
+                                 2
+                        In re MOHAMMAD
+                         Liu, J., concurring
+
+
+      Consider, for example, an inmate serving a consecutive
+sentence for a robbery offense with a six-year term and a
+receiving stolen property offense with a three-year term. The
+robbery offense is the “primary offense” because it carries “the
+longest term of imprisonment imposed by the court for any
+offense.” (Art. I, § 32(a)(1)(A).) Once the inmate has completed
+the six-year term for his primary offense of robbery, is he then —
+for purposes of article I, section 32(a)(1) — currently serving a
+term for the nonviolent offense of receiving stolen property and
+thus eligible for early parole consideration, as Justice Robie’s
+view suggests? Or does article I, section 32(a)(1) allow the
+Department to treat him as currently serving a term for the
+violent offense throughout the entire nine-year aggregate
+sentence and find him ineligible for early parole consideration
+on that basis?
+      Today’s decision does not answer these questions, nor does
+it address at what point, if any, during Mohammad’s consecutive
+sentence he may become eligible for early parole consideration.
+These issues await resolution in future cases.
+
+
+                                               LIU, J.
+
+
+I Concur:
+KRUGER, J.
+
+
+
+
+                                 3
+See next page for addresses and telephone numbers for counsel who
+argued in Supreme Court.
+
+Name of Opinion In re Mohammad
+__________________________________________________________
+
+Procedural Posture (see XX below)
+Original Appeal
+Original Proceeding
+Review Granted (published) XX 42 Cal.App.5th 719
+Review Granted (unpublished)
+Rehearing Granted
+__________________________________________________________
+
+Opinion No. S259999
+Date Filed: January 3, 2022
+__________________________________________________________
+
+Court: Superior
+County: Los Angeles
+Judge: William C. Ryan
+__________________________________________________________
+
+Counsel:
+
+Michael Satris and Heather MacKay, under appointments by the
+Supreme Court, for Petitioner Mohammad Mohammad.
+
+Xavier Becerra and Rob Bonta, Attorneys General, Michael Mongan,
+State Solicitor General, Gerald A. Engler and Lance E. Winters, Chief
+Assistant Attorneys General, Janill L. Richards, Principal Deputy
+State Solicitor General, Phillip J. Lindsay, Assistant Attorney General,
+Helen H. Hong, Deputy State Solicitor General, Amanda J. Murray
+and Charles Chung, Deputy Attorneys General, for Respondent the
+People.
+
+Kent S. Scheidegger and Kymberlee C. Stapleton for Criminal Justice
+Legal Foundation as Amicus Curiae on behalf of Respondent the
+People.
+
+Richard J. Sachs, Deputy District Attorney (San Diego) and Mark
+Zhaner for California District Attorneys Association as Amicus Curiae
+on behalf of Respondent the People.
+Counsel who argued in Supreme Court (not intended for
+publication with opinion):
+
+Heather MacKay
+P.O. Box 3112
+Oakland, CA 94609
+(510) 653-7507
+
+Helen H. Hong
+Deputy State Solicitor General
+600 West Broadway, Suite 1800
+San Diego, CA 92101
+(619) 738-9693

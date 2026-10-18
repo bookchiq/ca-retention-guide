@@ -387,6 +387,13 @@ def test_supreme_court_joiner_of_separate_opinion_is_on_the_panel():
         ("Justice Cuéllar", "dissent", True), ("Justice Liu", "dissent", True)]
 
 
+def test_supreme_court_separate_opinion_joiner_without_comma():
+    # "Justice Liu filed a concurring opinion in which Justice Kruger concurred."
+    r = run("S_5175655")
+    assert [(s.type, s.author_raw) for s in r.separate_opinions] == [("concurrence", "Justice Liu")]
+    assert "Kruger" in [s.surname for s in r.seats]
+
+
 def test_supreme_court_opinion_concurring_in_the_judgment():
     r = run("S_4519783")  # "Justice Cuéllar filed an opinion concurring in the judgment."
     [sep] = r.separate_opinions
