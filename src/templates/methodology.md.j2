@@ -20,7 +20,7 @@ Last updated: {{ updated }}.
 
 ## Coverage
 
-Opinions are counted from {{ window_start }}. Per-year counts by court and publication status are in [the coverage report](https://github.com/bookchiq/ca-retention-guide/blob/main/data/validation/coverage.md).
+Opinions are counted from {{ window_start }}.{% if window_start <= "2020-12-31" %} CourtListener's 2020 Court of Appeal data is incomplete: it holds about 2,750 unpublished opinions for 2020, against about 6,000 a year for 2021–2025, so 2020 counts are low for every justice.{% endif %} Per-year counts by court and publication status are in [the coverage report](https://github.com/bookchiq/ca-retention-guide/blob/main/data/validation/coverage.md).
 
 ## Validation
 

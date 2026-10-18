@@ -63,6 +63,12 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Reading rule clarification.** Readers and checkers treated bail and pretrial-detention rulings (*In re Humphrey*) and "probable cause" to hold a defendant to answer (Pen. Code § 995) as outside the search-and-seizure topic. The review guide now says so explicitly. No record changed.
 
+## 2026-10-18: Owner decisions
+
+**Spot check passed.** The owner read 10 randomly drawn listed summaries against their opinions (seed 1027) and found them accurate. A few were judged accurate but missing some context; the owner accepted that for Phase 1. This clears the promoted records in `data/case_notes.jsonl` for publication.
+
+**Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
+
 ## 2026-10-17: Review queue rules (U9)
 
 - L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.
