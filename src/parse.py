@@ -558,7 +558,7 @@ def _sc_person(token: str, default_chief: bool = False) -> Sig | None:
     if m:
         chief = bool(m.group(1))
         token = m.group(2)
-    m = re.fullmatch(r"([A-ZÀ-Þ][\w'’\-]+(?: [A-Z][\w'\-]+)?)(\**)", token)
+    m = re.fullmatch(r"([A-ZÀ-Þ][\w'’\-]+(?: [A-Z][\w'\-]+)?)\s*(\**)", token)
     if not m:
         return None
     return Sig(m.group(1), "C. J." if chief else "J.", m.group(2))

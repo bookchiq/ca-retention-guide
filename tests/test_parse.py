@@ -457,6 +457,12 @@ def test_supreme_court_separate_opinion_with_plural_justices_typo():
     assert "Liu" in [s.surname for s in r.seats]
 
 
+def test_supreme_court_assigned_justice_with_space_before_star():
+    r = run("S_11428037")  # "... Groban, and Fujisaki * concurred."
+    fujisaki = [s for s in r.seats if s.surname == "Fujisaki"]
+    assert fujisaki and fujisaki[0].assigned
+
+
 def test_supreme_court_opinion_concurring_in_the_judgment():
     r = run("S_4519783")  # "Justice Cuéllar filed an opinion concurring in the judgment."
     [sep] = r.separate_opinions
