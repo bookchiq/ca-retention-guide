@@ -1,0 +1,737 @@
+cl_opinion_id: 11171769
+cluster: 10705182
+docket: H051328
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Trivino CA6
+----
+Filed 10/16/25 P. v. Trivino CA6
+
+                 NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+         IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                    SIXTH APPELLATE DISTRICT
+
+
+ THE PEOPLE,                                                         H051328
+                                                                    (Monterey County
+           Plaintiff and Respondent,                                 Super. Ct. No. 21CR004236)
+
+           v.
+
+ JOHN SAMUEL THOMAS
+ TRIVINO,
+
+           Defendant and Appellant.
+
+
+
+         A jury convicted defendant John Samuel Thomas Trivino of the willful,
+deliberate, and premeditated murder of Martin Heredia (Pen. Code,1 § 187,
+subd. (a); count 1) and conspiracy to commit Heredia’s murder (§§ 182, subd.
+(a)(1), 187; count 2). The jury found not true allegations attached to count 1
+that Trivino personally and intentionally discharged a firearm (§ 12022.53,
+subd. (c)) and personally and intentionally discharged a firearm resulting in
+death or great bodily injury (§ 12022.53, subd. (d)). Trivino later pleaded no
+contest to participation in a criminal street gang (§ 186.22, subd. (a); count 3).
+The trial court sentenced Trivino to 25 years to life with the possibility of
+parole on count 1 and 25 years to life with the possibility of parole on count 2,
+
+
+         1 All further unspecified statutory references are to the Penal Code.
+the latter to run concurrently with the sentence on count 1. The court
+sentenced Trivino to 90 days in county jail on count 3, and Trivino received
+credit for the full 90 days.
+      Trivino filed a motion for new trial based on juror misconduct and, in
+the alternative, requested that the trial court order an evidentiary hearing
+under Code of Civil Procedure section 237 and release the jurors’ identifying
+information to allow the parties to investigate potential juror misconduct.
+The court denied the motion for new trial and declined to order an
+evidentiary hearing or release juror identifying information.
+      On appeal, Trivino raises three issues. He maintains that his defense
+counsel at trial provided ineffective assistance by failing to object to the
+amendment of the information to add the conspiracy charge. In addition,
+Trivino asserts the trial court abused its discretion by declining to disclose
+juror identifying information. Finally, Trivino contends the court erred by
+failing to instruct the jury on aiding and abetting liability. He asks this court
+to reverse his convictions on counts 1 and 2 and to order the trial court to
+disclose juror identifying information.
+      For the reasons stated below, we discern no error and affirm the
+judgment.
+             I. FACTS AND PROCEDURAL BACKGROUND2
+      A. Facts
+      On June 7, 2016, Trivino, a member of the Norteño criminal street
+gang in King City known as “San Antonio Gardens” (SAG), was riding in
+Kendrix Perez’s truck, with Perez, Ulises Silva, and another individual; Perez
+
+
+
+      2 We set forth the relevant facts from the trial evidence in the light
+
+most favorable to the jury’s verdict. (People v. Luo (2017) 16 Cal.App.5th 663,
+668, fn. 2; People v. Campbell (2020) 51 Cal.App.5th 463, 469.)
+                                           2
+was driving. They saw a van occupied by individuals whom Trivino knew to
+be members of the Sureño criminal street gang.3 Trivino saw the same van
+“[m]inutes later” parked outside a residence on Cambridge Avenue and saw
+Sureño gang members at the residence.
+      After driving by the residence on Cambridge, Perez parked the truck on
+Bedford Avenue, a neighboring street. Trivino and Silva exited Perez’s truck
+and walked to the corner, where they could see Heredia’s residence on
+Cambridge and a group of Sureños. Trivino fired the entire magazine of a
+nine-millimeter gun at the opposing gang members. Trivino and Silva ran
+back to Perez’s truck after the shooting, and Perez drove them away from the
+scene.
+      Heredia died from the gunshot wounds, and his cause of death was
+ruled a homicide.
+      B. Preliminary Hearing and Charges
+      On June 1, 2021, the Monterey County District Attorney filed a
+complaint charging Trivino with willful, deliberate, and premeditated murder
+of Heredia (§ 187, subd. (a); count 1). The complaint alleged as to count 1
+that Trivino personally and intentionally discharged a firearm and, in doing
+so, caused great bodily injury and death (§ 12022.53, subds. (c) & (d)), and
+that Trivino committed murder for the benefit of, at the direction of, and in
+association with a criminal street gang, namely, the Norteño criminal street
+gang, with the specific intent to promote, further, and assist in criminal
+conduct by gang members (§ 186.22, subd. (b)(1)).
+
+
+      3 In King City, the Sureños are rivals of SAG.
+                                                   Although Heredia was
+not identified by the parties as a Sureño gang member, Heredia’s “friends
+were all known [Sureño] gang members” who were part of the Sureño subset
+known as “Mexican Klan Locos” (or “MKL”), and Heredia was with Sureño
+gang members in the van and at his residence.
+                                          3
+      On July 15, 2021, the trial court presided over a preliminary hearing.
+The district attorney presented testimony from King City Police Officers
+Brennan Lux, Dominic Mercurio, and William Clark, and King City Police
+Detective Joshue Partida.
+      Officer Lux observed evidence of gunfire damage to Heredia’s residence
+and reviewed surveillance video footage showing Heredia retrieving food from
+a van, returning to the residence, being hit by gunfire, and falling into the
+garage. Lux did not know how many rounds were discharged during the
+shooting and was not able to recall without reviewing the video whether the
+surveillance camera captured any footage of people or vehicles on the street
+adjacent to Heredia’s residence. The prosecution did not introduce the
+surveillance video footage into evidence at the preliminary hearing.
+      Officer Mercurio located 10 nine-millimeter cartridge casings in a two-
+yard radius approximately 64 feet from Heredia’s residence. When asked on
+cross-examination whether he could tell from the markings on the recovered
+cartridge casings if the bullets had been fired from one gun, Mercurio
+answered in the negative, noting that he is “not an expert in that field.”
+      In 2021, Officer Clark performed a cold case review of Heredia’s 2016
+homicide. After Trivino was arrested in 2021, Clark placed Trivino into a cell
+with another individual, identified as JW-1 (referred to as “JP1” in the
+parties’ appellate briefs). Clark monitored the communications between
+Trivino and JW-1. Trivino identified himself to JW-1 as a Norteño gang
+member and recounted to JW-1 the events of June 7, 2016. Trivino stated he
+and “a younger homey, who was currently in prison” exited Perez’s truck.
+
+
+
+
+                                           4
+Perez stayed behind with the truck. Trivino had a nine-millimeter gun and
+emptied “the whole clip” shooting at “a scrap from far away.”4
+      Detective Partida interviewed another person, referred to at the
+preliminary hearing as John Doe, about the 2016 homicide. Doe told Partida
+he was a member of SAG in 2016 and had personal knowledge of Heredia’s
+homicide. Doe told Partida that he had spoken with Trivino about the
+homicide at a party at Trivino’s residence two or three days after the
+shooting. Trivino, Silva, and Perez each separately told Doe that they had
+committed the homicide. Doe told Partida that “they were bragging about
+the homicide because it was gang related.”
+      Trivino told Doe that Trivino, Silva, and Perez had been “driving
+around the city looking for other rival gang members” and, later, Trivino was
+across the street from Heredia’s residence “waiting for someone to come out of
+the residence” “[b]ecause they were trying to kill rival gang members.”
+Trivino told Doe that Trivino shot Heredia from across the street using a
+nine-millimeter gun before Trivino and Silva ran back to Perez’s truck and
+left the scene.
+      Detective Partida, who testified as an expert on the Norteño criminal
+street gang, stated that, in 2016, there was “a period of heightened violence
+between Norteños and Sureños in King City,” including “a large amount of
+shootings.” Partida was familiar with Silva from other investigations and
+opined that Silva was an active member of SAG at the time of Heredia’s
+murder. Doe told Partida that Trivino was a member of the Norteño criminal
+street gang. Detective Partida had not been aware of Trivino’s membership
+
+
+      4 During the preliminary hearing, Detective Partida, whom the parties
+
+stipulated was an expert on the Norteño criminal street gang, defined the
+term “ ‘scrap’ ” as “a derogatory term used by Norteño gang members to
+describe rival Sureño gang members.”
+                                          5
+in the Norteño criminal street gang until law enforcement interviewed Doe.
+Partida testified that “most of what” he had to rely on concerning Trivino’s
+gang affiliation in 2016 was based on information supplied by Doe.5
+      Trivino did not introduce any evidence at the preliminary hearing.
+After hearing the evidence, the trial court found sufficient cause to believe
+Trivino committed the charged offense (murder) and sufficient evidence to
+support the allegations.
+      On July 19, 2021, the Monterey County District Attorney filed an
+information charging Trivino with one count of willful, deliberate, and
+premeditated murder of Heredia (§ 187, subd. (a)), with allegations of
+personal use of a firearm (a handgun) (§ 12022.53, subds. (b) & (e)) and
+specific intent to promote, further, and assist in criminal conduct by gang
+members (§ 186.22, subd. (b)(1)).
+      On January 23, 2023, the district attorney filed a second amended
+information6 charging Trivino with one count of willful, deliberate, and
+premeditated murder of Heredia (§ 187, subd. (a); count 1), and one count of
+conspiracy to commit the crime of murder under section 187 (§ 182, subd.
+(a)(1); count 2). The second amended information included the following
+allegations attached to count 1: Trivino personally and intentionally
+discharged a firearm (§ 12022.53, subd. (c)), personally and intentionally
+discharged a firearm resulting in death or great bodily injury (id., subd. (d)),
+and committed count 1 for the benefit of, at the direction of, and in
+association with a criminal street gang with the specific intent to promote,
+further, and assist in criminal conduct by gang members (§ 186.22, subd.
+
+
+      5 The preliminary hearing did not include any testimony about the
+
+source of Doe’s information about Trivino.
+      6 A first amended information was apparently prepared but not filed
+
+with the court.
+                                           6
+(b)(1)). The second amended information set forth the following overt acts (all
+of which took place on June 7, 2016): (1) Trivino entered Perez’s truck,
+(2) Trivino traveled past Heredia’s house at 10:20 p.m., (3) Trivino exited
+Perez’s truck on Bedford Avenue in King City, (4) Trivino walked with Silva
+on Cambridge Avenue towards Heredia’s house, and (5) Trivino discharged a
+firearm at Heredia. Defense counsel did not object to the amendment and
+waived formal reading of the charges and advisement of rights. Trivino
+pleaded not guilty to both counts and denied all the allegations.
+       C. Jury Trial and Verdict; Sentencing
+       The jury trial began on January 23, 2023. At the close of evidence, the
+trial court gave the jury the pattern CALCRIM instructions on following the
+law as the court explains it to them, not using external sources of information
+or conducting their own investigation or research, and the prosecution’s
+burden of proof and the defendant’s entitlement to an acquittal if the
+prosecution did not meet its burden. In addition, the court gave the jury
+instructions on the charged counts—murder and conspiracy to murder—and
+the alleged enhancements.
+       The jury returned guilty verdicts on counts 1 and 2. It found not true
+the firearm allegations attached to count 1.7 The trial court clerk polled the
+jurors and confirmed with each juror that the verdicts on counts 1 and 2 were
+their true verdicts.
+       On July 25, 2023, Trivino filed a motion for new trial and requested
+juror identifying information. We describe his motion in greater detail post
+(pt. II.B.1.).
+       On July 27, 2023, the trial court sentenced Trivino to 25 years to life in
+prison on count 1 and 25 years to life in prison on count 2, the latter to run
+
+
+       7 The parties waived their rights to jury trial on the gang allegation.
+
+                                           7
+concurrently with the sentence on count 1, for an aggregate indeterminate
+term of 25 years to life.
+      On August 8, 2023, the trial court conducted a hearing on the district
+attorney’s motion to add one count of participation in a criminal street gang
+(§ 186.22, subd. (a); count 3), a misdemeanor, and to dismiss the gang
+allegation on count 1 (§ 186.22, subd. (b)(1)). The court granted the motion.
+Trivino pleaded no contest to count 3 and the court sentenced him to 90 days
+in county jail with credit for time served.
+      Trivino appealed.
+                               II. DISCUSSION
+      Trivino argues this court must reverse his conviction on count 2 for
+conspiracy to commit murder. Trivino contends his defense counsel rendered
+ineffective assistance by failing to object to the district attorney’s request to
+amend the information to add this count based on a lack of independent
+evidence at the preliminary hearing supporting a conspiracy charge. He
+asserts the conspiracy charge was based solely on Trivino’s extrajudicial
+statements. Trivino also maintains the trial court abused its discretion by
+declining to disclose juror identifying information because a juror’s
+declaration set forth statements indicating juror misconduct. He asks this
+court to direct the trial court to disclose the requested information. In
+addition, Trivino asks this court to reverse his conviction on count 1 for
+murder because he contends the trial court erred by failing to instruct the
+jury on aiding and abetting liability despite substantial evidence that he was
+merely present at the scene.
+      The Attorney General disagrees on all points and requests that this
+court affirm the judgment.
+
+
+
+
+                                              8
+      A. Ineffective Assistance of Counsel by Failing to Object to Amendment
+         of the Information Based on the Corpus Delicti Rule
+         1. Legal Principles
+      “ ‘To establish ineffective assistance of counsel, a petitioner must
+demonstrate that (1) counsel’s representation was deficient in falling below
+an objective standard of reasonableness under prevailing professional norms,
+and (2) counsel’s deficient representation subjected the petitioner to
+prejudice, i.e., there is a reasonable probability that, but for counsel’s failings,
+the result would have been more favorable to the petitioner.’ ” (In re Jones
+(1996) 13 Cal.4th 552, 561; Strickland v. Washington (1984) 466 U.S. 668,
+687 (Strickland).) “A reasonable probability is a probability sufficient to
+undermine confidence in the outcome.” (Strickland, at p. 694.)
+      A court can reject a claim of ineffective assistance if the defendant fails
+to establish either prong of the Strickland standard. (See Strickland, supra,
+466 U.S. at p. 687; People v. Weaver (2001) 26 Cal.4th 876, 961.)
+“Representation does not become deficient for failing to make meritless
+objections.” (People v. Ochoa (1998) 19 Cal.4th 353, 463.)
+      Trivino argues that his defense counsel’s failure to object to the
+prosecution’s amendment of the information to add a charge of conspiracy to
+commit murder constituted ineffective assistance because the prosecution’s
+evidence at the preliminary hearing was insufficient to establish probable
+cause for the charge. Trivino contends that the prosecution’s evidence at the
+preliminary hearing consisted entirely of extrajudicial statements by Trivino
+to Doe, and the prosecution failed to present evidence from independent
+sources to support the conspiracy charge.
+      “The purpose of a preliminary hearing is to determine whether a
+defendant charged with a felony by criminal complaint should be held for
+
+
+                                            9
+trial. [Citation.] The defendant will be bound over to superior court and held
+to answer if ‘it appears from the examination that a public offense has been
+committed and there is sufficient cause to believe that the defendant is
+guilty.’ (§ 872.) Conversely, the magistrate must order the complaint
+dismissed when ‘it appears either that no public offense has been committed
+or that there is not sufficient cause to believe the defendant guilty of a public
+offense.’ (§ 871.)” (People v. Esmaili (2013) 213 Cal.App.4th 1449, 1459
+(Esmaili).)
+      “ ‘ “[T]he showing required at a preliminary hearing is exceedingly
+low.” ’ ” (Zemek v. Superior Court (2020) 44 Cal.App.5th 535, 544 (Zemek).)
+“ ‘Evidence that will justify a prosecution need not be sufficient to support a
+conviction. . . . An information will not be set aside or a prosecution thereon
+prohibited if there is some rational ground for assuming the possibility that
+an offense has been committed and the accused is guilty of it.’ ” (People v.
+Uhlemann (1973) 9 Cal.3d 662, 667; see also People v. Superior Court
+(Decker) (2007) 41 Cal.4th 1, 7.)
+      “At the preliminary hearing, the burden is on the prosecution to show
+there is probable cause to believe the defendant committed the charged
+offense.” (Esmaili, supra, 213 Cal.App.4th at p. 1460.) To do so, “ ‘the
+prosecution must prove the corpus delicti, or the body of the crime itself—i.e.,
+the fact of injury, loss, or harm, and the existence of a criminal agency as its
+cause. In California, it has traditionally been held, the prosecution cannot
+satisfy this burden by relying exclusively upon the extrajudicial statements,
+confessions, or admissions of the defendant.’ ” (Munoz v. Superior Court
+(2020) 45 Cal.App.5th 774, 779 (Munoz).) “ ‘In the preliminary hearing
+context, it has long been held that “[a] defendant cannot be held to answer
+unless the corpus delicti of the offenses with which he is charged is
+
+
+                                          10
+established independently of his extrajudicial statements.” ’ ” (Id. at p. 780;
+People v. Powers-Monachello (2010) 189 Cal.App.4th 400, 406; People v.
+Herrera (2006) 136 Cal.App.4th 1191, 1195, 1200–1202; People v. Muniz
+(1993) 16 Cal.App.4th 1083, 1087.)
+      “ ‘The independent proof may be circumstantial and need not be beyond
+a reasonable doubt, but is sufficient if it permits an inference of criminal
+conduct, even if a noncriminal explanation is also plausible. [Citations.]
+There is no requirement of independent evidence “of every physical act
+constituting an element of an offense,” so long as there is some slight or
+prima facie showing of injury, loss, or harm by a criminal agency. [Citation.]
+In every case, once the necessary quantum of independent evidence is
+present, the defendant’s extrajudicial statements may then be considered for
+their full value to strengthen the case on all issues.’ ” (Munoz, supra, 45
+Cal.App.5th at p. 780; People v. Jones (1998) 17 Cal.4th 279, 303.)
+      “A conspiracy conviction requires proof that the defendant and one or
+more other persons had the specific intent to agree or conspire to commit an
+offense, as well as the specific intent to commit the elements of that offense,
+and proof of the commission of an overt act by one or more of the parties to
+the agreement in furtherance of the conspiracy. [Citations.] ‘ “ ‘The
+punishable act, or the very crux, of a criminal conspiracy is the evil or corrupt
+agreement.’ ” ’ ” (Munoz, supra, 45 Cal.App.5th at p. 780.)
+      “ ‘ “ ‘Evidence is sufficient to prove a conspiracy to commit a crime “if it
+supports an inference that the parties positively or tacitly came to a mutual
+understanding to commit a crime.” ’ ” [Citation.] “Evidence of an agreement
+does not require proof that the parties met and expressly agreed; a criminal
+conspiracy can be shown through circumstantial evidence.” ’ ‘ “ ‘ “The
+existence of a conspiracy may be inferred from the conduct, relationship,
+
+
+                                           11
+interests, and activities of the alleged conspirators before and during the
+alleged conspiracy.” ’ ” ’ [Citation.] ‘ “[A]ll conspiracy to commit murder is
+necessarily conspiracy to commit premeditated and deliberated first degree
+murder.” ’ ” (People v. Lamb (2024) 16 Cal.5th 400, 442 (Lamb); People v.
+Scully (2021) 11 Cal.5th 542, 583.)
+           2. Analysis
+      The second amended information alleged that Trivino “did unlawfully
+conspire together and with another person and persons whose identity is
+unknown to commit the crime of [m]urder, in violation of [s]ection 187 of the
+Penal Code.” The second amended information set forth the following overt
+acts in the charged conspiracy: Trivino entered Perez’s truck, Trivino
+traveled past Heredia’s house, Trivino exited Perez’s truck, Trivino walked
+with Silva towards Heredia’s house, and Trivino discharged a firearm at
+Heredia.
+      The evidence presented at the preliminary hearing showed that
+Trivino, accompanied by Silva and Perez, killed Heredia as part of a gang
+rivalry. It is true that most of the information presented at the preliminary
+hearing about Trivino’s participation in the killing as the actual shooter
+originated with statements made by Trivino himself (to Doe and JW-1). On
+its own, this information would violate the independent proof rule. “[T]he
+independent-proof rule ‘essentially precludes conviction based solely on a
+defendant’s out-of-court statements.’ [Citations.] . . . [T]he rule requires
+corroboration of the defendant’s extrajudicial utterances insofar as they
+indicate a crime was committed, and forces the People to supply, as part of
+their burden of proof in every criminal prosecution, some evidence of the
+corpus delicti aside from, or in addition to, such statements.” (People v.
+Alvarez (2002) 27 Cal.4th 1161, 1178, italics omitted (Alvarez).)
+
+
+                                          12
+      We decide that the prosecution did present “some evidence” (Alvarez,
+supra, 27 Cal.4th at p. 1178) that did not derive from statements made by
+Trivino. Detective Partida testified to the “large amount of shootings”
+between Norteños and Sureños in 2016 in King City. Partida independently
+knew that Silva, who told Doe about his own participation in the crime, was a
+Norteño. Doe informed Partida that Trivino was a Norteño. Doe told Partida
+that Silva and Perez had each described their participation, with Trivino, in
+the killing of Heredia.8 These facts are sufficient to provide the “ ‘slight or
+prima facie showing’ ” (id. at p. 1181) necessary to satisfy the corpus delicti
+rule. The facts, not derived from Trivino’s own statements, allow for
+Trivino’s statements to “be considered to strengthen the case on all issues.”
+(Ibid.)
+      Trivino argues that Detective Partida’s testimony that Perez, Silva,
+and Trivino admitted to Doe their “involvement” in the homicide and Trivino
+told Doe that he was with Perez and Silva at the scene does not “prove any
+prior agreement to commit murder.” We disagree. Given the “ ‘ “exceedingly
+low” ’ ” threshold of proof required at a preliminary hearing (Zemek, supra, 44
+Cal.App.5th at p. 544), independent evidence supporting extrajudicial
+statements may be circumstantial in nature “ ‘if it permits an inference of
+criminal conduct, even if a noncriminal explanation is also plausible.’ ”
+(Munoz, supra, 45 Cal.App.5th at p. 780.) Such circumstantial evidence,
+which “ ‘ “ ‘ “may be inferred from the conduct, relationship, interests, and
+
+
+      8 In response to questions by the magistrate, Detective Partida clarified
+
+that Perez, Silva, and Trivino each independently told Doe that “these three
+individuals committed the homicide.” There was no objection at the
+preliminary hearing to this testimony by Partida, and Trivino does not raise
+any contention on appeal with respect to the admissibility of these
+statements.
+
+                                           13
+activities of the alleged conspirators before and during the alleged
+conspiracy,” ’ ” ’ ” can establish a criminal conspiracy. (Lamb, supra, 16
+Cal.5th at p. 442)
+      Trivino also contends that this evidence does not support the
+conspiracy to commit murder charge alleged in the second amended
+information but instead “constitutes . . . an entirely different crime: gang
+conspiracy.” Again, we disagree. That the conspiracy to commit murder
+occurred in the context of gang rivalry does not preclude charging the
+conspiracy under traditional conspiracy principles.
+      “If evidence reflects that an active and knowing gang participant,
+acting with the required intent, agrees with other gang members to commit a
+felony, and an overt act in furtherance of the plan has been committed, a
+prosecutor may charge a traditional conspiracy to commit the gang
+participation offense under section 182, even if the target offense is not
+ultimately committed. Rather than expressing an intent to limit the scope of
+section 182, the enactment of section 182.5 provided prosecutors additional
+flexibility in charging a different kind of conspiracy, consistent with the
+Legislative Analyst’s statement that the new provision ‘expand[ed] the law on
+conspiracy to include gang-related activities.’ ” (People v. Johnson (2013) 57
+Cal.4th 250, 263.)
+      The evidence at the preliminary hearing not derived from Trivino
+established that Heredia was killed, two individuals other than Trivino (one
+of whom was a Norteño) told Doe that they had committed the killing with
+Trivino as part of a gang killing, Trivino was a Norteño, and at the time of
+the killing in King City there were frequent killings between the rival
+Norteño and Sureño gangs. These pieces of evidence constitute sufficient
+
+
+
+
+                                          14
+independent evidence of a prima facie case of a conspiracy between Trivino
+and at least one other person to commit the crime of murder.
+      “Counsel does not render ineffective assistance by failing to make
+motions or objections that counsel reasonably determines would be futile.”
+(People v. Price (1991) 1 Cal.4th 324, 387.) We reject Trivino’s claim that his
+counsel rendered ineffective assistance for failing to object to the amendment
+of the information to include a charge of conspiracy on the basis that there
+was insufficient independent proof of the crime.
+      B. Disclosure of Juror Identifying Information
+         1. Additional Background
+      At the start of trial, the trial court instructed the jury that they may
+not seek out or base their decision on any information, including any facts or
+law, from external sources and may only base their decision on the
+instructions given by the court and the evidence presented at trial. The court
+reiterated the instruction throughout the course of the trial and told the jury
+to “notice how often [it] repeat[s] that [instruction].” The court stated that it
+does so “because there ha[ve] been violations. If you violate this rule, you
+may be subject to jail time, a fine, or other punishment. It is a serious rule.
+Please follow it.” The court instructed the jurors to contact the deputy if they
+receive any information about the case from a source outside of the trial, and
+to not discuss it with other jurors.
+      Following his conviction, Trivino filed with the trial court a motion for
+new trial and petitioned the court to release the jurors’ personal information
+and order an evidentiary hearing pursuant to Code of Civil Procedure section
+237. As relevant on appeal, he asserted that, with respect to count 1, several
+jurors did not believe Trivino shot Heredia but convicted Trivino of murder
+because they believed his “mere presence” at the scene was sufficient for a
+
+
+                                           15
+conviction. Trivino argued in his motion that this evidence rendered the
+verdict on count 1 “not merely ‘inconsistent’ but legally infirm.” In the
+alternative, Trivino requested the court release the jurors’ personal
+information and order an evidentiary hearing to allow the parties to more
+thoroughly investigate potential juror misconduct.
+      In support of his motion, Trivino provided a declaration from one of the
+jurors.9 The juror stated that he and “several jurors” were not convinced
+beyond a reasonable doubt that Trivino fired his weapon, but he and the
+other jurors joined in the guilty verdict on count 1 because they believed
+Trivino’s “mere presence at the scene of the murder was enough to convict
+him.” The juror stated his own belief that Trivino’s act of exiting Perez’s
+truck on that day was sufficient participation for a finding of guilt on count 1.
+The juror asserted that, because “several of [the jurors] did not believe
+[Trivino] was the shooter, [they] all agreed to vote not guilty on the allegation
+attached to count 1, that [Trivino] personally used a firearm.”
+      In opposition, the district attorney argued that the juror’s declaration
+was inadmissible under Evidence Code section 1150 because the description
+of the juror’s thoughts during deliberations was “inadmissible ‘verbal
+reflection of the juror’s mental processes’ ” and the juror’s discussion of other
+jurors’ views was both “inadmissible ‘evidence of the subjective reasoning
+processes of jurors to impeach their verdicts’ [and] inadmissible hearsay.”
+The district attorney further argued that an inconsistent verdict involving a
+
+
+
+
+      9 Trivino’s counsel acknowledged in his declaration in support of the
+
+motion for new trial that the juror’s declaration does not meet the technical
+requirements set forth in Code of Civil Procedure section 2015.5. However,
+he stated that the parties were prepared to stipulate that the trial court
+should consider the declaration despite this technical defect.
+                                           16
+murder charge and firearm enhancements that is nevertheless supported by
+substantial evidence should not be subject to a new trial.
+      On July 27, 2023, the trial court conducted a hearing on Trivino’s
+motion for new trial and request for juror identifying information. The court
+found that the single juror’s declaration presented insufficient evidence to
+support a finding of juror misconduct and there was “more than sufficient
+substantial evidence” to support Trivino’s conviction on count 1. The court
+thus declined to hold an evidentiary hearing. The court also denied the
+motion for new trial.
+         2. Legal Principles
+      Following the recording of the jury’s verdict in a criminal proceeding,
+the defendant or the defendant’s counsel may “petition the [trial] court for
+access to personal juror identifying information within the court’s records
+necessary for the defendant to communicate with jurors for the purpose of
+developing a motion for new trial or any other lawful purpose.” (Code Civ.,
+Proc., § 206, subd. (g).) Personal juror identifying information “consists of
+jurors’ names, addresses, and telephone numbers.” (Ibid.) Courts consider
+such petitions under Code of Civil Procedure section 237. (Ibid.)
+      Under Code of Civil Procedure section 237, subdivision (b), a petition
+for access to personal juror identifying information must “be supported by a
+declaration that includes facts sufficient to establish good cause for the
+release of the juror’s personal identifying information.” “This showing must
+‘ “support a reasonable belief that jury misconduct occurred, that diligent
+efforts were made to contact the jurors through other means, and that further
+investigation is necessary to provide the court with adequate information to
+rule on a motion for new trial.” ’ ” (People v. Munoz (2019) 31 Cal.App.5th
+143, 165; People v. Cook (2015) 236 Cal.App.4th 341, 345 (Cook).)
+
+
+                                          17
+      “Good cause does not exist where the allegations of jury misconduct are
+speculative, conclusory, vague, or unsupported.” (Cook, supra, 236
+Cal.App.4th at p. 346.) “ ‘The hearing should not be used as a “fishing
+expedition” to search for possible misconduct, but should be held only when
+the defense has come forward with evidence demonstrating a strong
+possibility that prejudicial misconduct has occurred. Even upon such a
+showing, an evidentiary hearing will generally be unnecessary unless the
+parties’ evidence presents a material conflict that can only be resolved at
+such a hearing.’ ” (People v. Avila (2006) 38 Cal.4th 491, 604 (Avila); People
+v. Hedgecock (1990) 51 Cal.3d 395, 419 (Hedgecock).)
+      “[I]f the petition and supporting declaration establish a prima facie
+showing of good cause for the release of the personal juror identifying
+information,” the court shall set the matter for hearing. (Code Civ. Proc.,
+§ 237, subd. (b).)
+      We review the denial of a petition for disclosure of juror identifying
+information and the denial of a request for an evidentiary hearing concerning
+possible jury misconduct for an abuse of discretion. (Cook, supra, 236
+Cal.App.4th at p. 346 [disclosure]; Avila, supra, 38 Cal.4th at p. 604
+[hearing].)
+         3. Analysis
+      Trivino contends the trial court erred in denying his petition for
+disclosure of juror identifying information and an evidentiary hearing on the
+basis that the juror declaration he submitted “described events that, if
+proven, would establish [juror] misconduct.” He asserts that the juror’s
+declaration demonstrated that “ ‘several jurors’ ” committed legal error by
+finding him guilty on the basis that his “ ‘mere presence’ at the scene of the
+shooting was sufficient evidence of his guilt.” Trivino maintains that such
+
+
+                                          18
+legal error “suggests that one or more jurors researched the law, sought legal
+instruction from a source other than the trial court, or crafted personal
+theories of legal liability.”
+      When determining whether jurors engaged in misconduct, trial courts
+“first consider what portions of the declarations are admissible. Evidence
+Code section 1150, subdivision (a), provides: ‘Upon an inquiry as to the
+validity of a verdict, any otherwise admissible evidence may be received as to
+statements made, or conduct, conditions, or events occurring, either within or
+without the jury room, of such a character as is likely to have influenced the
+verdict improperly. No evidence is admissible to show the effect of such
+statement, conduct, condition, or event upon a juror either in influencing him
+to assent to or dissent from the verdict or concerning the mental processes by
+which it was determined.’ ” (People v. Danks (2004) 32 Cal.4th 269, 301–302
+(Danks); People v. Hayes (1999) 21 Cal.4th 1211, 1255 (Hayes).) In other
+words, the statute differentiates “between proof of overt acts, objectively
+ascertainable, and proof of the subjective reasoning processes of the
+individual juror, which can be neither corroborated nor disproved.” (People v.
+Steele (2002) 27 Cal.4th 1230, 1261.) “ ‘ “This limitation prevents one juror
+from upsetting a verdict of the whole jury by impugning his own or his fellow
+jurors’ mental processes or reasons for assent or dissent.” ’ ” (Danks, at
+p. 302; Hedgecock, supra, 51 Cal.3d at p. 418 [prohibiting “the admission of
+jurors’ testimony describing their own mental processes”].)
+      The juror’s declaration here recounts the juror’s reasons for joining in
+the jury’s guilty verdict on count 1 and for finding not true the firearm
+enhancements attached to count 1. It also asserts that other jurors shared
+the same reasons for agreeing with the verdict. A juror’s articulation of the
+reasons for their vote is “simply a verbal reflection of the juror’s mental
+
+
+                                          19
+processes. Consideration of such a statement as evidence of those processes
+is barred by Evidence Code section 1150.” (Hedgecock, supra, 51 Cal.3d at
+p. 419; see also Danks, supra, 32 Cal.4th at p. 302.) Because the juror’s
+declaration set forth only the juror’s mental processes and his perception of
+other jurors’ mental processes, the declaration is inadmissible under
+Evidence Code section 1150.
+        Trivino did not offer any other evidence in support of his contention of
+juror misconduct. Although he maintains that the juror’s declaration
+“suggests that one or more jurors” impermissibly sought information from
+external sources, he does not present any affirmative evidence supporting
+that claim. Moreover, the trial court reiterated the instruction admonishing
+the jury not to research or share information throughout the course of the
+trial. We must presume that jurors are intelligent and capable of
+understanding the instructions. (People v. Covarrubias (2016) 1 Cal.5th 838,
+915.)
+        Because Trivino failed to proffer any admissible evidence of juror
+misconduct, we decide the trial court did not abuse its discretion in denying
+Trivino’s petition for the disclosure of the jurors’ personal information
+without an evidentiary hearing. (See, e.g., Hayes, supra, 21 Cal.4th at
+p. 1259.)
+        C. Jury Instruction on Aiding and Abetting Liability
+            1. Additional Background
+        During his closing argument, the district attorney asserted that Trivino
+was “the one that opened fire [on] Martin Heredia and ended his life” and
+was guilty of first degree murder. The district attorney outlined the
+requirements of the charges against Trivino and argued that the evidence
+supported finding Trivino guilty of the murder charge and the conspiracy
+
+
+                                           20
+charge and finding true the enhancements attached to the murder charge.
+The district attorney did not raise aiding and abetting as a theory of Trivino’s
+liability.
+       In his closing argument, defense counsel argued that the prosecution
+had not met its burden of proving Trivino’s guilt beyond a reasonable doubt.
+Defense counsel contended that the evidence presented by the prosecution did
+not establish that Trivino was in Perez’s truck or at the scene of the shooting
+on June 7, 2016, Doe’s and JW-1’s testimony regarding Trivino’s statements
+to them was unreliable, and Trivino’s conflicting statements regarding the
+shooting could be rationalized. Defense counsel neither argued that Trivino
+was an aider and abettor rather than a direct perpetrator nor suggested that
+Trivino was merely present at the scene of the shooting.
+             2. Analysis
+       Trivino contends the trial court erred in failing to give instructions sua
+sponte on aiding and abetting, such as CALCRIM No. 401, despite
+substantial evidence at trial that Trivino “was simply present at the scene or
+had knowledge that a crime was being committed and did not prevent it.” He
+bases his contention on the evidence adduced at trial establishing that
+Trivino walked to the corner opposite Heredia’s house with Silva while
+believing Silva intended to shoot at the people in front of the house.
+       We are not persuaded by Trivino’s claim of instructional error. The
+trial court instructed the jury that, to prove Trivino guilty of murder, the
+prosecution needed to demonstrate that Trivino committed the act that
+caused Heredia’s death with either the intent to kill or the intent to commit
+the act, the natural and probable consequences of which were dangerous to
+human life, with knowledge of its dangerousness and conscious disregard for
+human life. It is clear from the instruction that the jury had to find Trivino
+
+
+                                           21
+had the intent to kill Heredia or commit the act that caused Heredia’s death,
+and Trivino’s mere presence was insufficient to support a guilty verdict.
+      Moreover, the prosecution did not seek Trivino’s conviction on an aiding
+and abetting theory. (See People v. Cooper (1991) 53 Cal.3d 1158, 1161–1162
+[concluding sua sponte duty existed where prosecution sought conviction on
+an aiding and abetting theory]; People v. Boyd (1990) 222 Cal.App.3d 541,
+557, italics added [noting that CALJIC No. 3.01 (also an aiding and abetting
+instruction) “ ‘should be given sua sponte in every case in which any
+defendant is prosecuted as an aider and abettor’ ”]; accord, People v. Delgado
+(2013) 56 Cal.4th 480, 488.) Nor did Trivino rely on aider and abettor
+liability or his “ ‘mere presence’ ” at the scene of the shooting as a defense.
+(See Boyd, at p. 558 [concluding “that the evidence on which defendants rely
+would not require the trial court to give the mere presence or mere knowledge
+instructions sua sponte [because t]he instructions would have been
+inconsistent with defendants’ theories of defense”].) The theory that Trivino
+was “merely present” at the scene of the shooting arose only postconviction in
+connection with Trivino’s motion for new trial and petition for the disclosure
+of juror identifying information (discussed in greater detail ante (pt. II.B.1.)).
+      We conclude the trial court did not have a sua sponte duty to instruct
+the jury on aiding and abetting liability.
+      D. Error in the Abstract of Judgment
+      In reviewing the instant appellate record, we have identified errors in
+the abstract of judgment that were not raised by either Trivino or the
+Attorney General. Specifically, the abstract of judgment (dated August 4,
+2023) lists the incorrect “year crime committed” (capitalization omitted)
+information for Trivino’s convictions on counts 1 and 2. The abstract of
+judgment erroneously states that the crimes were committed in “2021.” The
+
+
+                                             22
+“year crime committed” (capitalization omitted) for both counts should have
+been the year 2016. We direct the trial court to correct the clerical error with
+respect to counts 1 and 2 in the abstract of judgment. (See People v. Jones
+(2012) 54 Cal.4th 1, 89.)
+                             III. DISPOSITION
+      The judgment is affirmed. The trial court is directed to amend the
+abstract of judgment to state the “year crime committed” (capitalization
+omitted) for counts 1 and 2 as “2016.” The trial court clerk shall forward a
+certified copy of the corrected abstract of judgment to the Department of
+Corrections and Rehabilitation.
+
+
+
+
+                                          23
+                           ______________________________________
+                                      Danner, Acting P. J.
+
+
+
+
+WE CONCUR:
+
+
+
+
+____________________________________
+Wilson, J.
+
+
+
+
+____________________________________
+Bromberg, J.
+
+
+
+
+H051328
+People v. Trivino

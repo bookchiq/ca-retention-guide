@@ -1,0 +1,730 @@
+cl_opinion_id: 6333314
+cluster: 6461203
+docket: E075637
+date: 2022-04-20
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Gilbert CA4/2
+----
+Filed 4/20/22 P. v. Gilbert CA4/2
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+ California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+                                     or ordered published for purposes of rule 8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                   FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION TWO
+
+
+
+ THE PEOPLE,
+
+          Plaintiff and Respondent,                                      E075637
+
+ v.                                                                      (Super.Ct.No. INF1800573)
+
+ JORGE DAGOBERTO GILBERT,                                                OPINION
+
+          Defendant and Appellant.
+
+
+         APPEAL from the Superior Court of Riverside County. Charles J. Koosed, Judge.
+
+Affirmed in part and remanded with directions.
+
+         Torres & Torres and Steven A. Torres, under appointment by the Court of Appeal,
+
+for Defendant and Appellant.
+
+         Rob Bonta, Attorney General, Lance E. Winters, Chief Assistant Attorney
+
+General, Julie L. Garland, Assistant Attorney General, Arlene A. Sedival and Minh U.
+
+Le, Deputy Attorneys General, for Plaintiff and Respondent.
+
+         Defendant and appellant Jorge Dagoberto Gilbert was convicted of torturing and
+
+attempting to murder his girlfriend. In this appeal, he asks that we review the sealed
+
+
+
+
+                                                             1
+transcript of the trial court’s in camera proceeding conducted under Pitchess v. Superior
+
+Court (1974) 11 Cal.3d 531 (Pitchess) to determine whether the trial court erred in ruling
+
+on his request to disclose the personnel records of a law enforcement officer. He further
+
+argues that (1) there was insufficient evidence to support the jury’s finding that he
+
+personally used a dangerous or deadly weapon during the course of the attempted
+
+murder; (2) the trial court erred in responding to a question from the jury; (3) there is an
+
+error in the abstract of judgment; and (4) the matter should be remanded to allow the trial
+
+court to exercise its sentencing discretion under the newly enacted Assembly Bill No. 518
+
+(Assembly Bill 518).
+
+       We agree that the matter must be remanded for resentencing in light of Assembly
+
+Bill 518 and for preparation of an amended abstract of judgment. We affirm the
+
+judgment in all other respects.
+
+                                    I. BACKGROUND
+
+       Gilbert’s girlfriend Jane Doe testified that on the morning of March 30, 2018, she
+
+picked Gilbert up from jail, where he had spent the night. They went back to their shared
+
+residence, had breakfast, and retired to the bedroom. Both were under the influence of
+
+illegal drugs; at the time, Doe used heroin and methamphetamine every day, and Gilbert
+
+smoked methamphetamine.
+
+       Soon, while Doe and Gilbert were still naked in bed, they began to argue. Gilbert
+
+was upset because he believed Doe had been unfaithful to him, which Doe denied. The
+
+argument “escalated to a physical situation.” Doe’s memory of the exact order of events
+
+
+
+                                              2
+was hazy, but during the “situation” Gilbert tied her hands, punched her multiple times in
+
+the head and ribs, “sliced” her legs and hand three or four times with a box cutter, burned
+
+her with a methamphetamine pipe several times, and strangled her with his hands to the
+
+point where she lost consciousness. Doe did not recall physically resisting Gilbert’s
+
+violence, only telling him that she had not cheated on him and asking him to “please
+
+stop.” She escaped after what she estimated to be “a couple hours.” When Gilbert went
+
+to the bathroom, she ran out of the house, still naked but wrapped in a blanket. She
+
+sought help from the first people she saw outside, neighbors who were holding a yard
+
+sale. She told them that someone was chasing her.
+
+       The neighbors brought Doe inside and closed all the doors and windows of the
+
+house. Doe identified her “boyfriend” as the person chasing her and said that he was
+
+trying to kill her. A short time later, one of the neighbors saw from a window that a man
+
+she described as bald, short, and Hispanic—a description that matches Gilbert—was on
+
+the street in front of their house. He had come from the same direction as Doe, and he
+
+was holding an object that the neighbor thought was a knife. He appeared to be
+
+“desperate,” “nervous,” and “angry,” pacing back and forth and apparently looking for
+
+someone. Over Doe’s objection, the neighbor called 911.
+
+       A registered nurse who conducted a forensic medical exam of Doe observed facial
+
+injuries consistent with being punched or kicked in the head; she had dried blood in her
+
+nose from a bloody nose, both eyes were almost shut from swelling, and there was
+
+bruising and abrasions on her forehead, above and below her lips, and on the inside of her
+
+
+
+                                             3
+upper lip where it rubbed against her teeth. Bruises on her legs were also consistent with
+
+receiving kicks or punches. She had bruising, redness, and abrasions on her neck and
+
+jawline consistent with being strangled during a struggle, including “defensive wounds.”
+                                                                1
+She had burns on her right hand and wrist and on her left leg. The burn on her leg
+
+appeared more severe than a first degree burn. She had ligature marks consistent with
+
+being bound by the wrists. She had “incised wounds” consistent with being stabbed with
+
+a sharp object on her thigh and back. The nurse opined that Doe could have died as a
+
+result of her injuries. Doe was held overnight in the hospital for observation. Doe was
+
+left with permanent scars on her legs, wrist, hand, and back from cuts and burns.
+
+       Gilbert did not testify at trial or present any other form of affirmative defense.
+                                                            2
+       The jury found Gilbert guilty of torture (Pen. Code , § 206, count 1) and attempted
+
+murder (§§ 664, 187, subd. (a), count 2). It also found true that Gilbert had personally
+
+used a deadly or dangerous weapon, a knife, in committing both offenses (§ 12022, subd.
+
+(b)(1)), and that Gilbert had personally inflicted great bodily injury on Doe in committing
+
+count 2 (§ 12022.7, subd. (e)). The trial court sentenced Gilbert to an indeterminate term
+
+of seven years to life in prison for count 1, plus a consecutive one-year term for the
+
+weapons enhancement of that count. It imposed and stayed sentences for count 2 and the
+
+enhancements of that count.
+
+       1
+           The nurse also observed a burn on Doe’s face, underneath her eye, but Doe
+testified that burn came from an earlier accident with a methamphetamine pipe, not from
+Gilbert’s attack.
+       2
+           Further undesignated statutory references are to the Penal Code.
+
+                                              4
+                                     II. DISCUSSION
+
+A. Pitchess review
+
+       Before trial, Gilbert filed a Pitchess motion seeking discovery of the personnel
+
+records of a particular officer of the Desert Hot Springs Police Department. The officer
+
+was among those who responded to the initial 911 call, he interviewed Doe on the scene,
+
+and he was involved in Gilbert’s subsequent arrest. The officer also located Doe on April
+
+6, 2018, and transported her to the police station for an interview with him and another
+
+officer. The trial court found that good cause existed to conduct an in camera review of
+
+the officer’s personnel records. During the in camera proceeding, the trial court swore in
+                                                                                             3
+the custodian of records and questioned the custodian about the officer’s personnel file.
+
+The trial court reviewed the file, described the files it had reviewed, and concluded that
+
+there were no relevant material records to be disclosed.
+
+       In briefing on appeal, the People oppose Gilbert’s request that we review the
+
+sealed transcript of the in camera proceedings, arguing that such a review is
+
+“unnecessary” because the officer did not testify at trial. We disagree. For example, as
+
+Gilbert notes in his own briefing, the defense might well have called the officer to testify
+
+if his personnel file included discoverable information “pertaining to evidence or witness
+
+
+
+       3
+          To be precise, the review was conducted over two days because the trial court
+belatedly realized that it had failed to swear in the custodian of records. When the
+custodian returned on the second day, the court remedied this omission, and the custodian
+confirmed that everything that he had stated on the first day was true and correct to the
+best of his knowledge. On the second day, the court also reviewed again the same
+documents and further questioned the custodian.
+
+                                              5
+tampering.” Such information could tend to support defense arguments challenging
+
+Doe’s testimony regarding the source of her injuries. We find it plausible that, under the
+
+right circumstances, a trial court’s failure to disclose such information might amount to a
+
+prejudicial abuse of discretion.
+
+       In this case, however, we find no error. We have reviewed the sealed transcript of
+
+the trial court’s in camera review to determine if it abused its discretion in ruling that
+
+there was nothing that should be disclosed. (People v. Mooc (2001) 26 Cal.4th 1216,
+
+1228.) We conclude that the trial court appropriately exercised its discretion.
+
+B. Personal Use of Dangerous or Deadly Weapon
+
+       Gilbert argues that the evidence was insufficient to support the jury’s true finding
+
+on the section 12022, subdivision (b)(1) enhancement of count 2, based on his use of a
+
+knife in committing the offense. He concedes that there was evidence he “made a few
+
+cuts to Doe with the box cutter,” but argues that “there is no conceivable way these
+
+injuries were the basis of the attempted murder conviction.” He asserts that the “obvious
+
+candidate for that crime was the strangulation,” in which “[t]he knife played no part.”
+
+We reject both Gilbert’s framing of the issue and his conclusion.
+
+       “We review the sufficiency of the evidence to support an enhancement using the
+
+same standard we apply to a conviction.” (People v. Wilson (2008) 44 Cal.4th 758, 806.)
+
+We examine “the entire record in the light most favorable to the judgment to determine
+
+whether it contains substantial evidence—that is, evidence that is reasonable, credible,
+
+and of solid value—from which a reasonable trier of fact could find [the allegation true]
+
+
+
+                                              6
+beyond a reasonable doubt.” (People v. Lindberg (2008) 45 Cal.4th 1, 27 (Lindberg).) In
+
+so doing, we “presume in support of the judgment the existence of every fact the jury
+
+could reasonably have deduced from the evidence.” (People v. Zamudio (2008) 43
+
+Cal.4th 327, 357.) We affirm the jury’s finding “‘unless it appears “that upon no
+
+hypothesis whatever is there sufficient substantial evidence to support”’ the jury’s
+
+verdict.” (Ibid.)
+
+       Regarding the attempted murder charge, the prosecution advanced two alternative
+
+hypotheses regarding the underlying conduct. In closing argument, the prosecutor invited
+
+the jury to find Gilbert guilty either because of “the strangulation” or “the totality of the
+
+injuries, the strangulation, the stabbing, the slicing, the puncturing with that box cutter,
+                                                     4
+the bruises, she was beat so badly, and the burns.” The jury’s verdict, finding Gilbert
+
+guilty of attempted murder and finding true the allegation that he used a knife in
+
+committing that offense, is entirely consistent with the second hypothesis.
+
+       Moreover, the evidence amply, if only circumstantially, supports that second
+
+hypothesis, that is, that Gilbert specifically intended to torture Doe to death. He held her
+
+captive for hours, inflicting a variety of injuries, which a medical professional opined
+
+could have been fatal. He did not inflict even more injuries only because she escaped
+
+from the house and he failed to recapture her thanks to the assistance she received from
+
+neighbors. Doe inferred from Gilbert’s actions that he intended to kill her, and she told
+
+
+
+       4
+      The jury was properly instructed on unanimity using the pattern instruction
+CALCRIM No. 3500.
+
+                                              7
+the neighbors as much. The jury made the same inference. In our view, that inference
+
+was perfectly reasonable.
+
+       Further, once it is inferred that Gilbert’s intent in committing the torture was not
+
+only to inflict pain, but also to cause Doe’s death, it follows that any particular act of
+
+torture—including Gilbert’s use of the box cutter to stab or cut Doe—is also part and
+
+parcel of the attempted murder. It is simply irrelevant that any particular injury Doe
+
+suffered would not likely be fatal on its own. “Attempted murder requires the specific
+
+intent to kill and the commission of a direct but ineffectual act toward accomplishing the
+
+intended killing.” (People v. Lee (2003) 31 Cal.4th 613, 623.) Thus, where the intended
+
+method of killing is the proverbial death by a thousand cuts, the crime of attempted
+
+murder is complete when the first cut, no matter how deep, is inflicted. And where, as
+
+here, a knife is used in doing so, the predicates for a section 12022, subdivision (b)(1)
+
+enhancement are also completed.
+
+       We conclude that the jury’s true finding on the weapons enhancement of count 2
+
+was supported by substantial evidence.
+
+C. Response to Jury Question
+
+       Gilbert argues that the court gave an incomplete response to a jury question
+
+regarding provocation as an element of the lesser included offense of voluntary
+
+manslaughter. He asserts that the incomplete response, particularly in the context of
+
+misleading argument on the issue by the prosecution, constitutes prejudicial error and
+
+requires reversal. We are not persuaded.
+
+
+
+                                               8
+       1. Additional Background
+
+       During deliberations, the jury sent out a written question about the provocation
+
+element of attempted voluntary manslaughter, a lesser included offense of attempted
+
+murder on which it was instructed using CALCRIM No. 603. The elements of attempted
+
+voluntary manslaughter were stated in the instruction as follows: “The defendant
+
+attempted to kill someone because of a sudden quarrel or in the heat of passion if: [¶] 1.
+
+The defendant took at least one direct but ineffective step toward killing a person;[¶] 2.
+
+The defendant intended to kill that person; [¶] 3. The defendant attempted the killing
+
+because he was provoked;[¶] 4. The provocation would have caused a person of average
+
+disposition to act rashly and without due deliberation, that is, from passion rather than
+
+from judgment;[¶] AND [¶] The attempted killing was a rash act done under the
+
+influence of intense emotion that obscured the defendant’s reasoning or judgment.”
+
+       The jury’s question about those elements was: “Question: Based on [...] point 3 of
+
+section 603, Attempted Voluntary Manslaughter--[¶] 1) ‘Provoked’—is this term based
+
+on being ‘provoked’ by an outside person, entity, etc.[¶] 2) Can a person ‘self-provoke’?
+
+Does this qualify as being ‘provoked’ if it was made up in their own mind?”
+
+       The prosecution and the defense agreed with the court’s “inclination” that the
+
+appropriate response was to refer the jury back to its instructions. The court did so in
+
+writing, drawing the jury’s attention to several specific paragraphs, but without adding
+
+any further elaboration: “Ques 1 + 2: please see CalCrim 603, paragraphs 2, 3, and 4.”
+
+
+
+
+                                             9
+       The court’s response was perhaps ambiguous, as the jury’s version of CALCRIM
+
+603 was not numbered by paragraph. Apparently, however, the court referred to the
+
+second, third, and fourth paragraphs of explanation following and on the same page as the
+
+elements of the offense, which are the three paragraphs dealing with provocation. Those
+
+paragraphs are: “In order for a sudden quarrel or heat of passion to reduce an attempted
+
+murder to attempted voluntary manslaughter, the defendant must have acted under the
+
+direct and immediate influence of provocation as I have defined it. While no specific
+
+type of provocation is required, slight or remote provocation is not sufficient. Sufficient
+
+provocation may occur over a short or long period of time.[¶] It is not enough that the
+
+defendant simply was provoked. The defendant is not allowed to set up his own standard
+
+of conduct. You must decide whether the defendant was provoked and whether the
+
+provocation was sufficient. In deciding whether the provocation was sufficient, consider
+
+whether a person of average disposition, in the same situation and knowing the same
+
+facts, would have reacted from passion rather than judgment.[¶] If enough time passed
+
+between the provocation and the attempted killing for a person of average disposition to
+
+‘cool off’ and regain his or her clear reasoning and judgment, then the attempted murder
+
+is not reduced to attempted voluntary manslaughter on this basis.”
+
+       In closing arguments, the prosecution recited the elements of voluntary
+
+manslaughter, and then addressed the issue of provocation as follows: “They gave us the
+
+same example almost all throughout law school to show—to describe voluntary
+
+manslaughter. A man comes home early from a business trip, goes into his bedroom,
+
+
+
+                                             10
+finds his wife in bed with his best friend. He is just so enraged, just so caught up in this
+
+emotion of seeing his beloved wife in bed with his best friend that he runs to his bedside
+
+table and grabs his gun and shoots them both with his gun. His reasoning was obscured,
+
+his judgment was obscured by that intense emotion that overtook his body. He was
+
+provoked by what he saw.[¶] So ask yourselves was the defendant provoked. CALCRIM
+
+603 describes what is sufficient for provocation. Slight or remote provocation is not
+
+sufficient. It is not enough that the defendant was simply provoked. He’s not allowed to
+
+set up his own standard of conduct. In deciding whether the provocation, if you believe
+
+there is one, was sufficient, consider whether a person of average disposition in the same
+
+situation and knowing the same facts would have reacted from passion rather than
+
+judgment.[¶] Ladies and gentlemen, there is no evidence of provocation in this case. The
+
+defendant may have thought he was provoked, right. He was mad. He was so convinced
+
+that [Doe] was cheating on him. That is not sufficient provocation. Just because he
+
+thinks he was provoked does not mean that is the standard that the law allows. He’s not
+
+allowed to set up his own standard of conduct. The evidence we have heard proves that
+
+defendant did not commit attempted voluntary manslaughter. What he did was commit
+
+attempted murder.”
+
+       2. Analysis
+
+       “Generally, a party may not complain on appeal that an instruction correct in law
+
+and responsive to the evidence was too general or incomplete unless the party has
+
+requested appropriate clarifying or amplifying language.” (People v. Andrews (1989) 49
+
+
+
+                                             11
+Cal.3d 200, 218.) Gilbert did not make any such request in the trial court, instead
+
+agreeing with the court’s approach of simply referring the jury to its instructions, with
+
+reference to the paragraphs explaining the concept of provocation. At least arguably,
+
+therefore, Gilbert has forfeited his claim of instructional error.
+
+       There is an exception to the forfeiture rule, however, where the claimed
+
+instructional error “affected the substantial rights of the defendant, i.e., resulted in a
+
+miscarriage of justice, making it reasonably probable the defendant would have obtained
+
+a more favorable result in the absence of the error.” (People v. Andersen (1994) 26
+
+Cal.App.4th 1241, 1249.) Determining whether this exception applies “necessarily
+
+requires an examination of the merits of the claim—at least to the extent of ascertaining
+
+whether the asserted error would result in prejudice if error it was.” (Ibid.) Moreover,
+
+we have the discretion to address a forfeited claim of instructional error on its merits to
+
+“forestall a petition for writ of habeas corpus based on a claim of ineffectual counsel.”
+
+(People v. Williams (2000) 78 Cal.App.4th 1118, 1126.) We find it most expedient,
+
+therefore, to address the issue on the merits.
+
+       Gilbert contends that the trial court, in response to the jury’s question, should have
+
+clarified that if Gilbert “reasonably believed that Doe had cheated on him, whether true
+
+or not, it could be grounds for provocation.” He asserts that the lack of such a clarifying
+
+instruction, particularly when coupled with prosecution arguments, “left the jury with the
+
+belief that appellant could not have been provoked unless he was factually ‘correct’ that
+
+Doe cheated on him.” Not so.
+
+
+
+                                               12
+       We review a claim of instructional error de novo. (People v. Posey (2004) 32
+
+Cal.4th 193, 218.) “‘The relevant inquiry [when instructional error is claimed] is
+
+whether, “in the context of the instructions as a whole and the trial record, there is a
+
+reasonable likelihood that the jury was misled to defendant’s prejudice.” [Citation.]
+
+Also, “‘“we must assume that jurors are intelligent persons and capable of understanding
+
+and correlating all jury instructions which are given.”’”’” (People v. O’Malley (2016) 62
+
+Cal.4th 944, 991.)
+
+       In our view, the response Gilbert argues the court should have given would not
+
+have been responsive to the question that the jury posed. The jury did not ask whether it
+
+mattered whether Gilbert’s belief in Doe’s infidelity was accurate or inaccurate. Rather,
+
+it was grappling with how to distinguish legally adequate provocation from extreme, but
+
+unprovoked emotion. In other words, the jury requested clarification regarding whether
+
+there had to be evidence that Gilbert was confronted somehow with external, objective
+
+indications of Doe’s infidelity (no matter whether mistakenly perceived or actual). Or,
+
+was it enough if there was only evidence of extreme emotion triggered by factors “made
+
+up in [Gilbert’s] own mind,” and unprovoked by any objective factors (“an outside
+
+person [or] entity”)? The trial court properly directed the jury to the portion of its
+
+instructions describing the objective aspects of the standard. This includes the principle,
+
+directly responsive to the jury’s question, that it is not enough that Gilbert’s own
+
+emotions were aroused to the point that he acted out of passion, since he “is not allowed
+
+to set up his own standard of conduct.” Rather, the jury’s job is to decide “whether a
+
+
+
+                                              13
+person of average disposition, in the same situation and knowing the same facts, would
+
+have reacted from passion rather than judgment.” This portion of its instructions is
+
+entirely consistent with the “venerable understanding” that “[p]rovocation is adequate
+
+only when it would render an ordinary person of average disposition ‘liable to act rashly
+
+or without due deliberation and reflection, and from this passion rather than from
+
+judgment.’” (People v. Beltran (2013) 56 Cal.4th 935, 957.)
+
+      We also do not construe the prosecution’s argument regarding provocation in the
+
+manner Gilbert proposes. Taken in context, the prosecution’s comments on provocation
+
+focused on what it viewed as a complete lack of any evidence of facts or circumstances
+
+relating to Doe’s infidelity (real or imagined) that would have provoked a reasonable
+
+person. (Cf., e.g., People v. Berry (1976) 18 Cal.3d 509, 514 [victim “continually
+
+provoked” the defendant over a period of weeks, including by “repeated references to her
+
+involvement with another man”].) We find nothing inappropriate or misleading about
+
+such an argument.
+
+      We conclude there is no reasonable likelihood that the jury’s instructions on
+
+provocation, whether taken alone or read in conjunction with the prosecution’s argument,
+
+were misunderstood in the manner Gilbert suggests. Because we find no instructional
+
+error, we need not and do not address the parties’ arguments regarding prejudice.
+
+D. Assembly Bill 518
+
+      Under the law in effect at the time of Gilbert’s sentencing, a defendant who
+
+committed an act punishable by different laws had to be punished under the law that
+
+
+
+                                            14
+provided for the longest possible term of imprisonment. (Former § 654, subd. (a).)
+
+Effective January 1, 2022, Assembly Bill 518 amended section 654 to allow the trial
+
+court the discretion to choose to punish the defendant under any of the applicable laws.
+
+(§ 654, subd. (a); see Stats. 2021, ch. 441, § 1.) The People concede, and we agree, that
+
+Gilbert is entitled to the benefit of this ameliorative change in the law, since his case is
+
+not yet final. (See People v. Superior Court (Lara) (2018) 4 Cal.5th 299, 307-308
+
+[discussing In re Estrada (1965) 63 Cal.2d 740].) The matter must therefore be
+
+remanded for resentencing so that the trial court can consider how to exercise its new
+
+sentencing discretion.
+
+E. Abstract of Judgment
+
+       Gilbert’s abstract of judgment states that he was convicted of “1st Attempted
+
+Murder.” The People did allege that Gilbert attempted to commit a murder that was
+
+“willful, deliberate, and premeditated,” triggering the heightened punishment for such
+                                                         5
+attempted murders under section 664, subdivision (a). The trial court, however, granted
+
+       5
+          Section 664, subdivision (a) provides: “[I]f the crime attempted is willful,
+deliberate, and premeditated murder, as defined in Section 189, the person guilty of that
+attempt shall be punished by imprisonment in the state prison for life with the possibility
+of parole.” Occasionally, even our Supreme Court has referred to attempts falling within
+this provision as “first degree attempted murder.” (People v. Mitchell (2019) 7 Cal.5th
+561, 564.) Strictly speaking, however, “[a]ttempted murder is not divided into different
+degrees.” (People v. Favor (2012) 54 Cal.4th 868, 876.) Rather, this clause of section
+664, subdivision (a) “‘constitutes a penalty provision that prescribes an increase in
+punishment (a greater base term) for the offense of attempted murder.’” (People v.
+Favor, supra, at p. 877, quoting People v. Bright (1996) 12 Cal.4th 652, 665-667,
+disapproved on another ground in People v. Seel (2004) 34 Cal.4th 535, 550, fn. 6.)
+Gilbert was convicted and sentenced under a different clause of section 664, subdivision
+(a), providing that “[i]f the crime attempted is any other one in which the maximum
+                                                                   [footnote continued on next page]
+
+
+                                              15
+a defense motion to dismiss the premeditation and deliberation allegation, and the jury
+
+was not asked to consider whether defendant acted with a heightened mental state. Thus,
+
+a more accurate description of Gilbert’s conviction offense for count 2 would be simply
+
+“Attempted Murder.” When Gilbert is resentenced, the trial court should ensure that the
+
+new abstract of judgment accurately reflects Gilbert’s conviction offenses.
+
+                                    III. DISPOSITION
+
+       Gilbert’s sentence is vacated, and the matter is remanded to the trial court with
+
+directions to resentence Gilbert, including by reconsidering which punishments should be
+
+stayed under section 654 as amended by Assembly Bill 518. The clerk of the court shall
+
+then prepare an amended abstract of judgment that corrects the description of Gilbert’s
+
+conviction offenses and reflects his new sentence. The clerk of the court shall then send
+
+a certified copy of the amended abstract of judgment to the Department of Corrections
+
+and Rehabilitation. The judgment is affirmed in all other respects.
+
+       NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+
+                                                                RAPHAEL
+                                                                                            J.
+
+We concur:
+
+RAMIREZ
+                        P. J.
+
+MENETREZ
+                           J.
+
+sentence is life imprisonment or death, the person guilty of the attempt shall be punished
+by imprisonment in the state prison for five, seven, or nine years.”
+
+                                            16

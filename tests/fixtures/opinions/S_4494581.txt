@@ -1,0 +1,1578 @@
+cl_opinion_id: 4494581
+cluster: 4714804
+docket: S143531
+date: 2020-01-23
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Leon
+----
+IN THE SUPREME COURT OF
+                CALIFORNIA
+
+                        THE PEOPLE,
+                   Plaintiff and Respondent,
+                               v.
+                      JOSE LUIS LEON,
+                   Defendant and Appellant.
+
+                            S143531
+
+               Riverside County Superior Court
+                          RIF109916
+
+
+
+                       January 23, 2020
+
+Justice Corrigan authored the opinion of the Court, in which
+Chief Justice Cantil-Sakuaye and Justices Chin, Liu, Cuéllar,
+Kruger, and Groban concurred.
+
+Justice Cuéllar filed a concurring opinion.
+                       PEOPLE v. LEON
+                            S143531
+
+
+              Opinion of the Court by Corrigan, J.
+
+
+       While his estranged girlfriend was studying abroad,
+defendant Jose Luis Leon went to her home and fatally stabbed
+her grandmother and 13-year-old brother. He also attacked her
+grandfather with a hatchet. Although admitting the crimes, he
+claimed he acted in imperfect self-defense. He was convicted of
+two counts of murder and one count of attempted murder, with
+a multiple-murder special circumstance and enhancements for
+personal use of a deadly weapon and infliction of great bodily
+injury.1 The jury fixed the penalty at death for one murder and
+life imprisonment without the possibility of parole for the other.
+The court imposed an additional sentence of life without
+possibility of parole plus four years for the attempted murder.
+We affirm the judgment.
+                       I. BACKGROUND
+     A. Guilt Phase
+         1. Defendant’s Relationship with the Ragland Family
+      Veronica Haft and her younger brother, Austin Perez,
+lived with their grandparents, Hope and Marion Ragland. Hope
+
+
+
+1
+     Penal Code sections 187, subdivision (a), 664/187,
+subdivision (a),      190.2,       subdivision (a)(3),    12022,
+subdivision (b)(1), 12022.7, subdivision (a), and 1192.7,
+subdivision (c)(8) & (c)(23). All statutory references are to the
+Penal Code unless otherwise stated.
+
+
+                                1
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+was a nurse, and Marion was retired.2 They had raised Veronica
+since childhood. Austin came to live with them around age
+seven. Veronica was particularly close to Hope, whom she called
+“my best friend.”
+      Veronica began dating defendant when she was 16. He
+said he was 19 but was actually 21. He had moved to the country
+from Mexico two years earlier and spoke only limited English.
+Veronica and her grandmother were fluent in Spanish.
+Veronica’s brother and grandfather did not know Spanish and
+spoke with defendant in English.
+      The first year of their relationship was happy. Defendant
+spent time at the Ragland home and was included in their
+family activities. Hope initially welcomed defendant’s presence,
+cooking for him and joining the couple on outings. A few months
+into the relationship, Hope purchased a red Ford Mustang for
+defendant, who agreed to make monthly payments to her. He
+kept up with the payments initially but later began missing
+them.
+      After defendant’s parents moved back to Mexico, he rented
+an apartment from a woman Hope visited for tarot card
+readings.    Defendant believed the two were involved in
+witchcraft. Around this time, defendant stopped working. He
+spent his days at the Ragland house and became increasingly
+possessive and jealous. Near the end of her senior year,
+Veronica suggested breaking up. Defendant responded by
+angrily punching his windshield and grabbing Veronica’s wrist
+as she tried to leave the car.
+
+
+2
+      To avoid potential confusion, we refer to family members
+by their first names.
+
+                                  2
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+      Hope argued with defendant frequently and warned
+Veronica that the relationship seemed abusive. Once, the family
+came out of church to find defendant waiting by their car. When
+Hope asked why defendant could not leave them alone, he
+insulted her in Spanish. Hope tried to slap him but missed.
+Defendant then ran around the parking lot laughing while Hope
+chased him.
+      Veronica attended the University of California, Riverside
+and secured a full scholarship to spend the spring term studying
+at Oxford. When told, defendant begged her not to go. This
+angered Hope, who told defendant to stop ruining Veronica’s
+life. During the argument, Hope followed the couple outside
+and, at one point, moved as if to pick up a brick from the
+walkway. Veronica told Austin to call the police. Hope did not
+pick up the brick, and no one was injured.
+      Veronica went to England in mid-February 2003.
+Although she tried to end the relationship before leaving,
+defendant called her often. When he began calling 20 to 25
+times a day, she turned off her phone. Defendant called on April
+29, begging her to return to him. She spent more than two hours
+explaining the relationship was over. Defendant blamed Hope,
+but Veronica assured him the decision was hers. By the end of
+the conversation, defendant’s tone had changed, and Veronica
+thought he had finally accepted the situation. Two days later,
+on May 1, Veronica answered a final call from defendant, who
+said, “No matter what happens . . . I’ll always love you.”
+Irritated, Veronica hung up. The attacks happened that night.
+         2. Testimony Regarding the Night of the Murders
+     The Raglands lived in a gated community near a small
+shopping center.  Two video store employees who knew
+
+                                  3
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+defendant saw him shortly before 6:00 p.m. on May 1, 2003.
+Monique Perez saw him driving a red Mustang slowly around
+the parking lot. Not long thereafter, he walked toward the
+Raglands’ house. Yvette Alvarez also saw him sometime after
+sundown, walking back at a faster pace.
+      Consistent with his usual routine, Marion left home
+around 6:20 p.m. to walk the family dog. Austin was at his
+friend Osvaldo Magdaleno’s house, directly across the street. At
+some point, Magdaleno noticed defendant standing outside the
+community’s gate. Pedestrian entrances to the property were
+kept locked, but defendant walked inside when a resident
+opened the gate to drive out. While playing outside, Magdaleno
+saw defendant inside the Ragland house, looking out the
+window. Austin went home but could not open the front door.
+No one answered his knock, so he jumped the back fence.
+       Marion returned home around 8:15 p.m., finding it odd
+that both the security screen and front door were locked. The
+moment he stepped inside, he was hit in the head. The noise of
+the impact was so loud Marion thought he had been shot.
+Fearing he had interrupted a robbery, he backed out and went
+to the shopping center for help. He managed to enter the video
+store with his head bleeding and asked the employees to check
+on his wife. Alvarez called 911. Marion sustained a severe
+concussion and skull fracture. Seventeen staples were required
+to close the wound.
+      Crime scene investigators found two bodies in the house.
+Hope had been killed while sitting in a lounge chair, but her
+body was stuffed into a kitchen closet. She had been stabbed
+eight times in the throat, chest, and abdomen. The neck wound
+pierced her larynx and jugular vein. Her lungs, pulmonary
+
+                                  4
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+artery, and aorta were also perforated. Austin lay in the
+kitchen, facedown in a pool of blood. Blood spatter evidence
+indicated he had been stabbed near a door leading to the garage
+then dragged into the kitchen. He had been stabbed 12 times.
+The wounds severed the jugular vein and carotid artery and
+perforated the liver, stomach, and aorta.
+      The contents of Hope’s purse had been dumped on the
+floor, and “Austin is a bad student” was written on the living
+room mirror in Hope’s lipstick. The upstairs rooms had been
+ransacked. In the backyard, investigators found a hatchet and
+a knife with a bent and bloody blade. A ski mask and vinyl
+gloves were later found in defendant’s car, and his keys bore
+remnants of blood.
+         3. Defendant’s Police Interviews and Walkthrough
+      After the murders, defendant arrived on time for his 10:00
+p.m. shift at a local dairy. The police brought him to the station
+for questioning the next morning. He waived his Miranda
+rights3 and spoke with the police.
+       During the initial interview, defendant adamantly denied
+committing the killings or even entering the Ragland house. In
+his first version, he said he went to the house to give Hope a car
+insurance payment but left because Marion was home. Marion
+did not like him and did not want him there while Veronica was
+away. Defendant claimed he had dinner then returned around
+7:30 p.m. No one answered the door, so he sat on the porch but
+left when he saw Marion returning.
+      Questioned again the next morning, defendant said he
+was fearful and angry with Hope. He believed she put things in
+
+3
+     Miranda v. Arizona (1966) 384 U.S. 436 (Miranda).
+
+                                  5
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+his food and practiced witchcraft to ruin his relationship with
+Veronica. The day before the murders, Hope told defendant
+Veronica was having fun in England and would go many places
+without him after her return. Defendant became angry and
+emotional, as if “the devil got inside of me.”4 When he went to
+the house the next day, Hope taunted him with Veronica’s
+happiness at Oxford. Defendant said, “[T]hat pissed me off so
+much that we started to fight. . . . a lot. She pulled out a knife
+. . ., but she didn’t do anything to me.” Hope tried to call the
+police, but he took the phone away. Defendant explained, “Then
+I remembered all the bad that she was doing to me, and I saw
+her with a look on her face that wasn’t hers. Like with the look
+of a witch. [¶] And it scared me so much. And in a moment of
+desperation and everything we started to fight. And that was
+when I grabbed the knife that was there. [¶] And I started
+stabbing, and stabbing her. And then her son came in with a
+skateboard and he threw the skateboard at me and we also
+started to fight. . . . and I started to feel that everything got
+dark.” He put Hope’s body in a closet afterward because he was
+afraid of her, and he ransacked the house because he was
+looking for Veronica’s new phone number. When Marion
+arrived, defendant hit him and fled.
+      Shortly after this interview, defendant provided
+additional details during a videotaped walkthrough at the crime
+scene. He and Hope argued. She stood and tried to slap him,
+but he grabbed her and took her phone. Hope retreated but
+came back at him holding a knife. They fell to the floor fighting.
+
+
+4
+      Defendant spoke Spanish in the interviews.           All
+quotations attributed to him are to the English translation in
+the clerk’s transcript.
+
+                                  6
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+Hope threatened to kill him, but he rolled on top of her and
+grabbed the knife. Hope threw him off, then lunged at him and
+impaled herself on the knife, afterward exclaiming, “What did
+you do to me?” Defendant “lost [his] mind” when he saw the
+blood and stabbed Hope repeatedly. When Austin came in,
+defendant dropped the knife. Seeing Hope, Austin yelled and
+tried to hit him with his skateboard. Defendant closed the
+sliding door so the neighbors would not hear the commotion. He
+took away the skateboard and tried to calm Austin, but the child
+ran toward the front door yelling for help. Defendant grabbed
+him and kicked the door shut. Austin struggled and tried to
+escape, so defendant stabbed him. Defendant said he sat crying
+for several minutes then looked for Veronica’s new phone
+number. His anger returned. He went back to Hope’s body and
+saw her lipstick on the floor. He stuffed her into a closet, then
+dragged Austin’s body across the floor and wrote the message in
+lipstick on the mirror. Worried that Marion would return soon,
+defendant took a hatchet and a crowbar from the garage and
+waited for him in the living room. When Marion opened the
+front door, defendant threw the hatchet at him and fled. He
+dropped the knife outside. Defendant claimed everything he did
+was in self-defense.
+     B. Penalty Phase
+         1. Prosecution Evidence
+      Veronica described Hope as happy, outgoing, and much
+loved by her friends and family. A nurse for 30 years, she cared
+greatly about her patients and was respected by her coworkers.
+She attended church every Sunday and gave Veronica a
+religious upbringing.
+
+
+
+                                  7
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+      Veronica considered Hope her mother and “best friend.”
+The two frequently did things together and expressed their love
+for each other. Hope encouraged Veronica to work hard in school
+and take advantage of opportunities she never had. When
+Veronica left for England, both became emotional because they
+were not used to being apart. Veronica was devastated to learn
+of the murders. She continued living with her grandfather, but
+their life was lonely, especially at holidays. She was no longer
+comfortable in the house, and they moved five months after the
+crimes. Veronica had difficulty with the loss and will always
+feel guilty for inviting defendant into their family.
+     Hope’s nephew remembered her generosity. She cooked
+breakfast and dinner for the household every day, even though
+she worked full time. Holidays were especially hard for the
+family now.
+      Veronica testified that Austin came to the Raglands from
+a foster home. His birth mother abused drugs and had lost
+custody of her four children. Austin initially knew Hope as
+“grandma,” but after a while began calling her “mom.” Hope
+took him to church regularly. Austin was polite, respectful, and
+very popular. After he died, fellow students planted a tree in his
+memory. Marion enjoyed spending time with Austin. They
+regularly walked the dog, played catch, and worked outside
+together. He missed having Austin and Hope in his life and now
+spent most of his time alone.
+         2. Defense Evidence
+       Defendant grew up in a town about three hours south of
+Mexico City. He lived with his parents and three younger sisters
+in a small house that, for many years, lacked indoor plumbing.
+All of his extended family lived on the same dirt road. One sister
+
+                                  8
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+testified the home was humble but filled with love. Defendant
+and his eldest sister took a university entrance examination
+together but were not accepted. Defendant dreamed of marriage
+and a family. He enjoyed rural life and wanted to work with
+animals.
+      Around age 12, defendant began working with a neighbor,
+curing hides to make leather jackets. He worked half days while
+in school, then later full time. He was trustworthy, responsible,
+and hard-working. At age 16, when he was finishing school,
+defendant worked weekends at a pig ranch. His manager
+trusted him to work alone and considered him a good worker.
+At 17, defendant began training with his uncle to become a truck
+driver. The uncle thought defendant unusually naïve due to his
+strict and isolated upbringing. Defendant typically gave the
+money he earned to his mother.
+      Defendant’s father once came to the United States but
+soon left because he missed the family. The father later
+returned to America, and defendant accompanied his mother to
+join him. They traveled 15 days and made four unsuccessful
+attempts before finally crossing the border at Sonora in 2000.
+Defendant never returned to Mexico. His mother and sisters
+missed him and hoped he would not be executed.
+      Defendant’s girlfriend from Mexico testified that they
+began dating as teenagers. He often ate with her family and
+helped with chores. Her parents liked him and treated him like
+a son. The girlfriend’s parents testified that they trusted
+defendant and believed he would have made a good husband.
+The couple loved each other and often talked of marriage and
+children. Defendant left for America during the girlfriend’s first
+year at university. While parting was difficult, defendant felt
+
+                                  9
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+he had to go to protect his mother. Initially, the couple spoke
+frequently by phone, but the relationship faded and defendant
+said he had met someone else.
+       A deputy sheriff who worked for two years at defendant’s
+jail testified that he never had to report defendant for rules
+violations.    Defendant took adult education courses and
+correspondence courses in religion. A correctional consultant
+interviewed defendant and reviewed his county jail history,
+finding no indication of future dangerousness. The consultant
+believed defendant could be institutionalized and avoid future
+problems. Once, when another inmate tried to intimidate him,
+defendant struck the man in the jaw, a response the witness
+considered appropriate under the circumstances. Afterward,
+the two interacted without further animus. Unlike most
+inmates facing capital charges, defendant had successfully
+shared living quarters with at least 15 others. The witness was
+confident that, if given a life sentence, defendant could be
+successfully housed in a level 4 prison. Defendant had no prior
+criminal record in Mexico or the United States.
+                        II. DISCUSSION
+     A. Guilt Phase Issues
+         1. Admissibility of Defendant’s Confessions
+      Defendant contends the court erred in admitting his
+confessions, both because he did not knowingly and intelligently
+waive his Miranda rights and because he was denied his right
+to consular notification under the Vienna Convention on
+
+
+
+
+                                 10
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+Consular Relations, April 24, 1963, 21 U.S.T. 77 (Vienna
+Convention).5 The statements were properly admitted.
+            a. Background
+       Before trial, defendant moved to suppress his statements.
+The court reviewed a videotape and transcript of defendant’s
+first interview and heard testimony from an interrogating
+officer and a clinical psychologist.
+       Defendant was initially interviewed on May 2, 2003 at the
+Corona Police Department by Detective Ron Anderson and
+Corporal John Rasso. Rasso is a native Spanish speaker and
+certified as a bilingual officer. Rasso brought defendant water
+at the start of the interview. Before any mention was made of
+the murder, Rasso read defendant his Miranda rights in
+Spanish from a preprinted form. When admonishing in
+Spanish, Rasso takes care that the subject understands what is
+said. There are multiple Spanish dialects, and words in one may
+have a different meaning in others. Rasso “made sure”
+defendant would understand the dialect he chose. It appeared
+defendant understood Rasso, and Rasso was able to understand
+him. Rasso asked if defendant understood each right and
+defendant confirmed that he did. Defendant initially responded
+“uhm-hm,” but Rasso asked him to clarify “yes or no.”
+Defendant answered “yes” then, after a pause asked, “[D]oes my
+girlfriend already know” about the murders? Focusing on the
+Miranda issue rather than a discussion of the facts, Rasso
+
+
+
+5
+      Defendant contends admission of the statements violated
+his rights under the Fifth, Sixth, Eighth, and Fourteenth
+Amendments, analogous state constitutional provisions, and the
+Vienna Convention.
+
+                                 11
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+responded, “[Y]ou have these rights with you. Do you want to
+talk about what happened last night or what?”
+      When defendant replied in the affirmative, Rasso gave
+him the form, which lists the rights in both Spanish and English
+and asks whether, with those rights in mind, the subject wishes
+to speak with police. Rasso crossed out the English portion of
+the form to indicate that the rights were given in Spanish.
+Rasso recorded defendant’s Spanish replies that he both
+understood his rights and he wished to speak with officers.
+Defendant, Rasso, and Anderson all signed the form.
+      Defendant denied the murders and insisted he had not
+even gone into the house. The next day he was interviewed a
+second time, then walked through the crime scene with
+investigators. Before the interview, Rasso told defendant,
+“[Y]ou always have the right to, not, not talk to us. To not tell
+us anything, and . . . that way yesterday, . . . where I read you
+those rights.” Defendant responded affirmatively. Rasso asked
+again, “[Y]ou understand that?” Defendant nodded. During
+that second interview, defendant confessed. In the subsequent
+walkthrough, Rasso reminded defendant of the rights he had
+read to him and said, “[Y]ou have [those rights] with you right
+now.” He asked defendant to tell him if he wanted to exercise
+his rights.
+       Defense expert Dr. Francisco Gomez tested defendant to
+assess his ability to understand the Miranda advisements.
+Defendant consistently performed in the borderline range on
+intelligence tests, indicating low intellectual functioning. He
+reported failing sixth grade, which was consistent with “mild
+
+
+
+
+                                 12
+                          PEOPLE v. LEON
+                  Opinion of the Court by Corrigan, J.
+
+
+retardation” or borderline intelligence.6 Gomez administered
+screening tests for intelligence. He did not go on to assert
+whether defendant was intellectually disabled. He was not
+asked, nor did he give, a specific IQ score for defendant.
+      Defendant read, in Spanish, at a third to fifth grade level.
+In Gomez’s view, understanding the Miranda warnings requires
+at least seventh grade level reading comprehension. Defendant
+was depressed, with low self-esteem and a “dependent”
+personality. He was passive, anxious, and agreeable, “a
+follower” who might “be easily manipulated.” Gomez detected
+no symptoms of any thought disorder.
+      Although defendant had been in the United States for
+some time, his acculturation was very low. He had been
+sheltered for most of his life, living with family and securing jobs
+through friends. Because he grew up in a small town and had
+never been in trouble, defendant’s knowledge of the legal system
+came mainly from Mexican soap operas. He had the distorted
+view that American police are very aggressive. For example, he
+once interrupted the officers to ask, “ ‘Are they gonna kill me
+today, or are they gonna kill me tomorrow?’ ”
+      Gomez acknowledged that defendant was initially read
+the full Miranda warnings from a form, “which is the standard
+way of doing it.” He was reminded of the rights twice on the
+second day of questioning.     In addition, Corporal Rasso
+
+
+6
+       The witness used the terms “mildly retarded” and “mild
+retardation.” In accordance with current law and usage, this
+court now uses the phrase “intellectually disabled” except when
+quoting or characterizing a source that uses older terms. (See,
+e.g., People v. Boyce (2014) 59 Cal.4th 672, 717, fn. 24 (Boyce);
+see also Stats. 2012, ch. 448.)
+
+                                  13
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+explained to defendant that the prosecutor who was with them
+in the crime scene walkthrough was not his lawyer but was “the
+attorney for . . . the law.” Defendant was told he would be given
+his own attorney when he went to court. The third time
+defendant was given the Miranda warnings, later in the
+walkthrough, he agreed he would tell Rasso if he wanted to
+invoke his rights, then added, “[W]ell anyway when I go to court
+my attorney is going to be there right?” To Gomez, this response
+implied defendant did not understand his rights. Gomez opined
+that defendant lacked the intellectual ability to understand the
+Miranda warnings as they were read to him. He only said he
+understood because his passive nature inclined him to agree
+with authority figures.
+      On cross-examination, Gomez acknowledged that
+defendant lied to police almost immediately after he agreed to
+talk to them. The doctor was aware that there was writing in
+English on “a window” at the crime scene. Gomez did not read
+the statement but agreed that if it said, “Austin is a bad
+student,” the statement would be grammatically correct. Gomez
+was unaware that defendant was able to consult want ads, find
+two different apartments, or move in and pay rent. He admitted
+defendant “concocted a story.” He was unaware that after the
+murders defendant went to the dairy and worked a normal shift.
+During the first interview, when told the family had been killed,
+defendant appeared to cry and denied involvement. Gomez
+agreed that was a lie. Gomez asserted he was providing an
+opinion based on “the best information available,” but he
+admitted he did not read the police reports, interview
+defendant’s coworkers, or do further evaluation for IQ testing.
+     The court denied the suppression motion. Referring to
+defendant’s demeanor in the videotaped interview, the court
+                                 14
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+observed, “[T]here is not even a scintilla of evidence to suggest
+that he did not understand the rights that were read to him. He
+immediately responded in the affirmative, either through a nod
+or audible answer, that he understood them, that he was willing
+to waive them and talk to the officers.”             Defendant’s
+understanding could also be inferred from the lies he told after
+waiving his rights. The court noted, “Clearly, he knew he was
+in trouble and he needed to come up with some sort of
+explanation regarding the conduct he was being accused of, and
+he set forth a story denying even being present.” Defendant
+spoke clearly and without hesitation. He did not ask for
+questions to be repeated. Furthermore, there was no evidence
+the police induced his statements through any threats or
+promises of reward. The court concluded it was “abundantly
+clear” that defendant understood his rights and voluntarily and
+intelligently waived them. The court acknowledged that the
+preponderance of evidence standard applied but noted, “in fact,
+if the standard were even higher, it would be beyond a
+reasonable doubt that he understood his rights and voluntarily
+and intelligently waived them.”
+             b. Validity of the Miranda Waiver
+       “To safeguard a suspect’s Fifth Amendment privilege
+against self-incrimination from the ‘inherently compelling
+pressures’ of custodial interrogation (Miranda, supra, 384 U.S.
+at p. 467), the high court adopted a set of prophylactic measures
+requiring law enforcement officers to advise an accused of his
+right to remain silent and to have counsel present prior to any
+custodial interrogation (id. at pp. 444-445).” (People v. Jackson
+(2016) 1 Cal.5th 269, 338-339.) A suspect who has heard and
+understood these rights may waive them. (Maryland v. Shatzer
+(2010) 559 U.S. 98, 104; People v. Tate (2010) 49 Cal.4th 635,
+                                 15
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+683.) “[T]he prosecution bears the burden of establishing by a
+preponderance of the evidence that the waiver was knowing,
+intelligent, and voluntary under the totality of the
+circumstances of the interrogation.” (People v. Linton (2013) 56
+Cal.4th 1146, 1171; see Moran v. Burbine (1986) 475 U.S. 412,
+421; People v. Williams (2010) 49 Cal.4th 405, 425.) This
+analysis requires an evaluation of both the defendant’s state of
+mind and circumstances surrounding the questioning. (People
+v. Nelson (2012) 53 Cal.4th 367, 375; see Fare v. Michael C.
+(1979) 442 U.S. 707, 725.) On appeal, we accept the trial court’s
+factual findings and credibility assessments if supported by
+substantial evidence. (People v. Case (2018) 5 Cal.5th 1, 20;
+People v. Duff (2014) 58 Cal.4th 527, 551; People v. Dykes (2009)
+46 Cal.4th 731, 751.) “ ‘ “ ‘We independently determine from the
+undisputed facts and the facts properly found by the trial court
+whether the challenged statement was illegally obtained.’ ” ’
+[Citations.] Where, as was the case here, an interview is
+recorded, the facts surrounding the admission or confession are
+undisputed and we may apply independent review.” (Duff, at
+p. 551.)
+      Defendant cites several circumstances to show he did not
+knowingly and intelligently waive his Miranda rights. He
+argues he was distressed and inattentive during the
+advisements, merely affirming his understanding and agreeing
+to talk out of a need to please authority figures. The
+advisements were read to him all at once, rather than
+individually, which defendant suggests gave him less time to
+consider their significance. Defendant similarly contends his
+signing of the waiver form was perfunctory. He looked at the
+form only briefly and signed without reading. Separately,
+relying on Gomez’s testimony, defendant argues he lacked the
+
+                                 16
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+cognitive ability, acculturation, or criminal justice experience to
+make a knowing and intelligent waiver. To the contrary, ample
+evidence supports the trial court’s conclusion that defendant
+understood the Miranda rights and validly waived them.
+       Defendant waived his rights at the beginning of the first
+interview, before any questions were asked about the incident.
+The videotape indicates that Rasso read the Miranda rights
+slowly. He paused periodically and looked up. Defendant
+nodded throughout this recitation and immediately responded
+in the affirmative when asked if he understood “all of these
+rights” as read to him. He also immediately and unequivocally
+agreed to “talk about what happened last night” and signed the
+Miranda waiver form without hesitation. In his responses and
+demeanor, defendant exhibited no reluctance to speak with the
+police. There is no suggestion, and no allegation, that the
+officers used coercive interrogation tactics or made improper
+promises. There is substantial evidence of voluntariness. (See
+People v. Whitson (1998) 17 Cal.4th 229, 248-249; Colorado v.
+Connelly (1986) 479 U.S. 157, 164.) Nor is there any allegation
+that defendant did not understand the language of the
+warnings. Rasso verbally advised defendant in Spanish, taking
+care to match defendant’s dialect, and used a waiver form
+printed in Spanish. (See People v. Cruz (2008) 44 Cal.4th 636,
+666, 668-669.) Defendant claims he was distressed and
+inattentive during the Miranda warnings because he reached
+for a tissue and answered that he understood his rights only as
+part of his question about whether Veronica was aware of the
+murders. However, the videotape reveals a more subdued
+reaction to news of the murders than defendant now depicts, and
+he was advised of his rights before officers shared any details
+about their investigation. Moreover, the tape reveals that
+
+                                 17
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+defendant’s affirmation of understanding was separate from his
+question about his girlfriend. Defendant first nodded and said,
+“mmhmm” when asked if he understood his rights. Prompted
+for a verbal answer, defendant immediately responded, “yes.”
+He did not ask about his girlfriend until approximately three
+seconds later, during the silence while Rasso was preparing the
+waiver form.
+      The trial court rejected defendant’s claim that he lacked
+the intellectual capacity and experience necessary to make a
+knowing and intelligent waiver. Our independent review of the
+videotape supports that conclusion. We have not decided that
+any particular intelligence or experience level is required to
+understand the Miranda warnings or to waive them. (See
+People v. Kelly (1990) 51 Cal.3d 931, 951.)          Moreover,
+defendant’s attempt to deceive the officers in his initial
+interview indicates attentiveness and an awareness of his
+circumstances. He was not so inattentive or distracted during
+the questioning that he could not formulate a false account of
+what happened.
+      Defendant’s reliance on federal appellate cases is also
+unavailing. The cases are not controlling precedent and are
+factually distinguishable. In Cooper v. Griffin (5th Cir. 1972)
+455 F.2d 1142, 1144-1145, the defendants were only 15 and 16
+years old and demonstrated considerable intellectual deficiency.
+They read at or below third grade level and had IQs ranging
+between 61 and 67, well into the “mentally retarded” range. (Id.
+at p. 1145.) Moreover, uncontroverted testimony from four of
+their special education teachers established that neither was
+capable of understanding the Miranda warnings, let alone the
+consequences of waiving their rights. (Id. at pp. 1145-1146.) In
+U.S. v. Garibay (9th Cir. 1998) 143 F.3d 534, 537-539, the
+                                 18
+                          PEOPLE v. LEON
+                  Opinion of the Court by Corrigan, J.
+
+
+defendant was interrogated in English even though his primary
+language was Spanish and he had difficulty understanding
+English. Even with this discrepancy, and the defendant’s
+borderline intellectual disability, the court suggested the claim
+would have been rejected if officers had obtained a written
+waiver. (Id. at p. 539, fn. 10.)
+       Apart from Gomez’s testimony, which the trial court was
+entitled to reject, the record reveals no basis to conclude
+defendant’s Miranda waiver was anything other than knowing,
+intelligent, and voluntary. Having been admonished in his own
+language, defendant, an adult, repeatedly affirmed both
+verbally and in writing his understanding of the Miranda rights
+and his desire to waive them. The trial court’s denial of the
+suppression motion is well supported.
+             c. Violation of Consular Rights
+       It is undisputed that the officers did not alert defendant to
+his right to have the Mexican consulate notified of his detention,
+as required by section 834c and the Vienna Convention. The
+court declined to suppress defendant’s statements as a remedy
+because it found no prejudice flowed from the omission. While
+a member of the consulate might have responded and advised
+defendant to remain silent, the court found in regard to the
+Miranda waiver that defendant understood his rights to counsel
+and silence. Nevertheless, defendant “couldn’t wait [to] get
+started talking about his lack of involvement in this. [¶] Yes,
+ultimately his story changed and he did admit criminal conduct,
+but he had no hesitation whatsoever, none, in talking to the
+police officers.”
+      “Article 36, paragraph 1(b), of the Vienna Convention
+provides that law enforcement officials ‘shall . . . inform’
+
+                                  19
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+arrested foreign nationals of their right to have their consulate
+notified of their arrest, and if a national so requests, inform the
+consular post that the national is under arrest.” (People v.
+Mendoza (2007) 42 Cal.4th 686, 709.) Article 36 generally
+requires that such an advisement be given “without delay.”
+(Vienna Convention, supra, art. 36, at p. 23 (Article 36); see
+§ 834c, subd. (b).) California implemented the Convention’s
+requirements in section 834c. (See Howell, A Proposal for U.S.
+Implementation of the Vienna Convention’s Consular
+Notification Requirement (2013) 60 UCLA L.Rev. 1324, 1366.)
+Our statute requires law enforcement to inform any “known or
+suspected foreign national” of the right to consular notification
+when the foreign national has been arrested, booked, or
+detained for more than two hours. (§ 834c, subd. (a)(1).)
+      Several minutes into his first interview, defendant told
+the police he was “an illegal Mexican” and did not “have papers
+here.” The officers therefore had reason to know he was a
+foreign national. Moreover, while it is unclear how long
+defendant had been detained when he declared his immigration
+status, he was in police custody for well over two hours before
+confessing to the murders.        Under these circumstances,
+section 834c and Article 36 required the officers to advise
+defendant of his right to consular notice. They failed to do so.
+It should go without saying that law enforcement officers are
+obligated to follow the Penal Code. The question here is whether
+defendant is entitled to relief.
+      We have assumed, without deciding, that Article 36 gives
+foreign nationals individual, enforceable rights. (See In re
+Martinez (2009) 46 Cal.4th 945, 957, fn. 3.) Even so, “Article 36
+does not guarantee defendants any assistance at all. The
+provision secures only a right of foreign nationals to have their
+                                 20
+                          PEOPLE v. LEON
+                  Opinion of the Court by Corrigan, J.
+
+
+consulate informed of their arrest or detention—not to have
+their consulate intervene, or to have law enforcement
+authorities cease their investigation pending any such notice or
+intervention. In most circumstances, there is likely to be little
+connection between an Article 36 violation and evidence or
+statements obtained by police.” (Sanchez-Llamas v. Oregon
+(2006) 548 U.S. 331, 349 (Sanchez-Llamas).) Accordingly, the
+“failure to notify a suspect of his or her consular rights does not,
+in itself, render a confession inadmissible” under Article 36.
+(People v. Enraca (2012) 53 Cal.4th 735, 756 (Enraca); see
+Sanchez-Llamas, at p. 349.) It appears no case has addressed
+potential penalties for noncompliance with section 834c.
+Because defendant’s claim does not raise the issue, we have no
+occasion to decide the proper scope of any remedy available for
+a section 834c violation.
+      A consular notification claim may be raised as part of a
+broader challenge to the voluntariness of a confession.
+(Sanchez-Llamas, supra, 548 U.S. at p. 350.) But defendant
+does not claim his statements to police were involuntary. As a
+result, he frames his consular notification argument somewhat
+differently, asserting the lack of consular notice is a
+circumstance that rendered his Miranda waiver invalid because
+the waiver was not knowing or intelligent. Assuming this
+argument is appropriate, it fails because defendant has
+established no relation whatsoever between his confession and
+the lack of consular notice. Defendant asserts he needed
+consular assistance because he was poorly acculturated and
+inexperienced. He contends, “Miranda advisements read from
+a form by an interrogating police officer” could not substitute for
+the “full[] and careful[]” explanation of his rights from a
+representative of the consulate. Even assuming defendant
+
+                                  21
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+might have received a more compelling advisement from a
+consular representative, the suggestion that he would have
+deferred to this advice is entirely speculative. Defendant was
+told, clearly and in Spanish, that he had the rights to remain
+silent and have an attorney’s assistance. He asked no questions
+and exhibited no confusion or hesitation before waiving these
+protections. On the contrary, as the trial court observed, he
+seemed eager to talk with the officers. Having been fully
+advised of his rights to silence and a free attorney, defendant
+nevertheless chose to speak with the police and actively
+participated in the questioning. Although sometimes tearful,
+defendant never stopped responding or asked to end the
+interview.     Defendant’s immediate, continued, and active
+participation belies the suggestion he would have remained
+silent if advised of his consular rights. (See Enraca, supra, 53
+Cal.4th at pp. 757-758.)
+         2. Instruction Regarding Preoffense Statements
+      Defendant claims the court improperly gave CALJIC
+No. 2.71.7, which instructs that a defendant’s statements
+reflecting intent, plan, motive, or design must be viewed with
+caution.7 The instruction was appropriate as supported by the
+evidence and any possible error was harmless.
+     Veronica testified that defendant had difficulty accepting
+the end of their relationship and blamed Hope for influencing
+Veronica’s decision. In a phone call two days before the
+murders, defendant told Veronica, “I know it’s [Hope] that’s
+
+
+7
+      Defendant asserts the instruction violated his rights to
+present a defense and to a fair trial and penalty under the Sixth,
+Eighth and Fourteenth Amendments, and analogous state
+constitutional provisions.
+
+                                 22
+                          PEOPLE v. LEON
+                  Opinion of the Court by Corrigan, J.
+
+
+making you think like this.” Veronica also testified that in their
+last brief phone call, on the day of the murders, defendant said,
+“No matter what happens . . . I’ll always love you.” Although
+Veronica found the statement odd, she was mainly irritated by
+the call.
+      Based on these two statements, the prosecution requested
+CALJIC No. 2.71.7. As read to defendant’s jury, this instruction
+states: “Evidence has been received from which you may find
+that an oral statement of intent, plan, motive, or design was
+made by the defendant before the offense with which he is
+charged was committed. It is for you to decide whether the
+statement was made by the defendant, and evidence of such an
+oral statement ought to be viewed with caution.” Defense
+counsel objected that the instruction applies only when there
+has been an “actual” or “blatant” statement of intent or
+planning. He noted that “obviously inferences can be made
+from” defendant’s statements but suggested these inferences did
+not require a jury instruction. The court responded, “You’ve
+kind of answered your own objection there. There is an
+inference that he’s intending to do something in the future,
+something evil. Generally speaking, the law is that if there is
+some evidence that supports an instruction, it should be given.”
+       We recently held that trial courts need not instruct the
+jury to view defendant’s extrajudicial statements with caution
+unless such an instruction is requested by the defense. (People
+v. Diaz (2015) 60 Cal.4th 1176, 1189-1190.) However, “[t]he law
+in effect at the time of [defendant’s] trial was clear: A trial court
+had the duty to instruct the jury sua sponte to view a defendant’s
+oral admissions with caution.” (People v. Johnson (2018) 6
+Cal.5th 541, 587, italics added (Johnson); see People v.
+Carpenter (1997) 15 Cal.4th 312, 392-393; People v. Beagle
+                                  23
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+(1972) 6 Cal.3d 441, 455.) If the jury heard evidence of a
+defendant’s inculpatory statement, or from which an
+inculpatory statement could be inferred (see People v. Rodrigues
+(1994) 8 Cal.4th 1060, 1136-1137), a cautionary instruction such
+as CALJIC No. 2.71 or 2.71.7 was required even over defense
+objection. (See, e.g., People v. Zambrano (2007) 41 Cal.4th 1082,
+1157 (Zambrano).)
+       Defendant argues the instruction was not supported by
+the evidence. “A trial court must give a requested instruction
+only if it is supported by substantial evidence, that is, evidence
+sufficient to deserve jury consideration.” (People v. Marshall
+(1997) 15 Cal.4th 1, 39.) Veronica’s testimony supported the
+instruction. Defendant acknowledges that she testified about
+the statements in question but disputes the reasonable
+inferences that could be drawn from them. Defendant insists
+his statement “No matter what happens, I’ll always love you”
+did not suggest an “intent, plan, motive, or design” to kill, but
+“was simply the classic lament of a man professing eternal and
+unconditional love for a young woman who has told him she
+wants to end their relationship.” While this is one possible
+interpretation of the statement, it is not the only one. Even
+defense counsel acknowledged that ominous inferences could be
+drawn from the statement, in which defendant suggested
+something might “happen” only hours before he went to the
+Ragland house, murdered Hope and Austin, and attacked
+Marion with a hatchet. Defendant’s innocent interpretation is
+also at odds with his other statement, blaming Hope for “making
+[Veronica] think like this.” This earlier statement conveys
+defendant’s apparent aggravation with Hope and could support
+a conclusion that he harbored a criminal intent. Ultimately, the
+jury had to decide whether defendant actually made the
+
+                                 24
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+statements attributed to him, and, if so, what the statements
+implied. The cautionary instruction properly informed them
+how to evaluate this evidence.
+       Defendant argues the jury’s only proper role under
+CALJIC No. 2.71.7 is to determine whether the defendant made
+a statement attributed to him, not whether the statement
+expressed an intent, motive, plan, or design. He complains
+CALJIC No. 2.71.7 improperly suggested that jurors were
+required to view his extrajudicial statements as expressions of
+criminal intent. We rejected a similar claim in Zambrano,
+supra, 41 Cal.4th at page 1157, and do so again here. “Far from
+presenting motive as a predetermined ‘fact,’ the instruction
+merely stated that the jury ‘may’ find defendant expressed such
+a motive and must view any such expression with caution.”
+(Ibid., italics added) Moreover, the jury would have understood
+from numerous other instructions that it was the ultimate judge
+of all disputed facts. Indeed, just before CALJIC No. 2.71.7, the
+judge read CALJIC No. 2.70, which stated they were “the
+exclusive judges as to whether the defendant made a confession
+or an admission, and if so, whether that statement is true in
+whole or in part.” The court also instructed jurors to disregard
+any instructions that were inapplicable to what they found to be
+the facts. (CALJIC No. 17.31.) In the context of the instructions
+as a whole, the meaning of CALJIC No. 2.71.7 would have been
+clear.
+      Finally, any error in giving the instruction was clearly
+harmless. As we have previously observed, CALJIC No. 2.71.7
+generally serves a salutary purpose. “[T]he principal effect of
+the instruction was to reemphasize, on defendant’s behalf, that
+his inculpatory extrajudicial statements, if any, should be
+
+
+                                 25
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+viewed with caution.”        (Zambrano, supra, 41 Cal.4th at
+pp. 1157-1158.)
+      B. Penalty Phase Issues
+         1. Instructions Requested by Defense
+      Defendant challenges the court’s denial of his request to
+change to CALCRIM instructions at the penalty phase and its
+refusal to give three special instructions.8 We conclude there
+was no prejudicial error.
+             a. CALCRIM Instructions
+      Before trial began, the court gave counsel the option of
+using either CALJIC jury instructions or the CALCRIM
+instructions that had recently been released. The court said it
+would not “mix and match” the two types of instructions.9
+Defendant’s attorneys agreed that the CALJIC instructions
+were “fine,” and CALJIC instructions were given in the trial’s
+guilt phase. At the penalty phase, however, defense counsel
+wanted to use CALCRIM instructions because he felt they better
+explained some concepts.       Specifically, counsel preferred
+CALCRIM No. 763 to CALJIC Nos. 8.85 and 8.88. Although he
+
+8
+       Defendant’s instructional error claims assert violations of
+his rights to due process and a fair penalty trial under the Fifth,
+Eighth, and Fourteenth Amendments and analogous California
+constitutional provisions.
+9
+       The Judicial Council’s official guide for using the
+CALCRIM instructions states: “The CALJIC and CALCRIM
+instructions should never be used together. While the legal
+principles are obviously the same, the organization of concepts
+is approached differently. Mixing the two sets of instructions
+into a unified whole cannot be done and may result in omissions
+or confusion that could severely compromise clarity and
+accuracy.” (Judicial Council of Cal., Crim. Jury Insts. (2019)
+p. xxii.)
+
+                                 26
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+acknowledged that the CALCRIM instructions are not meant to
+be combined with other model jury instructions, he argued there
+was no risk of confusion because jurors would be admonished to
+disregard all of the CALJIC instructions given in the guilt
+phase. The court denied the request, preferring to maintain
+consistency in the instructions used throughout trial.
+Defendant now argues this decision was an error of
+constitutional dimension. We disagree.
+       Defendant’s argument rests entirely on the complaint that
+CALJIC No. 8.88 is inferior to its counterpart, CALCRIM
+No. 766.    Defendant’s jury was given CALJIC No. 8.88,
+explaining that a death verdict requires each juror to be
+persuaded “that the aggravating circumstances are so
+substantial in comparison with the mitigating circumstances
+that it warrants death instead of life without parole.” In
+contrast, CALCRIM No. 766 would have instructed the jury to
+decide whether a death sentence was “appropriate and
+justified.” Defendant argues the verb “warrant” imposes a
+lesser standard. He suggests jurors might have misunderstood
+the instruction to mean that a death sentence was “warranted”
+simply because it was permitted.
+      We have frequently rejected this argument. (See, e.g.,
+People v. Landry (2016) 2 Cal.5th 52, 122; People v. Townsel
+(2016) 63 Cal.4th 25, 73.) CALJIC No. 8.88’s instruction that
+each juror consider whether death was “ ‘warrant[ed]’ ” was not
+error because the instruction twice references the jury’s duty to
+decide the death penalty’s appropriateness. (People v. McKinzie
+(2012) 54 Cal.4th 1302, 1361.) First, the instruction explains
+that a mitigating circumstance is one that “may be considered
+as an extenuating circumstance in determining the
+appropriateness of the death penalty.” (CALJIC No. 8.88, italics
+                                 27
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+added.) Second, the instruction tells jurors to “determine under
+the relevant evidence which penalty is justified and appropriate
+by considering the totality of the aggravating circumstances
+with the totality of the mitigating circumstances.” (Ibid., italics
+added.)     Defendant dismisses these references as mere
+“prefatory” filler. This argument distorts the instruction’s
+meaning by focusing on one word taken out of context.
+Considered as a whole, “the instruction properly conveyed to the
+jury that circumstances ‘warrant[]’ the death penalty when such
+punishment is appropriate in the eyes of the jury.” (McKinzie,
+at p. 1361.) Accordingly, it was not error for the court to give
+CALJIC No. 8.88, and it was within the court’s discretion to
+deny defendant’s request for CALCRIM instructions in the
+penalty phase.
+             b. Special Instructions
+      Defendant next claims the court erred in refusing three
+proposed special instructions based on CALCRIM No. 763. The
+court declined to give the instructions, concluding the
+information was adequately conveyed by CALJIC No. 8.85.
+      Defendant’s first proposed instruction stated: “You may
+consider sympathy or compassion for the defendant.” However,
+the jury had already been instructed that it could consider “[a]ny
+other circumstance which extenuates the gravity of the crime
+even though it is not a legal excuse for the crime and any
+sympathetic or other aspect of the defendant’s character or
+record that the defendant offers as a basis for a sentence less
+than death, whether or not related to the offense for which he is
+on trial.” (CALJIC No. 8.85.) We have consistently held that
+“CALJIC No. 8.85 adequately instructs the jury concerning the
+circumstances that may be considered in mitigation, including
+
+
+                                 28
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+sympathy and mercy,” and no further instructions on the subject
+are required. (People v. Burney (2009) 47 Cal.4th 203, 261;
+accord Boyce, supra, 59 Cal.4th at pp. 706-707.) Defendant’s
+special instruction was duplicative of CALJIC No. 8.85. (See
+People v. Gurule (2002) 28 Cal.4th 557, 659.)
+      The second proposed instruction stated: “You may not
+consider as an aggravating factor anything other than the
+factors contained in this list that you conclude are aggravating
+in this case. You must not take into account any other facts or
+circumstances as a basis for imposing the death penalty.” On
+request, trial courts generally should permit an instruction
+explaining that only the listed sentencing factors and related
+evidence may be considered in aggravation. (See People v.
+Gordon (1990) 50 Cal.3d 1223, 1275, fn. 14; People v. Williams
+(1988) 45 Cal.3d 1268, 1324.) However, any error in refusing
+such an instruction is “nonprejudicial under any standard
+[where] the record does not suggest that any extraneous ‘factors’
+were in fact presented to or considered by the jury.” (Williams,
+at p. 1324.) That standard is satisfied here. The concept that
+aggravating evidence is limited to that described in CALJIC
+No. 8.85 is reasonably inferable from that instruction, which
+directs jurors to consider the listed sentencing factors “if
+applicable.” (See People v. Berryman (1993) 6 Cal.4th 1048,
+1100; Gordon, at p. 1275, fn. 14.)
+      Moreover, no evidence or argument here concerned a
+nonstatutory factor. There was guilt phase evidence that
+defendant went to work as usual on the night of the murders
+and did not seem agitated. That evidence was relevant to show
+that mitigation was not appropriate under section 190.3,
+factor (d). Factor (d) permits mitigation if the offense was
+committed while the defendant was under the influence of an
+                                 29
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+extreme mental or emotional disturbance. (§ 190.3, factor (d).)
+Defendant asserts his special instruction was needed because
+the prosecutor’s closing argument mentioned “how normal, how
+fine” defendant acted during the videotaped walkthrough.
+However, in the very next sentence the prosecutor linked this
+comment to factor (d), stating, “There’s no evidence at all under
+factor (d).” No argument was made that defendant’s demeanor
+could be used as an aggravating factor. Because there was no
+basis for the jury to have considered aggravation on a
+nonstatutory basis, any error in failing to give defendant’s
+special instruction was harmless.
+       Defendant’s third proposed instruction stated: “Even if a
+fact is both a ‘special circumstance’ and also a ‘circumstance of
+the crime,’ you may consider that fact only once as an
+aggravating factor in your weighing process. Do not double-
+count that fact simply because it is both a ‘special circumstance’
+and a ‘circumstance of the crime.’ ” There is no sua sponte duty
+to instruct that facts supporting a special circumstance may not
+also be used as an aggravating factor. (See People v. Salazar
+(2016) 63 Cal.4th 214, 254 (Salazar); People v. Ramirez (2006)
+39 Cal.4th 398, 476.) However, “[a] trial court should, when
+requested, instruct the jury against double-counting these
+circumstances.” (People v. Monterroso (2004) 34 Cal.4th 743,
+789.) “The literal language of [section 190.3, factor] (a) presents
+a theoretical problem . . . since it tells the penalty jury to
+consider the ‘circumstances’ of the capital crime and any
+attendant statutory ‘special circumstances.’ Since the latter are
+a subset of the former, a jury given no clarifying instructions
+might conceivably double-count any ‘circumstances’ which were
+also ‘special circumstances.’ . . . [¶] However, the possibility of
+
+
+                                 30
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+actual prejudice seems remote. . . .” (People v. Melton (1988) 44
+Cal.3d 713, 768.)
+      The Attorney General concedes omitting the instruction
+was error but contends it was harmless. We agree. There is no
+reasonable likelihood the jury would have misunderstood the
+instructions to permit double counting. (See People v. Ayala
+(2000) 24 Cal.4th 243, 289.) “ ‘[T]he standard instructions do
+not inherently encourage the double counting of aggravating
+factors. [Citations.] We have also recognized repeatedly that
+the absence of an instruction cautioning against double counting
+does not warrant reversal in the absence of any misleading
+argument by the prosecutor.’ ” (Ibid.; see Boyce, supra, 59
+Cal.4th at p. 714.)     There was no misleading argument.
+Although the prosecutor mentioned that two people had been
+killed, he did not suggest that this fact be given additional
+aggravating weight.
+         2. Constitutionality of Death Penalty Law
+      Defendant raises several familiar challenges to the
+constitutionality of California’s death penalty scheme.
+Although recognizing we have previously rejected all of these
+arguments, he renews them to urge reconsideration and
+preserve the issues for federal review. We decline to reconsider
+our settled precedent and continue to hold the following:
+      The category of death-eligible defendants under
+section 190.2 is not unconstitutionally overbroad. (People v.
+Winbush (2017) 2 Cal.5th 402, 488 (Winbush); see People v. Reed
+(2018) 4 Cal.5th 989, 1018.) Section 190.3, factor (a), allowing
+aggravation based on the circumstances of the crime, does not
+result in arbitrary and capricious sentencing. (People v.
+Thompson (2016) 1 Cal.5th 1043, 1129; see Salazar, supra, 63
+
+                                 31
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+Cal.4th at p. 255.)      The death penalty scheme is not
+unconstitutional for failing to require written findings
+(Winbush, at p. 490), unanimous findings (People v. Wall (2017)
+3 Cal.5th 1048, 1072 (Wall)), or findings beyond a reasonable
+doubt as to the existence of aggravating factors other than
+section 190.3, factors (b) and (c), that aggravating factors
+outweigh mitigating factors, or that death is the appropriate
+penalty. (Winbush, at p. 489; People v. Rangel (2016) 62 Cal.4th
+1192, 1235.) These conclusions are not altered by Apprendi v.
+New Jersey (2000) 530 U.S. 466, Ring v. Arizona (2002) 536 U.S.
+584, or Hurst v. Florida (2016) 577 U.S. __, 136 S.Ct. 616.
+(People v. Henriquez (2017) 4 Cal.5th 1, 45 (Henriquez).) The
+prosecution is not constitutionally obligated to bear a burden of
+proof or persuasion in sentencing, which is “an inherently moral
+and normative function, and not a factual one amenable to
+burden of proof calculations.” (Winbush, at p. 489.) “ ‘Nor is an
+instruction on the absence of a burden of proof constitutionally
+required.’ ” (People v. Jones (2017) 3 Cal.5th 583, 619.) The
+federal Constitution also does not require an instruction that life
+is the presumptive penalty. (Wall, at p. 1072; Salazar, at
+p. 256.)
+      CALJIC No. 8.88 is not defective for failing to require a
+determination that death is the “appropriate” penalty (see ante,
+at p. 25; see also Salazar, supra, 63 Cal.4th at p. 256; Boyce,
+supra, 59 Cal.4th at p. 724) or failing to require a life sentence
+if mitigating factors outweigh aggravating ones (Johnson,
+supra, 6 Cal.5th at p. 594; People v. Moon (2005) 37 Cal.4th 1,
+42). This instruction’s use of the phrase “so substantial” is not
+overbroad or unconstitutionally vague. (Wall, supra, 3 Cal.5th
+at p. 1073; Salazar, at p. 256.) CALJIC No. 8.85’s use of the
+words “extreme” and “substantial” to describe mitigating
+
+                                 32
+                         PEOPLE v. LEON
+                 Opinion of the Court by Corrigan, J.
+
+
+circumstances does not impermissibly limit the jury’s
+consideration of mitigating factors. (People v. Rices (2017) 4
+Cal.5th 49, 94; Wall, at p. 1073.) Nor is CALJIC No. 8.85 flawed
+because it tells the jury not to consider sympathy for defendant’s
+family as a mitigating factor. (People v. Livingston (2012) 53
+Cal.4th 1145, 1178-1179; People v. Bemore (2000) 22 Cal.4th
+809, 855-856.) The court was not constitutionally obligated to
+delete inapplicable sentencing factors, designate which factors
+are aggravating or mitigating, or instruct that certain factors
+are relevant only in mitigation. (Winbush, supra, 2 Cal.5th at
+p. 490; People v. Cook (2006) 39 Cal.4th 566, 618.)
+      The federal Constitution does not require intercase
+proportionality review. (Johnson, supra, 6 Cal.5th at p. 594;
+Winbush, supra, 2 Cal.5th at p. 490.) Nor does the death penalty
+statute violate equal protection by providing different
+procedural safeguards to capital and noncapital defendants.
+(Johnson, at p. 594; Henriquez, supra, 4 Cal.5th at p. 46.)
+Finally, we have repeatedly held that California’s capital
+sentencing scheme does not violate international norms or
+evolving standards of decency in violation of the Eighth and
+Fourteenth Amendments. (Henriquez, at p. 47; Winbush, at
+p. 490; Boyce, supra, 59 Cal.4th at p. 725.)
+     C. Cumulative Error
+      Defendant asserts that errors in his trial were
+cumulatively prejudicial. We have held that potential errors in
+denying instructions on aggravating evidence and double
+counting were harmless. Even considered together, these
+omissions do not warrant reversal. (See People v. Nunez and
+Satele (2013) 57 Cal.4th 1, 63.)
+
+
+
+                                 33
+                          PEOPLE v. LEON
+                  Opinion of the Court by Corrigan, J.
+
+
+      D. Restitution Fine
+       At the time of defendant’s crimes, section 1202.4,
+subdivision (b) required the court to impose a felony restitution
+fine between $200 and $10,000. A defendant’s inability to pay
+could be considered in setting a fine above the minimum level.
+(§ 1202.4, subd. (c).) The court ordered defendant to pay a
+$10,000 restitution fine; however, this fine was not mentioned
+in defendant’s sentencing hearing or the court’s oral
+pronouncement of judgment. Because the subject of restitution
+was not raised, defendant had no opportunity to object to the
+$10,000 fine. Accordingly, we will not consider his claim
+forfeited. (Cf. People v. Miracle (2018) 6 Cal.5th 318, 356 [failure
+to object at sentencing hearing forfeits excessive fine claim].)
+      The trial court is generally required to include all aspects
+of a judgment in its oral pronouncement of judgment. (See
+People v. Mesa (1975) 14 Cal.3d 466, 471.) Any discrepancy
+between the judgment as orally pronounced and as recorded in
+the clerk’s minutes or abstract of judgment is presumed to be
+the result of clerical error. (Ibid.) The abstract of judgment
+“does not control if different from the trial court’s oral judgment
+and may not add to or modify the judgment it purports to digest
+or summarize.” (People v. Mitchell (2001) 26 Cal.4th 181, 185.)
+     The Attorney General agrees the record does not support
+imposition of a $10,000 restitution fine. Instead of remanding
+for a restitution hearing, which would entail an inordinate
+expenditure of resources, he agrees with defendant that the fine
+should be reduced to the $200 statutory minimum. Defendant’s
+proposal is appropriate. (See Wall, supra, 3 Cal.5th at p. 1076;
+People v. Mitchell, supra, 26 Cal.4th at p. 188.)
+
+
+
+                                  34
+                        PEOPLE v. LEON
+                Opinion of the Court by Corrigan, J.
+
+
+                      III. DISPOSITION
+      The judgment is affirmed. On remand, the trial court
+shall amend the abstract of judgment to reflect the minimum
+restitution fine of $200 under section 1202.4, subdivision (b).
+
+
+                                                   CORRIGAN, J.
+
+
+We Concur:
+
+CANTIL-SAKAUYE, C. J.
+CHIN, J.
+LIU, J.
+CUÉLLAR, J.
+KRUGER, J.
+GROBAN, J.
+
+
+
+
+                                35
+                        PEOPLE V. LEON
+                             S143531
+
+
+             Concurring Opinion by Justice Cuéllar
+
+
+       As 93 million Americans managed to travel abroad last
+year to nearly every corner of the planet, the United States
+hosted almost 80 million foreign nationals. (Nat. Trade and
+Tourism Off., U.S. Dept. of Commerce, U.S. Citizen Traffic to
+Overseas Regions, Canada & Mexico 2018 (Feb. 2019) U.S.
+Citizen     Travel      to     International     Regions:       2018
+<https://travel.trade.gov/view/m-2018-O-001/index.html> [as of
+Jan. 23, 2020]; Nat. Trade and Tourism Off., U.S. Dept. of
+Commerce, U.S. Travel and Tourism Industry (Oct. 2019)
+International           Visitors         to        the          U.S.
+<https://travel.trade.gov/outreachpages/download_data_table/
+Fast_Facts_2018.pdf> [as of Jan. 23, 2020].)1 When our country
+ratified the Vienna Convention on Consular Relations in the
+early 1960s, we gave our word that the United States would
+treat foreigners in our country with dignity by allowing them
+contact with their country’s consular officials –– and we let the
+world know we expected no less for Americans traveling abroad.
+(Apr. 24, 1963, 21 U.S.T. 77, T.I.A.S. No. 6820 (Vienna
+Convention).) While today’s decision underscores how article 36
+of the Vienna Convention grants certain protections to detained
+foreign nationals, it also describes a troubling failure of police to
+
+
+1
+     All Internet citations in this opinion are archived by year,
+docket       number         and         case       name        at
+<http://www.courts.ca.gov/38324.htm>.
+
+
+                                 1
+                         PEOPLE v. LEON
+                       Cuéllar, J., concurring
+
+
+fulfill the treaty’s obligations. Lurking at the edge of this case
+is the problem I write to highlight: how law enforcement
+agencies and courts can help ensure we honor our country’s
+promise when it ratified the Vienna Convention.
+       Law enforcement officials have a duty under article 36,
+paragraph 1(b) of the Vienna Convention. They must inform
+arrested foreign nationals, without delay, of their right to have
+their consulate notified about their arrest or detention. (Vienna
+Convention, art. 36 (Article 36); Sanchez-Llamas v. Oregon
+(2006) 548 U.S. 331, 349 (Sanchez-Llamas).) And when the
+national so requests, law enforcement officers shall inform the
+appropriate consular post that their citizen is under arrest.
+(People v. Enraca (2012) 53 Cal.4th 735, 756 (Enraca).) In
+principle, the United States and other countries who ratified the
+Vienna Convention treat consular notification as foundational
+to the sensible treatment of their nationals abroad. When the
+citizens of any country cross national boundaries, certain
+concerns of theirs tend to be shared with citizens of every
+country: to remain within range of help from one’s country.
+Consular notification allows foreign nationals to obtain legal
+and diplomatic assistance, among other support, as well as a
+means for contacting family. (See Sanchez-Llamas, at pp. 367-
+368 (dis. opn. of Breyer, J.); Buys, et al., Do unto Others: The
+Importance of Better Compliance with Consular Notification
+Rights (2011) 21 Duke J. Comp. & Int’l. L. 461, 469-474.)
+       The majority rightly observes that Article 36 does not
+command consular intervention or require law enforcement
+officers to halt an investigation pending consular notification.
+(Maj. opn., ante, at p. 21.) A failure to notify a suspect of their
+consular rights does not — in itself — render a confession
+inadmissible under Article 36. (Maj. opn., ante, at p. 21.) But
+
+                                 2
+                        PEOPLE v. LEON
+                       Cuéllar, J., concurring
+
+
+implicit in our country’s promise to honor the Vienna
+Convention are issues of right, remedy, and responsibility that
+call for more — and more serious — attention.
+      Whether or not violations of this international treaty ever
+require a specific judicial remedy, such as the suppression of
+statements made to police, our failure to honor our treaty
+commitment deserves to be remedied. In fact, the United States
+Supreme Court has articulated several possible remedies for a
+consular notification violation. A defendant may raise an
+Article 36 claim, for example, as part of a broader challenge to
+the voluntariness of the statements defendant made to police.
+(Sanchez-Llamas, supra, 548 U.S. at p. 350.) If a defendant
+raises an Article 36 violation at trial, the court can make
+accommodations to secure for the defendant the benefits of
+consular assistance.       (Sanchez-Llamas, at p. 349.)      And
+suppression may be the only effective remedy in certain
+situations, specifically, where there is a “connection between an
+Article 36 violation and evidence or statements obtained by
+police.” (Ibid.) Although none of these remedies appear
+appropriate to address the violation of defendant Jose Luis
+Leon's right to consular notification, today’s opinion should not
+be read to suggest that remedies are always unavailable for a
+consular notification violation.
+      Circumstances warranting a judicial remedy may arise
+rarely, but the United States Supreme Court has carefully
+avoided the conclusion that suppression is never a remedy for an
+Article 36 violation. Some situations involve little if any
+connection between Article 36 and statements obtained by
+police. But where there is such a connection, suppression serves
+as an appropriate remedy. For example, there may be
+defendants who cannot show their confession is involuntary
+                                 3
+                        PEOPLE v. LEON
+                       Cuéllar, J., concurring
+
+
+under Miranda v. Arizona (1966) 384 U.S. 436, but would have
+a claim under the Vienna Convention. (Sanchez-Llamas, supra,
+548 U.S. at p. 393 (dis. opn. of Breyer, J.).) We should also be
+concerned about confessions coerced, in part, because a law
+enforcement officer denied a foreign national the right to
+consular notification. And a consular notification failure may be
+part of a scheme to deprive the national of any meaningful
+choice. In such instances, a remedy for the consular notification
+violation is surely warranted.
+       Also warranting attention is the telling fact that our own
+Penal Code requires law enforcement to advise detained foreign
+nationals of their right to consular notification. (Pen. Code, §
+843c, subd. (b).) California’s own requirement even goes beyond
+what the Vienna Convention calls for, by obligating every peace
+officer to advise a known or suspected foreign national of the
+right to consular notification upon arrest and booking, or
+detention for more than two hours. (Pen. Code, § 843c, subd.
+(a)(1).) California law enforcement agencies must also ensure
+their policy or procedure and training manuals incorporate
+language based upon Article 36 that designate procedures for
+handling the arrest, booking, or detention of a foreign national
+for more than two hours. (Pen. Code, § 843c, subd. (c).) As is so
+often the case, law enforcement personnel and the agencies in
+which they work hold in trust the responsibility of turning our
+society’s legal commitments into action rather than aspiration.
+Along with our courts, these capable and resourceful agencies
+share the obligation to ensure the Vienna Convention’s worth
+the paper on which it’s printed. (See Harmon, The Problem of
+Policing (2012) 110 Mich. L.Rev. 761, 795.) That courts must
+also do their part, by fashioning and applying remedies where
+appropriate, will no doubt help agencies do what they must to
+
+                                 4
+                          PEOPLE v. LEON
+                        Cuéllar, J., concurring
+
+
+write into their internal cultures these commitments with
+indelible — not invisible — ink. (See Sanchez-Llamas, supra,
+548 U.S. at p. 349 [explaining that courts exclude the fruits of
+unreasonable searches and seizures as a means to deter law
+enforcement agents from disregarding the constraints of the 4th
+Amend.].)
+      Yet this case and others like it readily tell the story of how
+much work remains undone. Consular notification in California
+often fails to materialize and the duty to notify is routinely
+honored in the breach. (See People v. Sanchez (2019) 7 Cal.5th
+14; Enraca, supra, 53 Cal.4th 735; In re Martinez (2009) 46
+Cal.4th 945; People v. Mendoza (2007) 42 Cal.4th 686; Case
+Concerning Avena and Other Mexican Nationals (Mexico v. U.S.)
+Judgment, 2004 I.C.J. 128 (Mar. 31).) Our vigilance in honoring
+these legal requirements should not arise solely because we
+hope Californians detained in foreign countries will be granted
+their rights to consular notification. At issue are laws ratified
+by the United States and adopted by the Legislature as part of
+our Penal Code — ones that convey as clearly as they do
+consistently the importance of consular notification. (Medellin
+v. Texas (2008) 552 U.S. 491, 505 [explaining that international
+treaties are domestic law where Congress has enacted
+implementing statutes or the treaty itself conveys an intention
+that it be self-executing and is ratified on these terms]; id., at p.
+533 (conc. opn. of Stevens, J.) [endorsing the proposition that the
+Vienna Convention “ ‘is itself self-executing and judicially
+enforceable’ ”]; Pen. Code, § 843c, subd. (b).) If the duty to
+provide consular notification and contact the relevant consular
+post when requested is indeed ignored by agents of our state, it
+ought not to be.
+
+
+                                  5
+                         PEOPLE v. LEON
+                       Cuéllar, J., concurring
+
+
+      No one should question how complicated it may sometimes
+prove to calibrate the proper remedy for any procedural
+violation affecting the criminal justice system. Remedies in
+virtually any context, no less than in consular notification, often
+involve fact-specific determinations and intricate balancing of
+competing concerns. I agree with the majority that we should
+not suppress Leon’s statements to the police here. Nor should
+we forget that our police often shoulder difficult burdens and
+resolve competing demands with finite resources as they work
+to advance public safety. But when our country’s given its word,
+there’s no sensible excuse for condoning practices that ignore
+our obligations under the Vienna Convention or disregard
+protections guaranteed by California’s Penal Code.              No
+competent institution can ignore that all too often these
+obligations are treated as though they are not worth the paper
+on which they’re printed.
+      Americans abroad, and not just foreigners on our soil, are
+protected by the reciprocal logic of our commitment to honor
+consular notification. I respect our law enforcement officials too
+much to believe they can’t honor our treaty commitments and
+the laws of this state while also pursuing their investigative
+mission effectively. Nor can I presume their capacity to execute
+that mission is so fragile that success depends on permitting
+consular notification to slip through the cracks. By repairing
+those cracks, we remind the world that, at least in some corners
+of the country, our word is our bond.
+                                                   CUÉLLAR, J.
+
+
+
+
+                                 6
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion People v. Leon
+________________________________________________________________________________
+
+Unpublished Opinion
+Original Appeal XXX
+Original Proceeding
+Review Granted
+Rehearing Granted
+
+________________________________________________________________________________
+
+Opinion No. S143531
+Date Filed: January 23, 2020
+________________________________________________________________________________
+
+Court: Superior
+County: Riverside
+Judge: Christian F. Thierbach
+
+________________________________________________________________________________
+
+Counsel:
+
+Michael J. Hersek, State Public Defender, under appointment by the Supreme Court, and Andrea G. Asaro,
+Deputy State Public Defender, for Defendant and Appellant.
+
+Kamala D. Harris and Xavier Becerra, Attorneys General, Dane R. Gillette, Chief Assistant Attorney
+General, Julie L. Garland, Assistant Attorney General, Holly D. Wilkens and Kristen Kinnaird Chenelia,
+Deputy Attorneys General, for Plaintiff and Respondent.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+Andrea Asaro
+Deputy State Public Defender
+1111 Broadway, 10th Floor
+Oakland, CA 94607-4139
+(510) 267-3300
+
+Kristen Kinnaird Chenelia
+Deputy Attorney General
+600 West Broadway, Suite 1800
+San Diego, CA 92101
+(619) 738-9007

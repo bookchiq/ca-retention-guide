@@ -1,0 +1,199 @@
+cl_opinion_id: 11331873
+cluster: 10864429
+docket: B342991
+date: 2026-05-26
+status: Published
+type: 010combined
+field: plain_text
+case: In re N.S.
+----
+Filed 5/26/26
+                CERTIFIED FOR PUBLICATION
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                 SECOND APPELLATE DISTRICT
+
+                           DIVISION SIX
+
+
+ In re N.S., a Person Coming           2d Juv. No. B342991
+ Under the Juvenile Court         (Super. Ct. No. 23JV00166-E)
+ Law.                                (Santa Barbara County)
+
+
+ THE PEOPLE,
+
+      Plaintiff and Respondent,
+
+ v.
+
+ N.S.,
+
+      Defendant and Appellant.
+
+
+
+      N.S. admitted to having committed three offenses in three
+separate juvenile wardship petitions at the same hearing. (Welf.
+& Inst. Code, § 602, subd. (a).) 1 The juvenile court committed
+appellant to a Secure Youth Treatment Facility (SYTF) based on
+the only qualifying section 707, subdivision (b) offense—assault
+by means of force likely to produce great bodily injury. But that
+
+
+       All further undesignated statutory references are to the
+         1
+
+Welfare and Institutions Code.
+offense was not the “most recent offense” for which he had been
+adjudicated. Appellant contends, based upon the “most recent
+offense” rule, and the People concede, that the juvenile court
+lacked authority to commit appellant to a SYTF. The parties
+adhere to the strict letter of the law. We will therefore reverse
+the juvenile court’s commitment order and remand for a new
+dispositional hearing.
+                        Section 602 Petitions
+Case No. 23JV00166-C
+       On January 17, 2024, the Santa Barbara County District
+Attorney filed a juvenile wardship petition (C Petition) charging
+appellant, a 15-year-old minor, with two counts of forcible rape.
+(Pen. Code, § 261, subd. (a)(2), counts 1 & 2.) On August 19,
+2024, the district attorney filed an amended petition adding a
+new allegation that appellant committed sexual battery by
+restraint. (Pen. Code, § 243.4, subd. (a), count 3.) The offense
+date is December 17, 2023. This is the alleged “most recent
+offense.”
+Case No. 23JV00166-D
+       A week later, the Santa Barbara District Attorney filed a
+second petition (D Petition) charging appellant with two counts of
+forcible rape (Pen. Code, § 261, subd. (a)(2), counts 1 & 2) and two
+counts of false imprisonment by violence (Pen. Code, § 236,
+counts 3 & 4). On August 19, 2024, it filed an amended petition
+adding a new allegation that appellant committed a lewd or
+lascivious act upon a child (Pen. Code, § 288, subd. (a), count 5).
+The offense date is March 3, 2023.
+Case No. 23JV00166-E
+       On January 24, 2024, the district attorney filed yet a third
+petition (E Petition) charging appellant with attempted forcible
+
+
+
+
+                                 2
+rape (Pen. Code, §§ 664/261, subd. (a)(2), count 1) and assault by
+means of force likely to produce great bodily injury (Pen. Code, §
+245, subd. (a)(4), count 2). The offense date for these offenses is
+June 9, 2023.
+              Change of Plea and Dispositional Hearing
+       On August 22, 2024, appellant admitted the following
+offenses: sexual battery by restraint (Pen. Code, § 243.4, subd.
+(a), count 3) on December 17, 2023 (C Petition); lewd or lascivious
+act upon a child (Pen. Code, § 288, subd. (a), count 5) on March 3,
+2023 (D Petition); and assault by means of force likely to produce
+great bodily injury (Pen. Code, § 245, subd. (a)(4), count 2) on
+June 9, 2023 (E Petition). All remaining counts were dismissed.
+       On November 1, 2024, after conducting a contested
+disposition hearing, the juvenile court ordered probation and
+time served of 295 days for the C and D Petitions. After hearing
+further argument, the juvenile court considered disposition of the
+E Petition. It ordered appellant committed to a SYTF pursuant
+to the adjudication of the E petition with a baseline term of three
+years.
+                              Discussion
+       Section 875 authorizes a juvenile court to order a ward who
+is 14 years of age or older to be committed to a SYTF if certain
+criteria are met. (§ 875, subd. (a).) Two criteria are relevant
+here: (1) the juvenile must be adjudicated and found to be a ward
+of the court based on an offense listed in section 707, subdivision
+(b); and (2) the relevant adjudication must be “the most recent
+offense for which the juvenile has been adjudicated.” (§ 875,
+subds. (a)(1) & (a)(2).)
+       Prior to the enactment of section 875, our Supreme Court
+interpreted similar language in section 733, subdivision (c).
+
+
+
+
+                                 3
+Section 733, subdivision (c) prohibits a ward’s commitment to the
+Department of Corrections and Rehabilitation, Division of
+Juvenile Facilities (DJF) if the ward’s “most recent offense
+alleged in any petition and admitted or found to be true by the
+court is not described in” section 707, subdivision (b) or Penal
+Code, section 290.008, subdivision (c). The Court held this
+language “is clear and lends itself to only one reasonable
+interpretation.” (In re D.B. (2014) 58 Cal.4th 941, 947.) The
+phrase “ ‘most recent’ ” describes when the minor committed the
+offense, not when the petition is adjudicated. (Ibid; see also In re
+B.J. (2020) 49 Cal.App.5th 646, 648.)
+      Because the Legislature used language in section 875 that
+is substantially similar to the language our Supreme Court had
+already interpreted in section 733, subdivision (c), we presume
+the Legislature intended the same construction. (See Moran v.
+Murtaugh Miller Meyer & Nelson, LLP (2007) 40 Cal.4th 780,
+785.) Now, instead of a DJF commitment, eligible youth can be
+committed to a SYTF if their most recent offense is described in
+section 707, subdivision (b).
+      Although assault by means of force likely to produce great
+bodily injury is an offense listed in section 707, subdivision (b),
+the juvenile court was not authorized to commit appellant to a
+SYTF because his “most recent offense,” sexual battery by
+restraint, is not an offense listed in section 707, subdivision (b).
+Remand is therefore necessary to permit the juvenile court to
+conduct a new dispositional hearing.
+                              Disposition
+       The juvenile court’s order committing appellant to a
+Secured Youth Treatment Facility is reversed and the matter is
+remanded for a new dispositional hearing.
+
+
+
+
+                                 4
+     CERTIFIED FOR PUBLICATION.
+
+
+
+                                 YEGAN, Acting P. J.
+We concur:
+
+
+
+             BALTODANO, J.
+
+
+
+             CODY, J.
+
+
+
+
+                             5
+YEGAN, A.P.J., concurring:
+      We have honored the parties’ stipulation, reverse, and
+remand for a new disposition hearing. I continue to believe that
+the result is absurd and results in a miscarriage of justice. We
+are supposed to guard against a miscarriage of justice, not help to
+create one. The Legislature should revisit the “most recent
+offense” rule. (See In re B.J. (2020) 49 Cal.App.5th 646 (conc.
+opn. of Yegan, J.).) B.E. Witkin advises us to notify the
+Legislature of any suggestion or “desirable reforming” of the law.
+(See Witkin, Manual on Appellate Court Opinions (1997) § 381,
+pp. 160-162.) We do so by this short, published opinion.
+      CERTIFIED FOR PUBLICATION.
+
+
+
+                                    YEGAN, Acting P.J.
+                  Gustavo E. Lavayen, Judge
+            Superior Court County of Santa Barbara
+               ______________________________
+
+      Mary Bernstein, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+      Rob Bonta, Attorney General, Charles C. Ragland, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Senior
+Assistant Attorney General, Noah P. Hill, Supervising Deputy
+Attorney General, and Stephen D. Svetich, Deputy Attorney
+General, for Plaintiff and Respondent.

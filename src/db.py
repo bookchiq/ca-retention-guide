@@ -65,7 +65,8 @@ CREATE TABLE IF NOT EXISTS panel_seats (
 
 CREATE TABLE IF NOT EXISTS separate_opinions (
     cl_opinion_id     INTEGER NOT NULL,
-    type              TEXT NOT NULL,          -- dissent | concurrence | concur_dissent
+    type              TEXT NOT NULL,          -- dissent | concurrence; a concurring-and-
+                                              -- dissenting opinion is dissent with partial=1
     partial           INTEGER NOT NULL DEFAULT 0,
     author_slug       TEXT,
     author_raw        TEXT

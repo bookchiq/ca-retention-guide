@@ -1,0 +1,631 @@
+cl_opinion_id: 11225082
+cluster: 10758497
+docket: A168277
+date: 2025-12-15
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Ismaiel
+----
+Filed 12/15/25
+                     CERTIFIED FOR PUBLICATION
+
+       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                       FIRST APPELLATE DISTRICT
+
+                               DIVISION FIVE
+
+
+ THE PEOPLE,
+        Plaintiff and Respondent,           A168277
+
+ v.                                         (Contra Costa County
+ AHMED KAMAL ISMAIEL,                       Super. Ct. No. 05001916733)
+        Defendant and Appellant.
+
+
+       A jury convicted defendant and appellant Ahmed Kamal Ismaiel
+(appellant) of three offenses based on his actions in arranging to meet a
+minor for sexual contact via a social media application. The person appellant
+communicated with was actually a law enforcement officer posing as a minor,
+and appellant was arrested when he arrived for the meeting. On appeal,
+appellant contends the trial court incorrectly instructed the jury that a
+mistake of fact as to the age of the person he communicated with had to be
+reasonable. Respondent concedes error but argues the error was harmless.
+We disagree and reverse.
+                       PROCEDURAL BACKGROUND
+       In August 2019, the Contra Costa County District Attorney filed an
+information charging appellant with meeting a minor for lewd purposes (Pen.
+Code, § 288.4, subd. (b); count one);1 contacting a minor for a sexual offense
+
+
+
+       1 All undesignated statutory references are to the Penal Code.
+
+
+
+                                       1
+(§ 288.3, subd. (a); count two); and attempted lewd act upon a child (§§ 288,
+subd. (c)(1), 664; count three).
+      In March 2023, a jury convicted appellant of all three counts. In April,
+the trial court placed appellant on probation for two years with various terms
+and conditions.
+      The present appeal followed.
+                          FACTUAL BACKGROUND
+      In April 2018, Senior Inspector Darryl Holcombe of the Contra Costa
+County District Attorney’s Office was conducting an investigation through
+the Internet Crimes Against Children Task Force. In that role, Holcombe
+had a profile on Whisper, a smartphone application. Holcombe was
+designated an expert “in child exploitation cases involving social media” and
+the use of the Whisper application. He explained that Whisper is
+anonymous, does not require users to enter phone numbers or e-mail
+addresses, and automatically assigns usernames. Users enter an age range
+and gender, but there is no verification process.
+      Once users open Whisper, they can choose to focus on posts from users
+who are “within a very close geographical area.” Within the application,
+users post “whispers” to which other users can respond with their own
+“whispers” or through direct messages. Users cannot delete individual
+messages from another user, but they can delete entire message threads. If a
+user deletes a thread, the other user in the thread could still post a message
+to the thread, which would “reinitiate” the conversation. However, the user
+who previously deleted the thread would not have access to the prior
+messages in the thread.
+      Holcombe set up a Whisper profile in which his persona was a female
+user between the ages of 15 and 17 (the only age category for minors). He
+
+
+
+                                       2
+pretended to be a 14-year-old girl named Lizzy, who was a sexually
+inexperienced high school freshman with separated parents. Whisper
+assigned the username “Iconsborn_dangerous” (hereafter Iconsborn) to
+Holcombe. As “Iconsborn,” Holcombe posted a “whisper” with the words
+“New to Whisper.” Appellant—as a Whisper user calling himself Eddy—
+contacted “Iconsborn” through a direct message. After some initial back and
+forth, “Iconsborn” identified herself as Lizzy and asked appellant how old he
+was; appellant responded that he was 28. Lizzy said she was 14; appellant
+responded, “Ah lol.” 2 Holcombe testified that, in his experience, “a very high
+percentage of people” would stop talking to him as soon as he gave the age of
+14. He also testified that anyone chatting with “Iconsborn” could click on the
+username and see the age range of 15 to 17 in the profile.
+      Continuing the chat, appellant asked Iconsborn 3 if she was “on spring
+break,” and she responded that she was and that she was “sleeping a lot
+hanging with friends.” After appellant sent Iconsborn a photo of his cat,
+Iconsborn responded by sending a photo she identified as herself with her
+dog. The photo was actually of a Homeland Security agent from New York
+when she was 14. Appellant complained about having to drive to Modesto
+the next day and Iconsborn responded, “I can’t wait to drive.” Appellant said
+he taught his sister how to drive, and Iconsborn said, “I wanna learn.”
+
+
+      2 All errors in grammar, spelling, punctuation, and capitalization in the
+
+messages quoted herein appear in the exhibit of those messages.
+
+      3 We will generally refer to the person appellant interacted with on
+
+Whisper as “Iconsborn,” and use the pronouns “she” and “her,” even though
+the person was actually Holcombe posing as a female minor. And, as
+explained later in the decision, the name Lizzy was never again repeated in
+the exchange, and appellant testified he did not have access to the initial
+exchange and did not realize he was communicating with the person who had
+identified herself as 14-year-old “Lizzy.”
+
+                                       3
+Appellant said that he could teach Iconsborn but added, “You’re supposed to
+have a permit before you get trained though.”
+      Iconsborn asked appellant, “Do u have a gf,” and he responded, “Nope,”
+and asked, “You have a bf?” Iconsborn said, “No,” and added, “I’m not really
+allowed to.” She explained that her mom was “weird about it” and, in
+response to appellant’s questions, denied that it was “like one of those
+arranged marriage things” or “a religious thing.” She continued, “I mean I’ve
+liked guys and hung out with them she just is protective.” Iconsborn said she
+had gone out on a couple dates and to a “school dance” with a guy. Appellant
+asked, “Anything after that?” and Iconsborn responded, “Kissing.” Appellant
+said, “That’s it?” and Iconsborn said, “Yeah that’s all I’ve done.” Appellant
+questioned further, asking, “Is it because you didn’t want to?” Iconsborn
+responded, “I do I just got nervous.” Appellant then said, “You’re missing
+out,” and “It’s the best thing ever lol.” Iconsborn responded, “Lol. Probably.
+Plus he would just tell everyone at school.” Appellant said, “So you need it to
+be a secret,” and added, “I can keep secrets.” Iconsborn wrote, “That cause u
+r older,” and appellant responded, “That’s true[.] . . . Things are more private
+when you’re older.”
+      Iconsborn asked appellant what he looked like and he sent her two
+photos—in one, he had a bare torso and a towel on the lower half of his body.
+Iconsborn responded, “Wow. Hot.” Appellant wrote that he had “other gifts
+too” and that he was “much more well equipped than most guys lol.”
+Iconsborn sent another photo, again of a law enforcement officer when she
+was 14. Appellant responded, “You’re on fire,” “You woke up my other half,”
+“Down below,” and “You better take responsibility for waking him up.”
+      Appellant then asked Iconsborn if she was “allowed to leave the house
+whenever you want or does your parents not let you?” She answered, “I live
+
+
+
+                                       4
+with my mom she usually works until 8,” and added that she and her sister
+sometimes had dinner with her dad. Appellant then wrote, “[I]f you want we
+can mess around this week.” Iconsborn answered, “Let me see if I can ditch
+my sister in the afternoon,” and appellant said he would get a “[h]otel room”
+so they could “mess around.”
+      The next morning, appellant sent Iconsborn two photos with the
+camera pointed at his groin area; in one, he was wearing only underwear.
+Iconsborn said she was going to the “mall with mom for a bit.” Appellant
+asked about meeting up in the afternoon, offering again to give a driving
+lesson and adding, “Then we can have fun after.” Appellant commented, “But
+it’s your first time,” and Iconsborn wrote, “I might not be good at it,” and “I
+don’t wanna get preggo cause yeah that would sux.” Appellant responded,
+“You won’t trust me lol,” and “I have very good self control and I know when
+to pull out.” Appellant offered to pick Iconsborn up but she said not at her
+house “[c]aus my older sis may be there.”
+      Appellant and Iconsborn continued to text and made plans to meet up
+in downtown Pleasant Hill. Appellant promised to have her home by 8:00
+p.m. The final text in the thread is appellant announcing his arrival at the
+meeting place. He was met by law enforcement and detained. A search of his
+car revealed a brown bag containing a box of condoms and a container of
+lubricant, purchased about 30 minutes earlier.
+Defense Evidence
+      A woman who had dated appellant for “multiple” years testified that
+appellant was “very truthful, very rule following,” and “a little bit boring.”
+She opined that appellant would not try to have sex with a minor because
+“[h]e would know that’s breaking the law.”
+
+
+
+
+                                        5
+      Appellant testified he was not interested in having sex with minors,
+and he had not believed he was arranging a meeting with a 14 year old on
+Whisper. At the time of trial in 2023, appellant was 37 years old; he lied
+when he told Iconsborn he was 28 because he did not want to share personal
+information. When he chatted with Iconsborn in April 2018, he had recently
+learned his girlfriend was cheating on him; he felt betrayed and downloaded
+Whisper to look for a casual sexual encounter. When he opened the
+application, he clicked on Iconsborn’s post “New to Whisper” because he
+thought it was a tutorial. He then clicked on “chat” because he thought it
+would take him to a “chat room.” That led to the chat with Iconsborn; at the
+same time, he was chatting with eight to twelve other users in response to
+other posts. He did not care when “Lizzy” said she was 14 because at that
+point he thought he was in a chat room learning to use Whisper. He also did
+not believe she was actually 14; he thought she was “messing with” him
+because he had previously encountered “bots, scammers, just people that
+want to cause havoc.” He also thought a person had to be 18 to use the
+application.
+      At the same time he was chatting with Iconsborn, appellant was
+contacting other people on more than five dating applications, in addition to
+the eight to twelve other people on Whisper. Appellant testified that he
+realized at some point “very early” that he was not in a chat room in the
+thread with Iconsborn and he “went back and deleted” all the “Whispers”
+“that didn’t look dating related.” He did not remember all of the threads he
+deleted, “[b]ut some of them were, going to the movies, looking for someone to
+hang out with, [N]ew to Whisper was definitely one of them.” On cross-
+examination, he confirmed he deleted the entire thread, not individual
+messages, but then Iconsborn messaged him again. Appellant testified that,
+
+
+
+                                       6
+because he had deleted the “New to Whisper” thread and no longer had
+access to the initial exchanges, he did not know it was “Lizzy,” the person
+who said they were 14, with whom he was making plans to meet.
+      Appellant testified he did not think that the person in the photos
+Iconsborn sent was under 18. He also did not think various things she said—
+such as that she was on spring break, did not have a driver’s license, and was
+sexually inexperienced—necessarily meant that she was a minor. When
+Iconsborn said she was not allowed to date, he thought it might be a religious
+issue because, in his culture, “you’re not supposed to have a boyfriend or
+girlfriend. You’re supposed to get married before you do any of that.”
+                                DISCUSSION
+      The parties agree the trial court erred by instructing the jury that a
+mistake of fact is not a defense to the charged offenses unless the mistake is
+not only actual but reasonable. Respondent argues, however, that appellant
+has not shown he was prejudiced by the error. We disagree and reverse.
+I.    Additional Background
+      Without objection from appellant, the trial court instructed the jury on
+mistake of fact as follows: “The Defendant is not guilty of the crimes charged
+in this case, Contacting a Minor with Intent to Commit a Lewd Act, Going to
+a Meeting with a Minor for a Lewd Purpose, and Attempted Lewd Act on a
+Child 14 or 15 Years of Age if he did not have the intent or mental state
+required to commit the crimes because he reasonably did not know a fact or
+reasonably and mistakenly believed a fact. [¶] If the defendant’s conduct
+would have been lawful under the facts as he reasonably believed them to be,
+he did not commit the crimes charged in this case. [¶] If you find that the
+defendant believed that the person with whom he communicated with over
+Whisper was 18 years or older and if you find that belief was reasonable, he
+
+
+
+                                       7
+did not have the specific intent or mental state required for” the charged
+offenses.
+      As appellant points out, the prosecutor’s closing arguments took full
+advantage of the instructional error and overwhelmingly focused on the
+reasonableness of appellant’s purported belief that Iconsborn was an adult.
+The prosecutor argued, “Look at every single indicator and then ask yourself:
+Would a reasonable person presented with this person think that this is an
+adult? The answer is absolutely, unequivocally no.” He finished his closing
+arguments by stating, “I ask you as a jury, look at the exhibits, look at the
+evidence, look at these photographs and tell me, tell me whether his belief is
+reasonable. Ladies and gentlemen, this man is guilty and I ask you to hold
+him accountable for what he’s done.”
+      The prosecutor then returned to the theme in rebuttal, arguing, “How
+reasonable was his testimony when you consider all the other evidence in this
+case? When you consider his messages and what he has said in his
+messages? Is his testimony reasonable?” The prosecutor continued, “I’m
+going to quote this word a couple times: Reasonable. It is not a defense to the
+charges to ignore the facts. It is not a defense to the charges to ignore when
+someone tells you they’re 14 or to ignore the hints or signs that someone is a
+child. It’s not a defense. And it’s not a defense because it’s not reasonable.
+So that instruction, a mistake of fact, doesn’t apply in this case.” He then
+characterized the mistake of fact defense as a “Hail Mary play,” and stated
+regarding defense counsel, “[H]e’s asking you to ignore this: Reasonable.
+That one word that keeps coming back in all of the jury instructions:
+Reasonable. It doesn’t matter if this man gets up there and says he’s an alien
+from another planet that doesn’t understand [our] technology. It has to be
+reasonable. You must act reasonably.” Finally, he finished by arguing, “We
+
+
+
+                                       8
+come back to reasonable, ladies and gentlemen. We have 12 reasonable
+jurors about to go back into a room and review this evidence. This is a child.
+No reasonable person would think that that is an adult.”
+II.   Legal Background
+      Section 288.4, subdivision (a) proscribes arranging “a meeting with a
+minor or a person [the defendant] believes to be a minor for” a lewd purpose,
+“motivated by an unnatural or abnormal sexual interest in children.” Section
+288.4, subdivision (b) provides for greater punishment for persons who go “to
+the arranged meeting place at or about the arranged time.” Section 288.3,
+subdivision (a) provides, “Every person who contacts or communicates with a
+minor, or attempts to contact or communicate with a minor, who knows or
+reasonably should know that the person is a minor, with intent to commit [a
+specified] offense . . . involving the minor shall be punished by imprisonment
+in the state prison for the term prescribed for an attempt to commit the
+intended offense.” Finally, section 288, subdivision (a) proscribes “willfully
+and lewdly commit[ting] any lewd or lascivious act” upon a minor under the
+age of 14 “with the intent of arousing, appealing to, or gratifying the lust,
+passions, or sexual desires” of either the perpetrator or the child. Subdivision
+(c)(1) proscribes the same conduct as to 14- and 15-year-old victims, provided
+the perpetrator is at least 10 years older than the victim. (§ 288, subd. (c)(1).)
+      “Section 26 codifies the defense of mistake of fact. It ‘provides in
+pertinent part that persons who “committed the act or made the omission
+charged under an ignorance or mistake of fact, which disproves a criminal
+intent,” are not criminally liable for the act.’ ” (People v. Hanna (2013) 218
+Cal.App.4th 455, 461 (Hanna).) In order for a mistake of fact to “negate the
+mental state element of a given crime,” the defendant must harbor “an actual
+belief ‘in the existence of circumstances, which, if true, would make the act
+
+
+
+                                        9
+with which the person is charged an innocent act.’ ” (People v. Lawson (2013)
+215 Cal.App.4th 108, 115.) “For general intent crimes, the defendant’s
+mistaken belief must be both actual and reasonable, but if the mental state of
+the crime is a specific intent or knowledge, then the mistaken belief must
+only be actual. [Citations.] In all cases, however, the defendant’s mistaken
+belief must relate to a set of circumstances which, if existent or true, would
+make the act charged an innocent act.” (Ibid.)
+      Respondent concedes that all three crimes of which appellant was
+convicted required a showing of specific intent. (See People v. Fromuth (2016)
+2 Cal.App.5th 91, 105–106 [“[s]ection 288.4’s specific intent element requires
+proof that, when he or she arranged the meeting, the defendant intended to
+engage in sexual conduct with a person he or she believed to be a child”];
+People v. Keister (2011) 198 Cal.App.4th 442, 449 [section 288.3, subdivision
+(a) “requires the defendant to contact or communicate with a minor or
+attempt to do so with the specific intent to commit an enumerated sex
+offense”]; Hanna, supra, 218 Cal.App.4th at pp. 461–462 [attempted violation
+of section 288 is a specific intent crime].) Accordingly, respondent further
+concedes “that the instructions should not have limited the mistaken fact to
+reasonable mistakes.” 4 As explained in Hanna with regard to the attempted
+lewd act offense, “the defendant must have specifically intended to commit a
+
+
+
+      4 In response to a supplemental briefing request, respondent confirmed
+
+its concession as to section 288.3, subdivision (a), despite the statute’s
+reference to a person who contacts someone they “reasonably should know . . .
+is a minor.” Echoing appellant’s argument, respondent reasons that “the
+alleged target offense required that appellant have the specific intent to
+commit a lewd act with a minor,” and “[t]he law provides that appellant
+might have lacked that specific intent if he held an honest but unreasonable
+belief that the person with whom he was communicating was not a minor.”
+We accept the concession.
+
+                                       10
+lewd act on a child . . . . If defendant’s intent was to commit a lewd act on an
+18 year old, he cannot by definition be guilty of an attempt to commit a lewd
+act on a” minor. (Hanna, at p. 462.) Thus, the issue we must resolve is
+whether the instructional error was harmless.
+III.   The Instructional Error Was Not Harmless
+       A.   Standard of Prejudice
+       In People v. Hendrix (2022) 13 Cal.5th 933, the California Supreme
+Court addressed the appropriate analysis for determining if an error in the
+mistake of fact instructions requires reversal. Hendrix declined to resolve the
+question of what standard of prejudice applies to such an error. The Court
+first outlined the well-established competing tests: “The ‘generally applicable
+California test for harmless error’ is set forth in [People v. Watson (1956) 46
+Cal.2d 818 (Watson)]. [Citation.] Under the Watson test, we deem an error
+harmless unless it is ‘reasonably probable’ the outcome would have been
+different in the absence of the error. [Citation.] As a general matter, this
+test applies to ‘ “ ‘incorrect, ambiguous, conflicting, or wrongly omitted
+instructions that do not amount to federal constitutional error.’ ” ’ [Citation.]
+[¶] ‘In contrast, we evaluate the harmlessness of violations of the federal
+Constitution under the standard set forth in [Chapman v. California (1967)
+386 U.S. 18 (Chapman)].’ [Citation.] This ‘stricter’ standard of review
+requires reversal unless the error is ‘harmless beyond a reasonable doubt.’
+[Citation.] Among the constitutional errors subject to Chapman review is
+misinstruction of the jury on one or more elements of the offense.” (Hendrix,
+at p. 942.) The Supreme Court acknowledged and summarized competing
+arguments regarding the applicable standard of prejudice but concluded,
+“Ultimately, . . . we need not resolve this dispute about the proper
+characterization of the error for purposes of applying Chapman or Watson,
+
+
+
+                                       11
+because the erroneous mistake of fact instruction was prejudicial even under
+the less stringent standard set out in Watson.” (Hendrix, at p. 944.)
+      Like the Supreme Court in Hendrix, we need not decide whether the
+Chapman or Watson standard applies because the erroneous instruction was
+prejudicial even under the less stringent Watson standard. Following
+Hendrix, we reach that conclusion because the error went to the heart of the
+case and because we may not assume no juror would have believed appellant.
+(Hendrix, supra, 13 Cal.5th at p. 947.)
+      “Watson instructs a reviewing court to ask whether there is a
+reasonable probability the jury might have reached a different result had it
+been instructed correctly. [Citation.] In other words, Watson asks the court
+to imagine what the jury would have done in the counterfactual world in
+which it received correct instructions. While the court should undertake that
+task in light of the ‘ “entire cause, including the evidence” ’ [citation], the
+reviewing court should focus solely on whether ‘the error affected the
+outcome’ [citation], not on whether the court personally believes that outcome
+was correct. The distinction is vitally important. An appellate court may, of
+course, consider the strength of the evidence against the defendant in
+determining whether the absence of a single, discrete error at trial would
+have made a difference to the trial’s overall outcome. [Citation.] The court
+may not, however, rest a harmless error ruling on its own reweighing or
+reinterpretation of the evidence. These are questions solely for the jury, and
+a reviewing court must, at bottom, ground its analysis in what the ‘jury is
+likely to have done,’ not how the court believes the jury should have analyzed
+the evidence before it.” (Hendrix, supra, 13 Cal.5th at p. 948.) Hendrix
+specifically observed that it is sufficient for a finding of prejudice that an
+error might have affected the vote of “at least one juror,” because “a hung
+
+
+
+                                        12
+jury, as opposed to an acquittal, is a ‘more favorable’ [citation] outcome for
+purposes of harmless error review under Watson.” (Hendrix, at p. 947 & fn.
+6.)
+      An important dimension of the harmless error analysis in the present
+case is the proposition that “ ‘it is the exclusive province of the . . . jury to
+determine the credibility of a witness and the truth or falsity of the facts
+upon which a determination depends.’ ” (People v. Mumin (2023) 15 Cal.5th
+176, 202 (Mumin); see also People v. Oyler (2025) 17 Cal.5th 756, 827
+[“ ‘ “Resolution of conflicts and inconsistencies in the testimony is the
+exclusive province of the trier of fact” ’ ”].) “[A]s our Supreme Court has made
+clear on repeated occasions, ‘ “[g]enerally, ‘doubts about the credibility of [an]
+in-court witness should be left for the jury’s resolution.’ ” [Citation.] “Except
+in . . . rare instances of demonstrable falsity, doubts about the credibility of
+the in-court witness should be left for the jury’s resolution . . . .” ’ ” (People v.
+Ennis (2010) 190 Cal.App.4th 721, 728.) Here, the instructional error, when
+viewed in light of the prosecution’s closing arguments, effectively deprived
+appellant of the jury’s resolution of his claim that he actually believed
+Iconsborn was not a minor.
+      B.     Analysis
+      As in Hendrix, “[t]he potential effect of the error was considerable in
+this case, where [appellant’s] mistake of fact claim was the central disputed
+issue at trial. Competing assessments of [appellant’s] mental state occupied
+the vast majority of closing argument.” (Hendrix, supra, 13 Cal.5th at p.
+945.) Appellant testified he did not know the person he was meeting up with
+was the “Lizzy” who said she was 14 years old because he deleted the
+Whisper thread including those details. He testified he deleted the thread at
+an early point in their exchange and that the chat continued when Iconsborn
+
+
+
+                                         13
+messaged him again, but the deleted prior exchanges were not visible to him.
+The expert testified that was technically possible. In particular, Holcombe
+testified that, if a user deletes a thread, the other user in the thread can still
+post a message to the thread, which would “reinitiate” the conversation—and,
+as appellant claimed occurred, the user who previously deleted the thread
+would not have access to the prior messages in the thread. Furthermore,
+appellant testified he was chatting with many different people on Whisper at
+the same time, as well as chatting with people on a number of other dating
+applications, which could explain his confusion as to the identity of
+Iconsborn. And it is true that Iconsborn never again identified herself as
+“Lizzy” or gave her age after the initial exchanges.
+      Notably, the prosecutor never directed his argument at whether
+appellant actually was mistaken as to Iconsborn’s age. Instead, he
+repeatedly argued that any such belief was simply not reasonable, and,
+therefore, did not constitute a defense. We acknowledge the evidence
+supporting the mistake of fact defense was not particularly strong. All of
+appellant’s exchanges with Iconsborn at least suggested she was a minor. In
+particular, she told him that she could not “wait to drive” and his response
+reflected an assumption she did not have a permit; that she was “not really
+allowed to” date; that she lived with her mother; that she had to hide it from
+her parents when she saw boys; that she could only see appellant when her
+mom was at work and if she wasn’t having dinner with her father and was
+able to “ditch” her sister; that her sister was older and apparently also lived
+with their mom; that she was sexually inexperienced, having only kissed; and
+that she had gone to a “school dance” on a date and been reluctant to do more
+than kissing because “he would just tell everyone at school,” both of which
+suggested she was in high school. Appellant expressly acknowledged her
+
+
+
+                                        14
+youth and the age difference between them in commenting, “Things are more
+private when you’re older.” He asked her if she was “allowed to leave the
+house whenever you want,” which would be a strange question to ask an
+adult. Additionally, appellant received two photos of a 14-year-old girl; even
+if it was not impossible to believe that the girl in the photos was over 18, she
+certainly looks like a minor. 5 Appellant asserts that all those circumstances
+did not conclusively prove Iconsborn was a minor, but he fails to point to a
+single thing either he or she said that was more consistent with her being an
+adult rather than a minor. On the other hand, as appellant testified, it is
+true that there are young adults who are sexually inexperienced, live with
+their parents, are subject to parental control, and do not drive.
+      Based on the above, there is no doubt that any belief appellant held
+that Iconsborn was an adult was unreasonable. However, “[g]iven the
+evidence before the jury, there is ‘ “ ‘more than an abstract possibility’ ” ’
+[citation] that at least one juror thought [appellant] genuinely believed [it to
+be true] and that this juror or jurors were influenced by the erroneous
+mistake of fact instruction to discount that belief as unreasonable under the
+circumstances.” (Hendrix, supra, 13 Cal.5th at p. 947.) Indeed, the mistake
+of fact defense assumes the possibility that an individual can act in an
+illogical (that is, unreasonable) way while still lacking the specific intent
+required for a conviction. Appellant’s testimony was neither physically
+impossible nor demonstrably false. And as Hendrix clarifies, the ultimate
+question is not whether the jurors could have concluded that appellant was
+lying about making a mistake, but instead “whether the nature of the
+
+
+
+      5 Holcombe did not testify the photos were of the same 14-year-old girl,
+
+but appellant was led to believe so and it appears possible the photos were of
+the same girl.
+
+                                        15
+evidence leaves us ‘ “in serious doubt as to whether the [instructional] error
+affected the result.” ’ ” (Hendrix, at p. 946.)
+      It is more than a mere possibility that the jury focused entirely on the
+reasonableness of appellant’s purported mistake and did not even consider
+whether that mistaken belief was “genuinely held.” (Hendrix, supra, 13
+Cal.5th at p. 944.) Accordingly, contrary to respondent’s assertion, we do not
+interpret the verdict as reflecting a finding that the jury disbelieved
+appellant’s testimony. It is clear that, had the jury been properly instructed,
+the deliberations would have proceeded in a fundamentally different manner,
+focusing on the credibility of appellant’s claim that he genuinely believed
+Iconsborn was over 18.
+      In the present case, respecting the jury’s role in making credibility
+determinations means this court may not dismiss the possibility that a juror
+could have believed appellant. As the Supreme Court recently explained,
+“Ultimately, it is within the jury’s exclusive province to determine whether
+an inference that may be drawn from the evidence is, in fact, the only
+reasonable one, a determination that depends on its resolution of conflicting
+evidence and weighing the credibility of witnesses.” (Mumin, supra, 15
+Cal.5th at p. 202; see also Hendrix, supra, 13 Cal.5th at p. 948 [“The court
+may not, however, rest a harmless error ruling on its own reweighing or
+reinterpretation of the evidence. These are questions solely for the jury.”].)
+Given the evidence here and the instructional error, strongly reinforced by
+the prosecutor’s arguments, we would “usurp the jury’s province,” were we to
+dismiss the possibility that a juror could have believed appellant. (Mumin, at
+p. 202.)
+      Hanna, supra, 218 Cal.App.4th 455, which also involved online
+communications between an adult defendant and someone posing as a minor,
+
+
+
+                                        16
+is distinguishable. The Court of Appeal held the trial court erred in failing to
+give a mistake of fact instruction because “[t]here was substantial evidence
+based on which a jury could believe defendant intended to have sexual
+relations with an 18 year old.” (Id. at p. 462.) In particular, the minor’s
+profile said she was 18, “she” told the defendant in their online
+communications that she was sexually experienced, and the defendant told
+the investigating officer that the minor said she was 18. (Ibid.)
+Nevertheless, the Court of Appeal concluded “it was not reasonably probable
+defendant would have obtained a more favorable outcome had the court
+instructed on the mistake-of-fact defense.” (Id. at p. 463.) The court
+emphasized that the defendant was informed that the person he was
+conversing with was 13 (“ ‘I’m 13 and if that’s okay with you’ ”), that she
+attended middle school, and that she “lied [on her profile] in order to be able
+to speak with older men.” (Ibid.) Those circumstances indicate that the
+defendant’s claim of mistake of fact was even weaker in Hanna than in the
+present case. However, the more fundamental distinction is that the
+defendant in Hanna did not testify. Because of that, the Court of Appeal in
+its prejudice analysis did not have to confront the possibility that jurors
+believed a defendant’s testimony about a mistake of fact, and a finding of
+harmless error did not risk usurping the jury’s role in determining the
+credibility of the defendant’s testimony.
+      By declining to hold the instructional error harmless, we avoid the
+error made by the Court of Appeal in Hendrix. The issue there was whether
+the defendant, charged with residential burglary, “mistakenly believed a
+relevant fact—namely, that the house belonged to his cousin and not to a
+stranger.” (Hendrix, supra, 13 Cal.5th at p. 936.) The claim of mistake was
+made by the defendant in a statement to the police. (Id. at p. 937.) In
+
+
+
+                                       17
+reversing, the Supreme Court observed, “The overall effect of the Court of
+Appeal’s approach was to substitute the court’s judgment for that of
+Hendrix’s jury regarding the central question in the case: what Hendrix
+really believed when he approached the Oxnard house. It may well be that a
+properly instructed jury would have agreed with the Court of Appeal’s
+assessment of the evidence. But it was the jury’s assessment, not the Court
+of Appeal’s, to make.” (Hendrix, supra, 13 Cal.5th at p. 949.) The fact that
+here the jury’s assessment of appellant’s credibility is unknown is even more
+of a reason for this court to be hesitant to find harmless error than the
+situation in Hendrix, where the defendant did not testify. (Id. at pp. 936–
+937.)
+        In sum, critical to our harmless error analysis is that appellant
+testified at trial; the jury heard him give his version of the events and could
+evaluate his demeanor, which of course an appellate court cannot do. The
+courts in Hendrix and Hanna were faced with the question of whether the
+defendants were truthful in statements to police officers, but those courts
+were not required to factor in uncertainty about the jury’s evaluation of a
+defendant’s testimony—and even in that context, Hendrix counseled caution
+on the part of appellate courts. Accordingly, once we acknowledge that the
+evidence supports the possibility that a juror could have found appellant
+credible, it is clear we cannot find the error harmless even under the Watson
+standard. To be clear, the issue is not whether it is reasonably probable a
+juror would have found appellant credible. Instead, because the evidence
+creates more than an “ ‘ “ ‘abstract possibility’ ” ’ ” a juror could have found
+him credible (Hendrix, supra, 13 Cal.5th at p. 947), the issue is whether there
+is a reasonable likelihood a juror who believed appellant would have found
+him not guilty. As we have explained, the entire focus of the prosecutor’s
+
+
+
+                                        18
+argument was that appellant’s belief that Iconsborn was an adult was
+unreasonable, and the jury had no need to even consider whether appellant
+genuinely believed she was an adult. But, if a juror believed appellant’s
+testimony, it is highly likely that the juror would have found appellant not
+guilty if properly instructed regarding unreasonable mistake of fact, because
+appellant’s belief would have negated specific intent as to the charged
+offenses. (See Hendrix, at pp. 948–950.) Accordingly, we reverse.
+                                DISPOSITION
+      The trial court’s judgment is reversed.
+
+
+
+
+                                                       SIMONS, J.
+
+
+We concur.
+JACKSON, P. J.
+CHOU, J.
+
+
+
+
+(A168277)
+
+
+                                      19
+The People v. Ahmed Kamal Ismaiel (A168277)
+
+Trial Court:   Superior Court of California, County of Contra Costa
+
+Trial Judge:   Hon. Rebecca C. Hardie
+
+Counsel:       Elizabeth M. Campbell, under appointment by the Court of
+               Appeal, for Defendant and Appellant.
+
+               Rob Bonta, Attorney General, Lance E. Winters, Chief
+               Assistant Attorney General, Jeffrey M. Laurence, Assistant
+               Attorney General, Seth K. Schalit and Molly A. Smolen,
+               Deputy Attorneys General, for Plaintiff and Respondent.
+
+
+
+
+                                  20

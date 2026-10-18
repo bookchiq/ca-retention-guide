@@ -1,0 +1,207 @@
+cl_opinion_id: 6316780
+cluster: 6444669
+docket: F079979
+date: 2022-02-23
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Rhoads CA5
+----
+Filed 2/23/22 P. v. Rhoads CA5
+
+
+
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                       FIFTH APPELLATE DISTRICT
+
+
+ THE PEOPLE,
+                                                                                          F079979
+           Plaintiff and Respondent,
+                                                                            (Super. Ct. No. BF174783A)
+                    v.
+
+ DANIEL AARON RHOADS,                                                                   OPINION
+           Defendant and Appellant.
+
+
+
+         APPEAL from a judgment of the Superior Court of Kern County. John S. Somers,
+Judge.
+         Benjamin Owens, under appointment by the Court of Appeal, for Defendant and
+Appellant.
+         Xavier Becerra, Attorney General, Lance E. Winters, Chief Assistant Attorney
+General, Michael P. Farrell, Assistant Attorney General, Daniel B. Bernstein and
+Stephanie A. Mitchell, Deputy Attorneys General, for Plaintiff and Respondent.
+                                                        -ooOoo-
+         A jury convicted Daniel Aaron Rhoads of second degree murder and found true an
+allegation of personal and intentional discharge of a firearm within the meaning of Penal
+Code1 section 12022.53, subdivision (d). The firearm enhancement added a prison term
+of 25 years to life to Rhoads’s sentence. On appeal, Rhoads contends the trial court was
+unaware of its discretion to reduce the punishment by substituting a lesser included but
+uncharged enhancement under subdivision (b) or (c) of the same statute. The California
+Supreme Court’s recent decision in People v. Tirado (2022) 12 Cal.5th 688 supports this
+claim. The matter will therefore be remanded to allow the trial court to consider all
+sentencing options under section 12022.53.
+                  FACTUAL AND PROCEDURAL BACKGROUND
+       In December 2018, detectives from the Kern County Sheriff’s Office questioned
+Rhoads about the disappearance of William Alford, who had been reported missing
+several weeks earlier. Rhoads admitted to killing Alford but claimed he acted in self-
+defense. When asked about the decedent’s remains, Rhoads told the detectives, “I
+bagged him and I put him in the trash.” Forensic evidence corroborated the confession,
+but Alford’s body was never found.
+       In January 2019, Rhoads was charged with one count of willful, deliberate, and
+premeditated murder (§ 187, subd. (a)). For enhancement purposes, he was alleged to
+have killed the victim by means of personal and intentional discharge of a firearm
+(§ 12022.53, subd. (d)), to wit, a .308-caliber rifle. The case went to trial in April 2019.
+The jury acquitted Rhoads of first degree murder but found him guilty of second degree
+murder. A true finding was made on the firearm enhancement allegation.
+       On May 14, 2019, defense counsel filed a sentencing memorandum wherein the
+trial court was asked to strike the firearm enhancement in the interests of justice. (See
+§§ 1385, 12022.53, subd. (h).) The People opposed the request. The motion hearing and
+sentencing both took place on September 4, 2019.
+
+
+
+1      All undesignated statutory references are to the Penal Code.
+
+
+                                              2.
+       There was no discussion on the record or in the sentencing memoranda of the trial
+court modifying/reducing the enhancement to impose lesser punishment than the term of
+25 years to life prescribed by section 12022.53, subdivision (d). The trial court denied
+the motion, citing the “very callous” manner in which the firearm had been used. Rhoads
+was sentenced to 15 years to life on the murder count and received a consecutive term of
+25 years to life for the firearm enhancement.
+                                       DISCUSSION
+       Rhoads presents two related claims. He alleges the trial court “was clearly
+unaware of its discretion to impose a lesser enhancement” in lieu of choosing between
+striking the enhancement or imposing punishment under section 12022.53, subdivision
+(d). The People argue Rhoads forfeited this issue by failing to raise it with the trial court.
+Anticipating this problem, Rhoads’s opening brief also alleges ineffective assistance of
+counsel (IAC).
+       Section 12022.53 provides for sentencing enhancements based on a defendant’s
+personal use of a firearm in the commission of certain enumerated felonies. There is a
+10-year enhancement for the personal use of a firearm (id., subd. (b)); a 20-year
+enhancement for the personal and intentional discharge of a firearm (id., subd. (c)); and a
+25-year-to-life enhancement for the personal and intentional discharge of a firearm
+causing great bodily injury or death (id., subd. (d)). Trial courts may, “in the interest of
+justice pursuant to Section 1385 …, strike or dismiss an enhancement otherwise required
+to be imposed by” section 12022.53. (Id., subd. (h).)
+       In People v. Morrison (2019) 34 Cal.App.5th 217 (Morrison), Division Five of the
+First Appellate District concluded trial courts have “discretion to impose an enhancement
+under section 12022.53, subdivision (b) or (c) as a middle ground to a lifetime
+enhancement under section 12022.53, subdivision (d), if such an outcome [is] found to be
+in the interests of justice under section 1385.” (Id. at p. 223.) This district reached a
+different conclusion in People v. Tirado (2019) 38 Cal.App.5th 637, review granted
+
+                                              3.
+November 13, 2019, S257658. The California Supreme Court has now held that
+“Morrison correctly described the scope of a trial court’s sentencing discretion under
+section 12022.53.” (People v. Tirado, supra, 12 Cal.5th at p. 697.) “To summarize:
+When an accusatory pleading alleges and the jury finds true the facts supporting a section
+12022.53(d) enhancement, and the court determines that the section 12022.53(d)
+enhancement should be struck or dismissed under section 12022.53(h), the court may,
+under section 12022.53(j), impose an enhancement under section 12022.53(b) or (c).”2
+(Id. at p. 700.)
+       Despite the merits of Rhoads’s position on appeal, the People argue his claim
+should not be considered. They rely on the general rule that “claims of error in the trial
+court’s exercise of its sentencing discretion” are forfeited “if not raised at the sentencing
+hearing.” (People v. Trujillo (2015) 60 Cal.4th 850, 856.) However, the purpose of this
+rule is “ ‘to reduce the number of errors committed in the first instance’ ” and “ ‘the
+number of costly appeals brought on that basis.’ ” (People v. Smith (2001) 24 Cal.4th
+849, 852.) The rationale is that “[s]uch errors are essentially factual, and thus distinct
+from ‘ “clear and correctable” ’ legal errors that appellate courts can redress on appeal
+‘independent of any factual issues presented by the record at sentencing.’ ” (People v.
+Trujillo, supra, 60 Cal.4th at pp. 856‒857.) It is also “ ‘unfair and inefficient to permit a
+claim of error on appeal that, if timely brought to the attention of the trial court, could
+
+
+
+2      “Section 12022.53(j) is the subdivision that authorizes the imposition of
+enhancements under section 12022.53. It provides that for the penalties in section
+12022.53 to apply, the existence of any fact required by section 12022.53(b), (c), or (d)
+must be alleged in the accusatory pleading and admitted or found true. Therefore, the
+question [considered by the California Supreme Court was] not whether section
+12022.53(h) authorizes the court to change, modify, or substitute an enhancement.
+Rather, it [was] whether section 12022.53(j) authorizes the court to impose an
+enhancement under section 12022.53(b) or (c) after striking a section 12022.53(d)
+enhancement.” (People v. Tirado, supra, 12 Cal.5th at p. 700.)
+
+
+                                              4.
+have been easily corrected or avoided.’ ” (People v. Stowell (2003) 31 Cal.4th 1107,
+1114.)
+         The policy considerations behind the forfeiture rule are inapposite here because
+Rhoads’s claim could not have been “ ‘easily corrected or avoided’ ” in the trial court.
+(People v. Stowell, supra, 31 Cal.4th at p. 1114.) There was a split of authority on the
+issue in question at the time of sentencing. This district had already published an opinion
+adverse to Rhoads’s position, so an appeal was likely even if defense counsel had raised
+the issue. Furthermore, this district has said a trial court’s lack of knowledge regarding
+the scope of its discretion “may fall within a narrow class of sentencing issues that are
+reviewable in the absence of a timely objection.” (People v. Leon (2016) 243
+Cal.App.4th 1003, 1023.)
+         “Defendants are entitled to ‘sentencing decisions made in the exercise of the
+“informed discretion” of the sentencing court,’ and a court that is unaware of its
+discretionary authority cannot exercise its informed discretion.” (People v. Brown (2007)
+147 Cal.App.4th 1213, 1228, quoting People v. Belmontes (1983) 34 Cal.3d 335, 348,
+fn. 8.) “ ‘Failure to exercise a discretion conferred and compelled by law constitutes a
+denial of a fair hearing and a deprivation of fundamental procedural rights, and thus
+requires reversal. [Citations.]’ [Citation.] Where, as here, a sentence choice is based on
+an erroneous understanding of the law, the matter must be remanded for an informed
+determination.” (People v. Downey (2000) 82 Cal.App.4th 899, 912.) For these reasons,
+we reject the People’s forfeiture argument. It is therefore unnecessary to address
+Rhoads’s contingent IAC claim.
+         “Relief from a trial court’s misunderstanding of its sentencing discretion is
+available on direct appeal when such misapprehension is affirmatively demonstrated by
+the record.” (People v. Leon, supra, 243 Cal.App.4th at p. 1026; see, e.g., People v.
+Deloza (1998) 18 Cal.4th 585, 600.) “[T]he appropriate remedy is to remand for
+resentencing unless the record ‘clearly indicate[s]’ that the trial court would have reached
+
+                                               5.
+the same conclusion ‘even if it had been aware that it had such discretion.’ ” (People v.
+Gutierrez (2014) 58 Cal.4th 1354, 1391.) Here, the trial court could not have known the
+scope of its discretion under section 12022.53 because the spilt of authority on that issue
+was not resolved until this year. Although the People disagree, we conclude the record
+does not clearly indicate that a remand would be futile.3
+       We express no opinion as to how the trial court should exercise its sentencing
+discretion on remand.
+                                      DISPOSITION
+       The judgment is affirmed but the sentence is vacated and the cause is remanded
+for a new sentencing hearing. On remand, the trial court shall consider all sentencing
+options under section 12022.53.
+
+
+
+                                                            DE SANTOS J.
+WE CONCUR:
+
+
+
+FRANSON, ACTING P. J.
+
+
+
+PEÑA, J.
+
+
+
+
+3       The People rely on the following statements made by the trial court at sentencing:
+“[I]n this particular case, I do find that the nature of—and the circumstances under which
+the firearm was used in this particular case[—]not anything about Mr. Rhoads’ prior
+history because in regards to the firearm allegation, in particular that did not particularly
+concern me[—]but in regards to the use of the firearm, which was very callous in the
+manner in which it was used in this particular case[,] I will deny the motion to strike the
+firearm allegation….”
+
+
+                                             6.

@@ -1,0 +1,879 @@
+cl_opinion_id: 4654417
+cluster: 4850638
+docket: F077504
+date: 2021-01-25
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Jaimes
+----
+Filed 1/25/21; See dissenting opinion
+
+
+
+                         CERTIFIED FOR PARTIAL PUBLICATION*
+
+             IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                    FIFTH APPELLATE DISTRICT
+
+    THE PEOPLE,
+                                                                     F077504
+          Plaintiff and Respondent,
+                                                            (Super. Ct. Nos. BF168932A,
+                   v.                                         BF168932B, BF168932D)
+
+    JORGE JAIMES et al.,
+                                                                   OPINION
+          Defendants and Appellants.
+
+
+         APPEAL from a judgment of the Superior Court of Kern County. Kenneth C.
+Twisselman II, Judge.
+         Roberta Simon, under appointment by the Court of Appeal, for Defendant and
+Appellant Jorge Jaimes.
+         Athena Shudde, under appointment by the Court of Appeal, for Defendant and
+Appellant Joseph Gonzales.
+         Jill M. Klein, under appointment by the Court of Appeal, for Defendant and
+Appellant Monica Magana.
+         Xavier Becerra, Attorney General, Gerald A. Engler and Lance E. Winters, Chief
+Assistant Attorneys General, Michael P. Farrell, Assistant Attorney General, Darren K.
+Indermill and Daniel B. Bernstein, for Plaintiff and Respondent.
+                                               -ooOoo-
+
+
+*       Pursuant to California Rules of Court, rules 8.1105(b) and 8.1110, this opinion is
+certified for publication with the exception of parts I., II. and III. of the Discussion.
+
+
+                                        SEE DISSENTING OPINION
+       Appellants Joseph Francisco Gonzales and Jorge Jaimes, both active gang
+members, forcibly entered a man’s home. Gonzales held the homeowner at gunpoint
+while Jaimes stole miscellaneous property. Their getaway driver, Angie Ortiz, waited
+outside in a vehicle.1 According to Ortiz, waiting alongside the vehicle was the theft’s
+mastermind, appellant Monica Magana.
+       Gonzales, Jaimes, and Magana were tried jointly by jury. Ortiz settled her case
+and testified against the others. Gonzales, Jaimes, and Magana were each convicted for
+their respective roles in the robbery. The jury found true several gang and firearm
+enhancements. (Pen. Code,2 §§ 186.22, subd. (b), 12022.5, subd. (a), 12022.53, subds.
+(b) & (e)).
+       On appeal, each appellant challenges the gang enhancement in two ways. One,
+they argue the evidence insufficiently proved the enhancement. Two, they argue the
+court erroneously defined “association”—an element of the gang enhancement—in
+response to the jury’s request to define the term. The People oppose these claims.
+       Gonzales and Magana also raise individual claims. Magana argues her
+convictions are invalid because Ortiz’s testimony was not sufficiently corroborated
+within the meaning of section 1111. She also argues Senate Bill No. 136 (2019-2020
+Reg. Sess.) (Senate Bill No. 136), enacted after the trial proceedings concluded, applies
+retroactively. If correct, Senate Bill No. 136 could potentially reduce her sentence by one
+year. The People concede these issues.
+       Gonzales argues one of the firearm enhancements was legally inapplicable and
+echoes Magana’s Senate Bill No. 136 claim. The People concede these issues as well.
+
+
+
+
+1      Ortiz is not a party to the appeal.
+2      Undesignated statutory references are to the Penal Code.
+
+                                             2
+       We accept each of the People’s concessions.3 We further conclude the evidence
+sufficiently proved the gang enhancement. But the court’s response to the jury’s request
+for assistance was prejudicial error because, as we will explain, it focused the jury’s
+attention towards the association between Gonzales and Jaimes and away from the
+requisite association between the crime and the gang. Accordingly, we reverse the gang
+enhancements and remand for further proceedings.
+                                     BACKGROUND
+Charges
+       The Kern County District Attorney charged each defendant with committing first
+degree robbery (§§ 212.5 & 213, count 2) and first degree burglary (§§ 459 & 460, count
+3).4 Gonzales and Jaimes were also charged with active participation in a criminal street
+gang (§ 186.22, subd. (a), count 5). Gonzales was further charged with possessing a
+firearm as a convicted felon (§ 29800, subd. (a), count 4).
+       For the robbery and burglary charges, the district attorney alleged the crimes were
+gang related (§ 186.22, subd. (b)). For the robbery charge, the district attorney alleged
+gang-related firearm enhancements (§ 12022.53, subds. (b) & (e)). For the firearm
+possession offense, the district attorney alleged Gonzales used a firearm (§ 12022.5,
+subd. (a)). Magana and Gonzales were alleged to have each previously served a prison
+term (§ 667.5, subd. (b)).
+Trial Evidence
+       Angie Ortiz testified for the People. According to her, Monica Magana wanted to
+get a TV back from a man’s house. Magana believed the man “was supposed to be at
+work” and the home was unoccupied. Ortiz agreed to help. Magana wanted to enlist
+help from Gonzales and Jaimes, “[s]o they could kick the door down and go inside and
+
+3     As explained post, finding this claim in Magana’s favor entitles her to acquittal on
+each charge. Her remaining contentions are moot.
+4      Count 1, an alternative robbery charge, was dismissed during the trial.
+
+                                             3
+get” the TV. Ortiz drove herself and Magana to find Gonzales and Jaimes. They met
+Gonzales and Jaimes who agreed to help and entered the vehicle.
+       Ortiz drove straight to the victim’s house where the TV was located. After
+parking in front of the house, Gonzales and Jaimes exited and kicked the front door
+down, finding the house unexpectedly occupied.
+       The victim testified he was asleep in his living room when he heard the front
+“door [get] kicked in.” Gonzales immediately pointed a gun at the victim while Jaimes
+attempted to remove the TV from the wall. Because they could not get the TV off the
+wall, Jaimes instead stole various electronics and miscellaneous items from around the
+house. Before fleeing, one or both of the men threatened the victim not to report the
+crime or they would return. The victim believed the men were “obvious[ly]” gang
+members based, in part, on their tattoos.
+       The victim’s neighbor noticed the robbery and called the police. She told the
+police two men and two women fled from the house in a black vehicle. Surveillance
+footage from the neighborhood captured the same.
+       A few weeks later, Ortiz was stopped by police while driving the same vehicle
+involved in the robbery. She confessed her involvement and implicated Jaimes,
+Gonzales, and Magana. She stated Jaimes and Gonzales ultimately sold the stolen
+property and did not share the proceeds with her or Magana.
+       Bakersfield Police Officer Nathan Poteete testified as a gang expert witness for the
+People. He testified Gonzales and Jaimes were active members of the Loma Bakers
+street gang.5 Poteete testified the “foundation of a gang is that they all respect one
+another.” A person gains respect by “committing crimes for the gang itself.” “A firearm
+is a tool for the Loma Bakers.” Having a gun “elevates your status” in a gang.
+
+5      The evidence necessary to prove the existence of a criminal street gang (§ 186.22,
+subd. (f)) is not in dispute. Nor do Gonzales and Jaimes dispute they were in fact gang
+members at the time of the offense. We omit the corresponding evidence from our
+summary.
+
+                                              4
+       The primary activities of the Loma Bakers include robbery, burglary, illegal
+firearm possession, and assault with a firearm. Poteete opined that a crime involving
+“two active members of the Loma Bakers along with two female … associates
+conspir[ing] to break into a house and steal items from it,” with the “two active members
+kick[ing] the door open,” pulling a gun on the homeowner, stealing “electronics and other
+valuables,” threatening the homeowner not to “report the incident or they will come
+back,” fleeing with the women, and later selling “all of the items … and never giv[ing]
+any of the money” from the sale to the women is a crime committed “for the benefit of
+the Loma Bakers as well as in association.”
+       Poteete’s opinion had several bases. First, “[t]hey [were] conspiring to commit a
+burglary, which is one of the primary activities of the Loma Bakers.” He thought it was
+“significant that the two gang members are the ones who go to the house and commit that
+offense, because they are associating with one another. They trust each other. They are
+very familiar with each other. Usually they commit crimes together; so they have
+probably done those before.”
+       The explanation continued, “During the commission it turns into a residential
+robbery, which is also one of the primary activities of the Loma Bakers which is
+significant. The fact that one of the gang members says don’t move or I will shoot you is
+significant because criminal threats is a primary activity of the Loma Bakers. As well as
+at the end of the crime he says if you tell anybody I will shoot you or harm you or you
+better not tell anybody. That’s also a criminal threat, in my opinion, which is a primary
+activity of the Loma Bakers. Those statements right there benefit the – I’m sorry, the
+offense as well as the statements benefit the gang due to the fact that it further instills fear
+in the community.”
+       Fear in the community permits the gang to commit further crimes because
+witnesses become “uncomfortable with talking to the police, uncomfortable saying
+anything because they have been threatened by gang members before, because they have
+
+                                               5
+become a victim of gang crimes before. So in the commission of these crimes it further
+benefits the gang.” And “the fact they take all the [money] and don’t share any of the
+profits with the other two people who are not gang members is significant because,
+essentially, the gang members will use the profits” to purchase drugs, firearms, and bail
+bonds. He later conceded he was unaware how the profits were used in this case, but
+what was important was that the profits were kept by the gang members.
+       On cross-examination, Poteete explained the crime’s main benefit is “fear in the
+community.” Based on his training and experience with talking “to numerous
+community members,” “when a violent act … happens, … more often than not [they
+assume]” gang members committed the act. He acknowledged gang members can
+commit crimes together without the crimes being gang related. An active gang member
+can commit a robbery that is not gang related. Gangs commit crimes to benefit
+themselves, not other gangs. Crimes benefit a gang even if the victim is unaware of a
+specific gang affiliation. Highly visible gang-related tattoos were significant to his
+opinion because they “state[] this is who I am, this is what I am about. And when you go
+do things people can see exactly who they are and what they are about.”
+       In a series of “ ‘yes’ or ‘no’ ” questions, Poteete agreed two active gang members
+can commit a crime, including a primary activity crime, that is neither for the benefit of
+nor in association with their gang.
+       Based on his training and experience “in speaking with different gang members,”
+“they trust one another when they commit these offenses. So that’s the association factor.
+They respect each other. They know that the person they are committing it with isn’t
+going to go and tell on them.” While the parties attempted to nail down Poteete’s precise
+definition of association, he repeatedly testified trust equals association. Trust is “why
+they are willing to go to the extent they did in the crime.” “There’s certain advantages
+definitely to committing a crime with multiple people, and that’s how the gang commits
+their crimes. [¶] Additionally, association, they are expected to commit these crimes in
+
+                                              6
+furtherance of the gang as well as that’s kind of way [sic] they are brought up through it.”
+That is why trust allows one gang member to rely on another not to panic when the crime
+escalates due to unanticipated circumstances.
+       Dr. Jesse De La Cruz testified as a gang expert on Jaimes’s behalf. He repeatedly
+opined a crime mirroring that at issue was not gang related. He also testified gang
+members did not trust one another.
+       In rebuttal, Poteete testified “association with a gang” means “two or more gang
+members commit[ting] a crime together and it is based on … trust.” He believed, “based
+on talking to [local] gang members,” they “do trust each other.” He later reiterated,
+“These gang members do trust each other, and that’s part of what makes the gang so
+dangerous is that they can go commit these crimes and they can trust that the other gang
+member is not going to snitch or rat on them.” He explained, “[T]he association they
+have built up with one another throughout their life as gang members and now they are
+committing these crimes together is the association factor, in my opinion.” He then
+testified “association and benefit” are intertwined. But the primary factor in his
+association opinion is that two active gang members committed a crime together.
+Closing Arguments
+       In closing argument, the prosecutor stated, “The real issue in this case … is to
+determine whether the crimes … were gang-related.” The prosecutor argued the crimes
+benefited the gang because they increased Gonzales’s and Jaimes’s reputations, increased
+the gang’s notoriety, and, “inferen[tially],” the profits from the crime went to the gang.
+       The crimes, according to the prosecutor, were associated with the gang because,
+“Committing a crime with another gang member, knowing he is a gang member, is in
+association.” The prosecutor further explained, “[T]he rapid transition that occurred
+between a planned burglary and a spontaneous robbery is evidence that these two men
+trusted each other. They knew they could rely on each other.” Gonzales trusted Jaimes
+would not panic because “gang members don’t snitch on each other.”
+
+                                             7
+       The attorneys for Gonzales and Jaimes did not dispute a crime was committed.
+They focused their arguments against the gang enhancement.6 Jaimes’s counsel pointed
+out there was no evidence the gang trained its members in how to commit crimes and
+there was no evidence Gonzales and Jaimes trusted each other due to their common gang
+membership. Counsel concluded the men did “not [use] any resources of the gang” to
+commit the crimes. Gonzales’s counsel argued the inference the profits went to the gang
+was “speculative” and the crime was not associated with the gang because there was “no
+express identification with the gang during the offense.”
+       In rebuttal, the prosecutor argued, “[I]s it reasonable to infer that they did this in
+association with their gang? That trust, that trust in each other, is sufficient for you to
+find that this was done in association with their gang.”
+Relevant Jury Instructions and Deliberations
+       The court instructed the jury with CALCRIM No. 1401. The instruction explained
+the gang enhancement required proof “that, one, the defendant committed the crime for
+the benefit of or in association with a criminal street gang and, two, the defendant
+intended to assist, further, or promote criminal conduct by gang members.”
+       After deliberating for a few hours, the jury sought assistance and requested the
+court to “[p]lease define Calcrim #1401-benefit of or association with a criminal street
+gang … specifically define ‘association.’” (Emphasis in original.) Outside the jury’s
+presence, the court and counsel engaged in lengthy discussions about how to properly
+respond to the jury’s request. The following morning, the court, over each defense
+counsel’s objection, informed the jury:
+
+               “Words that are not specifically defined in the instructions are to be
+       understood according to their ordinary, everyday meaning …. The word
+       ‘association’ is not specifically defined in CALCRIM No. 1401 and is used
+       in this instruction to mean a group of two or more people coming together
+       for a common interest and coming together to commit an act. The jury
+
+6      Jaimes’s attorney also argued identity was not proven.
+
+                                               8
+       must consider all of the language set forth in CALCRIM No. 1401 as well
+       as all the other instructions.”
+The jury returned a verdict about two hours later.
+Verdict and Sentence
+       Each defendant was convicted as charged. Jaimes was sentenced to serve 15 years
+to life in state prison. Gonzales was sentenced to serve 20 years to life in prison.
+Magana was sentenced to serve 16 years to life in state prison.
+                                      DISCUSSION
+       We first address the claims the People concede: insufficient accomplice
+corroboration, a legally inapplicable firearm enhancement, and Senate Bill No. 136
+retroactivity. We then address the sufficiency of the evidence to prove the gang
+enhancement and examine the court’s response to the jury’s request to define
+“association.” We conclude the People’s concessions are well-taken, the evidence
+sufficiently proved the gang enhancement, but the court prejudicially erred by
+misdescribing the enhancement’s “association” element.
+I.     Magana’s Convictions Are Invalid
+       To convict Magana, the prosecution needed to corroborate Ortiz’s testimony.7 The
+People now concede the testimony was uncorroborated. We agree.
+       Section 1111 states: “A conviction can not be had upon the testimony of an
+accomplice unless it be corroborated by such other evidence as shall tend to connect the
+defendant with the commission of the offense; and the corroboration is not sufficient if it
+merely shows the commission of the offense or the circumstances thereof.” “ ‘ “[T]he
+corroborating evidence may be circumstantial or slight and entitled to little consideration
+when standing alone, and it must tend to implicate the defendant by relating to an act that
+is an element of the crime. The corroborating evidence need not by itself establish every
+element of the crime, but it must, without aid from the accomplice’s testimony, tend to
+
+
+7      There is no dispute Ortiz was an accomplice to the crimes.
+
+                                              9
+connect the defendant with the crime.” ’ ” (People v. Gomez (2018) 6 Cal.5th 243, 307-
+308.)
+        “[A]n accomplice’s testimony is not corroborated by the circumstance that the
+testimony is consistent with the victim’s description of the crime or physical evidence
+from the crime scene. Such consistency and knowledge of the details of the crime simply
+proves the accomplice was at the crime scene, something the accomplice by definition
+admits. Rather, under section 1111, the corroboration must connect the defendant to the
+crime independently of the accomplice’s testimony.” (People v. Romero and Self (2015)
+62 Cal.4th 1, 36 (Romero and Self).)
+        We determine whether accomplice testimony is sufficiently corroborated “without
+weighing the evidence and viewing the evidence in the light most favorable to the
+judgment.” (People v. Pedroza (2014) 231 Cal.App.4th 635, 650.) “ ‘[T]he trier of fact’s
+determination on the issue of corroboration’ is not binding on the reviewing court if the
+‘corroborating evidence … does not reasonably tend to connect the defendant with the
+commission of the crime.’ ” (People v. Dalton (2019) 7 Cal.5th 166, 245.)
+        Here, there was no evidence connecting Magana to the crime independent of
+Ortiz’s testimony. No witness identified Magana and no forensic evidence linked her to
+the crime scene. The only evidence close to corroborating Ortiz’s testimony was the 911
+caller describing two females involved in the crime and a surveillance video showing the
+same. But this evidence “simply proves … [Ortiz] was at the crime scene.” (Romero and
+Self, supra, 62 Cal.4th at p. 36.) It does not independently connect Magana “to the
+crime.” (Ibid.)
+        Accordingly, the evidence to prove the crimes charged against Magana was legally
+insufficient. She is entitled to a judgment of acquittal on each charge.8 (People v.
+Rodriguez (2018) 4 Cal.5th 1123, 1128-1129.)
+
+
+8       Magana’s remaining claims are moot.
+
+                                            10
+II.    The Firearm Enhancement Does Not Apply to Count 4
+       Gonzales’s conviction in count 4 for illegally possessing a firearm (§ 29800, subd.
+(a)) was enhanced by four years pursuant to section 12022.5, which prohibits “personally
+us[ing] a firearm in the commission of a felony.” Because illegally possessing a firearm
+is a static offense which is complete upon possession, a person cannot “use[]” the firearm
+“in the commission of [the] felony.” (§ 12022.5, subd. (a); In re Pritchett (1994) 26
+Cal.App.4th 1754, 1757-1758; People v. Arzate (2003) 114 Cal.App.4th 390, 400-401.)
+       The section 12022.5 enhancement does not apply to firearm possession crimes like
+section 29800. The enhancement to count 4 is stricken.
+III.   Senate Bill No. 136 Applies Retroactively
+       Gonzales argues Senate Bill No. 136 applies retroactively and his one-year
+sentence enhancement for previously serving a prison term is no longer valid. The
+People concede the issue.
+       Senate Bill No. 136 amended “section 667.5, subdivision (b), to eliminate the
+one-year prior prison term enhancement for most prior convictions. [Citation.] An
+exception, not applicable here, is made for a qualifying prior conviction on a sexually
+violent offense.” (People v. Reneaux (2020) 50 Cal.App.5th 852, 876 (Reneaux).)
+       “Because [Senate Bill No.] 136 became effective before [Gonzales’s] judgment
+became final, we agree with the parties that the amended law applies to him
+retroactively.” (Reneaux, supra, 50 Cal.App.5th at p. 876.) He is thus entitled to relief.
+IV.    The Evidence Sufficiently Proved the Enhancement
+       Jaimes argues the evidence was insufficient to prove the crime was committed
+either for the benefit of or in association with a gang (§ 186.22, subd. (b)). Gonzales
+joins in the argument. The People argue the evidence is sufficient. We agree the
+evidence is sufficient.
+
+
+      See footnote, ante, page 1.
+
+                                            11
+       “When considering a challenge to the sufficiency of the evidence to support a
+conviction, we review the entire record in the light most favorable to the judgment to
+determine whether it contains substantial evidence—that is, evidence that is reasonable,
+credible, and of solid value—from which a reasonable trier of fact could find the
+defendant guilty beyond a reasonable doubt.” (People v. Lindberg (2008) 45 Cal.4th 1,
+27.) “We presume in support of the judgment the existence of every fact the trier of fact
+reasonably could infer from the evidence.” (Ibid.)
+       “ ‘ “Although it is the duty of the jury to acquit a defendant if it finds that
+circumstantial evidence is susceptible of two interpretations, one of which suggests guilt
+and the other innocence [citations], it is the jury, not the appellate court which must
+be convinced of the defendant’s guilt beyond a reasonable doubt. ‘ “If the circumstances
+reasonably justify the trier of fact’s findings, the opinion of the reviewing court that the
+circumstances might also reasonably be reconciled with a contrary finding does not
+warrant a reversal of the judgment.” ’ ” ’ ” (People v. Cravens (2012) 53 Cal.4th 500,
+507-508.)
+       Section 186.22, subdivision (b) enhances the punishment for any “ ‘felony
+committed for the benefit of, at the direction of, or in association with any criminal street
+gang, [and] with the specific intent to promote, further, or assist in any criminal conduct
+by gang members.’ ” (People v. Albillar (2010) 51 Cal.4th 47, 66 (Albillar).) Promoting,
+furthering, or assisting any criminal conduct by gang members means “any criminal
+conduct,” including “the criminal conduct underlying the offense of conviction.” (Ibid.)
+“There is no further requirement that the defendant act with the specific intent to
+promote, further, or assist a gang; the statute requires only the specific intent to promote,
+further, or assist criminal conduct by gang members.” (Id. at p. 67.)
+       “[T]he Legislature included the requirement that the crime to be enhanced be
+committed for the benefit of, at the direction of, or in association with a criminal street
+gang to make it ‘clear that a criminal offense is subject to increased punishment under the
+
+                                              12
+STEP Act only if the crime is “gang related.” ’ [Citation.] Not every crime committed
+by gang members is related to a gang.” (Albillar, supra, 51 Cal.4th at p. 60.)
+       An expert’s opinion “is not only permissible but can be sufficient to support the …
+section 186.22, subdivision (b)(1), gang enhancement.” (People v. Vang (2011) 52
+Cal.4th 1038, 1048.) But “purely conclusory” expert testimony is “of no use to the fact
+finder.” (People v. Prunty (2015) 62 Cal.4th 59, 85 (Prunty).)
+       In Albillar, supra, the Supreme Court found the evidence proved “association with
+the gang” where substantial evidence showed “that defendants came together as gang
+members” to commit the crimes. (Albillar, supra, 51 Cal.4th at p. 62.) To support that
+conclusion, the Court explained the expert witness “testified that status and respect were
+two of the most important elements of gang membership. Status can be earned by ‘being
+with other … gang members’ ” and committing crimes together. (Id. at p. 60.)
+       “As [the expert] explained, gang members choose to commit crimes together
+because ‘it increases their success of completing the crime …. [I]t bolsters each other’s
+confidence in the commission of the crime.’ ” (Albillar, supra, 51 Cal.4th at p. 60.)
+“ ‘They can trust on each other’s loyalties. They can handle contingencies that may arise
+during the commission of crime that they did not plan for initially. They can multi-task
+during the commission of a crime.’ ” (Id. at p. 61.)
+       “Committing a crime with fellow gang members also enables the participants to
+rely on intimidation, which is ‘one of [the gang’s] mainstream daily objectives in
+furthering their gang interest.’ In addition, the bonds within the gang ‘would keep people
+from ratting on their own gang’ to the police about the crimes that gang members were
+committing.” (Albillar, supra, 51 Cal.4th at p. 61.)
+
+
+
+
+                                            13
+        “In [sum], defendants’ conduct exceeded that which was necessary to establish
+that the offenses were committed in concert.” (Albillar, supra, 51 Cal.4th at p. 61.)
+These underpinnings are materially indistinguishable from the evidence in this case.9
+        Here, Poteete testified in depth about gangs. He explained respect is a gang’s
+foundation and respect is earned by committing crimes. Gang members commit crimes
+together which entails “certain advantages.”10 He repeatedly explained that gang
+members not only trust each other but rely on that trust to commit crimes. That trust
+enables them to both handle escalating circumstances and to themselves escalate criminal
+behavior while knowing a fellow gang member will neither panic nor later cooperate with
+law enforcement. His testimony regarding trust was founded in conversations with local
+gang members. The reliance-on-trust factor among gang members coincided with the
+trial’s facts.
+        Gonzales and Jaimes entered the victim’s house believing no one was home.
+Upon discovering the victim, Gonzales immediately pulled out a firearm and threatened
+the victim. The men were able to simultaneously intimidate the victim and steal items
+from throughout the house because they simply outnumbered the victim. Based on the
+record, neither man hesitated in committing the robbery, neither panicked upon
+discovering the victim, and neither testified in court against the other.
+        The critical issue for the jury to decide was whether the men relied on their
+relationship as gang members to commit the crimes. Based on Poteete’s testimony, the
+factual record, and Albillar, supra, we find the jury could reasonably conclude the
+
+
+9       The expert in Albillar, supra, also testified gang members commit crimes together
+to train “younger” members and to have a witness that can verify to the gang a crime was
+indeed committed. (Albillar, supra, 51 Cal.4th at pp. 60-61.) The absence of similar
+evidence in the present case does not, in our view, compel a different conclusion.
+10     Although the expert never explained which “advantages” are inherent in
+committing crimes together, the record bore out specific advantages including dealing
+with contingencies, multi-tasking, and intimidation.
+
+                                             14
+evidence proved beyond a reasonable doubt the crime was committed in association with
+a gang because the men “came together as gang members” to commit the crimes.11
+(Albillar, supra, 51 Cal.4th at p. 62.)
+       Where “substantial evidence establishes that the defendant intended to and did
+commit the charged felony with known members of a gang, the jury may fairly infer [the
+requisite] specific intent to promote, further, or assist criminal conduct by those gang
+members.” (Albillar, supra, 51 Cal.4th at p. 68.) Accordingly, the evidence sufficiently
+proved the gang enhancement.12
+V.     The Court Prejudicially Misdescribed “Association”
+       During deliberations, the jury asked the court to define “association” as it was
+used in CALCRIM No. 1401, which in turn explains the section 186.22, subdivision (b)
+gang enhancement. The court chose to define it and informed the jury “ ‘association’ …
+is used in this instruction to mean a group of two or more people coming together for a
+common interest and coming together to commit an act.” The court also referred the jury
+back to consider the entire instructions as whole.
+       Gonzales and Jaimes now claim the court’s definition “allowed the jury to find an
+association without the factor that there must also be an association with the gang, not
+just with each other.” The People argue the court correctly defined “association” because
+“prov[ing] an affirmative link between the crime and the” gang is unnecessary. To
+
+
+11      In a concurring and dissenting opinion in Albillar, supra, Justice Werdegar
+criticized the majority opinion’s conclusion the crimes were committed in association
+with a gang. As she explained, “What the Legislature intended by ‘in association with
+any criminal street gang’ is unclear, but that it meant acting ‘in association
+with members of a criminal street gang’ is unlikely.” (Albillar, supra, 51 Cal.4th at p. 73
+(conc. & dis. opn. of Werdegar, J.).)
+12    Because the evidence is sufficient to prove the association theory, we need not
+address the benefit theory in this case. (See People v. Guiton (1993) 4 Cal.4th 1116,
+1128-1129; People v. Ghobrial (2018) 5 Cal.5th 250, 278.)
+      See footnote, ante, page 1.
+
+                                             15
+bolster the argument they quote People v. Garcia (2016) 244 Cal.App.4th 1349, 1367
+(Garcia) and assert, “ ‘Committing a crime in concert with known gang members can be
+substantial evidence that the crime was committed in “association” with a gang.’ ” They
+also argue any error is harmless. We conclude the court prejudicially misdescribed the
+“association” element.
+       Instructional error claims are reviewed de novo.13 (People v. Cole (2004) 33
+Cal.4th 1158, 1210 (Cole).) “ ‘Misdescription of an element of a charged offense is
+subject to harmless error analysis and does not require reversal if the misdescription was
+harmless beyond a reasonable doubt.’ ” (People v. Brooks (2017) 3 Cal.5th 1, 69
+(Brooks); People v. Aledamat (2019) 8 Cal.5th 1, 9.)
+       As the People note, “there does not appear to be any case containing a precise
+legal definition of the word ‘association’ in the gang context.” A definition, however, is
+readily ascertainable from the statute’s plain language and the Legislature’s intent to
+enhance only crimes that are “gang related.” (Albillar, supra, 51 Cal.4th at p. 60.)
+       Relevant to this issue, section 186.22, subdivision (b), enhances the punishment
+for “any person who is convicted of a felony committed … in association with any
+criminal street gang.” Contrary to the People’s argument, the statute plainly requires an
+association between the crime and the gang. (Albillar, supra, 51 Cal.4th at p. 62
+[concluding crimes “committed … in association with the gang.”]; Prunty, supra, 62
+Cal.4th at pp. 80-81 [enhancement requires benefit for, at direction of, or association with
+“the … gang”]; People v. Martinez (2004) 116 Cal.App.4th 753, 761 [“The crime itself
+must have some connection with the activities of a gang”].)
+
+13     Initially, the People urge the proper standard of review applicable to this claim is
+the abuse of discretion standard. The People are misguided. The abuse of discretion
+standard applies to the “decision by a trial court to instruct, or not to instruct, in its
+exercise of its supervision over a deliberating jury.” (People v. Waidla (2000) 22 Cal.4th
+690, 745-746, emphasis added.) Once the court chooses to provide further instruction, a
+challenge to that instruction presents a pure instructional error claim subject to de novo
+review.
+
+                                             16
+       In this context, “association” simply means the committed felony is involved with
+or connected to a specific gang.14 Because the Legislature intended to enhance only those
+felonies which are gang related, a nominal, passive, or trivial association will not
+suffice. (Albillar, supra, 51 Cal.4th at p. 62 [“The enhancement set forth in section
+186.22(b)(1) does not pose a risk of conviction for mere nominal or passive involvement
+with a gang.”]; Garcia, supra, 244 Cal.App.4th at p. 1367 [“ a ‘crime may not be found
+gang related … based solely upon the defendant’s criminal history and gang
+affiliations. The crime itself must have some connection with the activities of a gang.’ ”];
+People v. Morales (2003) 112 Cal.App.4th 1176, 1198 (Morales) [“it is conceivable that
+several gang members could commit a crime together, yet be on a frolic and detour
+unrelated to the gang”].)
+       The requisite “association” need not be overbearing or tangible. It must, however,
+actively associate the committed felony with the gang. For example, utilizing a gang-
+owned or gang-provided firearm to commit a felony is an active and tangible
+association. Reliance on “the apparatus of the gang” to commit a crime exemplifies an
+active and intangible association. (Albillar, supra, 51 Cal.4th at p. 60.) Such
+associations are sufficient even where the crime is not otherwise gang related.15 In
+
+
+
+
+14     Association is defined as “being involved with or connected to someone or
+something.” (Cambridge English Dict. (Online ed. 2020)
+<https://dictionary.cambridge.org/us/dictionary/english/association> [as Jan. 12, 2021],
+archived at: <https://perma.cc/E6LM-8UHQ>.) The usage examples are: “[H]er
+association with the university,” and, “This event was organized in association with a
+local school.”
+15      It bears emphasizing “association” itself is insufficient to prove the gang
+enhancement. Association must be accompanied by “the specific intent to promote,
+further, or assist in any criminal conduct by gang members.” (§ 186.22, subd. (b)(1); see,
+e.g., People v. Franklin (2016) 248 Cal.App.4th 938, 948 [“There are two prongs to
+the gang enhancement under section 186.22, subdivision (b)(1), both of which must be
+established by the evidence.”].)
+
+                                             17
+contrast, passive conduct like gang membership alone is insufficient. (See, e.g., ibid.
+[“Not every crime committed by gang members is related to a gang.”].)
+       We do not, however, hold a court must sua sponte further define
+“association.” That issue is not presented. Nonetheless, “[e]ven if the court has no sua
+sponte duty to instruct on a particular legal point, when it does choose to instruct, it must
+do so correctly.” (People v. Castillo (1997) 16 Cal.4th 1009, 1015.) A court choosing to
+further define “association” should carefully explain three points. One, “association”
+means involvement or connection between the felony and the gang at issue. Two,
+nominal, passive, and trivial associations are insufficient. Three, the prosecution must
+also prove an attendant “specific intent to promote, further, or assist in any criminal
+conduct by gang members.” (§ 186.22, subd. (b)(1).)
+       In arguing a link between the felony and a gang is not required to prove an
+association-based gang enhancement, the People cite several cases wherein “association”
+was proven, in part, by multiple gang members committing a crime together. This
+argument mistakenly conflates a definition for “association” with certain conduct
+sufficient to prove an association-based enhancement. We examine each case in turn.
+       As discussed ante, the Supreme Court in Albillar, supra, reviewed the record and
+concluded, “We therefore find substantial evidence that defendants came together as
+gang members … and, thus, that they committed these crimes in association with the
+gang.” (Albillar, supra, 51 Cal.4th at p. 62, emphasis in original.) More directly,
+association with the gang was proven because the “defendants relied on their common
+gang membership and the apparatus of the gang in committing the” crimes. (Id. at p. 60.)
+       In Morales, supra, an expert witness testified a gang member would “choose to
+commit a crime in association with other gang members because he could count on their
+loyalty. They would ‘watch his back ….’ In addition, the very presence of multiple gang
+members would be intimidating.” (Morales, supra, 112 Cal.App.4th at p. 1197.) The
+court found the evidence sufficient because “[t]here was no evidence [the crimes were
+
+                                             18
+unrelated to the gang]. Thus, the jury could reasonably infer the requisite association
+from the very fact” the crimes were committed “in association with fellow gang
+members.” (Id. at p. 1198.) At the same time, the court acknowledged “several gang
+members could commit a crime together, yet be on a frolic and detour unrelated to the
+gang.” (Ibid.)
+       In Garcia, supra, the court found sufficient evidence of association with the gang
+because the defendants “were known members of the … gang, and there [was] sufficient
+evidence to draw an inference that they relied upon their gang membership in conducting
+the [crimes]. It [could] be reasonably inferred based upon expert testimony and the
+circumstances of the crimes that [the defendants] knew that, as fellow … gang members,
+they could count on each other to assist when engaging in crimes of opportunity against
+victims in their territory and could count on the other gang members’ silence if
+confronted by the police.” (Garcia, supra, 244 Cal.App.4th at pp. 1368-1369.)
+       Notably absent from these cases is any definition of “association,” let alone a
+definition in the manner the People prescribe, i.e., multiple gang members acting in
+concert to commit a felony. Indeed, such a definition is irreconcilable with section
+186.22, subdivision (b), which requires neither gang membership (Albillar, supra, 51
+Cal.4th at pp. 67-68), nor multiple actors for liability to attach (People v. Rodriguez
+(2012) 55 Cal.4th 1125, 1138-1139 [“A lone gang member … would not be protected
+from having that felony enhanced by section 186.22(b)(1)”]). Defining “ ‘association’ …
+as it is used in [CALCRIM No. 1401] to mean a group of two or more people coming
+together for a common interest and coming together to commit an act,” as the court here
+did, is inconsistent with the statute and clear error. The error was prejudicial for two
+reasons.
+       Foremost, the trial focused primarily on whether the gang enhancement applied. If
+the jurors believed the “benefit” theory was proven they could have found the
+enhancement true without resort to seeking assistance with the alternative “association”
+
+                                             19
+theory. Their request for assistance reasonably suggests the jury was not convinced with
+either theory. And the fact their verdict followed shortly after the court’s error further
+suggests the error was significant. On this record, it is more than reasonable the court’s
+erroneous description of “association” diverted the jury’s focus away from the crime’s
+association with a gang and towards an association between Gonzales and Jaimes.
+       Second, the court’s “association” definition effectively reduced the prosecution’s
+burden of proof. Gonzales and Jaimes were already charged with actively participating in
+a criminal street gang (§ 186.22, subd. (a)) due to the fact they—two members of the
+same gang—committed these crimes in tandem. Their attorneys largely conceded the
+active gang participation offense by choosing to focus efforts against the gang
+enhancement. In other words, the fact the men came “together to commit an act,” as the
+court defined “association,” was undisputed. The court’s definition essentially removed
+the “association” element from the jury’s consideration. (See Cole, supra, 33 Cal.4th at
+p. 1208 [“An instructional error relieving the prosecution of its burden violates the
+defendant’s rights under both the United States and California Constitutions.”]; People v.
+Miller (2008) 164 Cal.App.4th 653, 662 [“It is error of constitutional dimension for the
+court to remove an essential element of a crime from the jury’s consideration by its
+response to a question posed during deliberations.”].)
+       Finally, the court’s inadvertent diversion was not cured by referring the jury to the
+instructions as a whole. The only instruction relevant to “association” was CALCRIM
+No. 1401. And the court incorrectly defined association specifically “as it is used in
+[CALCRIM No. 1401].” Referring the jury back to the instruction it already expressed
+an inability to comprehend could not possibly alleviate the prejudice inherent in actively
+confounding the exact same instruction. To hold otherwise would defy logic.
+       In sum, the court’s error is not harmless beyond a reasonable doubt because there
+is no basis to conclude it was “ ‘ “unimportant in relation to everything else the jury
+
+
+
+                                             20
+considered on the issue.” ’ ” (Brooks, supra, 3 Cal.5th at p. 70.) The section 186.22,
+subdivision (b) enhancements are reversed.16
+                                     DISPOSITION
+       Magana’s judgment is reversed. Gonzales’s and Jaimes’s sentences are vacated.
+       As to both Gonzales and Jaimes, the true findings on the section 186.22,
+subdivision (b) enhancements to counts 2 and 3 are reversed. For Jaimes, the true finding
+on the section 12022.53, subdivision (b) enhancement to count 2 is reversed. For
+Gonzales, the true findings on the section 12022.5, subdivision (a) enhancement to count
+4 and the section 667.5, subdivision (b) enhancement are stricken.
+       Upon remand, the trial court is directed to enter a judgment of acquittal on counts
+2 and 3 in Magana’s favor. The court shall conduct other proceedings consistent with
+this opinion, including, if necessary, retrying the reversed enhancements.
+
+
+
+                                                                                  SMITH, J.
+I CONCUR:
+
+
+
+SNAUFFER, J.
+
+
+
+
+16     The section 12022.53, subdivision (b) firearm enhancement to count 2 for Jaimes
+is dependent on a section 186.22, subdivision (b) gang enhancement true finding.
+(§ 12022.53, subd. (e).) Because we are reversing the gang enhancement, we must also
+reverse the firearm enhancement as to Jaimes only. We do so in the disposition, post.
+      The parties also address an error in the abstracts of judgment. These claims are
+mooted by the disposition.
+
+                                            21
+POOCHIGIAN, Acting P.J., Dissenting.
+       While I agree that the jury’s true findings on the gang enhancements for both
+defendants are supported by substantial evidence, I respectfully dissent to the majority
+opinion’s conclusion the gang enhancements must be reversed. I disagree that the court’s
+response to the jury’s question “prejudicially misdescribed the ‘association’ element” of
+the gang enhancement, that section Penal Code section 186.22, subdivision (b)(1)1
+“plainly requires an association between the crime and the gang,” or that a link between
+the felony and the gang itself is required to prove an “association-based gang
+enhancement.” (Maj. opn., ante, at pp. 16, 17, 18.)
+The gang enhancement
+       In order to prove the section 186.22, subdivision (b)(1) gang enhancement, “[f]irst,
+the prosecution is required to prove that the underlying felonies were ‘committed for the
+benefit of, at the direction of, or in association with any criminal street gang.’ [Citation.]
+Second, there must be evidence that the crimes were committed ‘with the specific intent
+to promote, further, or assist in any criminal conduct by gang members.’ [Citations.]”
+(People v. Rios (2013) 222 Cal.App.4th 542, 561.)
+       The first prong is worded in the disjunctive so that “a gang enhancement may be
+imposed without evidence of any benefit to the gang so long as the crime was committed
+in association with or at the direction of another gang member.” (People v. Weddington
+(2016) 246 Cal.App.4th 468, 484.) “The first prong therefore may be established with
+substantial evidence that two or more gang members committed the crime together,
+unless there is evidence that they were ‘on a frolic and detour unrelated to the gang.’
+[Citations.]” (Ibid.; People v. Albillar (2010) 51 Cal.4th 47, 61–62 (Albillar).)
+       The second prong of section 186.22, subdivision (b)(1) “encompasses the specific
+intent to promote, further, or assist in any criminal conduct by gang members—including
+
+       1   All further statutory references are to the Penal Code unless otherwise stated.
+the current offenses—and not merely other criminal conduct by gang members.”
+(Albillar, supra, 51 Cal.4th at p. 65.) “[I]f substantial evidence establishes that the
+defendant intended to and did commit the charged felony with known members of a
+gang, the jury may fairly infer that the defendant had the specific intent to promote,
+further, or assist criminal conduct by those gang members.” (Id. at p. 68.)
+       The majority opinion cites to three cases in support of the assertion that there must
+be an association between the crime and the gang to prove the enhancement based on the
+“association” element. (Maj. opn., ante, at p. 17.) I believe these cases do not support
+the stated conclusion, and the court’s response to the jury was consistent with the
+California Supreme Court’s ruling in Albillar.
+Albillar
+       Albillar (maj. opn., ante, at p. 17) is cited for the holding that defendant’s crimes
+must have been “committed … in association with the gang.” (Albillar, supra, 51 Cal.4th
+at p. 62.) While Albillar addressed whether there was substantial evidence to support the
+gang enhancement, I believe it also addressed the “association” aspect of the “gang-
+related” prong of the enhancement in a manner consistent with how the trial court replied
+to the jury in this case.
+       In Albillar, three defendants, who were relatives and members of the same gang,
+were convicted of sexually assaulting a teenager while acting in concert, with gang
+enhancements found true. (Albillar, supra, 51 Cal.4th at p. 60.) Albillar acknowledged
+“[n]ot every crime committed by gang members is related to a gang,” but held the crimes
+in that case were “gang related” and “they were committed in association with [a] gang”
+because the record “supported a finding that the defendants relied on their common gang
+membership and the apparatus of the gang in committing the sex offenses against [the
+victim].” (Ibid.)
+
+
+
+                                              2
+       “Because each defendant was a member of the Southside Chiques, he could
+       and did rely on the others’ cooperation in committing the offenses against
+       [the victim]…. Defendants knew, because of the nature of the gang, that no
+       one would be a ‘rat’…. Defendants also knew that fear of the gang would
+       prevent [the victim] from reporting the incident to the police .…
+
+              “In short, defendants’ conduct exceeded that which was necessary to
+       establish that the offenses were committed in concert. Defendants not only
+       actively assisted each other in committing these crimes, but their common
+       gang membership ensured that they could rely on each other’s cooperation
+       in committing these crimes and that they would benefit from committing
+       them together. They relied on the gang’s internal code to ensure that none
+       of them would cooperate with the police, and on the gang’s reputation to
+       ensure that the victim did not contact the police. We therefore find
+       substantial evidence that defendants came together as gang members to
+       attack [the victim] and, thus, that they committed these crimes in
+       association with the gang. [Citations.]” (Id. at pp. 61–62.)2
+       Albillar also found substantial evidence to support the second element of the gang
+enhancement and rejected defendants’ argument that it required “the specific intent to
+promote, further, or assist a gang-related crime.” (Albillar, supra, 51 Cal.4th at p. 67.)
+
+       “The enhancement already requires proof that the defendant commit a
+       gang-related crime in the first prong – i.e., that the defendant be convicted
+       of a felony committed for the benefit of, at the direction of, or in
+       association with a criminal street gang. [Citation.] There is no further
+       requirement that the defendant act with the specific intent to promote,
+       further, or assist a gang; the statute requires only the specific intent to
+       promote, further, or assist criminal conduct by gang members. [Citations.]”
+       (Id. at p. 67.)
+
+
+
+
+       2  People v. Morales (2003) 112 Cal.App.4th 1176, 1198, is cited for the holding
+that “ ‘it is conceivable that several gang members could commit a crime together, yet be
+on a frolic and detour unrelated to the gang.’ ” (Maj. opn., ante, at p. 17.) Morales was
+decided before Albillar but addressed the same issue and held the evidence that the
+defendant in that case “knowingly committed the charged crimes in association with two
+fellow gang members was sufficient to support the jury’s findings on the gang
+enhancements ….” (Morales, supra, 112 Cal.App.4th at p. 1179.)
+
+                                             3
+Prunty
+       People v. Prunty (2015) 62 Cal.4th 59 (Prunty) is cited (maj. opn., ante, at p. 17)
+for the holding that the enhancement requires evidence the crime was committed for the
+benefit of, at direction of, or in association with “the … gang.” (Prunty, at pp. 80–81.)
+       Prunty did not address the association aspect of the enhancement but instead
+explained “what type of showing the prosecution must make when its theory of why a
+criminal street gang exists turns on the conduct of one or more gang subsets.” (Prunty,
+supra, 62 Cal.4th at p. 67.) Prunty held that “when the prosecution seeks to prove the
+street gang enhancement by showing a defendant committed a felony to benefit a given
+gang, but establishes the commission of the required predicate offenses with evidence of
+crimes committed by members of the gang’s alleged subsets, it must prove a connection
+between the gang and the subsets.” (Id. at pp. 67–68.) Prunty found the prosecution in
+that case failed to introduce sufficient evidence to show “a connection among the subsets
+it alleged comprised a criminal street gang, so [the defendant] was not eligible for a
+sentence enhancement ….” (Id. at p. 68.) Prunty concluded that predicate offenses could
+be committed by multiple gang subsets if the prosecution shows “the group the defendant
+acted to benefit, the group that committed the predicate offenses, and the group whose
+primary activities are introduced, is one and the same.” (Id. at p. 82.)
+Martinez
+       Another case cited is People v. Martinez (2004) 116 Cal.App.4th 753 (Martinez),
+(maj. opn., ante, at p. 17) for the holding that “[t]he crime itself must have some
+connection with the activities of a gang ….” (Martinez, at p. 761.)
+       Martinez addressed the imposition of a gang registration requirement, in a case
+where a gang enhancement was not alleged or found true. In that case, the trial court
+ordered the defendant to register as a gang member because it found the defendant’s
+offense was “gang related,” which is expressly required to impose such an order under
+
+                                              4
+subdivision (b)(3) of section 186.30.3 (Martinez, supra, 116 Cal.App.4th at pp. 756–
+758.) Martinez reversed the registration order because there was insufficient evidence
+that the defendant’s commission of an auto burglary “was other than a crime intended to
+benefit defendant personally.” (Id. at p. 762.) “In accordance with the unambiguous
+language of the statute, we conclude that a crime may not be found gang related within
+the meaning of section 186.30 based solely upon the defendant’s criminal history and
+gang affiliations. The crime itself must have some connection with the activities of a
+gang, which we conclude means a ‘criminal street gang’ as defined elsewhere” in section
+186.22. (Martinez, at p. 761.) Martinez further held that a crime committed by a
+defendant “in association with other gang members or demonstrated to promote gang
+objectives may be gang related” to support a registration order under the express
+provisions of section 186.30. (Id. at p. 762.)4
+Analysis
+       Albillar and the other cases cited herein do not support the conclusion that the
+“association” aspect of the gang enhancement requires a link between the crime and the
+gang itself. Albillar did not provide a new definition for the phrase “in association with
+any criminal street gang,” or hold that the phrase has a technical legal meaning. Instead,
+Albillar clearly held the gang enhancement may be found true when multiple defendants
+
+       3 Section 186.30 states that the court shall impose a gang registration order when a
+person is convicted or has a juvenile petition sustained for (1) the substantive offense of
+active participation in a gang (§ 186.22, subd. (a)); (2) any crime where the section
+186.22, subdivision (b)(1) gang enhancement is found true; or (3) any crime “that the
+court finds is gang related at the time of sentencing or disposition.” (§ 186.30,
+subds. (b)(1)–(b)(3), italics added.)
+       4  People v. Garcia (2016) 244 Cal.App.4th 1349, 1367, is cited for the proposition
+that “ a ‘crime may not be found gang related … based solely upon the defendant’s
+criminal history or gang affiliations. The crime itself must have some connection with
+the activities of a gang.’ [Citation.]” (Maj. opn., ante, at p. 17.) This quote from Garcia,
+however, is taken from and cites to Martinez, which addressed the gang registration
+statute and not the gang enhancement. (Garcia, supra, 244 Cal.App.4th at p. 1367.)
+                                             5
+come “together as gang members” to commit crimes and, as a result “they committed
+the[] crimes in association with the gang. [Citations.]” (Albillar, supra, 51 Cal.4th at
+p. 62.)
+          The majority opinion’s conclusion appears more consistent with Justice
+Werdegar’s concurring and dissenting opinion in Albillar, which stated:
+
+                  “What the Legislature intended by ‘in association with any criminal
+          street gang’ is unclear, but that it meant acting ‘in association with
+          members of a criminal street gang’ is unlikely. That the Legislature
+          distinguishes between the gang and members of the gang is shown by its
+          use of both terms throughout section 186.22, including subdivision (b).
+          Indeed, as indicated above, interpreting ‘criminal street gang’ in
+          subdivision (b) to mean ‘members of a criminal street gang’ creates a
+          redundancy in the provision, as the second prong of section 186.22,
+          subdivision (b) already requires that the crime have been committed ‘with
+          the specific intent to promote, further, or assist in any criminal conduct by
+          gang members.’ (Italics added.) [¶] The majority provides a different
+          definition of ‘in association with’ a gang, explaining it means that in
+          committing the offenses defendants relied on their ‘common gang
+          membership and the apparatus of the gang.’ [Citation.] Again, by focusing
+          on gang members as associating with one another, rather than as
+          associating with the gang, the majority’s definition also threatens to render
+          a portion of section 186.22, subdivision (b) redundant.” (Albillar, supra, 51
+          Cal.4th at p. 73 (conc. & dis. opn. of Werdegar, J.).)
+          While Justice Werdegar may have believed it was unlikely the Legislature
+intended for “in association” to mean “acting ‘in association with members of a criminal
+street gang’ ” (Albillar, supra, 51 Cal.4th at p. 73, (conc. & dis. opn. of Werdegar, J.), a
+concurrence or dissent does not state the majority view and is not binding. (People v.
+Gangl (2019) 42 Cal.App.5th 58, 79; In re Marriage of Dade (1991) 230 Cal.App.3d
+621, 629.) Even if Justice Werdegar’s separate opinion was controlling authority,
+however, it did not advocate a specific definition for “in association with,” but instead
+criticized the majority opinion in Albillar for relying on the expert’s opinion to provide
+
+
+
+
+                                               6
+substantial evidence in light of the prosecutor’s purported erroneous definition of the
+phrase. (Albillar, supra, 51 Cal.4th at pp. 71–72 (conc. & dis. opn. of Werdegar, J.).)
+       I believe the court’s response to the jury in this case did not run afoul of Albillar’s
+analysis about the “association” aspect of the gang enhancement, and it did not give a
+legally erroneous definition of “association.” In addition, the court’s response referred
+the jury back to CALCRIM No. 1401 on the elements of the enhancement: “To prove
+this allegation the People must prove that, one, the defendant committed the crime for the
+benefit of or in association with a criminal street gang and, two, the defendant intended to
+assist, further, or promote criminal conduct by gang members.” The jury was thus
+instructed that it had to find both prongs true in order to return true findings on the gang
+enhancements and, as explained in Albillar, “if substantial evidence establishes that the
+defendant intended to and did commit the charged felony with known members of a
+gang, the jury may fairly infer that the defendant had the specific intent to promote,
+further, or assist criminal conduct by those gang members.” (Albillar, supra, 51 Cal.4th
+at p. 68.)
+
+
+
+                                                                 POOCHIGIAN, Acting P.J.
+
+
+
+
+                                              7

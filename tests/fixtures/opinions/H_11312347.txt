@@ -1,0 +1,556 @@
+cl_opinion_id: 11312347
+cluster: 10844987
+docket: H052652
+date: 2026-04-17
+status: Published
+type: 010combined
+field: plain_text
+case: Paknad v. Super. Ct.
+----
+Filed 3/24/26; Modified and Certified for Pub. 4/17/26 (order attached)
+
+
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                    SIXTH APPELLATE DISTRICT
+
+
+ MICHELLE PAKNAD,                                               H052652
+                                                               (Santa Clara County
+          Petitioner,                                           Super. Ct. No. 19CV350641)
+
+                   v.
+
+ THE SUPERIOR COURT OF
+ CALIFORNIA, COUNTY OF SANTA
+ CLARA,
+
+          Respondent;
+
+ INTUITIVE SURGICAL, INC., et al.,
+
+          Real Parties in Interest.
+
+
+        This is the second mandate proceeding occasioned by two reports and
+investigative materials prepared by an attorney commissioned by defendants and real
+parties in interest, Intuitive Surgical, Inc. and Intuitive Surgical Operations, Inc., to
+investigate plaintiff and petitioner Michelle Paknad’s claims of sexual harassment,
+gender discrimination, and unlawful retaliation as an Intuitive employee.
+        In the first proceeding, we concluded that despite a “relationship . . . giving rise to
+the attorney-client privilege and work product protections,” Intuitive waived the privilege
+“by placing the scope and adequacy of the investigations at issue, . . . such that . . .
+disclosure of the material is ‘ “essential for a fair adjudication of the action.” ’ ” (Paknad
+v. Superior Court (May 20, 2024, H050711) [nonpub. opn.] (Paknad I), quoting
+Wellpoint Health Networks, Inc. v. Superior Court (1997) 59 Cal.App.4th 110, 128
+(Wellpoint).) While we stopped short of holding that Intuitive had necessarily waived
+protection as to all the investigator’s materials or core work product under Code of Civil
+Procedure 2018.030, subdivision (a),1 we issued a peremptory writ directing the
+respondent court to “grant[] the motion [to compel production of the] . . . reports and
+related investigative materials,” subject to an in camera review “to determine ‘if some
+protection is warranted notwithstanding the waiver’ . . . .” (Paknad I, supra, H050711,
+quoting Costco Wholesale Corp. v. Superior Court (2009) 47 Cal.4th 725, 740 (Costco
+Wholesale Corp.) and citing People v. Superior Court (Jones) (2021) 12 Cal.5th 348, 366
+(Jones).)
+       Before the respondent court, the parties disputed whether Intuitive’s waiver of
+attorney work product protection extended to core work product. The court ultimately
+ordered disclosure of the reports and investigative materials subject to Intuitive’s
+proposed redactions. Because the redactions excised all the investigator’s factual
+findings, Paknad petitioned again for mandamus relief.
+       Having reviewed the proposed redactions of the records lodged with the
+respondent court, we will grant Paknad’s second petition for writ of mandate.
+                                   I.   BACKGROUND
+
+       While still employed by Intuitive, Paknad made two formal complaints of
+discrimination, harassment, and retaliation—complaints that Intuitive retained attorney
+Andrea Kelly Smethurst to investigate. Smethurst interviewed witnesses, reviewed
+documents, and produced two reports containing her findings and conclusions. While a
+summary of the findings was conveyed to Paknad, Intuitive did not share with Paknad the
+underlying reports.
+
+
+
+       1
+           Undesignated statutory references are to the Code of Civil Procedure.
+
+
+                                              2
+       After she was fired, Paknad sued the company and her former supervisors.2 In
+asserting avoidable consequences as an affirmative defense to Paknad’s complaint,
+Intuitive cited the Smethurst investigations and touted their thoroughness and
+independence, stating “[d]efendant . . . thoroughly investigated every allegation that
+[p]laintiff presented by hiring an independent, outside investigator to conduct two
+investigations, interview numerous witnesses (some of which she interviewed several
+times), and review a large volume of documentary evidence.” (See Paknad I, supra,
+H050711.)
+A.     Paknad I
+
+       After the trial court denied her motion to compel production of the reports and
+investigative materials, Paknad petitioned this court for mandamus relief. After the
+California Supreme Court directed us to issue an order to show cause why relief should
+not be granted, we granted the petition in part and ordered issuance of a peremptory writ
+directing the trial court to vacate its order denying Paknad’s motion to compel “insofar as
+it relates to the Smethurst reports and related investigative materials, and to enter a new
+order granting the motion.” (See Paknad I, supra, H050711.) We followed Wellpoint,
+supra, 59 Cal.App.4th 110, 128, concluding that once an employer puts the adequacy of
+an investigation directly at issue in response to an employee’s lawsuit, that employer
+“cannot stand on the attorney-client privilege or work product doctrine to preclude a
+
+
+       2
+          In her operative complaint, Paknad pleaded eight causes of action: (1) sex and
+gender discrimination—against Intuitive (Gov. Code, § 12940, subd. (a)), (2) quid pro
+quo sexual harassment—against Intuitive and former supervisors Jeroen van Heesewijk
+and Kevin Collins (Gov. Code, § 12940, subd. (j)), (3) hostile work environment sexual
+harassment—against Intuitive, van Heesewijk, and Collins (Gov. Code, § 12940,
+subd. (j)), (4) retaliation—against Intuitive (Gov. Code, § 12940, subd. (h)), (5) failure to
+take all reasonable steps necessary to prevent and correct discrimination, harassment, and
+retaliation—against Intuitive (Gov. Code, § 12940, subd. (k)), (6) wrongful discharge—
+against Intuitive, (7) violation of Labor Code section 1102.5—against Intuitive, and
+(8) negligent hiring, retention, and supervision—against Intuitive.
+
+
+                                              3
+thorough examination of [the investigation’s] adequacy.” (Paknad I, supra, H050711.)
+But because we gathered from Intuitive’s privilege log that some aspects of the reports
+and investigative materials would contain core work product (§ 2018.030, subd. (a)) that
+might exceed the scope of what Intuitive had put at issue, we authorized the respondent
+court to review materials in camera to determine “if some protection is warranted
+notwithstanding the waiver.” (Paknad I, supra, H050711, citing Jones, supra, 12 Cal.5th
+at p. 366, inter alia.)
+B.     Subsequent Proceedings
+
+       After issuance of the writ, the parties contested the scope of Paknad I. According
+to Paknad, because we concluded that Intuitive had placed the Smethurst investigations at
+issue, core attorney work product is “waived as to every aspect of Plaintiff’s workplace
+complaints” and “the only material” in the Smethurst reports that might still be entitled to
+work product protection are discussions of unrelated cases, or of “specific legal—as
+opposed to factual—issues or strategies.” By contrast, Intuitive claimed we held that
+protection of core work product—meaning, the investigator’s “ ‘findings, mental
+impressions, and conclusions regarding [P]laintiff’s allegations of discrimination and
+retaliation’ ”—had not been waived and that all these items from the Smethurst reports
+“should be redacted and withheld from production.”
+       The respondent court directed Intuitive to provide it with an unredacted copy of
+the Smethurst reports and related investigative materials, and a second copy identifying
+Intuitive’s proposed redactions.
+       1.      The Reports and Intuitive’s Proposed Redactions
+
+       The 437 pages of purportedly unredacted materials comprised (1) Smethurst’s two
+reports, dated May 29, 2018, and November 16, 2018; (2) documents (primarily e-mails)
+Smethurst reviewed in her investigations; and (3) Smethurst’s interview notes.3 The
+
+       3
+        What Intuitive lodged with the respondent court as “completely unredacted
+versions of these materials” still included what Intuitive after oral argument on appeal
+
+                                             4
+reports were both organized in five numbered parts: (I) Paknad’s allegations;
+(II) identification of the witnesses interviewed and documents examined;
+(III) Smethurst’s detailed summaries of witness interviews; (IV) Smethurst’s factual
+findings; (V) Smethurst’s conclusions, including her legal recommendations to Intuitive
+going forward.
+       Intuitive proposed redacting all Part IV’s factual findings, substantive portions of
+Part V’s conclusions, along with several other lines and paragraphs. Intuitive also
+proposed redacting a few documents in the underlying materials, including portions of
+e-mails and lines from the interview notes.
+       2.     In Camera Review and Order
+
+       Upon in camera review of the materials and redactions, the court found Intuitive’s
+redactions were all “ ‘an attorney’s impressions, conclusions, opinions, or legal research
+or theories’ and are therefore ‘not discoverable under any circumstances.’ ” The court
+accepted Intuitive’s redactions, vacated its prior denial of Paknad’s motion to compel,
+granted the motion, and ordered Intuitive to produce the redacted reports and
+investigative materials to Paknad.
+C.     The Current Petition
+
+       Paknad again petitioned for mandamus relief. After a panel of this court
+summarily denied the petition, the California Supreme Court granted Paknad’s petition
+for review and transferred the matter with instructions to issue an order to show cause,
+specifying that “[t]he response to the order to show cause should address the application
+of People v. Superior Court (Jones) (2021) 12 Cal.5th 348, 361–364 . . . and Wellpoint
+Health Networks, Inc. v. Superior Court (1997) 59 Cal.App.4th 110, 126, 128.”
+
+
+
+
+acknowledged “inadvertently contained partial redactions to four e[-]mails.” Intuitive
+has lodged with this court the now-unredacted e-mails.
+
+
+                                              5
+                                  II.    DISCUSSION
+
+       Paknad argues that by permitting the redaction of all factual findings from the
+investigator’s reports, the respondent court failed to follow Jones and this court’s
+mandate in Paknad I. Specifically, Paknad contends that the court erred in limiting its in
+camera review solely to whether the redacted materials constituted attorney work product
+under section 2018.030, subdivision (a), without further considering the scope of waiver.
+Having reviewed the materials and redactions at issue, we agree, although we construe
+the scope of Intuitive’s waiver more narrowly than Paknad has argued.
+A.     Waiver of Attorney Work Product Protection4
+
+       Preliminarily, both Paknad and Intuitive misstate the scope of our opinion in
+Paknad I. In its brief submitted before the in camera review, Intuitive represented to the
+respondent court that we “held that Intuitive’s ‘outside counsel’s findings, mental
+impressions, and conclusions regarding [P]laintiff’s allegations of discrimination and
+retaliation’ had not been waived, such that they should be redacted and withheld from
+production.” Intuitive reiterated this position in its answer to our order to show cause,
+contending that this court had “contemplated ‘conclusion’ and ‘finding’ as identical
+concepts” and had “describ[ed] conclusions and findings interchangeably.”
+       We do not recognize our prior opinion in Intuitive’s characterization, and
+Intuitive’s pincites do not support its assertions. We neither suggested that findings and
+
+
+       4
+         Intuitive also contends that Paknad’s contention is barred by the law of the case,
+the doctrine that “ ‘prevents parties from seeking reconsideration of an issue already
+decided absent some significant change in circumstances.’ ” (Sargon Enterprises, Inc. v.
+University of Southern California (2013) 215 Cal.App.4th 1495, 1505). But Paknad does
+not seek reconsideration of an already decided issue, merely clarification of the scope of
+work product protection Intuitive may still claim despite our conclusion that Intuitive put
+at issue the adequacy of Smethurst’s investigations. And even if the law of the case were
+implicated here, we take the Supreme Court’s citations to Jones and Wellpoint in
+transferring the matter as directing consideration of the scope of work product protection
+in view of Intuitive’s waiver.
+
+
+                                             6
+conclusions were synonymous nor authorized the continued withholding of Smethurst’s
+factual findings. What Intuitive in the respondent court mischaracterized as what we
+“held” was merely our quotation of Intuitive’s own contention: “In its privilege logs,
+Intuitive describes the Smethurst reports as ‘[i]nvestigation report[s] prepared by outside
+counsel summarizing outside counsel’s findings, mental impressions, and conclusions
+regarding [p]laintiff’s allegations of discrimination and retaliation.’ ” (Paknad I, supra,
+H050711.) What Intuitive pincites in its briefing before us now is our conclusion—
+without access then to the reports themselves—that “[b]ased on this description [in
+Intuitive’s privilege log], at least some aspect of the reports” may properly be withheld.
+(Ibid., italics added.) This is not a holding that Smethurst’s factual findings may be
+withheld.
+       Nor do we agree with Paknad that our prior opinion sweeps so broadly as to
+permit redactions only of “such limited material[s] that [are] unrelated to [Smethurst’s]
+workplace investigations.” Paknad relies on Jones for her maximalist interpretation of
+our opinion, but Jones does not stand for the blanket proposition that any waiver of work
+product protection requires disclosure of all otherwise protected matters. (See Jones,
+supra, 12 Cal.5th at p. 353.) Rather, Jones is entirely consistent with the proposition that
+the scope of a waiver turns on what the party has placed “at issue.” (Id. at p. 353.)
+Indeed, Jones cautioned that the question of waiver is an “ ‘intensely practical one,’ ” and
+that “ ‘[w]hat constitutes a waiver with respect to work-product materials depends, of
+course, upon the circumstances’ ” of each case. (Id. at p. 363 & fn. 11.)
+       In Jones, the prosecutor defended against a Batson/Wheeler claim by relying on an
+undisclosed juror rating system as the purportedly nondiscriminatory basis for his
+challenged strikes. The Supreme Court held that the prosecutor had thereby put the
+rating system itself at issue, such that he had “impliedly waived any claim of work
+product protection over notes containing information about the system.” (Jones, supra,
+12 Cal.5th at p. 348, italics added.) So too here: Because, as we explained in Paknad I,
+
+                                             7
+Intuitive’s answer and interrogatory responses put at issue the scope and adequacy of
+Smethurst’s investigations, Intuitive’s waiver of work product protection extends to those
+matters. (See Paknad I, supra, H050711 [“Intuitive has directly placed at issue questions
+relating to the investigations’ scope and adequacy”].)5
+       We recognize that much of the parties’ dispute in these proceedings centers upon
+whether in Paknad I we intended to find a waiver of work product protection, as well as
+the attorney-client privilege. And our disposition’s bracketed reference to only the
+attorney-client privilege obscured our observation elsewhere in the opinion that Intuitive,
+“by placing the scope and adequacy of the investigations at issue,” made “disclosure of
+the materials . . . necessary for a fair adjudication of the action.” (Paknad I, supra,
+H050711.) “Although the work product statute [section 2018.030, subdivision (a)] does
+not directly address the issue of waiver, it is well established that work product
+protection, like other forms of privilege, can be waived through conduct.” (Jones, supra,
+12 Cal.5th at p. 362.) Consistent with that proposition, Wellpoint makes clear that both
+the attorney-client communication and work product protection are waived when a party
+elects to defend itself by putting otherwise privileged information at issue. (See
+Wellpoint, supra, 59 Cal.App.4th at p. 128 [holding that if a defendant employer “hopes
+to prevail by showing that it investigated an employee’s complaint and took action
+appropriate to the findings of the investigation . . . it does so with the understanding that
+the attorney-client privilege and the work product doctrine are thereby waived” (italics
+added)].) And Jones itself confirms that even core work product is subject to waiver
+when the beneficiary of that protection puts it at issue. (Jones, at pp. 365–366 [holding
+that prosecutor waived work product protection as to his juror rating system by relying on
+that undisclosed system to defend his peremptory challenges as nondiscriminatory].)
+
+
+       5
+        Paknad appears to recognize that at least some aspects of the Smethurst reports,
+such as “pure legal advice,” remain outside the scope of Intuitive’s work product waiver.
+
+
+                                              8
+Indeed, based on Jones and Wellpoint, counsel for Intuitive conceded at oral argument
+that it had waived attorney work product protection and that the sole remaining issue is
+the scope of that waiver. Intuitive’s concession is well taken.
+       As in Paknad I, we follow Jones and Wellpoint. We clarify that Intuitive, by its
+voluntary conduct, has waived attorney-client privilege and attorney work product
+protection as to (1) all Smethurst’s factual findings about Paknad’s allegations of
+discrimination, harassment, or retaliation, and (2) information—whether in Smethurst’s
+reports or the underlying investigative materials—relevant to the scope or adequacy of
+Smethurst’s investigation of Paknad’s allegations.
+B.     Scope of Redactions
+
+       Although we have every confidence that this clarification of our holding in
+Paknad I will resolve any ambiguity for the respondent court, we will for the parties’
+benefit address Intuitive’s alternative arguments for accepting its proposed redactions.
+       1.     Intuitive’s Legal Theory for Limiting Disclosure
+
+       Intuitive argued for the first time during oral argument that Southern Cal. Gas Co.
+v. Public Utilities Com. (1990) 50 Cal.3d 31, United States v. Nobles (1975)
+422 U.S. 225, and Jones, taken together, support limiting the scope of Intuitive’s
+disclosure obligations not by what the company put at issue but by whether what it has
+since disclosed will suffice for Paknad to meet Intuitive’s avoidable consequences
+defense at trial. Leaving aside the pragmatic challenges posed by this proposal, we do
+not read these cases to support Intuitive’s proposed limitation. Southern Cal. Gas Co.
+addressed the antecedent issue of waiver—whether the company had “place[d] in issue its
+privileged communications,” such that the information is “vital to a fair adjudication in
+th[e regulatory] proceeding”—not the precise contours of the waiver’s scope. (Id. at
+
+
+
+
+                                             9
+pp. 42–43.)6 And Nobles and Jones both framed the issue of waiver not in terms of need,
+but of what the holder of the privilege had voluntarily put at issue. (See Jones, supra,
+12 Cal.5th at p. 365 [information relating to undisclosed juror rating system waived
+because “the striking attorney has placed in issue [that] information”]; Nobles, at p. 239
+[“by electing to present the investigator as a witness, [defendant] waived the privilege
+with respect to matters covered in his testimony”].)
+       We accordingly decline Intuitive’s belated invitation to limit the disclosure of the
+Smethurst reports and investigative materials based on a pretrial projection of whether
+disclosures to date will be sufficient to meet Paknad’s needs at trial. We instead focus on
+the scope of the waiver—what Intuitive has voluntarily put at issue through its assertion
+of the avoidable consequences defense.
+       2.     Factual Findings
+
+       Paknad challenges Intuitive’s wholesale redaction of all factual findings from the
+Smethurst’s reports. These factual findings represent Smethurst’s interpretation and
+weighing of the available evidence, her assessment of the credibility of the witnesses, and
+her determination of whether Paknad’s factual allegations were substantiated. The
+relevance of these factual findings to the scope and adequacy of the investigations is
+undisputed. They are squarely within the scope of Intuitive’s waiver.7
+
+       6
+         Having resolved this antecedent question in Paknad I, supra, H050711 we will
+not revisit it here, particularly in light of Intuitive’s concession of waiver.
+       7
+         To the extent Smethurst’s report includes limited findings about a third party
+complainant, Paknad allows that these are “arguably within . . . the trial court’s
+appropriate discretion to redact” but posits that even those findings “may have had some
+bearing” on Paknad’s complaints. As we have explained, the issue is whether these
+findings about a third party’s complaints bear on the scope and adequacy of Intuitive’s
+investigation of Paknad’s complaints. Unless the respondent court determines that they
+do, these findings about a third party complainant exceed the scope of Intuitive’s waiver,
+are not subject to disclosure, and may remain redacted from the materials released to
+Paknad.
+
+
+                                            10
+       Although Intuitive appropriately conceded at oral argument that it had waived
+attorney work product protection as to Smethurst’s purely factual findings, it still
+maintains that the redacted “findings” in Smethurst’s report are not subject to disclosure
+because even bare credibility determinations were informed by Smethurst’s legal
+judgment and experience—in short, because they are Smethurst’s work product. Because
+Intuitive engaged Smethurst both to investigate Paknad’s complaints and “ ‘to make
+recommendations to . . . [Intuitive] management’ about how to respond” to them (see
+Paknad I, supra, H050711), the substance of Smethurst’s factual findings bear directly on
+the adequacy of both the investigations and Intuitive’s response. Having put the
+adequacy of both at issue and thereby waived work product protection, “Intuitive cannot
+. . . disavow any interrelationship between the investigative findings it commissioned and
+the response it ultimately chose. If Intuitive chose to disregard the findings of the
+investigations it commissioned, those findings would be relevant to the claimed adequacy
+of its response; likewise, if it chose to accept and act on the findings made, the adequacy
+of its response is enmeshed with the adequacy of those investigations.” (Ibid.)
+       Smethurst’s factual findings are also relevant to the disputed issue of her
+independence. In support of its avoidable consequences defense, Intuitive represented in
+form interrogatory No. 15.1 that it “has thoroughly investigated every allegation that
+[p]laintiff presented by hiring an independent, outside investigator to conduct two
+investigations.” (Paknad I, supra, H050711, italics added.) Paknad has disputed
+Smethurst’s independence, claiming that with respect to the second investigation, “the
+outcome, as expected, was skewed to blame [Paknad] and support [Intuitive], [van]
+Heesewijk, and Collins.” (Some capitalization omitted.) Intuitive having put at issue
+Smethurst’s independence and objectivity, Paknad must be given access to Smethurst’s
+factual findings as well so that she has equal opportunity to assess how Smethurst
+reached those findings, and if warranted, to root out possible bias.
+
+
+
+                                             11
+       3.     Additional Redactions
+
+       Apart from the factual findings, Intuitive also proposed limited redactions to other
+portions of the reports, and to the underlying investigative materials. We will direct the
+respondent court to conduct further in camera review of the remaining redactions to
+(1) the two Smethurst reports; and (2) the underlying investigative materials, and to
+disclose to Paknad information relevant to the scope and adequacy of the Smethurst
+investigations. (Box v. Superior Court (2022) 87 Cal.App.5th 60, 82 [when trial court
+conducts in camera review but “attempt[s] to answer the wrong question,” the
+“appropriate course is to return the matter to the trial court for further consideration of
+[the] motion to compel, applying the correct standard”].)8
+       We reiterate that the purpose of further in camera review is not to determine
+whether any information contained in the Smethurst reports and investigative materials
+contain core attorney work product (§ 2018.030, subd. (a)), but whether the redacted
+materials are within the scope of Intuitive’s waiver of protection for core attorney work
+product. At the conclusion of the in camera review, the respondent court will disclose to
+Paknad any information relevant to the scope and adequacy of the Smethurst
+investigations—irrespective of whether such information would otherwise qualify for
+core attorney work protection under section 2018.030.
+                                  III.   DISPOSITION
+
+       Let a peremptory writ of mandate issue directing the respondent court to vacate its
+August 27, 2024 order insofar as it accepted all redactions of the investigator’s reports
+and related investigative material proposed by real parties in interest Intuitive Surgical,
+
+
+       8
+        As previously noted, the materials Intuitive provided for in camera review were
+themselves lightly redacted. In advance of the respondent court’s further in camera
+review of the investigator’s reports and investigative materials, Intuitive must provide the
+respondent court with completely unredacted versions of the underlying investigative
+materials.
+
+
+                                              12
+Inc., and Intuitive Surgical Operations, Inc.; conduct further in camera review of these
+materials consistent with the views expressed in this opinion; and enter a new order for
+the disclosure of all such materials within the scope of real parties’ waiver of
+attorney-client privilege and work product protection.
+       Costs in this original proceeding are awarded to petitioner Michelle Paknad. (Cal.
+Rules of Court, rule 8.493(a)(1)(A).)
+       Upon issuance of the remittitur, the temporary stay order is vacated.
+
+
+
+
+                                             13
+                                        _____________________________________
+                                        LIE, J.
+
+
+
+
+WE CONCUR:
+
+
+
+
+_____________________________________
+GREENWOOD, P. J.
+
+
+
+
+_____________________________________
+DANNER, J.
+
+
+
+
+Paknad v. Superior Court
+H052652
+Filed 4/17/26
+                               CERTIFIED FOR PUBLICATION
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                 SIXTH APPELLATE DISTRICT
+
+ MICHELLE PAKNAD,                                       H052652
+                                                       (Santa Clara County
+          Petitioner,                                   Super. Ct. No. 19CV350641)
+
+                    v.                                 ORDER MODIFYING OPINION,
+                                                       CERTIFYING OPINION FOR
+ THE SUPERIOR COURT OF                                 PUBLICATION
+ CALIFORNIA, COUNTY OF SANTA
+ CLARA,                                                NO CHANGE IN JUDGMENT
+
+          Respondent;
+
+ INTUITIVE SURGICAL, INC., et al.,
+
+          Real Parties in Interest.
+
+        THE COURT:
+        It is ordered that the opinion filed herein on March 24, 2026, be modified as
+follows:
+        1. On page 6, line 1 of footnote 4, the word “also” is deleted.
+        2. On page 8, the first full paragraph, beginning “We recognize,” in its fourth
+                sentence beginning “Consistent with that proposition,” the word
+                “communication’ is changed to “privilege” so the sentence reads:
+
+                   Consistent with that proposition, Wellpoint makes clear that both the
+                   attorney-client privilege and work product protection are waived when a
+                   party elects to defend itself by putting otherwise privileged information at
+                   issue.
+       3. On page 10, first sentence under subheading II.B.2. Factual Findings, first
+          line, the word “the” after “from” and before “Smethurst’s reports” is deleted.
+       4. On page 10, line 1 of footnote 7, the words “report includes” are changed to
+          “reports include” so the first sentence reads:
+
+              To the extent Smethurst’s reports include limited findings about a third
+              party complainant, Paknad allows that these are “arguably within . . . the
+              trial court’s appropriate discretion to redact” but posits that even those
+              findings “may have had some bearing” on Paknad’s complaints.
+
+       5. On page 12, last sentence under subheading II.B.3. Additional Redactions, the
+          word “product” is added after “work” and before “protection” to read:
+
+              At the conclusion of the in camera review, the respondent court will
+              disclose to Paknad any information relevant to the scope and adequacy of
+              the Smethurst investigations—irrespective of whether such information
+              would otherwise qualify for core attorney work product protection under
+              section 2018.030.
+
+There is no change in the judgment.
+
+
+       The opinion in the above-entitled matter filed on March 24, 2026, was not
+certified for publication in the Official Reports. For good cause it now appears that the
+opinion should be published in the Official Reports and it is so ordered.
+
+
+
+
+                                              2
+                           ___________________________________
+                                           LIE, J.
+
+
+
+
+WE CONCUR:
+
+
+
+
+______________________________________
+            GREENWOOD, P. J.
+
+
+
+
+______________________________________
+            DANNER, J.
+
+
+
+
+Paknad v. Superior Court
+H052652
+Trial Court:      Santa Clara County Superior Court
+                  Superior Court No.: 19CV350641
+
+Trial Judge:      Hon. Evette D. Pennypacker
+
+Counsel:          Aiman-Smith & Marcy, Randall B. Aiman-Smith, Reed W.L.
+                  Marcy, Hallie Von Rock, Brent A. Robinson, for Petitioner.
+
+                  Littler Mendelson, Darren E. Nadel, Michelle Leah Gomez, David
+                  C. Gartenberg, Anne Sweeney Jordan, for Intuitive Surgical, Inc.,
+                  and Intuitive Surgical Operations, Inc., Real Parties in interest.
+
+
+
+
+Paknad v. Superior Court
+H052652

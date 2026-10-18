@@ -1,0 +1,672 @@
+cl_opinion_id: 11221363
+cluster: 10754778
+docket: A170379
+date: 2025-12-12
+status: Unpublished
+type: 010combined
+field: plain_text
+case: McMartin-Rosenquist v. Mayberry CA1/3
+----
+Filed 12/12/25 McMartin-Rosenquist v. Mayberry CA1/3
+                           NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or ordered
+published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for purposes of rule
+8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                            FIRST APPELLATE DISTRICT
+
+                                                        DIVISION THREE
+
+
+ JAY McMARTIN-ROSENQUIST,
+             Plaintiff and Appellant,                                              A170379
+ v.
+ SCOTT MAYBERRY as Trustee,                                                        (Mendocino County
+ etc.,                                                                             Super. Ct. No. 22PR00129)
+             Defendant and Respondent.
+
+ ROBERT ROSENQUIST,                                                                A170381
+             Plaintiff and Appellant,
+ v.                                                                                (Mendocino County
+ BEVERLY BARBER as Trustee,                                                        Super. Ct. No. 22PR00130)
+ etc.,
+             Defendant and Respondent.
+
+
+           Jay McMartin-Rosenquist and Robert Rosenquist appeal from probate
+court orders finding they had waived an accounting of trusts pursuant to
+their settlement with the trustees, and then approving the actions of the
+trustees. They argue (1) “procedural irregularities” deprived them of
+sufficient notice and opportunity to be heard on the orders, and (2) the court’s
+findings on waiver and approval of the trustees’ actions lacked sufficient
+support. We affirm.
+
+
+                                                                          1
+                                 BACKGROUND
+      McMartin-Rosenquist is a beneficiary of the Bowman and Company
+Irrevocable Trust (Bowman and Company Trust). Rosenquist is a beneficiary
+of the Gayle Bowman Trust. After Gayle Bowman died in 2022, appellants
+each filed a petition in probate court regarding the respective trusts. Among
+other things, the operative petitions requested an accounting of the trusts
+from the trustees. Jennifer Carlson and Scott Mayberry were identified as
+the then-current trustees of the Bowman and Company Trust. Carlson was
+also identified as the then-current trustee of the Gayle Bowman Trust.
+      A. Settlement Conference
+      On October 12, 2023, the parties attended a settlement conference on
+both matters. At the conclusion of the conference, the probate court
+announced, “it appears that we have reached a resolution to resolve both of
+these cases and avoid a trial that was scheduled to last for three weeks.” The
+court then asked counsel to state the terms of settlement on the record.
+      Appellants’ counsel began with the settlement as to the Gayle Bowman
+Trust, and identified various terms related to real and personal property.
+Counsel continued: “So there would be a stipulation that the terms of the
+settlement are enforceable pursuant to Code of Civil Procedure [section]
+664.6,1 the petitions will be dismissed with prejudice, and each side is to bear
+their own attorney fees and costs.” Respondents’ counsel added: “Yes. And a
+[Civil Code section] 1542 waiver.”2 Appellants’ counsel responded: “Yes.”
+
+
+
+      1 Code of Civil Procedure section 664.6, subdivision (a) allows a court to
+
+“retain jurisdiction over the parties to enforce the settlement until
+performance in full of the terms of the settlement.”
+      2 Civil Code section 1542 otherwise provides, in relevant part, that a
+
+general release does not extend to claims the releasing party “does not know
+or suspect to exist in his or her favor at the time of executing the release and
+                                        2
+Respondents’ counsel then stated: “And there’s no accounting needed for
+that. Does that sound correct for that?” There was some discussion off the
+record. Appellants’ counsel then stated: “It’s entered in every settlement in
+California. When – when you settle, you dismiss the petition. [¶] But, also,
+you release all the claims arising out of the petition, known or unknown. [¶]
+So it’s – an example is where it’s usually used is a personal injury case, where
+someone settles and they sign this [Civil Code section] 1542 waiver. [¶] So if
+they’re more injured than they realize and later on find that out, they can’t
+sue again.”
+      The probate court asked counsel if they were going to reduce the terms
+to writing. Respondents’ counsel stated: “Yeah. We can do that. This should
+be fully enforceable. Yes we will follow up in writing.”
+      The court then asked the parties to the Gayle Bowman Trust petition if
+they agreed with the settlement terms and conditions as expressed by
+counsel. Rosenquist responded, “Yes.” Carlson responded, “Yeah.” The other
+beneficiary of the Gayle Bowman Trust was also in attendance. When the
+court asked if she was also in agreement, she responded, “Yeah.”
+      Respondents’ counsel then turned to the settlement as to the Bowman
+and Company Trust, again identifying various terms related to real and
+personal property as well as other assets. Counsel continued: “Other than
+that, it’s the 664.6 1542 waiver. These are on the costs and fees. No
+accounting is needed.” Appellants’ counsel clarified: “The settlement is
+enforceable by the terms of the California Code of Civil Procedure [section]
+664.6. [¶] And there will be a mutual release pursuant to Civil Code section –
+or a waiver of Civil Code section 1542.”
+
+
+that, if known by him or her, would have materially affected his or her
+settlement with the debtor or released party.”
+
+                                       3
+      The court then asked the parties to the Bowman and Company Trust
+petition if they agreed with the terms and conditions as outlined by counsel.
+McMartin-Rosenquist responded, “Yes.” Mayberry responded, “Yes, Your
+Honor.” The court noted Carlson was no longer a trustee on the Bowman and
+Company Trust, but asked if she was also in agreement. Carlson first
+addressed an issue of personal property raised by McMartin-Rosenquist, and
+then responded, “That’s fine.”
+      The probate court concluded: “Okay. So it appears we have a
+settlement. It’s on the record.” The court also noted it would retain
+jurisdiction over the parties to enforce the settlement and would “be available
+to make sure that the settlement goes through.”
+      B. Interim Hearing
+      Counsel exchanged drafts of a written settlement agreement, but were
+not able to execute any such agreement because of disagreements among the
+parties. Counsel requested a hearing on these disagreements and filed briefs
+for the court’s consideration. Appellants’ brief attached the most recent draft
+of the written settlement agreement in the Bowman and Company Trust
+matter. The draft included the following provision: “Waiver of accounting.
+All parties expressly waive any accountings of the Bowman and Company
+Trust.” It also included a Civil Code section 1542 waiver, stating the
+agreement “is a full and final compromise and settlement and a general
+release by the Parties that applies not only to all Released Claims, but also to
+all unknown and unanticipated claims, of whatever sort, by reason of any act,
+omission, transaction or event occurring on or before the effective date of this
+Agreement.”
+      Appellants’ brief identified the disagreements between the parties,
+including language related to personal property, payments to a trustee, and
+
+
+                                       4
+signatures needed on the settlement agreements. It did not identify any
+dispute regarding the waiver of accounting. The brief also included an issue
+“not discussed at the settlement conference.” It argued McMartin-Rosenquist
+should be allowed to make a claim under Probate Code section 8503 against a
+third-party financial advisor of the Bowman and Company Trust for
+purported “fraud” committed on Gayle Bowman.
+      At the hearing on November 15, 2023, the probate court noted it had
+met with counsel, counsel then met with their respective parties, and the
+court (upon confirming no objection by respondents) then met with
+appellants. It stated the “[Probate Code section] 850 petition issue” could not
+be resolved that day. Accordingly, the court directed the parties to “go ahead
+and set the motion to enforce the settlement under [Code of Civil Procedure
+section] 664.6” because “we have briefing regarding the potential motion, but
+not the actual motion itself.”
+      When discussing the briefing schedule, appellants’ counsel stated: “I
+don’t know if we really need more briefing” because “everything I wanted
+briefed is in the briefs I submitted for today.” Respondents’ counsel indicated
+they would file the formal motion, but additional briefing would be “helpful”
+to “isolate the issues to remain,” suggesting the papers be submitted by
+December 7, 2023. Respondents’ counsel continued: “And then I think we
+also will be submitting a proposed – two proposed orders to the Court
+regarding the waiver of accounting and approval of actions.” The court
+responded, “Okay.” Respondents’ counsel asked: “Would that be also
+appropriate maybe to submit in time for the Court to execute on the 11th?”
+The court responded, “Absolutely.”
+
+
+
+      3 All further undesignated statutory references are to the Probate Code.
+
+
+                                       5
+      Before the conclusion of the hearing, appellants’ counsel requested an
+update from respondents about what issue(s) might remain. Respondents’
+counsel stated it was “primarily” the “[section] 850” issue, but went on to
+describe other issues related to personal property and payments to one of the
+trustees. Appellants’ counsel then sought clarification from the court that
+new briefs would be due simultaneously on December 7th, four days before
+the hearing. The court confirmed, “[o]n the 7th.” Appellants’ counsel
+responded, “Okay.”
+      C. Motion To Enforce Settlement and Proposed Orders
+      On December 7, 2023, respondents’ counsel sent a motion to enforce the
+settlement, along with supporting memorandum, declarations, and the two
+proposed orders, for e-filing with the probate court. While respondents’
+counsel later received notice rejecting the e-filing and stating “The Court
+apologizes that this was not filed timely,” counsel had also sent these
+documents to the probate court judge, clerk, and appellants’ counsel directly
+via e-mail.4
+      The motion argued appellants’ section 850 claims against third-party
+financial planners, advisors, and representatives were barred and released
+under the terms of the settlement. It also included other arguments
+regarding distribution, property expenses, and inventory. The motion
+requested approval of the trustees’ actions. It stated: “All parties waived an
+accounting. The petitioners were put on notice that the trustees want an
+
+      4 We grant respondents’ motion to augment the record to include this
+
+motion with memorandum, declarations, and proposed orders. Even if the e-
+filing was technically rejected due to apparent court error, respondents have
+shown the documents were at least lodged with the court. (Cal. Rules of
+Court, rule 8.155, subd. (a)(1)(A) [reviewing court may order the record
+augmented on motion of a party to include any document “filed or lodged in
+the case in superior court”].)
+
+                                       6
+approval of actions. That is being submitted to the Court for entry on
+December 11.” It argued: “The court can approve trustees’ actions, especially
+where an accounting has been waived. We can file a series of Petitions for
+Instructions for every step and action, but that is (or should be) an
+unnecessary expense.”
+      The proposed orders read: “The court finds that the beneficiaries of
+The [Bowman and Company Trust or Gayle Bowman Trust] have waived the
+account of Trustee for the entire trust administration period through the date
+of settlement: October 12, 2023. All acts and transactions of the current
+Trustee and all former Trustees during the trust administration are hereby
+ratified, confirmed, and approved. [¶] All acts and transactions of the current
+Trustee and all former Trustee[s] through the date of this hearing, December
+11, 2023, are hereby ratified, confirmed, and approved.”
+      Appellants’ counsel filed an opposition to the motion on December 7th.
+It stated: “On October 12, 2023, the parties to these two consolidated trust
+petitions reached a global settlement at a Court supervised mandatory
+settlement conference and put the terms of their settlement agreement on the
+record.” It argued that the settlement put on the record did not preclude
+McMartin-Rosenquist from making claims as a trust beneficiary against
+third-party financial advisors for the Bowman and Company Trust. It also
+addressed other arguments regarding distribution, property expenses, and
+inventory. The opposition did not identify any issue regarding the waivers of
+accounting or the proposed orders.
+      D. Written Settlement Agreement
+      On December 8, 2023, McMartin-Rosenquist signed a written
+settlement agreement in the Bowman and Company Trust matter. The
+agreement included the following provision: “Waiver of accounting.
+
+
+                                       7
+Pursuant to the agreement put on the record at the October 12, 2023
+Mandatory Settlement Conference, all parties expressly waive any
+accountings of the Bowman and Company Trust.” It included a Civil Code
+section 1542 waiver with the same language from the previous draft. Carlson
+and Mayberry also signed the agreement, but did so after the December 11,
+2023 hearing on the motion. No written agreement on the Gayle Bowman
+Trust was executed.
+      E. Motion Hearing
+      At the December 11, 2023 hearing on the motion, the probate court
+began with the section 850 issue. It agreed with appellants that their ability
+to file a section 850 petition against financial planners was not part of the
+parties’ October 12, 2023 settlement. The court stated it could not “amend”
+the settlement to “add any language” regarding this issue. While the court
+referenced its previous statements that it didn’t “really think they’re going to
+have much success” filing any such petition, it explained it could not
+“prevent” appellants from doing so.
+      Respondents’ counsel addressed their concern that appellants would
+raise some claim against the trustees, including for being “jointly and
+severally liable [f]or the accountants or lawyers or anyone else.” The court
+responded, “I think the [Civil Code section] 1542 waiver would prevent them
+from filing any actions whatsoever, plus my order, against Jennifer or Scott.
+I – I don’t know that that’s a risk.” Appellants’ counsel added: “Less is more.
+We have an agreement, the terms of which are clear, and we just never
+agreed to go this far, nor would they have agreed to that because they did
+plan on making claims against [financial advisor] and these other third
+parties.” He continued: “And when I – when I said global settlement in my
+
+
+
+
+                                        8
+brief, I was talking about all the parties in both cases, not third parties or
+people like advisors or so forth.”
+      The probate court thus found McMartin-Rosenquist had not released
+all claims she may have had against third-party financial advisors. It then
+made findings about the other issues raised in the parties’ briefs regarding
+distribution, property expenses, and inventory.
+      The probate court also stated it was “prepared to sign” the proposed
+orders as “consistent with the discussions we’ve had and the settlement.” It
+explained it would sign those orders “right now,” and then the parties would
+“need to figure out your language in the settlement agreement” based on the
+discussion at the hearing. Appellants’ counsel responded, “Okay.”
+      Respondents’ counsel clarified that he had submitted two proposed
+orders, one for the Bowman and Company Trust and the other for the Gayle
+Bowman Trust. The court indicated it had both proposed orders and would
+sign both. Appellants’ counsel then asked: “So those just say there’s a waiver
+in accounting and approve the trustee’s conduct . . . through today?” The
+court responded, “Yes.” Appellants’ counsel then stated: “Just for the record,
+we would object to the part that says approving the trustee’s conduct through
+today because it’s vague and I’m not sure what it refers to, but I know you’re
+going to do what you want to do.” The court responded, “I’m going to sign it.”
+      The court issued the two orders as proposed. McMartin-Rosenquist
+filed a timely notice of appeal from the order entered in the Bowman and
+Company Trust matter. Rosenquist filed a timely notice of appeal from the
+order entered in the Gayle Bowman Trust matter. We granted appellants’
+motion to consolidate their appeals in the two related matters. According to
+respondents, Carlson died in early 2024 and the sole trustee of the Gayle
+Bowman Trust is now Beverly Barber.
+
+
+                                        9
+                                  DISCUSSION
+      Appellants reject any characterization of their consolidated appeal as “a
+broader referendum on the validity of the settlement agreement itself.” It is
+instead narrow in scope, challenging only the two orders finding they had
+waived an accounting of the trusts and approving the actions of the trustees.
+Appellants argue these orders should be reversed for two primary reasons.
+First, they contend “procedural irregularities” deprived them of sufficient
+notice and opportunity to be heard. Second, they argue the probate court’s
+findings on waiver of accounting and its approval of the trustees’ actions
+lacked sufficient support.
+      What appellants overlook, however, is that they have forfeited these
+arguments. As a general rule, claims of error are forfeited by appellants’
+failure to raise them in the court below. (E.g., People v. Avila (2009) 46
+Cal.4th 680, 729 [defendant forfeited argument on determination of
+restitution fine by failing to assert it below]; People v. Howard (2010) 51
+Cal.4th 15, 26 [defendant waived challenge to jury process for failure to raise
+in trial court].) The record shows appellants did not raise any of the
+arguments here in the probate court.
+      At the December 11, 2023 hearing, appellants’ counsel raised only one
+objection to the orders: that the language regarding the time frame of
+approval of the trustees’ actions (“through the date of this hearing”) was
+vague. Appellants did not, in their opposition to the motion or at either of the
+hearings, raise any other challenge to the orders. Accordingly, we deem the
+arguments forfeited.
+      Appellants offer nothing to support a contrary conclusion. As for their
+arguments about procedure, it is “well established that a lack of notice can be
+forfeited by failure to object, even when it is claimed that it violated due
+
+
+                                       10
+process.” (People v. Nguyen (2017) 18 Cal.App.5th 260, 271.) Appellants
+appear to suggest we exercise our discretion to consider the arguments
+because they involve only questions of law. As a preliminary matter, we are
+under no “mandatory duty” to do so. (Wittenberg v. Bornstein (2020) 51
+Cal.App.5th 556, 567.) In any event, appellants’ arguments about procedure
+are specific to disputed facts about the proceedings here. (People v. Scott
+(1994) 9 Cal.4th 331, 355 [fact-specific errors “are not readily susceptible of
+correction on appeal”].) They do not raise pure questions of law.
+      As for their arguments that the orders lacked sufficient support,
+appellants correctly note that a substantial evidence challenge to a judgment
+can be an exception to the general rule on forfeiture. (Tahoe National Bank
+v. Phillips (1971) 4 Cal.3d 11, 23, fn. 17.) But this exception is only available
+to parties who otherwise contested the judgment below. (Id. at pp. 16–17 &
+fn. 5 [appellant failed to object to certain evidence offered to prove
+interpretation of document at trial but argued against such interpretation].)
+“Parties may generally challenge the sufficiency of the evidence to support a
+judgment for the first time on appeal because they ‘necessarily objected’ to
+the sufficiency of the evidence by ‘contesting [it] at trial.’ ” (People v.
+McCullough (2013) 56 Cal.4th 589, 596.) Appellants did not contest entry of
+the orders here.
+      Even if not forfeited, however, we are unpersuaded by the merits of the
+arguments. We address, and reject, them in turn.
+I. Procedure for Orders
+      Appellants contend there were “procedural irregularities” that denied
+them sufficient notice and opportunity to be heard on the orders. They offer
+five specific arguments to support their position.
+
+
+
+
+                                         11
+      A. Need for “New” Motion
+      Appellants concede the probate court had authority to schedule briefing
+on the motion to enforce the settlement for December 7th, four days before
+the hearing. (Code Civ. Proc., § 1005, subd. (b) [setting 16-day default for
+filing and serving motion before hearing “[u]nless otherwise ordered”]; Cal.
+Rules of Court, rule 3.1300(b) [court order shortening time].) But appellants
+argue instead that the proposed orders should have been treated as a “new
+motion,” and there was no “showing of good cause” presented to justify a
+shorter briefing schedule for this new motion. Appellants offer no basis to
+conclude a separate motion was required. The proposed orders were part of
+respondents’ request to enforce the terms of the settlement: they argued the
+parties had agreed to waivers of accounting and, based on the parties’
+waivers, the probate court could approve the trustees’ actions.
+      Nor do appellants explain their proffered basis for any required
+showing of good cause. (Cf. Cal. Rules of Court, rule 3.1300(b) [explaining
+court may issue order “on its own motion,” as an alternative to application
+with declaration showing good cause].) Even assuming such a requirement,
+the court and parties agreed that the December 7th schedule was appropriate
+because they had already submitted briefing on the issues that had arisen
+regarding settlement terms, and appellants’ counsel stated “everything I
+wanted briefed is in the briefs I submitted for today.” Appellants had not
+raised any dispute regarding the waivers of accounting. There was good
+cause to include the proposed orders in the December 7th schedule.
+      Appellants alternatively contend it is “at best unclear” the probate
+court “intended to shorten the statutorily required briefing schedule on the
+new issue.” Not so. The record shows the court was well aware it had set the
+schedule for both the briefs and proposed orders. When specifically asked by
+
+
+                                       12
+respondents’ counsel whether the schedule would provide enough time for
+execution of the proposed orders, the court responded, “Absolutely.”
+      B. Due Process
+      Appellants argue the “compressed timeline” of the orders violated their
+due process rights. They contend the notice was insufficient to enable them
+“to determine what was being proposed and what effects it would have on
+their interests,” as “the record shows that appellants objected that they didn’t
+know what the orders referred to” and they received these orders in the
+“unexpected absence” of other orders to enforce the overall agreement.
+      “An elementary and fundamental requirement of due process in any
+proceeding which is to be accorded finality is notice reasonably calculated,
+under all the circumstances, to apprise interested parties of the pendency of
+the action and afford them an opportunity to present their objections.”
+(Mullane v. Central Hanover Tr. Co. (1950) 339 U.S. 306, 314.) “The notice
+must be of such nature as reasonably to convey the required information
+[citation], and it must afford a reasonable time for those interested to make
+their appearance.” (Ibid.) “But if with due regard for the practicalities and
+peculiarities of the case these conditions are reasonably met, the
+constitutional requirements are satisfied.” (Id. at pp. 314–315.)
+      At the November 15, 2023 hearing, respondents’ counsel stated they
+would be submitting “two proposed orders to the Court regarding the waiver
+of accounting and approval of actions.” On December 7, 2023, respondents
+included the proposed orders with their motion to enforce the settlement.
+The request for approval was also expressly stated in the motion itself, along
+with argument supporting the request. Then, at the December 11, 2023
+hearing, appellants had the opportunity to raise any objection to the orders.
+Despite their contention to the contrary, the record shows appellants knew
+
+
+                                      13
+“what the orders referred to.” Appellants’ counsel confirmed the orders would
+“say there’s a waiver in accounting and approve the trustee’s conduct.” He
+then objected to one phrase in the orders as vague. Considering these
+circumstances, we conclude appellants were given reasonable notice and
+opportunity to be heard on the orders.
+      C. Scope of Hearing
+      Appellants argue the orders “exceeded the scope of the noticed hearing”
+on December 11, 2023, and respondents had failed to meet and confer prior to
+that hearing. As for the scope of the hearing, appellants largely repeat their
+position that the orders were not properly included in the motion to enforce
+the settlement. We reject this argument for the same reasons set forth above.
+As for the meet and confer, appellants do not specify any proffered
+requirement on a motion to enforce settlement under Code of Civil Procedure
+section 664.6. (Cf. Weil & Brown, Cal. Practice Guide: Civil Procedure Before
+Trial (The Rutter Group 2025) ¶ 12:950 [“Where the statutory requirements
+are met, the court may, upon motion, enter judgment pursuant to the terms
+of a settlement agreement.”].)
+      Even assuming such requirement, the record reflects the parties met
+and conferred here. After agreeing to the terms of settlement on the record,
+the parties attempted to reduce the settlement to writing. Drafts were
+exchanged that included a waiver of accounting. The parties met and
+conferred regarding disputes that had arisen during this process, and
+ultimately sought court intervention to resolve these disputes. No dispute
+regarding the waiver of accounting was raised. Then, at the November 15,
+2023 hearing, respondents indicated they would be submitting the proposed
+orders with the formal motion.
+
+
+
+
+                                      14
+      D. Statement of Decision
+      Appellants also argue the timeline of the orders prevented them from
+requesting a statement of decision. But appellants offer no specific argument
+as to why the probate court would have been required to grant any such
+request here. (Gruendl v. Oewel Partnership, Inc. (1997) 55 Cal.App.4th 654,
+660 [noting general rule that no statement of decision is required after a
+ruling on a motion, but may be considered based on the balancing of certain
+factors].) Nor are we persuaded that the lack of a statement of decision
+deprives appellants of the court’s reasoning in entering the orders. At the
+December 11, 2023 hearing, the court explained it was signing the orders as
+“consistent with the discussions we’ve had and the settlement.”
+      E. Motion Not “Filed”
+      Appellants argue, without supporting authority, that because the
+motion was not technically “filed,” they lacked meaningful notice on the
+orders and the court lacked jurisdiction or authority to enter them. We deem
+the argument forfeited. (Cal. Rules of Court, rule 8.204(a)(1)(B) [each brief
+must state each point under separate heading or subheading]; OCM Principal
+Opportunities Fund, L.P. v. CIBC World Markets Corp. (2007) 157
+Cal.App.4th 835, 844, fn. 3 [contentions forfeited for failure to present
+argument and appropriate legal authorities].)5
+      Even if the argument were not forfeited, we are not persuaded. The
+record shows that, while the e-filing was technically rejected due to apparent
+
+
+      5 We granted appellants’ application seeking leave to file supplemental
+
+briefing, but only as to an alternative ground of forfeiture for failure to raise
+this argument in the opening brief. (Doe v. California Dept. of Justice (2009)
+173 Cal.App.4th 1095, 1115 [issue raised for first time in reply brief is
+forfeited].) The supplemental brief explains that, when the opening brief was
+filed, the appellate record did not yet include the motion papers and thus the
+technical filing issue could not be raised at that time. ~(SuppBrf 4-5)~ Even
+                                       15
+court error, respondents had submitted the motion, supporting
+memorandum, declarations, and proposed orders directly to the probate court
+and appellants via e-mail. At the December 11, 2023 hearing, the court
+confirmed it had received both proposed orders and would sign both.
+Remarks by appellants’ counsel further suggest they had received the
+proposed orders, as he confirmed the nature of the orders and then objected
+to specific language in the orders as vague.
+II. Support for Orders
+      Beyond these procedural arguments, appellants look to the substance of
+the orders and contend the probate court lacked sufficient support to enter
+them. The orders contain two provisions. First, the court found the
+beneficiaries of each trust had “waived the account of Trustee for the entire
+trust administration period through the date of settlement: October 12,
+2023.” Second, the court “ratified, confirmed, and approved” the acts of the
+trustees.
+      Respondents’ motion to enforce settlement argued this first provision
+was consistent with the terms of the October 12, 2023 settlement because all
+parties had “waived an accounting.” The motion then argued the second
+provision was appropriate because the probate court could approve the
+trustees’ actions given the waivers in settlement. The court agreed, and
+
+
+
+
+accepting this explanation, it does not change the result here because the
+argument is otherwise forfeited and unpersuasive on its merits.
+        The supplemental brief also includes other argument beyond the scope
+of our order, which we do not address as improper. And we deny appellants’
+concurrent request for judicial notice of a recent trial court filing as
+unnecessary and unhelpful to our resolution of this appeal. (See Jordache
+Enterprises, Inc. v. Brobeck, Phleger & Harrison (1998) 18 Cal.4th 739, 748,
+fn. 6.)
+
+                                      16
+signed the orders as “consistent with the discussions we’ve had and the
+settlement.”
+      Accordingly, we need not and do not address appellants’ arguments
+about the evidence (or lack thereof) supporting the trustees’ actions. The
+probate court did not issue the orders on this basis, and respondents do not
+argue the orders should be affirmed because of any such evidence. We also
+reject appellants’ attempt to characterize the court’s comments on the effect
+of its orders as indicative of its intent to preempt or discourage appellants’
+third-party claims. That is plainly contrary to the record, which shows the
+court signed the orders upon finding the parties had waived an accounting
+under the settlement and then approved the trustees’ actions given the
+waivers therein.
+      Accordingly, we turn to appellants’ arguments regarding (1) whether
+there was sufficient evidence to support the court’s findings on waiver; and
+(2) whether the court erred in approving the trustees’ actions given the
+parties’ waivers.
+      A. Waiver of Accounting
+      Appellants argue there was insufficient evidence to support the probate
+court’s findings that the parties had waived an accounting of the trusts in
+their settlement. “ ‘When a finding of fact is attacked on the ground that
+there is not any substantial evidence to sustain it, the power of an appellate
+court begins and ends with the determination as to whether there is any
+substantial evidence contradicted or uncontradicted which will support the
+finding of fact.’ ” (Foreman & Clark Corp. v. Fallon (1971) 3 Cal.3d 875, 881.)
+On a substantial evidence challenge, we “ ‘consider all of the evidence in the
+light most favorable to the prevailing party, giving it the benefit of every
+
+
+
+
+                                       17
+reasonable inference, and resolving conflicts in support of the [findings].’ ”
+(Estate of Young (2008) 160 Cal.App.4th 62, 76.)
+      Applying this standard, we conclude the probate court’s findings on
+waiver of accounting were supported by substantial evidence. When counsel
+read the terms of the October 12, 2023 settlement for each trust into the
+record, they stated “[n]o accounting” would be “needed.” Counsel continued
+that “all the claims arising out of the petition, known or unknown” would be
+released pursuant to Civil Code section 1542 waivers. When the parties were
+asked if they agreed with the settlement terms and conditions as expressed
+by counsel, each responded in the affirmative.
+      Then, when attempting to reduce the settlement to writing, the parties
+exchanged drafts that included a waiver of accounting and a Civil Code
+section 1542 waiver. On December 8, 2023, McMartin-Rosenquist signed a
+written agreement that included both a section 1542 waiver and the following
+provision: “Waiver of accounting. Pursuant to the agreement put on the
+record at the October 12, 2023 Mandatory Settlement Conference, all parties
+expressly waive any accountings of the Bowman and Company Trust.”
+Mayberry and Carlson signed that written agreement after the December 11,
+2023 conference. Appellants object that this evidence cannot be considered
+because it postdates the October 12, 2023 settlement. But “[a] party’s
+conduct occurring between execution of the contract and a dispute about the
+meaning of the contract’s terms may reveal what the parties understood and
+intended those terms to mean. For this reason, evidence of such
+conduct . . . is admissible to resolve ambiguities in the contract’s language.”
+(City of Hope National Medical Center v. Genentech, Inc. (2008) 43 Cal.4th
+375, 393.)
+
+
+
+
+                                       18
+      Appellants argue in the alternative that, even if they had agreed to
+waivers of accounting on October 12, 2023, it was a “conditional” or “partial”
+settlement because the parties had not reached agreement on “all material
+terms.” But appellants do not specify what those terms were, and no such
+terms were identified in counsel’s recitation on the record. To the extent
+appellants are referring to the section 850 petition issue, the probate court
+explained this issue was not part of the parties’ settlement and it could not
+“add any language” preventing such petition against third parties. That
+dispute did not render the settlement between the parties conditional or
+partial. To the extent appellants are referring to the parties’ agreement to
+reduce the terms of their settlement to a formal writing, that writing “ ‘does
+not alter the binding validity of the original contract.’ ” (Skirball v. RKO
+Radio Pictures, Inc. (1955) 134 Cal.App.2d 843, 861.)
+      Appellants’ contention is further belied by their own representations to
+the probate court. Opposing the motion to enforce the settlement, appellants
+stated: “On October 12, 2023, the parties to these two consolidated trust
+petitions reached a global settlement at a Court supervised mandatory
+settlement conference and put the terms of their settlement agreement on the
+record.” And at the hearing on the motion, appellants’ counsel confirmed
+“when I said global settlement in my brief, I was talking about all the parties
+in both cases.”
+      B. Approval of Trustee Actions
+      Appellants contend the probate court erred in approving the actions of
+the trustees. But they offer no specific argument or authority that such
+approval constitutes legal error when it is based on the parties’ waiver of
+accounting and release of claims pursuant to Civil Code section 1542 waivers.
+We deem any such argument forfeited. (Cal. Rules of Court, rule
+
+
+                                       19
+8.204(a)(1)(B); OCM Principal Opportunities Fund, L.P. v. CIBC World
+Markets Corp., supra, 157 Cal.App.4th at p. 844, fn. 3; Doe v. California Dept.
+of Justice, supra, 173 Cal.App.4th at p. 1115.)
+      Even if not forfeited, we are not persuaded the court committed error
+under the circumstances here. Probate courts have the authority to conduct
+certain proceedings when a trustee or beneficiary files a petition concerning
+the internal affairs of a trust. (§ 17200, subd. (a).) This includes proceedings
+for the purpose of “passing upon the acts of the trustee.” (Id., subd. (b)(5).)
+Here, appellants each filed a petition pursuant to section 17200 related to the
+Bowman and Company Trust and Gayle Bowman Trust as beneficiaries of
+those trusts. While those petitions were pending, respondents requested the
+court approve the actions of the trustees.
+      As detailed above, appellants waived an accounting of the trusts in the
+settlement. Appellants also released all claims against the trustees, “known
+or unknown,” pursuant to the Civil Code section 1542 waivers. The other
+beneficiary of the Gayle Bowman Trust also agreed to these waivers. Once
+the beneficiaries of the trusts had waived the accounting and released their
+claims against the trustees, they could no longer challenge the trustees’
+actions. (See Coberly v. Superior Court (1965) 231 Cal.App.2d 685, 688
+[explaining that failure to challenge trustee’s accounting would “in all
+probability preclude any challenge at a later date and make everything in the
+accounts res []judicata”]; see also 2 Cal. Transactions Forms: Estate Planning
+(West 2025) § 13:82 [“Once the beneficiary waives the account and releases
+the Trustee, the beneficiary may no longer bring an action against the trustee
+for the trustee’s acts during the administration of the trust.”].) Moreover, we
+understand the probate court’s approval of the trustees’ actions here to be
+expressly without prejudice to whatever claims appellants have against third
+
+
+                                        20
+parties. The parties do not argue otherwise, and that understanding is
+consistent with the probate court’s finding (made at the same time as the
+approval) that appellants could pursue those claims because they were not
+part of the settlement.
+      In sum, we conclude the probate court did not err in its orders on the
+waiver of accounting and approval of the trustees’ actions.
+                                  DISPOSITION
+      The orders are affirmed. Respondents are entitled to recover their
+costs on appeal. (Cal. Rules of Court, rule 8.278(a)(1), (2).)
+
+
+
+
+                                        21
+                                                         PETROU, J
+
+
+WE CONCUR:
+
+
+TUCHER, P. J.
+
+RODRÍGUEZ, J.
+
+
+
+McMartin-Rosenquist v. Mayberry (A170379/A170381)
+
+
+
+
+                                                    22

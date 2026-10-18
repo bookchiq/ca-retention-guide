@@ -1,0 +1,196 @@
+cl_opinion_id: 11050682
+cluster: 10584094
+docket: H051389
+date: 2025-05-14
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Torres CA6
+----
+Filed 5/14/25 P. v. Torres CA6
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      SIXTH APPELLATE DISTRICT
+
+
+ THE PEOPLE,                                                         H051389
+                                                                    (Santa Clara County
+           Plaintiff and Respondent,                                 Super. Ct. No. C1774786)
+
+           v.
+
+ ADAM MEL TORRES,
+
+           Defendant and Appellant.
+
+
+
+         Adam Mel Torres petitioned for resentencing under Penal Code section 1172.75
+because his sentence included enhancements for serving prior felony prison terms—
+prison priors—that are now invalid.1 The trial court denied the petition because
+punishment for the prison priors was stricken. Based on our decision in People v. Espino
+(2024) 104 Cal.App.5th 188, review granted Oct. 23, 2024, S2886987 (Espino), Torres
+argues that the trial court erred. As the Attorney General has not offered any argument in
+opposition not already considered and rejected in Espino, we agree and remand with
+directions to resentence Torres. As the trial court will consider presentence credits in
+resentencing Torres, we decline to consider how the credits should have been calculated.
+
+
+
+
+     1
+         Subsequent undesignated statutory references are to the Penal Code.
+                                     I. BACKGROUND
+        Because the facts underlying Torres’ offenses are not relevant to this appeal, we
+omit them and only recount the relevant proceedings. (See, e.g., People v. Mendez
+(2021) 69 Cal.App.5th 347, 351, fn. 2.)
+        In October 2017, the prosecutor filed a complaint in Santa Clara County Superior
+Court charging Adam Mel Torres with using the personal identifying information of
+another without authorization in violation of section 530.5, subd. (a). The complaint also
+alleged that Torres had one prior strike and three prison priors.
+        After entering into a plea agreement, Torres pled no contest to the unauthorized
+use of personal information charge and admitted the prior strike as well as the prison
+priors. Pursuant to the agreement, the trial court sentenced Torres consecutively to a
+sentence he was already serving in another case from San Mateo County, and because the
+sentence in the San Mateo case was longer, the court treated the sentence for the
+unauthorized use offense as the subordinate term and imposed one year and four months
+in prison—one-third of the middle term of two years, doubled for his strike—for that
+offense. The court also imposed the three prison priors but struck the punishment for
+them. Finally, the court awarded Torres 485 presentence credits (422 actual and
+63 conduct) for the Santa Clara County case and 225 presentence credits (188 actual and
+37 conduct) for the San Mateo County case.
+        In June 2022, the California Department of Corrections and Rehabilitation
+(CDCR) released a list of inmates upon whom prison priors were imposed in cases in
+Santa Clara County.2 Torres is on the list, and he petitioned for resentencing under
+section 1172.75. On August 30, 2023, the trial court denied the petition, reasoning that
+
+    2
+       Torres has requested that we take judicial notice of CDCR’s list received from the
+Santa Clara Public Defenders Office. As this list reflects an official act by an executive
+department, we grant Torres’ request. (Evid. Code, §§ 452, subd. (c), 459.) In addition,
+as the Attorney General does not dispute that CDCR sent this list to the Santa Clara
+County Superior Court, we presume that the CDCR did so.
+                                              2
+section 1172.75 applies only to prison priors that were “imposed and executed” and not
+to prison priors that were imposed but punishment was struck.
+         Torres filed a timely notice of appeal.
+                                       II. DISCUSSION
+   A. Resentencing Under Section 1172.75
+         Relying on Espino, supra, 104 Cal.App.5th 188, review granted, Torres argues
+that the trial court erred in denying his petition for resentencing because section 1172.75
+requires resentencing whenever a now-invalid prison prior was imposed, whether
+punishment for the prison prior was executed, stayed, or struck. The Attorney General
+disagrees, arguing that a prison prior is “imposed” under section 1172.75 only if it was
+both imposed and punishment for it was executed. We review this question of statutory
+interpretation de novo. (People v. Renteria (2023) 96 Cal.App.5th 1276, 1281-1282
+(Renteria).) As explained below, we see no reason to depart from Espino and related
+cases.
+         When first enacted, section 667.5, subdivision (b) required a one-year
+enhancement for each prior prison term served (and was later amended to include jail
+terms served under section 1170, subdivision (h)), unless the defendant remained free of
+custody for at least five years. (Stats. 1976, ch. 1139, § 268; see Renteria, supra, 96
+Cal.App.5th at p. 1282; People v Jennings (2019) 42 Cal.App.5th 664, 681.) In 2019, the
+Legislature amended section 667.5, subdivision (b) to bar enhancements for prior prison
+terms unless a term was for a sexually violent offense. (Stats. 2019, ch. 590, § 1.) Two
+years later, Senate Bill No.483 (2021-2022 Sess.) made this change retroactive by
+enacting what is now section 1172.75. (Stats. 2021, ch. 728, § 3; see also Stats. 2022,
+ch. 58, § 12 [moving provision to § 1172.75].)
+         Under section 1172.75, “[a]ny sentence enhancement that was imposed prior to
+January 1, 2020, pursuant to subdivision (b) of Section 667.5, except for any
+enhancement imposed for a prior conviction for a sexually violent offense . . . [,] is
+                                               3
+legally invalid.” (§ 1172.75, subd. (a).) Section 1172.75 also requires the CDCR and
+county correctional administrators to identify any individual in their custody “currently
+serving a term for a judgment that includes an enhancement described in subdivision (a)”
+(§ 1172.75, subd. (b)), and if the sentencing court verifies that “the current judgment
+includes a sentencing enhancement described in subdivision (a),” it is required to recall
+the sentence and resentence the defendant. (§ 1172.75, subd. (c).)
+       People v. Espino, supra, 104 Cal.App.5th 188, review granted, concluded (albeit
+over a dissent) that section 1172.75 should be interpreted in accordance with the ordinary
+meaning of the word “impose” to apply whenever prison priors were imposed. Espino
+reasoned that, “[i]n the context of an obligation or penalty, the ordinary and usual
+meaning of the word ‘impose’ is ‘to make, frame, or apply (as a charge, tax, obligation,
+rule, penalty) as compulsory, obligatory or enforc[ea]ble.’ [Citations.]” (Espino, supra,
+104 Cal.App.5th at p. 196.) Consequently, “under section 1172.75, subdivision (a),
+‘[a]ny sentence enhancement that was imposed’ is naturally understood to mean any
+enhancement that the sentencing court included in a judgment whether punishment for it
+was executed, stayed, or struck,” and therefore individuals serving sentences with such
+enhancements are entitled to resentencing under section 1172.75. (Ibid.) In holding that
+section 1172.75 permits resentencing where a prison prior is imposed but stayed,
+numerous decisions have interpreted section 1172.75 similarly. (People v. Mayberry
+(2024) 102 Cal.App.5th 665, 673-676, review granted Aug. 14, 2024, S285853; People v.
+Saldana (2023) 97 Cal.App.5th 1270, 1272-1273, review granted Mar. 12, 2024,
+S283547; People v. Christianson (2023) 97 Cal.App.5th 300, 314, review granted
+Feb. 21, 2024, S283189; Renteria, supra, 96 Cal.App.5th at pp. 1282-1283, review
+granted. But see People v. Rhodius (2023) 97 Cal.App.5th 38, 40-41, 45, 48-49, review
+granted Feb. 21, 2024, S283169.)
+       The Attorney General continues to take the position that section 1172.75 should be
+interpreted to require that punishment for prison priors be both imposed and executed.
+                                             4
+However, he fails to offer any new arguments in support of this implicit execution
+requirement, and we see no reason to reconsider Espino and related decisions based on
+arguments that have been repeatedly considered and rejected.
+   B. Recalculation of Presentence Credits
+       Relying on People v. Saibu (2011) 191 Cal.App.4th 1005 and People v. Phoenix
+(2014) 231 Cal.App.4th 1119, Torres argues that his presentence credits were
+miscalculated in his 2019 sentencing and asks us to order the trial court to recalculate
+them. In response, the Attorney General does not dispute that Torres presentence credits
+were miscalculated but argues that Torres’ challenge is untimely and the credits may no
+longer be attacked. That is incorrect: Errors in calculating presentence credits are
+“subject to correction whenever brought to the attention of a court that has jurisdiction.”
+(People v. Boyd (2024) 103 Cal.App.5th 56, 66; see also People v. Acosta (1996) 48
+Cal.App.4th 411, 428, fn. 8.) The Attorney General also points out that, if this case is
+remanded for full resentencing, the trial court will be required to recalculate the credits
+afforded to Torres. We agree with this point and therefore decline to consider what
+credits Torres should have been awarded.
+                                     III. DISPOSITION
+       The order denying Torres’ request for resentencing is reversed. The matter is
+remanded to the trial court, which is directed to recall Torres’ sentence and resentence
+him consistent with Penal Code section 1172.75 and current law.
+
+
+
+
+                                              5
+                                       ____________________________
+                                       BROMBERG, J.
+
+
+
+
+I CONCUR:
+
+
+
+
+____________________________________
+DANNER, ACTING P. J.
+
+
+
+
+People v. Torres
+H051389
+Lie, J., Dissenting:
+       For the reasons I stated in People v. Espino (2024) 104 Cal.App.5th 188, 202–206
+(dis. opn. of Lie, J.), I respectfully dissent.
+
+
+
+
+                                              _____________________________________
+                                              LIE, J.
+
+
+
+
+People v. Torres
+H051389

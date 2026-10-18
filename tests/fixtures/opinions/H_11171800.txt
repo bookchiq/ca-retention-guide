@@ -1,0 +1,1306 @@
+cl_opinion_id: 11171800
+cluster: 10705213
+docket: H050597S
+date: 2025-10-16
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Wagstaff
+----
+Filed 6/12/25 (review denied 10/15/25; reposted with Supreme Court order and statement)
+                                CERTIFIED FOR PUBLICATION
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                   SIXTH APPELLATE DISTRICT
+
+
+ THE PEOPLE,                                                   H050597
+                                                              (Santa Clara County
+         Plaintiff and Respondent,                             Super. Ct. No. C1919118)
+
+         v.
+
+ BRANDON DUANE WAGSTAFF,
+
+         Defendant and Appellant.
+
+
+        A jury found defendant Brandon Duane Wagstaff guilty of felony false
+imprisonment and related offenses arising out of a domestic violence incident. The trial
+court imposed a term of 16 months in prison.
+        Wagstaff, a Black man, contends the trial court violated the California Racial
+Justice Act of 2020 (Racial Justice Act, or RJA) on multiple occasions during different
+stages of the proceedings. Because trial counsel did not object to any of these statements
+under the RJA, we hold Wagstaff’s claims were forfeited on appeal. As to one statement
+the trial court made at Wagstaff’s sentencing hearing, he contends trial counsel rendered
+ineffective assistance by failing to object. We conclude this claim is without merit
+because Wagstaff has not shown his trial counsel’s conduct constituted deficient
+performance.
+        Wagstaff further contends the trial court erred by failing to instruct the jury sua
+sponte on misdemeanor false imprisonment as a lesser included offense of felony false
+imprisonment. We conclude this claim is without merit because substantial evidence did
+not support an instruction on misdemeanor false imprisonment.
+       Accordingly, we affirm the judgment.
+                        I. FACTUAL AND PROCEDURAL BACKGROUND
+   A. Procedural Background
+       The prosecution charged Wagstaff with five counts: count 1—felony false
+imprisonment by violence, menace, fraud, and deceit (Pen. Code, § 236)1; count 2—
+attempted second degree robbery (§§ 212.5, subd. (c), 664); count 3—contempt of court
+for violating a protective order (§ 166, subd. (c)(1)); count 4—threatening to commit a
+crime resulting in death or great bodily injury (§ 422, subd. (a)); and count 5—battery
+upon a person in a dating relationship (§ 243, subd. (e)(1)). The prosecution further
+alleged Wagstaff had suffered a prior conviction for a violent or serious felony. (§§ 667,
+subd. (a)(1), 1170.12, subd. (b)(1).)
+       Before trial began in this case, the prosecution charged Wagstaff in case
+No. C2011896 for conduct unrelated to the offenses charged in this case. In 2021,
+Wagstaff was convicted by plea in case No. C2011896 for a term of eight years.
+       Jury selection in this case began in January 2022, and the jury rendered verdicts in
+February 2022. The jury found Wagstaff guilty on counts 1, 3, 4, and 5 as charged, but
+not guilty on count 2. Wagstaff admitted the prior conviction allegations.
+       The trial court sentenced Wagstaff in November 2022 and imposed an aggregate
+term of nine years four months including the eight-year term for case No. C2011896. In
+this case, the court imposed a consecutive 16-month term on count 1, equal to one-third
+of the doubled two-year midterm. The court struck the five-year prior conviction
+enhancement and stayed the remaining terms under section 654.
+   B. Facts of the Offenses
+       In August 2019, Brandon Wagstaff was driving his BMW on Monterey Road in
+San Jose with his girlfriend Jane Doe in the front passenger’s seat. Rebecca Alvarez was
+
+       1
+           Subsequent undesignated statutory references are to the Penal Code.
+
+
+                                              2
+driving nearby, and Rebecca Fowler was standing on the side of the road with an
+unidentified male friend.
+       Alvarez saw that the front passenger side door of the BMW was open and
+someone’s foot was sticking out. Alvarez heard Fowler screaming from the side of the
+road, directing Alvarez’s attention to the BMW. The open door of the BMW hit a sign
+while the car was moving. The BMW made a right turn onto San Jose Avenue and came
+to a brief stop, whereupon Doe got out of the BMW, and the BMW drove away. Alvarez
+attempted to follow it, but the BMW was going too fast and the traffic was too congested,
+so Alvarez gave up and returned to the corner of Monterey Road and San Jose Avenue
+where Doe had exited the vehicle.
+       Fowler called 911 from that location while Doe, Alvarez, and Fowler’s friend
+waited nearby. Fowler told the 911 dispatcher, “I saw a car come just racing around the
+corner, and this girl was trying to kick the door open and jump out.” The dispatcher
+asked to speak with Doe, and Doe identified Wagstaff as the driver of the BMW. Doe
+told the dispatcher, “[H]e started hitting me ‘cause he uh, he thought I took his money
+when I didn’t. He started hitting me, and every time I tried to open the door to get out, he
+would hit me. And then more he’d tell me, if you open that door, I’ll hit you.”
+       Police arrived at the location and took statements from Doe, Alvarez, Fowler, and
+Fowler’s male friend. None of these witnesses testified at trial, but portions of their
+statements were recorded on police officers’ body cameras, and the videos were
+introduced into evidence together with officers’ testimony about the statements.
+       Fowler told an officer she had seen legs hanging out of the passenger side of the
+car, and she heard a male screaming, “Shut the door. Shut the door.” Alvarez told an
+officer she had seen the male in the car holding on to Doe. Fowler’s male friend said it
+looked like they were fighting.
+       Doe told the police that she and Wagstaff were driving on the street when they got
+into an argument about some money she was holding, and Wagstaff reached over to grab
+
+                                              3
+it. Wagstaff started hitting Doe in the face, and she tried to get out of the car, but he
+would not let her out, so she started “screaming at the top of her lungs.” Wagstaff told
+her to stop screaming or he would “give her something to scream about.” Doe stated that
+she was trying to pull away from Wagstaff, but he kept trying to hit her and take the
+money. She tried to open the car door, telling him, “Let me out, let me out.” Wagstaff
+used one hand to try to hold the door closed, and Doe put her foot out the door, trying to
+keep it open. Doe told police Wagstaff struck her in the face four times with a closed fist
+during the incident. She complained of pain around her mouth and the left side of her
+face, and an officer observed swelling. The video of her statement to the police shows
+her holding a cold compress to her face.
+       Doe told the police there was a history of domestic violence between herself and
+Wagstaff. At one point, Wagstaff told Doe, “I could kill you if I wanted to.” She was
+afraid of him, and she feared he would retaliate against her. Doe requested an emergency
+protective order because she was in fear for her safety.
+       The day after the incident, Doe contacted the police and recanted the statements
+she had made to the police the previous day. At the preliminary hearing, she testified that
+she made up the statements because she was mad at Wagstaff for cheating on her. She
+denied that he had hit her in the face. She testified that she opened the car door and
+threatened to jump out because she wanted to get a reaction from him. Doe testified that
+Wagstaff pulled over and let her out of the car as soon as it appeared safe to do so, and
+she was not prevented from leaving the car. Doe was shown a photograph of her face
+taken on the day of the incident that showed her top lip was swollen, but she testified that
+it was an injury from a fight she had with another person the night before the incident.
+       A redacted transcript including this testimony was introduced into evidence. Doe
+refused to testify at trial.
+
+
+
+
+                                              4
+                                        II. DISCUSSION
+   A. Claims Under the Racial Justice Act
+       Wagstaff contends the trial court violated the RJA during jury selection and at the
+sentencing hearing, rendering his conviction and sentence invalid. The Attorney General
+concedes the trial court made a statement that violated the RJA at sentencing, such that
+the sentence must be vacated and the matter remanded for resentencing before a different
+judge. However, the Attorney General disputes all other asserted violations of the RJA
+and he contends Wagstaff’s conviction is valid.
+       1. Legal Principles
+       The Legislature enacted the Racial Justice Act through the passage of Assembly
+Bill No. 2542 (2019-2020 Reg. Sess.). “The Legislature passed the RJA in 2020 with a
+stated aim ‘to eliminate racial bias from California’s criminal justice system’ and ‘to
+ensure that race plays no role at all in seeking or obtaining convictions or in
+sentencing.’ (Stats. 2020, ch. 317, § 2, subd. (i).) To that end, the RJA prohibits the state
+from seeking or obtaining a criminal conviction, or seeking, obtaining, or imposing a
+sentence, on the basis of race, ethnicity, or national origin. [Citation.]” (People v.
+Wilson (2024) 16 Cal.5th 844, 945-946.)
+       The RJA added section 745 to the Penal Code effective January 1, 2021.
+(Stats. 2020, ch. 317, § 3.5.) Section 745, subdivision (a) (section 745(a)) sets forth four
+categories of conduct which, if proven by a preponderance of the evidence, establish a
+violation. (§ 745, subds. (a)(1)-(a)(4).) A violation of subdivision (a)(1) has occurred if
+“[t]he judge, an attorney in the case, a law enforcement officer involved in the case, an
+expert witness, or juror exhibited bias or animus towards the defendant because of the
+defendant’s race, ethnicity, or national origin.” (§ 745, subd. (a)(1).)
+       Section 745, subdivision (a)(2) provides, in relevant part, that a violation has
+occurred if “[d]uring the defendant’s trial, in court and during the proceedings, the judge,
+an attorney in the case, a law enforcement officer involved in the case, an expert witness,
+
+                                              5
+or juror, used racially discriminatory language about the defendant’s race, ethnicity, or
+national origin, or otherwise exhibited bias or animus towards the defendant because of
+the defendant’s race, ethnicity, or national origin, whether or not purposeful.” (§ 745,
+subd. (a)(2).) Subdivision (h)(4) further defines “[r]acially discriminatory language” to
+mean “language that, to an objective observer, explicitly or implicitly appeals to racial
+bias, including, but not limited to, racially charged or racially coded language, language
+that compares the defendant to an animal, or language that references the defendant’s
+physical appearance, culture, ethnicity, or national origin.” (§ 745, subd. (h)(4).)
+       For claims based on the trial record, a defendant may raise a claim alleging a
+violation of section 745(a) on direct appeal from the conviction or sentence. (§ 745,
+subd. (b).) If a court finds a violation of section 745(a), subdivision (e) mandates specific
+remedies. As relevant here, if a court finds, after judgment has been entered, “that a
+conviction was sought or obtained in violation of subdivision (a), the court shall vacate
+the conviction and sentence, find that it is legally invalid, and order new proceedings
+consistent with subdivision (a).” (§ 745, subd. (e)(2)(A).) However, “if the court finds
+that only the sentence was sought, obtained, or imposed in violation of subdivision (a),
+the court shall vacate the sentence, find that it is legally invalid, and impose a new
+sentence. On resentencing, the court shall not impose a new sentence greater than that
+previously imposed.” (§ 745, subd. (e)(2)(B).)
+       2. The Trial Court’s Statements at the Sentencing Hearing
+       Wagstaff contends the trial court violated the RJA by using racially discriminatory
+language about his race and exhibiting bias against him in violation of section 745(a).
+Specifically, Wagstaff points to the trial court’s use of the phrase “strong young buck”
+when the court personally addressed Wagstaff about the nature of his conduct.
+Additionally, Wagstaff argues the court’s use of the term “boy” and admonitions to
+Wagstaff to “become a man” and make “manly decisions” constituted demeaning and
+racially discriminatory language. Wagstaff contends that if trial counsel’s failure to
+
+                                              6
+object constitutes forfeiture of the claim on appeal, then trial counsel rendered ineffective
+assistance. Wagstaff argues we must vacate his conviction and sentence, find that it is
+legally invalid, and order new proceedings consistent with section 745(a). He contends
+in the alternative that we must vacate his sentence and remand for resentencing.
+       The Attorney General concedes the trial court’s use of the phrase “strong young
+buck” constituted a violation of section 745(a), but he contends the violation only
+requires that we vacate the sentence and remand for resentencing before a different judge.
+For the reasons below, we decline to accept the Attorney General’s concession.
+                a. Procedural Background of the Sentencing Hearing
+       Prior to sentencing, Wagstaff moved under section 1385 and Romero2 to dismiss
+the prior strike conviction and the five-year enhancement for it. Among other grounds,
+Wagstaff pointed out he was only 19 years old when he committed the prior strike
+offense, and only 22 years old when he committed the offenses charged in counts 1, 4,
+and 5 of this case. Wagstaff also moved to reduce the conviction on count 4 (criminal
+threats) to a misdemeanor under section 17, subdivision (b).
+       In denying Wagstaff’s motions, the court addressed him personally and stated,
+among other things, “You are a young man, but you’re not a boy, you’re not an
+adolescent. This motion and this idea about adolescent child behavior has merit, but I
+don’t know that it has application in your case. [¶] People are influenced by many
+things. There are a lot of young men of color, there are African-American men, there are
+Asian men, there are Hispanic men, there are white kids and children who are
+tremendously and disproportionately impacted by poverty, by drugs, by violence, by
+other things in life that they have no control over, and you’re no different; but a lot of
+those kids stand up, buckle down, and meet these challenges without resorting to crime.”
+(Italics added.)
+
+       2
+           People v. Superior Court (Romero) (1996) 13 Cal.4th 497.
+
+
+                                              7
+       The trial court acknowledged the absence of Wagstaff’s father in his life but
+pointed out that Wagstaff had other family members to give him support, adding, “[T]he
+question is, ‘Do you want to do the right thing?’ You know, you have to become a man.
+And I don’t mean to disrespect you, but you have to make manly decisions, hard
+decisions to take control of your life. [¶] You know, it’s easy to bust into people’s
+homes and take property because they’re not there or because you’re a strong young buck
+and you can do these things at-will. That’s weak. There’s nothing manly, there’s nothing
+right about that, and your mom will tell you that.” (Italics added.)
+       Wagstaff’s trial counsel did not object to any of these statements.
+              b. Forfeiture
+       We first consider whether trial counsel’s failure to object to any of these
+statements forfeited the claim on appeal.3 Wagstaff acknowledges trial counsel failed to
+object, but he argues counsel did not forfeit the claim because counsel raised the RJA at
+other points during the proceedings—e.g., in jury selection, and in counsel’s
+presentencing Romero motion.4 The Attorney General acknowledges the failure to object
+but he expressly declines to assert forfeiture with respect to the trial court’s use of the
+phrase “strong young buck.” The Attorney General contends Wagstaff has forfeited all
+other claims raised under the RJA by failing to object to them below.
+       Wagstaff urges us to exercise our discretion to consider the merits of the claim.
+He argues his trial counsel may have believed an objection would have been futile
+
+
+       3
+        In referring to counsel’s “failure to object,” we include the failure to file a motion
+in the trial court under section 745, former subdivision (b) alleging a violation of
+subdivision (a).
+       4
+         Section II.A.3 below summarizes trial counsel’s claims under the RJA during jury
+selection. Counsel’s assertion of the RJA as part of the Romero motion challenged the
+imposition of a five-year enhancement for a prior serious felony conviction under section
+745, subdivision (a)(4). That subdivision addresses racial disparities in the imposition of
+sentences.
+
+
+                                               8
+because the trial court had repeatedly overruled her previous objections and “minimized
+and denied” her motions. Wagstaff asserts that trial counsel may have believed further
+objections risked offending the court and incurring a harsher sentence. Finally, Wagstaff
+argues we may consider the merits of his claim under section 1259 because the trial
+court’s conduct affected his substantial rights.
+       For claims based on the trial record, section 745, subdivision (b) allows defendants
+to “raise a claim alleging a violation of subdivision (a) on direct appeal from the
+conviction or sentence.” But this provision did not abrogate the longstanding doctrine of
+forfeiture. “[O]ur review of a section 745 claim, like any other appellate claim, is subject
+to the general appellate rules of preservation and forfeiture of claims that could have been
+but were not made in the trial court.” (People v. Lashon (2024) 98 Cal.App.5th 804,
+812.) (Accord, People v. Quintero (2024) 107 Cal.App.5th 1060; People v. Corbi (2024)
+106 Cal.App.5th 25, 41; People v. Singh (2024) 103 Cal.App.5th 76, 114.)
+       Forfeiture doctrine is not absolute, and we do not automatically apply it to every
+instance of a failure to object below. Reviewing courts may excuse a party for failing to
+make a timely objection at trial if the objection would have been futile. (People v.
+Seumanu (2015) 61 Cal.4th 1293, 1328.) In this case, however, the record does not
+support Wagstaff’s characterization of the trial court’s rulings. Wagstaff cites no
+statements or rulings by the trial court that suggest it would not have fairly considered the
+merits of an objection, or that it would have punished Wagstaff more harshly had trial
+counsel objected. Instead, Wagstaff quotes a statement the prosecutor made during the
+sentencing hearing, but that implies nothing about the trial court’s treatment of defense
+counsel’s objections. Wagstaff cites the trial court’s denial of his Romero motion, but he
+makes no claim the court failed to fairly consider the motion or otherwise abused its
+discretion. Absent any support in the record, Wagstaff’s claims about trial counsel’s
+failure to object or the futility of doing so amount to speculation. “We will not presume
+
+
+
+                                              9
+that sentencing courts respond to arguments and objections in an arbitrary and vindictive
+manner.” (People v. Welch (1993) 5 Cal.4th 228, 237.)
+       “The requirement of a specific objection serves important purposes. But, to
+further these purposes, the requirement must be interpreted reasonably, not
+formalistically.” (People v. Partida (2005) 37 Cal.4th 428, 434.) A timely objection
+serves to alert the court and parties to the nature of the claim and objecting counsel’s
+reasons for it, such that opposing counsel can address it and the trial court can make a
+fully informed ruling on an adequately developed record. (See id. at p. 435.) It is
+particularly important that counsel object at the earliest opportunity when the issue
+concerns alleged bias or prejudice by the trial court. (See, e.g., North American Title Co.
+v. Superior Court (2024) 17 Cal.5th 155, 187 [construing section 170.3, subdivision
+(c)(1) requiring a party to act “at the earliest practicable opportunity after discovery of the
+facts constituting the ground for disqualification” to ensure prompt resolution of any
+asserted claims of personal bias or prejudice, such that the parties receive full scrutiny of
+the judge’s fitness to preside over the matter].)
+       Furthermore, when a claim under the RJA concerns a trial court’s conduct,
+requiring the claim to be raised below furthers one of the central motivations for the
+RJA’s enactment: “It is important to recognize the value of bringing a Racial Justice Act
+claim in the trial court in the first instance.” (People v. Lawson (2025) 108 Cal.App.5th
+990, 1000.) “Asking a trial court to consider whether its proposed ruling reflects the
+court’s own implicit biases, or could have the unintended consequence of playing to
+jurors’ implicit biases, serves an important purpose in raising the court’s consciousness of
+the biases the Racial Justice Act is intended to eliminate.” (Id. at pp. 1000-1001.)
+       Although trial counsel raised the RJA with respect to other issues, at no point did
+counsel raise the RJA with respect to any statements made by the trial court at any point
+during the sentencing hearing. With respect to the claim at issue here, trial counsel’s
+previous invocations of the RJA were insufficient to serve the foregoing purposes.
+
+                                              10
+       California courts of review generally have the authority to consider the merits of
+an unpreserved claim in the exercise of their discretion. (People v. Williams (1998)
+17 Cal.4th 148, 161, fn. 6.) But we decline to do so here.
+       Critically, the absence of any record concerning the racial implications of the
+language used by the trial court hinders our ability to evaluate the claim properly under
+the standards set forth in the RJA. Section 745(a) would require us to determine whether
+the court used racially discriminatory language “about the defendant’s race” or otherwise
+exhibited bias or animus towards the defendant “because of the defendant’s race.” (See,
+e.g., People v. Stubblefield (2024) 107 Cal.App.5th 896, 922-923 (Stubblefield)
+[prosecutor used racially discriminatory language “about the defendant’s race” in
+violation of the RJA].) In contrast to the prosecutor’s statements in Stubblefield, the
+language here did not expressly reference the defendant’s race. To be clear, language
+may violate the RJA without expressly referencing race. The definition of “racially
+discriminatory language” includes “language that, to an objective observer, explicitly or
+implicitly appeals to racial bias, including, but not limited to, racially charged or racially
+coded language, language that compares the defendant to an animal . . . .” (§ 745,
+subd. (h)(4), italics added.) But determining whether language “implicitly appeals to
+racial bias” and whether the speaker used the language “about the defendant’s race” may
+require contextual evidence—e.g., facts about historical usages or common cultural
+understandings of the language. (See, e.g., People v. Howard (2024) 104 Cal.App.5th
+625, 654 [language that does not explicitly appeal to racial bias may require a defendant
+to provide additional context and facts to make a prima facie case under the RJA.])
+       Had Wagstaff made a motion under section 745 in the trial court, he could have
+made a record on these matters under former subdivision (c): “If a motion is filed in the
+trial court and the defendant makes a prima facie showing of a violation of
+subdivision (a), the trial court shall hold a hearing. [¶] (1) At the hearing, evidence may
+be presented by either party, including, but not limited to, statistical evidence, aggregate
+
+                                              11
+data, expert testimony, and the sworn testimony of witnesses.” Instead, the record is
+silent on historical usages and cultural understandings of the challenged language.
+       On appeal, Wagstaff attempts to fill in these gaps with multiple citations to
+sources outside the record, but he makes no attempt to establish a foundation for judicial
+notice of these sources, and we perceive no valid basis to judicially notice them on our
+own motion. In Stubblefield, by contrast, we took care to establish a foundation for
+judicial notice of the social unrest following the death of George Floyd and the racially
+charged nature of the conflict. (Stubblefield, supra, 107 Cal.App.5th at pp. 914-915.)
+We concluded we could appropriately consider those events in evaluating the language in
+question because they were “ ‘universally known’ ” facts of “ ‘generalized knowledge.’ ”
+(Id. at p. 918.)
+       We are aware of racist historical usages and cultural meanings associated with the
+language challenged here. But under the definition of “racially discriminatory language”
+set forth in section 745, subdivision (h)(4), the question is not whether we as members of
+the Court subjectively believe the language to be racist; the question is whether it
+constitutes “language that, to an objective observer, explicitly or implicitly appeals to
+racial bias . . . .” “The statute’s inclusion of the word ‘appeals’ necessarily requires the
+‘objective observer’ to consider the potential effect of the language on a person hearing
+it—i.e., whether the language appeals to a person’s racial bias.” (Stubblefield, supra,
+107 Cal.App.5th at p. 917.) Absent a record with sufficient facts and evidence, we have
+no way to apply that standard while respecting the boundaries of our purview as a court
+of review.
+       For all these reasons, we conclude Wagstaff has forfeited this claim. Because
+Wagstaff argues in the alternative that trial counsel’s failure to object constituted
+
+
+
+
+                                              12
+ineffective assistance of counsel, we address the claim under the standard of Strickland5
+and its progeny.
+                c. Ineffective Assistance of Counsel
+       Wagstaff contends his trial counsel rendered ineffective assistance in only one
+instance: counsel’s failure to object to the trial court’s use of the phrase “strong young
+buck” at the sentencing hearing.
+                     i. Legal Principles
+       To establish ineffective assistance of counsel, the defendant bears the burden of
+showing trial counsel’s performance was deficient—that it “fell below an objective
+standard of reasonableness” in light of prevailing professional norms. (Strickland, supra,
+466 U.S. at p. 688.) Second, the defendant must show the asserted deficiency in
+counsel’s performance resulted in prejudice, defined as “a reasonable probability that, but
+for counsel’s unprofessional errors, the result of the proceeding would have been
+different. A reasonable probability is a probability sufficient to undermine confidence in
+the outcome.” (Id. at p. 694.)
+       “ ‘Reviewing courts defer to counsel’s reasonable tactical decisions in examining
+a claim of ineffective assistance of counsel [citation], and there is a “strong presumption
+that counsel’s conduct falls within the wide range of reasonable professional assistance.
+[Citations]” ’ [Citations.] ‘[W]e accord great deference to counsel’s tactical decisions’
+[citation], and we have explained that ‘courts should not second-guess reasonable, if
+difficult, tactical decisions in the harsh light of hindsight’ [citation]. ‘Tactical errors are
+generally not deemed reversible, and counsel’s decision making must be evaluated in the
+context of the available facts.’ [Citation.] In the usual case, where counsel’s trial tactics
+or strategic reasons for challenged decisions do not appear on the record, we will not find
+
+
+
+
+       5
+           Strickland v. Washington (1984) 466 U.S. 668 (Stickland).
+
+
+                                               13
+ineffective assistance of counsel on appeal unless there could be no conceivable reason
+for counsel’s acts or omissions.” (People v. Weaver (2001) 26 Cal.4th 876, 925-926.)
+                     ii. Counsel Had a Rational Tactical Reason Not to Object
+       Wagstaff contends his trial counsel’s failure to object to the court’s use of the
+phrase “strong young buck” constituted deficient performance. But the record does not
+explain why trial counsel did not object. “Under those circumstances, a reviewing court
+has no basis on which to determine whether counsel had a legitimate reason for making a
+particular decision, or whether counsel’s actions or failure to take certain actions were
+objectively unreasonable. [Citation.]” (People v. Mickel (2016) 2 Cal.5th 181, 198.) We
+begin with the presumption that counsel’s actions fall within the broad range of
+reasonableness, and we “afford ‘great deference to counsel’s tactical decisions.’
+[Citation.]” (Ibid.) To justify reversal, Wagstaff must present affirmative evidence that
+counsel had no rational tactical purpose for not objecting. (Ibid.)
+       Wagstaff does not address the possibility that his trial counsel may have had a
+rational tactical reason for declining to object. Given that the trial court used the
+challenged language just before pronouncing sentence, at least one rational explanation is
+apparent: Counsel may have anticipated that the court was likely to impose a
+comparatively lenient sentence, and counsel may have decided not to disturb the
+likelihood of favorable treatment by objecting. (See People v. Acosta (2018) 28
+Cal.App.5th 701, 707 [defense counsel may make a tactical decision that it is not in his or
+her client’s interest to object at sentencing, especially in cases involving potentially long
+prison sentences].) Indeed, although the trial court subsequently denied Wagstaff’s
+Romero motion, the court struck the five-year term for the enhancement. The court then
+imposed a 16-month sentence—five years shorter than the probation report’s
+recommended sentence of six years four months.
+
+
+
+
+                                              14
+       Wagstaff fails to present any affirmative evidence that counsel had no rational
+tactical purpose for not objecting to the challenged language. We conclude he has not
+met his burden to show his trial counsel rendered ineffective assistance.
+       3. Claimed Violations of the Racial Justice Act During Jury Selection
+       Wagstaff further contends the trial court violated the Racial Justice Act based on
+statements the court made during jury selection and a ruling the court made in response to
+the prosecution’s exercise of a peremptory challenge to a Black prospective juror. The
+Attorney General argues that Wagstaff forfeited these claims by failing to object below,
+and that Wagstaff has failed to establish the merits of these claims.
+              a. The Trial Court’s Statement During Jury Selection
+                     i. Procedural Background
+       The first day of jury selection began with three panels of prospective jurors. On
+the second day of jury selection, the trial court swore in two additional panels. Out of the
+five panels, the court excused 89 prospective jurors on hardship grounds in the first two
+days of jury selection. The trial court collected approximately 135 questionnaires
+completed by the remaining prospective jurors.
+       At the end of the second day, Wagstaff’s trial counsel moved to quash the venire
+and requested fresh panels. Counsel stated, “With the passage of AB 3070, which is the
+new Racial Justice Act, I did need to put some things on the record to preserve my
+client’s record. We’ve had five panels of 45 individuals randomized from Santa Clara
+County. Only one of the members of the venire was Black. My client is Black. And
+there’s 2.9 percent of the population in Santa Clara County is Black but was not
+represented in this venire -- outside of the one individual.” Counsel asserted the
+prospective jury panels did not reflect a jury of Wagstaff’s peers. Counsel moved to
+quash the venire and requested a new panel.
+       The prosecutor opposed the motion to quash the venire. The prosecutor pointed
+out that he personally was Black, and he questioned the accuracy of defense counsel’s
+
+                                             15
+assertion that only one prospective juror was Black, adding, “Sometimes it is difficult to
+make determinations as to individuals’ ethnicities or backgrounds simply from casually
+looking at them.”
+       The trial court denied defense counsel’s motion. The court noted that the
+prospective jurors were drawn from a randomized list, and found, “[T]here’s nothing to
+suggest that this particular randomized list was in any way or in any form deficient in
+ensuring that there is a cross-section representative of the community.” The court then
+added, “In fact, just an observation on the Court’s own part that we were fortunate to
+have a higher number of Asian-Americans in this venire and much higher than I think is
+representative of their percentage in this community. And we, I think, endeavor to try to
+get as much representation as we can, but . . . it doesn’t always yield the sort of
+representative representation that we would ideally like to get. [¶] But I think it will
+survive any challenge on that basis.” (Italics added.)
+       Defense counsel did not object to any portion of these statements.
+                     ii. Application of the Racial Justice Act to the Trial Court’s
+                     Statement During Jury Selection
+       Wagstaff challenges the trial court’s response to his motion to quash the venire, in
+which the court stated, “[W]e were fortunate to have a higher number of Asian-
+Americans in this venire and much higher than I think is representative of their
+percentage in this community.” (Italics added.) Wagstaff argues the court’s statement
+demonstrated a favorable bias toward Asian-Americans—a group to which he does not
+belong—and he contends this bias had “the potential of tainting responses and rulings
+during the trial.”
+       The Attorney General argues this claim was forfeited on appeal by trial counsel’s
+failure to object, and that the statement did not violate the RJA in any event. Wagstaff
+asserts the claim was not forfeited because his trial counsel cited the RJA at other points
+during the proceedings, including the motion to quash the venire.
+
+
+                                             16
+       We agree with the Attorney General that this claim was forfeited by the failure to
+object. Wagstaff’s trial counsel initially cited the RJA in support of the motion to quash
+the jury, but Wagstaff’s claim on appeal does not challenge the trial court’s denial of that
+motion. Rather, his claim concerns the trial court’s statement about the representation of
+Asian-Americans in the venire—a statement to which trial counsel did not object.
+Furthermore, Wagstaff does not contend his trial counsel rendered ineffective assistance
+by failing to object to the court’s statement.
+       Regardless, we would conclude the trial court’s statement did not violate the RJA.
+First, the statement did not constitute “racially discriminatory language about the
+defendant’s race” under section 745, subdivision (a)(2) because the statement was about
+Asian-Americans, not Wagstaff’s race. (See Stubblefield, supra, 107 Cal.App.5th at
+pp. 922-924 [the prepositional phrase “about the defendant’s race” in section 745,
+subdivision (a)(2) implies a certain degree of focus on the defendant’s race].)
+       A trial court may also violate the RJA if it “exhibit[s] bias or animus towards the
+defendant because of the defendant’s race” even without the use of racially
+discriminatory language. (§ 745, subd. (a)(1).) Viewing the trial court’s statement in
+context, the court did not exhibit bias or animus towards Wagstaff because of his race.
+Immediately following the reference to Asian-Americans, the court added, “[W]e, I think,
+endeavor to try to get as much representation as we can, but . . . it doesn’t always yield
+the sort of representative representation that we would ideally like to get.” In the context
+of defense counsel’s challenge to the venire, the court’s use of the word “fortunate” did
+not exhibit bias or animus towards Black persons or prospective jurors, or towards
+Wagstaff because he is Black; rather, it was a statement of support for diversity in
+venires. Furthermore, a positive statement about one racial or ethnic group does not
+necessarily imply bias or animus against someone from another racial or ethnic group.
+
+
+
+
+                                                 17
+              b. The Trial Court’s Ruling on the Prosecution’s Peremptory Challenge
+                 of a Black Prospective Juror
+                     i. Procedural Background
+       In the trial court’s voir dire, the court asked prospective jurors if they or anyone
+close to them had ever been the victim of a crime. Prospective Juror Doe responded that
+he had a younger cousin in Michigan who had been murdered the year before.
+Prospective Juror Doe stated that a suspect had been arrested and charged, and
+Prospective Juror Doe believed the case was still active because the victim’s mother had
+recently tried to convince him to go to Michigan. The court asked Prospective Juror Doe
+if he was “particularly close” to the cousin, and Prospective Juror Doe responded that he
+was not “closer to him than anyone else in my family.” In further voir dire by the court,
+Prospective Juror Doe responded that nothing about that case would prevent him from
+being fair and impartial in this case, and he stated that he would be able to follow the law
+as instructed by the court.
+       In the prosecutor’s voir dire, he pointed out to Prospective Juror Doe that he had
+not signed the declaration on his questionnaire stating it was completed under penalty of
+perjury. The prosecutor asked Prospective Juror Doe whether that was an oversight or
+intentional, and Prospective Juror Doe responded that it was “[p]robably an oversight.”
+The prosecutor then inquired about the murder of Prospective Juror Doe’s cousin.
+Prospective Juror Doe stated it had happened at the end of the prior year, following the
+death of his grandmother and an overdose suffered by his aunt. When the prosecutor
+asked Prospective Juror Doe if he was “particularly close” to the cousin who was
+murdered, Prospective Juror Doe responded, “Like I said, not closer than with the rest of
+my family. Usually the people I’m the closest with, my wife gave birth to them.
+Everybody else is just kind of, you know, we have the same name. We go to family
+reunions, that kind of thing.” The prosecutor asked Prospective Juror Doe why the
+cousin’s mother had asked Prospective Juror Doe to go to Michigan, and Prospective
+Juror Doe responded that it was for the trial and the funeral. The prosecutor then asked,
+
+
+                                             18
+“Is it fair to say that you made the decision to focus on your family and work here rather
+than go back --,” and Prospective Juror Doe responded, “Oh, yeah. . . . I don’t have those
+kind[s] of feelings. I don’t want to sound like I’m not emotional, but . . . I haven’t talked
+with them in a very long time, and for the first time you reach out to me you’re asking me
+to come to a funeral and a court trial doesn’t seem appropriate.”
+       The prosecution subsequently exercised a peremptory challenge to remove
+Prospective Juror Doe. Wagstaff’s trial counsel objected to the peremptory challenge
+under Batson/Wheeler6, the Sixth and Fourteenth Amendments to the United States
+Constitution, the “new” Code of Civil Procedure,7 and the Racial Justice Act. Counsel
+asserted the prospective juror was “the only black member of the jury, possibly the only
+one in the jury pool.” Counsel argued that Wagstaff was “a young African-American
+male” and did not have a jury of his peers at that point.
+       The prosecutor responded that defense counsel had not shown that he (the
+prosecutor) had demonstrated bias against any specific recognizable group and that
+nothing in the record would show he manifested any bias. The prosecutor then stated, “I
+am an African-American man myself. The defendant is an African-American man. And
+I do not believe that just having [an] African-American man under the matter entitles the
+defendant to a jury including an African-American man.” The prosecutor pointed out
+that Prospective Juror Doe had not signed his questionnaire under penalty of perjury and
+did not disclose the fact of his cousin’s murder until the court’s voir dire.
+
+
+
+       6
+           Batson v. Kentucky (1986) 476 U.S. 79; People v. Wheeler (1978) 22 Cal.3d 258.
+       7
+         In 2020, the Legislature enacted Assembly Bill No. 3070, adding Code of Civil
+Procedure section 231.7 effective January 1, 2021. (Stats. 2020, ch. 318, § 2.) That code
+section prohibits parties from using “a peremptory challenge to remove a prospective juror
+on the basis of the prospective juror’s race, ethnicity, gender, gender identity, sexual
+orientation, national origin, or religious affiliation, or the perceived membership of the
+prospective juror in any of those groups.” (Code Civ. Proc., § 231.7, subd. (a).)
+
+
+                                              19
+       The prosecutor then cited Prospective Juror Doe’s responses to three questions on
+the questionnaire and statements he made during voir dire concerning the murder of his
+cousin. First, the prosecutor cited Prospective Juror Doe’s response to the question, “Do
+you believe the state has responsibility to prosecute persons who cause violence in the
+home even though the alleged victim does not want to proceed?” The prosecutor quoted
+Prospective Juror Doe’s response as, “[N]o,” and, “Not a big fan of government
+overstepping unless there is proof.”
+       Second, the prosecutor cited Prospective Juror Doe’s response to the question, “In
+every criminal trial the burden of proof for the prosecution is proof beyond a reasonable
+doubt. If you have heard testimony regarding a defendant’s alleged prior acts of
+domestic violence or prior conviction for domestic violence-related offense, would you
+still be able to follow the law and hold the prosecution to its burden of proof in this
+case?” The prosecutor quoted Prospective Juror Doe’s response as, “Yes. There have
+been numerous accounts of law enforcement taking shortcuts to meet a quota.”
+       Third, the prosecutor cited Prospective Juror Doe’s response to the question,
+“Would hearing testimony about a defendant’s past conviction for domestic violence-
+related offense or past alleged acts of domestic violence make it difficult for you to apply
+the presumption of innocence to the defendant in this case? Why or why not? Please
+explain your answer.” The prosecutor quoted Prospective Juror Doe’s response as, “No.
+It seems very circumstantial.”
+       The prosecutor also pointed to statements Prospective Juror Doe made in response
+to questions about the murder of his cousin and the loss of other family members. The
+prosecutor explained he was looking for empathetic jurors, and that Prospective Juror
+Doe’s description of his relationship to his family “struck me, not necessarily as
+unempathetic, but potentially not the type of empathetic juror that I would be looking for
+in this particular case.” The prosecutor argued that evidence admitted under Evidence
+Code sections 1101 and 1109 was critical to the prosecution’s case, and he explained,
+
+                                             20
+“The ability of a potential juror to be able to be empathetic, recognize that perspective of
+one person may not reflect their own is critical to the presentation and the consideration
+of the evidence in this case.”
+       Defense counsel argued Prospective Juror Doe’s questionnaire responses about
+“government overstepping” and “law enforcement taking shortcuts” constituted
+presumptively invalid reasons for a peremptory challenge under Code of Civil Procedure
+Section 231.7, subdivision (e)(1) as expressions of distrust of law enforcement. Counsel
+also pointed out that the prosecution had failed to question Prospective Juror Doe about
+these responses, which is a circumstance the trial court may consider under
+subdivision (d)(3)(C)(i) of that code section in determining whether to sustain the
+objection. Counsel further argued that Prospective Juror Doe’s statements concerning his
+family relationships and his oversight in failing to sign the questionnaire were insufficient
+reasons to justify the peremptory challenge.
+       The prosecutor responded that Code of Civil Procedure section 231.7 was not
+intended “to ensure that if a member of a recognizable class is within a member of the
+jury venire that they then subsequently have a higher entitlement to placement on the
+jury.” The prosecutor pointed out that his other peremptory challenges had “cut across”
+racial, gender, socioeconomic, and national origin categories. The prosecutor stated,
+“There is no question that the bases of my excusal of [Prospective Juror Doe] are
+grounded in reasoned legal theory as a litigator who happens to be black. The fact that he
+happens to be black does not give him a greater entitlement to placement on the jury, just
+because the defendant is black. That is not the purpose of the law. It is not the basis of
+the law, and there is nothing in what counsel has outlined or pointed to in the record that
+supports any determination of discriminatory intent, purpose, or action in this case.”
+       The trial court summarized its understanding of the prosecution’s reasons for the
+peremptory challenge, and the court stated, “The People have articulated as their chief
+concern [Prospective Juror Doe’s] lack of empathy relative to the other jurors who have
+
+                                               21
+been victimized at some point.” The court added that it had independently formed its
+own impression that Prospective Juror Doe may have been minimizing the closeness of
+his relationship to the murder victim as a psychological “defense mechanism.” The court
+then stated, “But the bottom line is he did seem not as impacted, as emotionally affected
+by that rather traumatic event. And it may [well be] that he’s not as close to his cousin,
+but I do think that the People’s underlying reason of trying to choose or select jurors that
+are going to be empathetic to certain crimes is justified by the People’s explanation.”
+The court concluded that, under the totality of the circumstances, there was a “substantial
+likelihood that an objectively reasonable person would view that this decision was made
+for reasons other than race.” Accordingly, the trial court overruled defense counsel’s
+objection.
+                     ii.    Application of the Racial Justice Act to the Trial Court’s
+                            Ruling on the Peremptory Challenge
+       Wagstaff contends the trial court violated the RJA in overruling his objection to
+the prosecution’s exercise of a peremptory challenge to remove a Black juror. Wagstaff
+points to the prosecutor’s statements and argues the trial court implicitly adopted the
+prosecutor’s statements in ruling on the objection. Specifically, Wagstaff argues the
+prosecutor used racially discriminatory language when he stated, “I do not believe that
+just having a African-American man under the matter entitles the defendant to a jury
+including an African-American man.”8 Wagstaff asserts that, by injecting the concept of
+
+       8
+         In Wagstaff’s second supplemental opening brief, filed after the Attorney General
+filed his respondent’s brief, Wagstaff asserted for the first time that the prosecutor’s
+statements violated the RJA. We do not treat this assertion as an independent claim on
+appeal; rather, we consider this assertion to be part of Wagstaff’s argument that the trial
+court violated the RJA.
+       Under Code of Civil Procedure section 231.7, subdivision (d)(3)(A)(i), the trial
+court may consider whether “[t]he objecting party is a member of the same perceived
+cognizable group as the challenged juror” in determining whether to sustain the objection.
+Wagstaff does not raise a claim on appeal that the court erred by overruling his objection
+under that code section.
+
+
+                                             22
+“entitlement” into the argument, the prosecutor’s statement implied that Wagstaff was
+“less than” and somehow had to earn the right to have a jury that includes someone of his
+own race. Wagstaff contends the record shows the trial court implicitly adopted the
+prosecutor’s biased viewpoint because the court ignored defense counsel’s arguments
+under Code of Civil Procedure section 231.7 and instead ruled solely on a perceived lack
+of empathy as the prosecution’s only justification for the peremptory challenge.
+       The Attorney General contends this claim was forfeited by trial counsel’s failure
+to object. On the merits, the Attorney General argues that Wagstaff’s claim ignores the
+context of the prosecutor’s statements, and furthermore, that the trial court’s ruling did
+not constitute an implicit adoption of those statements.
+       We agree with the Attorney General on the merits. First, Wagstaff does not point
+to any language used by the trial court as constituting racially discriminatory language.
+Second, nothing in the record supports Wagstaff’s assertion that the trial court implicitly
+adopted the prosecution’s statements merely by declining to address defense counsel’s
+arguments under Code of Civil Procedure section 231.7. We conclude this claim is
+without merit.
+       4. Violation of the Racial Justice Act Based on the Record as a Whole
+       Wagstaff argues generally that, in determining whether the court violated the RJA,
+we may collectively consider as a whole all of the trial court’s statements and conduct
+throughout the proceedings. Relying on Young, supra, 79 Cal.App.5th 138, Wagstaff
+argues that subdivisions (a)(1) through (a)(4) of section 745(a) do not define independent
+violations of the RJA, but rather that the subdivisions define different means of proving a
+violation of section 745(a) as a whole. Wagstaff never raised such a claim below, so it is
+forfeited on appeal. Regardless, this argument does not establish by a preponderance of
+the evidence that the trial court violated the RJA.
+       In Young, the defendant sought discovery to support his claim that racial profiling
+in a traffic stop led to his arrest for possession of Ecstasy for sale. (Young, supra,
+
+                                              23
+79 Cal.App.5th at p. 143.) He filed a motion for discovery under section 745,
+subdivision (d), which provides in part that, upon a showing of good cause, “[a]
+defendant may file a motion requesting disclosure to the defense of all evidence relevant
+to a potential violation of subdivision (a) in the possession or control of the state.”
+Young sought records relating to charging decisions in cases comparable to his, by which
+Young intended to show the district attorney had more frequently charged Black
+defendants with possession for sale than defendants of other races. (Young, at pp. 143-
+144.) The trial court denied the motion on the ground that Young’s showing of good
+cause “appeared to rest on nothing more than his race.” (Id. at p. 144.)
+       On writ review, the Attorney General argued Young had failed to show good
+cause for discovery because Young’s race was the only “logical link” between a claim of
+racial profiling in violation of section 745, subdivision (a)(1) and a claim of racially
+biased charging decisions under subdivision (a)(3). (Young, supra, 79 Cal.App.5th at
+p. 144.) In a thoughtful decision, the Court of Appeal rejected this reasoning. In
+construing section 745, the Court observed, “The four numbered subparts within section
+745, subdivision (a) do not describe independent ‘violations’ of the statute. Rather, they
+describe different means of proving that the state exercised its criminal sanctions power
+‘on the basis of race, ethnicity, or national origin’ in violation of section 745, subdivision
+(a).” (Id. at p. 163.) From this, the Court reasoned, “[T]he evidence offered in support of
+a theory of violation under one part may be corroborative of the evidence supporting
+another theory of violation under a different part. In short, as we read them, subdivision
+(a)(1) and (3) are not isolated pathways to proving a violation, but in a given case—this
+one being an example—may work in tandem.” (Id. at p. 164.)
+       We find Young well-considered, and we agree as a general matter that evidence of
+conduct falling under one of the four subdivisions in section 745(a) could corroborate
+evidence of a violation under a different subdivision. But this does not necessarily imply
+that a defendant may establish a violation of 745(a) by piecing together isolated instances
+
+                                              24
+of conduct when no specific instance of conduct satisfies the criteria set forth by one of
+the four subparts. Nor did the Young Court set forth such a holding; the Court was
+construing section 745 in the context of determining the requirements for a showing of
+good cause to obtain discovery under subdivision (d), not whether the evidence had
+established a violation of subdivision (a).
+       Furthermore, after Young was decided, the Legislature amended section 745 to add
+subdivision (k). (Stats. 2022, ch. 739, § 2, eff. Jan. 1, 2023.) Subdivision (k) requires a
+prejudice analysis for certain petitions “based on a violation of paragraph (1) or (2) of
+subdivision (a).” (§ 745, subd. (k).) This language implies each of those two
+subdivisions does describe an independent violation of the statute.
+       Arguably, section 745, subdivision (a)(1) might allow a defendant to establish a
+violation based on separate instances of conduct considered together; nothing in the plain
+language of that subdivision expressly rules out this possibility. But forfeiture doctrine
+still applies to this claim on appeal, especially because, as noted above, Wagstaff’s trial
+counsel did not object under the RJA to any of the specific instances of the trial court’s
+conduct Wagstaff now challenges on appeal. We conclude this claim fails.
+   B. Lack of Jury Instruction on Lesser Included Offense of Misdemeanor False
+      Imprisonment
+       The jury found Wagstaff guilty of felony false imprisonment as charged in
+count 1. The trial court did not instruct the jury on misdemeanor false imprisonment, and
+Wagstaff did not request the instruction. He contends the trial court erred by failing to
+instruct the jury sua sponte on misdemeanor false imprisonment as a lesser included
+offense. The Attorney General argues there was no substantial evidence to support an
+instruction on misdemeanor false imprisonment, and that even assuming the instruction
+was warranted, any error was harmless.
+
+
+
+
+                                              25
+       1. Legal Principles
+       “False imprisonment is the unlawful violation of the personal liberty of another.”
+(§ 236.) “In this context, ‘ “[p]ersonal liberty” ’ is violated when ‘the victim is
+“compelled to remain where [they do] not wish to remain, or to go where [they do] not
+wish to go.” ’ [Citations.]” (People v. Reed (2000) 78 Cal.App.4th 274, 280.)
+       “If the false imprisonment be effected by violence, menace, fraud, or deceit, it
+shall be punishable by imprisonment pursuant to subdivision (h) of Section 1170.”
+(§ 237.) “Misdemeanor false imprisonment is a lesser and necessarily included offense
+of felony false imprisonment.” (People v. Matian (1995) 35 Cal.App.4th 480, 487
+(Matian).) Misdemeanor false imprisonment requires no force beyond that necessary to
+restrain the victim. “All that is necessary is that ‘ “the individual be restrained of his
+liberty without any sufficient complaint or authority therefor, and it may be accomplished
+by words or acts . . . which such individual fears to disregard.” [Citations.]’ [Citation.]”
+(People v. Babich (1993) 14 Cal.App.4th 801, 806 (Babich).)
+       As used in section 237, “violence” means “using physical force greater than the
+force reasonably necessary to restrain someone.” (People v. Whitmore (2022)
+80 Cal.App.5th 116, 130 (Whitmore).) “Force is an element of both felony and
+misdemeanor false imprisonment. Misdemeanor false imprisonment becomes a felony
+only where the force used is greater than that reasonably necessary to effect the restraint.
+In such circumstances the force is defined as ‘violence’ with the false imprisonment
+effected by such violence a felony.” (People v. Hendrix (1992) 8 Cal.App.4th 1458,
+1462.) “ ‘Menace’ is a threat of harm express or implied by words or act; an express
+threat or use of a deadly weapon is not required. [Citation.]” (Whitmore, at p. 130.)
+       “The trial court must instruct on general legal principles closely related to the case.
+This duty extends to necessarily included offenses when the evidence raises a question as
+to whether all the elements of the charged offense are present. . . . [¶] Nevertheless, ‘the
+existence of “any evidence, no matter how weak” will not justify instructions on a lesser
+
+                                              26
+included offense. . . .’ [Citation.] Such instructions are required only where there is
+‘substantial evidence’ from which a rational jury could conclude that the defendant
+committed the lesser offense, and that he is not guilty of the greater offense.” (People v.
+DePriest (2007) 42 Cal.4th 1, 50 (DePriest).) In this context, “substantial evidence”
+means “evidence sufficient to ‘deserve consideration by the jury,’ that is, evidence that a
+reasonable jury could find persuasive.” (People v. Barton (1995) 12 Cal.4th 186, 201,
+fn. 8.)
+          We independently review the question whether the trial court failed to instruct on
+a lesser included offense. (People v. Avila (2009) 46 Cal.4th 680, 705.) Error in failing
+sua sponte to instruct on a lesser included offense must be reviewed for prejudice
+exclusively under People v. Watson (1956) 46 Cal.2d 818, 836. (People v. Beltran
+(2013) 56 Cal.4th 935, 955 (Beltran).) Under that standard, the defendant must show it is
+reasonably probable a more favorable result would have been obtained absent the error.
+(Ibid.)
+          2. No Substantial Evidence Supported an Instruction on Misdemeanor False
+             Imprisonment
+          The prosecution presented abundant evidence to support a finding Wagstaff used
+force or menace to restrain Doe’s liberty. In her statements on the day of the incident,
+Doe said multiple times that Wagstaff repeatedly struck her in the face, threatened her
+with violence, and tried to close or hold the car door shut during the incident. She told
+the 911 dispatcher that he threatened to hit her more if she opened the door, and she told
+the police he said he would “give her something to scream about.” She complained of
+pain and her face showed swelling afterwards. The statements she gave on the day of the
+incident were consistent with those of three percipient witnesses who saw it. Although
+none of the witnesses saw Wagstaff hitting Doe, one witness saw him holding on to her,
+and another witness heard Wagstaff screaming at her to shut the door.
+
+
+
+
+                                               27
+       Wagstaff argues the evidence supported an instruction on misdemeanor false
+imprisonment because the jury could have doubted the credibility of Doe’s initial
+statements based on her subsequent recantation and the percipient witnesses’ “limited
+observations.” In her preliminary hearing testimony recanting her initial statements to
+the police, Doe asserted she opened the car door and threatened to jump out because she
+wanted to get a reaction from Wagstaff. She denied he hit her, and she claimed he
+stopped the car to let her out without preventing her from leaving the car.
+       An instruction on a lesser included offense is required only if there is “ ‘substantial
+evidence’ from which a rational jury could conclude that the defendant committed the
+lesser offense, and that he is not guilty of the greater offense.” (DePriest, supra,
+42 Cal.4th at p. 50, italics added.) Doe said nothing in her preliminary hearing testimony
+that would support a finding that Wagstaff violated her personal liberty in any fashion.
+Her testimony therefore did not provide substantial evidence from which a rational jury
+could conclude Wagstaff committed misdemeanor false imprisonment.
+       Wagstaff argues Doe “could have altered any number of the ‘facts’ ” when she
+recanted her initial statements to the police. He argues it was the jury’s province to
+decide what version was credible. But Wagstaff does not point to any version of Doe’s
+testimony or statements that would support a rational finding that he violated Doe’s
+personal liberty without using violence or menace. Such a scenario amounts to “sheer
+speculation,” People v. Lewis (1990) 50 Cal.3d 262, 277, not substantial evidence to
+support an instruction on misdemeanor false imprisonment.
+       Wagstaff relies on Babich, supra, 14 Cal.App.4th 801. In Babich, the Court of
+Appeal held the trial court erred by failing to instruct the jury on misdemeanor false
+imprisonment. (Id. at pp. 807-809.) At trial, the victim testified that Babich had held a
+knife to her throat, covered her mouth, and threatened to kill her while using his arms to
+hold her in his room. (Id. at pp. 804-805.) The victim testified that when two relatives
+entered the room, Babich hid the knife but continued to hold her with his arms. (Id. at
+
+                                             28
+p. 805.) Babich denied using a knife, and the two relatives testified that they saw Babich
+hold the victim with his arms. (Ibid.) One of the relatives testified that she never saw a
+knife, and no knife was found in a police search of the room. (Ibid.) The Court of
+Appeal concluded that “ample evidence” supported an instruction on misdemeanor false
+imprisonment because the jury could reasonably have found the testimony of Babich and
+the relatives credible while disbelieving the victim’s version of the incident. (Id. at
+pp. 807-808.)
+       Babich is distinguishable. In Babich, multiple witnesses testified to a version of
+the incident that could have supported a finding of misdemeanor false imprisonment if
+the jury credited their testimony instead of the victim’s testimony. Here, the victim’s
+version of the incident could only support either felony false imprisonment—if the jury
+credited her initial statements to police—or no false imprisonment at all, if the jury
+credited her testimony at the preliminary hearing.
+       Hypothetically, the jury could have credited several bits of evidence in isolation—
+e.g., Alvarez’s statement that Wagstaff was holding on to Doe, Fowler’s statement that
+Wagstaff was yelling at her to shut the door, and Doe’s initial statement that Wagstaff
+tried to prevent her from getting out of the car—while disregarding the rest of Doe’s
+statements altogether. But the Attorney General persuasively argues that this would not
+constitute substantial evidence from which a rational jury could find misdemeanor false
+imprisonment. Even assuming it would, on this record it is highly improbable the jury
+would have made those findings in such surgical fashion. Any error was therefore
+harmless because Wagstaff has not shown it is reasonably probable a more favorable
+result would have been obtained had the trial court given the instruction. (See Beltran,
+supra, 56 Cal.4th at p. 955 [stating the standard for prejudice].)
+       Accordingly, we conclude this claim is without merit.
+                                      III.   DISPOSITION
+       The judgment is affirmed.
+
+                                             29
+                                 _______________________________
+                                 Greenwood, P. J.
+
+
+
+
+WE CONCUR:
+
+
+
+
+______________________________________
+ Grover, J.
+
+
+
+
+______________________________________
+ Danner, J.
+
+
+
+
+People v. Wagstaff
+H050597
+Trial Court:               Santa Clara County
+Superior Court
+Superior Court No.:        C1919118
+
+Trial Judge:               The Honorable Jesus
+Valencia, Jr.
+
+
+
+Attorney for Appellant:    Nancy Susan Brandt
+BRANDON DUANE WAGSTAFF:    under appointment by the
+Court of                                      Appeal
+for Appellant
+
+
+Attorneys for Respondent   Rob Bonta,
+THE PEOPLE:                Attorney General of
+California
+
+                           Lance E. Winters,
+                           Chief Assistant Attorney
+General
+
+                           Jeffrey M. Laurence,
+                           Senior Assistant Attorney
+General
+
+                           Bridget Billeter,
+                           Supervising Deputy
+Attorney General
+
+                           Claudia H. Phillips
+                           Deputy Attorney General
+
+
+
+
+People v. Wagstaff
+H050597
+         Court of Appeal, Sixth Appellate District - No. H050597
+
+                                 S292031
+
+  IN THE SUPREME COURT OF CALIFORNIA
+                                 En Banc
+____________________________________________________________
+
+                 THE PEOPLE, Plaintiff and Respondent,
+
+                                     v.
+
+     BRANDON DUANE WAGSTAFF, Defendant and Appellant.
+____________________________________________________________
+
+      The petition for review is denied.
+      The requests for an order directing depublication of the opinion are
+denied.
+
+      Liu and Evans, JJ., are of the opinion the petition should be granted.
+
+
+      (See Dissenting Statement by Evans, J.)
+
+
+
+
+                                  ________________/s/______________
+                                             Chief Justice
+                   PEOPLE v. WAGSTAFF
+
+
+                            S292031
+            Dissenting Statement by Justice Evans
+
+
+      In 2022, Brandon Duane Wagstaff was convicted of false
+imprisonment by violence, violating a protective order, making
+criminal threats, and domestic violence battery.1 The trial court
+held a sentencing hearing on November 4, 2022, during which
+the court also considered Wagstaff’s motion to dismiss his prior
+strike conviction and motion to reduce the criminal threats
+conviction to a misdemeanor. After the People and defense
+counsel submitted on their respective arguments, the trial court
+addressed Wagstaff directly. The court stated:
+     “You are a young man, but you’re not a boy, you’re
+     not an adolescent. This motion and this idea about
+     adolescent child behavior has merit, but I don’t know
+     that it has application in your case. [¶] People are
+     influenced by many things. There are a lot of young
+     men of color, there are African-American men, there
+     are Asian men, there are Hispanic men, there are
+     White kids and children who are tremendously and
+     disproportionately impacted by poverty, by drugs, by
+     violence, by other things in life that they have no
+     control over, and you’re no different; but a lot of
+     those kids stand up, buckle down, and meet these
+     challenges without resorting to crime. [¶] . . . [¶]
+
+1
+     Wagstaff was also charged with attempted second degree
+robbery; the jury found him not guilty on that count.
+
+
+                               1
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+      But the question is, ‘Do you want to do the right
+      thing?’ You know, you have to become a man. And
+      I don’t mean to disrespect you, but you have to make
+      manly decisions, hard decisions to take control of
+      your life. [¶] You know, it’s easy to bust into people’s
+      homes and take property because they’re not there
+      or because you’re a strong young buck and you can
+      do these things at-will. That’s weak. There’s
+      nothing manly, there’s nothing right about that, and
+      your mom will tell you that.”
+     Wagstaff’s counsel did not object to these specific
+comments during the hearing. The court denied Wagstaff’s
+motions and sentenced him to 16 months.
+      Wagstaff appealed, arguing among other things that the
+foregoing     statements —        in     particular,   the    court’s
+characterization of Wagstaff as a “strong young buck” —
+violated the California Racial Justice Act of 2020 (RJA;
+Stats. 2020, ch. 317). The Attorney General conceded this
+language violated the RJA, expressly declined to argue that
+Wagstaff forfeited the argument “based on defense counsel’s
+reference to ‘racial justice factors’ that play into sentencing, and
+the clear violation of [Penal Code] section 745[,]” and supported
+remanding the matter for resentencing before a different judge.
+The Court of Appeal declined to accept the Attorney General’s
+concession and instead concluded that Wagstaff’s counsel’s
+failure to object to the trial court’s statements forfeited the claim
+on appeal.2 Because I do not believe this is an appropriate case
+
+2
+     After Wagstaff’s sentencing, the Legislature amended the
+RJA to require trial court judges to disqualify themselves if the
+conduct alleged to violate the RJA involves judicial conduct or
+
+                                   2
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+to apply the forfeiture doctrine, especially in light of the
+importance of the RJA, I would grant review.
+       The Legislature enacted the RJA “to eliminate racial bias
+from California’s criminal justice system.” (Stats. 2020, ch. 317,
+§ 2(i).) In so doing, it declared that “[d]iscrimination in our
+criminal justice system based on race, ethnicity, or national
+origin . . . has a deleterious effect not only on individual criminal
+defendants but on our system of justice as a whole. . . .
+Discrimination undermines public confidence in the fairness of
+the state’s system of justice and deprives Californians of equal
+justice under law.” (Assem. Bill No. 2542 (2019–2020 Reg.
+Sess.), § 2, subd. (a) (hereafter Assembly Bill No. 2542).) The
+Legislature thus pronounced that “racism in any form or
+amount, at any stage of a criminal trial, is intolerable, inimical
+to a fair criminal justice system, is a miscarriage of justice under
+Article VI of the California Constitution, and violates the laws
+and Constitution of the State of California.” (Id., subd. (i).)
+      As relevant here, an RJA violation includes circumstances
+in which “the judge . . . used racially discriminatory language
+about the defendant’s race, ethnicity, or national origin, or
+otherwise exhibited bias or animus towards the defendant
+because of the defendant’s race, ethnicity, or national origin,
+whether or not purposeful.” (Pen. Code, § 745, subd. (a)(2).)
+“ ‘Racially discriminatory language’ means language that, to an
+
+
+
+statements. (See Pen. Code, § 745, subd. (b), eff. Jan. 1, 2023.)
+Wherever possible, lower courts, however, can and should
+address issues of judicial racial bias in pre-2023 cases on the
+merits, consistent with the Legislature’s intent as expressed in
+Assembly Bill No. 256.
+
+                                   3
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+objective observer, explicitly or implicitly appeals to racial bias,
+including, but not limited to, racially charged or racially coded
+language, language that compares the defendant to an animal,
+or language that references the defendant’s physical
+appearance, culture, ethnicity, or national origin.” (Pen. Code,
+§ 745, subd. (h)(4).) The RJA prohibits both explicit and implicit
+bias. (Id., subd. (a)(1) & (2).) “Implicit bias, although often
+unintentional and unconscious, may inject racism and
+unfairness into proceedings similar to intentional bias.”
+(Assembly Bill No. 2542, § 2, subd. (i).) When an RJA violation
+occurs, “the court shall impose a remedy specific to the
+violation. . . .” (Pen. Code, § 745, subd. (e), italics added.)
+       Generally, a defendant who fails to object to an alleged
+error at trial forfeits the claim on appeal. (In re Sheena K. (2007)
+40 Cal.4th 875, 880.)           “However, neither forfeiture nor
+application of the forfeiture rule is automatic.” (People v.
+McCullough (2013) 56 Cal.4th 589, 593.) An “exception to the
+forfeiture rule applies to ‘matters involving the public interest
+or the due administration of justice.’ ” (FCM Investments, LLC
+v. Grove Pham, LLC (2023) 96 Cal.App.5th 545, 554 (FCM),
+citing 9 Witkin, Cal. Procedure (6th ed. 2021) Appeal, § 427, p.
+463 [claim of arbitrator’s linguistic or national-origin bias based
+on respondent’s use of interpreter not subject to forfeiture rule];
+see also Catchpole v. Brannon (1995) 36 Cal.App.4th 237, 244
+(Catchpole), disapproved on other grounds in People v. Freeman
+(2010) 47 Cal.4th 993, 1006, fn. 4 [claim of judicial gender bias
+not forfeited].) Alleged judicial racial bias “obviously involves
+both a public interest and the due administration of justice”
+(Catchpole, at p. 244) since “[a]ll litigants are entitled to
+impartial adjudication free from arbitrary considerations of
+
+
+                                   4
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+race, gender, or national origin.” (FCM, at p. 554.) Addressing
+Wagstaff’s claim on the merits furthers these important
+interests as well as the RJA’s purpose of eliminating racial bias
+from the state’s criminal justice system.
+      In addition, “[r]eviewing courts have traditionally excused
+parties for failing to raise an issue at trial where an objection
+would have been futile.” (People v. Welch (1993) 5 Cal.4th 228,
+237; see also People v. Sturm (2006) 37 Cal.4th 1218, 1237
+[defendant’s failure to object to claims of judicial misconduct
+“does not preclude review ‘when an objection and an admonition
+could not cure the prejudice caused by’ such misconduct, or when
+objecting would be futile” or counterproductive].) As one court
+observed, “[f]ew more daunting responsibilities could be
+imposed on counsel than the duty to confront a judge with his or
+her alleged . . . bias in presiding at trial. The risk of offending
+the court and the doubt whether the problem could be cured by
+objection might discourage the assertion of even meritorious
+claims. Requiring the issue to be raised at trial would therefore
+have the unjust effect of insulating judges from accountability
+for bias.” (Catchpole, supra, 36 Cal.App.4th at p. 244.) For all
+these reasons, I would not find Wagstaff’s RJA claim forfeited.
+       The Court of Appeal, however, found the RJA claims
+forfeited and declined to exercise its discretion to consider the
+merits of the claims. The court acknowledged that it was “aware
+of racist historical usages and cultural meanings associated
+with the language challenged here[,]” but found the record
+lacked sufficient information to allow it to evaluate Wagstaff’s
+RJA claim. (People v. Wagstaff (2025) 111 Cal.App.5th 1207,
+1222.) In my view, the record, considered in context, is sufficient
+
+
+
+                                   5
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+to infer that the trial court exhibited implicit racial bias in
+violation of the RJA.
+      As the Court of Appeal recognized, the term “young buck”
+is deeply racialized. With origins in slavery, the phrase evokes
+negative stereotypes including associations with heightened
+criminality and violence, and implies that Black men are
+innately capable of committing crimes. The term and its
+troubling connotations are well known. (See Silva, The Trap
+Chronicles, Vol. 3: Felons & Firearms (2025) 84 Md. L.Rev. 309,
+335–336 [“ ‘strapping young buck’ ” is “an undeserving, able-
+bodied African American who was taking advantage of the
+system”]; see also Lawson, Police Shootings of Black Men and
+Implicit Racial Bias: Can’t We All Just Get Along (2015) 37 U.
+Hawaii L.Rev. 339, 352–353 [“Shortly after the Emancipation
+Proclamation, newspapers and books continued to traffic
+propaganda that portrayed Black males as brutes and
+animals. . . . The stereotypical image of the brutish, animalistic
+Black buck, with a craving for raping White women, made its
+Hollywood debut in the 1915 D.W. Griffith film, ‘The Birth of a
+Nation’ ”; see also Nunn, Rights Held Hostage: Race, Ideology
+and the Peremptory Challenge (1993) 28 Harv. C.R.-C.L. L.Rev.
+63, 64–65 [discussing how the jury’s acquittal of Los Angeles
+police officers who beat unarmed motorist Rodney King
+“transform[ed] Rodney King into a wild and ferocious Black
+‘buck’ who, like his counterpart in Hollywood fantasy, could
+somehow threaten life, limb and property while lying prone and
+surrounded by more than two dozen” police officers]3.)
+
+3
+      That the trial court did not explicitly refer to Wagstaff’s
+race when making the comment is of no moment; racially coded
+language is just as much a violation of the RJA and harmful to
+
+                                   6
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+      The trial court referred to Wagstaff as a “strong young
+buck” in the context of discussing the underlying offense.
+Indeed, the court described Wagstaff as able to commit the
+offense “at-will.” The court also contrasted Wagstaff to young
+men and boys of other races who do not resort to crime. The
+court’s “strong young buck” reference and its comparison of
+Wagstaff to individuals of other races had no relevance to
+sentencing. As the Legislature explained, “[b]ecause animal
+imagery is historically associated with racism, use of animal
+imagery in reference to a defendant is racially discriminatory
+and should not be permitted in our court system.” (Stats. 2020,
+ch. 317, § 2, subd. (e); see also Prasad, Implicit Racial Biases in
+Prosecutorial Summations: Proposing an Integrated Response
+(2018) 86 Fordham L.Rev. 3091, 3105 [“Animal imagery can
+both depend on and perpetuate the negative effects of implicit
+racial biases”].)
+      In my view, the trial court’s characterization of Wagstaff
+as a “strong young buck” in this context is sufficient on the face
+of the record to find racial discrimination warranting remand
+for resentencing before a different trial judge as supported by
+the Attorney General. (Pen. Code, § 745, subds. (h)(4), (e)(2).)
+To the extent the Court of Appeal believed further information
+was required to ascertain the historical or cultural context of the
+
+
+the fair administration of justice as explicit appeals to racial
+bias. (Pen. Code, § 745, subds. (a)(2), (h)(4); see also Silva,
+supra, 84 Md. L.Rev. at pp. 335–336 [“Racial coding occurs when
+race neutral phrases are used to indirectly signify a racial theme
+or invoke racial resentment. . . . America has a long history and
+tradition of racial coding”]; id. at p. 335, fn. 201 [noting
+examples of racially coded language include “ ‘strapping young
+buck’ ”].)
+
+                                   7
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+challenged language, a remand for further factual development
+would have been the appropriate course of action.4 (See People
+v. Hardin (2024) 15 Cal.5th 834, 892–893 (dis. opn. of Liu, J.).)
+      Concluding that Wagstaff’s RJA claim is forfeited
+undermines the RJA’s purpose and intent. The Legislature
+made “abundantly clear” that its “primary motivation for the
+legislation was the failure of the judicial system to afford
+meaningful relief to victims of unintentional but implicit bias”
+and “to remedy the harm to the defendant’s case and to the
+integrity of the judicial system” that such bias causes. (Bonds
+v. Superior Court (2024) 99 Cal.App.5th 821, 828.) The trial
+court’s use of “strong young buck” may not have been purposeful
+discrimination, but it was nonetheless racially fraught language
+comparing Wagstaff to an animal. It appears to reflect at least
+the very type of implicit bias about which the Legislature was
+concerned (see Assembly Bill No. 2542, § 2, subd. (e)) that
+“inject[s] racism and unfairness into proceedings similar to
+intentional bias” (id., subd. (i)). “Avoiding such demeaning
+language and rejecting the pernicious stereotype it expresses
+are essential to sustaining public confidence in our system of
+justice.” (People v. Alvarez (2025) 18 Cal.5th 387, 489 (conc. opn.
+of Liu, J.).) “[T]he RJA was designed to uproot” such bias, “to
+ensure racial discrimination — in all its forms — is eradicated
+from our criminal justice system.” (People v. Coleman (2024) 98
+Cal.App.5th 709, 725c–725d (conc. opn. of Evans, J.).)
+
+
+
+
+4
+     Both Wagstaff’s counsel and the Attorney General
+advocated for a remand for further factual development at oral
+argument.
+
+                                   8
+                        PEOPLE v. WAGSTAFF
+
+          Evans, J., dissenting statement upon denial of review
+
+
+                                              EVANS, J.
+I Concur:
+LIU, J.
+
+
+
+
+                                   9

@@ -1,0 +1,317 @@
+cl_opinion_id: 11171838
+cluster: 10705251
+docket: A171632
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Morales v. Critchfield Mechanical CA1/2
+----
+Filed 10/16/25 Morales v. Critchfield Mechanical CA1/2
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+          IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                   DIVISION TWO
+
+
+ LUIS MORALES,
+           Plaintiff and Appellant,
+                                                                        A171632
+ v.
+ CRITCHFIELD MECHANICAL                                                 (Alameda County
+ INC.,                                                                  Super. Ct. No. 23CV039048)
+           Defendant and Respondent.
+
+
+         Plaintiff Luis Morales was rear-ended on the freeway by a driver who
+was on his way to work. Morales sued both the driver and that driver’s
+employer at the time of the accident, Critchfield Mechanical Inc. (CMI). The
+trial court granted CMI’s motion for summary judgment under the “going and
+coming” rule: an employee’s commute going to and coming from work is
+ordinarily considered outside the scope of employment, such that the
+employer is not vicariously liable for the employee’s torts committed while
+commuting. (Hinman v. Westinghouse Electric Co. (1970) 2 Cal.3d 956, 961
+(Hinman).)
+         On appeal, Morales argues that the trial court erred in granting
+summary judgment because he raised a triable issue of material fact as to
+whether certain exceptions to the going and coming rule apply here. We
+disagree and affirm.
+
+
+                                                               1
+                               BACKGROUND
+      Morales filed a complaint against Michael Maldonado and CMI,
+alleging Maldonado had negligently caused a motor vehicle accident that
+resulted in injuries to Morales.
+      On the morning of August 15, 2022, Maldonado was driving in his
+personal vehicle from his home to a CMI job site in San Mateo. Maldonado
+was employed by CMI as an apprentice with the sheet metal fabricators
+union. Maldonado rear-ended Morales while traveling on the freeway. It is
+undisputed that, at the time of the accident, Maldonado was not making any
+work-related phone calls, transporting clients, performing errands, or
+delivering any goods, products, or materials for CMI. And CMI did not
+compensate or reimburse Maldonado for his commute time.
+      CMI moved for summary judgment, arguing it could not be vicariously
+liable under the going and coming rule because Maldonado was commuting to
+work when the accident occurred.
+      Morales opposed the motion, arguing that two exceptions to the going
+and coming rule apply here. First is the “required vehicle exception,” which
+provides that an employee’s commute is within the scope of employment if an
+employer requires an employee to drive to and from the workplace “ ‘so that
+the vehicle is available for the employer’s business.’ ” (Jorge v. Culinary
+Institute of America (2016) 3 Cal.App.5th 382, 402 (Jorge), quoting CACI No.
+3725.) Second is the “incidental benefit exception,” which provides that an
+employee’s commute may also be within the scope of employment “if the use
+of the employee’s vehicle provides some direct or incidental benefit to the
+employer.” (Ibid.)
+      The trial court granted CMI’s summary judgment motion. It
+determined that CMI had met its burden to show application of the going and
+
+
+
+                                       2
+coming rule, and that Morales had not raised a triable issue of material fact
+on either the required vehicle or incidental benefit exception. Judgment was
+entered in favor of CMI on Morales’s action against it, and a notice of
+settlement with Maldonado was filed shortly thereafter. This appeal
+followed.
+                                      DISCUSSION
+                             I. Standard of Review
+      “On appeal from the grant of summary judgment, we review the record
+de novo and apply the same standard as did the trial court.” (Bingener v.
+City of Los Angeles (2019) 44 Cal.App.5th 134, 140 (Bingener).) That
+standard is well settled: summary judgment is proper “if all the papers
+submitted show that there is no triable issue as to any material fact and that
+the moving party is entitled to a judgment as a matter of law.” (Code Civ.
+Proc., § 437c, subd. (c).)
+      A defendant moving for summary judgment bears the burden of
+showing the cause of action cannot be established. (Code Civ. Proc., § 437c,
+subds. (o), (p)(2).) Once the defendant makes this showing, the burden shifts
+to the plaintiff to show a triable issue of material fact exists as to the cause of
+action. (Id., subd. (p)(2).) A triable issue of fact exists “if, and only if, the
+evidence would allow a reasonable trier of fact to find the underlying fact in
+favor of the [plaintiff] in accordance with the applicable standard of proof.”
+(Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 845.) In making that
+determination, the evidence is viewed in the light most favorable to the
+plaintiff, and any reasonable inferences from the facts are drawn in the
+plaintiff’s favor. (Id. at p. 843.)
+
+
+
+
+                                          3
+           II. Employer Liability and “Going and Coming” Rule
+      Under the doctrine of respondeat superior, an employer is liable for the
+torts of its employees that are committed within the scope of their
+employment. (Ducey v. Argo Sales Co. (1979) 25 Cal.3d 707, 721.) “This
+doctrine is based on ‘ “a deliberate allocation of a risk. The losses caused by
+the torts of employees, which as a practical matter are sure to occur in the
+conduct of the employer’s enterprise, are placed upon that enterprise itself, as
+a required cost of doing business.” ’ ” (Jorge, supra, 3 Cal.App.5th at p. 396.)
+      Under the going and coming rule, however, an employee’s commute to
+and from work is considered outside the scope of employment, so that the
+employer is not vicariously liable for the employee’s torts committed while
+commuting. (Hinman, supra, 2 Cal.3d at p. 961.) The rule is “grounded in
+the notion that ‘ “the employment relationship is ‘suspended’ from the time
+the employee leaves until he returns [citation], or that in commuting he is not
+rendering service to his employer.” ’ ” (Jorge, supra, 3 Cal.App.5th at p. 397.)
+      In this appeal, Morales does not challenge the sufficiency of CMI’s
+initial showing that the going and coming rule should apply because
+Maldonado was commuting to work. Morales instead argues that, once the
+burden shifted to him, he raised a triable issue of material fact as to whether
+the (1) required vehicle exception or (2) incidental benefit exception to the
+going and coming rule applies here. We address, and reject, each argument
+in turn.
+                      III. Required Vehicle Exception
+      Under the required vehicle exception, an employee’s drive to and from
+work falls within the scope of employment if an employer requires an
+employee “ ‘to drive to and from the workplace so that the vehicle is available
+for the employer’s business.’ ” (Jorge, supra, 3 Cal.App.5th at pp. 401–402;
+
+
+
+                                        4
+see also CACI No. 3725.) The requirement may be express or implied.
+(Jorge, at p. 386.)
+      Morales contends that he raised a triable issue of material fact as to
+whether CMI impliedly required Maldonado to drive to work each day.
+Morales points to the following evidence to support his position: CMI hires
+only union members. The collective bargaining agreement between CMI and
+the union requires members to have a valid driver’s license upon dispatch.
+When asked about this license requirement, a union representative testified
+in deposition that “it’s in our collective bargaining agreement too that they
+have to be able to drive to work so if they drive to work, they should have a
+driver’s license.” And when asked whether it was “implied” that Maldonado
+would have to use his vehicle to get to the CMI job site by the morning start
+time, his manager testified in deposition “Yes,” but then explained that
+Maldonado “could use someone else’s vehicle,” or “somebody could have
+brought him to work every day,” because the means by which he arrived at a
+job site did not matter at all to CMI.
+      As a preliminary matter, this evidence does not show CMI had a
+mandatory driving requirement that would trigger the exception. Any
+purported union requirement that members “be able to drive to work” is not
+equivalent to a requirement by CMI that Maldonado drive his vehicle to
+work. Nor is any union requirement that members have a driver’s license
+sufficient to satisfy the required vehicle exception. (Bingener, supra, 44
+Cal.App.5th at p. 142 [rejecting application of exception based on driver’s
+license requirement in job description].)
+      Even if it did, this evidence would still not satisfy the required vehicle
+exception in its entirety. As we explained in Jorge, the exception applies
+where an employee is required to drive to and from work “ ‘in order to have
+
+
+
+                                         5
+his vehicle available for company business during the day.’ ” (Jorge, supra, 3
+Cal.App.5th at p. 401.) Morales offers no argument, let alone any evidence,
+that CMI required Maldonado to commute so that his vehicle was available
+for company business during the day. (Ibid.)
+      Morales unsuccessfully attempts to distinguish Jorge on its facts,
+arguing, among other things, that we determined there was insufficient
+evidence of the required vehicle exception in that case because the employee
+occasionally “volunteered” to participate in work events that involved driving.
+(Jorge, supra, 3 Cal.App.5th at pp. 391, 402.) But nothing in our description
+of the required vehicle exception in Jorge is dependent on the particular facts
+of that case. On the contrary, “cases invoking the required-vehicle exception
+all involve employees whose jobs entail the regular use of a vehicle to
+accomplish the job in contrast to employees who use a vehicle to commute to
+a definite place of business.” (Tryer v. Ojai Valley School (1992) 9
+Cal.App.4th 1476, 1481.)
+      We conclude that Morales did not raise a triable issue of material fact
+on application of the required vehicle exception.
+                     IV. Incidental Benefit Exception
+      “ ‘The drive to and from work may also be within the scope of
+employment if the use of the employee’s vehicle provides some direct or
+incidental benefit to the employer.’ ” (Jorge, supra, 3 Cal.App.5th at p. 386.)
+An incidental benefit under this exception is one that is “not common to
+commute trips by ordinary members of the work force” and “sufficient enough
+to justify making the employer responsible for the risks inherent in the
+travel.” (Blackman v. Great American First Savings Bank (1991) 233
+Cal.App.3d 598, 602, 604.)
+
+
+
+
+                                       6
+      Morales contends that he raised a triable issue of material fact as to
+whether CMI derived an incidental benefit from Maldonado driving to work.
+Morales premises this argument on deposition testimony that the collective
+bargaining agreement between CMI and the union provided for mileage
+reimbursement.
+      In so doing, Morales concedes that the “mere payment of a travel
+allowance” is insufficient to satisfy the incidental benefit exception.
+(Compare Hinman, supra, 2 Cal.3d at p. 961 [concluding doctrine of
+respondeat superior is applicable where employer pays travel expenses plus
+additional payment for travel time per contract with employee] with Caldwell
+v. A.R.B., Inc. (1986) 176 Cal.App.3d 1028, 1042 (Caldwell) [rejecting
+exception because $10 to $13 daily travel allowance for job sites 30 to 40
+miles away “does not reflect a sufficient benefit to defendant so that it should
+bear responsibility for plaintiff’s injuries”].) Morales instead argues that CMI
+benefited from the mileage reimbursement policy because it (1) expanded the
+available labor market and reduced the number of employees needed because
+they could work on CMI projects regardless of location; and (2) allowed CMI
+to send employees to multiple job sites in the same day. Neither argument
+has merit.
+      First, Morales ignores the undisputed fact that, despite the purported
+union policy, Maldonado did not claim any mileage and thus CMI did not
+compensate or reimburse him for mileage expenses. Morales does not
+present any specific argument or authority supporting application of the
+incidental benefit exception based on a policy that was not in fact
+implemented. (Cal. Rules of Court, rule 8.204(a)(1)(B) [briefs must “support
+each point by argument and, if possible, by citation of authority”]; see also
+Hodjat v. State Farm Mutual Automobile Ins. Co. (2012) 211 Cal.App.4th 1,
+
+
+
+                                        7
+10 [“[A]ppellant is required to not only cite to valid legal authority, but also
+explain how it applies in his case”].)
+      Instead, Morales cites authority rejecting application of the exception
+even where employers had actually paid travel allowances to employees.
+(Anderson v. Pacific Gas & Electric Co. (1993) 14 Cal.App.4th 254, 257, 261
+(Anderson) [payment of $12.50 daily travel allowance to employees
+commuting at least 25 miles]; Caldwell, supra, 176 Cal.App.3d at p. 1040
+[payment of $10 to $13 daily travel allowance to all employees]; Harris v.
+Oro-Dam Constructors (1969) 269 Cal.App.2d 911, 912 (Harris) [payment of
+$6 daily travel allowance to employees commuting at least 15 miles].) In
+Anderson and Caldwell, the appellate courts reasoned that these allowances
+paid by the employer did not reflect a “sufficient benefit” such that it should
+bear responsibility for the plaintiff’s injuries. (Anderson, at p. 261; Caldwell,
+at p. 1042.) In our view, the same reasoning applies with even greater force
+to the mileage reimbursement policy raised here: Morales has not shown
+what incidental “benefit” could be said to be reflected by a policy not actually
+exercised by Maldonado.
+      And in Harris, the appellate court discussed the incidental benefit
+exception in a “collective bargaining situation” like the one present here:
+while a travel allowance may “promote the recruitment of applicants living at
+a distance from the job,” the court noted it is “more likely” that the allowance
+“may be demanded as a matter of fairness to workers who incur extra
+expenses in travel between home and work.” (Harris, supra, 269 Cal.App.2d
+at p. 917.) That reasoning contradicts application of the exception to CMI.
+Harris also emphasized that, when considering such application, “the right to
+control the trip” remains at the “ ‘very heart of the ascription of tortious
+
+
+
+
+                                         8
+responsibility.’ ” (Ibid.) As described above, we see no evidence showing CMI
+had the power to dictate Maldonado’s manner of travel to work.
+      Second, Morales offers no evidence to support his contention that CMI
+sent Maldonado (or any other employees) to multiple job sites in the same
+day. Morales cites deposition testimony that Maldonado could have been at
+one job site one day and then a “different job site the following day,” and that
+CMI sheet metal fabricators “could be at one job this week and then the
+following week could be at another job site.” Morales does not argue that
+sending employees to different job sites on different days or weeks would
+satisfy the incidental benefit exception. This is not surprising; as we
+explained in Jorge, Anderson “dispensed with the notion that the need to
+show up for work at different sites rendered the employee’s commute
+extraordinary—or for the benefit of the employer.” (Jorge, supra, 3
+Cal.App.5th at p. 405; Anderson, supra, 14 Cal.App.4th at p. 257 [rejecting
+exception where employees “worked out of various locations” for employer].)
+      For all these reasons, we conclude Morales has not come forward with
+evidence that the mileage reimbursement policy reflects a “sufficient benefit”
+to CMI such that it should bear responsibility for Morales’s injuries here.
+(Anderson, supra, 14 Cal.App.4th at p. 261; Caldwell, supra, 176 Cal.App.3d
+at p. 1042.) Morales did not raise a triable issue of material fact on
+application of the incidental benefit exception, and the trial court did not err
+in granting summary judgment.
+                                DISPOSITION
+      The judgment is affirmed. CMI is entitled to its costs on appeal. (Cal.
+Rules of Court, rule 8.278(a)(2).)
+
+
+
+
+                                        9
+                                          _________________________
+                                          Miller, J.
+
+
+WE CONCUR:
+
+
+_________________________
+Stewart, P. J.
+
+
+_________________________
+Richman, J.
+
+
+
+
+A171632, Morales v. Critchfield Mechanical, Inc.
+
+
+
+
+                                     10

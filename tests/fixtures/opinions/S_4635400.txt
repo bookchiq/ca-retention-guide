@@ -1,0 +1,3433 @@
+cl_opinion_id: 4635400
+cluster: 4831621
+docket: S114671
+date: 2020-11-23
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Schultz
+----
+IN THE SUPREME COURT OF
+                CALIFORNIA
+
+                        THE PEOPLE,
+                   Plaintiff and Respondent,
+                               v.
+                 MICHAEL JOSEPH SCHULTZ,
+                   Defendant and Appellant.
+
+                              S114671
+
+                 Ventura County Superior Court
+                           CR49517
+
+
+
+                        November 23, 2020
+
+Chief Justice Cantil-Sakauye authored the opinion of the
+Court, in which Justices Corrigan, Liu, Cuéllar, Kruger,
+Groban and Goethals* concurred.
+
+
+
+
+________________________
+*
+   Associate Justice of the Court of Appeal, Fourth Appellate District,
+Division Three, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+                     PEOPLE v. SCHULTZ
+                            S114671
+
+
+         Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      A jury convicted defendant Michael Joseph Schultz of the
+first degree murder of Cynthia Burger (Pen. Code, § 187,
+subd. (a)),1 and found true the special circumstance allegations
+that the murder was committed while defendant was engaged
+in the commission of rape and burglary (§ 190.2,
+subd. (a)(17)(C), (G)). After a penalty phase trial, the jury
+returned a verdict of death. Defendant moved to modify his
+sentence to life without the possibility of parole. (§ 190.4,
+subd. (e).) The trial court denied the motion and sentenced him
+to death. Defendant’s appeal is automatic. (§ 1239, subd. (b).)
+We affirm the judgment in its entirety.
+          I. FACTS AND PROCEDURAL BACKGROUND
+      A. Guilt Phase Evidence
+         1. Prosecution evidence
+      Cynthia Burger lived in a condominium complex in Port
+Hueneme, a city located in Ventura County. Around 3:30 a.m.
+on August 5, 1993, her neighbor was preparing to leave for work
+and was surprised to see that Burger’s garage door was open.
+Finding that sight unsettling, the neighbor sat in his car in front
+of Burger’s garage. After hearing and seeing nothing for several
+minutes, he left for work.
+
+
+1
+     All further statutory references are to the Penal Code
+unless otherwise indicated.
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      About two hours later, another neighbor awoke to the
+smell of smoke and saw that Burger’s condominium was on fire.
+Police officers were first on the scene, but they were unable to
+get far into the home because of the thick smoke. Firefighters
+soon arrived and quickly extinguished the fire, which was
+confined to an upstairs bedroom. When firefighters searched
+the rest of the residence, they found Burger’s lifeless body
+facedown in a half-filled bathtub located on the first floor. Her
+matted hair was an unnatural yellow-orange color that was
+coated with a foamy soap-like substance. Fire personnel pulled
+her from the water and attempted to revive her, but they
+abandoned their efforts when it was apparent she was dead.
+     Police officers collecting evidence from the scene found no
+signs of forced entry. They discovered, however, that the
+condominium’s smoke detectors had been removed or disabled.
+Burger’s sister was called to the scene and informed officers that
+Burger’s purse containing her wallet and credit cards was
+missing.
+      Later that day, Ventura County’s Chief Medical
+Examiner, Dr. Ronald O’Halloran, performed on autopsy on
+Burger’s body. Dr. O’Halloran noted that Burger had petechial
+hemorrhages on the skin of her face, her eyelids, and the whites
+of her eyes. She also had abrasions under her chin, bruising on
+her neck, and a fractured hyoid bone. He concluded based on
+these observations that the cause of death was manual
+strangulation. Dr. O’Halloran also concluded that Burger was
+already dead when the fire started because there was no
+evidence she had inhaled smoke and no evidence of carbon
+monoxide in her bloodstream.
+
+
+
+
+                                  2
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Dr. O’Halloran examined Burger’s genital area and
+discovered three lacerations in the pubic area and bruising in
+the lower portion of the vagina. He concluded that Burger had
+been forcibly penetrated.       Dr. O’Halloran swabbed and
+aspirated Burger’s vaginal canal to recover possible seminal
+fluid. He then conducted a microscopic examination from one of
+the swabs and observed sperm. He released the swabs and
+vaginal aspirant to the Port Hueneme Police Department. The
+material was preserved for future testing.
+      Two weeks after the fire, an expert in fire reconstruction
+visited the condominium to determine the fire’s point of origin,
+characteristics, and duration. According to the expert, the fire
+started when an open flame was applied to synthetic bedclothes
+at the foot of the bed, erupted quickly, and was rapidly
+extinguished.     The expert concluded the fire was set
+intentionally.
+      The investigation into Burger’s death went unsolved for
+several years. In March 1996, three years after the killing, the
+assistant laboratory manager at the Ventura County Sheriff’s
+Department crime lab contracted with Orchid Cellmark
+Laboratories (Cellmark) to extract DNA from the vaginal
+aspirant (also referred to as a vaginal wash) produced by
+Dr. O’Halloran during the autopsy. Cellmark successfully
+extracted DNA from the sperm cells present in the vaginal wash
+and the evidence was returned to the crime lab.
+      Meanwhile, around the time of the killing, defendant
+became romantically involved with Therresa Mooney. The two
+broke up at one point but had resumed dating when defendant
+was sentenced to prison in 1996 for other crimes. Mooney
+visited defendant in prison regularly. Defendant’s mother,
+
+
+                                  3
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+Bruni Loprieato, had previously been estranged from defendant
+but often joined Mooney to visit defendant.
+      In 1999, three years into his prison sentence and six years
+after Burger’s death, defendant was transferred to a low
+security fire camp. By August of that year, defendant and
+Mooney were engaged to be married and they expected,
+incorrectly, that he would be released within six months.
+Mooney was therefore incredulous when defendant asked her to
+help him escape.
+      Mooney testified at trial about her conversations with
+defendant. She stated that defendant explained to her that
+prison authorities soon would be taking a DNA sample from
+him, which might implicate him in a prior crime. Defendant told
+Mooney that he and a companion were burglarizing a home
+when the homeowner awoke and confronted them. Defendant
+claimed the homeowner cut him on the forearm with a butcher
+knife as defendant attempted to flee, and that his companion
+then killed the homeowner.
+      Defendant feared he would be held responsible for the
+homeowner’s death, and asked Mooney to bring a car and to
+meet him outside the fire camp between bed counts. He
+explained that he wanted Mooney to give him a ride to a bus
+station or airport, and that he might flee to live with a relative
+in Germany. Mooney refused defendant’s request to help him
+escape, saying that he should not run from the situation because
+“if that’s really the way it happened,” defendant would not be
+charged.
+       Mooney testified that she visited defendant about one
+week later, this time accompanied by Loprieato. On the drive to
+the fire camp, Mooney told Loprieato about defendant’s request
+
+
+                                  4
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+for help to escape. Both women were angry and hurt, and they
+made clear to defendant they would not assist him in escaping.
+At one point during the visit, Loprieato went to the bathroom
+and Mooney told defendant that she loved him and was “there
+for [him],” but that she was skeptical of his story. Mooney asked
+defendant whether he had killed someone. Defendant said that
+he had. Prompted by a “weird feeling,” Mooney asked whether
+the victim was a woman and whether he had raped her.
+Defendant again said yes. He then told Mooney that the victim’s
+name was “Cindy Burger” and that the killing happened on
+August 4 or 5, 1993. He suggested that Mooney search the local
+newspapers for coverage of Burger’s death, saying that he had
+set a fire during the incident and that it was covered in the news.
+Loprieato then returned, and the group resumed talking about
+defendant’s plan to escape. Neither Mooney nor defendant
+mentioned Burger to Loprieato at that time.
+      Mooney stated that when she left the fire camp, she and
+Loprieato agreed not to tell anyone about defendant’s plan to
+escape. Mooney did not tell law enforcement about the plan or
+defendant’s admission regarding Burger’s death because she
+was afraid and “wanted it to all be not true.” She eventually
+went to a library and located a newspaper article about the
+killing. She brought the article with her when she visited
+defendant the following weekend. Mooney gave defendant the
+article to read. At one point, he stopped reading and said the
+article was wrong in stating that Burger had been wearing a
+nightshirt. Mooney read the rest of the article to defendant and
+demanded that he tell her what happened. Defendant agreed
+and answered Mooney’s questions regarding the circumstances
+surrounding the rape and killing.
+
+
+
+                                  5
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Mooney also testified that defendant told her that he had
+used a lot of methamphetamine earlier in the day and stumbled
+upon Burger’s open garage between 2:30 and 3:00 a.m. He said
+he entered the garage intending to steal something, but then
+found a key that unlocked the door separating the garage from
+the residence.2 He went inside, looked around the first floor,
+went upstairs, found Burger nude on her bed, and raped her.
+When Mooney asked defendant if Burger fought back, he said,
+“No, actually she seemed to like it.” Defendant told Mooney that
+at one point Burger scratched either his face or his chest.
+Mooney recalled that sometime around August 1993 she had
+seen marks on defendant’s face.
+      Defendant answered more of Mooney’s questions about
+the killing. Defendant explained that he had smothered Burger
+with a pillow and that he killed her because he was “too
+identifiable.” He said that he placed Burger’s body in the
+downstairs bathtub and filled it with water, bleach, and other
+household chemicals to “kill any DNA.” Defendant told Mooney
+that, fearing he could be identified by DNA from hair or sperm
+on Burger’s bed, he went back upstairs and used a candle to light
+the bed on fire. He also explained that before leaving the scene,
+he took some items to make it appear that Burger’s residence
+had been burglarized.
+     After defendant had answered Mooney’s questions, she
+mentioned that her friend knew a City of Ventura Police
+Department employee who, for a fee, could check to determine
+
+
+2
+      Mooney admitted at trial she had testified during the
+preliminary hearing that defendant told her he did not have a
+plan concerning what he was going to do when he entered
+Burger’s home.
+
+
+                                  6
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+whether any DNA evidence had been recovered from the crime
+scene. She asked defendant not to attempt an escape until she
+could obtain that information. Defendant agreed, telling
+Mooney to ask Loprieato for the money. Mooney later gave her
+friend $100 for the information; the friend reported that the
+DNA from the case “wasn’t legible,” and Mooney communicated
+the “good news” to defendant by telephone. Defendant then
+asked Mooney to tell Loprieato about the crime.
+       Mooney further testified that during a subsequent drive to
+visit defendant she disclosed to Loprieato what defendant had
+told her about killing Burger. When Loprieato arrived at the
+fire camp, she tearfully asked defendant whether what Mooney
+told her was true. Defendant said, “Yes, mama, it is.” Mooney
+and Loprieato decided they would not tell anyone about the
+crimes.
+      Loprieato also testified at trial. She admitted that
+defendant had asked for her help escaping from the fire camp
+but asserted that she repeatedly refused to help him. She
+denied that defendant told her he wanted to escape because of
+any concern regarding DNA, but she admitted he said that
+something he had done in the past was going to “backfire” on
+him. Loprieato also denied that defendant ever confessed to her
+that he had raped and killed Burger. She did, however, admit
+that Mooney had told her about defendant’s confession and the
+possible DNA evidence during one trip to visit defendant, that
+she believed Mooney, and that she had no reason to think
+Mooney would lie about the confession. When Loprieato
+approached defendant at the fire camp that day, she said to
+defendant, “[W]hat have you done?” He proceeded to cry, put
+his head down, and walk away.
+
+
+
+                                  7
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Loprieato agreed that she and Mooney made a pact not to
+tell anyone about defendant’s confession. Loprieato testified
+that although defendant never personally told her he had
+committed the crime, he also never told her he had not killed
+Burger. Similarly, Mooney testified that defendant continued
+to write to her after he was implicated in Burger’s death and
+leading up to his capital trial, but that he never denied killing
+Burger.
+      In August 2000, one year after defendant had disclosed to
+Mooney the details of Burger’s rape and killing and several
+months before defendant’s expected release from the fire camp,
+Mooney told her daughter about defendant’s confession.
+Mooney’s daughter told Mooney to call the police, or she
+(Mooney’s daughter) would. That day, Mooney placed an
+anonymous call to the City of Ventura Police Department to
+report that she had information regarding Burger’s death.
+      In October 2000, investigators contacted Loprieato and
+asked her about Burger’s death. Loprieato denied knowing
+anything about the incident. After she spoke with investigators,
+Loprieato met with Mooney at a restaurant. Unbeknownst to
+Loprieato, Mooney was wearing a recording device. Loprieato
+told Mooney that she was “playing dumb” when she spoke with
+investigators, and that she would deny knowing anything about
+Burger’s death. She reported that she had talked to defendant
+about Burger’s death, saying, “I said to [defendant] what in the
+world possibly could have happened to him to murder
+somebody?” And she told Mooney that telling the police
+anything “is not helping you and it’s not helping him. And you
+know something, I think to myself fuck the system. Do you
+know how many people who have money would have gotten
+away with it?” At trial, Loprieato admitted to making those
+
+                                  8
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+statements, although she denied talking with defendant directly
+about the killing, saying her statement was taken out of context.
+She explained, too, that she was upset, trying to comfort a
+“hysterical” Mooney, and attempting to protect her son.
+      Later in October 2000, Loprieato became extremely
+distraught about Burger’s death. She talked with a family
+friend, Alan Bice, about whether to be truthful with law
+enforcement about what she knew. Bice told Loprieato she
+should be honest with investigators. Bice also testified that
+Loprieato told him that defendant had admitted to her that he
+had killed a woman.3        Six days later, Bice spoke with
+investigators regarding his conversation with Loprieato. Later
+that day, Bice accompanied Loprieato to the prosecutor’s office
+where she talked with investigators and related what she knew.
+     About one month later, investigators obtained blood
+samples from defendant. The blood samples were sent to
+Cellmark, where they were compared with the DNA collected
+from sperm found during Burger’s autopsy. DNA testing
+showed the likelihood that the sperm collected during Burger’s
+autopsy came from a Caucasian other than defendant was one
+in 24 times 10 to the 18th power. In other words, the DNA
+evidence showed a match.
+
+
+
+
+3
+      On cross-examination, defense counsel pointed to
+statements Bice made to law enforcement in an attempt to cast
+doubt on Bice’s testimony. Bice acknowledged that some of his
+prior statements were ambiguous but maintained at trial that
+Loprieato had told him that defendant personally confessed to
+her.
+
+
+                                  9
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+         2. Defense evidence
+     The defense presented no affirmative evidence at the guilt
+phase of trial.
+     B. Penalty Phase Evidence
+         1. Prosecution’s case in aggravation
+      The prosecution’s case in aggravation included testimony
+and documentary evidence regarding defendant’s prior
+convictions and various uncharged acts of violence or threats of
+violence. In addition, three of Burger’s family members
+described how Burger’s death had affected them.
+            a. Prior convictions
+      The jury learned that defendant had been convicted of
+residential burglary in September 1992, that he was initially
+sentenced to probation but eventually sent to prison in
+December 1992, and that he was released on parole in June
+1993.
+      The jury also learned that in 1996, three years after the
+killing, defendant pleaded guilty to six charges, including
+second degree burglary, felony battery resulting in serious
+bodily injury to a police officer, being under the influence of a
+controlled substance, and other misdemeanor offenses. These
+convictions stemmed from an incident that occurred on the
+Ventura campus of California State University, Northridge.
+Two officers, Thomas Avery and Alex Marquez, discovered
+defendant using tools to break into a vending machine coin box
+in the student lounge. According to the officers, they drew their
+guns and ordered defendant to put down his tools and lie on the
+floor. Defendant dropped the tools, but then ran at full speed
+
+
+
+
+                                  10
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+toward the officers and was able to slip between them.4 The
+officers chased defendant down several hallways and a flight of
+stairs, cornering him inside an underground parking garage.
+During the pursuit, the officers unsuccessfully used pepper
+spray and baton strikes to attempt to stop defendant. At one
+point they held defendant down on the ground of the garage with
+both officers on top of him. Defendant managed to hoist himself
+up into a squatting position and move toward a door leading
+outside the garage. Defendant opened the door, and he and the
+officers tumbled onto the ground outside. Defendant continued
+to struggle to get away while Avery and Marquez held him
+down, striking him each time he attempted to get up. Defendant
+was subdued and handcuffed only after five additional officers
+arrived and assisted in the arrest. The parties stipulated at trial
+that a sample of defendant’s blood that was taken on the day of
+the incident tested positive for methamphetamine.
+       Officer Marquez testified that several times during the
+incident defendant reached for or grabbed Marquez’s holstered
+sidearm, leading Marquez to fear for his life. Officer Avery
+testified that he never saw defendant reach for Marquez’s
+firearm; he acknowledged that there were times when Officer
+Marquez and defendant were out of his sight, and that he would
+have been watching for defendant to reach for the firearm.
+Officer Marquez, for his part, stated there was “no doubt in [his]
+mind” that defendant was reaching for his firearm. He
+described the incident as “the most violent confrontation I had
+in my entire life.” As a result of the injuries he suffered during
+
+
+4
+      Officer Marquez testified that defendant did not drop the
+tools until he (Officer Marquez) struck him in the chest with a
+police baton.
+
+
+                                  11
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+the arrest, Officer Marquez had to undergo eight surgeries on
+his knees and one on his back. Officer Avery said he had never
+been involved in a struggle that was so violent; he dislocated a
+finger while punching defendant to keep him subdued.
+            b. Uncharged crimes of violence
+      The prosecutor called several witnesses to testify about
+prior uncharged incidents involving violence by defendant.
+      Michael Hecht testified that he met defendant in April or
+May of 1989 when Hecht moved from Las Vegas to Redlands,
+California. Hecht’s mother was dating defendant’s father at the
+time, and Hecht and defendant worked at defendant’s father’s
+refrigeration repair business; Hecht slept on a couch at the
+business. That June, defendant’s father abruptly demanded
+Hecht leave. As Hecht was gathering his possessions, he asked
+his mother to leave with him because she and defendant’s father
+had been fighting. Defendant and his father later attacked
+Hecht and beat him, saying, “you’re dead.” Defendant grabbed
+Hecht around the neck with one arm and punched him
+repeatedly in the face with the other arm. At one point, after
+Hecht had been wrestled to the ground, defendant banged
+Hecht’s head against the pavement. Defendant’s father told
+defendant that he was going to retrieve a firearm. Hecht
+responded by slashing at his attackers with a pocketknife and
+eventually was able to get away. He suffered a dislocated jaw,
+a bloody nose, a concussion, and rib injuries.
+
+
+
+
+                                  12
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+       Defendant’s stepfather, Nick Loprieato,5 testified about
+another incident that occurred in early 1991. He stated that he
+was upstairs in the family home when he overheard defendant
+and defendant’s mother arguing over defendant’s use of the
+family’s washing machine. When Mr. Loprieato told defendant
+that he “ought to respect [his] mother,” defendant grabbed him,
+placed him in a chokehold, and said, “I could hurt you if I want
+to.” Defendant’s mother called the police. A police officer
+testified that Mr. Loprieato reported that defendant had
+threatened to kill him, although at trial Mr. Loprieato said he
+did not remember such a threat.
+       Therresa Mooney also testified about several incidents
+involving defendant’s acts of violence. One incident occurred
+around September 1993 at the beginning of their relationship
+when defendant became angry with Mooney for socializing with
+a male friend at a beach party. According to Mooney, she and
+defendant argued, and defendant and the man got into a scuffle.
+When defendant went to his car, Mooney’s friend picked up a
+metal pipe that was part of a trampoline to defend himself.
+Defendant then drove at Mooney’s friend, who “kind of hit the
+front of the car . . . [and] jumped and rolled over the side of the
+car . . . .” Mooney’s daughter gave a similar account of the
+incident.
+      Mooney also described defendant’s assaults on her. On
+one occasion in late 1994, defendant and Mooney were in a car
+accident together and Mooney was in intensive care for two
+weeks. After she was released from the hospital, she and
+
+5
+     To avoid confusion, this opinion refers to Nick Loprieato
+as “Mr. Loprieato” and refers to defendant’s mother, Bruni
+Loprieato, as “Loprieato.”
+
+
+                                  13
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+defendant argued over his drug use and he kicked or kneed her
+in the buttocks. During a later argument over defendant’s drug
+use, he kneed Mooney in the buttocks, hitting her tailbone. In
+an incident that occurred after Mooney had broken off the
+relationship due to defendant’s continued drug use, defendant
+ingested methamphetamine, took Mooney’s house and car keys,
+refused to return them to her, and twisted her hand backward
+when she confronted him. Mooney’s daughter called the police.
+Mooney also testified that on one occasion when defendant was
+trying to convince Mooney not to end the relationship, he
+threatened to smash her television. She was able to convince
+him to leave her house, and she closed and locked the door.
+Defendant then broke through the door, knocking her down in
+the process.
+       Mooney also testified that in early 1995, after she and
+defendant separated, she went on a date with a man named
+Darryl Allen. When she returned home with Allen after the
+date, defendant rushed at the car yelling at Allen and pulled
+Allen from the vehicle. Allen retrieved a sledgehammer handle
+from the back of his car, and he and defendant struggled.
+Defendant put Allen in a chokehold and was able to take control
+of the sledgehammer handle. Allen got back into his car to leave,
+and defendant broke the car windshield with the handle.
+Mooney’s daughter corroborated this account, including that
+defendant broke Allen’s windshield.         Allen testified and
+provided a slightly different account of the events. Allen stated
+that he drove to Mooney’s house alone and saw defendant and
+Mooney arguing in the street. Allen exited his car, and
+defendant started yelling at him, ripped Allen’s shirt from his
+body, and punched Allen in the head. Allen then retrieved the
+sledgehammer handle from his car, and defendant put him in a
+
+
+                                  14
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+chokehold. Allen could not say how his car windshield had been
+damaged; he believed it may have occurred when he was
+retrieving the sledgehammer handle and defendant grabbed
+him.
+      Richard Bowens described an incident from April 1995 in
+which defendant became angry with Bowens’ girlfriend
+concerning her failure to repay a $5 debt. Defendant grabbed
+her shirt collar and shook her, prompting the woman to call out
+for help. Bowens came between defendant and the woman and
+told defendant that she would repay the debt when she could.
+As defendant walked away, however, he turned and threw a
+punch at Bowens that “grazed” his cheek. Police responded but
+no charges were filed; Bowens said that he did not pursue the
+matter after defendant begged him not to.
+             c. Victim impact evidence
+      The prosecution called Burger’s father, mother, and older
+sister to testify regarding the effect Burger’s death had on them
+individually and as a family. Burger’s father, Had, testified that
+his daughter’s death left him with a feeling of emptiness.
+Burger’s mother, Virgie, described the pain she felt after
+learning of the killing. And Burger’s sister, Sandra, described
+the bond she had with her sister and her reaction upon hearing
+of her sister’s death.
+         2. Defense case in mitigation
+      The defense case in mitigation included testimony from
+defendant’s family members, expert witnesses, and lay
+witnesses. Defendant’s family members described defendant’s
+upbringing in an environment of drug abuse and domestic
+violence, the mental abuse inflicted on him and his siblings by
+his father, and defendant’s use of drugs beginning at an early
+
+
+                                  15
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+age. Other witnesses testified regarding defendant’s heavy drug
+use and addiction to methamphetamine during his adult years
+and the behaviors he exhibited in connection with that
+addiction. The defense also presented testimony from an expert
+in addictive medicine and expert testimony from a psychologist
+regarding how an individual can be affected by witnessing and
+experiencing domestic violence as a child. Finally, the defense
+called several lay witnesses and a penology expert to testify
+regarding defendant’s prospects for a successful adjustment to
+life in prison without the possibility of parole.
+             a. Defendant’s upbringing and family background
+      Defendant’s half sister and brother described growing up
+in a household beset by parental neglect, drug abuse, and
+frightening domestic violence perpetrated by defendant’s father.
+      Defendant’s mother was the family’s primary income
+earner and she spent long hours working as a hairdresser. From
+a young age, defendant and his brother were generally left in
+the care of their sister, who was five years older than defendant.
+The children were often left alone at night.
+      Defendant’s father punished the children frequently, and
+all three children were punished for the digressions of one. His
+methods included beating them with a belt and forcing them to
+kneel on the kitchen floor for lengthy periods of time.
+Defendant’s father would belittle the children, often in an
+interrogation-like setting that lasted for hours. According to
+defendant’s sister, it was common practice for her and her
+brothers to be awakened in the middle of the night for
+punishment and then to be forced to stay awake. She described
+their existence as akin to living in “a hostage situation” with a
+
+
+
+
+                                  16
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+“sort of terrorist” because they had no idea what was going to
+anger their father.
+       Defendant’s siblings testified that defendant’s father also
+forced the three children to witness the physical abuse he
+inflicted on their mother. For example, in the children’s
+presence and while in a drunken rage, defendant’s father
+pummeled their mother with his fists after she had mentioned
+the possibility of a separation. Defendant’s sister remembered
+another incident that occurred after their mother had fled the
+home. After their mother had driven off, their father placed the
+three children in his car to hunt her down, telling the terrified
+children he would kill their mother when he found her.
+Defendant’s brother described another occasion after their
+mother had fled the house with their sister. Their father
+grabbed his shotgun and put defendant’s brother and defendant
+in the car, telling them that something bad would happen to the
+boys if he could not find their mother.
+      Defendant’s siblings further testified that their father
+used illegal drugs in the home, and would ingest “speed” and
+cocaine in front of them. With his ever-increasing drug use,
+their father became more paranoid and began threatening the
+children with the firearms he kept at home.
+      According to defendant’s brother, beginning when
+defendant was nine or 10 years old, he and defendant would
+experiment with their father’s drugs, including “speed” and
+marijuana. Around that time, they also started drinking hard
+alcohol and beer. Defendant’s sister recalled that the drugs
+made defendant agitated, and that he and his brother would hit
+and burn each other with cigarettes when they were under the
+influence.
+
+
+                                  17
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Defendant’s sister also testified that her father had
+sexually molested her beginning when she was eight or nine
+years old. To avoid him, she would often sleep in her brothers’
+bedroom, sometimes under the bottom bunk bed. She kept the
+molestations a secret. Defendant’s brother recalled that his
+sister would occasionally sleep in the room he shared with
+defendant. He remembered that on one of these nights their
+father came into the room, drunk, around 2:00 or 3:00 in the
+morning and lay down next to their sister. When their father
+put his arm around her and said he loved her, defendant’s
+brother stirred loudly, as if he had just woken up, and then got
+out of bed to walk to the bathroom. As he walked out, he
+overheard his sister say to their father something like, “It’s not
+right.”
+      When defendant’s sister was about 17 years old, she heard
+defendant’s father trying to enter the locked door to her
+bedroom. When she saw that he had then gone outside the
+house to try to break into her room through the window, she fled
+to a bathroom and locked the door. Her father, who was clad
+only in his underwear, began banging on the bathroom door
+yelling for her to come out. The commotion brought defendant
+and his mother and brother to the scene, and they observed
+defendant’s father punch a hole through the bathroom door to
+get inside. Defendant’s sister cowered in the corner, crying and
+shaking. Defendant’s mother testified that when she angrily
+asked her husband what was going on, he threatened her.
+      A short time after that incident, defendant’s sister
+permanently left the home. Two or three weeks later, after
+defendant’s father threatened to kill defendant’s mother if she
+did not bring defendant’s sister back, defendant’s mother moved
+out of the house and filed for divorce.
+
+                                  18
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Defendant and his brother were 12 and 14 years old,
+respectively, when their mother and sister departed. The boys
+were left mostly in the care of their father, who provided them
+with no structure, control, or stability. Defendant and his
+brother moved from place to place with their father. During this
+time, defendant used cocaine, methamphetamine, and other
+drugs, sometimes with his father. By then, defendant had
+stopped going to school and would often hang around at an
+arcade.
+      After defendant’s parents divorced, defendant’s father
+became romantically involved with Jacqueline White.
+Defendant and his father lived with White when defendant was
+about 15 years old. She testified that during the time defendant
+and his brother resided in her home, defendant was quiet and
+considerate, and very nurturing to her young son. White was
+distressed by the abuse and punishment that defendant’s father
+imposed on his sons, and she eventually became the target of his
+wrath as well. On one occasion after defendant’s father and his
+sons had moved to a different residence, they came to stay with
+White for the weekend. During the evening, defendant’s father
+became enraged and pushed White up against a wall.
+Defendant stepped in, pulled his father off of White, and
+managed to get him to stop the attack. White described another
+similar incident when defendant stepped in to protect his
+brother from their father’s abuse.
+      Defendant’s paternal aunt testified that her father
+(defendant’s paternal grandfather) was abusive, controlling,
+and unpredictable, and that she, defendant’s father, and their
+mother had been subjected to the same type of abuse that
+defendant’s father later meted out to his own wife and children.
+
+
+
+                                  19
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+            b. Defendant’s drug use as an adult
+      Defendant’s mother testified that when defendant was
+about 18 years old he came to live with her and her new
+husband. She asked defendant to leave, however, after his drug
+use became more frequent and he had refused to attend the
+airline mechanics school in which they had enrolled him.
+      Kenneth Ross testified that he first met defendant when
+defendant was in his early twenties. At that time, Ross found
+defendant to be a helpful and humble person who enjoyed down-
+to-earth pleasures like walking on the beach and taking their
+dogs out to play together. Several years later, Ross started
+supplying defendant with methamphetamine. For the next
+three or four years, they regularly used the drug together.
+       Ross explained that when he (Ross) was under the
+influence he became a “totally different” person, doing things he
+would never think of doing while sober. Ross also described the
+changes he noticed in defendant’s personality after regular use
+of methamphetamine. Specifically, Ross found defendant was
+less likely to be helpful or generous. Instead, defendant grew
+cold and self-absorbed. And when the effects of the drug were
+wearing off, defendant could be intimidating and even
+aggressive. Ross related that on one occasion, defendant
+knocked him to the ground.
+     Defendant’s friend, Chad Hoffman, described similar
+observations.      Hoffman       testified   that   he    used
+methamphetamine regularly with defendant, and that
+defendant would often become quiet, grumpy, and even
+aggressive when the effects of the drug were wearing off.
+      Other evidence regarding defendant’s drug use was
+provided through the testimony of the probation officer who
+
+
+                                  20
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+prepared a presentencing report in connection with defendant’s
+1996 guilty plea. During the interview with the officer,
+defendant blamed the incident on his use of methamphetamine.
+In summarizing his lengthy history of drug addiction and abuse
+for the officer, defendant indicated that beginning at 15 years
+old he snorted cocaine on a monthly basis, and that between the
+ages of 22 and 24 his use of this drug increased significantly
+until he was incarcerated. Defendant also reported that
+between the ages of 15 and 20 he smoked marijuana daily. And,
+with regard to his use of methamphetamine, he told the officer
+that in his early twenties he snorted or smoked one-quarter
+gram of methamphetamine every day.
+            c. Defense expert testimony
+                i. Drug addiction
+      The defense called as a mitigation witness an addiction
+medicine expert, Alex Stalcup, M.D., who provided the jury with
+detailed information about drug addiction and its effects. He
+explained that a “drug of abuse” is a chemical that
+overstimulates the neurotransmitters of the brain’s pleasure
+centers. Such overstimulation changes the brain’s physiology
+by damaging the pleasure systems, which in turn interferes with
+the drug addict’s ability to experience pleasure without the use
+of drugs. For a drug addict, the overstimulation of the pleasure
+center’s neurotransmitters leads to the need for a higher dose of
+the drug to achieve the same high, and with that need comes the
+inability to control or stop their drug use. And because drug
+addiction renders an individual incapable of experiencing
+pleasure without drugs, he or she avoids sobriety, which
+becomes a state of emptiness and boredom that can become
+intolerable.
+
+
+
+                                  21
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Dr. Stalcup further explained that factors such as genetic
+makeup and life experiences can predispose an individual to
+drug addiction. For example, when children use drugs during a
+tumultuous time the drugs not only make them feel good but
+also allow them to escape the turmoil. The social context of a
+child’s first use of drugs is also significant to predisposition
+because a home or peer group environment that supports drug
+use enables the child to obtain enough drugs to damage his or
+her brain’s ability to experience pleasure.
+      Dr. Stalcup also discussed the factors that can lead a
+susceptible person to become an addict.             According to
+Dr. Stalcup, “early onset use” of a high potency drug before 15
+years old, when the brain’s pleasure centers are still developing,
+presents a dangerous factor for progression toward addiction.
+Another significant factor, he explained, is childhood trauma, be
+it physiological, physical, or sexual.
+       With regard to the use of methamphetamine specifically,
+Dr. Stalcup characterized it as a “much too powerful” drug that
+if used over any extended period of time, particularly if smoked
+or injected, will demonstrably injure the user’s pleasure centers.
+According to Dr. Stalcup, studies have shown that some
+methamphetamine users exhibit aggressive behavior because
+the drug simulates the fight-or-flight response caused by
+adrenaline.        A methamphetamine user may become
+apprehensive and hypervigilant, seeing a threat that does not
+exist. Dr. Stalcup also opined that methamphetamine users do
+not exercise free will but that, when intoxicated, they do what
+the drug tells them to do. He further asserted that, in the case
+of someone who committed a rape-murder, the drug “created
+conditions that [a rape-murder] would happen.”
+
+
+
+                                  22
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Based on his review of the transcripts of the guilt phase
+and interviews with defendant’s family members, Dr. Stalcup
+believed that defendant was addicted to methamphetamine and
+probably addicted to marijuana at the time of his 1996 arrest.
+In explaining that opinion, Dr. Stalcup reviewed the various risk
+factors shown by this evidence. For example, he found that
+defendant’s family history of drug use showed he had a “high
+genetic load” for addiction. He also observed that defendant was
+raised in a household where he, his siblings, and his mother
+suffered psychological abuse and brutal physical assaults. In
+Dr. Stalcup’s view, incidents such as those described by
+defendant’s family members are associated with feelings of
+hopelessness, which further served to predispose defendant to
+addiction. Dr. Stalcup also supported his opinion with evidence
+that defendant snorted speed when he was 10 or 11 years old, at
+a time when his brain function was not fully matured. This
+suggested to Dr. Stalcup that the effect of that drug would be
+much more potent than had it been ingested when defendant
+was older.
+      Dr. Stalcup also found significance in the prevalence and
+casualness of drug use in the household, which further enabled
+defendant’s ingestion of drugs. Dr. Stalcup believed that the
+description of the events that unfolded in 1996, when he fought
+back violently against the officers who were attempting to
+apprehend him, was a classic example of the methamphetamine
+fight-or-flight phenomenon. Finally, in Dr. Stalcup’s view, the
+testimony by defendant’s friends regarding defendant’s dark
+mood when coming off the effects of methamphetamine was like
+that of the addict who believes the way he or she feels without
+the drug to be intolerable.
+
+
+
+                                  23
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+                ii. Impact of child abuse
+      The defense also called Bruce Gladstone, Ph.D., to testify
+regarding the destructive behaviors that can be set in motion as
+a result of growing up in an abusive environment. According to
+Dr. Gladstone, the formative years of childhood are important
+to the development of an individual’s brain and adult
+personality. Child abuse can result in dysfunction later in life,
+including cognitive and psychiatric problems.
+       Dr. Gladstone characterized as child abuse many of the
+incidents that occurred during defendant’s upbringing, such as
+witnessing the repeated beating of a parent, being left alone and
+unsupervised, being beaten with a belt for a minor infraction,
+and being exposed to drugs left around the house in accessible
+places. As Dr. Gladstone explained, without a mentor or
+positive role model outside the household, many children
+growing up in an abusive environment tend to model the
+behaviors that they see in their adult caretakers. They can
+develop low self-esteem, poor impulse control, and an increased
+likelihood for drug addiction as a result of the abuse. The more
+severe the abuse, the more severe the damage to the child’s
+development.
+                iii. Prospects for a positive adjustment to life
+                     in prison
+      The defense called Anthony Casas, a former associate
+warden for the California Department of Corrections and
+Rehabilitation, as a penology expert to offer his opinion
+regarding whether defendant would make a positive adjustment
+if sentenced to life without the possibility of parole. According
+to Casas, the record of an individual’s behavior in prison prior
+to a capital offense is the best indicator of that person’s future
+
+
+
+                                  24
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+behavior in prison. Casas opined that neither defendant’s
+conviction for Burger’s rape and murder nor his asking for help
+to escape from fire camp would factor into the determination
+concerning whether defendant would adjust well in prison.
+       After reviewing defendant’s prison and jail records,
+including his work and disciplinary history, Casas expressed the
+view that defendant would serve out a life sentence as an
+obedient and peaceful inmate. He found it significant that
+defendant worked and completed a vocational training program
+while housed in a high security prison after his 1996 convictions.
+Only one year later, defendant’s behavior allowed him to be
+transferred to the Sierra Conservation Center to train as an
+inmate firefighter. On his successful completion of that
+program, Casas explained, defendant was assigned to the Mount
+Gleason Fire Camp, which meant he was being housed in a
+facility with the least secure level of custody. As Casas
+described it, individuals selected for the fire camps “are
+considered the A students of the prison population.” As for
+defendant’s rules violations at the fire camp and while in
+custody in county jail awaiting trial in this case, Casas noted
+that the records showed only minor infractions (including
+smoking cigarettes and being out of bounds), and that none
+involved violence against staff or other inmates. Casas did note
+one incident in 1998 when defendant caused a large boulder to
+fall down a hill, leading the rest of the crew to take cover to avoid
+being hit. Casas acknowledged that defendant was belligerent
+and disrespectful when counseled about the incident.
+     Finally, the defense presented four witnesses who
+supervised defendant when he worked at the fire camp.
+Corrections Lieutenant Gregory Sims described defendant as an
+“average” inmate, noting that defendant had earned prestigious
+
+                                   25
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+positions on the fire crew but was also counseled several times
+for incidents including smoking and failing to show up for count.
+Charles Lovers, the firefighter foreperson at the fire camp,
+testified that defendant earned the position of first sawyer on
+the fire crew. Although defendant was once relieved of his
+duties for not following Lovers’ directions and creating an
+unsafe environment during a fire, Lovers believed defendant
+worked well and had a good attitude. Fire Captain John Bailey
+supervised defendant during 24-hour shifts fighting a fire on
+Catalina Island. Bailey remembered defendant as having done
+an outstanding job and found that he demonstrated leadership
+abilities. Firefighter Michael Bernal also supervised inmates at
+the fire camp. He testified that defendant served as a tool man
+responsible for sharpening the firefighting tools. Bernal
+explained that the position was a coveted one at the fire camp
+that required the approval of all eight of the camp’s supervisors.
+         3. Prosecution rebuttal evidence
+      The prosecution called several rebuttal witnesses to
+challenge the defense case in mitigation. Former police officer
+Donald MacNeil, a narcotics expert, disagreed with
+Dr. Stalcup’s assertion that methamphetamine use renders a
+person unable to exercise free will. In MacNeil’s opinion,
+defendant’s ability to think through and execute actions to cover
+up the rape and murder, such as dismantling the smoke
+detectors, filling the bathtub with chemicals, and setting the bed
+on fire to destroy possible genetic material showed a
+“remarkable” presence of mind.
+      The prosecution also presented evidence to rebut
+testimony regarding defendant’s prospects for a positive
+adjustment to prison life. Dennis Fitzgerald, an investigator
+
+
+
+                                  26
+                       PEOPLE v. SCHULTZ
+            Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+with the Ventura County District Attorney’s Office, testified
+that defendant got a “white pride” tattoo while in custody
+sometime after his 1996 arrest. Fitzgerald also told the jury
+that while awaiting trial in the present case defendant
+corresponded with Justin Merriman, once a leader of the
+Ventura-based Skinhead Dogs white supremacist gang. One
+letter showed that defendant referred to Merriman as “homey,”
+ended his correspondence with the phrase “Long respects,” and
+asked Merriman to keep in touch. Letters from Merriman to
+defendant showed that Merriman referred to defendant as
+“homey,” “Big Mike,” and “brother.” Merriman ended his letters
+with the phrase, “With respect.”
+     C. The Parties’ Theories of the Case
+      The prosecution argued during both the guilt and penalty
+phases that defendant had intentionally targeted Burger’s
+home, knowing that she was “an attractive woman who lived
+alone.”
+      Defense counsel conceded during the guilt and penalty
+phase that defendant had raped and killed Burger. Counsel
+argued, however, that defendant did not target Burger
+specifically, but entered her home looking for items to steal
+when he saw her garage door open. Defense counsel asserted
+that defendant was under the influence of methamphetamine at
+the time of the crime and characterized the crime as “a random
+act committed by a man high on methamphetamine.” The
+prosecution contested that defendant was under the influence
+when the crime occurred, calling the killing “well planned,
+deliberate, [and] organized.”
+
+
+
+
+                                 27
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+                  II. JURY SELECTION ISSUES
+      Excusal of Two Prospective Jurors for Cause
+      Defendant asserts that the trial court excused two
+prospective jurors for cause in violation of the constitutional
+standards set forth in Witherspoon v. Illinois (1968) 391 U.S. 510
+(Witherspoon) and Wainwright v. Witt (1985) 469 U.S. 412
+(Witt). We find substantial evidence supporting the excusals
+and uphold the trial court’s rulings.
+         1. Governing principles
+      Under state and federal constitutional principles, a
+criminal defendant has the right to be tried by an impartial jury.
+(Cal. Const., art. I, § 16; U.S. Const., 6th & 14th Amends.) With
+regard to jury selection in a capital case, decisions by this court
+and the United States Supreme Court have made clear that
+prospective jurors’ personal opposition to the death penalty is
+not a sufficient basis on which to remove them from jury service
+in a capital case, “ ‘so long as they clearly state that they are
+willing to temporarily set aside their own beliefs in deference to
+the rule of law.’ ” (People v. Stewart (2004) 33 Cal.4th 425, 446,
+quoting Lockhart v. McCree (1986) 476 U.S. 162, 176; accord,
+People v. Covarrubias (2016) 1 Cal.5th 838, 863.) Excusal for
+cause is permissible, however, when the prospective juror’s
+beliefs regarding the death penalty “would ‘prevent or
+substantially impair the performance of his [or her] duties as a
+juror in accordance with [the court’s] instructions and [the
+juror’s] oath.’ ” (Witt, supra, 469 U.S. at p. 424, quoting Adams
+v. Texas (1980) 448 U.S. 38, 45 (Adams); see also People v. Ghent
+(1987) 43 Cal.3d 739, 767 [adopting the Witt standard].)
+     We review a trial court’s excusal of a prospective juror for
+cause to determine “ ‘if it is fairly supported by the record.’ ”
+
+
+                                  28
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+(People v. Thomas (2011) 51 Cal.4th 449, 462, quoting People v.
+Mayfield (1997) 14 Cal.4th 668, 727.) “ ‘In many cases, a
+prospective juror’s responses to questions on voir dire will be
+halting, equivocal, or even conflicting.’ ” (Ibid., quoting People
+v. Fudge (1994) 7 Cal.4th 1075, 1094.) In such cases, “the trial
+court’s findings as to the prospective juror’s state of mind are
+binding on appellate courts if supported by substantial
+evidence.” (People v. Duenas (2012) 55 Cal.4th 1, 10, citing
+People v. Wilson (2008) 44 Cal.4th 758, 779; see also Utrecht v.
+Brown (2007) 551 U.S. 1, 9 [deference to the trial court’s ruling
+on a challenge for cause is appropriate because that ruling is
+based in part on the court’s ability to assess the prospective
+juror’s demeanor].)
+         2. Jury selection process
+       The trial court began the jury selection process by
+providing several groups of prospective jurors a brief
+introduction to the case, including the nature of the charges, the
+structure of a capital trial, and general principles of law. After
+the court excused some of the prospective jurors for hardship, it
+directed those who remained to complete a 93-item
+questionnaire. About one week later, after the court and the
+parties had reviewed the questionnaires, approximately
+70 prospective jurors assembled in the courtroom. After the
+first 12 prospective jurors were seated in the jury box, the court
+described for the entire courtroom a juror’s duty in a capital
+case. For example, the court explained that a juror “must accept
+and follow the law as I state it to you regardless of whether you
+agree with the law.”
+      The court began voir dire questioning by asking each of
+the 12 individuals seated in the jury box whether he or she had
+
+
+
+                                  29
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+any reason to believe he or she could not be fair and impartial
+to both sides in the case. After excusing some of the 12
+prospective jurors for cause on its own motion and replacing
+them, the court permitted counsel for both sides to question the
+prospective jurors about their questionnaire responses. Neither
+party challenged any of the first group of prospective jurors for
+cause. The parties were then given the opportunity to exercise
+peremptory challenges.        The prosecutor exercised one
+peremptory challenge, and another prospective juror was called
+to the jury box. The court asked the newly seated prospective
+juror the same question it had asked the first group — whether
+she could think of any reason why she could not be a fair and
+impartial juror — and then permitted the parties to question the
+prospective juror, to challenge for cause, and to exercise
+peremptory challenges.
+      Jury selection proceeded in this manner for three days
+until 12 jurors and two alternates were accepted by the parties
+and empaneled. During this process, Prospective Juror A.A.
+was excused for cause at the prosecutor’s request, and
+Prospective Juror M.M. was excused for cause on the court’s own
+motion.
+         3. Discussion
+            a. Prospective Juror A.A.
+      Prospective Juror A.A.’s questionnaire answers indicated
+that his opinion regarding the death penalty vacillated between
+strong and mild opposition. For example, A.A. stated that his
+views on the death penalty were influenced by his Catholicism,
+and he characterized the death penalty as “unbiblical.” When
+asked to choose where he stood on a numerical scale of one to
+10, with 10 being strongly in favor of having a death penalty and
+
+
+                                  30
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+one being strongly opposed, A.A. circled the number three and
+commented that he was “kind of against but [not] sure what
+[I’m] gonna do.” But he also answered “Yes” to the question
+whether he had strong feelings on the use of capital punishment,
+and included a comment that he was “against [the] death
+penalty.” When asked what purpose, if any, he believed was
+served by the death penalty, he answered, “None.”
+       A.A.’s questionnaire answers also provided conflicting
+responses to questions regarding his ability to serve as a juror.
+When asked whether his religious or moral views would make it
+difficult for him to be a fair juror in a death penalty case, he
+checked “Yes.” He also checked “Yes” when asked whether his
+feelings against the death penalty were so strong that he would
+always vote against it. At the same time, however, A.A. marked
+“Yes” when asked whether he believed he could be open minded
+about the penalty and whether he was willing to weigh and
+consider all of the aggravating and mitigating evidence before
+deciding the appropriate punishment.
+       When A.A. was called to sit in the jury box, the court asked
+him, “Do you believe you can be a fair and impartial juror to both
+sides in the case?” A.A. responded that he was “pretty sure” he
+“could be fair in the first phase. But the second phase — you
+know, I kind of don’t believe in the death penalty.” During
+questioning by the prosecutor, A.A. elaborated on some of his
+questionnaire answers. He explained, for example, that he was
+against the death penalty but that “inside this court, you know,
+I will follow the instruction, you know,” and, “I think I can follow
+it, yeah.” When asked about his comment that he would always
+vote against the death penalty, he stated, “I think I could — you
+know, I could — as I said, I could follow the instruction, you
+know. I would — I will try, you know, to be fair, you know, and
+
+                                   31
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+follow the judge[’s] instructions. That’s all I can do, you know.”
+And when asked if he could actually sign a verdict form stating
+defendant should be put to death, A.A. responded that after
+considering other jurors’ views, “probably I could — I could do
+that, yes” and, “Yes, I could sign.” The prosecutor ended his
+questioning by asking A.A., “If you have a choice between life in
+prison and the death penalty as the two punishments, would you
+always pick life in prison?” A.A. replied, “Well, if I have a choice,
+you know, I would always pick life in prison.”
+       The prosecutor challenged A.A. for cause, and the trial
+court granted the challenge. Defense counsel objected, arguing
+that A.A. stated repeatedly that he could consider death as well
+as life without the possibility of parole. The court explained that
+A.A. indicated on his questionnaire and during questioning that,
+if given the choice, he would always choose life without the
+possibility of parole over the death penalty. In the court’s view,
+that answer, in combination with A.A.’s equivocal responses to
+the prosecutor’s questions and his deeply held religious
+convictions, rendered A.A. unable to consider imposition of the
+death penalty “as any possibility.” Defense counsel offered a
+different interpretation of A.A.’s statement, understanding A.A.
+to have meant that he would choose life without the possibility
+of parole if he had a choice, but that A.A. recognized that “he
+didn’t have a choice. He had to follow [the court’s] instructions.”
+The court rejected that interpretation of A.A.’s response,
+observing that the jurors would, in fact, have a choice: “The
+Court is not going to instruct the [jurors] they must vote for
+death or must vote for life without the possibility of parole.”
+     While a prospective juror may not be excused for cause
+based on “general objections” or “conscientious or religious
+scruples” against the death penalty (Witherspoon, supra,
+
+                                   32
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+391 U.S. at p. 522), excusal is proper when a prospective juror
+cannot “consider and decide the facts impartially and
+conscientiously apply the law as charged by the court” (Adams,
+supra, 448 U.S. at p. 45). When a prospective juror’s views
+“prevent or substantially impair the performance of his duties
+as a juror in accordance with his instructions and his oath” the
+juror may be excused for cause. (Ibid.)
+      The record supports the trial court’s determination that
+A.A.’s responses reflected a substantial impairment in his
+ability to perform his duties as a juror. His juror questionnaire
+responses revealed conflicting views on his ability to impose the
+death penalty. Although he stated that he was willing to
+consider all aggravating and mitigating evidence before
+deciding the appropriate punishment, he also stated that his
+feelings against the death penalty were so strong that he would
+always vote against it. During questioning by the court, A.A.
+stated he was “pretty sure” he could be “fair” during the guilt
+phase, “[b]ut the second phase — you know, I kind of don’t
+believe in the death penalty.” This response suggests that A.A.
+doubted his ability to be fair during the penalty phase; he felt he
+could be fair during the guilt phase but during the penalty phase
+his opposition to the death penalty could prevent him from being
+fair. An inability to be “fair” during the penalty phase would
+substantially impair the performance of A.A.’s duties as a juror.
+(See Adams, supra, 448 U.S. at p. 45.) This conclusion is further
+supported by A.A.’s cautious responses during additional
+questioning: “I think I can follow [instructions],” “I think I could
+[vote for the death penalty],” “I will try, you know, to be fair,”
+“probably I could [sign a death penalty verdict form].”
+     Defendant acknowledges that deference to a trial court’s
+determinations is owed when a prospective juror’s responses are
+
+                                   33
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+conflicting or equivocal. He asserts, however, that deference is
+not appropriate here because A.A. did not exhibit ambivalence
+or confusion, but instead explicitly stated he would set aside his
+personal beliefs and follow the court’s instructions. Defendant
+further asserts that A.A.’s responses indicated he distinguished
+between his personal views against the death penalty and his
+willingness to follow the court’s instructions.
+      The record shows, however, that A.A.’s responses were
+conflicting and equivocal. On the one hand, he stated that he
+believed he could be open minded about the appropriate penalty,
+that he would try to be fair and follow the judge’s instructions,
+and that he was willing to consider all of the aggravating and
+mitigating evidence. On the other hand, he stated that he
+believed the death penalty was “unbiblical,” that it served no
+purpose, and that his moral feelings against the death penalty
+were so strong that he would always vote against it. Any
+responses suggesting A.A. would follow the court’s instructions
+notwithstanding his opposition to the death penalty were
+contradicted when he indicated, several times, that he would
+always choose life without parole over the death penalty when
+given a choice between the two.
+      Given these conflicting statements, we defer to the trial
+court’s determination regarding A.A.’s state of mind (see People
+v. Duenas, supra, 55 Cal.4th at p. 10), and conclude the record
+supports the trial court’s ruling. The trial court was able to hear
+A.A.’s responses to the prosecutor’s questions and observe
+firsthand his demeanor and tone. The trial court did not err in
+concluding that A.A.’s assurances that he could follow the
+court’s instructions notwithstanding his personal beliefs were
+undermined by his conflicting responses, particularly his
+statement that, if given a choice, he would always vote for life
+
+                                  34
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+without the possibility of parole. Although defense counsel
+understood A.A. to have been speaking abstractly, the court was
+entitled to accept A.A.’s comment at face value particularly
+given, as the trial court noted, that A.A. would have a choice
+about whether to impose the death penalty or life without the
+possibility of parole. The court’s assessment of A.A.’s conflicting
+responses and its observation of A.A.’s demeanor and tone “could
+give rise to a definite impression that [A.A.’s] views on the death
+penalty would substantially impair the performance of his
+duties.” (See People v. Lewis and Oliver (2006) 39 Cal.4th 970,
+1007.) We therefore conclude the trial court did not err in
+excusing A.A. for cause.
+             b. Prospective Juror M.M.
+      Prospective Juror M.M. indicated in her questionnaire
+that she previously was opposed to capital punishment but that
+when she completed her questionnaire she believed that life in
+prison might be worse than death. When asked to pick a
+number from one to 10, with the number 10 being strongly in
+favor of having a death penalty and the number one being
+strongly opposed, M.M. circled the number five, commenting
+that the punishment “doesn’t really matter because, if convicted,
+the defendant’s life is over anyway.” She checked “No” when
+asked whether she had strong feelings on the subject of the use
+of capital punishment. She checked “Yes” when asked whether
+she believed she could be open minded about the penalty
+decision and would consider all of the aggravating and
+mitigating evidence before making that decision.
+      M.M.’s questionnaire responses suggested some confusion
+regarding the meaning of special circumstance murder.
+Specifically, when asked how she felt regarding the death
+
+
+
+                                  35
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+penalty as punishment for a murder with a special
+circumstance, M.M. wrote that it “depend[ed] on the special
+circumstance, if someone can be treated or helped with their
+‘special circumstance’ then I would not vote for the death
+penalty.”
+       During voir dire, the court asked M.M. whether she could
+think of any reason why she could not be a fair and impartial
+juror in the case. M.M. responded that she believed she could
+be fair during the guilt phase, “but when it came to penalty, I’ve
+been thinking about it for the last week and I know that I can’t
+put someone to death.” The court probed further, asking, “So
+you’re saying that regardless of the evidence and regardless of
+the weighing in aggravation and mitigation in the penalty
+phase, because of certain principles you hold, you could never
+impose the death penalty. Is that what you’re saying?” M.M.
+replied, “That’s what I’m saying, yes.” The court then excused
+M.M. for cause on its own motion, finding that she could not be
+a fair and impartial juror to both sides in the penalty phase of
+trial.6
+      The record fairly supports the court’s finding that M.M.’s
+views on the death penalty would impair the performance of her
+duties as a juror. M.M. indicated in her questionnaire that she
+was neutral on the subject of capital punishment. During voir
+dire questioning, however, she stated that her views had
+
+6
+      Defense counsel did not object to M.M.’s excusal.
+Defendant’s claim is not forfeited, however, because the trial
+occurred before our decision in People v. McKinnon (2011)
+52 Cal.4th 610 at page 636, holding that counsel would
+prospectively be required to make a timely objection to preserve
+a Witt issue for appeal. (See also People v. Buenrostro (2018)
+6 Cal.5th 367, 413.)
+
+
+                                  36
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+changed and that she knew she could not vote for death. In
+response to the court’s subsequent question, she confirmed that
+she could never vote for death, regardless of the evidence and
+the aggravating and mitigating factors. M.M.’s responses
+indicating she would be unable to impose death even in an
+appropriate case, when coupled with the court’s firsthand
+observations of M.M.’s demeanor and tone, “could give rise to a
+definite impression that [M.M.’s] views on the death penalty
+would substantially impair the performance of [her] duties.”
+(People v. Lewis and Oliver, supra, 39 Cal.4th at p. 1007.)
+      Defendant asserts the court’s questions to M.M. did not
+amount to an adequate and effective inquiry. He emphasizes
+that the court never asked M.M. directly whether her opposition
+to the death penalty meant she was not willing or able to set
+aside her views and to follow the court’s instructions to
+determine the appropriate punishment. And he asserts that
+additional questioning was especially important because it was
+apparent from M.M.’s responses to the juror questionnaire that
+she did not understand the meaning of aggravating and
+mitigating factors.
+       Before excusing a juror for cause, “ ‘the court must have
+sufficient information regarding the prospective juror’s state of
+mind to permit a reliable determination’ ” concerning whether
+the juror’s views on capital punishment would impair his or her
+performance as a juror in a capital case. (People v. Leon (2015)
+61 Cal.4th 569, 592, italics omitted (Leon), quoting People v.
+Stewart, supra, 33 Cal.4th at p. 445.) To ensure that its ruling
+excusing a prospective juror for cause is consistent with the
+constitutional standard, the court must make “ ‘a conscientious
+attempt to determine a prospective juror’s views . . . .’ ” (Leon,
+
+
+
+                                  37
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+supra, 61 Cal.4th at p. 592, quoting People v. Wilson, supra,
+44 Cal.4th at p. 779.)
+      In Leon, three prospective jurors stated in their juror
+questionnaires that they were opposed to the death penalty but
+could nonetheless set aside their personal feelings and follow the
+law. (Leon, supra, 61 Cal.4th at pp. 590–591.) During voir dire,
+the trial court asked those jurors questions related only to
+whether they were so opposed to the death penalty that they
+would automatically vote for life without the possibility of
+parole, but not whether they could set aside their personal
+feelings. (Id. at p. 591.) The court then excused those jurors for
+cause. (Ibid.) We held the court’s approach was problematic
+because when confronted with the jurors’ conflicting statements,
+“the court did not inquire about the jurors’ willingness to set
+aside their views and follow the law . . . .” (Id. at p. 593.)
+       The present case is distinguishable from Leon given
+M.M.’s clear and unambiguous statements during voir dire
+regarding her inability to impose the death penalty. Unlike the
+prospective jurors in Leon, who stated affirmatively that they
+could set aside their personal views, M.M. firmly and directly
+stated that her views on the death penalty had changed between
+when she completed the juror questionnaire (when she stated
+she was neutral on the subject of capital punishment) and when
+she was questioned on voir dire (when she stated that she could
+never put someone to death). The court presumably assessed
+those answers in light of M.M.’s tone and demeanor. Although
+M.M. indicated on her questionnaire that she did not have
+strong views regarding the death penalty and that she could
+follow the court’s instructions, her statements during voir dire
+effectively repudiated her questionnaire responses. And her
+statements during voir dire were unequivocal and
+
+                                  38
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+unambiguous. She stated, “I know that I can’t put someone to
+death.” The court immediately summarized and clarified her
+beliefs: “So you’re saying that regardless of the evidence and
+regardless of the weighing in aggravation and mitigation in the
+penalty phase, because of certain principles you hold, you could
+never impose the death penalty. Is that what you’re saying?”
+And M.M. replied, “That’s what I’m saying, yes.”
+        These responses were clear and unambiguous statements
+from which the trial court could properly conclude that M.M.
+would not be able to set aside her beliefs and follow the court’s
+instructions. (See People v. Perez (2018) 4 Cal.5th 421, 446
+[upholding removal of juror during trial, finding juror’s
+statement that, upon reflection, he “ ‘could not ever’ ” impose
+death penalty “ ‘no matter what the aggravating circumstance
+is and no matter what the mitigating circumstance evidence
+is,’ ” was a “clear indication that he would not be able to perform
+his duty of choosing whether a death sentence was
+appropriate”]; People v. Winbush (2017) 2 Cal.5th 402, 429–430
+[upholding removal of prospective juror when oral questioning
+revealed the prospective juror’s views would substantially
+impair her ability to return a death sentence, despite juror’s
+questionnaire responses expressing a willingness to consider the
+death penalty].) Defense counsel’s failure to object to M.M.’s
+removal did not forfeit the claim on appeal, as we have noted,
+but it does suggest that counsel “ ‘concurred in the assessment
+that the juror was excusable.’ ” (People v. Souza (2012)
+54 Cal.4th 90, 127, quoting People v. Cleveland (2004) 32 Cal.4th
+704, 735.)
+      Defendant further asserts that additional inquiry was
+required by the trial court because it was apparent from M.M.’s
+responses to the juror questionnaire that she did not understand
+
+                                  39
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+the meaning of aggravating and mitigating factors. We
+disagree. Although M.M.’s questionnaire response suggested
+she did not understand what was meant by a murder “with a
+special circumstance” when she completed the questionnaire, it
+does not shed light on her understanding of aggravating and
+mitigating factors at the time she told the court that regardless
+of such factors she could never impose the death penalty. As
+this court has observed, “When first called to the capital venire,
+prospective jurors frequently know little about death penalty
+law and procedure and have reflected little on their own
+attitudes.” (People v. Brasure (2008) 42 Cal.4th 1037, 1053.) We
+have also recognized, however, that the voir dire process, when
+conducted in the presence of the entire venire, can serve to
+educate a prospective juror and help clear up
+misunderstandings regarding his or her duty as a juror in a
+death penalty case. (Ibid.)
+      Contrary to defendant’s assertion, nothing in the record
+suggests that M.M., after having listened to the voir dire
+questioning of the other prospective jurors, would have
+misunderstood the meaning of aggravating and mitigating
+factors. When examining prospective jurors before M.M. was
+called into the jury box on the second full day of jury selection,
+the prosecutor and defense counsel repeatedly explained what
+was meant by aggravating and mitigating factors and the
+process by which those factors were weighed during the penalty
+determination. There is no indication, then, that M.M.’s clear
+statement that she could not impose the death penalty was the
+result of confusion or misunderstanding. To the contrary, the
+record supports the trial court’s determination that M.M.’s
+views regarding the death penalty would impair her ability to
+perform her duty as a juror in the case.
+
+
+                                  40
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+                   III. GUILT PHASE ISSUES
+     A. Admission of Recording of Answering Machine
+        Message from Burger
+      Defendant argues that the trial court erred prejudicially
+when it admitted the recording of a message that Burger left on
+the telephone answering machine of her dance class partner on
+the evening before Burger’s death. Although the relevance of
+the message was not particularly strong and the evidence
+arguably posed some risk of undue prejudice, any error in its
+admission is harmless in light of the overwhelming evidence of
+defendant’s guilt.
+         1. Background
+      In a trial brief submitted prior to jury selection, the
+prosecution asked the court to permit admission of a recording
+of a message that Burger had left for her dance class partner,
+Larry Rodriguez. In the message, left the evening before her
+death, Burger discussed plans for attending dance class the next
+day. The message, which is less than 30 seconds long, was as
+follows: “Hi Larry. This is Cindy. And it’s about 9:15 on
+Wednesday night. Give me a call back if you can, uh, or at work
+tomorrow. I’d like to meet a little early before class and go over
+the step from last week. Um, I just hope I don’t get too lost
+tomorrow. But anyway, I had a real good, uh, trip. Look forward
+to seein’ ya, and give me a call when you get a chance. Bye-bye.”
+     The prosecutor argued that Burger’s message was
+admissible for the nonhearsay purpose of showing that she
+planned to stay at home that night rather than to go out. Such
+evidence, he argued, precluded any inference that Burger met
+defendant while she was out and invited him back to her home.
+The prosecutor also argued that the message would corroborate
+
+
+                                  41
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+Mooney’s anticipated testimony that defendant told her he
+entered Burger’s open garage intending to steal something.
+      In a written response to the prosecutor’s trial brief, the
+defense opposed admission of the recording on the grounds that
+it was not relevant to any disputed issue, that the evidence did
+not satisfy the “state of mind” exception to the hearsay rule and
+was therefore inadmissible hearsay, and that the “voice from the
+grave” evidence was more prejudicial than probative. Counsel
+also argued that the recording amounted to improper victim
+impact evidence because there was little doubt that Rodriguez
+would become emotional while testifying regarding the tape’s
+authenticity.
+      At a hearing on the in limine motion, defense counsel
+again asserted the message was not relevant because whether
+Burger had stayed home was not an issue in dispute. The
+prosecutor asserted that the prosecution had the burden of
+proving defendant’s intent on entering the house, no matter
+what the defense intended to dispute. According to the
+prosecutor, the prosecution had “to show that this isn’t some
+pickup or date that went awry” and was therefore entitled to
+show Burger was planning to be home the evening she was
+killed. The trial court agreed with the prosecutor that the
+message was admissible for both a hearsay and a nonhearsay
+purpose, and found that the probative value of the evidence
+outweighed its prejudicial impact.
+      The message was played for the jury three times. First,
+during the prosecution’s opening statement at the guilt phase.
+Second, during the testimony of Rodriguez (the prosecution’s
+first witness in the guilt phase). And, finally, during the
+prosecution’s closing at the penalty phase. Defendant now
+
+
+                                  42
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+asserts the admission of the message during the guilt phase (but
+not during the penalty phase) was prejudicial error.
+         2. Discussion
+      Defendant argues that the answering machine message
+was not relevant, constituted inadmissible hearsay, created an
+“aura of sympathy and pathos” that harmed defendant’s case,
+and should have been excluded as unduly prejudicial. We
+conclude that, even assuming the trial court erred by refusing
+to exclude or limit the recording, any error was undoubtedly
+harmless under the standard articulated in either Chapman v.
+California (1967) 386 U.S. 18, 36 (Chapman) (error is prejudicial
+unless it appears beyond a reasonable doubt that the error did
+not contribute to the verdict) or People v. Watson (1956) 46
+Cal.2d 818, 836 (Watson) (error is prejudicial if it is reasonably
+probable the defendant would have obtained a more favorable
+result absent the error).
+      There was overwhelming evidence of defendant’s guilt.
+Defendant admitted to Mooney that he raped and killed Burger,
+and he asked for Mooney’s help escaping from custody to avoid
+detection. Mooney provided compelling testimony describing
+defendant’s detailed account of the crime. She described
+defendant’s statements about gaining entry into Burger’s home
+through an open garage, raping Burger in her bed, strangling
+her to death, placing her body in a bathtub, pouring bleach into
+the bathtub, and starting a fire in her bedroom. These are
+details Mooney could not have known about the crime absent
+defendant’s statements to her. He gave Mooney Burger’s name
+and directed her to a newspaper article by providing the date of
+the incident. This testimony was consistent with the crime
+scene and the assault on Burger.
+
+
+
+                                  43
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Loprieato, defendant’s mother, confirmed that Mooney
+had told her about the confession and said she had no reason to
+doubt what Mooney had related to her. Although Loprieato
+maintained that defendant never confessed to her personally,
+her surreptitiously recorded statements to Mooney stating she
+would lie to law enforcement about her knowledge would have
+drawn her credibility on that point into doubt. And Loprieato’s
+testimony on that point was further undermined by Bice, who
+told the jury that Loprieato spoke with him about whether to be
+candid with law enforcement. According to Bice, Loprieato
+admitted that defendant told Loprieato directly that he had
+killed a woman.
+      Finally, DNA from sperm collected during Burger’s
+autopsy matched a DNA profile developed from defendant’s
+blood.7 The DNA evidence directly linked defendant to Burger’s
+death. All of this evidence taken together establishes beyond a
+reasonable doubt that the jury would have reached the same
+verdict absent any error regarding Burger’s message to
+Rodriguez.
+      Defendant’s main assertion regarding prejudice is that the
+message tainted the jury’s determination regarding
+premeditation. He contends the message “led the [jurors] to feel
+that they knew Burger” and “made it difficult for them to focus
+dispassionately on the elements of murder and accept the
+defense that Schultz’s perceptions were so altered by
+
+
+7
+     As discussed below, although certain testimony regarding
+the DNA evidence may have been improperly admitted, the
+ultimate determination that the DNA profile developed from
+defendant’s blood matched the DNA from sperm found during
+Burger’s autopsy was properly admitted.
+
+
+                                  44
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+methamphetamine that it was impossible for him to
+premeditate this crime or that the crime was not premeditated
+but simply a random, albeit terrible, act.” There is no support
+for defendant’s position. Defendant’s statements to Mooney —
+that he killed Burger because he was afraid she would be able
+to identify him and that he attempted to destroy any DNA
+evidence by lighting a fire on her bed and placing Burger’s body
+in a bathtub with bleach — amply support a finding of
+premeditation. Further, the jury found true the felony-murder
+special-circumstance allegations that defendant murdered
+Burger during the commission of a rape and burglary.
+Defendant could be convicted of first degree murder regardless
+of the jury’s determination regarding premeditation. (See
+People v. Daveggio and Michaud (2018) 4 Cal.5th 790, 848.) As
+defense counsel put it during closing argument, “in a lot of ways
+[premeditation] doesn’t really matter because what happened is
+a felony murder any way you slice it.” Although the jury was
+exposed to a “voice from the grave,” any error in the court’s
+admission of the message did not prejudice defendant.
+     B. Admission of the Results of DNA Testing
+       Defendant challenges the admission of expert testimony
+establishing that defendant’s DNA profile matched the DNA
+profile obtained from sperm recovered during Burger’s autopsy.
+He puts forward three reasons the testimony should have been
+excluded: first, that Magee related testimonial hearsay in
+violation of defendant’s Sixth Amendment rights because Yates
+did not testify; second, that it was not admissible as a business
+record under Evidence Code section 1271; and third, that the
+trial court erred by failing to adequately evaluate the proposed
+testimony under People v. Kelly (1976) 17 Cal.3d 24 (Kelly). We
+
+
+
+                                  45
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+conclude that any error in admitting this testimony was
+harmless beyond a reasonable doubt.
+         1. Background
+      Prior to trial, the prosecution sought a ruling allowing a
+supervisor at Cellmark to testify regarding the procedures,
+results, and maintenance of the DNA testing records relevant to
+the case. At a hearing, the court initially denied the motion,
+agreeing with defense counsel that to properly present the DNA
+evidence the prosecution was required to call the technicians
+who performed the DNA testing to testify regarding the actual
+procedures they employed. On the prosecution’s motion for
+reconsideration, however, the court reversed its previous ruling
+and, over defense counsel’s objection, permitted the prosecution
+to call Wendy Magee, the Cellmark analyst who performed a
+DNA comparison in 2000 (comparing DNA profiles she created
+based on samples from defendant’s blood and from sperm found
+in Burger’s vagina) but who did not perform the DNA extraction
+in 1996 (extracting DNA from sperm found in Burger’s vagina).
+      At trial, the jury heard the following testimony. Dr.
+O’Halloran conducted Burger’s autopsy, discovered trauma to
+her genital area, swabbed and aspirated her vaginal canal, and
+observed sperm cells during a microscopic examination from one
+of the swabs. Ventura County Sheriff’s Department crime lab
+assistant laboratory manager Michael Parigian testified that
+the lab received the vaginal swabs and vaginal aspirant (which
+he referred to as a “vaginal wash”). Several years later, in
+March 1996, Parigian placed some of the vaginal wash into a
+microcentrifugued tube and sent it to Cellmark for the purpose
+of extracting DNA. Parigian also testified that Cellmark
+
+
+
+
+                                  46
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+returned the vaginal wash to the crime lab with a report
+indicating that DNA had been extracted.
+      Over a continuing defense objection, the prosecution called
+Magee to testify. Magee testified that in 1996 Cellmark
+employee Paula Yates performed a differential extraction to
+isolate DNA from the sperm and nonsperm portions of the
+vaginal wash.      That procedure involved separating the
+nonsperm cells from the sperm cells and extracting DNA from
+both to be used for future testing. According to Magee, Yates
+was trained and qualified to carry out a DNA extraction and the
+methods she used were accepted within the scientific
+community at the time of testing and at the time of trial.
+      Magee further explained that Yates recorded her lab notes
+regarding the extraction procedure, and that any later evidence
+could be compared with the DNA obtained during the extraction
+that Yates had performed. Magee confirmed that at the time of
+the DNA extraction in 1996 Cellmark had no blood or tissue
+sample from defendant with which to conduct a DNA
+comparison.
+      In November 2000, a blood sample was obtained from
+defendant and sent to Cellmark. Magee explained to the jury
+that she performed a DNA analysis of the blood sample. She
+compared that analysis to the DNA profiles she obtained from
+testing the sperm and nonsperm portions of the vaginal wash.
+Her testing, using short tandem repeat (STR) amplification kits,
+showed that the DNA profile she obtained from the nonsperm
+cells did not match the DNA profile obtained from defendant’s
+blood sample. The DNA profile she obtained from the sperm
+cells, however, did match the DNA profile obtained from
+defendant’s blood sample.
+
+
+                                  47
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+         2. Discussion
+      Defendant asserts multiple errors occurred based on
+Magee’s purported testimony that she compared the DNA
+profile she created from defendant’s blood sample with a DNA
+profile Yates created from sperm cells recovered during Burger’s
+autopsy in 1996. The factual premise of these claims is that
+Magee’s conclusions relied on a DNA profile that Yates had
+created, and thus necessarily communicated Yates’s findings to
+the jury. Specifically, defendant asserts that Magee’s testimony
+regarding the DNA profile Yates created and the “process
+involved to secure” that DNA profile constituted testimonial
+hearsay admitted in violation of defendant’s confrontation
+clause rights under Williams v. Illinois (2012) 567 U.S. 50.
+Defendant further asserts the trial court abused its discretion
+in allowing Magee’s testimony under the business records
+exception to the Evidence Code because Yates used her personal
+conclusions to develop the DNA profile and because Yates’s
+records were created for use as evidence in a criminal trial.
+Finally, defendant asserts the trial court was required to
+conduct a Kelly hearing to test the reliability of the DNA profile
+Yates created and the methods Yates used to develop that
+profile.
+       The record belies the factual basis for defendant’s claims.
+It is apparent from the record that Magee did not rely on any
+DNA profile created by Yates. Rather, Magee’s testimony
+indicates that Magee herself created a DNA profile using DNA
+extracted from sperm cells, that Magee herself created a DNA
+profile based on defendant’s blood sample, and that Magee
+herself compared the two DNA profiles. Thus, to the extent
+
+
+
+
+                                  48
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+defendant’s claims hinge on the premise that Magee relied on a
+DNA profile that Yates created, they necessarily fail.8
+      To be sure, some portions of the record suggest that Yates
+may have created a DNA profile in 1996. At one point during
+her testimony, Magee agreed with the prosecution’s
+characterization that Yates both performed a DNA extraction
+and created a DNA profile from the extracted DNA.9 And in
+describing the proffered testimony before trial, the prosecution
+stated that Cellmark had produced a DNA profile in 1996 based
+on the vaginal wash. But other portions of the record make clear
+that, even assuming Yates created a DNA profile, Magee relied
+on — and confined her testimony to — DNA profiles that she
+created herself. Magee’s testimony describing Yates’s actions
+
+8
+      For this reason, the facts here are readily distinguishable
+from Williams. There, a nontestifying expert created a DNA
+profile based on semen found on vaginal swabs, and a testifying
+expert relied on this DNA profile to conclude that it matched the
+defendant’s DNA profile. (Williams, supra, 567 U.S. at p. 60
+(plur. opn.).) In this case, as we have observed, Magee created
+both the DNA profile from the sperm and the DNA profile from
+defendant’s blood, she compared the two profiles herself, and
+she testified at trial regarding her actions and her conclusion
+that the DNA profiles matched. Magee did not rely on any DNA
+profile created by a nontestifying expert. We therefore need not
+delve further into the fractured opinion in Williams or the
+“considerable flux” surrounding the high court’s Sixth
+Amendment jurisprudence in this area. (People v. Bryant,
+Smith, and Wheeler (2014) 60 Cal.4th 335, 395 (Bryant); see also
+People v. Dungo (2012) 55 Cal.4th 608, 628 (conc. opn. of Chin,
+J.).)
+9
+      That testimony was as follows: “[The People]: And do your
+records show that the vaginal wash pellet was separated into a
+sperm and nonsperm fraction or portion and DNA was extracted
+from each and a DNA profile was obtained for each? [¶]
+[Magee]: Yes.”
+
+
+                                  49
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+related only to DNA extraction, not to profile creation. And
+Magee testified that she “tested the extracts from 1996” to
+compare with the DNA profile from defendant’s blood sample.
+There is no indication, then, that Magee compared a DNA profile
+she created with a DNA profile Yates created.
+      Defendant also broadly asserts that evidence of the DNA
+extraction Yates conducted could be admitted only through
+testimony from Yates herself, rather than through testimony
+from Magee. At oral argument before this court, counsel further
+asserted that Magee was not qualified to testify regarding the
+DNA extraction carried out by Yates because there was no
+ability for defendant to cross-examine Magee regarding the
+DNA extraction in any meaningful way. And without Yates’s
+DNA extraction, defendant asserts, Magee’s testimony
+regarding her creation and comparison of the DNA profiles could
+not be admitted.
+      Even assuming the trial court erred under the Sixth
+Amendment, Evidence Code section 1271, or Kelly by admitting
+Magee’s testimony describing the DNA extraction performed by
+Yates any error was harmless beyond a reasonable doubt. (See
+Bryant, supra, 60 Cal.4th at p. 395 [confrontation clause
+violations are subject to federal harmless error analysis under
+Chapman]; People v. Ayers (2005) 125 Cal.App.4th 988, 996
+[applying Watson standard to evaluate prejudice when evidence
+is improperly admitted as a business record under Evid. Code,
+§ 1271]; People v. Venegas (1998) 18 Cal.4th 47, 93 [applying the
+Watson standard for evaluating prejudice when evidence is
+improperly admitted under Kelly].)
+    To determine prejudice, we examine the record as though
+Magee’s testimony regarding the actions carried out by Yates
+
+
+                                  50
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+had not been admitted. But this analysis does not require us to
+set aside Magee’s testimony in its entirety. As counsel
+acknowledged at oral argument, Magee was qualified to testify
+about the procedures she conducted herself, including the
+creation of the DNA profiles. (See People v. Capistrano (2014)
+59 Cal.4th 830, 872 [holding any error in allowing a testifying
+analyst to describe results obtained by a nontestifying analyst
+was harmless beyond a reasonable doubt in part because the
+testifying analyst “personally” performed the STR test
+implicating the defendant].)
+      Nor does setting aside the portion of Magee’s testimony
+related to the DNA extraction fatally undermine the chain of
+custody or foundation supporting Magee’s testimony regarding
+the DNA profiles.         The jury heard testimony from
+Dr. O’Halloran that he recovered sperm cells after swabbing and
+aspirating Burger’s vaginal canal. The swabs and aspirant were
+sent to the county crime lab, and Parigian then sent the vaginal
+wash sample to Cellmark. Parigian also testified that he
+received the evidence back from Cellmark with a report
+indicating that DNA had been extracted from the sample.10
+Parigian further testified that in 2000 he again sent Cellmark
+the vaginal wash sample along with a blood sample collected
+from defendant. Magee related to the jury that she created a
+DNA profile from defendant’s blood sample, that she “tested the
+extracts from 1996,” and compared the resulting profiles herself.
+This narrative sufficiently established that Magee created a
+DNA profile based on sperm recovered from Burger’s autopsy,
+and supported Magee’s ultimate conclusion that the DNA profile
+
+10
+      Defendant does not challenge the admission of Parigian’s
+testimony describing the Cellmark report.
+
+
+                                  51
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+from defendant’s blood sample matched the DNA profile from
+that sperm.
+       There is no indication that the chain of custody here was
+compromised. The trial court stated it was “not particularly
+worried about” any chain of custody related to the DNA
+evidence, and defendant does not raise any claim of a chain of
+custody error. The evidence connecting the DNA evidence
+recovered from Burger’s autopsy to the DNA profile Magee
+created “raise[s] no serious questions of tampering.” (See People
+v. Caitlin (2001) 26 Cal.4th 81, 134.) In any event, any
+presumed defect in the chain of custody would not have rendered
+Magee’s testimony entirely inadmissible but would have gone to
+the weight of her testimony. (See People v. Lucas (2014)
+60 Cal.4th 153, 285 [“the trial court decides the admissibility of
+physical evidence based on challenges to the chain of custody,
+and, once admitted, any minor defects in the chain of custody go
+to its weight”].)
+      We find that any error in admitting Magee’s testimony
+regarding the actions Yates took is harmless beyond a
+reasonable doubt.       As we discussed above, there was
+overwhelming evidence of defendant’s guilt presented during
+trial. Magee’s conclusion that defendant’s DNA matched the
+DNA from sperm found during Burger’s autopsy provided strong
+support for the prosecution’s case. The presence of defendant’s
+sperm also corroborated defendant’s asserted motive for killing
+Burger (to prevent her from identifying him as her rapist). Even
+without being able to point to the DNA extraction process,
+Magee’s testimony established for the jury that DNA recovered
+from sperm found in Burger’s body matched defendant’s DNA
+profile.
+
+
+
+                                  52
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The DNA evidence was buttressed, too, by testimony from
+Mooney, Loprieato, and Bice. Mooney provided compelling
+testimony describing defendant’s detailed confession, and her
+testimony was consistent with the crime scene and the assault
+on Burger. Mooney’s testimony was corroborated by Loprieato,
+and further supported by testimony from Bice. All of this
+evidence taken together establishes beyond a reasonable doubt
+that the jury would have reached the same verdict absent
+Magee’s testimony describing the DNA extraction process
+conducted by Yates.
+      Defendant maintains that the trial court’s decision to
+allow Magee to testify as she did “forced defense counsel to
+abandon an entire line of defense and to make concessions
+during the guilt phase that would not have been made had he
+had the opportunity to attack Yates’s DNA profile.” He asserts
+that counsel would not have conceded defendant’s guilt and
+would have attacked Mooney’s credibility regarding defendant’s
+alleged confession because it was “easily impeached.” He alleges
+that Mooney had previously and unsuccessfully tried to
+implicate defendant in the death of a different woman, Jennifer
+Vernals, and that Mooney’s credibility would have been
+seriously undermined had the jury known she made more than
+one accusation that defendant had killed a woman. He also
+attacks Mooney’s account of defendant’s confession as being
+based on her “weird feelings,” and he asserts that the details of
+the crime came from the newspaper article Mooney read and not
+from any confession from defendant.
+      We are not persuaded. To the extent that defendant’s
+prejudice arguments are premised on the notion that Magee
+relied on a DNA profile Yates created, we have already rejected
+them. To the extent defendant’s assertions are based on
+
+                                  53
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+prejudice stemming from the introduction of Yates’s actions by
+way of Magee’s testimony, they likewise fail.
+      Defendant focuses in part on how counsel allegedly would
+have revealed serious flaws in Yates’s report if she had testified.
+But he provides no support for this assertion and we have found
+none in the record. Defendant’s attacks on Mooney’s credibility
+are also unpersuasive. Mooney’s suspicion that defendant was
+involved in Vernals’s death was raised during the preliminary
+hearing. Mooney testified at the preliminary hearing that when
+she first told Loprieato about defendant’s plan to escape from
+the fire camp because of his concerns about a DNA test,
+Loprieato produced a clipping of a newspaper article discussing
+Vernals’s death and said, “This is what I think he did.”
+Although it’s not clear from the record what was in the
+newspaper article, Mooney testified that she (Mooney) was
+named in the article (although defendant was not) and that the
+article, “kind of said that I might have [implicated defendant]
+on that Jennifer Vernals case. And I think [Loprieato] was going
+to confront me with him about that.”
+      Mooney also testified at the preliminary hearing that
+during the visit when defendant asked her and Loprieato for
+help escaping, she and Loprieato confronted defendant about his
+story that he had participated in a burglary and was cut with a
+knife. Neither believed the story because “we both thought that
+he had committed the Jennifer Vernals murder.” Mooney stated
+that during the same visit when Loprieato went to the bathroom
+and left Mooney alone with defendant, Mooney asked defendant
+whether he killed Vernals. He said he did not. Mooney then
+asked defendant if he had killed someone, and he said yes and
+went on to tell Mooney about assaulting and killing Burger.
+
+
+
+                                  54
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+       Bringing this issue to the attention of the jury would not
+have undermined Mooney’s credibility, as defendant suggests.
+On the contrary, it would likely have been highly prejudicial to
+defendant for defense counsel to alert the jury that defendant’s
+girlfriend (and perhaps also his mother) believed he had killed
+another woman besides Burger. Indeed, defense counsel filed a
+motion in limine to exclude any references to Vernals’s death at
+trial. The prosecution did not object, and the court granted the
+motion and directed the prosecution to instruct the witnesses
+not to mention Vernals during trial.
+      Nor is there any indication in the record that the details
+of the crime that Mooney claimed defendant had described came
+from Mooney herself or the newspaper article describing
+Burger’s death.11 Further, the testimony from Loprieato and
+Bice supported Mooney’s credibility, and the jury was able to
+make its own determination as to each witness’s credibility
+based on his or her testimony and demeanor. In short, we
+conclude that any error in the portion of Magee’s testimony
+relating the DNA extraction process conducted by Yates was
+harmless beyond a reasonable doubt.
+                 IV. PENALTY PHASE ISSUES
+     A. Defendant’s Correspondence with a White
+        Supremacist Gang Leader
+       Defendant raises two related claims concerning penalty
+phase rebuttal evidence informing the jury that while awaiting
+trial in the present matter defendant exchanged letters with
+Justin Merriman, a prison inmate who had once been the leader
+
+
+
+11
+     The newspaper article is not in the record before us.
+
+
+                                  55
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+of a white supremacist gang.12 First, he asserts that the
+rebuttal evidence violated due process as evidence of “guilt by
+association,” infringed his constitutional right to freedom of
+association, was improper hearsay, and was irrelevant and
+unduly prejudicial. Second, defendant argues that the trial
+court erred by not granting a mistrial after, contrary to the
+court’s earlier ruling limiting the scope of the testimony
+regarding the letters, the prosecutor inquired into the contents
+of one of the letters. As we explain below, neither claim requires
+reversal of the death judgment.
+         1. Admission of evidence regarding the
+            correspondence
+             a. Background
+                i. Prosecution’s cross-examination of Casas
+      As part of its penalty phase case in mitigation, the defense
+called penology expert Anthony Casas, who expressed the view
+that defendant would conduct himself in an obedient and
+cooperative manner if sentenced to life in prison without the
+possibility of parole. (See ante, pt. I.B.2.iii.) On cross-
+examination, the prosecutor elicited from Casas that Casas
+would predict a negative adjustment to prison for someone who
+had joined a prison gang such as a white supremacist gang.
+Casas explained that such gangs are dangerous “because when
+you have a situation like that, if the individual is a validated
+member of one of those gangs and gets an order to do something,
+like kill an officer or kill an inmate, and he doesn’t do it, then
+he’s signed his own death warrant because the punishment for
+
+
+
+12
+      We upheld Merriman’s first degree murder conviction on
+direct appeal in 2014. (People v. Merriman (2014) 60 Cal.4th 1.)
+
+
+                                  56
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+failing to carry out a contract with these organizations, the
+organized prison gangs, is death usually.”
+      The prosecutor then showed Casas photographs of
+defendant’s tattoos that said “white” and “pride,” and asked
+whether this indicated that defendant might join a white
+supremacist gang. Casas replied, “Not at all.” The prosecutor
+asked whether Casas’s answer would change if he knew
+defendant had been corresponding with a former leader of a
+Ventura County-based white supremacist gang called the
+Skinhead Dogs. Defense counsel promptly objected on the
+ground of undue prejudice and lack of foundation, pointing out
+at a sidebar conference that there was no evidence defendant
+was in a gang. The court sustained the objection for lack of
+foundation. But the court allowed the prosecutor to attempt to
+lay a foundation by probing Casas’s experience regarding the
+topic of prison gang membership.
+      When questioning resumed, the prosecutor elicited from
+Casas that a person who holds white supremacist beliefs might
+be likely to join a white supremacist gang. But Casas strongly
+disagreed with the prosecutor’s suggestion that a person with
+“white pride” tattoos would be more likely to join a white
+supremacist gang than a person without such tattoos. Nor did
+Casas believe that any correspondence between defendant and
+a one-time gang leader in which defendant referred to the gang
+leader as “homey” and signed his letter “with respect” meant
+that defendant was more likely to join a gang than someone not
+engaged in such correspondence. Casas reiterated that an
+exchange of letters in which an individual referred to the
+recipient white supremacist gang member as “homey” or
+“brother” would not be enough to conclude that the letter writer
+
+
+
+                                  57
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+was more likely to join a gang. As Casas phrased it, “it could or
+it couldn’t.”
+                 ii. Prosecution’s rebuttal
+      One of the prosecution’s rebuttal witnesses was District
+Attorney Investigator Dennis Fitzgerald. Anticipating that the
+prosecution would seek to introduce the correspondence
+between defendant and Merriman through Fitzgerald’s
+testimony, the defense sought an offer of proof outside the jury’s
+presence. In relevant part, the prosecutor indicated that
+Fitzgerald would testify based on defendant’s booking record
+that defendant likely obtained his “white pride” tattoos in
+prison. Fitzgerald, who was the investigator in Merriman’s
+capital case, would also testify that he had reviewed the two
+letters Merriman wrote to defendant and the one letter
+defendant wrote back to Merriman. Fitzgerald would testify
+that defendant and Merriman addressed each other as “homey”
+and “brother” and that defendant asked Merriman to “stay in
+touch.” Fitzgerald would also inform the jury that Merriman
+was a member of a skinhead gang that advances the doctrine of
+white supremacy. After having laid that foundation, the
+prosecutor explained, he intended to introduce the letters.
+       Defense counsel objected to the admission of the three
+letters on the grounds that they constituted inadmissible
+hearsay, were irrelevant to the argument that defendant was
+likely to join a prison gang, were highly prejudicial, and would
+violate defendant’s right to a fair trial if introduced. As counsel
+pointed out, the letters disparaged counsel and the court system
+by, for example, referring to “kangaroo courts” and unfair juries.
+Notably, counsel observed, nothing in the letters referred to
+gangs.
+
+
+
+                                  58
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The court ruled that the contents of the letters were not
+admissible but that the fact of the correspondence was proper
+rebuttal to the defense expert’s opinion that defendant would
+adapt well to life in prison. The court also indicated it would
+allow the prosecutor to elicit from Fitzgerald how defendant and
+Merriman addressed each other, how they signed their letters,
+and whether Merriman was a gang member. Defense counsel
+renewed his objection to this limited line of questioning, but
+indicated he understood the court’s ruling.
+       Fitzgerald then testified in front of the jury that he had
+reviewed defendant’s booking records and concluded that he had
+received his “white pride” tattoo sometime while in custody after
+1996. Fitzgerald also testified that he was the lead investigator
+in a criminal case involving Merriman, who was then a leader of
+a white supremacist gang in Ventura County called the
+Skinhead Dogs. Fitzgerald indicated that he was familiar with
+Merriman’s writings and that he had reviewed an exchange of
+letters between defendant and Merriman. He testified that in
+the letter from defendant to Merriman, defendant twice referred
+to Merriman as “homey” and signed off with the phrase “Long
+respects, Michael J. Schultz.” In one of the two letters
+Merriman wrote to defendant, Merriman referred to defendant
+as “brother” and signed it “with respect, Justin James
+Merriman.” The salutation in a second letter from Merriman to
+defendant referred to defendant as “Big Mike” and later as
+“brother” and “homey,” and again ended with the phrase “With
+respect.”
+      Fitzgerald did not state any opinion regarding defendant’s
+ability to adjust to life in prison. On cross-examination, defense
+counsel elicited from Fitzgerald that he was aware of no
+
+
+
+                                  59
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+evidence showing that defendant was ever a member of the
+Skinhead Dogs.
+                iii. Jury instructions and closing argument
+      The jury was instructed by the trial court that it could not
+consider the letters and salutations as factors in aggravation:
+“Evidence received in the penalty phase of this trial regarding
+Mr. Schultz’s correspondence with another inmate and his
+tattoos may not be considered as a factor or factors in
+aggravation.”
+      Toward the end of the prosecution’s closing argument at
+the penalty phase, the prosecutor discussed the defense
+evidence regarding defendant’s prospects for a positive
+adjustment to life in prison. In the prosecutor’s view, evidence
+of defendant’s positive behavior while previously in custody was
+not a significant mitigating factor even if true. He nonetheless
+argued to the jury that Casas’s testimony should not be credited.
+In the course of that brief argument, the prosecutor pointed out
+that Casas’s opinion was based in part on his belief that
+defendant would not join a prison gang. Casas’s opinion was
+refuted, the prosecutor argued, by evidence that defendant
+received a “white pride” tattoo in prison and that he was in
+contact with a member of a white supremacist gang. The
+prosecutor clarified that he was not suggesting the evidence of
+defendant’s correspondence with Merriman was a factor in
+aggravation, or that Merriman endorsed Burger’s rape and
+murder. Rather, he asserted, the use of the terms “homey” and
+“brother” indicated a possibility that defendant would be
+interested in joining the gang, thereby undermining the defense
+argument that defendant would adapt well to life in prison.
+
+
+
+
+                                  60
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+             b. Discussion
+                 i. Asserted First Amendment violation
+      Defendant argues that, assuming the rebuttal evidence
+established that he shared Merriman’s white supremacist views
+and wanted to associate with Merriman and his gang, the
+admission of such evidence infringed his First Amendment
+rights to freedom of association and belief.
+        As defendant acknowledges, he did not raise this First
+Amendment claim in the trial court, but objected only on
+relevance and prejudice grounds. Citing People v. Partida
+(2005) 37 Cal.4th, 433–439 and People v. Boyer (2006) 38 Cal.4th
+412, 441, defendant asserts that he has not forfeited the claim
+notwithstanding the lack of a specific objection because the
+arguments he now presents do not invoke facts or legal
+standards different from those the trial court was asked to
+apply. Neither case is availing because the legal standards
+applicable to a claim under Evidence Code section 352 and a
+First Amendment claim are different. Under Evidence Code
+section 352, a court determines whether evidence (including
+evidence of a defendant’s racist beliefs) is relevant and its
+probative value is not substantially outweighed by the
+probability of prejudice, undue consumption of time, confusing
+the issues, or misleading the jury. (See People v. Young (2019)
+7 Cal.5th 905, 930–931 (Young).) A First Amendment claim, on
+the other hand, asks a court to exclude evidence not only because
+it is irrelevant, but because it is irrelevant and therefore its only
+possible purpose is to invite the jury to convict the defendant
+based on protected speech or associational activity. (See id. at
+p. 946.)
+
+
+
+
+                                   61
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      In Young, this court held that a First Amendment claim
+nearly identical to the one raised here was forfeited when that
+defendant objected during the guilt phase of a capital trial to the
+admission of his racist tattoos and beliefs only on relevance and
+prejudice grounds. (Young, supra, 7 Cal.5th at pp. 931–932.)
+Here, too, the claim is forfeited. Defendant’s general objections
+on relevance and prejudice grounds did not preserve the more
+specific First Amendment claim he now attempts to raise.
+                 ii. Asserted due process claim
+      Defendant asserts that the testimony regarding the fact of
+the correspondence between himself and Merriman and the
+salutations in their letters was improper rebuttal evidence
+because it was based on a “guilt by association” theory and thus
+violated due process. To the extent this claim amounts to an
+assertion that the evidence was irrelevant or unduly prejudicial,
+we reject it below. To the extent the claim is related to
+defendant’s First Amendment claim or raises a separate “guilt
+by association” due process claim, it was not raised in the trial
+court and is therefore forfeited. (See Young, supra, 7 Cal.5th at
+pp. 931–932; People v. Fuiava (2012) 53 Cal.4th 622, 689.)
+                 iii. Evidence Code section 352
+      Defendant argues that the evidence regarding his
+correspondence with Merriman was more prejudicial than
+probative and should have been excluded under Evidence Code
+section 352. We examine the trial court’s decision to determine
+whether the court “ ‘exercised its discretion in an arbitrary,
+capricious or patently absurd manner that resulted in a
+miscarriage of justice.’ ” (People v. Rodrigues (1994) 8 Cal.4th
+1060, 1124, quoting People v. Jordan (1986) 42 Cal.3d 308, 316.)
+We are not persuaded the trial court erred.
+
+
+                                  62
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The probative value of the evidence here related to the
+defense expert’s opinion that defendant would adjust well to life
+in prison. In light of this testimony, the prosecution was entitled
+to explore the issue on cross-examination and rebuttal. (See
+People v. Gates (1987) 43 Cal.3d 1168, 1211, disapproved on
+another ground in People v. Williams (2010) 49 Cal.4th 405,
+458–459; see also People v. Mattson (1990) 50 Cal.3d 826, 878
+[“Evidence of future dangerousness may be introduced in
+rebuttal when the defendant himself has raised the issue of
+performance in prison and offered evidence that in a prison
+environment he would be law-abiding”]; People v. Coleman
+(1989) 48 Cal.3d 112, 150 [same].) In exploring the issue during
+cross-examination, the prosecutor could properly ask the
+witness whether his opinion would change if he was aware that
+defendant was likely to join a white supremacist gang, and to
+suggest several grounds from which such a possibility could be
+inferred. (See People v. Winbush, supra, 2 Cal.5th at p. 479
+[“Having chosen to raise this subject, the defense could not
+reasonably insulate it from cross-examination”].)           During
+rebuttal, the prosecutor was likewise permitted to undermine
+the defense expert’s opinion by presenting evidence suggesting
+a likelihood of future gang membership. This evidence was
+presented through the prosecution investigator’s testimony
+regarding defendant’s “white pride” tattoos, the fact of
+defendant’s correspondence with an incarcerated white
+supremacist gang leader, and the friendly salutations in
+defendant’s letter to Merriman.
+      Contrary to defendant’s assertion, the probative value of
+this evidence was not based on an inference of “guilt by
+association” or on defendant’s alleged racist views. Rather, the
+evidence provided a foundation for questioning the defense
+
+
+                                  63
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+expert’s opinion that defendant was likely to live out his days as
+a peaceful and cooperative prison inmate. For the same reason,
+there is no merit to defendant’s assertion that the trial court
+should have excluded all evidence regarding the correspondence
+because the court knew the letters did not mention gangs or
+racist ideology. The trial court concluded the contents of the
+letters were not admissible, but the fact of the correspondence
+itself and some of the familiar salutations arguably indicated
+defendant might join a white supremacist gang. The trial court
+provided a limiting instruction to the jury on this point, stating
+that evidence “regarding Mr. Schultz’s correspondence with
+another inmate and his tattoos may not be considered as a factor
+or factors in aggravation.”       The prosecution, in closing
+argument, similarly pointed out that the letters were not to be
+considered as factors in aggravation, but to “refute the
+contention that [defendant is] not so bad when he’s in
+prison . . . .”
+     The defense expert disagreed with many of the
+prosecutor’s assertions regarding the evidence during cross-
+examination. But the fact defendant and a former leader of a
+white supremacist gang had exchanged letters in which
+defendant referred to the former gang leader as “homey” created
+an inference that undermined the expert testimony that
+defendant would make a positive adjustment to life in prison.
+       The trial court did not err in concluding that the probative
+value of the evidence was not substantially outweighed by its
+potential for prejudice.       As defendant acknowledges, the
+“prejudice” referred to in Evidence Code section 352 means
+“ ‘evidence which uniquely tends to evoke an emotional bias
+against the defendant as an individual and which has very little
+effect on the issues. In applying section 352, “prejudicial” is not
+
+                                  64
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+synonymous with “damaging” ’ ” (People v. Karis (1988) 46
+Cal.3d 612, 638, quoting People v. Yu (1983) 143 Cal.App.3d 358,
+377; accord, Bryant, supra, 60 Cal.4th at p. 408.) This court has
+observed that gang evidence “may have a highly inflammatory
+impact on the jury,” and that trial courts should “carefully
+scrutinize such evidence before admitting it.” (People v.
+Williams (1997) 16 Cal.4th 153, 193, citing People v. Champion
+(1995) 9 Cal.4th 879, 922–923.) The trial court here did
+scrutinize the evidence, limiting its admission to the fact of the
+correspondence and some of the words used by defendant and
+Merriman, excluding a second witness the prosecutor sought to
+call, and providing a limiting instruction to the jury that
+prohibited the use of the evidence as an aggravating factor. And
+the limited evidence offered was not likely to evoke an
+inflammatory emotional bias from the jurors. The testimony
+was brief and limited in scope. The prosecutor’s argument,
+likewise, did not inflame the juror’s emotions; it was limited to
+a brief argument that defendant received a “white power” tattoo
+while in prison and corresponded with Merriman, which
+“refutes the contention that he’s not so bad when he’s in
+prison . . . .” We find no error.
+                iv. Assertedly inadmissible hearsay
+      The trial court ruled that the contents of the
+correspondence between defendant and Merriman were
+inadmissible. However, the court did allow the prosecutor to
+present evidence regarding the fact of the correspondence and
+that defendant and Merriman referred to each other as “homey”
+and “brother” and signed their letters using phrases such as
+“with respect.” Defendant argues that the court erred in
+admitting the salutations in the letters to him from Merriman
+
+
+
+                                  65
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+because they constituted inadmissible hearsay that did not fall
+within any exception to the hearsay rule.
+      As an initial matter, we disagree with the Attorney
+General that defendant has forfeited his hearsay challenge to
+this evidence by not raising it below. Defense counsel objected
+to the admission of the letters on various grounds, including that
+the letters were inadmissible hearsay. As mentioned above, the
+court ruled the contents of the letters were generally
+inadmissible with the exception of the salutations used by
+defendant and Merriman. Defense counsel indicated to the
+court that the defense still objected to the evidence but
+understood the court’s ruling. Although the court did not
+articulate the basis of its ruling excluding the letters but
+permitting evidence of the salutations, we conclude on this
+record that the court was aware that counsel’s hearsay objection
+extended to the admission of the salutations. Defendant’s claim
+is preserved for appeal.
+      The Attorney General further argues that the salutations
+did not constitute inadmissible hearsay because they were not
+admitted for their truth and because they fell within the scope
+of the state of mind exception to the hearsay rule. (See Evid.
+Code, § 1250.)
+      As noted, the trial court did not articulate the basis of its
+ruling excluding the contents of the letters but allowing the
+salutations. Even if we assume the salutations in Merriman’s
+letters should have been excluded, any such error would not
+entitle defendant to a new penalty trial because there is no
+reasonable possibility that the admission of the challenged
+evidence affected the penalty verdict. (See People v. Wilson
+(2008) 43 Cal.4th 1, 28.)
+
+
+                                  66
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      The purpose of introducing defendant’s correspondence
+with Merriman was to rebut the defense expert’s opinion that
+defendant would serve out his life in prison as a peaceful and
+cooperative inmate. As noted above, the jury was instructed
+that this was not to be considered as an aggravating factor. And
+this was a minor component of the defense case in mitigation
+and played an even smaller role in the prosecutor’s closing
+argument. The focus of the prosecution’s argument was instead
+on the callous and brutal nature of the capital crime, the
+strength of the evidence of guilt, and defendant’s pattern of
+violence both before and after the murder. By contrast, the
+prosecutor’s references to evidence of defendant’s exchange of
+correspondence with Merriman comprised only three
+paragraphs in a closing argument transcript spanning 48 pages.
+Any assumed hearsay violation at issue amounted to a further
+subset of that minor component, and the salutations added
+relatively little to the properly admitted fact of the
+correspondence generally.       Further, defendant does not
+challenge the admission of the salutations in his letters to
+Merriman, which were nearly identical to the salutations in
+Merriman’s letters. On this record, there is no reasonable
+possibility the admission of the salutations in the letters from
+Merriman to defendant affected the jury’s penalty verdict.
+         2. Denial of motion for mistrial
+      In a related claim, defendant asserts that the trial court
+erred in denying defense counsel’s motion for a mistrial during
+the penalty phase. The prosecutor posed a leading question to,
+and elicited an answer from, rebuttal witness Fitzgerald that
+revealed the contents of Merriman’s letter to defendant, in
+direct violation of the court’s recent ruling. The prosecutor’s
+question constituted misconduct. Nonetheless, we conclude that
+
+                                  67
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+the court did not abuse its discretion in denying the mistrial
+motion.
+            a. Background
+      As observed above, immediately prior to the testimony of
+prosecution rebuttal witness Fitzgerald the trial court ruled
+inadmissible the contents of the exchange of letters between
+defendant and Merriman except for their salutations. Despite
+that ruling, which the prosecutor acknowledged he understood,
+the prosecutor asked Fitzgerald whether Merriman “offer[ed] to
+send [defendant] a manual from San Quentin?” Fitzgerald
+responded, “Yes, he [did].” The court promptly sustained
+defense counsel’s objection, ordered the answer stricken, and
+admonished the jury to disregard it, telling the prosecutor,
+“I ruled from the bench on that issue . . . .”
+      At a bench conference immediately after the conclusion of
+Fitzgerald’s testimony, defense counsel moved for a mistrial
+based on the prosecutor’s question regarding the San Quentin
+manual, arguing that the inquiry was a violation of the court’s
+order and highly prejudicial to defendant. Before ruling on the
+motion, the court excused the jury for the day. In giving its
+usual admonishments, the court added, “I want to admonish you
+again the objection made to a question asked by the district
+attorney in reference to an item allegedly contained in a letter
+from a Mr. Merriman to defendant — objection made to it.
+I sustained the objection. The answer was stricken. [¶] I want
+to admonish you again you’re not to consider anything that you
+heard in that answer for any purpose whatsoever in this case.”
+      The court heard from the parties on the motion. The
+prosecutor apologized for eliciting testimony in violation of the
+court’s earlier ruling but asserted that no prejudice resulted.
+
+
+                                  68
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+The court responded, “I sure don’t like it, and I can understand
+[defense counsel’s] concern completely.” The court nonetheless
+denied defendant’s motion for mistrial, concluding that the
+misconduct would not have inflamed the jurors against
+defendant. The court explained, “it does seem to the Court the
+jury’s already aware that at a minimum the defendant’s going
+to spend the rest of his life in prison . . . . [¶] I think the reality
+[is] that the jurors are not foolish, stupid idiots but do indeed
+follow the law as the Court instructs and will do so in this
+case.”13
+      Later, when instructing the jurors before their penalty
+phase deliberations, the court read CALJIC No. 1.02, which, as
+given, reminded the jurors not to consider “for any purpose . . .
+any evidence that was stricken by the court” but to “treat it as
+though you had never heard it.”
+              b. Discussion
+      We agree with defendant that the prosecutor committed
+misconduct by eliciting testimony regarding the contents of one
+of the letters Merriman wrote to defendant. (See People v. Tully
+(2012) 54 Cal.4th 952, 1035.) The trial court had ruled clearly
+that the contents of the letters were inadmissible. The
+prosecutor nonetheless directly asked Fitzgerald a question
+regarding the contents of one letter. Although the prosecutor
+apologized for asking the question, he offered no excuse or
+explanation for his conduct. This was clear misconduct, not a
+situation in which a question led to “a witness’s nonresponsive
+
+
+13
+      The prosecutor stated during this colloquy that he
+believed the manual referred to in the letter was a document
+published by prison officials “about what it’s like [in San
+Quentin State Prison].”
+
+
+                                   69
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+answer that the prosecutor neither solicited nor could have
+anticipated.” (Ibid.) We take this opportunity to admonish
+counsel regarding the importance of strictly adhering to a
+court’s rulings concerning the scope of proper examination.
+Such adherence is important in every case. It certainly is no less
+vital in the context of a capital case.
+      Still, the prosecutor’s error did not require the court to
+declare a mistrial. “ ‘Whether a particular incident is incurably
+prejudicial is by its nature a speculative matter, and the trial
+court is vested with considerable discretion in ruling on mistrial
+motions.’ ” (People v. Williams (2006) 40 Cal.4th 287, 323,
+quoting People v. Haskett (1982) 30 Cal.3d 841, 854.) As we have
+explained, “[a] trial court should grant a mistrial only when a
+party’s chances of receiving a fair trial have been irreparably
+damaged . . . .” (People v. Bolden (2002) 29 Cal.4th 515, 555,
+citing People v. Ayala (2000) 23 Cal.4th 225, 282; see People v.
+Jenkins (2000) 22 Cal.4th 900, 986 [court should grant a mistrial
+if it determines the prejudice “incurable by admonition or
+instruction”].)
+      Reviewing the court’s denial of the mistrial motion for an
+abuse of discretion (People v. Valdez (2004) 32 Cal.4th 73, 128,
+citing People v. Ayala, supra, 23 Cal.4th at p. 283), we conclude
+the court did not err. We presume that a jury follows the court’s
+admonishments. (People v. Avila (2006) 38 Cal.4th 491, 574,
+citing People v. Boyette (2002) 29 Cal.4th 381, 436.) Here, after
+scolding the prosecutor in open court for violating its earlier
+ruling, the court promptly and forcefully directed the jury to
+disregard the improper question and response. The court did so
+repeatedly, both at the time the court sustained the defense
+objection and again, a short time later, when the court excused
+the jury for the day. The jury was also instructed in more
+
+                                  70
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+general terms prior to penalty phase deliberations that it was
+not to consider for any purpose evidence stricken by the court.
+      The court acknowledged defense counsel’s concerns that
+the improper question and response could lead the jury to
+speculate regarding the contents of the San Quentin “manual”
+in ways that could prejudice defendant. But the court also
+reasonably concluded its admonishments would ensure that the
+brief reference to an undescribed “manual” did not irreparably
+damage defendant’s chance of receiving a fair penalty trial.
+      Citing empirical research suggesting generic instructions
+are of limited value in curing prejudice, defendant asserts that
+the three “anemic” admonitions did not effectively dispel the
+prejudice. But nothing in the record provides any reason to
+question the court’s belief that the prejudice resulting from the
+improper evidence was cured by the court’s prompt and explicit
+directives that the jury disregard it. Nor does the record disclose
+any reason for this court to cast aside the presumption that the
+jurors followed the court’s repeated admonishments. We
+conclude the trial court did not abuse its discretion in denying
+the motion for a mistrial.
+      B. Victim Impact Testimony
+      The prosecution called to the witness stand three
+members of Cynthia Burger’s immediate family to testify
+regarding how they were impacted by her death. Defendant
+contends the testimony by two of the witnesses fell outside the
+scope of constitutionally permissible victim impact evidence. He
+further complains that the testimony was emotionally
+overwrought and thereby diverted the jury from its proper role
+at the penalty phase. As we explain, the admission of the
+challenged testimony was proper.
+
+
+                                  71
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+         1. Background
+      Prior to trial, defense counsel filed a motion to limit any
+victim impact testimony proffered by the prosecution. After a
+brief hearing on the motion, the court rejected the defense
+argument that such evidence should be limited to testimony by
+only those family members who were actually present at the
+crime scene. But the court agreed to limit the evidence to
+testimony from three immediate family members — Burger’s
+father (Had Burger), mother (Virgie Burger), and sister (Sandra
+Woodward).
+     Mr. Burger testified briefly regarding how much his
+daughter had meant to him, his deep sense of shock and grief
+upon learning she had died, and the enduring feeling of
+emptiness that could not be filled after her death.
+      Mrs. Burger testified next. In explaining what her
+daughter meant to her, Mrs. Burger described the
+circumstances surrounding Burger’s birth, including that Mr.
+Burger drove 500 miles to the hospital and was there to hold
+their newborn child. Mrs. Burger explained how that event
+created a special bond between Burger and Mr. Burger because
+he could not attend the birth of their first child, which occurred
+during World War II when he was stationed at Guadalcanal.
+She also mentioned that she was very ill following the birth and
+that family members supported her.
+     Mrs. Burger mentioned her daughter’s dedication to
+Jesus, saying, “Jesus Christ was her hero.” She talked about
+Burger’s desire to be the best person she could be, and about her
+graduation from Calvary Bible College. When asked to recount
+how she learned her daughter had died, Mrs. Burger described
+the news as “a horrendous story by a monster” and called the
+
+
+                                  72
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+killing a “weird, horrible story.” According to Mrs. Burger, her
+heart broke that day and has never healed. She also expressed
+how much she missed Burger, who she described as a “wonderful
+daughter, beautiful daughter, kind, considerate.”           When
+relating some of the hardest things for her after Burger’s death,
+Mrs. Burger discussed having to walk through her daughter’s
+home, including the bedroom where she had been strangled.
+She also mentioned the loss of the family Bible in the fire. Mrs.
+Burger found some solace in having a close and loving family.
+After bringing Burger’s cats to live with her and her husband,
+Mrs. Burger would “feel the [cats’] fur and I knew that I was
+feeling Cindy’s hands stroking that little kitty.” After Burger’s
+death, Mrs. Burger explained that she suffered poor health and
+depression, and that she lived in fear at night when her husband
+was not home.
+      Burger’s older sister, Sandra Woodward, explained that
+she and Burger had “something magic” between them, even
+when Burger was an infant. When she learned Burger was
+dead, she was shocked and suffered intense, unrelenting pain.
+Woodward said she knew everything about Burger and had
+taken for granted that she and her sister would grow old
+together. She recounted how difficult it was to answer police
+investigators’ questions about Burger’s friends and
+acquaintances, and to inventory Burger’s house to identify what
+was missing. According to Woodward, it was hard to control her
+suspicions about Burger’s friends during the long investigation.
+      In describing her experience at the mortuary, Woodward
+recalled that her sister’s hair and features were unrecognizable
+and that she struggled with how to tell her parents. She related
+that her father did not want to see Burger’s body because he
+“wanted to remember how Cindy was last week.” When
+
+                                  73
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+Woodward returned to the mortuary with Mrs. Burger,
+Woodward could see the grief washing over Mrs. Burger as she
+(Mrs. Burger) rocked Burger in her arms.
+       Woodward testified that she had trouble sleeping after
+Burger’s death, and that she would often wake around 3:00 a.m.
+She said that when she later was told that defendant entered
+Burger’s home “between 2:30 or 3:00, I just had a stab to my
+heart. It all made sense to me. I knew why I was waking up at
+3 o’clock. There was no doubt in my mind.”
+      Woodward also told the jury that although she finds joy in
+her memories of her sister, she is saddened knowing they will
+no longer have special times together. Woodward explained that
+her sister’s death traumatized the family, each of whom dealt
+with his or her grief differently. Specifically, her father became
+angry and hard, while her mother cried all the time because she
+“worried about the pain and the torture that Cindy went
+through and she kept reliving it.” Woodward also described her
+own physical pain, including difficulty breathing. She stated
+that when another individual told her she was experiencing
+heartache, she said, “I didn’t realize there was such physical
+pain with death.”
+         2. Discussion
+      Defendant raises three challenges to the victim impact
+testimony. First, he argues that the testimony by Mrs. Burger
+and Ms. Woodward exceeded the limitations the high court
+placed on victim impact evidence in Payne v. Tennessee (1991)
+501 U.S. 808 (Payne). Payne departed from earlier precedent to
+hold that the Eighth Amendment does not bar states from
+allowing at a capital sentencing proceeding evidence regarding
+the loss to the victim’s family that resulted from the murder, so
+
+
+                                  74
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+long as the evidence is not “so unduly prejudicial” that it leads
+to a “fundamentally unfair” trial. (Payne, supra, 501 U.S. at
+p. 825; see also People v. Edwards (1991) 54 Cal.3d 787, 835
+[holding that § 190.3, factor (a) authorized “evidence and
+argument on the specific harm caused by the defendant,
+including the impact on the family of the victim”].) Payne did
+not disturb the high court’s earlier holding in Booth v. Maryland
+(1987) 482 U.S. 496, however, that “admission of a victim’s
+family members’ characterizations and opinions about the
+crime, the defendant, and the appropriate sentence violates the
+Eighth Amendment.” (Payne, supra, 501 U.S. at p. 830, fn. 2;
+see also People v. Taylor (2010) 48 Cal.4th 574, 647–648.)
+      Defendant argues that the testimony by Burger’s mother
+and sister exceeded the permissible scope of victim impact
+evidence under Payne. He asserts that Burger’s mother and
+sister offered improper opinions regarding the crime and
+defendant. Specifically, defendant points to Mrs. Burger’s
+characterization of the facts of Burger’s death as “a horrendous
+story by a monster” and a “weird, horrible story.”           He
+emphasizes Mrs. Burger’s testimony that “[t]his girl was so
+beautiful both inside and out and was murdered with great pain,
+fear, and then set [on] fire, and then put in a tub of acid.”
+Defendant also complains that Woodward’s testimony regarding
+the police investigation invited the jury to speculate that
+numerous individuals beyond the immediate family had been
+adversely impacted by Burger’s death. Defendant further
+asserts that the testimony from Burger’s mother and sister ran
+afoul of Payne because it was distracting, emotional, and
+irrelevant. He points to testimony from both women regarding
+the circumstances of Burger’s birth, Burger’s religious
+convictions, and the “psychic connections” described by the
+
+
+                                  75
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+witnesses (Mrs. Burger’s testimony that she would pet Burger’s
+cats and know “that I was feeling Cindy’s hands stroking that
+little kitty,” and Woodward’s testimony that she would often
+wake up at 3:00 a.m., around the time Burger was killed).
+       As an initial matter, defendant failed to object to these
+statements during trial. Defendant moved before trial to limit
+any victim impact testimony to those family members present
+during or immediately after the crime, and to exclude any
+prejudicially emotional victim impact testimony. The trial court
+granted the motion to the extent that defendant sought to limit
+testimony to impacted family members but stated those
+witnesses need not have been present during the crime. Rather,
+the court ruled that testimony from Burger’s mother, father, and
+sister would be admissible to describe the impact of Burger’s
+death on them. Defendant did not subsequently object that the
+witnesses’ testimony exceeded the scope of the trial court’s order
+or was otherwise improper. As the Attorney General asserts,
+and defendant does not contest, defendant’s claims are therefore
+forfeited. (People v. Romero and Self (2015) 62 Cal.4th 1, 46
+[“denial of the motion in limine [to exclude all victim impact
+testimony] did not make objection during testimony redundant,
+but rather it was incumbent on defendants to object if they
+believed the testimony actually presented was ‘excessive,
+improper, inflammatory, and highly prejudicial’ ”].)
+      Even considering defendant’s claims on the merits,
+however, the challenged statements did not run afoul of the
+Eighth Amendment. Neither Mrs. Burger nor Ms. Woodward
+improperly commented on the crime or defendant. When placed
+in context, Mrs. Burger’s references to the horrendous nature of
+the crimes against her daughter, and the suffering that she
+imagined her daughter must have endured, reflected how those
+
+                                  76
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+crimes had directly affected her (Mrs. Burger). (See People v.
+Mendez (2019) 7 Cal.5th 680, 713 [permitting testimony of
+family members describing how they imagined their loved ones’
+final moments, and describing as “obvious” that a parent would
+describe a child’s murder as a “ ‘tragic, sickening, evil,
+disgusting death’ ”]; People v. Pollock (2004) 32 Cal.4th 1153,
+1182 [rejecting the defendant’s challenge to testimony by the
+victims’ son describing his parents’ murders as brutal and “ ‘a
+savage act’ ”].) Likewise, Mrs. Burger’s characterization of her
+daughter’s killer as a “monster” was a permissible expression of
+the harm caused by the crimes. (See People v. Taylor, supra,
+48 Cal.4th at p. 647 [one family member’s fleeting reference to
+the defendant as “ ‘that idiot’ ” reflected how the murder had
+devastated her and the victim’s large family and close friends].)
+Mrs. Burger’s testimony was properly admitted to remind the
+jury that Burger was “ ‘an individual whose death represents a
+unique loss to society and in particular to [her] family.’ ” (Payne,
+supra, 501 U.S. at p. 825, quoting Booth v. Maryland, supra,
+482 U.S. at p. 517 (dis. opn. of White, J.).)
+       Further, defendant does not explain how Woodward’s
+testimony regarding the investigation improperly broadened the
+scope of testimony regarding those impacted by Burger’s death.
+At most, her testimony stated what was obvious; Burger’s death
+generally impacted those who knew her. Woodward’s general
+testimony that officers investigating the crime questioned those
+close to Burger was not so emotional as to invite an irrational
+response from the jury. (See People v. Winbush, supra, 2 Cal.5th
+at p. 465 [rejecting similar claim when victim’s sister and
+mother described impact of murder on victim’s father, who was
+“ ‘totally devastated’ ” and died six months after the murder].)
+
+
+
+                                   77
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Nor can the testimony here be characterized as irrelevant,
+distracting, or unduly emotional. Contrary to defendant’s
+assertion, Mrs. Burger could properly describe some of the
+circumstances surrounding Burger’s birth because, by showing
+the supportive and loving family environment in which Burger
+was raised, the testimony provided the jury a glimpse of who
+Burger was. (See People v. Dykes (2009) 46 Cal.4th 731, 786
+[victim impact evidence offers the jury “an idea of who the victim
+was”].) As we have repeated, “ ‘[t]he People are entitled to
+present a “ ‘complete life histor[y] [of the murder victim] from
+early childhood to death.’ ” ’ ” (People v. Williams (2015)
+61 Cal.4th 1244, 1286, quoting People v. Garcia (2011)
+52 Cal.4th 706, 751; accord, People v. Zamudio (2008) 43 Cal.4th
+327, 365.)
+      For a similar reason, Mrs. Burger’s references to her
+daughter’s trust in Jesus and graduation from a Christian
+college were not improper. We denied a similar challenge to
+testimony regarding a murder victim’s participation in Bible
+study classes in People v. Pollock, supra, 32 Cal.4th at page
+1181. Although we noted that the testimony there did not
+include mention of the victim’s “specific religious beliefs” (ibid.),
+the testimony here was brief and limited to a general description
+of Burger as a devout Christian. And, like in Pollock, nothing
+in the record supports defendant’s assertion that this testimony
+would have suggested to the jury that its penalty decision should
+be guided by religious doctrine, let alone his claim that these
+references “cast a mantle of saintliness about [Burger] and
+invited the jury to recall the Old Testament call to take
+vengeance for the righteous.”
+     Further, we find untenable defendant’s contention that
+the testimony by Mrs. Burger and Woodward relating their
+
+                                   78
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+thoughts about Burger subsequent to her death (which
+defendant characterizes as “psychic connections”) would have
+invited jurors to believe Burger’s spirit would be watching over
+their deliberations.     We have previously rejected similar
+challenges to “ ‘supernaturally tinged’ ” evidence such as a
+murder victim’s mother describing a nightmare about being shot
+just before learning her son had been shot (People v. Mendez,
+supra, 7 Cal.5th at p. 713) and a witness describing that the
+victim’s goddaughter reported seeing the victim’s ghost after the
+victim was killed (People v. Verdugo (2010) 50 Cal.4th 263, 297–
+299).
+      Defendant also urges us to revisit our holding in People v.
+Edwards, supra, 54 Cal.3d 787, that section 190.3, factor (a)
+allows victim impact evidence, and those decisions declining to
+limit such evidence to the facts and circumstances that the
+defendant knew or reasonably should have known at the time of
+the crime. He cites to language in Justice Kennard’s concurring
+and dissenting opinion in People v. Fierro (1991) 1 Cal.4th 173,
+264. We have declined to adopt that language, and defendant
+provides no persuasive reason to reopen our consideration of
+these issues. (See, e.g., People v. Simon (2016) 1 Cal.5th 98,
+140–141; People v. Jones (2012) 54 Cal.4th 1, 70; People v. Myles
+(2012) 53 Cal.4th 1181, 1219; People v. McKinnon, supra,
+52 Cal.4th at p. 690.)
+       Finally, defendant asserts that the victim impact
+testimony was far more prejudicial than probative and that the
+court should not have allowed the jury to consider it when
+deciding the appropriate punishment. Again, the claim is
+forfeited because defendant failed to object. And, again,
+defendant’s claim fails on its merits. Testimony regarding grief
+and loss is necessarily emotional, but that does not necessarily
+
+                                  79
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+render it inadmissible. Here, the testimony of Burger’s father,
+mother, and sister, which included their descriptions of the
+shock and grief they experienced on learning of Burger’s death,
+was the type of evidence typically permitted at the penalty
+phase and “concerned the kinds of loss that loved ones commonly
+express in capital cases.” (See People v. Lewis and Oliver, supra,
+39 Cal.4th at p. 1057; see also People v. Myles, supra, 53 Cal.4th
+at p. 1197 [victim’s father related to the jury that when he was
+informed of his son’s death, he fell to his knees and dropped the
+telephone in disbelief].) Nor was it error to allow Mrs. Burger’s
+testimony describing the emotion she felt listening to trial
+testimony or testifying herself. Testimony describing the
+“ ‘residual and lasting impact’ ” of a murder on the victim’s
+family is permissible. (People v. McKinnon, supra, 52 Cal.4th at
+p. 691, quoting People v. Brown (2004) 33 Cal.4th 382, 398.)
+       Characterizing the victim impact testimony as
+“duplicative and excessive,” defendant faults the court for not
+attempting to lessen the prejudicial effect by, for example,
+allowing only one of the three members of Burger’s immediate
+family to testify. The record shows that the victim impact
+testimony in this case was neither duplicative nor excessive.
+Indeed, the testimony represented only 20 pages in a reporter’s
+transcript of the prosecution’s case in aggravation that spanned
+several hundred pages. (See, e.g., People v. Mendez, supra,
+7 Cal.5th at p. 712 [stating that allowing three victim impact
+witnesses per murder victim is comparable to what this court
+has previously condoned]; People v. Williams, supra, 61 Cal.4th
+at p. 1285 [rejecting challenge to amount of victim impact
+testimony involving ten witnesses].) We discern no error in the
+trial court’s decision to allow the testimony here.
+
+
+
+                                  80
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Nor did the testimony unduly prejudice defendant by
+painting a contrasting picture for the jury, effectively asking the
+jury to compare Burger’s life with defendant’s and to “base its
+punishment decision on which life was more valuable to society.”
+Nothing in the record supports this assertion, and we have
+previously rejected similar unsupported claims. (See People v.
+Winbush, supra, 2 Cal.5th at p. 465; People v. Kelly (2007)
+42 Cal.4th 763, 799.)
+      C. Unadjudicated Criminal Activity
+    Defendant contends that section 190.3, factor (b), which
+permits evidence of “criminal activity by the defendant which
+involved the use or attempted use of force or violence or the
+express or implied threat to use force of violence,” violates the
+Eighth Amendment to the federal Constitution.
+     The purpose of section 190.3, factor (b) is to “enable the jury
+to make an individualized assessment of the character and
+history of a defendant to determine the nature of the
+punishment to be imposed.” (People v. Grant (1988) 45 Cal.3d
+829, 851.) This court has long held that the admission of
+evidence of unadjudicated crimes at the penalty phase is not a
+violation of state or federal constitutional principles. (See, e.g.,
+People v Jenkins, supra, 22 Cal.4th at p. 1054; People v.
+Balderas (1985) 41 Cal.3d 144, 204–205.)
+     Defendant mischaracterizes section 190.3, factor (b) as
+allowing evidence of irrelevant everyday “spats and quarrels.”
+In fact, the statute allows the use of criminal activity related to
+force or violence, or what we have described as “prior violent
+conduct.” (People v. Davis (1995) 10 Cal.4th 463, 544.) The jury
+is instructed that it may consider evidence of such prior conduct
+only when the conduct has been proved beyond a reasonable
+
+
+                                   81
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+doubt. (People v. Robertson (1982) 33 Cal.3d 21, 53.) As we have
+explained, “[t]he penalty phase is unique, intended to place
+before the sentencer all evidence properly bearing on its decision
+under the Constitution and statutes. Prior violent criminality
+is obviously relevant in this regard; the reasonable doubt
+standard ensures reliability; and the evidence is thus not
+improperly prejudicial or unfair.” (People v. Balderas, supra,
+41 Cal.3d at p. 205, fn. 32.) Defendant was entitled to argue to
+the jury that the incidents were mere minor spats and should be
+given little weight. (See People v. Tully, supra, 54 Cal.4th at
+p. 1030 [“Whether defendant’s use of force was legally justified
+and the weight, if any, to be given to these incidents for purposes
+of the individualized assessment of his character and history
+were matters for the jury to decide in light of the instructions
+given to it”].)
+     Defendant further asserts that the admission of
+unadjudicated acts through anecdotal evidence violates the
+Eighth Amendment’s requirement of heightened reliability in
+capital cases because, as a general matter, only the victim’s
+recollection is presented to the jury. We have repeatedly
+rejected claims that the admission of section 190.3, factor (b)
+evidence violates a defendant’s right to a reliable penalty
+determination. (See, e.g., People v. Anderson (2001) 25 Cal.4th
+543, 584–585.) Defendant’s complaint that only the victim’s
+version of events is the one heard by the jury is remedied by his
+Sixth Amendment right to confront the witnesses who testify
+against him at the penalty phase. (See People v. Rogers (2006)
+39 Cal.4th 826, 894.)
+     Defendant also asserts that the admission of evidence
+under section 190.3, factor (b) violates the Eighth Amendment
+because it is out of step with evolving standards of decency. We
+
+                                  82
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+have not previously considered this particular challenge to
+section 190.3, factor (b). We reject it now.
+      Defendant asserts that section 190.3, factor (b) is “the only
+statute in the country to include a statutory aggravator that
+allows a jury to impose the death penalty based upon
+unadjudicated everyday spats and quarrels.” He acknowledges,
+however, that other states allow consideration of unadjudicated
+acts as a nonstatutory aggravating factor.
+      Indeed, at least seven other states allow the admission of
+unadjudicated acts in a similar fashion as California. (See, e.g.,
+Devier v. State (Ga. 1984) 323 S.E.2d 150, 163 [allowing as an
+aggravating factor “[a]ny lawful evidence,” including prior
+unadjudicated acts, that tend to show a defendant’s “general
+moral character” or “predisposition to commit other crimes”];
+State v. Johns (Mo. 2000) 34 S.W.3d 93, 113 [allowing
+consideration of evidence of defendant’s “character and
+conduct,” including unadjudicated criminal conduct that
+occurred before or after the capital offense]; Paxton v. State
+(Okla. 1993) 867 P.2d 1309, 1321–1323 [allowing unadjudicated
+offenses to support aggravating circumstance of continuing
+threat to society]; State v. Tucker (Or. 1993) 845 P.2d 904, 913
+[allowing evidence of unadjudicated “bad acts” as an
+aggravating factor related to defendant’s future dangerousness];
+Powell v. State (Tex. 1994) 898 S.W.2d 821, 830 [allowing
+unadjudicated “extraneous offenses” to show defendant poses a
+future danger to society]; State v. Taylor (Utah 1991) 818 P.2d
+1030, 1035 [allowing violent and nonviolent unadjudicated
+crimes as an aggravating factor relevant to defendant’s
+character]; Stockton v. Commonwealth (Va. 1991) 402 S.E.2d
+196, 209–210 [construing applicable statute as allowing
+evidence of unadjudicated misconduct, rejecting due process
+
+                                  83
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+challenge to that practice, and noting split between states
+allowing or prohibiting admission of such evidence].)
+      That California is among eight states allowing
+consideration at the penalty phase of prior unadjudicated
+criminal activity involving force or violence is not sufficient to
+establish that California’s statutory scheme is out of step with
+evolving standards of decency or otherwise violates the Eighth
+Amendment. (See People v. Taylor, supra, 48 Cal.4th at p. 634;
+cf. Miller v. Alabama (2012) 567 U.S. 460, 469–470, 479 [holding
+that mandatory imposition of life without parole sentences for
+juvenile offenders violated 8th Amend. evolving standards of
+decency].)
+     D. Constitutionality of California’s Death Penalty
+        Law
+    Defendant     presents    several    challenges    to    the
+constitutionality of California’s death penalty law that, he
+acknowledges, this court has previously considered and rejected.
+We decline his request to reconsider our prior conclusions.
+(People v. Schmeck (2005) 37 Cal.4th 240, 303.)
+     Section 190.2 provides a list of the special circumstances,
+including felony murder, which render a defendant eligible for
+the death penalty. These factors are not so numerous and
+broadly interpreted that they fail to narrow the class of death-
+eligible first degree murders as required by the Eighth and
+Fourteenth Amendments. (People v. Brooks (2017) 3 Cal.5th 1,
+114–115 (Brooks); People v. Johnson (2016) 62 Cal.4th 600, 654–
+655 (Johnson).)
+     Section 190.3, factor (a), directs the jury to consider as
+evidence in aggravation the circumstances of the capital crime.
+This has not resulted in the wanton imposition of the death
+
+
+                                  84
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+penalty in violation of the Fifth, Sixth, Eighth, and Fourteenth
+Amendments by permitting prosecutors to argue that the
+various features of the murder, even features that are the
+converse of those in other cases, are aggravating factors.
+(Johnson, supra, 62 Cal.4th at p. 655; People v. Brown, supra,
+33 Cal.4th at p. 401.)
+     Defendant raises various challenges to the procedural
+aspects of a penalty phase trial. This court has repeatedly
+rejected those challenges. The federal Constitution does not
+require “either unanimity as to the truth of aggravating
+circumstances or findings beyond a reasonable doubt that an
+aggravating circumstance (other than Penal Code section 190.3,
+factor (b) or (c) evidence) has been proved, that the aggravating
+factors outweighed the mitigating factors, or that death is the
+appropriate sentence.” (People v. Rangel (2016) 62 Cal.4th 1192,
+1235, citing People v. Whalen (2013) 56 Cal.4th 1, 90, People v.
+Dykes, supra, 46 Cal.4th at p. 814, People v. Avila, supra,
+38 Cal.4th at p. 724; see also Johnson, supra, 62 Cal.4th at
+pp. 655–656; People v. Linton (2013) 56 Cal.4th 1146, 1215–
+1216.) Neither the federal Constitution nor state law requires
+the jury be instructed that the prosecution bears some burden
+of proof as to the truth of the aggravating factors (other than
+factor (b) or (c) evidence) or the appropriateness of a death
+verdict. Nor is the court required to explicitly tell the jury that
+neither party bears the burden of proof. (Linton, supra,
+56 Cal.4th at p. 1215.) The high court’s decisions interpreting
+the Sixth Amendment in Apprendi v. New Jersey (2000) 530 U.S.
+466 and its progeny do not compel a different conclusion. (People
+v. Merriman, supra, 60 Cal.4th at p. 106.)
+    There is no federal constitutional requirement, either under
+the Fifth, Sixth, Eighth, or Fourteenth Amendments, that the
+
+                                  85
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+jury make unanimous findings regarding the aggravating
+factors or the truth of the unadjudicated criminal activity
+admitted under section 190.3, factor (b). (People v. Clark (2011)
+52 Cal.4th 856, 1007; People v. Balderas, supra, 41 Cal.3d at
+pp. 204–205.)
+     The standard instructions governing the jury’s deliberative
+process at the penalty phase are not constitutionally infirm.
+Informing the jury that a death verdict is “ ‘warranted’ ” if the
+aggravating factors are “ ‘so substantial’ ” in comparison with
+the mitigating factors is not impermissibly broad or vague.
+(People v. Arias (1996) 13 Cal.4th 92, 171; People v. Breaux
+(1991) 1 Cal.4th 281, 315–316.) The jury need not be instructed
+that it must return a verdict of life without the possibility of
+parole if it finds the mitigating circumstances outweigh the
+aggravating circumstances. (People v. Duncan (1991) 53 Cal.3d
+955, 978.) There is no requirement that the jurors be instructed
+that a defendant bears no burden of proving the facts in
+mitigation, or that mitigating circumstances did not have to be
+found unanimously. (People v. Brasure, supra, 42 Cal.4th at
+pp. 1068–1069.) And the death penalty law does not require the
+jury be instructed that there is a presumption that life without
+possibility of parole is the appropriate sentence. (Arias, supra,
+13 Cal.4th at p. 190.)
+      The penalty phase jury is not required to make written
+findings regarding its penalty choice, and the absence of such
+written findings does not preclude meaningful appellate review.
+(People v. McKinzie (2012) 54 Cal.4th 1302, 1364, abrogated on
+other grounds in People v. Scott (2015) 61 Cal.4th 363, 391, fn. 3;
+People v. Fauber (1992) 2 Cal.4th 792, 859.)
+
+
+
+
+                                  86
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+     The court’s instructions regarding the various aggravating
+and mitigating factors did not act as a barrier to the jury’s
+consideration of defendant’s mitigating evidence or infringe
+defendant’s constitutional rights. An instruction reflecting
+section 190.3’s use of adjectives such as “extreme” and
+“substantial” in factors (d) and (g) does not interfere with a
+defendant’s right to present mitigating evidence. (Brooks,
+supra, 3 Cal.5th at p. 115; People v. Adcox (1988) 47 Cal.3d 207,
+270.) Nor must a court delete from the instructions any
+inapplicable mitigating factors, or identify which factors are
+aggravating and which are mitigating. (People v. Cook (2006)
+39 Cal.4th 566, 618.) Directing the jury to consider “ ‘whether
+or not’ ” certain mitigating factors were present does not invite
+the jury to use the absence of such factors as a factor in
+aggravation. (Johnson, supra, 62 Cal.4th at p. 656.)
+      The failure of California’s death penalty procedures to
+provide for intercase proportionality review does not violate the
+federal Constitution or principles of equal protection or due
+process. (Brooks, supra, 3 Cal.5th at p. 115; People v. Verdugo,
+supra, 50 Cal.4th at p. 305.)
+      The failure to afford capital defendants at the penalty
+phase the same procedural safeguards provided to noncapital
+defendants does not violate the equal protection clause pf the
+federal Constitution. (People v. Whalen (2013) 56 Cal.4th 1, 91,
+disapproved on another ground in People v. Romero and Self,
+supra, 62 Cal.4th at p. 44, fn. 17.)
+    California does not regularly use the death penalty as a
+form of punishment, and “its imposition does not violate
+international norms of decency or the Eighth Amendment’s
+
+
+
+
+                                  87
+                        PEOPLE v. SCHULTZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+prohibition against cruel and unusual punishment.” (People v.
+Clark, supra, 52 Cal.4th at p. 1008.)
+     Defendant acknowledges that this court has previously
+rejected each of the challenges to California’s death penalty
+scheme that he presents here. He asserts, however, that our
+analysis of these issues is constitutionally defective because we
+have failed to consider their cumulative impact or to address the
+capital sentencing scheme as a whole. This court has considered
+and rejected identical arguments before, and we do so again
+here. (See, e.g., People v. Amezcua and Flores (2019) 6 Cal. 5th
+886, 928; Johnson, supra, 62 Cal.4th at pp. 657–658.)
+       V. CUMULATIVE EFFECT OF ASSERTED ERRORS
+     Defendant argues that the asserted errors that occurred
+during the guilt and penalty phases, when considered
+cumulatively, deprived him of a fair trial. We have assumed for
+purposes of argument that the recording of Burger’s last
+telephone call and Magee’s testimony regarding the DNA
+extraction conducted by Yates should not have been admitted,
+but concluded that any error was harmless. (See ante, pts. III.A,
+& III.B.) We have also assumed that the salutations in
+correspondence from Merriman to defendant were inadmissible
+hearsay, but likewise concluded that defendant was not
+prejudiced by any error in the admission.            (See ante,
+pt. IV.A.1.b.iii.) And we have concluded that the prosecution
+committed misconduct by eliciting statements from a rebuttal
+witness during the penalty phase regarding the contents of one
+of those letters, but that the trial court did not abuse its
+discretion in denying the defendant’s related motion for a
+mistrial. (See ante, pt. IV.A.2.) Considering these together, we
+
+
+
+
+                                  88
+                         PEOPLE v. SCHULTZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+likewise conclude the cumulative effect of the asserted errors
+was harmless.
+                         VI. CONCLUSION
+      We affirm the judgment in its entirety.
+
+
+                                        CANTIL-SAKAUYE, C. J.
+
+
+We Concur:
+CORRIGAN, J.
+LIU, J.
+CUÉLLAR, J.
+KRUGER, J.
+GROBAN, J.
+GOETHALS, J.*
+
+
+
+
+________________________
+*
+   Associate Justice of the Court of Appeal, Fourth Appellate District,
+Division Three, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+
+
+
+
+                                   89
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion People v. Schultz
+__________________________________________________________________________________
+
+Unpublished Opinion
+Original Appeal XXX
+Original Proceeding
+Review Granted
+Rehearing Granted
+
+__________________________________________________________________________________
+
+Opinion No. S114671
+Date Filed: November 23, 2020
+__________________________________________________________________________________
+
+Court: Superior
+County: Ventura
+Judge: Donald D. Coleman
+
+__________________________________________________________________________________
+
+Counsel:
+
+Jeralyn Keller, under appointment by the Supreme Court, for Defendant and Appellant.
+
+Kamala D. Harris and Xavier Becerra, Attorneys General, Dane R. Gillette, Chief Assistant Attorney
+General, Lance E. Winters, Assistant Attorney General, Jaime L. Fuster, Joseph P. Lee and Ryan M.
+Smith, Deputy Attorneys General, for Plaintiff and Respondent.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+Jeralyn Keller
+790 East Colorado Blvd., Suite 900
+Pasadena, CA 91101-2113
+(626) 683-1233
+
+Ryan M. Smith
+Deputy Attorney General
+300 South Spring St., Suite 1702
+Los Angeles, CA 90013
+(213) 269-6108

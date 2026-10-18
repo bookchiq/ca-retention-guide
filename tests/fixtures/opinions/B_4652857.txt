@@ -1,0 +1,554 @@
+cl_opinion_id: 4652857
+cluster: 4849078
+docket: B303321
+date: 2021-01-20
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Moseley
+----
+Filed 1/20/21
+
+                CERTIFIED FOR PUBLICATION
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                SECOND APPELLATE DISTRICT
+
+                         DIVISION TWO
+
+
+ THE PEOPLE,                               B303321
+
+        Plaintiff and Appellant,           (Los Angeles County
+                                           Super. Ct. No. BA164739)
+        v.
+
+ ERICK LAMAR MOSELEY,
+
+        Defendant and Respondent.
+
+
+
+      APPEAL from an order of the Superior Court of Los
+Angeles County, William C. Ryan, Judge. Reversed and
+remanded with directions.
+      Xavier Becerra, Attorney General, Phillip J. Lindsay,
+Assistant Attorney General, Julie A. Malone and Jennifer O.
+Cano, Deputy Attorney General, for Plaintiff and Appellant.
+      Law Office of Michael Satris and Michael Satris, under
+appointment by the Court of Appeal, for Defendant and
+Respondent.
+
+
+
+
+                                   1
+      Is a defendant who was sentenced to 66 years to life for
+violent sex offenses he committed at age 17 entitled to youth
+offender parole consideration under Penal Code section 30511 on
+federal and California constitutional equal protection grounds?
+We answer this question in the negative, finding that a rational
+basis exists for treating one strike offenders such as the
+defendant differently from other youthful offenders entitled to
+the benefit of the statute, applying the reasoning and analysis of
+the court in People v. Williams (2020) 47 Cal.App.5th 475, review
+granted July 22, 2020, S262229 (Williams).
+
+                          BACKGROUND
+       A jury convicted Erick Lamar Moseley (Moseley) in 1998 of
+four counts of forcible rape (§ 261, subd. (a)(2)), one count of
+forcible oral copulation (§ 288, subd. (c)), and one count of first
+degree robbery. (§ 211.) Moseley was 17 years old at the time he
+committed the crimes. The jury found that Moseley committed
+the offenses during a first degree burglary with the intent to
+commit rape in violation of section 667.61, subdivision (d)(4); that
+he committed forcible rape against more than one victim in
+violation of section 667.61, subdivision (e)(5); and that he
+personally used a dangerous or deadly weapon in violation of
+section 12022.3, subdivision (a). Moseley was sentenced in
+January 1999 to two consecutive terms of 25 years to life, one of
+those terms enhanced by four years for use of a weapon, together
+with an additional consecutive term of 12 years, for a total of 66
+years to life.
+
+
+__________________________________________________________
+1     All further statutory references are to the Penal Code.
+
+
+
+
+                                 2
+       Moseley petitioned for a writ of habeas corpus in December
+2018, arguing that his sentence violated the Eighth Amendment
+prohibition against cruel and unusual punishment. The Los
+Angeles County District Attorney filed a return admitting that
+under the current sentence, Moseley would not be eligible for
+parole until age 73. The District Attorney conceded that
+Moseley’s sentence was unconstitutional under the Eighth
+Amendment because Moseley would have little, if any,
+meaningful life expectancy remaining at age 73.
+       In April 2019, Division Four of the First Appellate District
+held in People v. Edwards (2019) 34 Cal.App.5th 183 (Edwards)
+that section 3051, subdivision (h) violates the equal protection
+clause of the Fourteenth Amendment by excluding certain “One
+Strike” young adult offenders from the statute’s benefits. The
+trial court ordered the California Department of Corrections and
+Rehabilitation (CDCR) to file an informal response in light of the
+court’s decision in Edwards.2 CDCR argued in its informal
+response that Edwards had no bearing on Moseley’s Eighth
+Amendment claim or the relief owed him.
+       The trial court concluded that it was bound by the court’s
+determination in Edwards that youth offender parole eligibility
+hearings must be made available to one strike youth offenders
+after 25 years of incarceration. The trial court granted Moseley’s
+habeas petition on that basis.
+
+
+__________________________________________________________
+2     The CDCR reiterates the concession that Moseley’s
+sentence is unconstitutional under the Eighth Amendment but
+argues that the issue here is whether equal protection principles
+were violated by treating one strike youth offenders differently
+from youth offenders convicted of other crimes.
+
+
+
+
+                                 3
+      The CDCR appeals from the trial court’s October 18, 2019
+order granting Moseley’s habeas petition. CDCR contends the
+judgment granting habeas relief should be reversed and the
+matter remanded for resentencing “in accordance with
+constitutional principles.” We agree.
+
+                            DISCUSSION
+I. Youth offender parole hearings
+        Section 3051 was enacted in 2013 to “‘establish a parole
+eligibility mechanism that provides a person serving a sentence
+for crimes that he or she committed as a juvenile the opportunity
+to obtain release when he or she has shown that he or she has
+been rehabilitated and gained maturity. . . .’” (In re Trejo (2017)
+10 Cal.App.5th 972, 980.) Under section 3051, youth offenders
+who committed their “controlling offense” when they were 25
+years old or younger are entitled to a parole hearing after serving
+a designated period in custody. (§ 3051, subd. (b).) A “controlling
+offense” is defined as “the offense or enhancement for which any
+sentencing court imposed the longest term of imprisonment.”
+(§ 3051, subd. (a)(2)(B).)
+        Section 3051, subdivision (b)(3) states: “A person who was
+convicted of a controlling offense that was committed when the
+person was 25 years of age or younger and for which the sentence
+is a life term of 25 years to life shall be eligible for release on
+parole at a youth offender parole hearing during the person’s
+25th year of incarceration. The youth parole eligible date for a
+person eligible for a youth offender parole hearing under this
+paragraph shall be the first day of the person’s 25th year of
+
+
+
+
+                                 4
+incarceration.” Subdivision (h) of section 30513 excludes from
+youth offender parole consideration, however, offenders such as
+Moseley who were sentenced under section 667.61, the “One
+Strike” law.4 The statutory exclusion does not apply to youth
+offenders convicted of intentional first degree murder. (§ 3051,
+subd. (h); Edwards, supra, 34 Cal.App.5th at p. 195.)
+
+II. Equal protection jurisprudence
+      The Fourteenth Amendment to the United States
+Constitution and article I, section 7 of the California Constitution
+guarantee equal protection under the law to all persons. To
+succeed on an equal protection claim, Moseley must show that
+the state has adopted a classification that affects two or more
+similarly situated groups in an unequal manner. (People v.
+Wilkinson (2004) 33 Cal.4th 821, 836. (Wilkinson).)
+      When a class of criminal defendants is similarly situated to
+another class of defendants who are sentenced differently, courts
+look to determine whether a rational basis exists for the
+__________________________________________________________
+3      Subdivision (h) of section 3051 states: “This section shall
+not apply to cases in which sentencing occurs pursuant to Section
+1170.12, subdivisions (b) to (i), inclusive, of Section 667, or
+Section 667.61, or to cases in which an individual is sentenced to
+life in prison without the possibility of parole for a controlling
+offense that was committed after the person had attained 18
+years of age. This section shall not apply to an individual to
+whom this section would otherwise apply, but who, subsequent to
+attaining 26 years of age, commits an additional crime for which
+malice aforethought is a necessary element of the crime or for
+which the individual is sentenced to life in prison.”
+
+4     Forcible rape and forcible oral copulation are two offenses
+subject to the One Strike law. (§ 667.61, subd. (c)(1), (c)(7).)
+
+
+
+
+                                 5
+difference. (Johnson v. Department of Justice (2015) 60 Cal.4th
+871, 882. (Johnson).) “[E]qual protection of the law is denied only
+where there is no ‘rational relationship between the disparity of
+treatment and some legitimate governmental purpose.’” (People
+v. Turnage (2012) 55 Cal.4th 62, 74 (Turnage).) “This standard of
+rationality does not depend upon whether lawmakers ever
+actually articulated the purpose they sought to achieve. Nor
+must the underlying rationale be empirically substantiated.
+[Citation.] While the realities of the subject matter cannot be
+completely ignored [citation], a court may engage in ‘“rational
+speculation”’ as to the justifications for the legislative choice
+[citation]. It is immaterial for rational basis review ‘whether or
+not’ any such speculation has ‘a foundation in the record.’” (Id. at
+pp. 74-75.) To mount a successful rational basis challenge, a
+party must “‘negative every conceivable basis’” that might
+support the disputed statutory disparity. (Heller v. Doe (1993)
+509 U.S. 312, 320. (Heller).) If a plausible basis exists for the
+disparity, “[e]qual protection analysis does not entitle the
+judiciary to second-guess the wisdom, fairness, or logic of the
+law.” (Turnage, at p. 74.)
+
+      A. People v. Bell
+      Applying the deferential rational basis standard, Division
+Eight of this Court rejected a juvenile one strike defendant’s
+equal protection challenge to section 3051. (People v. Bell (2016)
+3 Cal.App.5th 865, 876-880 (Bell), review granted on another
+ground on Jan. 11, 2017.) The 14-year-old defendant in Bell
+argued there was no rational basis for treating him more severely
+than a juvenile defendant convicted of special circumstances
+murder. (Id. at p. 878.) The court in Bell disagreed and
+
+
+
+
+                                 6
+concluded that the defendant’s commission of multiple offenses,
+including rape, burglary with the intent to commit rape, and
+assault with a firearm, provided a rational basis for excluding
+one strike offenders from section 3051.
+       The court in Bell further concluded that recidivism
+concerns also provides a rational basis for excluding violent sex
+offenders from section 3051. (Bell, supra, 3 Cal.App.5th at
+p. 879.) The court reasoned that several comprehensive statutory
+schemes, including the Sexually Violent Predators Act (Welf. &
+Inst. Code, § 6600 et seq.), the Mentally Disordered Offenders Act
+(Pen. Code, § 2690 et seq.), and the section 290 lifetime
+registration requirement imposed on a large class of sex
+offenders, reflect a legislative concern that sex offenders pose a
+risk of recidivism. (Bell, at pp. 879-880.) The court in Bell
+determined that recidivism concerns were the basis for the
+Legislature’s exclusion of one strike offenders from section 3051
+and that the risk of recidivism provided a rational basis that
+exclusion. (Ibid.) The California Supreme Court subsequently
+ordered Bell vacated and transferred for reconsideration in light
+of People v. Contreras (2018) 4 Cal.5th 349 (Contreras).
+
+      B. People v. Contreras
+      In Contreras, the California Supreme Court held that the
+Eighth Amendment’s prohibition against cruel and unusual
+punishment prevented juvenile non-homicide offenders from
+receiving sentences of 50 years to life and 58 years to life.
+(Contreras, supra, 4 Cal.5th at p. 356.) Citing Graham v. Florida
+(2010) 560 U.S. 48 (Graham), the court in Contreras noted that
+while “‘[r]ecidivism is a serious risk to public safety, and so
+incapacitation is an important goal’ . . . [b]ut the ‘characteristics
+
+
+
+
+                                  7
+of juveniles’ make it ‘questionable’ to conclude that a juvenile
+offender is incorrigible; indeed, ‘“incorrigibility is inconsistent
+with youth.”’” (Contreras, at p. 366.) The court noted that the
+statute’s distinction between one strike defendants and those
+convicted of intentional first degree murder appeared
+inconsistent with United States Supreme Court constitutional
+jurisprudence: “[W]e note defendants’ contention that the
+current treatment of juvenile One Strike offenders is anomalous
+given that juveniles convicted of special circumstance murder and
+sentenced to LWOP5 are now eligible for parole during their 25th
+year in prison. This scheme appears at odds with the [United
+States Supreme Court’s] observation that ‘defendants who do not
+kill, intend to kill, or foresee that life will be taken are
+categorically less deserving of the most serious forms of
+punishment than are murderers. . . . Although an offense like
+robbery or rape is “a serious crime deserving serious
+punishment,” those crimes differ from homicide crimes in a moral
+sense.’ [Citation.] In the death penalty context, the high court
+has said ‘there is a distinction between intentional first-degree
+murder on the one hand and nonhomicide crimes against
+individual persons, even including child rape, on the other. The
+latter crimes may be devastating in their harm, as here, but “in
+terms of moral depravity and of the injury to the person and to
+the public,” they cannot be compared to murder in their “severity
+and irrevocability.”’” (Id. at p. 382, quoting Graham, supra, 560
+U.S. at p. 69 and Kennedy v. Louisiana (2008) 554 U.S. 407, 438.)
+        The court in Contreras went on to state: “The parties point
+to no other provision of our Penal Code, and we are aware of
+none, that treats a nonhomicide offense more harshly than
+__________________________________________________________
+5     Life in prison without the opportunity for parole (LWOP).
+
+
+
+
+                                8
+special circumstance murder. . . . We are also unaware of any
+other jurisdiction that punishes juveniles for aggravated rape
+offenses more severely than for the most aggravated forms of
+murder. Further, we note the concern raised by amicus
+curiae . . . that if defendants had killed their victims after the
+sexual assaults and had been sentenced to LWOP, they would
+have been eligible for a youth offender parole hearing after 25
+years of incarceration . . . . [¶] Defendants contend that this
+treatment of juvenile One Strike offenders violates principles of
+equal protection and the Eighth Amendment. There is also a
+colorable claim that it constitutes ‘unusual punishment’ within
+the meaning of article I, section 17 of the California Constitution.
+As with the other issues arising from new legislation, we decline
+to resolve these contentions here. It suffices to note . . . that the
+current penal scheme for juveniles may warrant additional
+legislative attention.” (Contreras, supra, 4 Cal.5th at p. 382.)
+
+       C. People v. Edwards
+       Relying on Contreras, the First Appellate District in
+Edwards held that equal protection required one strike young
+adult offenders to be afforded a youth offender parole hearing
+under section 3051 and that the statute’s exclusion of such
+offenders was unconstitutional. (Edwards, supra, 34 Cal.App.5th
+at p. 197.) The defendants in Edwards were both 19 years old
+when they jointly sexually assaulted and robbed the victim and
+her male friend. Their subsequent conviction of one strike and
+other offenses resulted in sentences of 129 years to life and 95
+years to life. (Id. at p. 186.) The defendants challenged their
+respective sentences as cruel and unusual punishment. They
+
+
+
+
+                                  9
+also challenged on equal protection grounds their exclusion from
+the provisions of section 3051. (Ibid.)
+        The court in Edwards noted, as did the California Supreme
+Court in Contreras, that section 3051 makes youthful offender
+parole hearings available even for first degree murderers (except
+those who committed murder as an adult and received a sentence
+of life without parole). The Edwards court observed that “United
+States Supreme Court case law has long distinguished between
+such murders and other crimes against persons, reserving the
+most draconian sentences for murderers alone. Consistent with
+the Eighth Amendment, first degree murderers can be executed;
+defendants convicted of even the most egregious sexual crimes
+cannot. . . . Section 3051 flouts this pattern. It makes youthful-
+offender parole hearings available to intentional first degree
+murderers after 25 years of incarceration, while categorically
+denying them to One Strike sex offenders.” (Edwards, supra, 34
+Cal.App.5th at p. 197, citing Kennedy v. Louisiana, supra, 554
+U.S. 407, Coker v. Georgia (1977) 433 U.S. 584, Miller v. Alabama
+(2012) 567 U.S. 460, and Graham, supra, 560 U.S. at p. 82.) The
+court in Edwards went on to state: “Considering this United
+States Supreme Court jurisprudence and the California Supreme
+Court’s invocation of it in Contreras, we conclude section 3051’s
+carve-out for One Strike defendants violates principles of equal
+protection.” (Edwards, at p. 197.)
+
+      D. People v. Williams
+      The Fourth Appellate District in Williams, disagreed with
+Edwards, finding that the threat of recidivism by violent sexual
+offenders provides a rational basis for excluding one strike youth
+offenders from the benefits of section 3051. (Williams, supra, 47
+
+
+
+
+                                10
+Cal.App.5h at p. 493.) The court in Williams found the Edward
+court’s reliance on Contreras misplaced for two reasons. First,
+Contreras involved a constitutional challenge to LWOP sentences
+under the Eighth Amendment’s prohibition against cruel and
+unusual punishment and not whether such sentences violated the
+equal protection clause. Second, Contreras only addressed the
+constitutional implications of juvenile offenders sentenced to
+LWOP, whereas the defendant in Williams was a 24-year-old
+adult when he committed sexually violent crimes against two
+different victims. (Williams, at pp. 492-493.) Given these
+differences, the court in Williams did not find Contreras to be
+controlling authority on the issue before it. The Williams court
+concluded: “Given the deferential standard we apply in
+determining rationality for equal protection purposes [citation],
+and given our view that the risk of recidivism provides a rational
+basis for the Legislature to treat violent felony sex offenders
+sentenced under the one strike law differently than murderers or
+others who commit serious crimes, we reject defendant’s equal
+protection challenge to subdivision (h) of section 3051.”
+(Williams, at p. 493.)
+       The California Supreme Court granted review of Williams
+on the issue of whether section 3051, subdivision (h) violates the
+equal protection clause of the Fourteenth Amendment by
+excluding young adults convicted and sentenced for serious sex
+crimes under the one strike law from youth offender parole
+consideration, while young adults convicted of first degree
+murder are entitled to such consideration.
+
+
+
+
+                               11
+III. Section 3051, subdivision (h) does not violate equal
+protection
+       A. Mosley is not similarly situated to those who do
+          not commit violent sex crimes.
+       The Supreme Court’s grant of review rendered Williams
+persuasive, rather than binding authority. (Cal. Rules of Court,
+rule 8.1115(e)(1).) Nevertheless, we are persuaded by its analysis
+over that of Edwards for the following reasons. First, Edwards
+broadly holds that murderers and one strikers are “similarly
+situated” because the purpose of section 3051 is to give youthful
+offenders a “meaningful opportunity to obtain release” after
+lengthy prison sentences. (§ 3051(e)). The Constitution does not
+require things that are different in fact or opinion receive the
+same treatment under the law (Briggs v. Brown (2017) 3 Cal.5th
+808, 842.). Absent a showing that two groups are similarly
+situated with respect to the legitimate purpose of the law, an
+equal protection analysis should end. (People v. Rhodes (2005)
+126 Cal.App.4th 1374, 1384.)
+       In Edwards, the court assumed that one strike youth
+offenders (who are excluded from youth offender parole) and
+youthful murderers (who are not excluded) are similarly situated
+because they are “both aged 25 years or younger [and] are two
+groups of violent youthful offenders who seek the opportunity to
+demonstrate after extended terms of imprisonment that they
+should rejoin society.” (Edwards, supra, 34 Cal.App.5th at p. 195,
+citing People v. Brandao (2012) 203 Cal.App.4th 436, 442.)
+However, there is no established precedent that supports this
+conclusion. If a common interest in rejoining society after an
+extended imprisonment were the proper standard, nearly every
+
+
+
+
+                               12
+inmate would be similarly situated for any statute with an
+ameliorative effect on an inmate’s sentence.
+       Second, youthful sex offenders and youthful murderers are
+not similarly situated because offenders who commit different
+crimes are not similarly situated. (People v. Macias (1982) 137
+Cal.App.3d 465, 472-473.) Moseley, a youthful sex offender is not
+similarly situated to a youthful murderer as they are different
+crimes.
+       B. Moseley’s exclusion from youth offender parole
+          consideration is rationally related to a legitimate
+          penal interest.
+       “[L]egislation is presumed to be valid and will be sustained
+if the classification drawn by the statute is rationally related to a
+legitimate state interest.” (City of Cleburne, Tex. v. Cleburne
+Living Center (1985) 473 U.S. 432, 440; Wilkinson, supra, 33
+Cal.4th at p. 836.) As set forth above, to prove an equal
+protection violation, a party must defeat “‘“every conceivable
+basis”’ that might support the disputed statutory disparity.”
+(Johnson, supra, 60 Cal.4th at p. 881, quoting Heller, supra, 509
+U.S at pp. 319-320.) A reviewing court “‘must accept any gross
+generalizations and rough accommodations that the Legislature
+seems to have made.’” (Turnage, supra, 55 Cal.4th at p. 77.) “‘A
+classification is not arbitrary or irrational simply because there is
+an “imperfect fit between means and ends.”’” (Turnage, at p. 77,
+quoting Heller, at p. 321)
+       Though the Edwards court found that section 3051’s
+exclusion of one strike offenders does not have a rational basis,
+we find otherwise when comparing youthful sex offenders to
+youthful murderers. (Edwards, supra, 34 Cal.App.5th at pp. 197-
+200.) Indeed, there are significant public safety concerns that
+
+
+
+
+                                 13
+support the exclusion of these sex offenders from youth offender
+parole consideration, including recidivism. The United States
+Supreme Court explained, “[w]hen convicted sex offenders
+reenter society, they are much more likely than any other type of
+offender to be rearrested for a new rape or sexual assault.”
+(McKune v. Lile (2002) 536 U.S. 24, 33.) Our Legislature has long
+expressed special concern for recidivism among sex offenders.
+For example, certain sex offenders are required to register for life
+after release from custody (§ 290, et seq.), and the “One Strike”
+Law was enacted precisely to ensure that violent sex offenders
+“be separated from society to prevent reoffense.” (People v.
+Wutzke (2002) 28 Cal.4th 923, 930.) For purposes of rational basis
+review, it is immaterial whether a conceivable basis for the
+classification has “a foundation in the record.” (Turnage, supra,
+55 Cal.4th at p. 75.)
+       Given the deferential standard we apply in determining
+rationality for equal protection purposes, and given our view that
+the risk of recidivism provides a rational basis for the Legislature
+to treat felony sex offenders sentenced under the one strike law
+differently that murderers, we reject the argument that
+subdivision (h) of section 3051 violates equal protection and is
+unconstitutional.
+
+
+
+
+                                14
+                         DISPOSITION
+      The order granting Moseley’s petition for writ of habeas
+corpus is reversed and the matter is remanded to the superior
+court for resentencing.
+                  CERTIFIED FOR PUBLICATION
+
+
+
+
+                       ____________________________, J.
+                       CHAVEZ
+
+I concur:
+
+
+__________________________, J.
+HOFFSTADT
+
+
+
+
+                                 15
+People v. Moseley, B303321
+
+ASHMANN-GERST, Acting P. J.—Dissenting
+
+
+      I respectfully dissent.
+      Following People v. Williams (2020) 47 Cal.App.5th 475
+(Williams), review granted July 22, 2020, S262229, the majority
+holds that Penal Code section 3051, subdivision (h),1 does not
+violate equal protection even though it excludes juveniles
+sentenced under the “One Strike” law (§ 667.61) from youth
+offender parole consideration, but grants juveniles convicted of
+special circumstance murder such consideration. In so holding,
+Williams disagreed with the holding in People v. Edwards (2019)
+34 Cal.App.5th 183, 197 (Edwards) that section 3051 violates
+equal protection. (Williams, supra, at pp. 492–493.)
+      I disagree with the majority’s reliance upon Williams,
+supra, 47 Cal.App.5th 475. Rather, I agree with the analysis in
+Edwards, supra, 34 Cal.App.5th at page 197 that section 3051’s
+categorial exclusion of youthful One Strike offenders from its
+youth offender parole scheme violates equal protection. Thus, I
+would affirm the trial court’s order granting defendant and
+respondent Erick Lamar Moseley’s petition for writ of habeas
+corpus on equal protection grounds.
+
+
+
+
+                       __________________________, Acting P. J.
+                       ASHMANN-GERST
+
+__________________________________________________________
+1     All further statutory references are to the Penal Code
+unless otherwise indicated.
+
+
+
+
+                               1

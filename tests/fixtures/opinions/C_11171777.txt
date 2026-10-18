@@ -1,0 +1,322 @@
+cl_opinion_id: 11171777
+cluster: 10705190
+docket: C102605
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Abramyan CA3
+----
+Filed 10/16/25 P. v. Abramyan CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                     (Sacramento)
+                                                            ----
+
+
+
+
+ THE PEOPLE,                                                                                   C102605
+
+                    Plaintiff and Respondent,                                      (Super. Ct. No. 06F06656)
+
+           v.
+
+ VARDAN ABRAMYAN,
+
+                    Defendant and Appellant.
+
+
+
+
+         In 2009, a jury found defendant Vardan Abramyan (Abramyan) guilty of
+conspiracy to commit murder and first degree murder with financial-gain and lying-in-
+wait special circumstances. The jury also found true that Abramyan was involved in an
+offense in which a principal was armed. The victim was Abramyan’s father, Norik
+Abramyan (Norik). The judgment was affirmed as modified in People v. Battle (2011)
+198 Cal.App.4th 50 (Battle).
+
+
+
+                                                             1
+       In 2024, Abramyan filed a petition for resentencing under Penal Code1
+section 1172.6. The trial court denied the petition, and Abramyan appeals, arguing the
+trial court erred because the CALCRIM No. 417 coconspirator liability instruction, as
+given to the jury, could have led the jury to convict him of first degree murder under the
+natural and probable consequences doctrine, thereby negating the malice requirement for
+the murder conviction. We disagree and affirm.
+                                     BACKGROUND
+                                              I
+                                    Legal Background
+       Effective January 1, 2019, Senate Bill No. 1437 (2017-2018 Reg. Sess.) (Stats.
+2018, ch. 1015) (Senate Bill No. 1437) “altered the substantive law of murder in two
+areas.” (People v. Curiel (2023) 15 Cal.5th 433, 448 (Curiel).) First, it narrowed the
+application of the felony-murder rule. (Ibid.) Second, it “imposed a new requirement
+that, except in cases of felony murder, ‘a principal in a crime shall act with malice
+aforethought’ to be convicted of murder.” (Id. at p. 449.) As part of the law’s
+“ameliorative changes, malice, a key element the People must prove in a murder
+prosecution, may no longer be imputed to a defendant solely because the defendant
+participated in another crime. [Citations.] This means, for instance, that a defendant is
+no longer guilty of murder as an aider and abettor solely because the ‘natural and
+probable consequences’ of that other crime included a confederate’s commission of
+murder.” (People v. Patton (2025) 17 Cal.5th 549, 558.)
+       Senate Bill No. 1437 also added a procedure, now codified in section 1172.6,
+“ ‘for those convicted of felony murder or murder under the natural and probable
+consequences doctrine to seek relief’ where the two substantive changes described above
+
+
+
+
+1 Undesignated statutory references are to the Penal Code.
+
+
+
+                                             2
+affect a defendant’s conviction.” (Curiel, supra, 15 Cal.5th at p. 449.) The process
+begins with the filing of a petition containing a declaration that all requirements for
+eligibility are met. (People v. Strong (2022) 13 Cal.5th 698, 708.) “When the trial court
+receives a petition containing the necessary declaration and other required information,
+the court must evaluate the petition ‘to determine whether the petitioner has made a prima
+facie case for relief.’ [Citations.] If the petition and record in the case establish
+conclusively that the defendant is ineligible for relief, the trial court may dismiss the
+petition. [Citations.] If, instead, the defendant has made a prima facie showing of
+entitlement to relief, ‘the court shall issue an order to show cause.’ ” (Ibid.)
+                                               II
+                                    Factual Background
+       A.     The Murder2
+       Abramyan offered Isaiah Dupree Barron $4,000 to kill Norik, initially giving him
+$200, and then giving him an additional $1,800 the evening before the murder. (Battle,
+supra, 198 Cal.App.4th at p. 56.) Barron in turn hired Arthur James Battle III and Jason
+Dillingham to commit the murder. (Ibid.)
+       Abramyan called Barron and they agreed to meet at the store where Abramyan
+would bring Norik. (Battle, supra, 198 Cal.App.4th at p. 57.) Abramyan and Norik
+arrived at the store and went inside. (Ibid.) “After a while, they returned to the car, but
+Abramyan told Norik that he had to go back into the store to use the restroom. Abramyan
+again returned to the car but went back into the store, telling Norik he left his cell phone
+in the restroom.” (Ibid.) Battle and Dillingham shot Norik as he sat in his car in the
+
+
+
+
+2 We set forth some basic facts to provide context for the appeal. We do not resolve any
+disputed facts in determining whether Abramyan has made a prima facie showing of
+eligibility for relief. (See People v. Lewis (2021) 11 Cal.5th 952, 971-972.)
+
+                                               3
+parking lot. Norik died at the scene. After the murder, Abramyan arranged to have the
+last $2,000 delivered to Barron. (Ibid.)
+       B.     The Trial and Jury Instructions
+       Abramyan was charged with conspiracy to commit murder (count one) and murder
+with financial-gain and lying-in-wait special circumstances (count two). (Battle, supra,
+198 Cal.App.4th at p. 58.) Those special circumstances each alleged that the murder was
+intentionally committed. As to each count, it was further alleged that Abramyan was
+involved in an offense in which a principal was armed. (Ibid.)
+       At trial, the jury was instructed that to find Abramyan guilty of first degree or
+second degree murder, and find true the financial-gain and lying-in-wait special
+circumstances, the jury had to find that he “not only intentionally commit[ted] the
+prohibited act” but also that he “d[id] so with a specific intent and/or mental state,” as
+“explained in the instruction for that crime.” As to the murder count, the jury was
+instructed that Abramyan was being prosecuted for first degree murder under two
+theories: (1) premeditated, deliberate murder with express malice aforethought, and
+(2) murder by lying in wait. The instruction states: “You may not find the defendant
+guilty of murder unless all of you agree that the People have proved that the defendant
+committed murder under at least one of these theories. You do not all need to agree on
+the same theory.” The jury was instructed that under either theory, Abramyan had to
+have the intent to kill Norik.
+       As to the lying-in-wait special circumstance pertaining to the murder count, the
+jury was further instructed with CALCRIM No. 702 that, if it found Abramyan guilty of
+first degree murder as an aider and abettor or a member of a conspiracy and not as the
+actual killer, then, to find the special allegation true, it had to find “the defendant acted
+with the intent to kill.” The jury was similarly instructed with CALCRIM No. 720, that
+to find the financial-gain special circumstance true, the People had to prove Abramyan
+intended to kill Norik. Another instruction regarding the financial-gain special
+
+                                               4
+circumstance allegation stated: “If a person commits murder for hire, the one who did the
+hiring is subject to the financial gain special circumstance even if his motives are not for
+financial gain. You must still determine whether the defendant hired someone with the
+specific intent to kill Norik Abramyan.”
+       As to the conspiracy to commit murder count, the jury was instructed with
+CALCRIM No. 563, which required the prosecution to prove, among other factors, that
+“[t]he defendant intended to agree and did agree with one or more of the other defendants
+to intentionally and unlawfully kill” and “[a]t the time of the agreement, the defendant
+and one or more of the other alleged members of the conspiracy intended that one or
+more of them would intentionally and unlawfully kill.” The jury was also instructed with
+CALCRIM No. 417, which pertains to liability for the natural and probable consequences
+of a coconspirator’s acts, that the prosecution had to prove: “1. The defendant conspired
+to commit one of the following crime: murder; [¶] 2. A member of the conspiracy
+committed murder to further the conspiracy; AND [¶] 3. Murder was a natural and
+probable consequence of the common plan or design of the crime that the defendant
+conspired to commit.”
+       The jury found Abramyan guilty of conspiracy to commit murder and first degree
+murder and found all enhancements and special circumstance allegations true. (Battle,
+supra, 198 Cal.App.4th at p. 58.)
+                                       DISCUSSION3
+       Abramyan contends that he is eligible for relief under section 1172.6 because the
+CALCRIM No. 417 coconspirator liability instruction could have led the jury to convict
+
+
+
+
+3 We can and do disregard points raised by Abramyan in footnotes that were not properly
+presented under a discrete heading with appropriate analysis (People v. Carroll (2014) 222
+Cal.App.4th 1406, 1412, fn. 5), and are not pertinent to our review of the trial court’s denial
+of the section 1172.6 petition.
+
+                                              5
+him of first degree murder under the natural and probable consequences doctrine. We
+review de novo the trial court’s decision to deny the section 1172.6 petition at the prima
+facie stage (People v. Ervin (2021) 72 Cal.App.5th 90, 101) and conclude the trial court
+did not err.
+       The jury found Abramyan guilty of first degree murder, which, under either theory
+presented by the prosecution, required the jury to find that Abramyan had the intent to
+kill Norik. The jury also found true the lying-in-wait and financial-gain special
+circumstances, both of which required the jury to find that Abramyan had the intent to
+kill. And the jury found Abramyan guilty of conspiracy to commit murder, which, under
+CALCRIM No. 563, required the jury to find that Abramyan intended to agree and did
+agree with one or more of the other defendants to intentionally kill Norik. Abramyan’s
+evaluation of how the jury might have interpreted the CALCRIM No. 417 coconspirator
+liability instruction does not take into account that we, the appellate court, “must consider
+the instructions together as a whole, to determine whether it is reasonably likely a jury
+would interpret an instruction in a particular way, because we presume jurors understand
+and correlate all of the instructions” (People v. Burton (2018) 29 Cal.App.5th 917, 925)
+and the jurors are “presumed to have followed the court’s instructions” (People v.
+Sanchez (2001) 26 Cal.4th 834, 852). Simply stated, the instructions foreclosed the
+possibility that the jury convicted him of first degree murder under the natural and
+probable consequences doctrine. Considering the instructions given and the jury’s
+findings together, there is no possibility, much less a reasonable likelihood, that the jury
+extended the natural and probable consequences doctrine to the murder charge.
+       People v. Lovejoy (2024) 101 Cal.App.5th 860 (Lovejoy) is instructive; it
+addressed the effect of a conspiracy to commit murder conviction on a defendant’s ability
+to state a prima facie claim for relief under section 1172.6. In that case, Lovejoy was
+convicted of the attempted murder of her ex-husband and a related conspiracy to murder
+him arising out of a plan she agreed to with her boyfriend. (Id. at p. 863.) The plan
+
+                                              6
+called for the boyfriend to lure the ex-husband to a remote location and shoot him.
+Fortunately for the ex-husband, the shot wounded but did not kill him. (Ibid.)
+       Lovejoy filed a petition for relief under section 1172.6, contending that “ ‘the jury
+instructions on co-conspiracy liability permitted the jury to find her guilty of attempted
+murder based upon the natural and probable consequences doctrine.’ ” (Lovejoy, supra,
+101 Cal.App.5th at p. 866.) The appellate court rejected her argument, concluding that
+her posited theory on how the jury might have relied on the natural and probable
+consequences instructions was necessarily inconsistent with the verdict finding Lovejoy
+guilty of conspiracy to commit murder, which included a determination that Lovejoy
+intended to kill her ex-husband. The court noted that natural and probable consequences
+instructions are problematic in the context of a conspiracy charge—“ ‘a lesser crime that
+resulted in murder.’ ” (Id. at p. 867, quoting People v. Beck and Cruz (2019) 8 Cal.5th
+548, 645.) There was no possibility that Lovejoy merely intended some lesser target
+offense, such that she was guilty of murder solely because it was the natural and probable
+consequence of a lesser target offense she intended. (Lovejoy, at p. 868.)
+       This case is like Lovejoy. As in Lovejoy, the jury found that murder was the target
+offense. In other words, “[f]irst degree murder was the object of the conspiracy, not the
+natural and probable consequence of an act committed to further the object of the
+conspiracy.” (People v. Medrano (2021) 68 Cal.App.5th 177, 184.) Because “a
+conviction of conspiracy to commit murder requires a finding of intent to kill” (People v.
+Swain (1996) 12 Cal.4th 593, 607), a coconspirator liability instruction based on the
+target offense of murder cannot form the basis for relief under section 1172.6 (see also
+People v. Beck and Cruz, supra, 8 Cal.5th at p. 641 [“ ‘[A]ll conspiracy to commit
+murder is necessarily conspiracy to commit premeditated and deliberated first degree
+murder’ ”]).
+       We find Abramyan’s attempt to distinguish Lovejoy unavailing. Abramyan
+merely quotes a sentence in the CALCRIM No. 417 instruction, summarily states that the
+
+                                             7
+instruction “should have applied to count 2, murder, not count 1, conspiracy to commit
+murder,” and argues “there was a gap in time between when the conspiracy was formed
+and when the murder in this case occurred.” Nothing in Abramyan’s argument factually
+or legally distinguishes this case from Lovejoy. CALCRIM No. 417 applied to the
+conspiracy to commit murder charge because it pertains to a defendant’s liability for a
+coconspirator’s acts. Further as to Abramyan’s “gap in time” argument, we note that,
+absent a formal withdrawal from the conspiracy—about which there were no instructions
+as to Abramyan—an agreement to murder makes a defendant criminally responsible for a
+coconspirator’s efforts to achieve that result without regard to the defendant’s actions or
+mental state at the exact moment of the shooting. (Lovejoy, supra, 101 Cal.App.5th at
+p. 869; People v. Saling (1972) 7 Cal.3d 844, 852 [a conspiracy is presumed to continue
+until its object is achieved or frustrated].)
+       Curiel also does not assist Abramyan. (Curiel, supra, 15 Cal.5th 433.) Abramyan
+relies on the case for the proposition that a finding of intent to kill, by itself, does not
+make a defendant automatically ineligible for relief under section 1172.6. (Citing Curiel,
+at p. 463.) But, as explained in Lovejoy, the circumstances of Curiel are readily
+distinguishable. (See Lovejoy, supra, 101 Cal.App.5th at p. 869, fn. 6.)
+       In Curiel, the defendant was charged with murder based on alternative theories of
+aiding and abetting—direct aiding and abetting and aiding and abetting based on the
+natural and probable consequences doctrine. (Curiel, supra, 15 Cal.5th at p. 446.) The
+verdict did not specify which theory the jury adopted. (Id. at p. 467.) In finding true a
+gang-murder special circumstance, however, the jury necessarily found the defendant
+intended to kill. (Id. at p. 447.) Our Supreme Court determined that where the jury was
+permitted to find aiding and abetting liability for murder based on the now-prohibited
+natural and probable consequences doctrine, the abstract finding of intent to kill as to the
+special circumstance was not sufficient to demonstrate that the defendant remained guilty
+of murder under current law. (Id. at p. 468.)
+
+                                                8
+       This case is not like Curiel. In contrast to Curiel, this case does not involve an
+abstract and untethered finding of intent to kill. Rather, that finding was incorporated
+into both theories of murder liability and the theory for conspiracy to commit murder, all
+of which remain valid under current law. (See Curiel, supra, 15 Cal.5th at p. 462 [“The
+Legislature sought to limit murder liability to established theories that incorporated the
+requisite intent”]; Lovejoy, supra, 101 Cal.App.5th at pp. 867-868 [conspiracy to commit
+murder remains valid].) Where the defendant is convicted of the murder of the same
+victim who was the object of the conspiracy to commit murder, the conspiracy verdict
+with its incorporated finding of intent to kill precludes even a theoretical possibility that
+the defendant was found liable for murder based on the now-invalid natural and probable
+consequences doctrine.
+       People v. Offley (2020) 48 Cal.App.5th 588, upon which Abramyan relies, does
+not require a finding to the contrary. In that case, the appellate court concluded the jury
+could have found the defendant conspired to commit assault of which a natural
+consequence was murder and the true finding on the firearm enhancement under
+section 12022.53, subdivision (d) did not by itself “show that a defendant acted with
+malice aforethought.” (Offley, at pp. 598, 599.) Those are not the facts here. The facts
+here demonstrate there was no possibility, much less a reasonable likelihood, that the jury
+could have found Abramyan conspired to commit a lesser offense than murder.
+       In his reply brief, Abramyan argues the People failed to acknowledge that
+CALCRIM No. 417 allowed the jury to ignore his defenses of “provocation and intimate
+partner battered syndrome.” As we can best glean, Abramyan asserts the instruction
+allowed the jury to convict him of murder based on the natural and probable
+consequences of the conspiracy without regard to his defenses, which only applied to the
+murder count. Having already rejected the argument that the jury could have used the
+natural and probable consequences theory to convict Abramyan of murder, we find no
+merit in this argument. We further fail to see how the jury could have read CALCRIM
+
+                                              9
+No. 417 in any way to negate the “provocation and intimate partner battered syndrome”
+defenses applicable to the murder count. Neither People v. Nunez and Satele (2013)
+57 Cal.4th 1, 43, nor People v. Mendoza (1998) 18 Cal.4th 1114, 1132, stands for any
+such proposition.
+      For the foregoing reasons, we affirm.
+                                    DISPOSITION
+      The order denying Abramyan’s request for resentencing under section 1172.6 is
+affirmed.
+
+
+
+                                                   /s/
+                                               BOULWARE EURIE, J.
+
+
+
+We concur:
+
+
+
+    /s/
+DUARTE, Acting P. J.
+
+
+
+    /s/
+FEINBERG, J.
+
+
+
+
+                                          10

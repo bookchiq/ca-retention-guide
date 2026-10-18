@@ -1,0 +1,325 @@
+cl_opinion_id: 9969508
+cluster: 9502895
+docket: A166722
+date: 2024-05-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Hansen CA1/4
+----
+Filed 5/16/24 P. v. Hansen CA1/4
+
+
+                NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not
+certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been
+certified for publication or ordered published for purposes of rule 8.1115.
+
+
+        IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                 FIRST APPELLATE DISTRICT
+
+                                                DIVISION FOUR
+
+
+ THE PEOPLE,
+          Plaintiff and Respondent,                             A166722
+ v.
+ SHAWN RICHARD HANSEN,                                          (San Mateo County Super. Ct.
+          Defendant and Appellant.                              No. 22NF005757A)
+
+
+
+
+        A jury convicted Shawn Richard Hansen of one count of second degree
+robbery, in violation of Penal Code1 section 212.5, subdivision (c). The trial
+court sentenced Hansen to state prison for three years. Hansen appeals,
+arguing that (1) the trial court abused its discretion by sentencing him to the
+middle term of three years; and (2) his psychological trauma contributed to
+his commission of the robbery, warranting reversal and remand for
+resentencing under section 1170, subdivision (b)(6). We affirm.
+                                            BACKGROUND
+         On May 6, 2022, a cashier at Burlingame Liquors saw Hansen stumble
+into the store. Hansen approached the register with two “cans of beer” and
+
+
+        1 All undesignated statutory references are to the Penal Code unless
+
+otherwise indicated.
+
+                                                        1
+“three bags of Corn Nuts” but proceeded to leave the store without paying.
+The cashier chased after Hansen and told him to return the items. Hansen
+responded, “ ‘These are mine. You can’t take these.’ ”
+      The cashier then reached towards Hansen to grab the items, but
+Hansen pulled them away while wrapping one arm around the cashier “like a
+big giant bear hug.” After a struggle, Hansen punched the cashier in the
+back, and they fell to the ground. The cashier told Hansen, “ ‘We can stop
+this. It doesn’t need to go any further,’ ” but Hansen punched the cashier on
+the right side of his jaw. Bystanders intervened and were able to hold
+Hansen down until police officers arrived.
+      On June 17, 2022, Hansen was charged with second degree robbery
+(§ 212.5, subd. (c)). On August 22, 2022, a jury returned a verdict of guilty for
+the charged offense.
+      In its presentence report, the probation department details Hansen’s
+history of substance abuse. Hansen told the probation department that he
+“recognize[d] the severity of his alcohol abuse problem.” He stated that he
+began drinking alcohol at the age of fourteen. Hansen completed a
+residential treatment program in 2014 and entered another program in 2021
+but relapsed two months later. The presentence report also details Hansen’s
+family background that included several challenging events that all occurred
+prior to the age of fifteen.
+      Regarding the robbery, Hansen stated that he was under the influence
+of alcohol and did not remember the night the offense occurred. He appeared
+to take only “minimal responsibility” for the offense and accused the victim of
+lying about their physical altercation. Hansen repeatedly stated that he did
+not believe he was capable of hurting someone.
+
+
+
+
+                                       2
+      Hansen suffered numerous convictions, including five prior convictions
+for various theft crimes and eight prior convictions for crimes of violence. His
+criminal record also included a long history of probation violations and
+terminations, demonstrating that “he [did] not take probation seriously.” The
+probation department deemed Hansen’s prior convictions, custodial
+sentences, violent conduct, and unsatisfactory performance on probation and
+parole to be aggravating circumstances under California Rules of Court,
+rule 4.421. The probation department found no circumstances in mitigation
+and recommended Hansen be denied probation in favor of a state prison
+commitment.
+      The People filed a sentencing memorandum recommending Hansen be
+sentenced to the middle term of three years in state prison. Defense counsel
+did not submit a sentencing memorandum.
+      At the sentencing hearing, defense counsel argued that a state prison
+sentence was inappropriate because Hansen was in a “blackout state” and
+“fight or flight mode” at the time of the offense. Counsel recommended that
+Hansen be released for time served on a one-year county jail commitment. In
+response, the prosecutor emphasized Hansen’s prior convictions and history
+of noncompliance with probation.
+      Although it acknowledged that the circumstances of the offense
+represented a “minor” example of robbery, the trial court nonetheless noted
+that Hansen committed the offense after “a long history of alcohol issues,
+some violent conduct[,] and theft.” The trial court found Hansen’s conduct to
+be escalating in severity and agreed with the circumstances in aggravation
+set forth in the presentence report. Finally, the trial court found no
+mitigating factors, explaining that “there were none really presented here
+
+
+
+
+                                       3
+today that rise to the level of factors [in] mitigation such that the Court
+would consider something other than the midterm.”
+      The trial court sentenced Hansen to the middle term of three years.
+Hansen timely filed a notice of appeal.
+                                 DISCUSSION
+   I. The Trial Court Did Not Abuse Its Discretion in Imposing the
+      Middle Term Sentence
+         A. Standard of Review
+      We review sentencing decisions for an abuse of discretion. (People v.
+Sandoval (2007) 41 Cal.4th 825, 847.) On appeal, the reviewing court is
+required to presume the trial court “acted to achieve legitimate sentencing
+objectives.” (People v. Superior Court (Alvarez) (1997) 14 Cal.4th 968, 977.)
+We will not reverse a decision “ ‘ merely because reasonable people might
+disagree. “An appellate tribunal is neither authorized nor warranted in
+substituting its judgment for the judgment of the trial judge.” [Citations.]’ ”
+(Id. at p. 978, citing People v. Pryer (1985) 164 Cal.App.3d 568, 573.)
+      Particularly in the context of aggravating and mitigating factors,
+sentencing courts have “ ‘wide discretion’ ” in qualitatively and quantitatively
+weighing the factors against each other. (People v. Avalos (1996)
+47 Cal.App.4th 1569, 1582.) We must, therefore, affirm “ ‘unless there is a
+clear showing the sentence choice was arbitrary or irrational.’ ” (Ibid.)
+      When imposing a judgment of imprisonment where the statute has
+three possible terms, the trial court “shall, in its sound discretion, order
+imposition of a sentence not to exceed the middle term . . . . ” (§ 1170,
+subd. (b)(1).) “In selecting between the middle and lower terms of
+imprisonment, the sentencing judge may consider circumstances in
+aggravation or mitigation, and any other factor reasonably related to the
+
+
+
+                                          4
+sentencing decision.” (Cal. Rules of Court, rule 4.420(d).) In making its
+decision, the trial court may obtain relevant information from the “case
+record, the probation officer’s report, other reports and statements properly
+received, statements in aggravation or mitigation, and any evidence
+introduced at the sentencing hearing.” (Cal. Rules of Court, rule 4.420(d).)
+         B. Appellant’s Alcohol Use
+      Hansen contends that the trial court abused its discretion in failing to
+find that his “longstanding alcoholism and alcohol abuse” was a mitigating
+factor. Mitigating circumstances exist if “[t]he defendant was suffering from
+a mental or physical condition that significantly reduced culpability for the
+crime.” (Cal. Rules of Court, rule 4.423(b)(2).) Alcoholism may be considered
+a “ ‘mental or physical condition’ ” under this rule, but it does not necessarily
+constitute a mitigating factor for sentencing purposes. (People v. Simpson
+(1979) 90 Cal.App.3d 919, 927, fn. 7 (Simpson); People v. Reyes (1987)
+195 Cal.App.3d 957, 961.)
+      Hansen relies on the Simpson case. In Simpson, the court found that
+appellant was “suffering from alcoholism, that he gets into trouble when he
+drinks, and that in the cases under consideration he twice broke into a liquor
+store while drunk with the apparent goal of obtaining even more alcohol.”
+(Simpson, supra, 90 Cal.App.3d at 927.) However, the Simpson court
+determined that the trial court “did not take into account appellant’s
+alcoholism as a mitigating circumstance and therefore cannot be viewed as
+having exercised its discretion or as having weighed the circumstances. For
+this reason the judgment must be reversed.” (Ibid.)
+      Under these circumstances, the Simpson court held that “the trial court
+must consider the possibility that . . . alcoholism is a circumstance in
+
+
+
+
+                                        5
+mitigation . . . and must then weigh this factor along with the other relevant
+circumstances.” (Simpson, supra, 90 Cal.App.3d at p. 928, italics added.)
+      Contrary to Hansen’s contention, the trial court properly considered
+whether alcohol use was a mitigating factor at the time of the offense. Prior
+to stating that it found no factors in mitigation, the trial court: (1) reviewed
+the probation report, which detailed Hansen’s long history of alcohol use; (2)
+reviewed the People’s sentencing memorandum recommending the middle
+term of three years; (3) expressed concern that Hansen’s behavior was
+escalating in severity; (4) recognized that “despite the chances [appellant’s]
+been given by the Court and by probation, he still continues to participate in
+the same type of conduct;” and (5) acknowledged that while the robbery was
+relatively minor, it was preceded by “a long history of alcohol issues, some
+violent conduct[,] and theft.”
+      As noted, Simpson requires only that the court consider the possibility
+that alcoholism was a mitigating factor; it does not require the court to find
+that alcohol abuse is a mitigating factor. (People v. Reyes, supra,
+195 Cal.App.3d at p. 960 [“The Simpson case does not hold that alcoholism
+must always be considered as a mitigating factor”].) Here, the trial court
+adequately considered Hansen’s alcohol use as required under Simpson and
+determined that it was not a mitigating factor because it did not significantly
+reduce his culpability for the offense. The record also indicates that the trial
+court carefully considered the aggravating factors in connection with any
+mitigating circumstances arising from alcoholism in determining whether to
+impose the mitigating term or the middle term. From this background, the
+trial court reasonably concluded that the middle term was the appropriate
+sentence under the circumstances.
+
+
+
+
+                                        6
+      Given the deferential standard under which we review sentencing
+decisions, we conclude that the trial court did not abuse its discretion in
+sentencing Hansen to the middle term of three years.
+   II. Appellant Fails to Establish Psychological Trauma Under Penal
+      Code Section 1170, Subdivision (b)(6)
+         A. Standard of Review
+      “To prove an abuse of discretion, ‘ “[t]he burden is on the party
+attacking the sentence to clearly show that the sentencing decision was
+irrational or arbitrary. [Citation.] In the absence of such a showing, the trial
+court is presumed to have acted to achieve legitimate sentencing objectives,
+and its discretionary determination to impose a particular sentence will not
+be set aside on review.” ’ [Citation.] To meet this burden, the defendant
+must ‘affirmatively demonstrate that the trial court misunderstood its
+sentencing discretion.’ ” (People v. Lee (2017) 16 Cal.App.5th 861, 866.)
+         B. Lack of Evidence That Trauma Contributed to the Offense
+      Section 1170, subdivision (b)(6)(A), provides in relevant part: “[U]nless
+the court finds that the aggravating circumstances outweigh the mitigating
+circumstances that imposition of the lower term would be contrary to the
+interests of justice, the court shall order imposition of the lower term if any of
+the following was a contributing factor in the commission of the offense: [¶]
+(A) The person has experienced psychological, physical, or childhood trauma,
+including, but not limited to, abuse, neglect, exploitation, or sexual violence.”
+      In a supplemental brief, Hansen argues that the record is “replete with
+evidence that appellant suffered psychological trauma.” Hansen relies on the
+probation report to establish his “chaotic and troubled” childhood. He points
+to the death of his father when he was 11 years old, dropping out of school in
+the ninth grade, running away from home when he was 15 years old, and
+
+
+
+                                        7
+staying with a friend until he was 17 when he was taken into custody as a
+missing person. He also notes his adult psychological trauma as an alcoholic
+transient who started drinking at age 14 and has been in and out of
+treatment programs. Finally, he claims that he was intoxicated (stumbling,
+staggering, and slurring his speech) and in a blackout state, amounting to a
+mental illness (alcohol use disorder) at the time of the robbery.
+      Initially, as Hansen points out, he did not raise the issue of
+psychological trauma with the trial court during the sentencing hearing. “As
+a general rule, only ‘claims properly raised and preserved by the parties are
+reviewable on appeal.’ [Citation.] . . . Thus, all ‘claims involving the trial
+court’s failure to properly make or articulate its discretionary sentencing
+choices’ raised for the first time on appeal are not subject to review.” (People
+v. Smith (2001) 24 Cal.4th 849, 852.) Therefore, we deem the argument
+waived.2
+      Nevertheless, the claim fails on its merits as well. For mental illness to
+be the basis for finding a psychological trauma, the “[p]sychological trauma
+must attend the illness, and that trauma must contribute to the crime under
+section 1170, subdivision (b)(6).” (People v. Banner (2022) 77 Cal.App.5th
+226, 241, original italics.)
+
+
+
+
+      2 While there is a narrow exception to the waiver rule for “unauthorized
+
+sentences” or sentences entered in “excess of jurisdiction,” since they present
+for the reviewing court “pure questions of law,” the determination of whether
+Hansen suffers from a psychological trauma that contributed to the
+commission of the crime under section 1170, subdivision (b)(6), requires
+reference to factual findings in the sentencing record and therefore are not
+waivable under this narrow exception. (See People v. Smith, supra,
+24 Cal.4th at p. 852 [“In other words, obvious legal errors at sentencing that
+are correctable without referring to factual findings in the record or
+remanding for further findings are not waivable”].)
+
+                                         8
+      Hansen offers nothing connecting his alleged psychological trauma to
+his commission of the offense. He essentially asks this Court to link together
+a chain of speculative inferences and to conclude his psychological trauma
+contributed to his commission of the robbery: that the appellant was
+intoxicated when he committed the robbery and has a long history of alcohol
+abuse and childhood marked by chaos and trauma. In the absence of any
+evidence — such as an expert’s report or testimony — that Hansen’s difficult
+childhood is connected to and in some way contributed to the commission of
+the offense, Hansen’s unsupported assertions fail to persuade us that he is
+entitled to remand for resentencing under section 1170, subdivision (b)(6)(A).
+      Moreover, the trial court’s comments regarding Hansen’s numerous
+chances on probation and his escalating criminality indicate that even if
+Hansen had established that his alcohol abuse or difficult upbringing
+constituted trauma that contributed to the offense, the trial court nonetheless
+appropriately determined that “the aggravating circumstances outweigh[ed]
+the mitigating circumstances [so] that imposition of the lower term would be
+contrary to the interests of justice.” (§ 1170, subd. (b)(6).) Furthermore,
+section 1170, subdivision (b)(6), became effective just over nine months before
+appellant’s sentencing hearing. Nothing in the record suggests that the trial
+court was unaware of the relevant law or chose to apply the incorrect law.
+             Accordingly, we are unpersuaded that section 1170,
+subdivision (b)(6), requires reversal and remand for imposition of a low-term
+sentence.3
+                                DISPOSITION
+      The judgment is affirmed.
+
+      3 Because we have rejected Hansen’s claims on their merits, we need
+
+not address the contention that his trial counsel was constitutionally
+ineffective for failing to object and preserve the claims for appeal.
+
+                                       9
+                                                 HITE, J. *
+
+
+We concur:
+
+
+BROWN, P. J.
+STREETER, J.
+
+People v. Hansen (A166722)
+
+
+
+
+       * Judge of the Superior Court of California, City and County of San
+
+Francisco, assigned by the Chief Justice pursuant to article VI, section 6 of
+the California Constitution.
+
+                                      10

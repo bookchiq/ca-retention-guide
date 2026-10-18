@@ -1,0 +1,220 @@
+cl_opinion_id: 11171830
+cluster: 10705243
+docket: B336582
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Tozier CA2/8
+----
+Filed 10/16/25 P. v. Tozier CA2/8
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                      DIVISION EIGHT
+
+
+ THE PEOPLE,                                                   B336582
+
+           Plaintiff and Respondent,                           Los Angeles County
+                                                               Super. Ct. No. GA078621
+           v.
+
+ ERIC LEROY TOZIER,
+
+           Defendant and Appellant.
+
+
+      APPEAL from an order of the Superior Court of
+Los Angeles County, Suzette Clover, Judge. Affirmed.
+      Christopher Love, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Assistant
+Attorney General, Idan Ivri and Roberta L. Davis, Deputy
+Attorneys General, for Plaintiff and Respondent.
+                      ____________________
+       Eric Tozier applied for resentencing under section 1172.75.
+The trial court deleted one type of enhancement from the abstract
+of judgment because the Legislature has now invalidated that
+enhancement but found it could not otherwise resentence Tozier
+because it had originally sentenced Tozier under the One Strike
+law, which barred any changes of the kind Tozier requested. The
+trial court was correct. Tozier has forfeited additional arguments
+for further resentencing.
+       All code citations are to the California Penal Code.
+                                    I
+       In 2013, a jury convicted Tozier of kidnapping to commit
+another crime (§ 209, subd. (b)(1); count 1), attempted forcible
+rape (§§ 664 & 261, subd. (a)(2); count 2), forcible rape (§ 261,
+subd. (a)(2); count 3), sodomy by use of force (§ 286, subd. (c)(2);
+count 4), forcible oral copulation (§ 288a, subd. (c)(2); count 5),
+and two counts of sexual penetration by a foreign object (§ 289,
+subd. (a)(1); counts 7, 10).
+       As to all these counts, the jury found it to be true Tozier
+personally used a deadly and dangerous weapon (§§ 12022,
+12022.3). The jury also found multiple One Strike circumstances
+true as to counts 3, 4, 5, 7, and 10. (§ 667.61, subds. (a), (b), (d),
+(e)). Tozier admitted prior conviction allegations.
+       The trial court sentenced Tozier to a total of nine years plus
+50 years to life in state prison, consisting of the One Strike term
+of 25 years to life on count 3, doubled pursuant to the Three
+Strikes law, plus four years for a weapon use enhancement under
+section 12022.3, and five years for a prior serious felony
+enhancement. The trial court stayed the sentences on other
+counts and enhancements, including two prior prison term
+
+
+
+
+                                  2
+enhancements under former section 667.5, subdivision (b), or
+ordered those sentences to run concurrently.
+       The convictions supporting the former section 667.5,
+subdivision (b) enhancements were for burglary (§ 459) and
+failure to register as a sex offender (§ 290). A third former
+section 667.5, subdivision (b), offense was also alleged for forcible
+lewd acts (§ 288, subd. (b)(1)). That offense was used to support a
+section 667, subdivision (a), prior serious felony enhancement.
+       The Court of Appeal affirmed this judgment. (People v.
+Tozier (July 30, 2014, B250830) [nonpub. opn., 2014 WL
+3736128].)
+       In 2019, the California Legislature passed Senate Bill No.
+136 (2019-2020 Reg. Sess.) (Senate Bill 136), which amended
+section 667.5, subdivision (b) to limit prior prison term
+enhancements to prison terms for specified sexually violent
+offenses.
+       In 2023, the court recalled Tozier’s sentence and appointed
+counsel for resentencing pursuant to section 1172.75.
+       Tozier asked the court whether resentencing on the One
+Strike term was allowed. The People opposed the request on the
+grounds section 667.61 prohibited the court from doing so and
+Tozier was ineligible for section 1172.75 resentencing because the
+trial court had stayed the prior prison term enhancements.
+       Tozier’s counsel filed a resentencing brief arguing Tozier
+should be resentenced, but specifically stating counsel had not
+yet marshalled the evidence needed to support discretionary
+resentencing under section 1385. He reiterated this position at
+the hearing on the motion.
+       The trial court found section 667.61, subdivision (g) did not
+allow any of Tozier’s enhancements to be stricken. Section
+
+
+
+
+                                  3
+667.61, subdivision (g) says “notwithstanding Section 1385 or any
+other law,” enhancements listed under subsections (c) and (d)
+may not be stricken. The trial judge said that, even if she had
+discretion, she anticipated she would not resentence defendant
+under section 1385 due to the circumstances of the case she
+witnessed at trial.
+       The court denied the motion and issued an amended
+abstract of judgment with the section 667.5, subdivision (b),
+enhancements omitted.
+       Tozier appealed from the court’s order.
+                                  II
+       Tozier’s resentencing brief to the trial court made a single
+request: that the trial court declare Tozier eligible for
+resentencing 1) despite the fact Tozier’s prison prior
+enhancements were stayed and 2) notwithstanding section
+667.61, subdivision (g). This very limited request is important to
+our analysis.
+                                  A
+       The trial court found staying the prison prior
+enhancements did not prevent resentencing. We agree, as did
+the California Supreme Court recently in People v. Rhodius
+(2025) 17 Cal.5th 1050, 1054 [“Penal Code section 1172.75
+entitles a defendant to resentencing if the underlying judgment
+includes a prior-prison-term enhancement that was imposed
+before January 1, 2020, regardless of whether the enhancement
+was then executed or instead stayed”].
+                                  B
+       The trial court went on to find section 667.61, subdivision
+(g) did prevent resentencing. The statutory language is entirely
+clear: “Notwithstanding Section 1385 or any other law, the court
+
+
+
+
+                                 4
+shall not strike any allegation, admission, or finding of any of the
+circumstances specified in subdivision (d) or (e) for any person
+who is subject to punishment under this section.” (§ 667.61,
+subdivision (g), italics added.) Tozier concedes this point in
+appellate briefing.
+       When the language in a statute is clear and unambiguous,
+the courts will “presume the Legislature meant what it said, and
+the plain meaning of the statute controls.” (Hughes v. Pair (2009)
+46 Cal.4th 1035, 1047.) We therefore agree with the trial court.
+                                  C
+       Rather than press this argument, Tozier’s appellate
+briefing pivots to others, which he has, however, forfeited.
+       Tozier says we should strike the prior strike. Tozier made
+no such request in the trial court.
+       Tozier argues we should strike the five-year section 667,
+subdivision (a)(1) prior serious felony enhancement. Again, this
+was not included in the trial court request.
+       Tozier further argues we should strike the four-year section
+12022.3 deadly weapon enhancement because it was used in an
+invalid manner. As before, this issue was not part of the trial
+court request. However, we note this enhancement is invalid
+only if used twice. (People v. Rodriguez (2012) 207 Cal.App.4th
+204, 214.) Here it was not used twice. The trial court said on the
+record at sentencing it was using that circumstance under section
+667.61, subdivision (d). Multiple other circumstances were used
+for the section 667.61, subdivision (e) enhancement.
+       Striking any of the above at this point would require the
+court to exercise its discretion under section 1385. This would
+need to be based on evidence provided by Tozier – evidence not
+presented to the trial court.
+
+
+
+
+                                 5
+       Tozier argues under People v. Superior Court (Romero)
+(1996) 13 Cal.4th 497, trial courts must always have discretion to
+invalidate strikes and enhancements. It follows from this,
+according to Tozier, the trial court here should have exercised
+discretion under section 1385. But Tozier did not make a Romero
+request or put on the section 1385 evidence necessary for the
+exercise of such discretion.
+       The trial court committed no error. (People v. Partida
+(2005) 37 Cal.4th 428, 435 [“A party cannot argue the court erred
+in failing to conduct an analysis it was not asked to conduct”].)
+       Tozier asks we declare the trial court must hold another
+hearing with evidence for the purposes of analysis under section
+1385. Tozier argues that, if we do not, the case will return to us
+for further proceedings based on ineffective assistance of counsel.
+Tozier did not brief this issue. We do not rule upon it.
+                           DISPOSITION
+       The order is affirmed.
+
+
+
+                                          WILEY, J.
+
+We concur:
+
+
+
+             STRATTON, P. J.
+
+
+
+
+             VIRAMONTES, J.
+
+
+
+
+                                 6

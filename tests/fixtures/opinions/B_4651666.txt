@@ -1,0 +1,173 @@
+cl_opinion_id: 4651666
+cluster: 4847887
+docket: B306475
+date: 2021-01-14
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Salinas CA2/2
+----
+Filed 1/14/21 P. v. Salinas CA2/2
+NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+         California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on
+opinions not certified for publication or ordered published, except as specified by rule 8.1115(b). This
+opinion has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION TWO
+
+
+THE PEOPLE,                                                  B306475
+
+         Plaintiff and Respondent,                           (Los Angeles County
+                                                             Super. Ct. No. PA077370-03)
+         v.
+
+ALONDRA SALINAS,
+
+         Defendant and Appellant.
+
+
+         THE COURT:
+
+      Alondra Salinas (defendant) appeals the trial court’s denial
+of her motion for relief under Penal Code section 1170.95.1 We
+dismiss this appeal as abandoned.
+
+
+
+
+1     All further statutory references are to the Penal Code
+unless otherwise indicated.
+           FACTS AND PROCEDURAL BACKGROUND
+            2
+I.       Facts
+         A.    The underlying crime
+         In June 2013, defendant was romantically involved with
+Kimberly Garcia (Garcia). Garcia’s brother had recently been
+killed, and Garcia believed that Manuel Haro (Haro) and James
+Posey (Posey) had been involved in his killing. Garcia shared her
+belief with the “older homies” in her deceased brother’s gang, and
+those “older homies” tasked Miguel Esquivias with “handl[ing]”
+the issue by killing Haro and Posey. Defendant was aware of the
+gang-sanctioned “hit,” and reassured Garcia in a text message
+that “[w]e will make [Haro and Posey] pay for everything they did
+. . . [a]nd ima [sic] be by your side the whole time.” On June 11,
+2013, defendant and Garcia drove Esquivias to where Haro was
+hanging out and after Esquivias put several fatal bullets in
+Haro’s chest, drove Esquivias from the scene of the killing. Just
+over a week later, defendant, Garcia and Esquivias bragged that
+they had killed Haro and were “going to come and kill” Posey.
+         B.    Prosecution, conviction and appeal
+         The People charged Esquivias, Garcia, and defendant with
+Haro’s murder (§ 187, subd. (a)), and alleged firearm and gang
+                                                        3
+enhancements (§§ 12022.53, subd. (d), 186.22, subd. (b)).
+Because defendant was not the shooter, the trial court instructed
+the jury that the defendant was liable for murder only if she
+
+2     We draw these facts from our prior, unpublished appellate
+opinion affirming defendant’s conviction. (People v. Esquivias
+(July 26, 2017, B268972) [nonpub. opn.].)
+
+3     The People also charged defendant with other counts not
+relevant to the issue before us.
+
+
+                                2
+directly aided and abetted Esquivias in murdering Haro; the
+court did not instruct the jury on the natural and probable
+consequences or felony-murder theories. The jury found
+defendant guilty of second degree murder and found the gang and
+firearm enhancements to be true. The trial court sentenced
+defendant to prison for 40 years to life, comprised of a 15-year-to-
+life base term for the second degree murder, plus a 25-year-to-life
+firearm enhancement.
+       Defendant appealed her conviction and argued, among
+other things, the evidence was insufficient to support her
+conviction for aiding and abetting Esquivias and Garcia in
+committing Haro’s murder. We rejected defendant’s arguments
+and affirmed the conviction in an unpublished opinion.
+II.    Procedural Background
+       On April 24, 2019, defendant filed a petition seeking
+resentencing under section 1170.95. In the form petition,
+defendant checked the boxes for the allegations that she had been
+charged with murder, that she was convicted “pursuant to [the]
+felony murder rule [or] the natural and probable consequences
+doctrine,” and that her murder conviction would be invalid under
+the “changes made to Penal Code §§ 188 and 189, effective
+January 1, 2019.” She also requested the appointment of counsel.
+       The People filed a response, arguing defendant did not
+qualify for relief under the amended statute as she was not
+convicted under a felony-murder or natural and probable
+consequences theory, and also argued that section 1170.95 was
+unconstitutional. Defendant filed a reply, arguing that she was
+not a “significant aider and abett[or]” in Haro’s killing.
+In a Memorandum of Decision filed on June 5, 2020, the superior
+court denied defendant’s petition on the ground that defendant
+
+
+
+                                 3
+was not convicted under a theory of felony murder or as an aider
+and abettor under a natural and probable consequences theory
+but as a direct aider and abettor, rendering her “ineligible for
+relief under” section 1170.95.
+       Defendant filed this timely appeal.
+                            DISCUSSION
+       Defendant’s appointed counsel filed an “Opening Brief” in
+which no arguable issues are raised, and asks this court for an
+independent review of the record as required by People v. Wende
+(1979) 25 Cal.3d 436 (Wende).
+       Because defendant appeals from an order denying post-
+conviction relief, the procedural protections established in Wende
+do not apply. (People v. Cole (2020) 52 Cal.App.5th 1023 (Cole)
+review granted Oct. 14, 2020, S264278.) In Cole, we recently held
+that in a criminal appeal from a post-conviction order to
+which Wende does not apply, after reviewing the record and
+researching the law, counsel who find no arguable issues are
+required to “file a brief with the Court of Appeal setting forth (1)
+a brief statement of the pertinent procedural history of the case,
+(2) a brief summary of the pertinent facts, (3) counsel’s
+declaration that there are no reasonably arguable issues to
+present on appeal, and (4) counsel’s affirmation that he or she
+remains ready to brief any issues at the request of the Court of
+Appeal.” (Cole, at p. 1038.) Counsel in this case fulfilled these
+requirements.
+       Next, we explained that counsel and this court must notify
+defendant of her right to file a brief on her own behalf. (Cole,
+supra, 52 Cal.App.5th at p. 1039.) Both counsel and this court
+did so.
+       Lastly, we explained that if the defendant does not file a
+
+
+
+                                 4
+supplemental brief, the Court of Appeal may dismiss the appeal
+as abandoned because “the order appealed from is presumed to be
+correct” (Cole, supra, 52 Cal.App.5th at p. 1039), and “in the
+absence of any arguments to the contrary, ineluctably leads to
+the conclusion that the appellant has not carried his or her
+burden of proving otherwise.” (Id. at p. 1040.)
+      Defendant did not file a supplemental brief. In accordance
+with the procedures articulated above, we dismiss this appeal as
+abandoned.
+                             DISPOSITION
+      The appeal is dismissed.
+      NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS.
+
+
+
+
+——————————————————————————————
+ASHMANN-GERST, Acting P. J., CHAVEZ, J., HOFFSTADT, J.
+
+
+
+
+                               5

@@ -1,0 +1,91 @@
+cl_opinion_id: 4590573
+cluster: 4809160
+docket: G059404
+date: 2020-11-20
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re Bertram CA4/3
+----
+Filed 11/19/20 In re Bertram CA4/3
+
+
+
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                     FOURTH APPELLATE DISTRICT
+
+                                                DIVISION THREE
+
+
+
+ In re TIMOTHY K. BERTRAM                                                G059404
+
+      on Habeas Corpus.                                                  (Super. Ct. No. 15HF0067)
+
+                                                                         OPINION
+
+
+                   Original proceedings; petition for a writ of habeas corpus. Petition granted
+with directions.
+                   Petitioner Timothy K. Bertram, in pro. per.
+                   Todd L. Spitzer Attorney General, and George A. Turner, Deputy Attorney
+General for Respondent.
+
+
+
+
+                                      *                  *                  *
+THE COURT:*
+              In December of 2019, petitioner Timothy K. Bertram pled guilty to 13
+felony counts of second-degree burglary in Orange County Superior Court case No.
+                                                   1
+15HF0067. (Pen. Code §§459, 460, subd. (b)).
+              Pursuant to the plea agreement the court struck a strike prior and six prison
+priors for purposes of sentencing only. The court sentenced petitioner to three years on
+count 1, with concurrent sentences on the remaining counts, with credit for 178 days
+served. The court also ordered that petitioner’s sentence be served at ‘“any penal
+institution,”’ concurrently with two other cases previously imposed by Los Angeles
+County, and for which petitioner was currently serving 12 years in state prison.
+              Despite the court’s ruling, a mistake was made in the abstract of judgment.
+This mistake incorrectly states that petitioner was sentenced to county jail pursuant to
+section 1170, subdivision (h). According to petitioner, this mistake has resulted in a
+“time server hold” being placed against him. This hold could operate to send him back to
+Orange County jail after he is released from prison, despite the terms of his sentence
+which mandates that he is to serve a prison term only.
+              Section 669 subdivision (d), provides in effect, that when a court imposes a
+concurrent term of imprisonment and imprisonment for one of the crimes is required to
+be served in state prison, the term for all crimes shall be served in state prison, even if the
+term for any other offense specifies imprisonment in a county jail pursuant to section
+1170 subdivision (h). Here, the court acknowledged at petitioner’s sentencing hearing
+that this case, “[I]t’s not 1170(h).”
+              The Attorney General concedes that there exists an error in the abstract of
+judgment. The Attorney General does not oppose the granting of relief on the foregoing
+
+
+
+
+*             Before, O’Leary, P.J., Ikola, J., and Thompson, J.
+1             All further statutory references are to the Penal Code.
+
+                                               2
+claim and has waived any issuance of an order to show cause. (People v. Romero (1994)
+8 Cal.4th 728, 740, fn.7.)
+              Accordingly, the superior court is directed to amend the abstract of
+judgment to delete that part of the abstract indicating that petitioner is sentenced to
+county jail per section 1170 subdivision (h), and to send a certified copy of the amended
+abstract to the California Department of Corrections and Rehabilitation. This decision
+shall be final as to this court 10 days after its filing. (Cal.Rules of Court, rule
+8.387(b)(3)(A).)
+
+
+
+
+                                               3

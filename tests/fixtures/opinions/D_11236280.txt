@@ -1,0 +1,463 @@
+cl_opinion_id: 11236280
+cluster: 10769695
+docket: D085399
+date: 2026-01-06
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Jones CA4/1
+----
+Filed 1/6/26 P. v. Jones CA4/1
+                 NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION ONE
+
+                                         STATE OF CALIFORNIA
+
+
+THE PEOPLE,                                                               D085399, D085433
+
+         Plaintiff and Respondent,                                        (Super. Ct. Nos. SCE428191,
+                                                                          SCD303170)
+         v.
+
+CELESTE MARIE JONES,
+
+         Defendant and Appellant.
+
+
+         CONSOLIDATED APPEALS from orders of the Superior Court of San
+Diego County, Kimberlee A. Lagotta and Frank L. Birchak, Judges.
+Affirmed.
+         Monica McMillan, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+         Rob Bonta, Attorney General, Lance E. Winters, Chief Assistant
+Attorney General, Charles C. Ragland, Assistant Attorney General, Arlene A.
+Sevidal and Arlyn Escalante, Deputy Attorneys General, for Plaintiff and
+Respondent.
+         In this opinion, we resolve two consolidated appeals by Celeste Marie
+Jones, requesting that we strike probation condition 7 in its entirety, or
+certain sub-conditions (collectively, the conditions), imposed without objection
+at separate sentencing hearings. Jones argues her counsels’ failure to object
+to the conditions constitutes ineffective assistance of counsel. Alternatively,
+she argues the conditions (1) violate her constitutional right to privacy and
+due process of law; (2) are unconstitutionally overbroad and vague; and (3)
+are unreasonable and thus invalid under People v. Lent (1975) 15 Cal.3d 481
+(Lent).
+      As we explain, Jones does not have a cognizable claim of ineffective
+assistance of counsel and has forfeited her privacy and due process challenges
+to the conditions. And, to the extent her remaining challenges are not
+forfeited, the conditions are not unreasonable, as they are subject to the
+meaning that would appear to a reasonable, objective reader. We accordingly
+affirm the orders.
+              FACTUAL AND PROCEDURAL BACKGROUND
+      Between her two cases, Jones pled guilty to first degree burglary under
+
+Penal Code1 section 459, attempted burglary under section 460, subdivision
+(a), and resisting an officer under section 69. At Jones’s two sentencing
+hearings, the courts imposed identical probation conditions, including the
+conditions that are the subject of this appeal:
+            7. TREATMENT, THERAPY, COUNSELING:
+            a. Take psychotropic medications if
+            prescribed/ordered by a doctor.
+            b. Participate in treatment, therapy, counseling, or
+            other course of conduct as suggested by validated
+            assessment tests.
+            c. Provide written authorization for the P.O. to
+            receive progress and compliance reports from any
+            medical/mental health care provider, or other
+            treatment provider rendering treatment/services per
+
+
+1     All further statutory references are to the Penal Code.
+
+                                       2
+            court order under the terms of this grant of
+            probation.
+
+            d. Attend and successfully complete Psychiatric-IF;[2]
+            Individual-IF; Group-IF; Substance Abuse-IF; Dual
+            Diagnosis-IF; Anti-Theft-AS; cognitive behavior-IF
+            counseling program approved by the P.O., as/if
+            directed by the P.O. Authorize the counselor to
+            provide progress reports to the probation officer or
+            court when requested; all costs to be borne by
+            defendant.
+
+                                 DISCUSSION
+                                        I
+                       Ineffective Assistance of Counsel
+      A. Standard of Review and Guiding Principles
+      A criminal defendant has a constitutional right to effective assistance
+of counsel. (U.S. Const., 6th Amend.; Cal. Const., art. I, § 15; Strickland v.
+Washington (1984) 466 U.S. 668, 684–685 (Strickland).) To prove ineffective
+assistance, the appellant first must show that their attorney performed below
+the standard of reasonableness under prevailing professional norms; and
+second, there is a reasonable probability that but for this substandard
+performance, the result of the proceeding would have been more favorable to
+appellant. (Strickland, at pp. 686–688; People v. Mai (2013) 57 Cal.4th 986,
+1009; People v. Brand (2021) 59 Cal.App.5th 861, 871–872 (Brand).) “It is
+defendant’s burden to demonstrate the inadequacy of trial counsel.” (People
+v. Lucas (1995) 12 Cal.4th 415, 436.) An insufficient showing on either
+
+
+2     We understand that the words “IF” and “AS” repeated throughout sub-
+condition 7(d) to create a requirement for the term it accompanies only if
+probation found these terms appropriate and directed Jones to follow them.
+This was necessary because the record shows “Jones did not meet with the
+probation officer,” and therefore probation did not have information about
+whether it would be appropriate to have Jones comply with these terms.
+
+                                        3
+component is fatal to an ineffective assistance claim. (Strickland, at p. 687;
+accord, Brand, at pp. 871–872 [we concluded an ineffective assistance claim
+fails if the defendant makes an insufficient showing on either one of the two
+Strickland prongs].)
+      We are mindful that claims of ineffective assistance are often not
+cognizable on appeal, as we give deference to trial counsel’s tactical choices,
+and the record rarely provides information regarding counsel’s strategy.
+(Strickland, supra, 466 U.S. at pp. 690–691; accord, People v. Silvey (1997)
+58 Cal.App.4th 1320, 1329 [“Ineffective assistance of counsel claims are
+rarely cognizable on appeal.”].) In evaluating a defendant’s claim of
+incompetence, “ ‘ “[a] fair assessment of attorney performance requires that
+every effort be made . . . to evaluate the conduct from counsel’s perspective at
+the time.” ’ ” (People v. Mayfield (1993) 5 Cal.4th 142, 199.)
+      We must reject claims of ineffective assistance if the record “does not
+affirmatively show why counsel failed to object and the circumstances suggest
+counsel could have had a valid tactical reason for not objecting.” (People v.
+Jones (2009) 178 Cal.App.4th 853, 860 (Jones), citing People v. Mendoza Tello
+(1997) 15 Cal.4th 264, 266–267.) We must similarly reject claims of
+ineffective assistance “unless counsel was asked for and failed to provide a
+satisfactory explanation, or there simply can be no satisfactory explanation.”
+(People v. Scott (1997) 15 Cal.4th 1188, 1212.)
+      B. Jones Does Not Have a Cognizable Ineffective Assistance Claim
+      Jones makes two claims regarding trial counsels’ effectiveness. First,
+she asserts that her counsel provided ineffective assistance by failing to
+object to the conditions because they were “not part of the negotiated terms of
+the agreements in each case, as evidenced by the fact that the term does not
+
+
+
+
+                                        4
+appear in Appellant’s plea forms.” Second, she asserts that counsel breached
+a “duty to know the law.” We reject both claims.
+      As to her first claim, Jones states that the conditions “first appeared in
+Appellant’s probation orders, the terms of which were imposed at
+sentencing.” This claim, however, is belied by the record, as the conditions
+appeared in the probation reports for both matters. At Jones’s first
+sentencing, her attorney confirmed receipt of these conditions and discussed
+them with the court. At her second sentencing, Jones herself confirmed she
+reviewed “all of the proposed terms and conditions of probation” with her
+attorney and that she understood and accepted them.
+      Furthermore, we cannot assume that the conditions are different from
+those negotiated by her counsel, as the record is devoid of evidence of such
+negotiations. We cannot decide a claim of ineffective assistance premised on
+a misstatement of fact or pure speculation. (See In re Cox (2003) 30 Cal.4th
+974, 1016 [appellant “must establish ‘prejudice as a “demonstrable reality,”
+not simply speculation as to the effect of the errors or omissions of
+counsel’ ”].)
+      As to her second claim, Jones alleges trial counsel fell short of a “duty
+to know the law.” Specifically, she argues that her attorneys’ constructive
+knowledge of Lent should have led them to conclude that the conditions were
+invalid, giving rise to a duty to object to their imposition. But simply
+knowing that a condition may be objectionable does not mean defense counsel
+was ineffective for failing to object, as counsel “could have made a reasonable
+
+
+
+
+                                        5
+tactical decision to forgo any challenge to the conditions.”3 (Brand, supra,
+59 Cal.App.5th at p. 873.)
+      Indeed, at Jones’s first sentencing, defense counsel objected to
+probation conditions not at issue in this appeal. The People responded by
+raising concerns over Jones’s likelihood of recidivism. Defense counsel
+therefore could have reasonably concluded that any further objections to the
+conditions of probation, including the conditions at issue here, might
+negatively impact the court’s decision to grant probation, thereby prejudicing
+Jones. Absent any indication in the record as to why defense counsel failed to
+object, and both the potential tactical reasons and a satisfactory explanation
+for not doing so, we must reject Jones’s claim that she received ineffective
+assistance at her first sentencing. (See Jones, supra, 178 Cal.App.4th at
+p. 860.)
+      At her second sentencing, Jones confirmed she (1) reviewed the
+probation conditions with her attorney, and (2) understood and accepted
+them. The record here similarly does not show why her counsel failed to
+object to the conditions. Tactically, counsel could have concluded it would
+have been futile to do so given that the court had already imposed the same
+conditions at Jones’s first sentencing. (See Kendrick, supra, 226 Cal.App.4th
+at p. 779.) We accordingly also reject Jones’s ineffective assistance of counsel
+claim as it pertains to her second sentencing.
+
+
+
+3     Valid tactical reasons include a reasonable belief that an objection
+could highlight unfavorable information about the defendant, including his or
+her background or character (Brand, supra, 59 Cal.App.5th at pp. 871–872)
+or negatively influence the court’s decision to grant probation in the first
+instance (id. at p. 873); or that “the trial court would not have entertained an
+objection to the probation condition,” i.e., the objection would have been futile
+(People v. Kendrick (2014) 226 Cal.App.4th 769, 779 (Kendrick)).
+
+                                        6
+                                          II
+
+                  Constitutional Challenges to the Conditions4
+      A.     Standard of Review
+      “We review a superior court’s ruling regarding mandatory supervision
+and its terms and conditions under an abuse of discretion standard.” (People
+v. Malago (2017) 8 Cal.App.5th 1301, 1305.) However, if “a condition of
+mandatory supervision is challenged on constitutional grounds, we apply a de
+novo standard of review.” (Brand, supra, 59 Cal.App.5th at p. 867.)
+      B.     Guiding Principles
+      Ordinarily, challenges on appeal are subject to forfeiture in criminal
+cases where the defendant “[fails] to make timely assertion of the right”
+before the trial court. (In re Sheena K. (2007) 40 Cal.4th 875, 881 (Sheena
+K.).) Forfeiture applies “in the context of sentencing as in other areas of
+criminal law.” (Ibid.) Thus, probation condition challenges “must be raised
+in the trial court, and if they are not, appellate review . . . is forfeited.” (Id. at
+p. 880; Brand, supra, 59 Cal.App.5th at p. 867.)
+      “The one exception to this rule involves facial constitutional
+challenges.” (Brand, supra, 59 Cal.App.5th at p. 867, citing Sheena K., supra,
+40 Cal.4th at pp. 887–889.) Defendants may bring a facial challenge against
+an “unauthorized sentence” for the first time on appeal if the challenge
+“presents an asserted error that is a pure question of law,” that is
+“correctable without reference to the particular sentencing record developed
+in the trial court.” (Sheena K., at pp. 888–889.) “A sentence is said to be
+unauthorized if it ‘cannot be lawfully imposed under any circumstance . . . .’ ”
+(Id. at p. 887.) Accordingly, challenges that require reference to the record
+
+4     Jones asserts, and the People concede, that because this appeal does
+not disturb her plea, she did not need a certificate of probable cause to file it.
+We agree. (See Cal. Rules of Court, rule 8.304(b)(2).)
+
+                                          7
+are subject to ordinary forfeiture rules (id. at p. 889), and an appellant
+forfeits these challenges by failing to raise them in the trial court (ibid.).
+      C. Analysis
+      Jones argues she “raises a facial and as-applied constitutional
+challenge” to the conditions, on grounds they allegedly violate “her
+constitutional rights to privacy, bodily autonomy, and due process” under the
+United States and California Constitutions. She also argues the conditions
+are unconstitutionally overbroad and vague.
+      As we explain, Jones forfeited all her constitutional challenges on
+appeal because (1) as noted, she did not object to the conditions; (2) her
+challenges to the conditions are not facial (see Sheena K., supra, 40 Cal.4th at
+pp. 887–889; Brand, supra, 59 Cal.App.5th at p. 867); and (3) to the extent
+her remaining challenges are not forfeited, the conditions are not
+unreasonable, as they are subject to the meaning that would appear to a
+reasonable, objective reader.
+            1. Privacy and Due Process
+      Jones claims the conditions violate her privacy rights under the
+California Constitution; specifically, her right to refuse intrusions of her
+bodily autonomy including unwanted medication. She further claims that
+the conditions violate her rights to liberty and due process of law under the
+United States Constitution because they require her to take psychotropic
+medications if prescribed by a doctor, engage in counseling services, and
+provide written authorization for the government to receive progress reports.
+She has not persuaded us.
+      At the outset, we note that there are circumstances under which a
+sentencing court could lawfully impose a probation condition requiring an
+adult defendant to take medication, despite their constitutional privacy
+
+
+
+                                         8
+rights. (See, e.g., In re Luis F. (2009) 177 Cal.App.4th 176, 192 [rejecting
+challenge to medication condition that required the defendant to follow a
+doctor’s prescriptions with respect to specified medical conditions based on
+the existence of a doctor-patient relationship].) Similarly, there are
+circumstances under which an agreed-to medication condition is lawful
+despite a defendant’s “due process right to refuse antipsychotic medication.”
+(People v. Petty (2013) 213 Cal.App.4th 1410, 1414.)
+        Thus, whether the conditions violate Jones’s privacy or due process
+rights are not “pure question[s] of law” because resolving these issues on
+appeal would require us to evaluate her specific circumstances, as shown by
+the record. (See Sheena K., supra, 40 Cal.4th at p. 887.) Jones understands
+this, because she specifically asks that we strike 7(a) for lack of a medically-
+informed record. Because Jones’s privacy and due process challenges to the
+conditions are not facial, she has forfeited them on appeal. (Id. at pp. 887–
+889.)
+        Further, we decline to exercise our discretion to reach the merits of
+these challenges; Jones does not articulate an important legal question or
+issue of public policy that persuades us to exempt the rule of forfeiture in this
+case. (See Sheena K., supra, 40 Cal.4th at p. 887, fn. 7; In re S.B. (2004)
+32 Cal.4th 1287, 1293 [the discretion to excuse a failure to object “should be
+exercised rarely and only in cases presenting an important legal issue”];
+accord People v. Brown (1996) 42 Cal.App.4th 461, 471 [forfeited claims are
+heard only in cases where “enforcement of a penal statute is involved,” “the
+asserted error fundamentally affects the validity of the judgment[,]” or where
+“important issues of public policy are at issue”].)
+        Jones next argues that 7(b), which requires her to participate in
+counseling, is “forced treatment” and “an intrusion of her mind, and thus a
+
+
+
+                                         9
+violation of her privacy . . . and due process rights . . . .” Jones herself,
+however, argues that this requirement is “not supported by a medically
+informed record or an express finding of necessity.” Thus, it cannot be said
+that her challenge to 7(b) is a facial challenge. For the same reason, we reject
+her challenges to 7(c) and 7(d). (See Sheena K., supra, 40 Cal.4th at p. 887,
+fn. 7.)
+                2. Overbreadth
+          Jones next asserts that the conditions are unconstitutionally overbroad
+because they “include[ ] nearly every possible form of medical and mental
+health treatment” that a court could impose. The purportedly overbroad
+wording that Jones points to is in 7(b), which requires her to “[p]articipate in
+treatment, therapy, counseling, or other course of conduct as suggested by
+validated assessment tests.”
+          “A probation condition that imposes limitations on a person’s
+constitutional rights must closely tailor those limitations to the purpose of
+the condition to avoid being invalidated as unconstitutionally overbroad.”
+(Sheena K., supra, 40 Cal.4th at p. 890.) While an overbreadth challenge can
+present a pure question of law, evaluating whether a sentencing court
+narrowly tailored a condition to the probationer’s circumstances, based on the
+record, does not. (Id. at pp. 887–888.)
+          Jones asserts “that at no point . . . was there any discussion of [her]
+mental health”; and that as a result, there is no basis on which to evaluate
+whether the conditions requiring her to undergo mental health treatment are
+reasonably related to her circumstances. Determination of whether such a
+basis exists and supports the reasonableness of the condition, however, is a
+factual question because it requires reference to the record. (See Sheena K.,
+supra, 40 Cal.4th at p. 890.)
+
+
+
+                                           10
+        A facial challenge to 7(b) would require argument that the term is
+unconstitutional in the abstract, and demonstration that it is
+unconstitutional under all circumstances. (See Sheena K., supra, 40 Cal.4th
+at pp. 885–887.) Instead, Jones argues that the condition is overbroad
+because under it, she could “be subjected to a physical fitness assessment test
+and be ordered to run obstacle courses, or participate in a math assessment
+test . . . .”
+        “When interpreting a probation condition, we rely on ‘context and
+common sense’ [citation] and give the condition ‘ “the meaning that would
+appear to a reasonable, objective reader.” ’ ” (In re I.S. (2016) 6 Cal.App.5th
+517, 524.) Reading this provision as Jones suggests requires the reader to
+ignore the context of the provision, namely that it appears in a section
+devoted to mental health treatment. Further, the probation officer’s
+discretion is not “unfettered” as she claims. Any such treatment requires a
+link to an assessment test. Even if an extremely broad interpretation of the
+language would enable a probation officer to require treatment based on a
+non-medical or fringe-theory assessment test, such a broad interpretation
+would be unreasonable. (See ibid.; accord, People v. Olguin (2008) 45 Cal.4th
+375, 382–383 (Olguin); People v. Kwizera (2000) 78 Cal.App.4th 1238, 1240–
+1241 [probation department’s authority to ensure compliance with terms of
+probation does not authorize irrational directions by probation officer].)
+                3. Vagueness
+        Jones also argues that the phrase “validated assessment tests” in 7(b)
+is unconstitutionally vague because she “has no inkling of what could be
+required of her.” Similarly, she asserts that the record does not define what
+these tests involve, and thus that she cannot know what the counseling
+courses in 7(d) require.
+
+
+
+                                       11
+      The record, however, shows Jones stated that she understood and
+accepted the entirety of the conditions at her second sentencing.
+Additionally, her vagueness challenge to 7(b) and 7(d) necessarily require us
+to review the record, and she has therefore forfeited the issue on appeal by
+failing to object to these conditions at sentencing. (See Sheena K., supra,
+40 Cal.4th at pp. 887–888.)
+      In any event, like in overbreadth challenges, we consider vagueness
+challenges to probation conditions by applying “ ‘the meaning that would
+appear to a reasonable, objective reader.’ ” (Olguin, supra, 45 Cal.4th at
+p. 382, accord, People v. Morgan (2007) 42 Cal.4th 593, 606 [probation
+condition is not impermissibly vague “ ‘ “simply because there may be
+difficulty in determining whether some marginal or hypothetical act is
+covered by its language” ’ ”]; In re I.V. (2017) 11 Cal.App.5th 249, 261 [“A
+probation condition survives a vagueness challenge if it can be given any
+reasonable and practical construction.”].)
+      D. Jones Forfeited her Lent Challenge
+      Lastly, Jones asserts the conditions are invalid under Lent, supra,
+15 Cal.3d 481. However, her failure to challenge the conditions in the trial
+court forfeits this argument on appeal. (See People v. Welch (1993) 5 Cal.4th
+228, 237 [failing to timely challenge probation conditions under Lent forfeits
+those challenges on appeal].)
+
+
+
+
+                                       12
+                                DISPOSITION
+      We affirm the trial court’s orders, including its imposition of probation
+conditions 7(a) through 7(d).
+
+
+                                                                   KELETY, J.
+I CONCUR:
+
+
+DATO, Acting P. J.
+
+
+
+
+                                      13
+CASTILLO, J., Concurring in part and dissenting in part.
+      I join the majority opinion as to all but sections II.C.2 and II.C.3 of the
+discussion because of my concerns with the unconstitutional overbreadth and
+vagueness of preprinted probation condition 7(b).
+      Probation condition 7(b) appears under the heading “Treatment,
+Therapy, Counseling” and requires the probationer to “[p]articipate in
+treatment, therapy, counseling, or other course of conduct as suggested by
+validated assessment tests.” (Some capitalization omitted.)
+      Unlike my colleagues in the majority, I would reach the merits of
+Celeste Marie Jones’ claim that condition 7(b) is facially unconstitutionally
+overbroad and vague. (See Conservatorship of Wendland (2001) 26 Cal.4th
+519, 531-532 [California Constitution’s right to privacy encompasses right to
+refuse medical treatment as “‘intrusions of . . . bodily integrity’”].) In my
+view, condition 7(b)’s expansive scope is problematic as applied to everyone—
+not just case by case—even when cabined by its context to mental health.
+(Maj. Opn., at pp. 10-11 [overbreadth] 12 [vagueness].) As a result, Jones did
+not forfeit this facial challenge by not objecting in the trial court.
+      On its face, the condition leaves open many critical questions.
+      For instance, what constitutes a “validated assessment test”? By whom
+is it to be validated? The condition sets no requirement that the unknown
+validator exercise sound medical judgment or, indeed, any medical judgment.
+      Who administers the test or supervises the probationer’s participation?
+Unlike neighboring conditions, condition 7(b) does not specify a doctor (as
+condition 7(a) does) or the probation officer (as does condition 7(d)). (See Maj.
+Opn., at p. 11 [assuming probation officer].) Need the unknown person have
+any medical training at all?
+      What does it mean for a course of conduct to be “suggested” by a test?
+Unlike phrases like “as determined by a licensed physician,” which appears
+in condition 8(e), or “as clinically indicated,” as used in condition 14(b), the
+word “suggested” here is wholly unrestrained by any form of medical
+justification.
+      What do “treatment[s], therapy, counseling, or other course[s] of
+conduct” encompass? The phrase reasonably could include forced medication
+beyond the psychotropic medications directly addressed in condition 7(a). It
+could also encompass FDA-approved yet invasive or extreme treatments like
+electroconvulsive therapy. Could it not also extend to controversial or even
+discredited therapies and procedures so long as they are supported by
+validated but outdated assessment tests?
+      Given its open-endedness, I would conclude probation condition 7(b) is
+unconstitutionally overbroad and vague and remand to the trial court to
+appropriately limit the condition’s scope. (See, e.g., People v. Gonsalves
+(2021) 66 Cal.App.5th 1 [concluding probation condition forbidding the
+defendant from associating with anyone known to him to have a “criminal
+record” was unconstitutionally vague and overbroad].) As the defects in
+probation condition 7(b) are not limited to Jones, I also urge the San Diego
+Superior Court to consider narrowing and clarifying this preprinted condition
+on its Order Granting Formal Probation (SDSC CRM-021 A (Rev. 9/13)).
+
+
+                                                                    CASTILLO, J.
+
+
+
+
+                                         2

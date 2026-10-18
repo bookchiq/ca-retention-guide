@@ -1,0 +1,1224 @@
+cl_opinion_id: 11171846
+cluster: 10705259
+docket: A168172M
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Hughes v. Libeu CA1/3
+----
+Filed 10/16/25 Hughes v. Libeu CA1/3
+
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+          IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                DIVISION THREE
+
+                                                                        A168172
+ KIMBERLY HUGHES,
+                                                                        (Sonoma County
+           Plaintiff and Appellant,                                     Super. Ct. No. SCV-261621)
+ v.
+                                                                         ORDER MODIFYING OPINION; AND
+ NATHAN LEON LIBEU et al.,                                               DENYING PETITION FOR
+           Defendants and Respondents.                                   REHEARING
+                                                                          [NO CHANGE IN JUDGMENT]
+
+
+
+THE COURT*:
+         It is ordered that the opinion filed herein on September 30, 2025, be
+modified in the following particulars:
+         On page 35, lines 8-9, the following sentence is deleted: “Apparently,
+prospective jurors were not asked if they had ever driven through the
+intersection or had any preconceived opinion about what was a reasonable
+speed to drive through it.”
+         The deleted sentence on page 35, lines 8-9 is replaced with the
+following sentence: “Apparently, prospective jurors were not asked if, from
+
+
+
+         * Tucher, P. J., Fujisaki, J., and Rodríguez, J. participated in the
+
+decision.
+
+                                                               1
+their own experience driving through the intersection, they had any
+preconceived opinion about what was a reasonable speed to drive through it.”
+          This modification does not effect a change in the judgment.
+          Appellant’s petition for rehearing is denied.
+
+
+
+
+Dated:__October 16, 2025_______                    ___TUCHER, P. J._________
+                                               PRESIDING JUSTICE
+
+
+Hughes v. Libeu et al. (A168172)
+
+
+
+
+                                           2
+Filed 9/30/25 Hughes v. Libeu CA1/3 (unmodified opinion)
+
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+          IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                DIVISION THREE
+
+ KIMBERLY HUGHES,
+           Plaintiff and Appellant,                                     A168172
+
+ v.                                                                     (Sonoma County
+ NATHAN LEON LIBEU et al.,                                              Super. Ct. No. SCV-261621)
+           Defendants and Respondents.
+
+
+         Kimberly Hughes filed this negligence action to recover damages
+arising from a 2016 accident when she was hit by a truck while riding her
+bicycle. Nathan Libeu was driving the truck, which was owned by his
+employer, Herc Rentals Inc. (Herc). In 2023, a jury determined Libeu was
+not negligent in causing Hughes harm, and the court entered judgment in
+favor of Libeu and Herc. The court also denied motions for judgment
+notwithstanding the verdict and for a new trial. We affirm.
+                                                  BACKGROUND
+         The accident occurred on May 28, 2016, at around 6:20 a.m., at the
+intersection of Mendocino Avenue and 10th Street in Santa Rosa. Hughes
+filed her complaint against Libeu in December 2017 and subsequently added
+Herc as a defendant. Pretrial litigation was extensive.
+         Trial was conducted in two phases. In May 2022, a court trial was held
+to decide two issues not challenged on appeal. The court found (1) at the time
+
+
+                                                               1
+of the collision Libeu was borrowing, rather than renting, the truck from his
+employer, and (2) a waiver and release entered into by Hughes, Herc, and
+Herc’s insurance company was not enforceable.
+      In early 2023, a jury trial was held to resolve Hughes’s claim that
+defendants were liable for her damages due to Libeu’s negligence. The jury
+heard evidence about the accident from four percipient witnesses and two
+accident reconstruction experts. Multiple witnesses also testified about
+Hughes’s injuries.
+The Accident
+      Santa Rosa Police Officer Timothy Gillette, who was dispatched to the
+2016 accident, did not testify at trial, but excerpts from his deposition were
+read into the record. According to that testimony, when Gillette arrived at
+the scene, Libeu’s truck was in the “No. 1” (i.e., leftmost) lane of two
+northbound lanes on Mendocino, and emergency responders were tending to
+Hughes. Gillette took a statement from Libeu, who reported that he was
+driving north on Mendocino when he saw Hughes riding her bike along the
+far right side of the road, and as he approached the intersection, Hughes
+“quickly veered left in front of him, and he tried to stop, but he couldn’t stop
+and ultimately collided with her.”
+      During Gillette’s deposition, he was asked what he recalled about
+Libeu’s demeanor at the scene. Gillette testified that Libeu was concerned
+about the fact that he had hit someone. He told Gillette that he had
+borrowed his employer’s truck to pick up supplies for his girlfriend’s birthday
+party and had been thinking about the party while he was driving. He
+thought he had a green light as he approached the intersection, but he
+seemed unsure. Gillette also testified about video that had been recorded by
+a surveillance camera in a store window, which partially captured the
+
+
+
+                                        2
+accident. Based on what he saw depicted in the video, Gillette concluded that
+Hughes “made the left turn without even looking to see if anybody was
+coming,” and that she made the sudden sharp turn directly in front of the
+truck so that there “was no way that [the] truck could have stopped in time.”
+      Several witnesses besides Gillette were asked about the video of the
+accident, which was admitted into evidence and played for the jury. The
+video shows Hughes as she approached the intersection on her bike. Before
+Hughes reached the crosswalk, she started making a rounded left turn into
+the crosswalk, and she was cycling parallel with and on or near the outside
+line of the crosswalk when the truck traveling in the number one northbound
+lane collided with her. The video does not show the color of either traffic light
+at the time of the collision.
+      At trial, Hughes testified that she had been riding a bicycle in the area
+where the accident occurred since she was a child, she knew the rules of the
+road, and it was her habit to use “hand signals.” Hughes had no memory of
+the accident, but she attested that she knew certain facts based on her review
+of the video. Specifically, Hughes testified that when the accident occurred,
+she was in the crosswalk, and that she was not turning left onto 10th Street
+but was instead on her way to a church on Mendocino. Hughes testified that
+she was not wearing a helmet because “I don’t see why I need to.” By the
+time of trial, Hughes had resumed riding her bike, and she continued to
+“never wear a helmet.” Under cross-examination, Hughes was asked to
+demonstrate a left-hand signal. She attempted to avoid the question but
+ultimately acknowledged that she could not demonstrate the signal. Hughes
+testified that she was “entering a crosswalk,” which is “different than
+changing lanes and making a left turn.”
+
+
+
+
+                                       3
+      Libeu testified that prior to the 2016 accident, he was very familiar
+with the intersection at Mendocino Avenue and 10th Street. He knew that
+10th Street is a one-way street, with vehicles traveling only in an eastbound
+direction; that a vehicle traveling north on Mendocino could not make a left
+turn onto 10th Street; and that a sign posted at the intersection indicates U-
+turns and left turns are not allowed. Regarding the day of the accident,
+Libeu testified that he was traveling in the number one northbound lane on
+Mendocino when he noticed Hughes on her bike travelling on the far right
+side of the number two northbound lane. There were no other vehicles on the
+road that morning, and Libeu recalled that he was driving between 25 and 30
+miles per hour, a speed he felt the conditions warranted. He was not in a
+hurry, not on his phone, and had not been drinking. Libeu testified further
+that, as he approached the intersection, he noticed his light was green and
+there were no pedestrians waiting at the crosswalk. He was paying attention
+as he was driving, he saw Hughes as he approached the intersection, and he
+did not see her make any signal to indicate she intended to change lanes
+before she made a sudden left turn directly in front of him. Libeu
+immediately hit his brakes and came to a stop as fast as he could, he
+testified.
+      Robert Moreno testified that on the morning of the accident, he was
+sitting on a cement wall waiting to have breakfast at the Unitarian Church
+when he saw many homeless people coming from various directions to attend
+the breakfast, including Hughes. Moreno testified that he saw Hughes stop
+at the crosswalk and wait for her light to turn green so she could cross.
+According to Moreno, Hughes waited at least a “few seconds,” and when her
+light turned green, she got up on her seat and began pedaling across the
+street. Then, in his “peripheral vision,” Moreno saw a white work truck
+
+
+
+                                       4
+traveling north on Mendocino that ran a red light and hit Hughes as she was
+crossing the street. At trial, Moreno did not have “one bit” of doubt that the
+truck ran a red light.
+Accident Reconstruction Experts
+      John Smith was the plaintiff’s accident reconstruction expert. Smith
+calculated that Libeu was driving at a speed of 39 miles per hour as he
+approached the intersection, and his speed at the time of impact was 34 miles
+per hour. Smith offered the opinion that the accident would not have
+occurred if Libeu had been driving the speed limit, which was 25 miles per
+hour. Under that scenario, Smith opined, Hughes would have been able to
+cross the street safely without being hit. Smith also believed the collision
+would not have occurred, or would have been far less impactful, if Libeu had
+kept his vehicle straight when he reached the intersection; it was Smith’s
+opinion that Libeu turned left into Hughes, causing greater damage.
+      Eric Rossetter testified as the defendants’ accident reconstruction
+expert. In Rossetter’s opinion, Libeu was traveling between 33 and 35 miles
+per hour as he approached the intersection and at the time of impact.
+Rossetter also determined that Hughes was traveling around 10 miles per
+hour and had slowed to about 8 miles per hour as she impacted with the
+truck “through the left turn.” In Rossetter’s opinion, Libeu “reacted very
+rapidly to the left-turning bicycle.” The video of the incident was a “key
+piece” of the information Rossetter used to analyze the collision. During his
+testimony, Rossetter reviewed individual frames that had been pulled from
+the video and explained how they supported his opinions.
+Hughes’s Injuries
+      Hughes called expert witnesses to testify about her injuries. Dr. Feder,
+an expert in orthopedics and orthopedic surgery, did not examine Hughes,
+
+
+
+                                       5
+but he reviewed her medical records and spoke with her on the phone.
+Hospital records showed that when Hughes was admitted after the accident,
+she tested positive for amphetamine but not methamphetamine, and that she
+was intubated due to her injuries. Feder opined that several of Hughes’s
+injuries were potentially life-threatening, including a skull fracture, subdural
+hematoma, spleen injury, and rib fractures. Hughes also had a severe tibia
+and fibular fracture. Feder testified that, although the orthopedic surgeon
+who treated Hughes did an “excellent job” her leg injury would cause chronic
+problems.
+      Dr. McCoy, defendants’ orthopedic expert, examined Hughes in May
+2021. When Hughes appeared for her exam, she displayed no residual limp,
+and she reported that the only thing that continued to trouble her was
+swelling and discomfort in her left leg. McCoy also reviewed Hughes’s
+medical records, which documented two prior accidents: a 2014 solo bicycle
+accident and a 2015 “motor vehicle versus bicycle accident.” Based on his
+review of records pertaining to the 2016 accident, McCoy opined that Hughes
+was combative while being treated for her injuries and noncompliant with
+her postsurgery treatment plan.
+      Hughes presented evidence regarding her head injury through the
+testimony of Dr. Mobin, her designated expert in neurological surgery. In
+September 2021, Mobin conducted a neurosurgical evaluation of Hughes,
+based on his review of her medical records and an audio call with her. Mobin
+testified that Hughes sustained a complex cranial fracture and contusions to
+the left side of her brain, which could result in cognitive decline.
+      The defense did not call a neurology expert witness but presented
+deposition testimony from the radiologist who treated Hughes after the
+accident, Dr. Popovich. Popovich testified that Hughes’s CT scan showed a
+
+
+
+                                        6
+skull fracture, but the brain itself appeared relatively normal, aside from a
+small “finding” that he made, which was likely incidental and not caused by
+the collision.
+      The defense also elicited testimony from Dr. Benowitz, an expert in
+toxicology and pharmacology. Benowitz, who had reviewed medical records
+pertaining to Hughes’s use of methamphetamine, offered the opinion that the
+expected behaviors of a long-term methamphetamine user include
+impulsivity, impatience, poor decision-making, and problems with memory.
+Jury Verdict and Judgment
+      On March 1, 2023, the case was submitted to the jury with directions to
+return a verdict on special verdict issues. The jury quickly reached a verdict
+by answering the first question on the special verdict form, finding that Libeu
+was not negligent. Judgment on the special verdict was entered, and Hughes
+filed motions for judgment notwithstanding the verdict and for a new trial.
+Both motions were heard on June 2, 2023 and soon denied in a detailed
+written order. Hughes then timely filed this appeal.
+                                DISCUSSION
+I. Denial of Judgment Notwithstanding the Verdict
+      “A trial court must render judgment notwithstanding the verdict
+whenever a motion for a directed verdict for the aggrieved party should have
+been granted. (Code Civ. Proc., § 629.) A motion for judgment
+notwithstanding the verdict may be granted only if it appears from the
+evidence, viewed in the light most favorable to the party securing the verdict,
+that there is no substantial evidence in support.” (Sweatman v. Department
+of Veterans Affairs (2001) 25 Cal.4th 62, 68.) Our standard of review is the
+same as the standard applied by the trial court, “whether any substantial
+
+
+
+
+                                       7
+evidence—contradicted or uncontradicted—supports the jury’s conclusion.”
+(Ibid.)
+      Hughes contends she is entitled to judgment notwithstanding the
+verdict because “there was more than overwhelming evidence” that Libeu
+“was at least 1% or more negligent.” Notably, though, the statement of facts
+in Hughes’s appellate brief does not contain a summary of the trial evidence.
+Instead, in arguing that she is entitled to judgment in her favor, Hughes
+relies on isolated snippets of trial testimony. Under these circumstances,
+Hughes has forfeited her claim that the judgment is not supported by the
+evidence. “When an appellant’s opening brief states only the favorable facts,
+ignoring evidence favorable to respondent, the appellate court may treat the
+substantial evidence issues as waived and presume the record contains
+evidence to sustain every finding of fact.” (Slone v. El Centro Regional
+Medical Center (2024) 106 Cal.App.5th 1160, 1173–1174; see Doe v. Roman
+Catholic Archbishop of Cashel & Emly (2009) 177 Cal.App.4th 209, 218.) The
+reason for this rule is illustrated well by Hughes’s appellate briefing; the
+appellant cannot carry her burden to show the evidence is insufficient to
+support the jury’s finding when support for that finding may lie in the
+evidence she ignores. (Delta Stewardship Council Cases (2020) 48
+Cal.App.5th 1014, 1072.)
+      Regardless, Hughes’s claim that she proved Libeu’s negligence as a
+matter of law fails on its merits. Hughes takes the position that a finding
+Libeu failed to exercise reasonable care was compelled by evidence that he
+told Officer Gillette he had been thinking about his girlfriend’s party and
+gave the officer the impression he was second-guessing himself. We reject
+this flawed theory.
+
+
+
+
+                                        8
+      The “reasonable care required by negligence law depends on all the
+circumstances.” (Cabral v. Ralphs Grocery Co. (2011) 51 Cal.4th 764, 777.)
+Because this standard is “inherently situational, the amount of care deemed
+reasonable in any particular case will vary, while at the same time the
+standard of conduct itself remains constant, i.e., due care commensurate with
+the risk posed by the conduct taking into consideration all relevant
+circumstances.” (Flowers v. Torrance Memorial Hospital Medical Center
+(1994) 8 Cal.4th 992, 997; see Mayes v. La Sierra University (2022) 73
+Cal.App.5th 686, 705, fn. 2 [whether defendant acted reasonably under the
+circumstances presents questions of fact for the jury to decide].) Assuming
+that Libeu was thinking about the party while he was driving, that was not
+the only relevant circumstance. As our background summary reflects, there
+was evidence that Libeu was also paying attention to Hughes that morning,
+that his speed was reasonable for the conditions, and that he responded
+rapidly when Hughes made a sudden illegal left turn in front of him, a turn
+that made it impossible for him to stop in time to avoid the collision.
+      The record shows the jury was also instructed regarding principles of
+negligence per se, as both parties alleged that the other had violated the
+Vehicle Code. The doctrine of negligence per se can be used to establish a
+rebuttable presumption of negligence arising out of a violation of a statute,
+ordinance, or regulation. (Johnson v. Honeywell Internat. Inc. (2009) 179
+Cal.App.4th 549, 555.) It does not create an independent cause of action for
+violating a statute (id. at p. 556), nor does it lead “automatically to negligence
+liability.” (California Service Station etc. Assn, v. Am. Home Assurance Co.
+(1998) 62 Cal.App.4th 1166, 1171, fn. 5.) In this case, Hughes alleged that
+Libeu violated Vehicle Code section 21453, which requires a driver to stop at
+a red light and, if there is no light, to stop before entering a crosswalk.
+
+
+
+                                        9
+      On appeal, Hughes argues Libeu was negligent as a matter of law
+based on Moreno’s testimony that Libeu ran a red light and hit Hughes while
+she was in the crosswalk. But Hughes ignores relevant evidence from which
+the jury could have concluded that Moreno was not a credible witness. For
+one thing, Moreno’s testimony about Hughes’s actions was not consistent
+with the video evidence.1 Moreover, Libeu testified that the light was green
+for his direction of travel. Thus, the record does not compel a finding that
+Libeu ran a red light.
+      Finally, Hughes argues that Libeu’s negligence was established by the
+testimony of her accident reconstruction expert, John Smith, who opined
+Libeu was driving more than ten miles over the speed limit as he approached
+the intersection. To begin with, Smith acknowledged to the jury that he was
+not offering an opinion as to whether anybody was negligent in this case.
+Moreover, Smith’s opinions were disputed by the defendants. And, as the
+jury was instructed, the jury was not required to accept opinions offered by
+the experts. (See e.g. Conservatorship of McKeown (1994) 25 Cal.App.4th
+502, 509.)
+II. Denial of Motion for a New Trial
+      “We generally review a trial court’s denial of a new trial motion for
+abuse of discretion, independently reviewing whether any error was
+prejudicial.” (Smith v. Magic Mountain LLC (2024) 106 Cal.App.5th 1128,
+1135.) We “review [each] determination underlying the denial of a new trial
+motion ‘ “under the test appropriate to such determination.” ’ ” (Ibid.) On
+appeal, Hughes repeats every claim she made in her new trial motion. We
+
+
+      1
+          In addition, Moreno acknowledged at trial that he had previously been convicted
+of a felony. He was also less than forthcoming about his prior connections to Hughes and
+whether they were friends. Hughes testified that Moreno was not her friend, but she
+acknowledged that he was her best friend’s stepfather.
+
+                                           10
+review these issues in the order they arose at trial, except that challenges to
+the admission or exclusion of evidence relevant only to damages we reserve
+for last.
+       A. Jury Voir Dire
+       Hughes contends she was denied a fair trial because the trial court
+precluded her counsel from asking potential jurors about critical issues in the
+case. We review trial court restrictions on voir dire questioning for abuse of
+discretion. (Alcazar v. Los Angeles Unified School Dist. (2018) 29 Cal.App.5th
+86, 94.)
+             1. Additional Background
+       Voir dire was conducted over multiple days in February 2023. After
+the court heard hardship requests, the selection process began with the court
+asking prospective jurors about their backgrounds. Then counsel for each
+party presented a mini-opening statement. The court asked detailed follow-
+up questions about facts counsel had disclosed, ending this line of questions
+with explicit inquiries as to whether any juror had feelings that would bias
+them against either party or prevent them from being impartial. Then
+counsel for each party conducted their own examination of prospective jurors.
+The process was lengthy and thorough.
+       However, the court precluded Hughes’s counsel from questioning
+prospective jurors about two discrete issues—their experiences with the
+criminal justice system and with drug addiction. These issues arose early in
+the jury selection process, when plaintiff’s counsel made an oral motion to
+exclude evidence of Hughes’s prior felony convictions. Counsel argued that if
+the convictions were not excluded, they were a proper subject for jury voir
+dire. Counsel was unable to provide details about Hughes’s prior convictions,
+and issues of admissibility were left for another day. But the court ruled that
+
+
+
+                                       11
+there would be no voir dire about impeachment evidence pertaining to
+Hughes’s prior felonies.
+      Plaintiff’s counsel raised the issue again the next day, and made an
+additional request to voir dire about “drug use.” The court found both
+questions were improper because they were designed to elicit the jury’s
+advance reaction to actual evidence that Hughes had felony convictions and a
+history of drug use. The purpose of voir dire, the court stated, is to look for
+general biases, “not bias based on a preview of [the] evidence.” As support for
+its ruling, the court cited People v. Mason (1991) 52 Cal.3d 909 (Mason).
+      Hughes filed a motion for reconsideration, which sought leave to
+question prospective jurors about both issues: (1) whether they or their
+family members had been exposed to illicit drug addiction/use, and
+(2) whether they or their family members had been convicted of a crime or
+had “brushes” with the law. If a juror answered affirmatively, he or she was
+further to disclose “what attitudes or biases [the juror had] about the
+subject.” Citing People v. Williams (1981) 29 Cal.3d 392 (Williams)
+(superseded in part by initiative statute; see People v. Fuiava (2012) 53
+Cal.4th 622, 654), Hughes argued she had a right to explore these issues to
+uncover potential bias. The court ruled again that plaintiff could not voir
+dire prospective jurors with regard to the “potential evidence.” The court
+found that permitting questioning on those issues before a jury was sworn
+posed a risk of preconditioning the jury and predetermining how jurors would
+respond to anticipated evidence.
+      When Hughes raised the issue again in her new trial motion, the court
+reiterated its prior rulings. It added that the two questions that Hughes
+proposed in her motion for reconsideration were so open-ended that they were
+
+
+
+
+                                       12
+likely to invite a response that would disclose how a juror would evaluate
+such evidence, threatening to taint the entire jury panel.
+             2. Analysis
+      Hughes contends the trial court committed reversible error by violating
+Rules of Court that required the court to permit trial counsel to conduct a
+liberal and probing examination of potential jurors calculated to discover
+bias. Hughes does not identify a specific court rule, nor does she address
+Code of Civil Procedure section 222.5 (section 222.5), which governs jury voir
+dire in civil cases.
+       Section 222.5 provides that after the court completes an initial
+examination of prospective jurors, counsel for each party shall have the right
+to ask questions “in order to enable counsel to intelligently exercise both
+peremptory challenges and challenges for cause.” (§ 222.5, subd (b)(1).)
+Counsel may conduct a “liberal and probing examination calculated to
+discover bias or prejudice with regard to the circumstances of the particular
+case.” (Ibid.) However, the trial judge, in its sound discretion, may impose
+reasonable limits on the scope of the examination conducted by counsel.
+(Ibid.) Moreover, section 222.5 provides that an “ ‘improper question’ ” for
+voir dire “is any question that, as its dominant purpose, attempts to
+precondition the prospective jurors to a particular result, indoctrinate the
+jury, or question the prospective jurors concerning the pleadings or the
+applicable law.’ ” (§ 222.5, subd (b)(3).)
+      Hughes fails to establish any abuse of discretion under this standard.
+The trial court did not preclude plaintiff’s counsel from liberally examining
+potential jurors; the record shows that counsel conducted detailed
+examinations. The two questions counsel was prevented from asking
+forecasted evidence that might have negatively impacted plaintiff’s case:
+
+
+
+                                        13
+Hughes and Morales had prior felony convictions, which were relevant to
+evaluate their credibility as trial witnesses; and Hughes had a history of
+methamphetamine abuse that was relevant to rebut her claim that the
+accident had caused her cognitive damage. The trial court was
+understandably concerned that counsel’s proposed questions were so open-
+ended that they might invite commentary that would prejudge the evidence
+and potentially taint the jury panel. These questions could be properly
+excluded, just as the trial court in Mason, supra, 52 Cal.3d 909 appropriately
+prevented counsel from asking prospective jurors “whether, if they believed
+that a witness was an informant and was testifying ‘in exchange for some
+lesser sentence,’ then that ‘would have some bearing on the weight or
+credibility that that witness may have in your mind?’ ” (Id. at p. 940.)
+      Hughes contends that the trial court’s concerns were meritless because,
+as her counsel told the court, he did not intend to ask potential jurors “how
+they would vote if [Hughes] was involved in or using illicit drugs or had a
+criminal background.” But omitting Hughes’s name from the inquiry would
+not have changed the fact that these issues pertained directly to evidence
+that would be presented at trial. And the form of the questions—their very
+open-endedness—was itself a source of potential mischief.
+      Hughes posits that preventing her from exposing potential juror bias
+constituted a “gross violation” of her constitutional rights. We summarily
+reject this argument because it is not supported by legal analysis or citation
+to relevant authority.
+      Indeed, the only authority Hughes relies on to support her argument
+that she was entitled to ask these questions is Williams, supra, 29 Cal.3d
+392, which does not support her claim. The aspect of Williams on which
+Hughes relies was specific to criminal cases and has since been abrogated by
+
+
+
+                                      14
+the passage of Proposition 115. (See People v. Fuiava, supra, 53 Cal.4th at
+p. 654.) It held that counsel “should be allowed to ask questions reasonably
+designed to assist in the intelligent exercise of peremptory challenges
+whether or not such questions are also likely to uncover grounds sufficient to
+sustain a challenge for cause.” (Williams, at p. 407.) In so holding, the
+Williams Court expressly left “intact the considerable discretion of the trial
+court to contain voir dire within reasonable limits.” (Id. at p. 408.) And the
+only voir dire question that the Williams Court found had been erroneously
+and prejudicially excluded was one that bore no similarity to the questions at
+issue here; it probed panel members’ attitudes toward a “controversial” legal
+doctrine they would be asked to apply, “that a person may use force in self-
+defense even though an avenue of retreat is open.” (Id. at pp. 410–411.)
+      Without authority on point, Hughes has failed to carry her burden of
+establishing that the trial court abused its discretion in excluding voir dire
+questioning on these topics.
+      B. Admission of Hughes’s Prior Convictions
+      After raising the issue during voir dire, Hughes filed a written motion
+to exclude all references to her prior criminal convictions. She argued that
+her convictions were remote in time, irrelevant, and unduly prejudicial, and
+should be excluded pursuant to Evidence Code section 352, even for
+impeachment. In her motion, Hughes listed six prior cases involving felony
+convictions, arguing that each should be deemed inadmissible.
+      At the hearing on this motion, the court ruled that four of Hughes’s
+felony convictions involved crimes of moral turpitude and were admissible for
+purposes of impeachment: a 2011 conviction for violating Penal Code section
+529 [false impersonation]; two convictions in 2005 for violating Penal Code
+section 496, subdivision (a) [receiving or concealing stolen property]; and a
+
+
+
+                                       15
+2004 conviction for violating Penal Code section 459 [burglary]. The court
+also ruled that evidence pertaining to the convictions was to be sanitized so
+that facts and circumstances of the prior crimes were not disclosed to the
+jury. On appeal, Hughes contends that the admission of her prior felony
+convictions constitutes reversible error. We disagree.
+      “Evidence that a witness has been convicted of a felony is admissible to
+attack the witness’s credibility. [Citation.] Such evidence is a general attack
+on a witness’s character for honesty.” (Piscitelli v. Salesian Society (2008)
+166 Cal.App.4th 1, 6–7, fn. omitted (Piscitelli); Evid. Code, § 788.) Though a
+prior felony is generally admissible for purposes of impeachment, it remains
+subject to exclusion under Evidence Code section 352, if its probative value is
+substantially outweighed by its prejudicial effect. (Piscitelli, at p. 7.)
+      Hughes posits that admitting her prior felonies was per se prejudicial
+error because they did not bear on her veracity or truthfulness, and they were
+too remote. The law is otherwise. Although “[m]oral turpitude is a concept
+that ‘defies exact description’ [citation] and ‘cannot be defined with
+precision’ ” (In re Grant (2014) 58 Cal.4th 469, 475–476), courts have long
+found that burglary is a crime of moral turpitude. (People v. Collins (1986) 42
+Cal.3d 378, 395.) A felony conviction for receiving stolen property involves
+“conduct consistently held to be probative of a witness’s veracity. (Holley v. J
+& S Sweeping Co. (1983) 143 Cal.App.3d 588, 594 (Holley).) And crimes
+involving fraud or intent to defraud also fall within this definition. (Carey v.
+Board of Medical Examiners (1977) 66 Cal.App.3d 538, 541.)
+      Furthermore, although remoteness is a relevant factor, it is not
+dispositive. (Holley, supra, 143 Cal.App.3d at pp. 594–595.) Contrary to
+Hughes’s appellate argument, the record affirmatively shows that the court
+did consider whether the prior convictions were remote but concluded
+
+
+
+                                        16
+ultimately that four of them were admissible. Hughes fails to show the
+ruling was an abuse of discretion.
+      C. Admission of Dr. Benowitz’s Testimony
+      Hughes contends the trial court committed multiple errors by
+permitting the defendants’ toxicology expert to testify at trial. “We review
+the court’s admission of expert testimony for clear abuse of discretion, looking
+to whether the court’s ruling ‘exceeded the bounds of reason.’ [Citations.] ‘As
+a general rule, the opinion of an expert is admissible when it is “[r]elated to a
+subject that is sufficiently beyond common experience that the opinion of an
+expert would assist the trier of fact . . . .” ’ ” (Piscitelli, supra, 87 Cal.App.4th
+at p. 972.)
+              1. Additional Background
+      Prior to trial, Hughes filed a motion to exclude Dr. Benowitz’s
+testimony, which defendants opposed. At the hearing on this motion,
+plaintiff’s counsel clarified that his objection was limited to testimony
+regarding Hughes’s habitual drug use, and whether it affected her behavior
+or contributed to her traumatic brain injury (TBI). The court ruled that
+Benowitz could not offer an opinion as to whether Hughes was under the
+influence on the day of the accident, as there was no evidence of that.
+However, plaintiff’s counsel conceded that Hughes had put her postaccident
+cognitive condition at issue, and because past drug use could be relevant to
+that disputed issue, the court held a hearing pursuant to Evidence Code
+section 402 (section 402), to elucidate Benowitz’s opinions.
+      The section 402 hearing, held during a break from jury selection, was
+long and contentious. After the matter was submitted, the court asked
+Benowitz to clarify the two opinions that had been asked of him by the
+defense. Benowitz testified that his first opinion was that Hughes was a
+
+
+
+                                         17
+chronic methamphetamine user and there was a high probability that she
+used methamphetamine within a few days of the accident. His second
+opinion was that chronic methamphetamine use causes changes to the brain
+structure and function that are associated with impulsivity and lack of
+judgment, and these behaviors would be consistent with making a sudden left
+turn into traffic. The court found both opinions were admissible as there was
+a sufficient nexus between them and the factual events.
+      However, at the next court hearing, the court modified its ruling as to
+the admissibility of Benowitz’s opinion that Hughes may have taken
+methamphetamine near the time of the accident. After conducting its own
+research on the issue, the court advised the parties that it was considering
+excluding this opinion as “too speculative,” citing David v. Hernandez (2017)
+13 Cal.App.5th 692 (Hernandez). As best we can tell, Hughes did not pursue
+this specific issue further, although she made several more unsuccessful
+attempts to preclude Benowitz from testifying at all.
+      When Benowitz testified at trial, defendants’ counsel did not ask him
+any questions about Hughes’s conduct on the day of the accident or whether
+she was under the influence of methamphetamine. However, defense counsel
+did ask Benowitz about Hughes’s medical records, which elicited testimony
+that several records mentioned Hughes was a chronic methamphetamine
+user. That testimony was stricken from the record pursuant to People v.
+Sanchez (2016) 63 Cal.4th 665 (Sanchez). Subsequently, Benowitz testified
+that he formed opinions about whether Hughes was a long-term user of
+methamphetamine, but he did not share those opinions with the jury during
+his direct examination. Instead, Benowitz was asked about a hypothetical
+scenario involving a chronic methamphetamine user and, in that context, he
+offered opinions about the likely effects of such long-term drug use.
+
+
+
+                                      18
+      Under cross-examination, plaintiff’s counsel asked Benowitz several
+questions about Hughes’s use of methamphetamine. For example, Hughes’s
+trial counsel asked whether Benowitz believed that, because Hughes had
+used methamphetamine over a long period, “perhaps” there could have been
+some effect on her brain. Benowitz answered yes to that question, and he
+also confirmed his belief that because of Hughes’s drug use, she may have
+had some “impulsivity or impatience in or around the time of the accident.”
+            2. Analysis
+      On appeal, Hughes contends that permitting Benowitz to testify at trial
+was reversible error because his opinions violated the holdings of Sanchez,
+supra, 63 Cal.4th 665, and Sargon Enterprises, Inc. v. University of Southern
+California (2012) 55 Cal.4th 747 (Sargon).
+      As a preliminary matter, we must correct Hughes’s mischaracterization
+of the record regarding opinions that the court found were admissible, as well
+as opinions that Benowitz actually offered at trial. According to Hughes’s
+appellate briefs, the trial court permitted Benowitz to testify that (1) Hughes
+was impulsive on the day of the accident due to her methamphetamine use;
+and (2) Hughes likely had prior brain damage due to her drug use. The court
+did not make those rulings. As we have discussed, during the initial hearing
+on plaintiff’s in limine motion, the court precluded Benowitz from offering an
+opinion about whether Hughes used drugs on the day of the accident; and
+after the 402 hearing, the court ruled that any speculative opinion about
+Hughes’s drug use near the time of the accident would be inadmissible under
+Hernandez. Consistent with these rulings, Benowitz did not discuss Hughes’s
+conduct at or near the time of the accident during his direct trial testimony,
+nor was he asked to disclose his opinion about whether Hughes was a chronic
+methamphetamine user. Moreover, Hughes cannot rely solely on testimony
+
+
+
+                                       19
+elicited by her own trial counsel and admitted without objection as the basis
+for claiming reversible error on appeal. (In re Marriage of S. (1985) 171
+Cal.App.3d 738, 745.) With these caveats, we address Hughes’s claim that
+Benowitz’s testimony was inadmissible under Sanchez and Sargon.
+      In Sanchez, 63 Cal.4th 665, our state Supreme Court held that “[i]f an
+expert testifies to case-specific out-of-court statements to explain the bases
+for his opinion, those statements are necessarily considered by the jury for
+their truth, thus rendering them hearsay.” (Id. at p. 684.) “ ‘Like any other
+hearsay evidence,’ such statements must be ‘properly admitted through an
+applicable hearsay exception’ or ‘an appropriate witness.’ [Citation.]
+Otherwise, the admission of such statements constitutes error. (People v.
+Camacho (2022) 14 Cal.5th 77, 127 (Camacho), quoting Sanchez, at p. 684.)
+      Hughes contends that Benowitz’s testimony should have been excluded
+under Sanchez because his entire opinion was based on hearsay contained in
+Hughes’s medical records. But this argument misconstrues Sanchez, which
+does not preclude experts from relying on hearsay, but only from disclosing
+inadmissible hearsay to the jury. Under Sanchez, “ ‘[a]ny expert may still
+rely on hearsay in forming an opinion, and may tell the jury in general terms
+that he did so.’ ” (Camacho, supra, 14 Cal.5th at p. 128, italics omitted.)
+“The limitations that Sanchez placed on expert testimony concern case-
+specific information that an expert relates to a jury, not materials upon
+which the expert relies. [Citations.] Regarding the sources upon which the
+expert relies, Sanchez recognizes that the expert ‘may still rely on hearsay’
+and the expert is permitted ‘to relate generally the kind and source of the
+“matter” upon which his opinion rests.’ ” (Ibid., italics omitted.)
+      The record shows that the trial court followed Sanchez by striking
+testimony from Benowitz that would have related case-specific information to
+
+
+
+                                       20
+the jury about medical records documenting Hughes’s methamphetamine
+use. Moreover, the jury was instructed to disregard the stricken testimony
+and not to consider it for any purpose. Even in criminal cases, such an
+admonition is generally considered sufficient to cure the error absent
+evidence to the contrary. (People v. McNally (2015) 236 Cal.App.4th 1419,
+1428–1429.) Hughes makes no effort to show the admonition was insufficient
+under the circumstances of this case.
+      Hughes also mistakenly relies on Sargon, supra, 55 Cal.4th 747. The
+Sargon court held that trial courts have a gatekeeping role, which requires
+them to exclude expert opinion testimony that is “ ‘based “on assumptions of
+fact without evidentiary support,” ’ ” or on guesswork and conjecture. (Id. at
+p. 770.) The trial court must “ ‘determine whether, as a matter of logic, the
+studies and other information cited by experts adequately support the
+conclusion that the expert’s general theory or technique is valid.’ ” (Id. at
+p. 772.)
+      Hughes contends the trial court violated Sargon by admitting
+Benowitz’s opinion that Hughes was a chronic methamphetamine user. But
+Benowitz did not testify during his direct trial testimony that Hughes was a
+chronic methamphetamine user. Hughes fails to acknowledge this fact, or
+that her Sargon claim is based exclusively on the record of Benowitz’s
+testimony at the section 402 hearing.
+      Hughes appears to contend that, in light of the trial court’s ruling at
+the section 402 hearing, her counsel had no choice but to address the drug
+use issue head on. We question the logic of this argument, since it was after
+Benowitz completed his direct testimony that plaintiff’s counsel elicited
+opinions about Hughes’s drug use. Regardless, Hughes’s contention that the
+court violated Sargon during the section 402 hearing fails on its merits.
+
+
+
+                                        21
+       Hughes contends that the trial court violated its gatekeeping obligation
+by permitting the defendants’ medical expert to base his opinion on the
+plaintiff’s medical records. We think not. As a general rule, “[a]n expert may
+rely on otherwise inadmissible hearsay evidence provided the evidence is
+reliable and of the type that experts in the field reasonably rely upon in
+forming their opinions.” (People v. Yuksel (2012) 207 Cal.App.4th 850, 856.)
+Medical records, although hearsay, are the type of records upon which
+medical experts rely in a negligence case. (See Wicks v. Antelope Valley
+Healthcare Dist. (2020) 49 Cal.App.5th 866, 876.) And, although Hughes
+takes the view that her own medical records were unreliable because they
+were from “many years prior” to the 2016 accident, Benowitz reportedly
+reviewed medical record from 2014 and 2015, which is close in time to the
+2016 accident, and which contained diagnoses of chronic methamphetamine
+use.
+       Hughes mistakenly relies on Hernandez, supra, 13 Cal.App.5th 692.
+Hernandez was an appeal from a judgment holding a defendant driver liable
+for negligently causing a traffic accident during which the plaintiff suffered
+serious injuries. The appellate court found that the trial court had properly
+acted as a gatekeeper under Sargon by excluding a defense expert’s opinion
+that the plaintiff was under the influence of marijuana at the time of the
+accident because the opinion was speculation. (Hernandez, at p. 699) In this
+case, the trial court expressly followed Hernandez by precluding expert
+testimony as to whether Hughes was under the influence of anything on the
+day of the accident. By contrast, the foundation for Benowitz’s opinion about
+the effects of plaintiff’s chronic drug use was not based on speculation but on
+plaintiff’s own medical records.
+
+
+
+
+                                       22
+      D. Evidence Rulings During Trial
+      Hughes challenges evidentiary rulings the court made while witnesses
+were testifying at trial. We review these rulings for abuse of discretion.
+(Alexander v. Community Hospital of Long Beach (2020) 46 Cal.App.5th 238,
+258.) An evidentiary error is not a ground for reversal absent a miscarriage
+of justice and a showing that it is reasonably probable a result more favorable
+to the appealing party would have been reached in the absence of the error.
+(Ibid.)
+            1. Exclusion of Libeu’s “Hearsay” Testimony
+      At trial, Libeu was cross-examined about the statement he gave to
+Officer Gillette at the accident scene. Plaintiff’s counsel began by asking
+whether there was “anything else going on around” Libeu when he was giving
+his statement. Libeu responded that “obviously” there were other people
+there because of the accident, including first responders and “a small crowd of
+people.” Libeu continued: “And someone behind us, as soon as I gave my
+initial statement, started yelling, ‘Oh, the light was red. Oh, he ran the red
+light,’ which interrupted our interview and we had to shift to the side.’ ”
+After Libeu finished this answer, plaintiff’s counsel objected and moved to
+strike “the hearsay that was just interjected.” The objection was sustained,
+and the court struck the portion of Libeu’s answer that recounted what the
+bystander had yelled.
+      On appeal, Hughes characterizes Libeu’s statement as hearsay that
+was false, fabricated, and an unfair “surprise tactic.” She contends this
+testimony prejudiced her because it offered the jury an innocuous explanation
+as to why Libeu appeared unsure about the color of the light when Gillette
+interviewed him. First, Hughes did not raise these objections at trial, where
+her sole objection was that the testimony was hearsay. (See e.g., People v.
+
+
+
+                                       23
+Marks (2003) 31 Cal.4th 197, 228 [“A general objection to the admission or
+exclusion of evidence, or one based on a different ground from that advanced
+at trial, does not preserve the claim for appeal”].) Second, we do not agree
+that this testimony was hearsay. Libeu did not testify as to the bystander’s
+statement “to prove the truth of the matter stated” (Evid. Code, § 1200), as
+Libeu sought to prove that the light was not red. And third, even if this
+testimony were somehow objectionable, it was stricken, and we assume that
+the jury followed the court’s admonition to disregard it. (Mendoza v. City of
+West Covina (2012) 206 Cal.App.4th 702, 722.) We accordingly reject
+Hughes’s speculation that the jury ignored the admonition and used this
+evidence to reach a defense verdict.
+              2. Dr. McCoy’s Testimony About Prior Accidents
+      Defendants’ orthopedics expert, Dr. McCoy, testified over a relevance
+objection that he reviewed medical records pertaining to Hughes’s two prior
+bicycle accidents. Under cross-examination, McCoy agreed with plaintiff’s
+counsel that these prior accidents involved different “issues” and had
+“nothing to do with the injuries that [Hughes] sustained here.” On redirect,
+defense counsel asked about the 2014 accident, which involved a significant
+injury to Hughes’s right leg, and asked McCoy whether that injury had any
+bearing on this case, which involves a left leg injury. Overruling plaintiff’s
+relevance objection, the court permitted McCoy to describe the right leg
+injury. McCoy also testified that some of the restrictions that he
+recommended to Hughes after examining her were because of her prior right
+leg injury.
+      On appeal, Hughes contends that the trial court committed reversible
+error because (1) the accident in which she injured her right leg was
+irrelevant; and (2) the defense used McCoy’s testimony to make improper and
+
+
+
+                                       24
+prejudicial arguments. First, Hughes fails to show that the prior accident
+was irrelevant. Evidence of a former injury can be relevant and admissible to
+show that a plaintiff’s current condition is partially attributable to that prior
+injury. (Johnson v. Matson Navigation Co. (1958) 163 Cal.App.2d 336, 338.)
+In this case, for example, McCoy testified that when he examined Hughes,
+she had excessive fluid in both legs, some of which could be attributable to
+the earlier accident and some to chronic disease, but that the more
+substantial swelling in the left leg was explained by the current injury.
+McCoy also testified that his recommendations about future care and
+treatment were not based solely on the injuries caused by the current
+accident but also addressed Hughes’s right leg injury and unrelated health
+issues.
+       Second, even if admitting testimony about the earlier leg injury were
+error, Hughes fails to show prejudice. Her contention that this testimony
+portrayed her as “habitually at fault” is speculation; she cites no evidence
+that defendants ever made this argument, or that fault in the earlier
+accidents was ever discussed. And she does not provide any record support
+for her contention that the defendants’ use of McCoy’s testimony violated an
+in limine order excluding evidence about Hughes’s “ ‘sociopathic behavior and
+lifestyle.’ ”
+       E. Jury Instructions
+       Hughes contends that the trial court erred in denying her request to
+instruct the jury regarding two issues that were supported by the evidence.
+“A party is entitled to have the jury instructed on each viable legal theory
+supported by substantial evidence if the party requests a proper instruction.”
+(Orichian v. BMW of North America, LLC (2014) 226 Cal.App.4th 1322,
+
+
+
+
+                                       25
+1333.) “We independently review claims of instructional error viewing the
+evidence in the light most favorable to the appellant.” (Ibid.)
+            1. Additional Background
+      On February 28, 2023, after plaintiff rested her case, the court held a
+hearing to discuss jury instructions. One issue addressed was whether
+Hughes was entitled to CACI No. 420, which is one of several standard
+instructions that can apply when a party relies on a presumption of
+negligence arising from violation of the law. As we have discussed, both
+parties relied on negligence per se theories. The defense argued that the
+presumption of negligence applied to Hughes based on evidence that she
+violated Vehicle Code provisions that require bicyclists to comply with rules
+applicable to drivers, including provisions that require drivers to signal
+before turning and to make turns only when it is safe to do so. (Veh. Code,
+§§ 21200, subd. (a), 22107, 22108. 21650.1, 21650, subd. (g).)
+      Hughes did not object to instructing the jury regarding defendants’
+negligence per se theories, but she argued that she was entitled to a modified
+version of CACI No. 420 that expressly told the jury that any violation of the
+Vehicle Code would be excused if Hughes proved that she made a left turn
+inside the crosswalk. At the jury instruction hearing, plaintiff’s counsel
+argued that an excuse instruction was supported by evidence that Hughes
+did not begin making a turn until she was fully in the crosswalk, at which
+point she was “excused from a violation of making a turn across lanes.” The
+trial court rejected plaintiff’s theory. It ruled that the Vehicle Code permits a
+bicyclist to use a crosswalk, but it does not excuse any violation of the left-
+turn rules that apply to a bicyclist. Accordingly, the court ruled that it would
+not give CACI No. 420.
+
+
+
+
+                                        26
+      Later during the hearing, the court and counsel discussed instructions
+pertaining to Hughes’s damages claims. Hughes requested CACI No. 3927,
+which provides that a plaintiff is not entitled to damages for a preexisting
+condition but that she is entitled to damages for a physical or emotional
+condition that was made worse by the defendant’s wrongful conduct. (CACI
+No. 3927.) The trial court found that CACI No. 3927 did not apply, as
+plaintiff had not shown aggravation of a preexisting condition. However, the
+court did give CACI No. 3928, which instructs the jury that a plaintiff may
+recover all damages caused by the wrongful conduct of the defendant even if
+the plaintiff was more susceptible to injury than a normally healthy person
+would have been (CACI No. 3928), finding that Hughes “had some physical
+history that made her susceptible, unusually susceptible in this case.”
+            2. Analysis
+      We begin with Hughes’s contention that the court erred by refusing to
+give CACI No. 420. This instruction provides that a violation of the law is
+excused in specified circumstances, such as when a party was “not able to
+obey the law” notwithstanding that he or she used “reasonable care.” (CACI
+No. 420(b).) This instruction may also be given when there is some other
+“reason excusing or justifying noncompliance.” (CACI No. 420(e), italics
+omitted.) But it should not be given unless some special circumstance exists
+to excuse the violation and rebut the presumption of negligence per se.
+(Baker-Smith v. Skolnick (2019) 37 Cal.App.5th 340, 345.) Hughes does not
+contend that any circumstance specified in CACI No. 420 applies and does
+not identify a special circumstance that would justify giving the instruction.
+      Hughes appears to believe she was entitled to an excuse instruction
+because there was evidence that she was in a crosswalk, and as a bicyclist
+she was entitled to use the crosswalk. This argument misconstrues Vehicle
+
+
+
+                                       27
+Code section 21650, subdivision (g). Under this statute, a bicyclist is not
+precluded from operating a bicycle along a crosswalk “where the operation is
+not otherwise prohibited by this code or local ordinance.” Section 21650,
+subdivision (g) does not excuse bicyclists from violating traffic laws so long as
+they utilize a crosswalk to do so. Hughes’s only other argument is that an
+excuse instruction was supported by evidence that she did not actually make
+an illegal left turn. But if the jury found that Hughes did not make an illegal
+left turn, the presumption of negligence would never arise in the first place,
+and no excuse instruction would apply.
+      Turning to the damages instructions, Hughes argues that she was
+entitled to CACI No. 3927 as well as CACI No. 3928 because there was
+evidence that she had a preexisting brain condition due to her long-term
+methamphetamine use. Hughes did not introduce evidence, however,
+connecting her drug-related brain condition to the damages she suffered as a
+result of her TBI.
+      Importantly, Hughes’s jury instruction arguments fail for the
+additional reason that she fails to show prejudice. Improper instruction in a
+civil case is prejudicial only if there is a reasonable probability that in the
+absence of the error a result more favorable to the appealing party would
+have been reached. (Alaniz v. Sun Pacific Shippers, L.P. (2020) 48
+Cal.App.5th 332, 340–341; Soule v. General Motors Corp. (1994) 8 Cal.4th
+548, 574.) In this case, because the jury found that Libeu was not negligent,
+the jury did not decide whether Hughes was negligent or make any finding as
+to her damages. Since the instructions Hughes discusses on appeal are
+unrelated to the dispositive finding that Libeu was not negligent, it is not
+reasonably probable Hughes would have obtained a more favorable result if
+those instructions had been given.
+
+
+
+                                        28
+      F. Jury Misconduct
+      Hughes contends that the trial court erred in denying her a new trial
+due to juror misconduct. “ ‘ “[I]n reviewing an order denying a motion for new
+trial based on jury misconduct, as distinguished from an order granting a
+new trial on that ground, a reviewing court has a constitutional obligation . . .
+to review the entire record, including the evidence, and to determine
+independently whether the act of misconduct, if it occurred, prevented the
+complaining party from having a fair trial.” ’ ” (People v. Cumpian (1991)
+1 Cal.App.4th 307, 311.) In conducting our independent review, however, we
+“still give deference to the trial court’s discretionary determinations.”
+(Vomaska v. City of San Diego (1997) 55 Cal.App.4th 905, 912.)
+            1. Additional Background
+      In her new trial motion, Hughes argued the jury committed misconduct
+by relying on outside information to find that Libeu was not negligent.
+Hughes proffered declarations from three jurors as proof that several jurors
+relied on outside information about the intersection where the accident
+occurred to conclude that Libeu’s conduct was reasonable under the
+circumstances. Hughes argued that the declarations established prejudice as
+a matter of law.
+      Juror A.S. stated in his declaration that he lived near the intersection
+where the accident occurred (hereafter the intersection), and that he told
+other jurors that he often drove through the intersection at 35 miles per hour
+because he thought it was safe to do so. A.S. also stated that other jurors
+discussed their outside driving experiences, including personal experiences
+driving through the intersection. Juror N.H. confirmed in his declaration
+that A.S. shared his experiences driving through the intersection and his
+opinions about driving over the speed limit at that location. N.H. also stated
+
+
+
+                                       29
+that other jurors discussed their experiences driving through the intersection
+and their opinions about whether Libeu’s speed was reasonable. Juror M.R.
+attested that she witnessed other jurors openly discuss their personal
+experiences of driving through the intersection and their personal opinions
+about whether driving 33 to 35 miles per hour was a reasonable speed under
+the circumstances.
+      In their opposition to the new trial motion, defendants argued juror
+misconduct did not occur. According to defendants, the law precludes jurors
+from conducting independent investigations of the scene but does not
+preclude them from discussing their general knowledge of the scene,
+garnered prior to trial. Defendants argued that the juror declarations
+submitted by Hughes were not evidence of misconduct because they did not
+show that any juror concealed prior knowledge about the intersection, or that
+the jurors decided the case based on their own experiences rather than the
+trial evidence.
+      The trial court found that Hughes failed to carry her burden to show
+that prejudicial juror misconduct occurred because jurors are permitted to
+draw on their own experiences while deliberating. (Citing People v. Allen &
+Johnson (2011) 53 Cal.4th 60.) There was no evidence that the jurors relied
+on specialized information obtained from an outside source or that they
+conducted an experiment at the scene. The declarations showed that during
+deliberations, some jurors related their own driving experiences and made
+decisions informed by their own experiences. The declarations did not show
+that other jurors were persuaded by anything other than the trial evidence,
+the court found. Juror M.R., the lone dissenting juror, believed that other
+jurors were influenced by the discussions of others’ experiences, but that was
+only her subjective view, and she offered no factual basis for purporting to
+
+
+
+                                      30
+know the state of mind of the other jurors, the court concluded. The court
+also found Hughes failed to make any showing of prejudice. Rejecting
+plaintiff’s contention that the lack of opposing declarations resulted in a
+presumption of prejudice, the court found that the declarations lacked any
+specific facts to support a reasonable inference that actual misconduct
+occurred.
+            2. Analysis
+      Hughes contends the judgment must be reversed due to juror
+misconduct because her juror declarations (1) establish that the jury based its
+decision on outside information rather than the trial evidence; and (2) gave
+rise to a presumption of prejudice, which was not rebutted or rebuttable on
+this record. We reject both prongs of this argument.
+      As a preliminary matter, Hughes fails to distinguish and disregard
+improper information contained in the juror declarations. “Evidence of
+jurors’ internal thought processes is inadmissible to impeach a verdict.
+[Citations.] Only evidence as to objectively ascertainable statements,
+conduct, conditions, or events is admissible to impeach a verdict. [Citations.]
+Juror declarations are admissible to the extent that they describe overt acts
+constituting jury misconduct, but they are inadmissible to the extent that
+they describe the effect of any event on a juror’s subjective reasoning
+process.” (Bell v. Bayerische Motoren Werke Aktiengesellschaft (2010) 181
+Cal.App.4th 1108, 1124–1125; see Evid. Code, § 1150, subd. (a).) Hughes
+violates these principles by recounting and relying on improper material in
+the juror declarations including, for example, statements by Juror M.R. that
+the personal opinions and experiences of some jurors persuaded others to vote
+that Libeu was not negligent. This evidence was inadmissible, and we do not
+
+
+
+
+                                       31
+consider it or any other statements in the declarations that reveal the
+internal thought processes of jurors.
+      The juror declarations do contain admissible evidence that some jurors
+made statements about their prior experiences driving and, in particular,
+driving through the intersection. Hughes argues this evidence proves that
+misconduct occurred, but she fails to support this claim with pertinent
+authority. “Jurors do not enter deliberations with their personal histories
+erased, in essence retaining only the experience of the trial itself.” (Moore v.
+Preventive Medicine Medical Group, Inc. (1986) 178 Cal.App.3d 728, 741.)
+Courts have concluded that evidence a juror shared a personal experience
+during deliberations does not constitute misconduct, absent proof that other
+jurors decided the case based on the juror’s experience rather than on the
+basis of the evidence presented at trial. (Id. at pp. 741–742; Iwekaogwu v.
+City of Los Angeles (1999) 75 Cal.App.4th 803, 819.) In this case, no juror
+provided evidence that the jury disregarded the trial evidence.
+      As the trial court observed, the jury was required to discuss whether or
+not driving through the intersection at a speed of 35 miles per hour was
+negligent. The jurors’ views of evidence addressing this disputed issue were
+“ ‘necessarily informed by their life experiences.’ ” (People v. Steele (2002) 27
+Cal.4th 1230, 1265 (Steele).) And although some jurors shared personal
+experiences, there is no evidence that any juror claimed expertise or
+specialized knowledge regarding what constitutes a reasonable speed. (Id. at
+pp. 1265–1266.) Instead, admissible portions of the declarations show that
+some jurors brought their life experiences to bear when expressing their
+opinions on that subject and their views about the trial evidence.
+      Hughes relies on cases in which jurors conducted independent
+investigations during trial and injected that information into the
+
+
+
+                                        32
+deliberations. (Lankster v. Alpha Beta Co. (1993) 15 Cal.App.4th 678, 682;
+People v. Southern California Edison Co. (1976) 56 Cal.App.3d 593, 598.)2
+The evidence before us shows instead that jurors drew on their own life
+experience in assessing whether the trial evidence of Libeu’s conduct
+constituted negligence. That is not misconduct.
+       Thus, we reject Hughes’s contention that the juror declarations created
+a presumption of prejudice that defendants failed to rebut. Such a
+presumption arises only upon a showing that misconduct actually occurred.
+(Hasson v. Ford Motor Co. (1982) 32 Cal.3d 388, 417.) Contrary to Hughes’s
+appellate arguments, we will not presume that jury misconduct occurred.
+Our presumption on appeal is that the judgment is correct unless the
+appellant proves otherwise. (In re Marriage of Arceneaux (1990) 51 Cal.3d
+1130, 1133.) Overlooking this settled rule, Hughes argues that the
+declarations are proof of misconduct because they do not “mention” trial
+evidence that Libeu was “innocen[t].” This argument ignores that evidence of
+a juror’s subjective thought processes in deciding whether Libeu was
+negligent would have been inadmissible. Thus we decline to presume
+misconduct from the absence of such evidence.
+       In her reply brief, Hughes argues that she proved misconduct under the
+holding of Smith v. Covell (1980) 100 Cal.App.3d 947, 952 (Smith). We
+disagree. Smith was a negligence action arising out of an automobile
+accident in which the defendant conceded liability and the absence of
+contributory negligence, and trial was conducted solely on the issue of
+damages for injuries suffered by the plaintiff driver and loss of consortium
+
+
+       2
+         Hughes also relies on unpublished cases in her appellate briefs. We deny
+respondents’ motion to strike those portions of the briefs, but we do not consider the
+unpublished authority upon which Hughes relies. (See Cal. Rules of Court,
+rule 8.1115(a).)
+
+                                            33
+suffered by her husband. (Id. at p. 951.) The jury awarded the driver
+$10,000 and entered a verdict of zero as to her husband, which was reversed
+on appeal due to multiple errors, including that juror declarations submitted
+in support of the plaintiffs’ new trial motion detailed acts of juror misconduct
+by multiple jurors. (Id. at pp. 952–955.) During voir dire panel member Cox,
+who later became foreman, disclosed that he had a back condition that was
+aggravated by a baseball injury he suffered years before trial. When
+questioned about the injury, Cox represented he would base his decision
+solely on the trial evidence as distinguished from his own experience and
+problem. (Id. at p. 952.) However the juror declarations showed that Cox
+discussed details about his injury with other jurors before and during
+deliberations, telling them that when he injured his back, it “ ‘went out right
+away,’ ” and “ ‘hurt right away.’ ” (Ibid.) The Smith court found this was
+misconduct because it constituted improper communication of information
+from a source outside the evidence that likely influenced the verdict, and it
+was also evidence of Cox’s concealed bias. (Id. at pp. 952–953.) The Smith
+court also found that the juror declarations documented other instances of
+misconduct, including by a juror who offered “outside evidence as to the
+impact of personal injury litigation on insurance rates.” (Id. at p. 955.) In
+addition, several jurors who represented during voir dire that they would
+follow instructions regarding the law pertaining to loss of consortium
+damages subsequently disclosed during deliberations that they disagreed
+with the law and would not follow it. (Id. at p. 955.) Ultimately, the Smith
+court held that “several undisputed acts of juror misconduct,” viewed
+individually or collectively, deprived plaintiffs of a fair and impartial jury
+trial. (Ibid.)
+
+
+
+
+                                        34
+      Hughes’s reply brief posits that she proved misconduct because Smith
+establishes the governing “standard” that any discussion of outside
+information constitutes juror misconduct “unless harmless.” We reject this
+belated theory. To begin with, the misconduct in Smith was multi-faceted
+and involved multiple jurors. Cox, for example, concealed bias during jury
+voir dire and then violated his oath by disclosing information about his back
+injury to other jurors. No concealment occurred here, as best we can
+determine. Apparently, prospective jurors were not asked if they had ever
+driven through the intersection or had any preconceived opinion about what
+was a reasonable speed to drive through it.
+      Hughes argues that a rule deeming all discussion by jurors of outside
+experience to be misconduct is the better standard and the one we should
+apply here. We disagree. As our Supreme Court has found, it is both
+“appropriate, [and] even inevitable” that jurors will use their personal
+backgrounds to analyze the evidence. (Steele, supra, 27 Cal.4th at p. 1266.)
+“Moreover it would be an impossibly high standard to permit” jurors to
+express an opinion on the evidence “without relying on, or mentioning, their
+personal experience and background.” (Id. at p. 1267.) In this case,
+admissible portions of the juror declarations show that some jurors
+mentioned personal experiences when expressing their opinion about the trial
+evidence. As that evidence does not establish that misconduct occurred, the
+trial court did not err in denying Hughes a new trial.
+      G. Evidentiary Decisions Relating to Damages
+      Hughes challenges other evidentiary decisions that pertain exclusively
+to her damages claims. In one set of rulings, the trial court excluded expert
+evidence pertaining to Hughes’s TBI in light of events that had occurred
+during discovery, and in another instance, the court precluded Hughes’s
+
+
+
+                                      35
+expert from opining as to whether wearing a helmet would have decreased
+her injury. We address Hughes’s challenges to these rulings only briefly
+because even if some error were shown, which we do not find, Hughes cannot
+establish prejudice. Because the jury found no liability and we have, in
+earlier sections of this opinion, found no basis for disturbing that verdict,
+there is no reasonable probability that admitting the evidence would have
+afforded Hughes a more favorable outcome.
+      First, Hughes contends the trial court erred by excluding her claim for
+neuropsychological injuries associated with her TBI. In fact, the court did
+not exclude this claim, although it did exclude testimony from Hughes’s
+neuropsychology expert, Dr. Epperson, because Hughes failed to complete an
+independent medical exam (IME) prior to the close of discovery. (See Code
+Civ. Proc., § 2032.320.) The court had found good cause to compel Hughes’s
+attendance at the IME in order to determine, among other things, whether
+the emotional injuries to which Dr. Epperson would testify were related to a
+preexisting condition or arose solely from the accident. Despite the court’s
+order, Hughes did not complete an IME, so the trial court granted defense in
+limine motions to exclude the testimony of Dr. Epperson and to not permit
+any different expert to convey Dr. Epperson’s opinions to the jury. None of
+this evidence, which went only to the extent of the injury Hughes suffered in
+the accident, could have affected the jury’s dispositive determination that
+Libeu was not negligent in causing the accident.
+      The second ruling that Hughes challenges occurred during the direct
+examination of her accident reconstruction expert, Mr. Smith. Plaintiff’s
+counsel asked Smith whether the fact that Hughes was not wearing a helmet
+made any difference “biomechanically.” Defense counsel objected on the
+ground that this question went beyond the scope of Smith’s deposition
+
+
+
+                                       36
+testimony, and after reviewing a deposition excerpt that plaintiff’s counsel
+produced, the court sustained the objection. Regardless, the jury never had
+occasion to consider whether Hughes’s failure to wear a helmet contributed to
+the extent of her own injuries, so there could have been no prejudice from this
+ruling.
+                                   DISPOSITION
+          The judgment is affirmed. Respondents shall recover their costs on
+appeal.
+
+
+                                              TUCHER, P. J.
+
+
+WE CONCUR:
+
+FUJISAKI, J.
+RODRÍGUEZ, J.
+
+
+
+Hughes v. Libeu et al. (A168172)
+
+
+
+
+                                         37

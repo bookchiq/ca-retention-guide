@@ -1,0 +1,319 @@
+cl_opinion_id: 11171770
+cluster: 10705183
+docket: D084912
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Toussaint CA4/1
+----
+Filed 10/16/25 P. v. Toussaint CA4/1
+                   NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or
+ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+                 COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                       DIVISION ONE
+
+                                              STATE OF CALIFORNIA
+
+
+
+THE PEOPLE,                                                                  D084912
+
+          Plaintiff and Respondent,
+
+          v.                                                                 (Super. Ct. No. SCD299762)
+
+CORUNDOLUS DEONE TOUSSAINT,
+
+          Defendant and Appellant.
+
+
+          APPEAL from a judgment of the Superior Court of San Diego County,
+Evan P. Kirvin, Judge. Affirmed.
+          Mytili G. Bala, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+          No appearance for Plaintiff and Respondent.
+
+                                                 I. INTRODUCTION
+
+          Corundolus Deone Toussaint appeals from the judgment on his drug
+and weapon convictions. His appointed appellate counsel filed an opening
+brief raising no arguable issues pursuant to People v. Wende (1979) 25 Cal.3d
+436 (Wende) and Anders v. California (1967) 386 U.S. 738 (Anders).
+Toussaint also filed a supplemental brief on his own behalf. Our independent
+review confirms there are no arguable issues on appeal. We therefore affirm
+the judgment.
+
+          II. FACTUAL AND PROCEDURAL BACKGROUND
+
+      A. Factual Background
+
+      As part of a year-long investigation into drug sales in San Diego’s East
+Village, San Diego Police Department (SDPD) Detective Matthew Knutson
+was conducting undercover surveillance in the 1600 block of K Street at
+about 10:00 a.m. on February 28, 2024. Knutson had an unobstructed view of
+Toussaint from an elevated vantage point about 30 yards away. Within
+about a 15-minute period, Knutson saw five separate transactions in which a
+person approached Toussaint, and Toussaint then removed from his pants
+pocket a clear plastic bag containing chunks of a white substance, selected a
+piece, and handed it to the person. In two of those transactions, Knutson saw
+the other person hand Toussaint money; Knutson could not see whether
+money changed hands in the other three transactions. Each transaction
+lasted less than a minute. Based on his training, experience, and knowledge
+of the area, Knutson believed the white substance was cocaine base. At
+Knutson’s direction, a uniformed SDPD officer arrested Toussaint.
+      A search of Toussaint incident to his arrest revealed two plastic baggies
+in his pocket containing a rock-like powdery substance; $686 in cash in
+various denominations; two cellphones; and a fixed-blade knife in a sheath
+concealed in Toussaint’s waistband. The parties stipulated that one baggie
+contained 5.68 grams of cocaine base and the other baggie contained 0.7
+grams of cocaine. A search of Toussaint’s car yielded $39 in cash and a
+digital pocket scale designed to look like a pack of cigarettes. Police found no
+paraphernalia indicating Toussaint possessed the drugs for personal use.
+
+
+                                       2
+      At SDPD headquarters, Detective Knutson advised Toussaint of his
+
+Miranda1 rights and Toussaint said he understood them. When Knutson
+asked Toussaint if he was willing to talk, Toussaint responded, “[T]alk [and]
+I’ll talk back.” Toussaint admitted the substance in his possession was
+cocaine and that he had been using it for about 20 years, including earlier
+that morning. Knutson confronted Toussaint about witnessing him “breaking
+off pieces of dope” and “handing them out to people.” Toussaint denied ever
+selling drugs and claimed instead that he was “showing love” and “[t]aking
+care of [his] people.” When told that “it’s still illegal to provide people with
+dope even if you’re showing . . . your people love,” Toussaint responded,
+“Yeah. But that’s not sales.” A recording of Toussaint’s police interview was
+played at trial.
+      Toussaint testified in his own defense. He explained the bundle of cash
+in his pocket at the time of his arrest was his earnings as a freelance chef at a
+local casino. He said he was staying in a nearby cash-only hotel because he
+and his wife were separating. Toussaint denied selling cocaine, claiming
+instead he had been handing out marijuana joints that morning. He said he
+earned thousands of dollars from his business producing marijuana edibles.
+Toussaint claimed the knife in his waistband was for opening boxes at work.
+The prosecutor impeached Toussaint’s credibility with evidence of three prior
+felony convictions.
+
+      B. Procedural Background
+
+      The year-long police investigation culminated in a 308-count
+indictment naming 51 defendants. Seven of the counts pertained to
+Toussaint: five counts of selling or furnishing cocaine base (Health & Saf.
+
+
+1     Miranda v. Arizona (l966) 384 U.S. 436.
+                                         3
+Code, § 11352, subd. (a); counts 283–287);2 one count of possession of cocaine
+base for sale (id., § 11351.5; count 288); and one count of carrying a concealed
+dirk or dagger (Pen. Code, § 21310; count 289).
+      Toussaint filed two pretrial motions. First, he moved to suppress all
+evidence and statements obtained from him, arguing that prolonged police
+surveillance of a public place requires a search warrant. The trial court
+denied the motion because “the police observed [Toussaint]’s conduct from a
+public place where [he] had no reasonable expectation of privacy.” Second,
+Toussaint moved to exclude his statement to Detective Knutson on the basis
+that Toussaint “claim[ed] he was not given his Miranda [r]ights and even if
+they were given, they were not given in a meaningful manner such as to be
+understood.” (Italics added.) The trial court denied this motion, “find[ing]
+that the Miranda rights were properly advised” and that Toussaint
+“understood them,” and “waived them,” and “engaged in a consensual
+conversation.”
+      The jury found Toussaint guilty of one count of selling or furnishing
+cocaine base (count 283, pertaining to one of the transactions with an
+exchange of money), possession of cocaine base for sale, and possession of a
+concealed dirk or dagger. The jury found Toussaint not guilty of the three
+counts of selling or furnishing cocaine base for which there was no evidence of
+an exchange of money (counts 285–287). The jury was unable to reach a
+verdict as to the remaining count of selling or furnishing cocaine base for
+which there was evidence that money changed hands (count 284), with the
+jury voting 11 to 1 to convict. On the prosecutor’s motion, the court dismissed
+this count in the interests of justice.
+
+2     During trial, the prosecutor designated counts 283 and 284 as
+pertaining to the transactions in which Detective Knutson testified he saw
+money change hands.
+                                          4
+      At the sentencing hearing, the trial court found both that Toussaint
+was presumptively ineligible for probation and that probation was not
+appropriate in any event. The court determined Toussaint was not a
+candidate for collaborative justice court, diversion, or restorative justice and
+probation. Although the court found that Toussaint “has experienced
+psychological trauma,” the court also found that “this trauma was not a
+contributing factor in the commission of the offense[s].” Concluding that all
+of Toussaint’s charges stemmed from a “single period of aberrant behavior,”
+the court imposed concurrent sentencing and stayed punishment on the
+possession-for-sale count.
+      After finding several aggravating circumstances and no mitigating
+circumstances, the court found the middle term sentence was appropriate.
+Accordingly, the court sentenced Toussaint to local custody for four years on
+the drug-sales count, a stayed three-year term on the possession-for-sale
+count, and a concurrent two-year term on the weapon-possession count. The
+sentence provided that Toussaint would be released after serving three years
+in custody, with the final year suspended and served under community
+supervision. The court awarded Toussaint 321 days of presentence custody
+and conduct credits.
+      The court also imposed the following fines and fees: a $900 restitution
+fine (Pen. Code, § 1202.4) and a suspended parole revocation fine (id.,
+§ 1202.45) in the same amount; a $120 court operations assessment (id.,
+§ 1465.8); a $90 criminal conviction assessment (Gov. Code, § 70373); a drug
+program fee of $615, including penalty assessments (Health & Saf. Code,
+§ 11372.7); and a $50 lab fee (id., § 11372.5). (5RT 1313; CT 190.)
+
+
+
+
+                                        5
+                              III. DISCUSSION
+
+      Toussaint’s appointed appellate counsel filed a brief pursuant to
+Wende, supra, 25 Cal.3d 436, which summarized the facts and proceedings of
+the case, asserted no claims of error, and invited us to conduct an
+independent review of the record for prejudicial error. Counsel advised
+Toussaint of his right to file a supplemental brief and he has filed one. (See
+People v. Kelly (2006) 40 Cal.4th 106, 120 (Kelly) [if counsel raises no claims
+of error, defendant has the right to file supplemental contentions].) We have
+reviewed the entire record as required by Wende and Anders, and considered
+the issues identified by Toussaint and his counsel. We find no arguable issue
+that would result in a reversal or modification of the judgment. Having
+already provided the “brief description of the facts and procedural history of
+the case, the crimes of which the defendant was convicted, and the
+punishment imposed” that is required in an opinion in a Wende appeal (Kelly,
+at pp. 123–124), we now proceed to “describe[] the contentions personally
+raised by the defendant and the reasons those contentions fail” (id. at p. 124).
+      Toussaint first claims “[t]here was no evidentiary hearing.” However,
+Toussaint does not identify any issue on which he claims he was entitled to
+an evidentiary hearing but denied one. Our independent review of the record
+reveals none.
+      Next, Toussaint complains that he “aske[d] the attorney to get pictures
+of the [scene] so [he] could prove [Detective Knutson] did not see [Toussaint]
+from where he was.” We interpret this as a claim that Toussaint’s trial
+counsel rendered ineffective assistance by conducting an inadequate
+investigation. The Supreme Court “ ‘ha[s] repeatedly stressed “that ‘[if] the
+record on appeal sheds no light on why counsel acted or failed to act in the
+manner challenged[,] . . . unless counsel was asked for an explanation and
+
+
+                                       6
+failed to provide one, or unless there simply could be no satisfactory
+explanation,’ the claim on appeal must be rejected.” [Citations.] A claim of
+ineffective assistance in such a case is more appropriately decided in a
+habeas corpus proceeding.’ ” (People v. Barrett (2025) 17 Cal.5th 897, 969.)
+On the record here, we cannot say there is no reasonable explanation for
+counsel’s conduct. For example, counsel may have made the tactical decision
+based on his investigation of the scene that photographs of the scene would
+undermine, rather than support, the defense case. Toussaint’s claim is
+therefore better raised in a habeas corpus proceeding. (Ibid.)
+      Toussaint also asserts that “[t]here was no investigation in [his] case at
+all.” (Italics added.) Toussaint does not identify what investigation should
+have occurred or what evidence that investigation would have uncovered that
+would require reversal of the judgment. Based on our review of the record,
+however, we suspect he is referring to his trial counsel’s critique of the police
+investigation for failing to arrest the drug buyers or to “test the drugs for
+purity to see if the drugs that the purchaser has has the same purity as the
+drugs that the seller has.” Counsel argued these evidentiary “empty
+tombstones” undermined the prosecution claim that Toussaint sold cocaine
+base to anyone. We interpret this as a challenge to the sufficiency of the
+evidence supporting his convictions. This challenge fails.
+      Detective Knutson’s testimony about his firsthand observations and
+his expert opinions regarding drug sales is sufficient to support Toussaint’s
+drug-sales conviction. (See People v. Oyler (2025) 17 Cal.5th 756, 827–828
+[“ ‘ “Resolution of conflicts and inconsistencies in the testimony is the
+exclusive province of the trier of fact. [Citation.] Moreover, unless the
+testimony is physically impossible or inherently improbable, testimony of a
+single witness is sufficient to support a conviction.” ’ ”].) For example,
+
+
+                                        7
+Knutson testified that the 1600 block of K Street is known for cocaine base
+sales and that he saw Toussaint engage in several transactions with a
+substance Knutson suspected, based on his training and experience, to be
+cocaine base. Knutson’s testimony was corroborated by other evidence,
+including that Toussaint possessed cocaine base and cocaine at the time of
+his arrest; Toussaint admitted in his police interview that he had been giving
+drugs to his friends (i.e., “showing love”); and other items in Toussaint’s
+possession at the time of his arrest (i.e., two cellphones, a large quantity of
+cash in various denominations, a disguised digital scale, and a knife)
+indicated he was involved in drug sales.
+      Next, Toussaint complains that “[t]he only option [he] was offered was
+jail.” Toussaint was charged with, among other things, five counts of
+violating Health and Safety Code section 11352, subdivision (a), which
+subjected him to a sentencing triad of three, four, or five years. Toussaint
+cites no authority, and we are aware of none, that required the prosecutor to
+offer a plea deal that included no time in custody. (See People v. Trejo (2011)
+199 Cal.App.4th 646, 655 [“the prosecutor [i]s not obligated to make an offer;
+there is no constitutional right to a plea bargain”].)
+      Toussaint also asserts he “was told a motion for retrial was going to be
+made and [his] attorney was fired by the judge.” Toussaint does not identify
+any basis on which he was entitled to a new trial and our independent review
+of the record has revealed none.
+      Toussaint raises several points regarding his past and present criminal
+charges. For example, he asserts, “I never was charged with selling drugs.”
+But the record contradicts this claim as to both past and present charges —
+Toussaint admitted at trial that he was convicted in 2010 of violating Health
+and Safety Code section 11352, subdivision (a) (selling or furnishing a
+
+
+                                        8
+controlled substance), and he was charged with and convicted of that same
+offense in this case. Toussaint also argues, “The D.A. said my last possession
+was for sales and it was a simple [possession].” The record, however, shows
+that the prosecutor impeached Toussaint’s credibility at trial with evidence
+that Toussaint was convicted in 2012 of violating Health and Safety Code
+section 11351.5 (possession for sale of cocaine base). Finally, regarding the
+current charges, Toussaint complains, “They picked a count for the jury to
+convict on sales.” This appears to refer to the prosecution’s designation of
+two counts as relating to the transactions for which Detective Knutson
+testified he saw money change hands. We see no arguable basis for reversal
+on this issue.
+      Toussaint also raises two general arguments about the nature of the
+proceedings against him. First, he asserts “[t]his case should have never
+made it to trial and everybody messed up.” Second, Toussaint states, “I’m not
+an attorney but I know I have rights[.] If I can see the transcripts I could
+show the truth and I know with trained experience more will show . . . .”
+Toussaint has now had the opportunity to review the full appellate record
+and has had the benefit of experienced appellate counsel. Neither
+Toussaint’s appellate counsel, nor this court on its independent review of the
+entire appellate record, has identified any arguable claims of error.
+      Finally, Toussaint pleads, “I need a habeas corpus.” Toussaint is free
+to raise appropriate claims using a petition for habeas corpus.
+      In sum, our independent review of the appellate record and our
+consideration of the issues identified by Toussaint and his appellate counsel
+reveal no arguable issue that would result in a reversal or modification of the
+judgment.
+
+
+
+
+                                       9
+                         IV. DISPOSITION
+
+    The judgment is affirmed.
+
+
+
+
+                                           RUBIN, J.
+
+WE CONCUR:
+
+
+
+
+   O’ROURKE, Acting P. J.
+
+
+
+
+                 IRION, J.
+
+
+
+
+                                10

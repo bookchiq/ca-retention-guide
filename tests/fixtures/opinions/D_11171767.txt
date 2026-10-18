@@ -1,0 +1,396 @@
+cl_opinion_id: 11171767
+cluster: 10705180
+docket: D084830
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Russo v. Dinneen CA4/1
+----
+Filed 10/16/25 Russo v. Dinneen CA4/1
+                   NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or
+ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+                 COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                       DIVISION ONE
+
+                                              STATE OF CALIFORNIA
+
+
+
+ROCCO RUSSO, a Minor, etc., et al.,                                          D084830
+
+          Plaintiffs and Appellants,
+
+          v.                                                                 (Super. Ct. No. 37-2021-
+                                                                             00035608-CU-PO-CTL)
+PATRICK DINNEEN et al.,
+
+          Defendants and Respondents.
+
+
+          APPEAL from a judgment of the Superior Court of San Diego County,
+James A. Mangione, Judge. Dismissed.
+          Sorrentino & Associates, Paul F. Sorrentino, and Vincent P. Sorrentino,
+for Plaintiffs and Appellants.
+          Donohoo Rhine, Rodney L. Donohoo and Kevin T. Rhine, for
+Defendants and Respondents.
+                                                   I. INTRODUCTION
+          This case presents a situation in which because of deadlines and rules
+
+imposed by the Code of Civil Procedure1 and the California Rules of Court,
+Rocco, Stella, and Luca Russo (collectively, appellants) are unable to proceed
+
+1         All further statutory references are to the Code of Civil Procedure.
+with this appeal. Here, appellants filed a complaint for wrongful death of
+their mother. Defendants Patrick and Meiko Dinneen (collectively,
+respondents) brought a motion for summary judgment, which the trial court
+granted. Appellants filed a motion for reconsideration. However, before it
+could be heard the trial court entered judgment in the case. Entering
+judgment deprived the trial court of jurisdiction to rule on the pending
+motion for reconsideration. Apparently aware of this jurisdictional bar to
+hearing appellants’ reconsideration motion, the trial court attempted to
+handle the motion by granting appellants’ request to construe it as a motion
+for new trial. However, when the trial court could get to the motion for new
+trial, the time to hear it had expired and the motion for new trial was already
+denied by operation of law.
+      Then, appellants sought to appeal the trial court’s rulings on the
+motions for summary judgment and reconsideration. Appellants filed a
+notice of appeal. But it was now outside the 60-day deadline to file after
+notice of the original judgment’s entry. We conclude the notice of appeal is
+untimely under the normal time to appeal, and the potential extensions of
+any deadline provided by either a motion for reconsideration or new trial do
+not offer appellants any relief. We therefore dismiss the appeal.
+                              II. BACKGROUND
+      Appellants are minors. In 2021, through a guardian ad litem,
+appellants sued respondents, their grandparents, for various causes of action
+regarding the death of their mother, Patricia McDonough.
+      Appellants filed the operative second amended complaint (SAC) in
+2023, which contained a single cause of action against respondents for
+
+
+
+
+                                       2
+wrongful death.2 The SAC alleged that McDonough fell while at
+respondents’ house; paramedics arrived and advised McDonough to go to the
+hospital; at McDonough’s request, respondents agreed to drive McDonough to
+the hospital; respondents then chose not to take McDonough to the hospital
+despite knowing she was injured and had ingested illegal drugs; and
+McDonough died the next morning due to a head injury and lack of care.
+        Respondents moved for summary judgment on the SAC, asserting that
+appellants could not establish duty, breach, or causation. Respondents also
+asserted their affirmative defenses of assumption of the risk,
+superseding/intervening cause, and comparative negligence shielded
+respondents from liability. Appellants did not dispute that an autopsy
+indicated McDonough died of an accidental drug overdose without any
+external or internal trauma.
+        On March 2, 2024, the trial court granted respondents’ motion for
+summary judgment, finding no triable issues of fact regarding causation. On
+March 28, 2024, appellants filed a motion for reconsideration of that ruling
+pursuant to section 1008, subdivision (a) (section 1008(a)), and the trial
+court’s inherent powers “[t]o amend and control its process and orders so as
+to make them conform to law and justice.” (§ 128, subd. (a)(8); Francois v.
+Goel (2005) 35 Cal.4th 1094, 1109). Appellants disputed the trial court’s
+causation determination and argued they had new evidence on that issue
+from a medical expert. The motion was calendared for July 26, 2024.
+        However, on April 9, 2024, the trial court entered judgment dismissing
+the SAC. Respondents served notice of the judgment’s entry on April 17,
+2024.
+
+
+2    The SAC also named as defendants McDonough’s daughters, Caitlin
+and Mia McDonough, but they are not a party to this appeal.
+                                        3
+      On July 10, 2024, respondents filed an ex parte application to vacate
+the reconsideration motion date. They argued the trial court lacked
+jurisdiction to hear the motion based on the entry of judgment. At the ex
+parte hearing the next day, appellants asked the trial court to treat their
+motion as one for new trial. The trial court denied the ex parte application
+without prejudice and continued the hearing on appellants’ motion to August
+16, 2024.
+      On August 16, 2024, the trial court issued a tentative ruling on the
+reconsideration motion. Acknowledging that the judgment deprived it of
+jurisdiction to rule on a reconsideration motion, the trial court granted
+appellants’ request to construe the motion as one for new trial. The trial
+court found that “granting summary judgment was an error of law” because
+“a jury could make a reasonable inference from the disputed facts that
+Decedent could have been prevented from overdosing or survived the
+overdose if she had been taken to the emergency room.” The tentative ruling
+stated, “[t]he judgment of dismissal entered on April 9, 2024 is vacated.”
+      After taking the matter under submission, the trial court issued its
+ruling on the motion on August 21, 2024. The trial court affirmed its
+tentative decision to treat the motion as one for new trial. However,
+noting that more than 75 days had passed since respondents served notice
+
+of entry of judgment,3 the trial court found the new trial motion was
+denied by operation of law pursuant to section 660, subdivision (c) (section
+
+
+
+
+3     Here, 75 days after service of entry of judgment would have been
+July 2, 2024.
+                                       4
+660(c)).4 That same day, both the trial court and respondents served
+appellants with the order.
+      On September 3, 2024, appellants filed their notice of appeal. In
+response to this court’s request, the parties submitted briefing on the notice
+of appeal’s timeliness. Respondents also filed a motion to dismiss the appeal
+on the ground that it was untimely, which we ordered to be considered
+concurrently with the appeal.
+                                III. DISCUSSION
+A.    Appellate Deadlines
+      “ ‘[T]he timely filing of a notice of appeal . . . is an absolute prerequisite
+to the exercise of appellate jurisdiction.’ ” (K.J. v. Los Angeles Unified School
+Dist. (2020) 8 Cal.5th 875, 882.) “If a notice of appeal is filed late, the
+
+reviewing court must dismiss the appeal.” (Cal. Rules of Court,5
+rule 8.104(b).)
+      Rule 8.104 governs the “[n]ormal time” time to file an appeal. (Rule
+8.104(a).) It provides that a notice of appeal must be filed within 60 days
+after service of notice of entry of the judgment or 180 days after entry of the
+judgment, whichever is earlier. (Rule 8.104(a)(1).)
+      Pursuant to rule 8.108, the normal time to appeal may be extended, but
+not shortened, by the filing of certain motions. (Rule 8.108(a).) “If any party
+serves and files a valid motion to reconsider an appealable order under
+[section 1008(a)], the time to appeal from that order is extended for all
+
+
+4     As is relevant here, “the power of the court to rule on a motion for a
+new trial shall expire 75 days after . . . service on the moving party by any
+party of written notice of entry of judgment,” and “[i]f the motion is not
+determined within the 75-day period . . . the effect shall be a denial of the
+motion without further order of the court.” (§ 660(c).)
+5     All subsequent rule references are to the California Rules of Court.
+                                         5
+parties until the earliest of: [¶] (1) 30 days after the superior court clerk or a
+party serves an order denying the motion or a notice of entry of that order; [¶]
+(2) 90 days after the first motion to reconsider is filed; or [¶] (3) 180 days
+after entry of the appealable order.” (Rule 8.108(e).)
+      However, “[i]t is well settled that entry of judgment divests the trial
+court of authority to rule on a motion for reconsideration.” (Safeco Ins. Co. v.
+Architectural Facades Unlimited, Inc. (2005) 134 Cal.App.4th 1477, 1482
+(Safeco).) The judgment effectively denies the pending reconsideration
+motion by implication. (Ramon v. Aerospace Corp. (1996) 50 Cal.App.4th
+1233, 1238.) “ ‘Moreover, if the trial court has no power to rule on a
+reconsideration motion after judgment, such a motion can have no effect on
+the period within which to file a notice of appeal.’ ” (Safeco, at p. 1482
+[finding that “[t]he fact that the court proceeded to hear [a reconsideration
+motion after entry of judgment] and enter an order demonstrates only that
+none of the parties nor the trial court was aware that it lacked jurisdiction to
+hear the motions. It does not act to give plaintiff the benefit of the rule
+[8.108] extension.”].)
+      Nonetheless, after judgment has been entered, a trial court may treat a
+pending reconsideration motion as a new trial motion. (Sole Energy Co. v.
+Petrominerals Corp. (2005) 128 Cal.App.4th 187, 192.) New trial motions
+also extend the time to appeal. When such a motion is denied, “the time to
+appeal from the judgment is extended for all parties until the earliest of: [¶]
+(A) 30 days after the superior court clerk or a party serves an order denying
+the motion or a notice of entry of that order; [¶] (B) 30 days after denial of the
+motion by operation of law; or [¶] (C) 180 days after entry of judgment.”
+(Rule 8.108(b)(1).)
+
+
+
+
+                                         6
+B.    Appellants’ Arguments
+      Appellants argue that rule 8.108(b)(1)(A), the 30-day deadline from
+notice of denial of a new trial motion, applies in this case. They assert that
+the trial court construed their motion for reconsideration as a motion for new
+trial, and the August 21, 2024 order was the operative order denying that
+motion. Because their notice of appeal was filed less than 30 days later on
+September 3, 2024, appellants claim their notice of appeal was timely.
+Appellants assert the deadline in rule 8.108(b)(1)(B), based on the date a
+motion for new trial is denied by operation of law, would be unfair because
+the parties did not know the trial court was construing their motion as one
+for new trial until August 21, 2024, at which point the motion had already
+been denied by operation of law.
+      Appellants further contend the trial court vacated the judgment on
+August 16, 2024, so there was no judgment to appeal from until the August
+21, 2024 order stating otherwise. They also assert their reconsideration
+motion was based on the trial court’s inherent powers, which the trial court
+could have invoked when it ruled on the motion. Pointing to the continuance
+and redesignation of the motion, appellants claim the trial court and
+respondents agreed to extend the time to appeal, the trial court violated their
+due process, and respondents should be estopped from claiming the appeal is
+untimely. Finally, appellants argue the trial court’s impacted calendar
+should not prejudice them, dismissing the appeal violates court policy, and
+we should recognize a “beyond the party’s control” exception under the
+circumstances of this case.
+
+
+
+
+C.    Analysis
+
+
+                                       7
+      When respondents served notice of entry of the judgment on April 17,
+2024, that triggered the 60-day deadline under rule 8.104(a)(1)(B). (InSyst,
+Ltd. v. Applied Materials, Inc. (2009) 170 Cal.App.4th 1129, 1134–1135.)
+Sixty days from April 17, 2024, was June 16, 2024. Appellants’ September 3,
+2024 notice of appeal was therefore untimely under the normal time to file an
+appeal.
+      Three reasons render appellants unable to take advantage of the
+extension under rule 8.108(e), applying to reconsideration motions. First,
+that extension rule only applies to a “motion to reconsider an appealable
+order.” (Rule 8.108(e).) Appellants’ motion sought reconsideration of the
+trial court’s order granting summary judgment, which is not an appealable
+order. (Champlin/GEI Wind Holdings, LLC v. Avery (2023) 92 Cal.App.5th
+218, 223.) Second, entry of the judgment on April 9, 2024, divested the trial
+court of jurisdiction to rule on the reconsideration motion, meaning that
+“ ‘motion can have no effect on the period within which to file a notice of
+appeal.’ ” (Safeco, supra, 134 Cal.App.4th at p. 1482.) Third, even if we treat
+the entry of judgment as impliedly denying the reconsideration motion
+(Ramon v. Aerospace Corp., supra, 50 Cal.App.4th at p. 1238), appellants
+would have 30 days from notice of the judgment’s entry on April 17, 2024, or
+until May 17, 2024, to file an appeal. (Rule 8.108(e)(1).) That outcome would
+shorten the normal 60-day time to appeal, which is not permitted. (Rule
+8.108(1)(a).)
+      Nor does the extension for new trial motions under rule 8.108(b) make
+the appeal timely. That extension applies to the earliest of three dates:
+(1) September 20, 2024, which would be 30 days after service of the August
+21, 2024 order construing the reconsideration motion as a new trial motion
+and denying it; (2) August 1, 2024, which would be 30 days after the motion
+
+
+                                        8
+was denied by operation of law on July 2, 2024; or (3) October 7, 2024, which
+would be 180 days from the April 9, 2024 entry of judgment. The earliest of
+those three dates is the second option, August 1, 2024, which was more than
+a month before appellants filed their notice of appeal.
+      Based on the foregoing, appellants notice of appeal is untimely under
+the applicable rules.
+      We acknowledge that the trial court should have ruled on the motion
+for reconsideration before entering judgment. Nonetheless, appellants’
+arguments regarding fairness, policy, due process, and a “beyond the party’s
+control” exception are unconvincing.
+      First, appellants’ case law supporting their “beyond the party’s control”
+
+exception does not address appeal deadlines,6 and the authority contrary to
+their position is clear. “ ‘In the absence of statutory authorization, neither
+the trial nor appellate courts may extend or shorten the time for appeal
+[citation], even to relieve against mistake, inadvertence, accident, or
+misfortune.’ ” (Annette F. v. Sharon S. (2005) 130 Cal.App.4th 1448, 1454.)
+      Second, the situation was not beyond appellants’ control. As noted
+above, “[i]t is well settled” that entry of the judgment nullified the
+reconsideration motion. (Safeco, supra, 134 Cal.App.4th at p. 1482.) It is
+also “equally established” that the reconsideration motion did not alter the
+time to appeal under these circumstances. (Marshall v. Webster (2020)
+54 Cal.App.5th 275, 281–282.) Case law instructs that appellants “should
+have abandoned the now invalid motion for reconsideration [citation] and
+attacked the judgment in one of three ways: by a motion for a new trial; by a
+
+
+6      Appellants cite Bennett v. Bennett Cement Contractor’s, Inc. (1981)
+125 Cal.App.3d 673, addressing the five-year deadline to bring a matter to
+trial, and In re Marriage of Liu (1987) 197 Cal.App.3d 143, 151, regarding
+jurisdictional limits on a new trial motion.
+                                        9
+motion to vacate; or by filing a timely notice of appeal.” (Ramon v. Aerospace
+Corp., supra, 50 Cal.App.4th at p. 1238.) Practice guides are in accord. (See,
+e.g., Wegner et al., Cal. Practice Guide: Civil Trials & Evidence (The Rutter
+Group 2024) ¶ 18:469.5 et seq.)
+      Thus, even though the trial court may have created confusion when it
+entered judgment, appellants’ options for postjudgment recourse were set out
+in established procedures. Once the judgment was entered, appellants
+should have followed those steps. Indeed, “the plaintiff is responsible for
+properly calculating the timing of the appeal.” (Safeco, supra,
+134 Cal.App.4th at p. 1483.)
+      Third, by the time the trial court continued the hearing on the
+reconsideration motion on July 11, 2024, it was already too late to appeal. As
+explained above, the normal time to appeal expired on June 16, 2024, and the
+reconsideration motion did not extend the appeal deadline. Further, both the
+time to file a new trial motion and the court’s ability to rule on such a motion
+had already expired. A new trial motion had to be filed by May 2, 2024
+(15 days from the April 17, 2024 notice of entry of judgment). (§ 659,
+subd. (a) [“The party intending to move for a new trial shall file with the
+clerk and serve upon each adverse party a notice of his or her intention to
+move for a new trial . . . . [¶] . . . [¶] (2) Within 15 days of the date of serving
+notice of entry of judgment by the clerk . . . or within 180 days after the entry
+of judgment, whichever is earliest”].) Further, the court lost jurisdiction to
+hear such a motion on July 2, 2024 (76th day after the April 17, 2024 notice
+of entry of judgment). (§ 660(c).) As such, although a trial court has the
+ability to treat a motion for reconsideration as one for new trial, any order
+doing so at the July 11, 2024 ex parte hearing, which was the first time
+appellants made that request, would have been void. (Dodge v. Superior
+
+
+                                         10
+Court (2000) 77 Cal.App.4th 513, 518 [any order made after the 75-day period
+“ ‘purporting to rule on a motion for new trial is in excess of the court’s
+
+jurisdiction and void’ ”].)7
+      Because all available avenues for relief had already lapsed, the trial
+court’s continuance of the hearing and subsequent actions had no effect on
+appellants’ ability to timely appeal. We also note appellants are incorrect
+when they argue the court redesignated their reconsideration without first
+giving appellants notice. Instead, the trial court agreed to treat appellants’
+motion for reconsideration as a motion for new trial in response to appellants’
+request. As it turned out, this was merely an ineffective attempt by the trial
+court to reach the merits of appellants’ claims.
+      Regarding the assertion that the trial court vacated the judgment on
+August 16, 2024, we disagree. The trial court only indicated its intention to
+do so in a tentative order; it never actually vacated the judgment.
+      Appellants’ reliance on the court’s inherent reconsideration powers
+is also misplaced. The appeal deadline is only extended for a reconsideration
+
+
+7      Contrary to appellants’ claim at oral argument, section 660(c), did not
+authorize the trial court to extend the 75-day new trial motion deadline, nor
+did the trial court’s continuance of the reconsideration motion hearing
+operate as such an extension. Section 660(c) only authorizes an extension
+when the 75th day is a holiday (§§ 12a, 660(c)), which does not assist
+appellants here. Further, “ ‘[i]t is the duty of the [moving] party to be present
+and see that his motion for a new trial is set for hearing within the statutory
+[time] period. If it has been inadvertently continued by the court to a date
+too late under the statute the party should move the court to advance the
+matter on the calendar. When [the party] is guilty of lack of diligence in the
+prosecution and presentation of his motion, he cannot complain of the court’s
+inadvertence. And when counsel for both parties consent to a continuance
+without considering that the extension will be beyond the time the court can
+act on the motion, the effect is to deprive the court of the power to act. It
+effectively denies the motion without further order.’ ” (Dakota Payphone,
+LLC v. Alcaraz (2011) 192 Cal.App.4th 493, 500.)
+                                        11
+motion filed pursuant to section 1008(a). (Rule 8.108(e).) Further, like a
+section 1008(a) reconsideration motion, the trial court loses the ability to
+reconsider matters on its own motion once judgment is entered. (Meinhardt
+v. City of Sunnyvale (2024) 16 Cal.5th 643, 660.)
+      Finally, the claims that the trial court and respondents agreed to
+extend the appeal deadline and that respondent should be estopped from
+asserting timeliness lack merit. Again, a court cannot extend the time to
+appeal (rule 8.104), and “[t]he parties cannot create appellate jurisdiction by
+consent, waiver, or estoppel” (Vivid Video, Inc. v. Playboy Entertainment
+Group, Inc. (2007) 147 Cal.App.4th 434, 440–441).
+      In sum, the notice of appeal is untimely. We therefore dismiss the
+appeal.
+
+
+                              IV. DISPOSITION
+      The appeal is dismissed. Respondents are awarded costs on appeal.
+
+
+
+                                                                      RUBIN, J.
+
+WE CONCUR:
+
+
+
+McCONNELL, P. J.
+
+
+
+IRION, J.
+
+
+
+
+                                       12

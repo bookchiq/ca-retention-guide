@@ -1,0 +1,372 @@
+cl_opinion_id: 11171780
+cluster: 10705193
+docket: F089390
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re N.M. CA5
+----
+Filed 10/16/25 In re N.M. CA5
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+             IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                     FIFTH APPELLATE DISTRICT
+
+
+    In re N.M., a Person Coming Under the Juvenile
+    Court Law.
+
+    KERN COUNTY DEPARTMENT OF HUMAN                                                          F089390
+    SERVICES et al.
+                                                                              (Super. Ct. No. JD145887-00)
+            Plaintiffs and Respondents,
+
+                    v.                                                                    OPINION
+    N.M.,
+
+            Appellant;
+
+    ANDREA P.,
+
+            Defendant and Appellant.
+
+
+
+                                                   THE COURT*
+         APPEAL from an order of the Superior Court of Kern County. Susan M. Gill,
+Judge.
+         Shayla Padgett-Weibel, under appointment by the Court of Appeal, for Appellant
+N.M.
+         Monica Vogelmann, under appointment by the Court of Appeal, for Defendant and
+Appellant Andrea P.
+
+
+*        Before Levy, Acting P. J., Detjen, J. and Peña, J.
+        David M. Yorton, under appointment by the Court of Appeal, for Respondent R.M.
+        Margo A. Raison, County Counsel, and Jennifer E. Feige, Deputy County Counsel,
+for Plaintiff and Respondent Kern County Department of Human Services.
+                                          -ooOoo-
+
+
+        Andrea P. (mother) and her 16-year-old son, N.M., appeal from the juvenile court’s
+“exit order” granting sole physical custody of N.M. to his father, R.M. (father), following
+a Welfare and Institutions Code1 section 364 review hearing.
+        Mother argues that the order was an abuse of discretion because it was contrary to
+N.M.’s express wishes to be placed with mother, and N.M. was of an age and ability to
+form an intelligent preference of where he wanted to live. N.M. joins in mother’s
+arguments.
+        We find no abuse of discretion and affirm the juvenile court’s order.
+                  FACTUAL AND PROCEDURAL BACKGROUND
+        On February 23, 2024, a juvenile dependency petition was filed in Los Angeles
+County alleging that then 14-year-old twins, N.M. and C.M., came within the juvenile
+court’s jurisdiction under section 300, subdivisions (a) (nonaccidental serious physical
+harm) and (b) (failure to protect), and that C.M. additionally came under the court’s
+jurisdiction under section 300, subdivision (j) (abuse of sibling).2 The petition alleged
+that in February 2024, mother had struck N.M. in the face with a closed fist and
+repeatedly struck him in the chest, causing bruising. It was further alleged she had struck
+him on previous occasions to the point of causing bruising, and N.M. was refusing to live
+
+
+
+1       All further undesignated statutory references are to the Welfare and Institutions
+Code.
+2      C.M. is not a subject of or party to this appeal, but we include facts pertaining to
+him to the extent they are relevant to understanding the case and/or the issues on appeal.
+
+
+                                              2.
+with her because of the continued physical abuse. It was also alleged the abuse placed
+N.M. as well as C.M. at risk of serious physical harm.
+       The initial investigation of the Los Angeles County Department of Children and
+Family Services (LADCFS) leading to the petition revealed that N.M. had reported the
+recent incident of abuse to his football coach and stated the abuse had been going on for
+about a year. N.M. reported he did not feel safe and did not want to return home. He
+stayed with his maternal aunt while LADCFS conducted its investigation, and during that
+stay, he told the maternal aunt he was afraid mother would continue to physically abuse
+him.
+       Mother reported to the investigating social worker that she had been having
+problems with N.M. lying about having a girlfriend, and on the day of the incident, she
+learned he had missed school assignments. When she confronted him about it, he “puffed
+up his chest,” and she felt he was trying to intimidate her. She stuck out her open hand to
+block N.M. and denied causing any bruising. She denied any physical or verbal abuse
+but admitted to making “strong statements” toward both children.
+       N.M.’s adult sibling reported that she had also suffered physical abuse by mother
+when she was N.M. and C.M.’s age. She stated that mother did not physically abuse
+C.M. but was verbally abusive toward him. Another of N.M.’s adult siblings who lived in
+the home with mother and the children reported she witnessed the abuse of N.M. but was
+afraid that if she intervened, mother would kick her out of the house. She further
+reported that N.M. was mother’s “ ‘punching bag’ ” and that C.M. was her “ ‘golden
+child.’ ” She had taken photographs of N.M. after mother hit him, showing the bruising
+mother caused.
+       LADCFS detained the children from mother and released them to father, who
+lived in Kern County and had weekend visitation with the children. Father needed some
+time to obtain a larger residence, so he arranged for the maternal aunt to continue caring
+for them in the meantime. N.M. was hesitant about living with father because of the
+
+                                            3.
+distance and because he wanted to remain at his school with his friends and football team.
+N.M. wanted to stay with the maternal aunt but did not want to return home or be
+required to see mother.
+       At the initial hearing, N.M. was present and, through counsel, requested to be
+placed with the maternal aunt and be able to finish his school year. Both parents wanted
+him released to father. The juvenile court concluded, “I really don’t have a basis to
+detain from father. I do want to give [N.M.] agency, but I—my hands are kind of tied
+here.” The court detained the children from mother and released them to father. The
+court ordered mother to have unmonitored visitation with C.M. and monitored visitation
+with N.M., with LADCFS having discretion to liberalize visits.
+       In March 2024, N.M. reported he liked living with father and had made the
+football team at his new school. According to N.M., father’s house was “ ‘calm,’ ” and
+he was working on building his relationship with father since he had only seen him on
+weekends in the past. N.M. further reported he was not afraid of mother at that moment
+but was afraid of her when he lived with her. He would like to return to her care in the
+future, but was worried that she would hold his reporting the abuse against him. He
+reported he felt “much” safer in father’s care, explaining, “I’m able to come home, not
+get judged and I can be me.”
+       Mother reported in March 2024 that N.M. was not allowed to come back and that
+she wanted him to stay with father. She had completed an online anger management
+class and had enrolled in a 12-hour online parenting class. Mother had not visited with
+the children by that point because she wanted to give N.M. a break.
+       At the adjudication hearing conducted on April 18, 2024, the juvenile court
+sustained the dependency petition. As to disposition, the children’s attorneys requested
+the case remain open, and N.M. wanted overnight visits with maternal aunt. The court
+adjudged the children dependents; removed them from mother’s custody, finding she
+posed a substantial danger to their health and safety; released them to father; and ordered
+
+                                             4.
+jurisdiction was to remain open for six months given the children’s requests. The court
+ordered LADCFS to assess overnight or weekend visits with maternal aunt. The court
+granted mother family enhancement services, to include anger management and parenting
+courses, and individual counseling. The court ordered her to have monitored visitation
+with both children.
+       The case was subsequently transferred to Kern County. In the transfer-in report
+prepared by the Kern County Department of Human Services (KDHS), it was reported
+the children were doing well and were visiting with mother for six hours on Sundays, and
+the visits were supervised by the maternal grandmother. The Kern County Juvenile Court
+accepted transfer and set a section 364 review hearing for October 2024.
+       Mother subsequently reported to KDHS that she was working on parenting classes
+and receiving mental health services. N.M. continued visiting with mother. C.M.
+stopped visiting with mother in June and July 2024 but began visiting with her again in
+September. Both parents reported that the visits sometimes ended early or did not occur;
+father reported mother canceled visits at the last minute, and mother reported father
+sometimes made the children leave early or failed to transport them.
+       In September 2024, N.M. was suspended from football for a set number of games
+because he had stolen alcohol from a gas station with friends. No charges were filed.
+KDHS opined father disciplined N.M. in an “appropriate” manner for this behavior by
+grounding N.M. and having him write a letter of why what he did was wrong and what
+could have been done better.
+       KDHS reported that the children were doing well in father’s home and were
+adjusting to their new school. The home was free from safety hazards, and father was
+attending to the children’s needs. KDHS recommended that jurisdiction be terminated
+and father be awarded sole physical custody.
+       At the section 364 review hearing conducted on October 17, 2024, the children’s
+attorney informed the juvenile court that N.M. wanted to return to mother, and C.M.
+
+                                            5.
+wanted to remain with father. He represented both would be okay with that arrangement,
+and they each wanted visitation with the other parent. The matter was continued for
+further evaluation as to mother’s efforts at reunification.
+       Following the hearing, N.M. reported school was going well. He was playing
+football and working on bringing his grades up. Both children reported visits with
+mother were going well.
+       In November 2024, mother reported completing an online 12-hour parenting class
+and that she was continuing to attend therapy and provided documentation to the social
+worker. N.M. continued to report visits with mother were going well; he visited with her
+once or twice a month, and he wanted to live with her because he missed his friends, old
+school, and family. Father expressed concern to the social worker about N.M.’s reasons
+he wanted to live with mother and felt the reason he wanted to move back with her was
+because she provided less supervision than father did. Both children stated they were
+doing well living with father, and N.M. reported feeling safe and comfortable and that he
+was eating and sleeping well.
+       In December 2024, the maternal grandmother, who supervised the visits, reported
+the visits were going well. N.M. and mother talked about future plans and other topics,
+and N.M. seemed excited about moving back with mother. Mother reported the visits
+were going well and that her and N.M.’s relationship had improved. They had good
+communication and had agreed to start family therapy if he returned to her home. She
+said that if any issues were to arise, she would call her therapist, and they would work out
+their issues in therapy. She planned to use simple commands and positive redirection. In
+therapy, she had learned to manage her anger and not yell, and she planned to continue
+going to therapy. When asked why she thought C.M. did not always want to visit, she
+responded she felt it was because father spoke ill about her.
+       In its supplemental review report, KDHS opined that mother had made moderate
+progress in mitigating the circumstances which led to the dependency through her
+
+                                              6.
+services. Though N.M. reported wanting to live with her, KDHS did not recommend she
+be awarded physical custody, as he was doing well in father’s care and KDHS was “not
+able to determine at this time whether the mother is ready to have the child she
+perpetrated physical abuse on back in her custody,” noting that she had only completed
+four hours of anger management services at that point and KDHS was not able to
+schedule a home inspection with her. KDHS again recommended dependency be
+dismissed, that father be awarded sole physical custody of the children, and that both
+parents be awarded joint legal custody.
+       A continued section 364 review hearing was conducted on December 16, 2024, at
+which mother and minors’ counsel set the matter for contest with regard to the
+recommendation that father be granted physical custody of N.M. The matter was
+continued. It was later reported that N.M. thought he was going home with mother after
+the hearing and had packed up his room. N.M. was upset but talked it through with
+father. He continued to report feeling safe with father but that he wanted to live with
+mother.
+       The contested hearing as to the recommendation regarding N.M. was conducted
+on January 30, 2025. Mother testified that she had completed a four-hour anger
+management class and an additional 16-hour anger management class. The classes
+helped her understand how her actions and reactions affect her children, and she had
+learned practical strategies to manage her emotions and communicate more effectively.
+She continued doing weekly therapy and had learned a lot of de-escalation strategies and
+how to implement and maintain boundaries and manage the household. Her proposed
+custody arrangement was to have N.M. live with her and C.M. live with father, and the
+children could switch households for visitation with the other parent.
+       The juvenile court questioned mother about what prompted the “severe beating”
+she perpetrated on N.M., and she responded that N.M. “had chosen to make some
+decisions with promiscuity on campus at school that happened over a dozen times.” She
+
+                                             7.
+later stated that what she did was “not appropriate” and “completely wrong” and
+apologized to N.M. Mother maintained it was a one-time incident. When the court asked
+what she would do if N.M. behaved in the same way again, mother responded that she
+knew it was inappropriate and that there would not be a next time. She also explained
+that she did not “beat” N.M., rather she “la[id her] hands on him” and just wanted him to
+listen. She knew it was not an appropriate way to communicate. She later explained that
+if N.M. were to act out against her again, she would contact father “and try to collectively
+come together to coparent to figure out a tangible solution.” She subsequently added that
+if she could not reach father, she would “remain calm and instead of reacting angrily or
+matching the tone of any child, [she] would take a deep breath, keep [her] voice calm and
+just remind [her]self that escalating will only make things worse.”
+       Father testified N.M. had seen mother about twice per month over the last
+six months, and there had been no visits in the last month. N.M. had friends in Kern
+County, and usually one or two stayed over on weekends. Father was concerned about
+mother’s proposed visitation schedule because the children would not see each other and
+it would interfere with their special twin bond.
+       Father further testified he believed it would be detrimental for N.M. to visit with
+mother alone without C.M. due to her temper. Father stated he had seen mother’s temper,
+and it was not “a one time thing.”
+       KDHS submitted on its report and recommendations and argued the proposed
+custody order was the most appropriate, and in the children’s best interests. Father’s
+counsel joined in KDHS’s recommendations.
+       Mother’s counsel asked that mother be granted sole physical custody of N.M.,
+with father to have regular visitation with an arrangement where N.M. and C.M. would
+still see each other.
+       Minors’ counsel also asked for N.M. to be placed with mother. He stated, “[w]ith
+regard to … mother, I’m not without concerns,” noting the reports indicated mother had
+
+                                             8.
+shown a pattern of abusive behavior. Counsel went on to say that mother had completed
+a case plan and though he “d[id not] trust everything that she says,” he “believe[d] that
+she’s learned and … engaged in rehabilitation.” Finally, he explained that he believed
+N.M. was smart enough to “understand exactly what’s going on,” and was also old
+enough “to self report, if he does find himself in any sort of danger.”
+       In beginning its ruling, the juvenile court acknowledged the work mother had done
+but noted she was “able to speak very well in generalities” but “falls a little short when it
+comes to specifics, in terms of what would she do if this happened again,” adding “she
+finally said, well, she’d call the father.” The court went on to explain that its order would
+“recognize[] that she has done this work.” The court commented that mother lacked
+credibility in testifying that father had not helped with the children before they were
+removed and that she showed “a lack of understanding” by being willing to split the
+children up because she thought it was in their best interests. The court went on to say
+that “for all the work [mother]’s done, she’s testifying that she understands now that you
+can’t behave the way she did. Well, presumably, she understood that before and just lost
+control. Because I don’t think anybody thinks it would be okay to treat [N.M.] the way
+she treated [N.M.]. So that was a bit of a disconnect.”
+       The juvenile court followed KDHS’s recommendations. The court awarded the
+parents joint legal custody and father sole physical custody of the children, with mother
+to have visitation every other weekend.
+                                       DISCUSSION
+       If the juvenile court terminates its jurisdiction over a dependent child, it may issue
+an order determining the custody of, or visitation with, the child. (§ 362.4, subd. (a).) In
+making an order under section 362.4, subdivision (a) or “exit order,” the juvenile court’s
+primary consideration is the best interests of the child. (In re J.M. (2023) 89 Cal.App.5th
+95, 112.) In determining what is in the child’s best interests, the court must consider the
+totality of the circumstances. (In re Chantal S. (1996) 13 Cal.4th 196, 201.) The best
+
+                                              9.
+interests of the child standard “ ‘is an elusive guideline that belies rigid definition. Its
+purpose is to maximize a child’s opportunity to develop into a stable, well-adjusted
+adult.’ ” (In re Ethan N. (2004) 122 Cal.App.4th 55, 66.) “In any custody determination,
+a primary consideration in determining the child’s best interests is the goal of assuring
+stability and continuity.” (In re Stephanie M. (1994) 7 Cal.4th 295, 317.)
+       Because juvenile dependency proceedings arise when children are subject to or at
+risk of abuse or neglect, custody orders are not made “until the child has been declared a
+dependent of the court and in many cases, such as this one, the child has been removed
+from the parents upon clear and convincing evidence of danger. The issue of the parents’
+ability to protect and care for the child is the central issue[, and t]he presumption of
+parental fitness that underlies custody law in the family court just does not apply to
+dependency cases.” (In re Jennifer R. (1993) 14 Cal.App.4th 704, 712; accord,
+In re Chantal S., supra, 13 Cal.4th at p. 206.) “Rather the juvenile court, which has been
+intimately involved in the protection of the child, is best situated to make custody
+determinations based on the best interests of the child without any preferences or
+presumptions.” (In re Jennifer R., at p. 712.)
+       The juvenile court has “broad discretion” to make exit orders. (In re Nicholas H.
+(2003) 112 Cal.App.4th 251, 265, fn. 4.) We review the court’s order for abuse of
+discretion and “may not disturb the order unless the court ‘ “ ‘exceeded the limits of legal
+discretion by making an arbitrary, capricious, or patently absurd determination.’ ” ’ ”
+(Bridget A. v. Superior Court (2007) 148 Cal.App.4th 285, 300.) We look at whether, in
+light of the record, the court’s ruling falls within the permissible range of options set by
+the legal criteria. (Pack v. Kings County Human Services Agency (2001) 89 Cal.App.4th
+821, 838.)
+       Mother, joined by N.M., argues the juvenile court abused its discretion by not
+ordering N.M. to be placed with her because it was contrary to his express wishes.
+Mother recognizes that a court is not bound by a child’s wishes but argues that the court
+
+                                              10.
+must give special weight to a child’s wishes when they are of an age and ability to form
+an intelligent preference when it is determining the child’s best interests in terms of
+custody and visitation orders.
+       Mother correctly sets forth the law. (See Guardianship of Saul H. (2022)
+13 Cal.5th 827, 854 [standing for the above proposition]; see also In re Aljamie D. (2000)
+84 Cal.App.4th 424, 432 [child’s placement preference, while “not determinative” can
+constitute evidence of what is in her best interests]; Fam. Code, § 3042, subd. (a) [“If a
+child is of sufficient age and capacity to reason so as to form an intelligent preference as
+to custody or visitation, the court shall consider, and give due weight to, the wishes of the
+child in making an order granting or modifying custody or visitation.”].)
+       Mother does not, however, persuade us that the juvenile court here did not give
+due weight to N.M.’s preference nor that its exit order was an abuse of discretion.
+N.M.’s wishes were made clear at the hearing, and there is no evidence the court did not
+consider them or give them due weight. Given the totality of the circumstances, the court
+could have reasonably determined placement with father and C.M. was in his best
+interests despite N.M.’s wish to live with mother. N.M. had suffered physical abuse at
+the hands of mother, leading to a substantial danger finding, and at the outset of the case
+was adamant that he feared her and did not want to live with her. As the court pointed
+out, mother had engaged in some services and appeared to have made progress, and we
+are pleased to see that mother and N.M. appear to have forged a positive visiting
+relationship over the course of the proceedings. However, the court’s concerns about
+mother’s ability to refrain from future inappropriate behavior if given sole physical
+custody of N.M. were reasonable given that mother and N.M. had not progressed to
+longer, more frequent, or unsupervised visits, as well as her testimony at the hearing.
+Indeed, when asked about the primary incident that led to the dependency proceedings,
+mother began talking about N.M.’s behavior rather than her own, was not able to
+articulate clear steps on how she would handle future conflict or discipline besides calling
+
+                                             11.
+father, and downplayed the extent of the abuse by stating it had only happened one time,
+when evidence on the record supported it was ongoing for at least a year.
+       As to N.M.’s wishes, the juvenile court likely appropriately evaluated them in the
+context of his limited interactions with mother; while N.M. may have wanted to live with
+mother based on positive interactions he had with her during visitation, the visits were in
+a supervised setting, and he saw her relatively infrequently. In contrast, the last time
+N.M. lived with mother, he was victim to physical abuse. Again, we recognize mother
+has made efforts to work on issues underlying the physical abuse, but the court could
+have reasonably considered the lack of evidence regarding how mother and N.M. would
+interact in an unsupervised day-to-day full-time setting in determining how much weight
+to give N.M.’s wish to live with mother. Thus, even though N.M. was an older child, the
+court could have concluded his wishes were not entitled to determinative weight given
+that they were not informed by what life with mother would be like in such a setting.
+       Further, while it is clear N.M. wished to live with mother and missed his life in
+Los Angeles County, there was no evidence he was not doing generally well in father’s
+care. He expressed no strong objections to living with father despite his preference to
+live with mother and consistently reported feeling safe. He played football, had friends,
+and was working on improving in school.
+       For the above reasons, we cannot say the juvenile court’s order was arbitrary,
+capricious, or patently absurd.
+       We find no error.
+                                      DISPOSITION
+       The juvenile court’s January 30, 2025 order is affirmed.
+
+
+
+
+                                             12.

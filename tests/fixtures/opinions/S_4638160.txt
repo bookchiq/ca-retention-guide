@@ -1,0 +1,2368 @@
+cl_opinion_id: 4638160
+cluster: 4834381
+docket: S154459
+date: 2020-11-30
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Turner
+----
+IN THE SUPREME COURT OF
+                CALIFORNIA
+
+                       THE PEOPLE,
+                  Plaintiff and Respondent,
+                              v.
+               CHESTER DEWAYNE TURNER,
+                 Defendant and Appellant.
+
+                            S154459
+
+              Los Angeles County Superior Court
+                          BA273283
+
+
+
+                      November 30, 2020
+
+Justice Corrigan authored the opinion of the Court, in which
+Chief Justice Cantil-Sakauye and Justices Liu, Cuéllar,
+Kruger, Groban, and Gilbert* concurred.
+
+
+
+
+*
+      Presiding Justice of the Court of Appeal, Second Appellate
+District, Division Six, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+                    PEOPLE v. TURNER
+                           S154459
+
+
+             Opinion of the Court by Corrigan, J.
+
+
+      Over the course of nearly 12 years, a serial killer raped
+and murdered women in high crime areas of Los Angeles. Police
+identified defendant Chester Dewayne Turner as a suspect in
+2003, when his DNA was found to match DNA left on the victims
+in several unsolved cases. Convicted of murdering ten women
+and one viable fetus, he was sentenced to death. (Pen. Code,
+§ 187, subd. (a).)1 This automatic appeal primarily challenges
+the admission of statistical evidence about the significance of
+the DNA matches and hearsay testimony about the fetus’s
+viability. The hearsay claim has merit and warrants reversal of
+the fetal murder conviction. The judgment is affirmed in all
+other respects.
+                      I. BACKGROUND
+     A. Guilt Phase
+            1.   Figueroa Corridor Murders
+     Between 1987 and 1996, the bodies of eight women were
+found in the Figueroa Corridor of Los Angeles, an area beset by
+crime, including prostitution and narcotics activity. Defendant
+
+
+1
+      All statutory references are to the Penal Code unless
+otherwise stated. Defendant was convicted of second degree
+murder for the fetus, but all other murders were in the first
+degree.    The jury also found true special circumstance
+allegations of multiple murder and, as to one of the victims,
+murder in the course of a rape. (§ 190.2, subd. (a)(3), (17).)
+
+
+                               1
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+lived at various addresses in the Figueroa Corridor during this
+period. All of the victims had been sexually assaulted and
+strangled to death, sometimes by ligature and sometimes
+manually. All had a history of drug abuse, and all but one had
+cocaine in their systems. Some were homeless; some were
+thought to be mentally ill; and some had arrests for prostitution.
+                  a.    1987 to 1989
+      The body of 21-year-old Diane Johnson was found on
+March 9, 1987, in a construction area six blocks from
+defendant’s home. Drag marks led to her body, which was nude
+from the waist down. She had been strangled.
+     Annette Ernest, age 26, was found just three blocks away
+on October 29, 1987. She lay face down with her pants lowered.
+There was a possible ligature mark on her neck and a bite on
+one breast. The cause of death was strangulation.
+     On January 20, 1989, a young boy discovered the body of
+31-year-old Anita Fishman in an alley less than two blocks from
+defendant’s home. Her pants were partially down and the body
+was beginning to decompose. She died of manual strangulation.
+      Regina Washington was 27 years old and visibly pregnant
+when she was killed. Her body was found on September 23,
+1989, lying on a mattress in a burnt-out garage about 14 blocks
+from defendant’s home. Although she was clothed, her pants
+were unfastened and her shirt pulled up. A black coaxial cable
+was wrapped around her throat and attached to an electrical box
+on a nearby wall. She died of ligature strangulation with signs
+of a struggle. Washington’s female fetus weighed 825 grams
+with a gestational age of 27 to 28 weeks. That weight and age
+were considered viable under World Health Organization
+guidelines. Despite her mother’s cocaine use, the fetus had no
+
+
+                                  2
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+congenital abnormalities and appeared to be developing
+normally. She died from lack of oxygen due to her mother’s
+strangulation.2
+                 b.     1993 to 1996
+      On April 2, 1993, 29-year-old Andrea Tripplett was found
+dead behind an abandoned house 22 blocks from defendant’s
+residence and only two blocks from her own home. Her skirt
+was pushed up and she was naked below the waist. She was
+around five months pregnant when she was manually strangled
+to death. At 305 grams, the fetus was not yet viable.
+     Deserae Jones, who sometimes went by Tracy Williams,
+was also 29 years old and killed by manual strangulation. Her
+body was found on May 16, 1993 in the trash-filled yard of a
+burned, boarded-up house within 30 blocks of defendant’s
+address. She was unclothed below the waist.
+     On February 12, 1995, Natalie Price’s body was found
+approximately five blocks from defendant’s home, next to an
+empty house where people gathered to smoke narcotics. Her bra
+was pushed up around her neck and her pants were pulled
+down. She had been strangled and struck on the head. She was
+39 years old when she died.
+     Mildred Beasley, age 45, was on her way to her sister’s
+house when she disappeared. Her body was found on November
+6, 1996 on a trash-strewn embankment of the 110 Freeway
+about 18 blocks from defendant’s home. The area was
+
+
+2
+      These details as to fetal age and condition were taken from
+an autopsy report and conveyed by a pathologist who did not
+perform the procedure. We discuss their erroneous admission
+post, at pages 38 to 46.
+
+
+                                  3
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+frequented by transients and known for drug activity. She had
+been strangled to death and left naked below the waist, with her
+upper garments pulled up. Insect activity indicated the body
+had begun to decompose.
+            2.   Downtown/Skid Row Murders in 1998
+      Two additional murder victims were found under similar
+circumstances near downtown Los Angeles in 1998. During that
+year, defendant lived downtown at the Regal Hotel on 6th
+Street.
+      Paula Vance, age 41, was found dead on February 3, 1998.
+Her body lay next to an abandoned building near 6th and Hope
+Street, about 14 blocks from defendant’s residence. Her upper
+garments were pulled up, her nylons and underwear pulled
+down. She had been strangled, and there were signs of sexual
+assault. A surveillance camera at the scene recorded her
+entering the alleyway with a man, who grabbed her around the
+neck until she fell to the ground. Vance was the only murder
+victim without cocaine in her system. Evidence showed that she
+was homeless and suffered from mental illness.
+      On April 6, 1998, the body of 37-year-old Brenda Bries was
+found in a portable toilet on South Gladys Avenue and 5th
+Street, just 50 yards from defendant’s residence. She was
+slumped with her head on the seat, pants around her knees, and
+shirt pulled around her neck. A fabric cord, intertwined with
+her bra, was wrapped around her neck. She died from ligature
+strangulation and showed signs of a struggle.
+            3.   Investigation
+     Crime scene investigators compiled and stored sexual
+assault kits for all victims.
+
+
+
+                                  4
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+                  a.    2002 Rape of Maria M.
+      In March 2002, defendant raped Maria M., a 47-year-old
+homeless woman who worked as a prostitute and sold drugs.
+She knew defendant from the Midnight Mission, a shelter they
+both frequented. As she walked alone near the shelter one
+night, defendant asked to borrow her lighter, which he used to
+smoke cocaine. Instead of returning the lighter, defendant
+grabbed Maria in a chokehold and dragged her behind some
+dumpsters, where he raped and sodomized her, ejaculating in
+the process. He threatened to kill her if he was arrested.
+      Maria immediately went to a police station, but after being
+kept waiting for some time she felt ignored and left. The next
+morning, she reported the assault to Midnight Mission
+employees and the police. Defendant attempted to flee but was
+arrested at the shelter. Evidence for a sexual assault kit was
+collected at a hospital. Defendant ultimately pled no contest to
+rape by force or fear and unlawful penetration. (§§ 261,
+subd. (a)(2), 289, subd. (a)(1).)
+                  b.    DNA Identification of Defendant
+                        i.     General Evidence
+      Gary Sims, a director of the Department of Justice DNA
+Laboratory, testified as an expert on forensic DNA analysis.
+Chromosomes found in cell nuclei contain DNA, which is the
+same in all cells of a person’s body. The vast majority of human
+DNA is the same, coding basic traits all people share. At some
+chromosomal regions, however, the DNA is highly variable.
+Forensic DNA analysis studies these areas of variation. The
+specific site being studied is called a “locus.” “Allele” describes
+the alternative forms of genetic material at a particular locus.
+Each locus has two alleles, one inherited from each parent.
+
+
+                                  5
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+Current forensic testing focuses on loci with sections of DNA
+that repeat a variable number of times, known as short tandem
+repeats or STRs. Different people have different numbers of the
+repeating sequence at these sites. DNA testing compares the
+alleles at these sites to see if they are the same or different. As
+the science of DNA analysis developed, more loci with variable
+STRs could be tested. At the time of defendant’s trial, analysts
+could study DNA variation at 13 different loci. Sims explained
+that DNA analysis is a powerful tool in determining “the
+probability of identity,” which is the likelihood that two people
+chosen at random will have the same DNA sequences at the
+areas tested.
+       Once DNA is extracted from biological material left at a
+crime scene, the STR regions are amplified. Analysts determine
+the number of STR repeats for alleles present at each of the 13
+loci, producing a “profile” for the evidence sample. Biological
+material is then obtained from a suspect to create a DNA profile.
+When the two profiles are compared, a match is declared if the
+alleles at all loci are the same. The significance of a match
+depends on how common the particular DNA profile is in the
+population. Sims explained that population databases have
+been developed to determine how frequently particular alleles
+are found in each major ethnic group. After the allele
+frequencies are determined at each locus, the frequencies are
+multiplied together to determine the rarity of the overall profile.
+This number, called the random match probability, reflects the
+probability that DNA from a randomly chosen person would
+match the evidence profile.
+
+
+
+
+                                  6
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+                        ii.    Case-specific Evidence
+      On July 3, 2002, defendant gave cheek swabs for DNA
+testing in connection with Maria’s assault. The Los Angeles
+Police Department (LAPD) DNA Unit prepared defendant’s
+DNA profile from this reference sample. His profile matched the
+DNA in sperm cells recovered during Maria’s examination.
+      Investigators later compared defendant’s profile with
+DNA samples from unsolved crimes.3 Defendant’s profile
+matched DNA left on all of the victims here. A private forensic
+laboratory, Orchid Cellmark (Cellmark), retested the evidence
+and independently confirmed LAPD’s findings. Specifically, the
+laboratories found as follows.
+      Sperm cell DNA matching defendant’s profile was
+recovered from anal and vaginal swabs from Diane Johnson. In
+the Anita Fishman, Regina Washington, Andrea Tripplett,
+Natalie Price, Mildred Beasley, Paula Vance, and Brenda Bries
+cases, DNA from sperm cells in vaginal swabs matched
+defendant’s profile. Occasionally these samples included some
+“carryover” DNA from the victim’s epithelial cells, but there
+were no other sperm cell contributors. Cellmark also found
+DNA with defendant’s profile in external genital swabs from
+Price, Beasley, Vance, and Bries, and in the anal swabs for
+Beasley and Bries. In the Annette Ernest and Deserae Jones
+cases, sperm cell DNA recovered from the external genital area
+matched defendant’s profile. Cellmark also found DNA with
+defendant’s profile in nipple and anal swabs in the Ernest case
+and in oral and anal swabs in the Jones case. Some external
+
+3
+     The profile used in this analysis was obtained from a blood
+sample defendant submitted after his rape conviction. (See
+§ 1202.1, subd. (a).)
+
+
+                                  7
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+genital samples included DNA from unknown individuals, but
+in all such cases defendant was the primary contributor. Each
+unknown DNA profile appeared in only one victim. Defendant’s
+DNA profile alone recurred in all of the victims.
+      Both laboratories declared a match when DNA sequences
+were the same at all 13 sites examined. LAPD’s DNA Unit
+determined the probability of this match occurring at random
+was one in one quintillion. Cellmark calculated the probability
+of a random match within the Black population group as one in
+6.725 quintillion. A quintillion is rendered as a one followed by
+18 zeroes.
+             4.   Defense Case
+       A third forensics laboratory analyzed the DNA evidence
+for the defense. Unlike the other two laboratories, Technical
+Associates (TA) used the Y-STR test, which isolates male DNA
+by studying sites on the Y chromosome. Because it examines
+only male lineage, the Y-STR test is less powerful than other
+tests, producing random match probabilities of one in thousands
+versus one in quadrillions. It is useful, however, when the
+amount of male DNA in a sample is comparatively small.
+      TA tested samples from all of the victims except Anita
+Fishman, examining 12 loci on the Y chromosome. Defendant
+was considered identified when his DNA profile matched most,
+if not all, of the 12 loci in the sample DNA. Rather than
+describing a correspondence between defendant’s profile and the
+sample as a “match,” the TA criminalist preferred to state that
+defendant could not be excluded as the source of DNA in the
+sample. Because genes examined by the Y-STR test are less rare
+than those in other tests, it was possible another male’s profile
+could overlap defendant’s at some sites.
+
+
+                                   8
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+      TA found DNA consistent with defendant’s profile in
+samples from each of the victims studied. Specifically, DNA
+consistent with defendant’s was found: in the nipple and
+vaginal swabs from Diane Johnson; in the nipple, vaginal, and
+anal swabs from Annette Ernest; in the external genital swab
+from Regina Washington; in the anal swab from Andrea
+Tripplett; in the nipple and anal swabs from Deserae Jones; in
+the external genital, nipple, and anal swabs from Natalie Price;
+in the nipple and anal swabs from Mildred Beasley; in the
+external genital and nipple swabs from Paula Vance; and in the
+external genital swab from Brenda Bries. The Y-STR test
+detected male DNA from unknown contributors in several of the
+samples. No DNA profile other than defendant’s repeated from
+victim to victim.
+      The defense expert testified that sperm cells deposited in
+the vagina are typically expelled within one to two days from a
+living woman. After death, however, bodily processes slow down
+the expulsion. Sperm cells could remain as long as two weeks
+postmortem. Sperm found in a female who had been deceased
+for a day could have been deposited three or four days earlier.
+Even if defendant’s DNA profile was detected at a higher
+concentration than unknown profiles, the finding did not mean
+defendant was necessarily the last person to deposit DNA.
+      The parties stipulated that the defense requested
+discovery of DNA test results for all clothing booked into
+evidence and that neither side conducted such testing.
+     B. Penalty Phase
+            1.   Aggravating Evidence
+      The prosecution presented victim impact evidence relating
+to seven victims. The jury heard from Annette Ernest’s mother,
+
+
+                                  9
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+Andrea Tripplett’s mother, Anita Fishman’s mother and
+younger sister, Deserae Jones’s mother and niece, Regina
+Washington’s daughter, Natalie Price’s daughter, and Mildred
+Beasley’s younger sister and niece. They described the families’
+sorrow at losing their loved ones and their anguish at having the
+cases remain unsolved for so many years.
+      Most of the aggravating evidence concerned defendant’s
+violent conduct in four unrelated incidents: murder, sexual
+assault, felony resisting arrest, and threatening a sheriff’s
+deputy while awaiting trial on the current charges. The
+prosecution also presented evidence of defendant’s conviction for
+the attack on Maria M.
+                 a.     Murder of Elandra Bunn
+      In June 1987, less than three months after Diane
+Johnson’s murder, Elandra Bunn was killed in the Figueroa
+Corridor. Her body had been left in an alley near 88th Street
+and Figueroa. Her pants had been pulled down to her ankles.
+She had “massive facial trauma” and multiple abrasions. The
+injuries were consistent with her face being pushed or dragged
+across a rough surface. She died of strangulation, likely
+manual. Bunn had a history of cocaine abuse, and the drug was
+found in her system. She was in the early stages of pregnancy.
+      Crime scene investigators compiled a sexual assault kit.
+Although it was destroyed in 1996, some evidence was retained,
+including a bloody tissue found four or five feet from the body.
+DNA obtained from the tissue matched defendant’s profile, with
+a random match probability of one in one quintillion.
+                 b.     Sexual Assault of Carla W.
+     After midnight in October 1996, 22-year-old Carla W. was
+walking alone in downtown Los Angeles. A man grabbed her by
+
+
+                                 10
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+the arm and crotch. He tried to pull her into a nearby alley but
+she struggled and screamed. When a patrol car drove by, he
+fled. Later that night, Carla identified defendant as her
+attacker and did so again in court.
+                  c.     Resisting Arrest
+      In March 1997, the police tried to interview defendant
+about a possible parole violation. When two officers came to his
+motel room, defendant answered the door but refused to put his
+hands behind his head for a weapons check. Officers attempted
+to handcuff him but he ran, dragging the officers 10 to 20 yards
+down a hallway and into the parking lot. Kicking one officer
+several times in the chest and leg, he tried to grab the officer’s
+gun, then broke free and fled. When a search dog alerted near
+a woodpile, the officers ordered defendant to emerge. He rose
+from his hiding place then hit the search dog with a nearby
+fiberglass sink. The dog bit him in response. Defendant ran at
+the officers, charging ahead even after being struck with six
+rounds from a beanbag shotgun. Following another violent
+struggle, defendant was finally taken into custody.
+                  d.     Threatening a Deputy
+      In May 2006, while in county jail awaiting trial, defendant
+confronted Deputy Natalie Uyetatsu, the only female deputy
+assigned to his area. Angry because Uyetatsu had put him on
+lockdown, defendant told another inmate he would kill Uyetatsu
+if he was found guilty of the pending charges. The inmate
+thought the threat was serious because defendant seemed to
+hate women.
+             2.   Mitigating Evidence
+     Defendant’s mother, Audrey Turner, described his
+upbringing. She raised defendant alone from the time he was a
+
+
+                                  11
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+year old. She worked full time while a friend watched her son.
+They moved from Arkansas to California when defendant was
+four. He was a fun-loving child but struggled in school, often
+getting into trouble. Defendant went to live with his father in
+Arkansas but returned after a year. His father provided no
+financial or emotional support.
+      When defendant was 14, Ms. Turner had a second son,
+Anthony. Soon thereafter she began working a second job.
+Friends helped with babysitting until Ms. Turner’s father
+arrived to help in 1984. Defendant eventually dropped out of
+high school and worked as a pizza delivery driver. When he was
+17, his mother insisted he leave the home due to his drinking
+and drug use, but she let him return while he recovered from a
+gunshot injury. During that time, defendant treated his mother
+well. He helped her with her cleaning job and cooked and
+cleaned for the family.
+      In 1991, Ms. Turner moved to Salt Lake City. Anthony
+stayed behind to finish the school year, then joined his mother.
+Each summer, Anthony stayed in California with defendant,
+who was his primary caretaker. Defendant warned his brother
+to stay in school and keep out of trouble.
+     Defendant had four children who loved him. He was
+unable to support them because he was often in custody. His
+mother helped raise the children in Salt Lake City.
+                         II. DISCUSSION
+     A. Pretrial Issues
+             1.   DNA Issues
+      The court denied defendant’s pretrial motion under People
+v. Kelly (1976) 17 Cal.3d 24 (Kelly) to exclude evidence about the
+DNA matches and their statistical significance. Defendant now
+
+                                  12
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+makes two related arguments concerning this ruling. First, he
+contends the court erred in admitting random match probability
+numbers because this statistic is not a generally accepted
+measure of significance in “cold hit”4 DNA cases. (See Kelly, at
+p. 30.) Building on this argument, defendant next asserts that
+insufficient evidence supports the guilt verdicts because the jury
+heard no evidence of the rarity of his DNA profile. The first
+argument was rejected in People v. Nelson (2008) 43 Cal.4th
+1242 (Nelson). Defendant does not persuade us that Nelson was
+wrongly decided. Defendant’s second argument fails because, as
+Nelson and other cases have explained, random match
+probability is an expression of a DNA profile’s rarity in the
+population. Because the jury was given this statistic, it was able
+to evaluate the probative value of the DNA matches in
+determining his guilt.
+                 a.     Background
+     “Forensic DNA analysis is a comparison of a person’s
+genetic structure with crime scene samples to determine
+whether the person’s structure matches that of the crime scene
+sample such that the person could have donated the sample.”
+
+
+4
+      A “cold hit case,” sometimes called a “trawl case,”
+colloquially refers to a case in which “the DNA match itself made
+the defendant a suspect, and the match was discovered only by
+searching through a database of previously obtained DNA
+samples.” (Donnelly & Friedman, DNA Database Searches and
+the Legal Consumption of Scientific Evidence (1999) 97 Mich.
+L.Rev. 931, 932.) Cold hit cases may be contrasted with
+traditional “confirmation cases,” in which other types of
+evidence pointed to the defendant as a suspect and warranted
+testing his DNA against crime scene samples. (Ibid.; see Kaye,
+Rounding Up the Usual Suspects: A Legal and Logical Analysis
+of DNA Trawling Cases (2009) 87 N.C. L.Rev. 425, 428 (Kaye).)
+
+
+                                 13
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+(Nelson, supra, 43 Cal.4th at pp. 1257–1258.) As discussed,
+scientists examine specific loci that are highly variable among
+individuals. A match is declared when DNA sequences in the
+samples being compared are identical at all loci. Here,
+prosecution experts found matches between defendant’s DNA
+and crime scene DNA for each victim at 13 different loci.
+Defendant does not dispute the accuracy of this part of the
+analysis.
+      “Once a match is found, the next question is the statistical
+significance of the match.” (Nelson, supra, 43 Cal.4th at
+p. 1258.) This number helps the jury evaluate how much weight
+it should give to evidence of a match. A match would be of little
+significance if the genetic profile were shared by many others in
+the population. (People v. Venegas (1998) 18 Cal.4th 47, 82
+(Venegas).) The concept is frequently explained in terms of “how
+unlikely it is that the crime scene samples came from a third
+party who had the same DNA pattern as the suspect.” (People
+v. Barney (1992) 8 Cal.App.4th 798, 809 (Barney).) In other
+words, the question is: “Given that the suspect’s known sample
+has satisfied the ‘match criteria,’ what is the probability that a
+person chosen at random from the relevant population would
+likewise have a DNA profile matching that of the evidentiary
+sample?” (People v. Soto (1999) 21 Cal.4th 512, 523 (Soto).) The
+smaller the odds that a match could be found at random in the
+relevant population, the greater the evidentiary weight of a
+suspect’s match. (Venegas, at p. 82.)
+      “Experts use a statistical method called the ‘product rule’
+to calculate the rarity of the sample in the relevant population.”
+(Nelson, supra, 43 Cal.4th at p. 1259.) We have discussed this
+calculation in detail previously and need only summarize it
+here. In short, examiners first determine the frequency of
+
+                                 14
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+alleles at each locus using population databases, then multiply
+the frequencies of all loci together, generating a statistic that
+reflects the probability that an individual will have the complete
+profile across all loci studied. (Ibid.; Soto, supra, 21 Cal.4th at
+p. 525.) As in other cases involving a match across many loci,
+application of the product rule here produced “astronomical
+odds” (Nelson, at p. 1259): one in one quintillion according to
+the LAPD expert, and one in 6.725 quintillion according to the
+Cellmark expert. Earth’s total population at the time of trial
+was around six and a half billion people.
+       Under the Kelly test, when expert testimony relies on “ ‘a
+new scientific technique,’ ” the proponent must establish “that
+the technique is ‘ “sufficiently established to have gained
+general acceptance in the particular field to which it belongs” ’
+(quoting Frye [v. United States (D.C. Cir. 1923)] 293 F. [1013,]
+1014, italics omitted).” (Venegas, supra, 18 Cal.4th at p. 76; see
+Kelly, supra, 17 Cal.3d at p. 30.) Reliability need not be
+relitigated in every case. “[O]nce a trial court has admitted
+evidence based upon a new scientific technique, and that
+decision is affirmed on appeal by a published appellate decision,
+the precedent so established may control subsequent trials, at
+least until new evidence is presented reflecting a change in the
+attitude of the scientific community.” (Kelly, at p. 32.)
+      We have considered whether evidence calculated by the
+product rule satisfies Kelly’s reliability requirement in several
+cases. Venegas held that a modified version of the product rule
+known as the interim ceiling principle was “ ‘artificially
+conservative,’ ” yet it was a generally accepted method for
+calculating the significance of a DNA match while also
+compensating for any possible effect caused by population
+substructuring. (Venegas, supra, 18 Cal.4th at p. 89; see
+
+                                 15
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+Barney, supra, 8 Cal.App.4th at pp. 814–816.)5 Soto determined
+concerns about population substructuring had been laid to rest
+by later scientific developments and held that use of the
+unmodified product rule is generally accepted in the relevant
+scientific community as a means of expressing the significance
+of a DNA match. (Soto, supra, 21 Cal.4th at pp. 515–516.) Most
+recently, Nelson held that the admissibility of evidence based on
+the product rule in a cold hit case “is a question of relevance, not
+scientific acceptance,” thus obviating the need for a Kelly
+inquiry. (Nelson, supra, 43 Cal.4th at p. 1260.) We further held
+that the product rule provides relevant and admissible evidence
+in cold hit cases. (Ibid.)
+                  b.    Admissibility of Random Match
+                 Statistics
+     Defendant was initially identified as a suspect based on
+cold hits in the state’s database of convicted offenders.6
+
+
+5
+       In the early days of forensic DNA analysis, population
+geneticists were concerned that nonrandom mating within
+subgroups would undermine the product rule’s assumption that
+alleles at different loci were statistically independent. (See
+Barney, supra, 8 Cal.App.4th at p. 815.)
+6
+       No information about the database search was presented
+at trial. In an early court appearance, the prosecutor explained
+how defendant was identified. When DNA samples preserved
+from various unsolved cases were uploaded to the state’s
+offender database, defendant’s profile was found to match crime
+scene evidence in the Beasley and Vance cases. After learning
+of the matches, investigators identified approximately 25
+unsolved murder cases with preserved biological evidence that
+appeared to be sexually motivated killings of women in the
+geographic region where defendant “either lived, worked[,] or
+was known to associate.” DNA evidence from these cases was
+then uploaded to the database, and eight more matches were
+made to defendant’s profile. The Attorney General argues this
+
+                                  16
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+Renewing the arguments we rejected in Nelson, he claims the
+random match probability statistic generated by the product
+rule does not accurately convey the significance of a DNA match
+derived from searching an offender database. He also disputes
+the relevance of this statistic in the cold hit context. Because
+defendant insists Nelson was wrongly decided, we discuss that
+case in some detail.
+      Nelson was identified as a suspect when DNA evidence
+from a 26-year-old murder was uploaded to the state’s offender
+database.     (Nelson, supra, 43 Cal.4th at pp. 1248–1249.)
+Further testing confirmed the database match. (Id. at p. 1249.)
+At Nelson’s trial, the prosecution expert testified that the 15-loci
+match profile would occur at random in only one in 950 sextillion
+African-Americans, one in 130 septillion Caucasians, or one in
+930 sextillion Hispanics. (Ibid.)7 Challenging these statistics,
+Nelson conceded the product rule is a generally accepted method
+for calculating the odds of a random match when a suspect’s
+DNA is compared to crime scene evidence. (See Soto, supra, 21
+Cal.4th at p. 541.) But he argued scientists disagree as to
+whether the method is an appropriate way to assess the
+significance of a match when the suspect is not identified at
+random but is instead found through a database search.
+
+
+
+is not a pure cold hit case because the second database search
+was conducted after other evidence pointed to defendant as a
+suspect. Even so, we address defendant’s arguments because it
+is clear the initial identification was based exclusively on a
+database match.
+7
+      The LAPD DNA Unit did not report random match
+probabilities broken down by racial population subgroups.
+Defendant does not argue this omission was error, nor does he
+contend the distinction alters Nelson’s force as precedent here.
+
+
+                                  17
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+(Nelson, at pp. 1259–1260.)           Defendant makes the same
+argument here.
+      The challenges are premised on the idea that reported
+statistics should avoid “ ‘ascertainment bias,’ ” which can result
+when repeated testing of a hypothesis imbues a particular result
+with more significance than it warrants. (Kaye, supra, 87 N.C.
+L.Rev. at p. 454.) For example, while the odds of winning a
+lottery are very small, a winner will likely be found if everyone
+who actually bought a lottery ticket is considered. (See 4
+Faigman et al., Modern Scientific Evidence: The Law and
+Science of Expert Testimony (2019–2020 ed.) § 30:20) “The
+probability [of winning], while remote, is not impossible, and
+looking in a pool of people, rather than just picking a person at
+random, affects the likelihood that you will find what you are
+looking for.” (Ibid.) Ascertainment bias also describes “the bias
+that exists when one searches for something rare in a set
+database.” (U.S. v. Jenkins (D.C. 2005) 887 A.2d 1013, 1018–
+1019 (Jenkins).)8 In the DNA context, for example, “if the
+frequency of a given profile is expected to occur in 1 out of every
+100,000 people, the chances of finding a match increase if one
+searches a database with 50,000 entries versus a database with
+only 10 entries.” (Jenkins, at p. 1018, fn. 8.)
+      Four methods have been proposed for expressing the
+statistical significance of a match following a database search.
+Only three need be considered here.9 One method, the random
+
+8
+      While the Jenkins opinion is not binding precedent, we
+find its analysis persuasive and its explanations of these
+complex concepts helpful.
+9
+      One proposal is not a statistical calculation but a different
+approach to testing. The first National Research Council report
+on forensic DNA analysis suggested ascertainment bias could be
+
+                                 18
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+match probability statistic, is calculated by the unmodified
+product rule, which calculates the rarity of a match in the
+population. (Nelson, supra, 43 Cal.4th at p. 1261; see Soto,
+supra, 21 Cal.4th at pp. 515–516.) An alternative proposal
+begins with the rarity of the profile in the general population,
+the statistic generated by the product rule, then multiplies that
+number by the number of profiles in the database searched.
+(Nat. Research Council, DNA Technology in Forensic Science
+(1996) pp. 134–135.) The result reflects the probability of
+finding a match in a particular database and is frequently called
+the database match probability. (See Nelson, at p. 1262;
+Jenkins, supra, 887 A.2d at p. 1020.) By definition, it will
+always be a larger number than the rarity statistic alone, and
+thus more favorable to the defendant. The last approach, often
+called the Balding-Donnelly or Bayesian method, differs from
+the others in its premise that a database match is more
+significant than a confirmatory match. This model reasons that
+a database search not only identifies a match but also
+“simultaneously eliminates other profiles as being the source of
+
+
+
+
+avoided by using one set of loci to identify a suspect in a
+database and then examining a different set of loci to confirm
+the match. (Nat. Research Council, DNA Technology in
+Forensic Science (1992) p. 124.) Because this approach would
+use fewer loci than actually matched in determining
+significance, product rule calculations would result in shorter,
+perhaps “unnecessarily conservative,” odds. (Nelson, supra, 43
+Cal.4th at p. 1261.) Defendant does not challenge Nelson’s
+observation that this approach “ ‘is no longer accepted or
+followed by the relevant scientific community.’ ” (Id. at p. 1262,
+quoting Jenkins, supra, 887 A.2d at p. 1022, fn. 17.)
+
+
+                                 19
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+the sample,” thus increasing the likelihood the identified person
+is the actual source. (Jenkins, at p. 1020.)10
+       After reviewing these different approaches, Nelson
+observed that while there was “some disagreement among
+experts as to which of these methods is the best, i.e., the most
+probative, way to judge the significance of a cold hit” from a
+database search, “the question before us is not what technique
+is ‘best,’ but whether use of the product rule in a cold hit case is
+permissible.” (Nelson, supra, 43 Cal.4th at p. 1263.) The
+product rule had already been approved as a reliable method for
+calculating the rarity of a DNA profile in the relevant population
+(see Soto, supra, 21 Cal.4th at pp. 515–516), and we observed
+that the rule’s use in a cold hit case did not convert it into a new
+scientific technique requiring further Kelly scrutiny. (Nelson, at
+pp. 1263–1264.) On the contrary, the real questions here
+
+
+10
+       Professor Kaye illustrates this reasoning by contrasting a
+database trawl with a hypothetical drug company that conducts
+20 clinical trials and achieves success in only one, but then
+reports that one success “as if there had been no search.” (Kaye,
+supra, 87 N.C. L.Rev. at p. 469.) In the drug trial context, “the
+omitted information contradicts the company’s claim of
+therapeutic effectiveness. In contrast, if all the other clinical
+trials were consistent with the company’s claim, the failure to
+mention them would not prejudice the case for approving the
+drug. The trawl case is similar to a series of successful clinical
+trials . . . . The additional evidence — that everyone else in the
+database is excluded — is consistent with the claim of
+defendant’s guilt. The lack of other hits in the database trawl
+therefore has an effect opposite to that of the lack of other
+significant differences in the clinical trials.       It supplies
+compatible rather than contradictory data.” (Ibid., italics
+added.) According to this reasoning, ascertainment bias is not
+a problem that needs correction in database search cases. (Id.
+at pp. 469–472.)
+
+
+                                  20
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+concern relevance, not the reliability of methodology. (Id. at
+p. 1264.) As the Jenkins court explained: “At the heart of this
+debate is a disagreement over the competing questions to be
+asked, not the methodologies used to answer those questions.
+The rarity statistic, the database match probability, and the
+Bayesian approach each answer unique and potentially relevant
+questions. More importantly, there is no controversy in the
+relevant scientific community as to the accuracy of the various
+formulas. In other words, the math that underlies the
+calculations is not being questioned.        Each approach to
+expressing significance of a cold hit DNA match accurately
+answers the question it seeks to address. The rarity statistic
+accurately expresses how rare a genetic profile is in a given
+society. Database match probability accurately expresses the
+probability of obtaining a cold hit from a search of a particular
+database.       Bayesian analysis accurately expresses the
+probability that the person identified through the cold hit is the
+actual source of the DNA in light of the fact that a known
+quantity of potential suspects was eliminated through the
+database search. These competing schools of thought do not
+question or challenge the validity of the computations and
+mathematics relied upon by the others. Instead, the arguments
+raised by each of the proponents simply state that their
+formulation is more probative, not more correct. Thus, the
+debate . . . is one of relevancy, not methodology . . . .” (Jenkins,
+supra, 887 A.2d at pp. 1022–1023, fn. omitted, italics added; see
+Nelson, at p. 1264.)
+      Relevant evidence is that “having any tendency in reason
+to prove or disprove any disputed fact.” (Evid. Code, § 210.)
+Generally, all relevant evidence is admissible unless otherwise
+provided by statute. (Evid. Code, § 351.) If admitted, the trier
+
+
+                                  21
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+of fact determines the weight it gives to that evidence. Two
+sources of relevant evidence may potentially conflict or lead to
+opposite conclusions. Evidence may be relevant but found
+unpersuasive. A jury hearing competing relevant evidence will
+ultimately have to determine what weight, if any, to give each.
+“Relevance” describes whether evidence should be heard
+because it might reasonably resolve a dispute. “Weight”
+describes the degree to which the jury finds the evidence
+probative.
+       “Relevancy is a legal issue for courts to answer.” (Nelson,
+supra, 43 Cal.4th at p. 1265.) While deference to scientists is
+appropriate on scientific questions, determining the relevance of
+evidence “ ‘is a hallmark responsibility of the trial judge and
+that responsibility is not appropriately delegated to parties
+outside the court.’ (Jenkins, supra, 887 A.2d at p. 1025.)” (Id.
+at p. 1265.) Nelson concluded the statistical rarity of the DNA
+profile, calculated by the product rule, is relevant in cold hit
+cases. (Id. at p. 1267.) We see no basis to depart from that
+conclusion. To be sure, a defendant remains free to present
+evidence that the product rule statistic should be given less
+weight because some experts have concerns about its persuasive
+value due to ascertainment bias. But defendant did not attempt
+to do so here, nor did he offer evidence of an alternative measure
+of statistical significance, such as database match probability.11
+
+
+11
+      Nelson left open the possibility that database match
+probability might also be admissible in an appropriate case.
+(Nelson, supra, 43 Cal.4th at p. 1267, fn. 3.) Defendants may
+indeed seek to introduce such evidence, particularly in cases
+where the database searched was especially large. As with the
+other measures of statistical significance, the trial court may, of
+course, consider an Evidence Code section 352 objection that the
+
+                                 22
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+                        i.     Applicability of the Kelly Test
+      Defendant first asserts that Nelson misapplied California
+law because, contrary to Venegas and Soto, the court exempted
+a category of DNA statistics from Kelly analysis despite an
+ongoing scientific controversy. This argument misconstrues
+both our prior precedents and Nelson’s holding. The issue in
+Venegas and Soto was whether the product rule was a reliable
+measure of a DNA profile’s rarity or whether some modification
+was needed to account for population substructuring and other
+issues. But, critically, both the unmodified product rule and the
+modified ceiling approach are statistical formulae designed to
+answer the same question: How frequently can we expect a
+specific profile to appear in the relevant population? As
+discussed, the alternative statistical models proposed for cold
+hit cases are each answering a different question. We adhere to
+the view that admissibility of the random match statistic in
+these cases presents an issue of relevance, not scientific
+reliability.
+       Defendant argues Nelson misconstrued the scientific
+debate. He contends the issue is not one of legal relevance but
+of science, because the various methodologies all seek to answer
+the question: What is the correct way to statistically account for
+ascertainment bias? Defendant merely repeats the arguments
+made in Nelson. It is evident that experts disagree about what
+information would be most helpful to the factfinder in
+evaluating a cold hit DNA match. Frequentists believe juries
+should be told the probability of finding a match in the offender
+
+
+relevance of the database match probability statistic is
+outweighed by a substantial possibility of juror confusion or
+undue consumption of time.
+
+
+                                 23
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+database because the database trawl makes the match to the
+defendant less significant. (See Kaye, supra, 87 N.C. L.Rev. at
+p. 460.) Bayesians believe the database match itself “has
+considerable probative value” and does not reduce the
+significance of the match to the defendant. (Id. at p. 471.) But,
+as Nelson observed, the dispute among these statisticians
+concerns not which information is correct, but which
+information is “the best, i.e., the most probative, way to judge
+the significance of a cold hit.” (Nelson, supra, 43 Cal.4th at
+p. 1263.) Relevance, and hence admissibility, is a question for
+the court. (Id. at p. 1265.) Probative value, or weight, is an issue
+for the jury to decide.
+      Defendant’s renewed arguments do not persuade us that
+a Kelly hearing was required. He cites no case agreeing with his
+position. It appears all published decisions considering the
+issue have concluded the product rule statistic is admissible in
+cold hit cases without a Kelly hearing or the equivalent. (See
+U.S. v. Davis (D.Md. 2009) 602 F.Supp.2d 658, 676–677;
+Commonwealth v. Bizanowicz (2011) 459 Mass. 400, 407–409
+[945 N.E.2d 356, 362–363]; State v. Bartylla (Minn. 2008) 755
+N.W.2d 8, 20; Jenkins, supra, 887 A.2d at pp. 1023–1025; see
+also Crews v. Johnson (W.D.Va. 2010) 702 F.Supp.2d 618, 639
+[opining that database match probability should also have been
+admitted, but finding no error in admission of product rule’s
+rarity statistic because it was “clearly probative of guilt”].)
+Indeed, the Massachusetts Supreme Judicial Court
+persuasively observed that excluding evidence of the rarity
+statistic would eviscerate the purpose for which offender
+databases have been created. (Bizanowicz, at p. 408.) “DNA
+evidence from convicted offenders whose DNA is stored in a
+CODIS [(Combined DNA Index System)] database could never
+
+
+                                  24
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+be used at trial unless it was obtained without using the CODIS
+database.” (Id. at pp. 408–409.)
+      Nor are we persuaded that the denial of a Kelly hearing
+was erroneous because of the trial court’s reasoning. The court
+found it significant that the database match here was confirmed
+by later testing, comparing the cold hit to a confidential
+informant who initiates the investigation of a particular subject.
+Similar reasoning appeared in People v. Johnson (2006) 139
+Cal.App.4th 1135, where the Court of Appeal observed that a
+“database search merely provides law enforcement with an
+investigative tool, not evidence of guilt.” (Id. at p. 1150.)
+Reasoning that proof of guilt depends upon the confirmatory
+match between a defendant’s profile and that of the perpetrator,
+the court concluded a defendant’s initial identification “as a
+possible suspect based on a database search simply does not
+matter.” (Id. at p. 1151.) The trial court disclaimed reliance on
+Johnson, which was not yet final at the time of its ruling.
+Nevertheless, defendant argues Johnson was wrongly decided
+and could not properly support denial of a Kelly hearing. We
+need not consider the validity of Johnson’s holding. Our task is
+to review the trial court’s ruling, not its reasoning. “ ‘No rule of
+decision is better or more firmly established by authority, nor
+one resting upon a sounder basis of reason and propriety, than
+that a ruling or decision, itself correct in law, will not be
+disturbed on appeal merely because given for a wrong reason. If
+right upon any theory of the law applicable to the case, it must
+be sustained regardless of the considerations which may have
+moved the trial court to its conclusion.’ ” (D’Amico v. Board of
+Medical Examiners (1974) 11 Cal.3d 1, 19.) The court’s ruling
+here was sound.
+
+
+
+                                  25
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+                         ii.    Relevance of the Profile’s Rarity
+      Defendant also disagrees with Nelson’s holding that the
+generally accepted product rule statistic is relevant in cold hit
+cases. Our discussion of this issue relied heavily on Jenkins,
+supra, 887 A.2d 1013. First, Nelson agreed with Jenkins that
+“in a non-cold-hit case, the number derived from the product
+rule ‘represents two concepts: (1) the frequency with which a
+particular DNA profile would be expected to appear in a
+population of unrelated people, in other words, how rare is this
+DNA profile (“rarity statistic”), and (2) the probability of finding
+a match by randomly selecting one profile from a population of
+unrelated people, the so-called “random match probability.” ’
+(Jenkins, [] at p. 1018.)” (Nelson, supra, 43 Cal.4th at p. 1266.)
+The government in Jenkins had conceded that when a match is
+the result of a database search, the number derived from the
+product rule is no longer an accurate expression of the
+probability of finding a matching profile by chance. (Ibid.; see
+Jenkins, at p. 1018 & fn. 7.) This is essentially the same
+argument defendant makes here.               Even accepting the
+government’s concession that random match probability was not
+an applicable principle in cold hit cases, Jenkins explained that
+the “same product rule number . . . still accurately expresses the
+rarity of the DNA profile.” (Jenkins, at p. 1018, fn. 7.) Although
+the database search might alter the probability of finding a
+match, it does not change how rare a specific profile is among
+humans. (See Nelson, at pp. 1266–1267; Jenkins, at pp. 1018–
+1019.) We held that this expression of rarity is relevant in cold
+hit cases just as it is when the defendant has been identified by
+other means. (Nelson, at p. 1267.)
+    Defendant contends the rarity statistic loses all relevance
+when there has been a database search. That argument fails.
+
+                                  26
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+In light of “modern DNA technology and statistical methods,”
+the rarity of a matching profile is relevant no matter how the
+suspect was first located. (Nelson, supra, 43 Cal.4th at p. 1267.)
+If a profile is extremely rare, as is increasingly likely the more
+loci are examined, “[i]t is relevant for the jury to know that most
+persons of at least major portions of the general population could
+not have left the evidence samples.” (People v. Wilson (2006) 38
+Cal.4th 1237, 1245.) The rarity of the evidence profile has a
+tendency to prove that the defendant, who has a matching
+profile, was the source of the evidence at the crime scene. This
+test for relevance is met regardless of how the defendant was
+first identified. The product rule statistic “refer[s] to the
+perpetrator’s profile and [is] therefore . . . unaffected by any
+particular defendant or suspect.” (People v. Xiong (2013) 215
+Cal.App.4th 1259, 1274 (Xiong).) It informs the jury “how few
+people are likely to have this profile.” (Ibid.) The product rule
+statistic therefore provides relevant evidence, although its
+admissibility, as with all relevant evidence, may be subject to an
+Evidence Code section 352 analysis.
+      Defendant contends random match probability is not
+relevant in cold hit cases because a match resulting from a
+database search is not “random.” Whereas random match
+probability is appropriate if only one person is tested, defendant
+insists the statistic is inapt when a potentially large number of
+profiles are tested in a database trawl. This argument focuses
+on the odds of finding a match in a database, relying on the
+assertion that the more profiles are compared against the
+evidence sample, the greater the likelihood a match will
+ultimately be found. The assertion may be accurate, but it does
+not assist defendant here. If a suspect’s profile is compared to a
+database of 10, it may be quite unlikely that the suspect’s profile
+
+
+                                 27
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+will happen to match one of those 10 profiles. But if the
+database is expanded to 10,000, the chances of a successful
+match increase because there are more opportunities for a
+match. That the opportunities for a match increase as the
+database size grows does not mean the database trawl itself
+injects error, nor does it cast doubt on the fact that the suspect’s
+DNA has been found to match crime scene evidence.
+      When the random match probability statistic is very
+small, such as the one in one quintillion figure calculated by the
+LAPD’s DNA Unit in this case, the probability of finding a match
+in an offender database will generally not be germane to an
+issue the jury must decide.12 In such cases, the relevance of
+asking how likely it is that someone in the database committed
+the crime is eclipsed by the issue of how likely it is that someone
+other than the defendant could have been the source of the
+evidence samples. This latter question is addressed by a
+statistic that measures the prevalence of a DNA profile in the
+entire population of potential suspects. (See Xiong, supra, 215
+Cal.App.4th at pp. 1274–1275.) Thus, the statistic generated by
+the product rule, which describes the rarity of the DNA profile
+
+
+12
+      We reaffirm, however, that trial courts have discretion to
+permit evidence of database match probability in an appropriate
+case.    Database match probability is relevant in some
+circumstances.     For example, a profile’s random match
+probability may be relatively high if a degraded crime scene
+sample provides only a few loci for testing. In such a case, there
+is a significant chance that a “match” based on those few loci
+could be found in a large database by coincidence, even though
+the individual had nothing to do with the crime. (Chin et al.,
+Forensic DNA Evidence: Science and the Law (The Rutter
+Group 2019) § 5:4.) Database match probability is a way of
+conveying this concept.
+
+
+                                  28
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+shared by the perpetrator and the defendant, is relevant even in
+cold hit cases. (Chin et al., Forensic DNA Evidence: Science and
+the Law, supra, § 5:4.) Of course, defendants remain free to
+challenge the probative value of this statistic through
+objections, cross-examination, or the introduction of other
+evidence, such as database match probability, and trial courts
+may give clarifying jury instructions when appropriate.
+                 c.    Sufficiency of Evidence Regarding DNA
+                Profile Rarity
+       Building on his previous arguments, defendant claims
+insufficient evidence supports the verdicts because the jury only
+heard evidence of random match probability, not rarity. It is
+true that the prosecution experts typically described statistical
+significance in terms of “the probability of a random match of
+unrelated individuals.”      But this information did convey
+essential facts about the significance of the matches between
+defendant’s profile and crime scene DNA. The rarity of a DNA
+profile and random match probability are two different ways of
+expressing the meaning of the same statistic calculated using
+the product rule, and it is ultimately the statistic that is
+relevant. (See Nelson, supra, 43 Cal.4th at p. 1266.) Defendant
+incorrectly asserts that Nelson disapproved use of random
+match probability in cold hit cases. Nelson recited the Jenkins
+court’s observation that “ ‘the product rule number no longer
+accurately expresses the random match “probability” ’ ” in cold
+hit cases. (Nelson, at p. 1266, quoting Jenkins, supra, 887 A.2d
+at p. 1018, fn. 7.) But the statement simply acknowledged that
+the defendant in a cold hit case has been identified by a database
+search and not selected “at random.” Although the concept of
+“random match probability” is not directly applicable when the
+defendant has been identified by a database search, and the
+
+
+                                 29
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+defendant may point this out at trial, the statistic generated by
+the product rule continues to have relevance in cold hit cases
+because it expresses rarity. Nelson did not suggest otherwise.
+On the contrary, Nelson held, and we reaffirm, that the statistic
+generated by the product rule provides relevant and admissible
+evidence in cold hit as well as confirmatory match cases.
+(Nelson, at pp. 1266–1267.)13
+      Here, one expert told the jury that the probability a
+random person, unrelated to defendant, would match DNA left
+at each crime scene was one in one quintillion. Another expert
+set the probability at one in 6.725 quintillion. Even though
+phrased in “random match” language, the point of these product-
+rule-derived statistics was clearly to convey the rarity, if not
+uniqueness, of the 13-loci profile. The evidence was properly
+admitted and constitutes substantial evidence in support of the
+verdicts.
+            2.   Excusal of Prospective Jurors for Cause
+      Defendant next argues two prospective jurors were
+improperly dismissed from the venire based on their views about
+the death penalty. The dismissals were permissible.
+     Criminal defendants have a constitutional right to an
+impartial jury, and “a prospective juror’s personal views
+
+
+13
+      Trial courts and parties have tools available to address
+any possible confusion arising from the use of “random match”
+terminology in cold hit cases. If there is a risk jurors might
+mistakenly think the defendant was identified at random,
+rather than from a database search, the concept can be clarified
+through cross-examination, additional evidence, and/or jury
+instructions. Defendant did not object on this ground below, nor
+did he seek to present evidence about the database searches by
+which he was located.
+
+
+                                 30
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+concerning the death penalty do not necessarily afford a basis
+for excusing the juror for bias.” (People v. Martinez (2009) 47
+Cal.4th 399, 425 (Martinez).) Instead, consistent with the
+constitutional imperative, prospective jurors may be dismissed
+for cause only if their views on capital punishment “ ‘would
+“ ‘prevent or substantially impair’ ” the performance of [their]
+duties as defined by the court’s instructions and [their] oath.’
+(People v. Cunningham (2001) 25 Cal.4th 926, 975; see
+Wainwright v. Witt (1985) 469 U.S. 412, 424; Witherspoon v.
+Illinois (1968) 391 U.S. 510, 521–522.)” (People v. Winbush
+(2017) 2 Cal.5th 402, 424 (Winbush).) A prospective juror’s bias
+against the death penalty need not be shown with unmistakable
+clarity. (People v. Abilez (2007) 41 Cal.4th 472, 497.) “Jurors
+commonly supply conflicting or equivocal responses to questions
+directed at their potential bias or incapacity to serve.”
+(Martinez, at p. 426.) Indeed, “many prospective jurors ‘simply
+cannot be asked enough questions to reach the point where their
+bias has been made “unmistakably clear”; these [prospective
+jurors] may not know how they will react when faced with
+imposing the death sentence, or may be unable to articulate, or
+may wish to hide their true feelings.’ ” (People v. Beck and Cruz
+(2019) 8 Cal.5th 548, 607 (Beck and Cruz).) Nevertheless, a
+dismissal for cause is appropriate if, “after examining the
+available evidence, . . . the trial court [is] left with a definite
+impression that the prospective juror is unable or unwilling to
+faithfully and impartially follow the law.” (People v. Thompson
+(2016) 1 Cal.5th 1043, 1066 (Thompson).)
+      Our review in this area is necessarily deferential because
+“the trial court, through its observation of the juror’s demeanor
+as well as through its evaluation of the juror’s verbal responses,
+is best suited to reach a conclusion regarding the juror’s actual
+
+
+                                 31
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+state of mind.” (People v. Jones (2012) 54 Cal.4th 1, 41; see
+Uttecht v. Brown (2007) 551 U.S. 1, 7.) In applying deferential
+review, “appellate courts recognize that a trial judge who
+observes and speaks with a prospective juror and hears that
+person’s responses (noting, among other things, the person’s
+tone of voice, apparent level of confidence, and demeanor),
+gleans valuable information that simply does not appear on the
+record.” (People v. Stewart (2004) 33 Cal.4th 425, 451 (Stewart).)
+Accordingly, the trial court’s determination as to the juror’s true
+state of mind is binding on appeal if supported by substantial
+evidence. (Thompson, supra, 1 Cal.5th at p. 1066; Martinez,
+supra, 47 Cal.4th at pp. 426–427.)
+                  a.    Prospective Juror No. 4
+      In her jury questionnaire, Prospective Juror No. 4 said she
+was moderately in favor of the death penalty, and her responses
+evinced a general willingness to impose death in an appropriate
+case. When asked to consider this particular case, however, the
+juror’s confidence faltered. The questionnaire asked whether,
+depending on the evidence and circumstances presented, jurors
+could impose the death penalty in a case involving a multiple
+murder allegation. Instead of circling “yes” or “no,” Prospective
+Juror No. 4 wrote “possibly.” The court probed this response in
+voir dire, asking whether the juror could impose the death
+penalty in a case involving allegations of multiple murder and
+murder in the course of a rape. She responded, “I’d have to hear
+everything,” and “I am open.” However, after the court finished
+its question with the phrase “could you actually vote for death,”
+Prospective Juror No. 4 said, “I would not vote for death.” The
+questioning continued:
+      “THE COURT:       I’m sorry. You would not?
+
+
+
+                                 32
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+     “PROSPECTIVE JUROR NO. 4: No. I’d have to listen to
+everything and, you know, get an understanding and the good
+and the bad and all of that.
+      “THE COURT:       All right.
+      “PROSPECTIVE JUROR NO. 4:              And it would be a hard
+decision to say now.
+     “THE COURT: There are some people that believe in the
+death penalty, support it but cannot participate in the process.
+      “PROSPECTIVE JUROR NO. 4:              Right.
+     “THE COURT: Is that you? You could not vote for death,
+no matter what the evidence is in the penalty phase?
+      “PROSPECTIVE JUROR NO. 4:              Possibly, yeah.”
+     Later in voir dire, the prosecutor explained that there is
+no burden of proof at the penalty phase, but jurors must make
+“a moral decision and . . . a choice.” She then asked Prospective
+Juror No. 4 about her ability to make such a choice:
+      “MS. DO: And so given some of the reluctance that I’m
+seeing in you, knowing that it’s a choice, do you think that if you
+have the option of giving a person, a human being[,] life without
+parole, that you would always choose that?
+       “PROSPECTIVE JUROR NO. 4: I have a hard time
+putting someone to death. Most likely my choice would be the
+life in prison.
+      “MS. DO: Okay.
+     “PROSPECTIVE JUROR NO. 4:               I would have a hard
+time with the other.
+
+
+
+
+                                 33
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+      “MS. DO: All right. So do you think that you might, if
+we get to penalty phase, walk in predisposed to life without
+parole?
+     “PROSPECTIVE JUROR NO. 4:               Most likely, yes.
+     “MS. DO: Okay. And would the prosecution have quite a
+burden to prove to you that death would be appropriate to
+overcome that predisposition?
+     “PROSPECTIVE JUROR NO. 4:               Yeah.”
+      In granting the prosecution’s motion to dismiss
+Prospective Juror No. 4, the court remarked that it had noticed
+the juror’s “body language as she was answering the questions,
+and she seemed to be very tightly drawn, is what I would say.
+That’s a bad description, but not open and free with her feelings
+about it but somewhat defensive about it.” Although the juror
+had said on the questionnaire that she could “possibly” impose
+the death penalty, in oral questioning she made it “awfully
+clear,” in the court’s opinion, that she would not actually do so.
+Based on the juror’s demeanor and responses in voir dire, the
+court concluded “she would not fairly impose the death penalty.”
+       Substantial evidence supports this decision. Although the
+juror may have supported the death penalty in theory, her voir
+dire responses made it clear she felt great reluctance about
+actually voting to impose it. We considered a similar record in
+People v. Solomon (2010) 49 Cal.4th 792 (Solomon). There, we
+deferred to the trial court’s finding of substantial impairment
+regarding a prospective juror who expressed support for the
+death penalty in her questionnaire but later equivocated about
+whether she could ultimately vote to sentence someone to death.
+(Id. at pp. 835–836.) Similarly, in People v. Cunningham, supra,
+25 Cal.4th at page 981, we upheld the dismissal of a prospective
+
+
+                                 34
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+juror who said “she believed in the death penalty and would like
+to see it applied more often but was not certain whether
+personally she could vote for it.”
+      Deference to the court’s finding of substantial impairment
+is particularly appropriate here because the court expressly
+based its ruling, in part, on the juror’s “tightly drawn” and
+“defensive” body language. (See People v. Manibusan (2013) 58
+Cal.4th 40, 73.) This demeanor, combined with the juror’s
+repeatedly expressed doubts about whether she could impose a
+death sentence, could support a “definite impression” that the
+juror would be unwilling or unable “to faithfully and impartially
+apply the law.” (Wainwright v. Witt, supra, 469 U.S. at p. 426;
+see People v. Nunez and Satele (2013) 57 Cal.4th 1, 24.)
+       Stewart, supra, 33 Cal.4th 425 does not compel a different
+result. There, we held it was error to dismiss jurors based solely
+on brief written comments and a check mark next to a box
+indicating their views “would either ‘prevent or make it very
+difficult’ ” to impose the death penalty. (Id. at p. 446.) Here, the
+court and prosecutor explored Prospective Juror No. 4’s views in
+greater detail. While it is true that a prospective juror is not
+disqualified merely because she would find it difficult to impose
+the death penalty (id. at pp. 446–447), Prospective Juror No. 4’s
+responses to oral questioning indicated not only that she would
+have difficulty with the decision but also that she would be
+predisposed to voting for a life sentence, regardless of the
+evidence presented. Nor is this case like People v. Pearson
+(2012) 53 Cal.4th 306, 332, in which the court improperly
+dismissed a prospective juror who had no strong views on the
+death penalty and gave no indication she would be unable to
+perform her duty as a capital juror. The juror’s responses here
+indicated she would not be able to impartially apply the law.
+
+                                  35
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+                  b.     Prospective Alternate Juror No. 1
+      Prospective Alternate Juror No. 1’s questionnaire
+responses consistently expressed personal opposition to capital
+punishment.14 He checked a box indicating he was strongly
+against the death penalty and wrote, “I’m not for death penalty”
+in response to the question whether he would always vote guilty
+to reach the penalty phase in a capital case. He wrote that he
+was “not sure” what purpose the death penalty serves and that
+he did not feel it should be used. When asked whether he could
+impose the death penalty in a case involving multiple murder,
+the juror circled “yes” and wrote, “I will perform my civi[c] duty
+but I’m not for it.” He reported that his religious organization
+was “anti death penalty” and, though he felt obligated to accept
+that view, he could “do what I’m ask[ed] to do” regardless of his
+views.     Finally, he agreed somewhat that people who
+intentionally kill should never get the death penalty, explaining,
+“I’m not for the death of anyone.”
+       In voir dire, the court asked whether Prospective
+Alternate Juror No. 1 would always vote against the death
+penalty, regardless of the evidence. The juror responded, “Not
+always, but I’d say if it was on a scale, it would be more towards
+life than death.” When the court asked if he was open to voting
+for death, the juror said, “If I have to, . . . I will follow the
+instructions,” but in his “personal view,” he “would lean towards
+life.” When pressed about whether he could realistically ever
+see himself voting for death, the juror responded, “Not really,”
+
+
+14
+     Because an alternate juror was selected at random and
+seated early in the trial, it does not appear that any error in this
+excusal would have been harmless. (See People v. Bryant, Smith
+and Wheeler (2014) 60 Cal.4th 335, 399, fn. 19.)
+
+
+                                  36
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+and “it would be kind of tough for me.” Nevertheless, he stated
+that he could perform his duty as a juror and could vote for death
+if the penalty was warranted.
+      The prosecutor asked whether, given his religious and
+moral opposition to the death penalty, Prospective Alternate
+Juror No. 1 could “make a decision that would end a man’s life.”
+The juror responded, “I’m not sure if I could do that,” adding
+that he might not be able to vote for death if the defendant’s
+family members were present. The prosecutor explained that
+there might be family members in the audience but asked again
+whether, regardless of family members, the juror could vote for
+death.15 Again, he answered, “I’m not sure.”
+      The court granted the prosecutor’s cause challenge.
+Although the juror said he would “do his duty,” the court found
+his answers indicated he would not be able to vote for death,
+“especially if there were any people in the courtroom related to
+the defendant.” As with Prospective Juror No. 4, this dismissal
+is supported by substantial evidence. We recently upheld the
+dismissal of a prospective juror who expressed similar doubts
+about her ability to impose the death penalty. (Beck and Cruz,
+supra, 8 Cal.5th at p. 607.) When a prospective juror repeatedly
+says he does not know whether he could realistically impose the
+death penalty, we will not second-guess the trial court’s
+
+
+
+
+15
+     Defendant argues it was “improper” for the prosecutor to
+probe the juror’s ability to announce a death verdict in front of
+family members. We have repeatedly approved similar lines of
+questioning. (See People v. Lynch (2010) 50 Cal.4th 693, 734;
+People v. Bramit (2009) 46 Cal.4th 1221, 1235; People v.
+Samayoa (1997) 15 Cal.4th 795, 853–854.)
+
+
+                                 37
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+determination that the juror is substantially impaired. (See id.
+at pp. 607–608; Solomon, supra, 49 Cal.4th at pp. 835–836.)
+     B. Guilt Phase Issues
+            1.   Third Party Culpability Evidence
+      Defendant argues the court infringed his constitutional
+right to present a defense when it excluded evidence about police
+efforts in the Washington case to match a partial shoe print with
+a different suspect. The ruling was an appropriate exercise of
+discretion.
+      Shortly before trial, defense counsel announced he
+intended to introduce evidence that police had compared a
+partial footprint found on Regina Washington’s shirt to the shoe
+of another individual. The court deferred ruling, noting
+admissibility would depend on the print’s significance in
+relation to the crime scene. Trial evidence established that a
+partial shoe print outline had been found on the back shoulder
+of Washington’s white T-shirt. At an Evidence Code section 402
+hearing, a criminalist testified that the shoe print was
+approximately one square inch and “of a quality that no further
+comparison could be made.” He had compared the print to a
+shoe belonging to Ray Anthony Williams and could not
+eliminate the shoe as the source of the print. Mr. Williams was
+connected to the case by unspecified hearsay evidence, which
+was not made part of the record. The prosecution sought to elicit
+evidence about the size and quality of the print but argued the
+defense should be precluded from inquiring about the Williams
+comparison under Evidence Code section 352.16
+
+
+16
+      Evidence Code section 352 provides: “The court in its
+discretion may exclude evidence if its probative value is
+
+                                 38
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+      The court agreed the evidence would be irrelevant and
+inadmissible. It explained, “[T]he problem is this: By making
+the comparison, it suggests to the jury that there was a reason
+for the comparison, which is hearsay, which is not admissible.
+[¶] So you can’t get the reason for doing the comparison in front
+of the jury.” The court also denied defendant’s request to ask
+more generally whether the print had been compared “to
+anybody else” to eliminate them as a suspect, explaining that
+the print “doesn’t include or eliminate because it’s not sufficient
+to do that. And . . . bringing forth the fact of the comparison, it
+suggests that there is more than the actual evidence in the case,
+which is the reason for it, which is hearsay.” Defendant now
+contends he had a constitutional right to present evidence of the
+Williams comparison because it tended to show a third party
+committed the Washington murder.
+      Like all other evidence, third party culpability evidence
+may be admitted if it is relevant and its probative value is not
+substantially outweighed by the risk of undue delay, prejudice,
+or confusion, or otherwise made inadmissible by the rules of
+evidence. (Evid. Code, §§ 350, 352; see People v. Hall (1986) 41
+Cal.3d 826, 834 (Hall).) “To be admissible, the third-party
+evidence need not show ‘substantial proof of a probability’ that
+the third person committed the act; it need only be capable of
+raising a reasonable doubt of defendant’s guilt. At the same
+time, we do not require that any evidence, however remote, must
+be admitted to show a third party’s possible culpability.” (Hall,
+
+
+
+substantially outweighed by the probability that its admission
+will (a) necessitate undue consumption of time or (b) create
+substantial danger of undue prejudice, of confusing the issues,
+or of misleading the jury.”
+
+
+                                 39
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+at p. 833.) For example, “evidence of mere motive or opportunity
+to commit the crime in another person, without more, will not
+suffice to raise a reasonable doubt about a defendant’s guilt
+. . . .” (Ibid.) Moreover, admissible evidence of this nature
+points to the culpability of a specific third party, not the
+possibility that some unidentified third party could have
+committed the crime. (See People v. Page (2008) 44 Cal.4th 1,
+39 (Page); People v. Panah (2005) 35 Cal.4th 395, 481; People v.
+Gutierrez (2002) 28 Cal.4th 1083, 1136.) For the evidence to be
+relevant and admissible, “there must be direct or circumstantial
+evidence linking the third person to the actual perpetration of the
+crime.” (Hall, at p. 833, italics added.) As with all evidentiary
+rulings, the exclusion of third party evidence is reviewed for
+abuse of discretion. (See People v. Lewis (2001) 26 Cal.4th 334,
+372–373 (Lewis); People v. Kaurish (1990) 52 Cal.3d 648, 686.)
+      The court properly excluded evidence about the shoe print
+comparison. No direct or circumstantial evidence linked
+Williams to the Washington murder. Defendant insists the
+evidence would have shown that “someone else was present at
+the scene [and] was responsible for the murder.” But the
+evidence could establish no such thing. The one-inch print was
+deficient in quality and size to be matched to any particular
+shoe. This deficiency would have made it impossible to exclude
+any number of shoes as the source of the mark. The criminalist’s
+inability to exclude Williams as the source of the print was
+therefore irrelevant and potentially misleading, to the extent
+the jury might have speculated the result indicated an
+affirmative identification.      Defendant contends forensic
+evidence linking a third party to a crime scene is always
+admissible, but the premise of his argument fails. The shoe
+print did not affirmatively link Williams, defendant, or anyone
+
+
+                                 40
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+else to the murder. Nor was it relevant that the police had
+compared the shoe print to a third party, since the comparison
+yielded no “direct or circumstantial evidence linking [him] to the
+actual perpetration of the crime.” (Hall, supra, 41 Cal.3d at
+p. 833.) We have repeatedly upheld the exclusion of third party
+culpability evidence when the third party’s link to a crime is
+tenuous or speculative. (See, e.g., Page, supra, 44 Cal.4th at
+pp. 38–39; Lewis, supra, 26 Cal.4th at p. 373; People v. Alcala
+(1992) 4 Cal.4th 742, 792–793.) The linkage here is similarly
+unsupported.
+      Furthermore, as the trial court noted, testimony about the
+comparison would have invited speculation about why Williams
+was being investigated. Yet no explanation could be provided
+because the evidence about Williams’s potential as a suspect
+was inadmissible hearsay. The court reasonably concluded the
+shoe print evidence would have been irrelevant and potentially
+confusing without this additional information. Although the
+court did not expressly invoke Evidence Code section 352 as the
+basis for its ruling, it clearly had the concerns of that statute in
+mind when excluding the evidence. Moreover, express reliance
+on section 352 is not required because we must affirm if the
+court’s ruling is correct on any ground. (People v. Geier (2007)
+41 Cal.4th 555, 582.)
+      Defendant also claims exclusion of the evidence violated
+his constitutional rights to due process, compulsory process, and
+“to present a complete defense.” (California v. Trombetta (1984)
+467 U.S. 479, 485.) There was no constitutional error. “As a
+general matter, the ordinary rules of evidence do not
+impermissibly infringe on the accused’s right to present a
+defense.” (Hall, supra, 41 Cal.3d at p. 834; see United States v.
+Scheffer (1998) 523 U.S. 303, 308.) This case is no exception.
+
+                                  41
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+The court’s reasonable application of the rules of evidence to
+exclude irrelevant and potentially misleading information did
+not deprive defendant of his constitutional rights. (See Lewis,
+supra, 26 Cal.4th at p. 373–374; People v. Cudjo (1993) 6 Cal.4th
+585, 611.)
+             2.   Issues Regarding Fetal Viability
+      Defendant was charged with murdering the fetus carried
+by Regina Washington.         In 1989, when this crime was
+committed, the murder statute had consistently been
+interpreted to require a finding of fetal viability. (See People v.
+Davis (1994) 7 Cal.4th 797, 804–805, 812 (Davis).)
+      Dr. Lisa Scheinin, a deputy medical examiner with the Los
+Angeles County Coroner’s Office, testified on that topic.
+Although she had not autopsied the fetus herself, Dr. Scheinin
+related findings from an autopsy report that the fetus was
+female, weighed 825 grams, and had a gestational age of 27 to
+28 weeks, or approximately six and a half months. She
+explained that World Health Organization guidelines consider a
+fetus viable after it has reached the 22nd week or a weight of
+500 grams. Although the autopsy report said nothing specific
+about whether the fetus could have survived outside the womb,
+Dr. Scheinin concluded from the numbers in the report that it
+was “clearly well into the range that’s defined as viable.” The
+fetus had no congenital abnormalities, and there was nothing to
+suggest Washington’s cocaine use had negatively affected its
+health or development. Based on the autopsy report’s findings,
+the fetus appeared to be a “normally developing healthy baby.”
+                  a.     Fetal Viability Instruction
+      Defendant first contends the jury instruction defining
+viability was erroneous and violated his rights to due process, a
+
+
+                                  42
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+fair trial, and a fair and reliable penalty determination. The
+claim fails because the instruction accurately conveyed the legal
+definition of viability.
+      The jury was instructed with a modified version of
+CALJIC No. 8.10: “In the crime of murder, a human fetus is
+defined as a viable unborn child. Viability is defined as the
+capability of the fetus to maintain independent existence
+outside of the womb even if this existence required artificial
+medical aid.”17 Defendant did not object or propose an
+alternative instruction.
+      In 1970, the Legislature amended section 187,
+subdivision (a), to include the killing of a fetus within the
+definition of murder. (Stats. 1970, ch. 1311, § 1, p. 2440; Davis,
+supra, 7 Cal.4th at p. 803.) Thereafter, the United States
+Supreme Court decided in the abortion context that states have
+no legitimate interest in protecting a fetus before it reaches
+viability, which the court defined as the “capability of
+meaningful life outside the mother’s womb.” (Roe v. Wade (1973)
+410 U.S. 113, 163; see Davis, at p. 803.) A series of Court of
+Appeal decisions relying on Roe held that only the killing of a
+viable fetus could constitute murder. (See People v. Smith
+(1976) 59 Cal.App.3d 751, 757 (K.A. Smith); People v. Apodaca
+(1978) 76 Cal.App.3d 479, 487, 489 (Apodaca); People v. Smith
+(1987) 188 Cal.App.3d 1495, 1514 (R.P. Smith); see also Davis,
+at pp. 804–805.) We disapproved this line of cases in 1994 when
+
+
+17
+      The 1988 version of the instruction in effect at the time of
+the Washington murder was similar. It said: “A viable human
+fetus is one who has attained such form and development of
+organs as to be normally capable of living outside of the uterus.”
+(CALJIC No. 8.10 (5th ed. 1988).)
+
+
+                                 43
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+we held that viability is not required for the crime of murdering
+a fetus. (Davis, at p. 810.) However, our decision was
+prospective only. (Id. at p. 812.) Accordingly, when defendant
+was tried, a conviction for murdering the Washington fetus
+required a finding that the fetus was viable.
+      Courts first defined viability for this purpose as “ ‘having
+attained such form and development of organs as to be normally
+capable of living outside the uterus.’ ” (K.A. Smith, supra, 59
+Cal.App.3d at p. 758.) The definition was later expanded to
+address the availability of medical assistance. Apodaca, supra,
+76 Cal.App.3d at page 489 stated that “a fetus is deemed viable
+when it is possible for it to survive the trauma of birth, although
+with artificial medical aid.” Similarly, R.P. Smith, supra, 188
+Cal.App.3d at page 1514 summarized case law as holding that
+“viability means being capable of surviving the trauma of birth
+with the aid of normal medical science.” The instruction here
+was fully consistent with the controlling law. It defined viability
+as the fetus’s capability to live outside the womb, even if doing
+so required medical assistance.
+      Nevertheless, defendant complains the instruction was
+comparable to one we found lacking in Davis. The comparison
+does not withstand scrutiny. The instruction at issue in Davis
+stated that “ ‘a fetus is viable when it has achieved the capability
+for independent existence; that is, when it is possible for it to
+survive the trauma of birth, although with artificial medical
+aid.’ (Italics added.)” (Davis, supra, 7 Cal.4th at p. 813.) We
+found the term “possible” to be problematic because it could
+permit a finding of viability for a fetus that was “incapable of
+survival outside the womb for any discernible time.” (Id. at p.
+814.) Because the term significantly lowered the viability
+threshold as it was commonly accepted at the time, we
+
+                                  44
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+concluded this modification of CALJIC No. 8.10 was error.
+(Davis, at p. 814.) By contrast, the instruction in defendant’s
+trial used no variant of the word “possible,” nor did it include
+any similar language that could have lowered the threshold for
+when a fetus becomes viable. The instruction required that a
+viable fetus have the “capability . . . to maintain independent
+existence outside of the womb even if this existence required
+artificial medical aid.” (Italics added.) The word “maintain”
+excludes a case in which the fetus might only survive
+momentarily. Even assuming defendant did not forfeit his claim
+by failing to object, the instruction given here accurately defined
+viability and did not violate defendant’s constitutional rights.
+                  b.     Hearsay Evidence of Viability
+      After we notified the parties of our intention to set the case
+for oral argument, defendant filed a supplemental brief
+contending Dr. Scheinin violated state law by relating case-
+specific hearsay from the fetus’s autopsy report to support her
+viability opinion.18 (See People v. Sanchez (2016) 63 Cal.4th 665
+(Sanchez).) He also argued the report’s statements were
+testimonial and admitted in violation of his Sixth Amendment
+right to confront his accusers. (See Crawford v. Washington
+(2004) 541 U.S. 36.) Because we conclude the state law error
+was prejudicial and requires reversal of the fetal murder
+conviction, we need not address these constitutional
+arguments.19 It is not reasonably possible the error affected the
+
+18
+      He also sought judicial notice of the autopsy report and its
+attachments. We granted this unopposed request. (See Evid.
+Code, §§ 452, subds. (c), (h), 459, subd. (a).)
+19
+      Whether a challenged statement is hearsay is always the
+threshold question. If it is, it cannot be admitted unless it
+satisfies an exception. If it does not do so, and the error is
+
+                                  45
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+jury’s penalty decision, however, and defendant’s death
+sentence remains undisturbed. (See People v. Gonzalez (2006)
+38 Cal.4th 932, 960-961 (Gonzalez); see also Chapman v.
+California (1967) 386 U.S. 18, 24 (Chapman).)
+                        i.     Hearsay
+      Hearsay is “evidence of a statement that was made other
+than by a witness while testifying at the hearing and that is
+offered to prove the truth of the matter stated.” (Evid Code,
+§ 1200, subd. (a).)    “Documents like letters, reports, and
+memoranda are often hearsay because they are prepared by a
+person outside the courtroom and are usually offered to prove
+the truth of the information they contain.” (Sanchez, supra, 63
+Cal.4th at p. 674.) Hearsay evidence is generally inadmissible
+unless it satisfies a statutory exception. (Evid. Code, § 1200,
+subd. (b).)
+      As noted, Dr. Scheinin did not perform the autopsy on
+Regina Washington’s fetus. She did, however, relate to the jury
+observations recorded by the non-testifying medical examiner,
+including the weight and gestational age of the fetus. These
+facts were hearsay if offered to prove their truth. (See Sanchez,
+supra, 63 Cal.4th at p. 674.) Experts enjoy wide latitude in the
+sources they may draw upon, and they are permitted to rely on
+hearsay in reaching their conclusions. (Id. at pp. 685–686;
+People v. Leon (2015) 61 Cal.4th 569, 603; see Evid. Code, § 802.)
+That is to say, experts can take hearsay into account when
+forming their own opinions.20 “What an expert cannot do,”
+
+
+prejudicial under state law, a further Crawford analysis is
+unnecessary. (See Sanchez, supra, 63 Cal.4th at p. 680.)
+20
+      Experts may also tell the jury about background
+information generally accepted and reasonably relied on in their
+
+                                 46
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+however, “is relate as true case-specific facts asserted in hearsay
+statements, unless they are independently proven by competent
+evidence or are covered by a hearsay exception.” (Sanchez, at
+p. 686.) Some prior cases had allowed experts to relate case-
+specific facts on the theory that the material was not offered for
+its truth, but merely to show the basis of the expert’s opinion.
+Sanchez pointed out the flaw in this logic: “When an expert
+relies on hearsay to provide case-specific facts, considers the
+statements as true, and relates them to the jury as a reliable
+basis for the expert’s opinion, it cannot logically be asserted that
+the hearsay content is not offered for its truth. In such a case,
+‘the validity of [the expert’s] opinion ultimately turn[s] on the
+truth’ (Williams[ v. Illinois (2012)] 567 U.S. [50,] 108 . . . (conc.
+opn. of Thomas, J.)) of the hearsay statement. If the hearsay
+that the expert relies on and treats as true is not true, an
+important basis for the opinion is lacking.” (Sanchez, at
+pp. 682–683.)21 When Dr. Scheinin gave facts about gestational
+
+
+field. This information is part of the expert’s specialized
+knowledge, even if derived from hearsay sources. (See Evid.
+Code, §§ 801, subd. (b), 802; Sanchez, supra, 63 Cal.4th at
+p. 676; see also Simons, Cal. Evidence Manual (2020) § 4:31.)
+On the distinction between case-specific facts and general
+background information, see Sanchez at pages 676 to 677.
+21
+      Defendant raised no hearsay or confrontation objection
+below. Although his case was tried after Crawford established
+a constitutional ban on testimonial hearsay, the statements in
+question would not have been considered hearsay at all under
+the law then in effect because they were offered for the “non-
+hearsay purpose” of explaining the basis for Dr. Scheinin’s
+opinion. (See People v. Montiel (1993) 5 Cal.4th 877, 918–919
+(Montiel), overruled in Sanchez, supra, 63 Cal.4th at p. 686,
+fn. 13.) Drawing on United States Supreme Court precedent,
+particularly Williams v. Illinois, supra, 567 U.S. 50, Sanchez
+rejected that approach. (See People v. Perez (2020) 9 Cal.5th 1,
+
+                                  47
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+age and weight obtained only from the autopsy report, presented
+them to the jury as true, and represented that those facts
+bolstered her opinion, she related case-specific hearsay. (See
+Sanchez, at p. 685.)
+       The Attorney General concedes the testimony was hearsay
+but argues the report could have been admitted under an
+exception to the hearsay rule.          For example, when an
+appropriate foundation has been laid, autopsy reports have
+sometimes been admitted as business records (Evid. Code,
+§ 1271; see People v. Beeler (1995) 9 Cal.4th 953, 979 (Beeler)) or
+official records (Evid. Code, § 1280; see People v. Clark (1992) 3
+Cal.4th 41, 158–159). However, it is significant that the
+prosecution did not offer the report itself into evidence, and the
+trial court did not rule on whether it was admissible under
+either exception. “The proponent of hearsay has to alert the
+court to the exception relied upon and has the burden of laying
+the proper foundation.” (People v. Livaditis (1992) 2 Cal.4th
+759, 778.) A trial court’s decision to admit evidence under a
+hearsay exception is entitled to great deference on appeal, but
+here foundational testimony was neither elicited by the
+prosecution nor ruled upon by the court.
+      Both the business record and official record exceptions
+require a showing that the writing “was made at or near the
+time of the act, condition, or event” (Evid. Code, §§ 1271,
+subd. (b), 1280, subd. (b)); either “in the regular course of a
+business” (id., § 1271, subd. (a)) or “by and within the scope of
+duty of a public employee” (id., § 1280, subd. (a)); and that
+
+
+9.)    Accordingly, as the Attorney General acknowledges,
+defendant’s failure to object did not forfeit his present claims.
+(Ibid.)
+
+
+                                 48
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+“sources of information and method and time of preparation
+were such as to indicate [the writing’s] trustworthiness” (id.,
+§§ 1271, subd. (d), 1280, subd. (c)). Dr. Scheinin described how
+autopsy reports are customarily prepared and maintained in the
+Los Angeles County Coroner’s Office, but she did not begin
+working there until two years after the autopsy in question. She
+did not testify that the same procedures were followed before
+her arrival, nor did she link her description of the office’s
+procedures to the preparation of this particular autopsy report.
+The foundational showing here is notably thinner than we have
+encountered in upholding rulings to admit other autopsy
+reports. For example, in Beeler, supra, 9 Cal.4th at page 979,
+the testifying pathologist both explained the office’s autopsy
+procedures and attested that these standard procedures were
+followed in the autopsy’s performance and documentation. That
+testimony was sufficient to support the court’s admission of the
+report as a business record. (Ibid.) In contrast, given the record
+here, we cannot say with confidence that the fetal autopsy report
+would have been admissible as either a business record or a
+public record, and the issue was not explored at trial.
+      We recognize that the prosecution might reasonably have
+perceived no need to offer the autopsy report under a hearsay
+exception. When defendant’s case was tried in 2007, courts
+frequently allowed experts to relate case-specific hearsay under
+the rationale that such evidence merely explained the basis of
+the expert’s opinion and was not offered for its truth. (See, e.g.,
+Montiel, supra, 5 Cal.4th at p. 919, overruled in Sanchez, supra,
+63 Cal.4th at p. 686, fn. 13.) Sanchez changed this aspect of the
+law. (See Sanchez, at p. 686.) But, while our treatment of
+hearsay has changed in light of evolving Supreme Court
+jurisprudence (see id. at p. 682), this change does not make it
+
+
+                                 49
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+appropriate in this case to uphold the admission of hearsay
+against a criminal defendant based on an exception that was
+never presented to the trial court, for which no effort was made
+to lay the necessary foundation, and on which the court never
+ruled.
+      Had the report been offered and admitted under an
+exception, the words of the document itself would have
+constituted admissible hearsay. Dr. Scheinin’s recitation of the
+content of an unadmitted document remains hearsay for which
+no exception was established. She was allowed to present
+inadmissible hearsay as true and supportive of her opinion.
+This was error under California’s hearsay statutes. (See
+Sanchez, supra, 63 Cal.4th at p. 686).
+                        ii.    Prejudice
+      State law error in the admission of hearsay requires
+reversal of the judgment if “ ‘it is reasonably probable that a
+result more favorable to the [defendant] would have been
+reached in the absence of the error.’ ” (People v. Watson (1956)
+46 Cal.2d 818, 837 (Watson); see People v. Duarte (2000) 24
+Cal.4th 603, 618–619.) Given the significance of the hearsay
+evidence to the fetal murder charge, and the dearth of other
+evidence on the issue, we cannot conclude the error was
+harmless. Defendant’s conviction for the fetal murder count
+must be reversed.
+      The prosecution had to prove the fetus was viable at the
+time of death. Dr. Scheinin testified that viability is largely a
+function of weight and gestational age. At both the time of trial
+and in 1989 when Regina Washington was murdered, scientists
+generally considered a fetus viable after it had reached a
+gestational age of 22 weeks or a weight of 500 grams. To
+
+
+                                 50
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+illustrate her testimony, Dr. Scheinin displayed a chart showing
+the week-by-week development of an embryo into a fetus. She
+drew the jury’s attention to a dividing line on this chart labeled
+“stage of viability.” She explained, “Anything to the left of this
+line is considered a pre-viable fetus and anything to the right of
+it is considered viable,” noting the dividing line of weight and
+age. Having previously quoted from the autopsy report that the
+Washington fetus weighed 825 grams and had reached a
+gestational age of 27 to 28 weeks, Dr. Scheinin then pointed to
+the place on the chart indicated by these statistics. She
+observed that, “according to the medical examiner who did the
+autopsy, . . . the baby is in this ballpark here, and about in this
+ballpark here by weight, so it’s clearly well into the range that’s
+defined as viable.” (Italics added.) Finally, she quoted the
+report’s statement that the fetus had “no congenital
+abnormalities” and concluded “nothing in the report” suggested
+the fetus was anything other than healthy. All of Dr. Scheinin’s
+statements about the fetus’s ability to survive outside the womb
+were expressly tied to the autopsy report, the contents of which
+she presented to the jury. This case-specific information was
+neither stipulated nor independently proven.
+      Dr. Scheinin’s testimony was essential in proving
+viability. The only other evidence bearing on the subject was
+testimony from Washington’s daughter, 11 years old at the time
+of the crime, who recalled that her mother was visibly pregnant
+and the family believed the gender was female. This evidence
+was insufficient to prove viability beyond a reasonable doubt.
+Although the Attorney General is correct that no contrary
+evidence was presented, it was the prosecution’s burden to prove
+every element of the charge. (See Estelle v. McGuire (1991) 502
+U.S. 62, 69; see also Melendez-Diaz v. Massachusetts (2009) 557
+
+
+                                 51
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+U.S. 305, 324 [“the Confrontation Clause imposes a burden on
+the prosecution to present its witnesses, not on the defendant to
+bring those adverse witnesses into court”].)
+       The Attorney General argues the error was harmless
+because, apart from the hearsay, Dr. Scheinin gave her own
+opinion about fetal viability. He reasons that even if she had
+been precluded from reciting the report’s facts about fetal
+weight and gestational age, she still would have been able to
+testify to her opinion on the ultimate question. It is true that an
+“expert may still rely on hearsay in forming an opinion, and may
+tell the jury in general terms that he did so.” (Sanchez, supra,
+63 Cal.4th at p. 685.) Dr. Scheinin thus could have told the jury
+that she read the autopsy report and relied on it in forming her
+opinion. But that is not what happened here. Instead, she
+repeatedly recounted case-specific facts from the report and
+invited the jury to compare that hearsay to the medically
+accepted guidelines for determining viability.
+      Once the improperly admitted hearsay testimony is
+excluded (see People v. Doolin (2009) 45 Cal.4th 390, 448), all
+that remains of Dr. Scheinin’s viability testimony is a bare
+conclusion that “just looking at the numbers, the age of the baby
+would indicate that it was a viable fetus, meaning it has a
+chance for life by itself.” The persuasive force of this conclusion
+would have been considerably diminished without testimony
+about the case-specific facts on which it was based. An expert’s
+opinion is only as strong as its factual basis. “The jury is not
+required to accept an expert’s opinion. The final resolution of
+the facts at issue resides with the jury alone. The jury may
+conclude a fact necessary to support the opinion has not been
+adequately proven, even though there may be some evidence in
+the record tending to establish it. If an essential fact is not
+
+                                 52
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+found proven, the jury may reject the opinion as lacking
+foundation.” (Sanchez, supra, 63 Cal.4th at p. 675.) A
+conclusory opinion, with no articulated factual foundation,
+would have been substantially less compelling than the
+testimony Dr. Scheinin actually gave. She repeatedly stated the
+fetus’s specific weight and gestational age and showed on a
+demonstrative exhibit how these attributes placed it “well into”
+the medically established viability range.
+      The case-specific hearsay erroneously admitted here
+served two interrelated purposes. First, it provided nearly all
+the direct evidence pointing to fetal viability. Second, it
+provided the entire factual basis for the expert’s opinion on that
+question. The hearsay evidence was relevant to an especially
+important issue. On this record, it is reasonably probable the
+jury would have reached a different verdict on the fetal murder
+count absent the admission of hearsay evidence. (See Watson,
+supra, 46 Cal.2d at p. 837.)
+      We do not agree with defendant, however, that this error
+undermines the penalty judgment. Defendant was a convicted
+serial killer who preyed on vulnerable women for over a decade.
+A jury convicted him of strangling his victims and abandoning
+their corpses in degrading conditions. Apart from the fetal
+death, the jury found that defendant murdered 10 women. The
+jury heard evidence about these murders and defendant’s sexual
+assault of Maria M. In the penalty phase, it heard aggravating
+evidence about yet another murder and sexual assault.
+Although defendant suggests the jury may have considered the
+fetus’s murder especially aggravating, that argument is
+speculative at best. Moreover, despite the error, the jury was
+still entitled to give aggravating weight to the fact that
+defendant murdered a visibly pregnant woman. (See Brown v.
+
+                                 53
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+Sanders (2006) 546 U.S. 212, 220.) The prosecutor’s closing
+argument only mentioned this death in a single sentence. Nor
+was there any victim impact evidence concerning the fetus. In
+view of the substantial aggravating facts of both the charged and
+uncharged crimes, it is not reasonably possible the jury would
+have reached a different penalty verdict absent the error. (See
+People v. Johnson (2019) 8 Cal.5th 475, 518.) Likewise, any
+federal constitutional error in admitting the evidence was
+harmless beyond a reasonable doubt as to penalty. (Chapman,
+supra, 386 U.S. at p. 24; see Gonzalez, supra, 38 Cal.4th at
+pp. 960-961.)
+      C. Penalty Phase Issues
+             1.   Criminal Threat Evidence
+      Defendant contends insufficient evidence was admitted to
+establish that he made a criminal threat against Deputy
+Uyetatsu. Assuming this claim was not forfeited, any error was
+harmless.
+      To establish a criminal threat, the prosecution must prove:
+(1) the defendant willfully threatened death or great bodily
+injury to another person; (2) the threat was made with the
+specific intent that it be taken as a threat, regardless of the
+defendant’s intent to carry it out; (3) the threat was “on its face
+and under the circumstances in which it [was] made, . . . so
+unequivocal, unconditional, immediate, and specific as to convey
+to the person threatened, a gravity of purpose and an immediate
+prospect of execution”; (4) the threat caused the person
+threatened “to be in sustained fear for his or her own safety or
+for his or her immediate family’s safety”; and (5) this fear was
+reasonable under the circumstances. (§ 422, subd. (a); see
+People v. Toledo (2001) 26 Cal.4th 221, 227–228.) Defendant
+
+
+                                  54
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+challenges the evidentiary support for three elements. First,
+defendant argues the evidence does not show he specifically
+intended to threaten Deputy Uyetatsu. Although he told
+another inmate he planned to kill the deputy if he was convicted
+of the pending charges, he did not instruct the inmate to report
+the threat to her, nor was there evidence to suggest he thought
+such a report was likely. Second, defendant asserts the threat
+was not sufficiently unconditional and immediate because he
+made it while in a locked cell, and he would have even less
+ability to carry it out if he were convicted of the capital charges.
+Finally, he argues there was no evidence the threat caused
+Deputy Uyetatsu to be in a state of sustained fear. When asked
+how she felt upon learning of the threat, Uyetatsu said only that
+she thought defendant had the ability to carry it out and would
+do so if given the opportunity. She did not say she was afraid,
+nor did she testify that she wanted to be moved to a different
+unit.
+      First, the claim is not cognizable on appeal because
+defendant did not object or move to strike the evidence he now
+challenges. (See People v. Livingston (2012) 53 Cal.4th 1145,
+1175; People v. Hamilton (2009) 45 Cal.4th 863, 934.) Defendant
+couches his argument as a challenge to the sufficiency of
+evidence, noting such claims are generally permitted on appeal
+without the need for an objection. (See People v. McCullough
+(2013) 56 Cal.4th 589, 596.) However, it is significant that “here
+the evidence was admitted at the penalty phase of a capital trial
+as aggravating evidence, not to support a conviction for that
+crime.” (Livingston, at p. 1175.) “Even if defendant need do
+nothing at trial to preserve an appellate claim that evidence
+supporting his conviction is legally insufficient, a different rule
+is appropriate for evidence presented at the penalty phase of a
+
+
+                                  55
+                         PEOPLE v. TURNER
+                  Opinion of the Court by Corrigan, J.
+
+
+capital trial. There the ultimate issue is the appropriate
+punishment for the capital crime, and evidence on that issue
+may include one or more other discrete criminal incidents.
+(§ 190.3, factors (b), (c).) If the accused thinks evidence on any
+such discrete crime is too insubstantial for jury consideration,
+he should be obliged in general terms to object, or to move to
+exclude or strike the evidence, on that ground.” (Montiel, supra,
+5 Cal.4th at p. 928, fn. 23.)
+      Even assuming admission of the threat evidence was
+error, there is no reasonable possibility it affected the penalty
+verdict. (See People v. Collins (2010) 49 Cal.4th 175, 220.) The
+threat was only one of five violent crimes admitted under section
+190.3, factor (b) and had arguably less impact. The jury heard
+evidence in the penalty phase that defendant had murdered
+Elandra Bunn, sexually assaulted Carla W., and forcibly
+resisted arrest. It was also directed to consider guilt phase
+evidence about his attack on Maria M. The threat was certainly
+less impactful than defendant’s capital crimes. Defendant was
+a proven serial killer who brutally raped and murdered nearly
+a dozen known victims, preying on vulnerable women from his
+own neighborhood. As the court stated in denying defendant’s
+automatic motion for modification of the verdict, “defendant
+methodically located unescorted and vulnerable women,
+overwhelmed each of them in isolation, and strangled each to
+death for his own sexual pleasure.” The aggravating facts here
+were overwhelming, and any error relating to the threat
+evidence was clearly harmless.
+             2.   Constitutionality of Death Penalty Law
+      Defendant raises a number of challenges to the
+constitutionality of California’s death penalty statute and
+
+
+
+                                  56
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+instructions. He acknowledges that we have previously rejected
+all of these arguments. We decline to reconsider our precedents
+as follows:
+      Section 190.2 adequately narrows the class of offenders
+eligible for the death penalty. (People v. Reed (2018) 4 Cal.5th
+989, 1018; Winbush, supra, 2 Cal.5th at p. 488.) Section 190.3,
+factor (a), allowing aggravation based on the circumstances of
+the crime, does not permit arbitrary and capricious sentencing.
+(People v. Capers (2019) 7 Cal.5th 989, 1013 (Capers);
+Thompson, supra, 1 Cal.5th at p. 1129.) “Choice of penalty is a
+normative decision,” not a factual one. (Beck and Cruz, supra, 8
+Cal.5th at p. 670.) Accordingly, the death penalty scheme does
+not violate the federal Constitution for failing to require:
+• written findings (People v. Rhoades (2019) 8 Cal.5th 393, 455
+  (Rhoades); Winbush, at p. 490);
+• unanimous findings as to proof of each aggravating factor or
+  unadjudicated crime (Capers, at p. 1013);
+• findings that aggravating factors (other than section 190.3,
+  factors (b) and (c)) were proven beyond a reasonable doubt;
+• or specific, articulated findings that aggravating factors
+  outweigh those in mitigation, or that death is the appropriate
+  penalty (People v. Krebs (2019) 8 Cal.5th 265, 350 (Krebs);
+  People v. Rangel (2016) 62 Cal.4th 1192, 1235).
+These conclusions are not altered by Apprendi v. New Jersey
+(2000) 530 U.S. 466, Ring v. Arizona (2002) 536 U.S. 584, or
+Hurst v. Florida (2016) 577 U.S. 92. (Capers, at pp. 1013–1014;
+People v. Henriquez (2017) 4 Cal.5th 1, 45.) Because sentencing
+is “an inherently moral and normative function, and not a
+factual one amenable to burden of proof calculations” (Winbush,
+at p. 489), the prosecution has no obligation to bear a burden of
+
+
+                                 57
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+proof or persuasion (Capers, at pp. 1014–1015). Nor does the
+federal Constitution require an instruction that life is the
+presumptive penalty. (Capers, at p. 1016; Beck and Cruz, at
+p. 670.)
+       CALJIC No. 8.88 is not impermissibly vague or otherwise
+defective for failing to require a finding that death is the
+“appropriate” penalty (People v. Leon (2020) 8 Cal.5th 831, 853;
+see Beck and Cruz, supra, 8 Cal.5th at p. 671) or failing to
+require a life sentence if the jury finds that mitigating factors
+outweigh aggravating ones (Capers, supra, 7 Cal.5th at p. 1016;
+People v. Johnson (2018) 6 Cal.5th 541, 594 (Johnson)). The
+phrase “so substantial” in this instruction is not overbroad or
+unconstitutionally vague. (Beck and Cruz, at p. 671; People v.
+Ghobrial (2018) 5 Cal.5th 250, 292.) Nor is the jury’s
+consideration of mitigating factors impermissibly constrained
+by CALJIC No. 8.85’s use of the words “extreme” and
+“substantial” to describe mitigating circumstances. (Beck and
+Cruz, at p. 671; People v. Rices (2017) 4 Cal.5th 49, 94.) The
+court is not constitutionally obligated to delete inapplicable
+sentencing factors, identify which factors are aggravating or
+mitigating, or instruct that certain factors are relevant only for
+mitigation purposes. (Krebs, supra, 8 Cal.5th at p. 351;
+Rhoades, supra, 8 Cal.5th at p. 455; Winbush, supra, 2 Cal.5th
+at p. 490.)
+      Intercase proportionality review is not constitutionally
+required. (Rhoades, supra, 8 Cal.5th at pp. 455–456; Johnson,
+supra, 6 Cal.5th at p. 594.) Nor does the death penalty law
+violate equal protection by providing different procedures to
+capital and noncapital defendants. (Rhoades, at p. 456; Capers,
+supra, 7 Cal.5th at p. 1017.) We continue to hold that
+California’s capital sentencing scheme does not violate
+
+                                 58
+                       PEOPLE v. TURNER
+                Opinion of the Court by Corrigan, J.
+
+
+international norms or evolving standards of decency in
+violation of the Eighth and Fourteenth Amendments. (Beck and
+Cruz, supra, 8 Cal.5th at p. 671; Krebs, supra, 8 Cal.5th at
+p. 351; Capers, at p. 1017.)
+     D. Cumulative Error
+     Finally, defendant argues errors in his trial were
+cumulatively prejudicial. We conclude to the contrary. (See
+People v. Penunuri (2018) 5 Cal.5th 126, 172.) Hearsay was
+improperly admitted on the question of fetal viability. That
+murder conviction is reversed. We also assumed a penalty
+phase error involving evidence that defendant threatened
+Deputy Uyetatsu. In light of the totality of evidence at both
+phases of trial, reversal of neither the guilt nor penalty
+judgments is required for the reasons discussed above.
+
+
+
+
+                                59
+                        PEOPLE v. TURNER
+                 Opinion of the Court by Corrigan, J.
+
+
+                       III. DISPOSITION
+       The second degree fetal murder conviction is reversed. In
+all other respects, the judgment is affirmed.
+
+
+                                                    CORRIGAN, J.
+
+
+We Concur:
+CANTIL-SAKAUYE, C. J.
+LIU, J.
+CUÉLLAR, J.
+KRUGER, J.
+GROBAN, J.
+GILBERT, J.*
+
+
+
+
+_______________________
+*
+      Presiding Justice of the Court of Appeal, Second Appellate
+District, Division Six, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+
+
+                                 60
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion People v. Turner
+__________________________________________________________________________________
+
+Unpublished Opinion
+Original Appeal XXX
+Original Proceeding
+Review Granted
+Rehearing Granted
+
+__________________________________________________________________________________
+
+Opinion No. S154459
+Date Filed: November 30, 2020
+__________________________________________________________________________________
+
+Court: Superior
+County: Los Angeles
+Judge: William R. Pounders
+
+__________________________________________________________________________________
+
+Counsel:
+
+Michael J. Hersek and Mary K. McComb, State Public Defenders, under appointments by the Supreme Court, and
+William C. Whaley, Deputy State Public Defender, for Defendant and Appellant.
+
+Kamala D. Harris and Xavier Becerra, Attorneys General, Gerald A. Engler and Lance E. Winters, Chief Assistant
+Attorneys General, Susan Sullivan Pithey, Assistant Attorney General, Joseph P. Lee and Blythe J. Leszkay,
+Deputy Attorneys General, for Plaintiff and Respondent.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+William C. Whaley
+Deputy State Public Defender
+770 L. St., Suite 1000
+Sacramento, CA 95814
+(916) 322-2676
+
+Blythe J. Leszkay
+Deputy Attorney General
+300 South Spring St., Suite 1702
+Los Angeles, CA 90013
+(213) 269-6191

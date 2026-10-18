@@ -1,0 +1,479 @@
+cl_opinion_id: 11171775
+cluster: 10705188
+docket: D085868
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Izumi CA4/1
+----
+Filed 10/16/25 P. v. Izumi CA4/1
+                 NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION ONE
+
+                                         STATE OF CALIFORNIA
+
+
+
+THE PEOPLE,                                                          D085868
+
+         Plaintiff and Respondent,
+
+         v.                                                          (Super. Ct. No. FSB19003195)
+
+YOSHI KAZAUTO IZUMI,
+
+         Defendant and Appellant.
+
+
+         APPEAL from a judgment of the Superior Court of San Bernardino
+County, Cheryl C. Kersey, Judge. Reversed.
+         Janice R. Mazur, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+         Rob Bonta, Attorney General, Lance E. Winters, Chief Assistant
+Attorney General, Charles C. Ragland, Assistant Attorney General, Arlene A.
+Sevidal, Andrew Mestman, and Jon S. Tangonan, Deputy Attorneys General,
+for Plaintiff and Respondent.
+                                              I. INTRODUCTION
+         That Yoshi Kazauto Izumi killed Michael Roberts is beyond question in
+this case: A third party witness saw the fatal altercation, Izumi admitted the
+killing to police officers, and testified to it during his jury trial. However,
+Izumi vehemently contested what kind of killing he committed. That
+determination depended on how the jury perceived Izumi’s mental state when
+he killed Roberts. The People argued that Izumi acted willfully and with
+premeditation and deliberation. Izumi disputed this story, instead claiming
+that while laboring under intense emotions caused by his belief that Roberts
+molested Izumi’s young daughter, Izumi acted from provocation and in the
+heat of passion.
+      The jury resolved this conflict by rejecting the prosecution’s theory of
+first degree murder and instead finding Izumi guilty of second degree
+murder. The verdict occurred after the trial court instructed the jury it could
+consider two previous violent acts as evidence of Izumi’s propensity to commit
+
+violence.1 The trial court did not explain how it reached the determination to
+expand the use of those two prior events beyond proving motive, intent, or
+plan. Given the jury’s verdicts reflected provocation may have played a part
+in the homicide, combined with the natural tendency to give propensity
+evidence excessive weight, we conclude it was reasonably probable Izumi
+would have obtained a better result absent the instructional error. We
+therefore reverse the conviction.
+                               II. BACKGROUND
+      Izumi and Ashley Ramirez have a minor daughter, A. In 2019, A. lived
+with her maternal grandmother, Kelli Vega Roberts (Vega), and her step-
+grandfather, Michael Roberts (Roberts).
+
+
+
+1     Character evidence is also referred to as propensity evidence “or
+disposition to engage in a type of conduct.” (People v. Villatoro (2012)
+54 Cal.4th 1152, 1159.)
+
+                                         2
+      On August 31, 2019, Izumi stabbed Roberts in the throat twice, killing
+him. The San Bernardino County District Attorney’s Office charged Izumi
+with murder (Pen. Code, § 187, subd. (a)), alleging that he committed the
+offense with a deadly weapon (id., § 12022, subd. (b)(1)).
+      Before his 2023 trial began, the People moved in limine pursuant to
+
+Evidence Code2 section 1101, subdivision (b) (section 1101(b)) to admit two of
+Izumi’s prior violent acts for impeachment, and to show both motive and
+intent. The first violent act occurred on August 4, 2013, when Izumi
+restrained Ramirez, hit her in the face, and threatened to kill her for wanting
+to leave with A. under conditions he believed were unsafe. The second
+occurred on September 24, 2013, when Izumi stabbed Ramirez’s boyfriend,
+
+Billy Meteer, in the hand because he thought Meteer was a threat to A.3
+      The trial court granted the motion, finding the prior acts admissible for
+impeachment as moral crimes of moral turpitude. Further, regarding section
+1101(b), the court found sufficient “similarity in the crimes to admit the
+evidence, and that the motive and intent and propensity to commit shows a
+pattern of jealousy and an abnormal reaction to events that he justifies as
+protection of the family unit.” Based on this ruling, the trial court admitted
+testimony from Ramirez and Izumi describing both prior acts. Ramirez
+testified that in the August 2013 incident, Izumi told Ramirez she could not
+leave with A. while it was dark outside, and he prevented Ramirez and A.
+from leaving that night and through the next day. Ramirez explained how
+Izumi beat her and threatened to kill her for wanting to leave with A.
+
+2     All further undesignated section references are to the Evidence Code.
+3     Izumi was convicted of battery against the parent of his child (Pen.
+Code, § 243, subd. (e)(1)) for the Ramirez incident and assault with a deadly
+weapon (id., § 245, subd. (a)(1)) for the Meteer incident.
+
+                                       3
+Regarding the Meteer incident, Izumi testified that “[i]t was about protecting
+my daughter from the situation she was in.”
+      The trial court also admitted testimony from a responding officer and a
+recording of police interviewing Izumi regarding the Meteer incident. In that
+interview, Izumi stated he had no lapse in judgment when he stabbed Meteer
+and that he “prayed on” it beforehand. When asked about the August 2013
+domestic violence incident with Ramirez, Izumi stated it happened because
+Ramirez “was all doped up” and trying to leave with A.
+      When Izumi testified at trial, he admitted killing Roberts, arguing that
+he acted in the heat of passion. Izumi stated that about one week before the
+killing, Ramirez told him that Roberts was molesting A. Izumi did not
+completely believe Ramirez, so he went to the Roberts’ home on August 31,
+2019, to ask A. about it. According to Izumi, he questioned A. approximately
+an hour and a half to two hours after his arrival, at which point he became
+convinced that Roberts molested her. Izumi testified that he did not know
+what to think, feeling confused, angry, hopeless, and helpless.
+Approximately a minute or two later, Izumi approached Roberts, shouted
+“you raped my daughter,” and stabbed Roberts with a pocketknife that he
+always carries with him. Izumi denied any prior intention of harming
+Roberts, claiming he had no problems with Roberts during the last 10 years,
+and that he was not in his “right mind” during the killing.
+      Michael Larson, Roberts’s friend, also testified. He said that he,
+Roberts, and Izumi were talking outside by the garage before the killing.
+Larson did not hear any arguments, and Izumi did not appear to be upset. A.
+was home, running in and out of the house, but Larson never saw her speak
+with Izumi. After Larson went inside the Roberts’ home to get another beer,
+
+
+
+
+                                       4
+he returned to find Izumi holding Roberts in a headlock with blood
+everywhere.
+      Vega testified as well, explaining that there were no prior conflicts
+between Roberts and Izumi. She left the house shortly before the killing, at
+which point Roberts and Izumi were talking amicably in the driveway, there
+did not appear to be any tension between them, and their moods were
+friendly. A. was running in and out of the house, and Vega saw A. talking
+with Izumi.
+      During her trial testimony, Ramirez denied telling Izumi that Roberts
+was molesting A. The parties stipulated that the police interviewed A. and
+determined that the allegations of Roberts’s sexual abuse were unfounded.
+The prosecutor also showed the jury footage from a neighbor’s surveillance
+camera. It captured Izumi’s car arriving at the Roberts’ residence, and then
+about an hour later Izumi stating “you raped my daughter.” The footage does
+not clearly depict any interactions between Izumi and Roberts, or Izumi and
+A., due to obstructions and distance between the neighbor’s camera and the
+Roberts’ residence.
+      At a jury instruction conference with the parties, the trial court stated
+CACLRIM No. “375 will be given based on the prior stabbing incident and
+domestic violence.” The parties did not object to or otherwise comment on
+CALCRIM No. 375. The trial court proceeded to instruct the jury with a
+modified version of CALCRIM No. 375 as follows:
+
+
+
+
+                                       5
+            The People presented evidence that the defendant
+         committed other offenses[4] of violence that were not
+         charged in this case.
+            You may consider this evidence only if the People have
+         proved by a preponderance of the evidence that the
+         defendant in fact committed the uncharged offenses. Proof
+         by a preponderance of the evidence is a different burden of
+         proof than proof beyond a reasonable doubt. A fact is
+         proved by a preponderance of the evidence if you conclude
+         that it is more likely than not that the fact is true.
+            If the People have not met this burden, you must
+         disregard this evidence entirely.
+            If you decide that the defendant committed the
+         uncharged offenses, you may, but are not required to,
+         consider that evidence for the limited purpose of deciding
+         whether:
+           The defendant acted with the intent to murder Michael
+         Lynn Roberts; or
+            The defendant had a motive to commit the offense
+         alleged in this case; or
+            The defendant had a plan to commit the offense alleged
+         in this case; or
+            The defendant acted in conformity with this character
+         trait.
+            In evaluating this evidence, consider the similarity or
+         lack of similarity between the uncharged offenses and the
+         charged offense. Do not consider this evidence for any
+         other purpose except for the limited purpose of determining
+
+
+4     The written instructions given to the jury state “other offenses of
+violence.” (Italics added.) The reporter’s transcript states, “other evidence of
+violence.” (Italics added.) For appellate review, the written instructions
+control since they went back into the jury room during deliberations. (People
+v. Wilson (2008) 44 Cal.4th 758, 803 [“To the extent a discrepancy exists
+between the written and oral versions of jury instructions, the written
+instructions provided to the jury will control.”].)
+
+                                       6
+            the defendant’s credibility and whether the defendant acted
+            in conformity with this character trait.[5]
+              Do not conclude from this evidence that the defendant
+            has a bad character or is disposed to commit crime.
+               If you conclude that the defendant committed the
+            uncharged offense, that conclusion is only one factor to
+            consider along with all the other evidence. It is not
+            sufficient by itself to prove that the defendant is guilty of
+            murder or that the allegation has been proved. The People
+            must still prove each charge and allegation beyond a
+            reasonable doubt. (Italics added.)
+
+      The trial court also instructed the jury on the following forms of
+homicide: willful, deliberate and premeditated first degree murder; second
+
+degree murder; and heat of passion voluntary manslaughter.6
+      The jury found Izumi guilty of second degree murder and that he
+personally used a deadly weapon in the commission of the offense. The trial
+
+court sentenced Izumi to 31 years to life in prison.7 Izumi’s timely appeal
+followed.
+      In his opening brief, Izumi challenged the trial court’s admission of his
+prior acts on several grounds, including that those acts were improperly
+
+5      The written instructions given to the jury indicate that they were not
+modified, but the italicized language does not appear in CALCRIM No. 375.
+This language appears to come from CALCRIM No. 352, which instructs on
+admissibility of character evidence under section 1103 and is inapplicable in
+this case as discussed below. The record is unclear as to how this significant
+modification occurred.
+6     In their closing argument, the People also argued that Izumi committed
+lying-in-wait first degree murder, but the jury was not instructed on that
+theory.
+7     Izumi received 15 years to life for the murder, doubled to 30 due to a
+prior strike, plus one year for the deadly weapon enhancement. The trial
+court imposed and stayed an additional five years for a prior serious felony.
+
+                                          7
+admitted to prove his propensity for violence. To evaluate that claim
+properly, we were required to review the jury instructions for limitations, if
+any, placed on how the jury could use this evidence. That examination
+revealed the trial court told the jury it could consider the past violent acts as
+evidence of Izumi’s propensity to commit violence.
+      However, the parties did not address the trial court’s character
+evidence instructions in their initial briefing to this court, so we asked for
+supplemental filings on that issue. In his supplemental briefing, Izumi
+claims the trial court prejudicially erred by instructing the jury that it could
+consider Izumi’s prior acts to prove that he acted in conformity with his
+character. The People contend that Izumi forfeited the issue by failing to
+object to the instruction at trial, the trial court’s instructions were a correct
+statement of the law, and any error was harmless because the evidence of
+
+Izumi’s guilt was overwhelming. As explained below, we agree with Izumi.8
+                                III. DISCUSSION
+A.    Limitations on Character Evidence and Standard of Review
+      “Section 1101[, subdivision] (a) prohibits the admission of character
+evidence if offered to prove conduct in conformity with that character trait,
+sometimes described as a propensity to act in a certain way.” (People v.
+Bryant, Smith and Wheeler (2014) 60 Cal.4th 335, 405–406, italics added.)
+“ ‘The reason for this rule is not that such evidence is never relevant; to the
+contrary, the evidence is excluded because it has too much probative value.’
+[Citations.] ‘ “The natural and inevitable tendency” ’ is to give excessive
+
+
+8      Based on this outcome, we do not reach Izumi’s claims in his opening
+brief that the trial court erred by admitting his prior battery against Ramirez
+for impeachment, excluding statements from a deceased witness, and
+declining to give a pinpoint instruction on provocation.
+
+                                         8
+weight to the prior conduct and either allow it to bear too strongly on the
+present charge, or to take the proof of it as justifying a conviction irrespective
+of guilt of the present charge.” (People v. Hendrix (2013) 214 Cal.App.4th
+216, 238.)
+      Notwithstanding section 1101, subdivision (a), a defendant’s prior bad
+acts may be admissible “when relevant to prove some fact (such as motive,
+opportunity, intent, preparation, plan, . . . ) other than his or her disposition
+to commit such an act.” (§ 1101(b).) Section 1101 is subject to section 352,
+under which the court may exclude prior act evidence “if its probative value
+is substantially outweighed by the probability that its admission will
+(a) necessitate undue consumption of time or (b) create substantial danger
+of undue prejudice, of confusing the issues, or of misleading the jury.”
+      Additionally, the prosecution may use character evidence in the
+following very limited circumstances: to rebut the defendant’s use of
+character evidence regarding the defendant or victim (§§ 1102; 1103); and
+when the past act and current charge are sexual offenses (§ 1108), domestic
+violence, elder abuse, or child abuse (§ 1109).
+      We review the admission of evidence for abuse of discretion. (People v.
+Foster (2010) 50 Cal.4th 1301, 1328.) Under that standard, “ ‘ “ a trial court’s
+ruling will not be disturbed, and reversal . . . is not required, unless the trial
+court exercised its discretion in an arbitrary, capricious, or patently absurd
+manner that resulted in a manifest miscarriage of justice.” ’ ” (Id. at
+pp. 1328–1329.)
+      We independently review claims of instructional error. (People v.
+Mitchell (2019) 7 Cal.5th 561, 579.) “We determine the prejudicial effect of
+
+
+
+
+                                         9
+instructional error under the Watson[9] standard by asking whether a
+reasonable probability exists the outcome would have been different but for
+the error.” (People v. Blick (2007) 153 Cal.App.4th 759, 775.) “A ‘reasonable
+probability’ ‘does not mean more likely than not, but merely a reasonable
+chance, more than an abstract possibility.’ ” (People v. Hardy (2021)
+65 Cal.App.5th 312, 329–330.)
+B.    The Trial Court Did Not Abuse Its Discretion in Admitting Izumi’s
+Prior Crimes Under Section 1101(b) to Prove Intent
+      Izumi argues his prior convictions were inadmissible under section
+1101(b) because they did not tend to prove any issue material to the People’s
+case. Regarding intent, Izumi asserts the victims in the prior incidents were
+not in the same category as the victim of the current offense. Izumi further
+contends the prior acts were inadmissible under section 352. We disagree.
+      “ ‘The least degree of similarity (between the uncharged act and the
+charged offense) is required in order to prove intent. . . . In order to be
+admissible to prove intent, the uncharged conduct must be sufficiently
+similar to support the inference that the defendant “ ‘probably harbor[ed] the
+same intent in each instance.’ ” ’ ” (People v. Foster, supra, 50 Cal.4th at
+p. 1328.)
+      Izumi beat, restrained, and threatened to kill Ramirez because he did
+not want Ramirez to leave with A. in the dark while she was under the
+influence of drugs. And when Izumi stabbed Meteer, “[i]t was about
+protecting [his] daughter from the situation she was in.” Similarly, Izumi
+killed Roberts because he believed Roberts was molesting A.
+
+
+
+
+9     People v. Watson (1956) 46 Cal.2d 818, 836.
+
+                                        10
+      Contrary to Izumi’s claims, all three victims were similarly situated
+because Izumi perceived them as a threat to his daughter and Izumi reacted
+against each with violence. Further, Izumi “prayed on” the Meteer incident
+beforehand and the Ramirez incident lasted overnight and through the
+following day, suggesting that the prior crimes may have involved significant
+planning. These prior acts are therefore relevant to the People’s first degree
+murder theory and could support the inference that Izumi harbored the same
+intent in all three crimes. Accordingly, the trial court had a reasonable basis
+to find the prior acts sufficiently like the charged crime, and probative of
+intent.
+      Although three witnesses testified about the prior crimes and Izumi’s
+police interview regarding the Meter incident was admitted, the trial lasted
+five days, with 14 witnesses and 52 exhibits in total. The prior acts also did
+not result in death and were less inflammatory than the current offense,
+reducing the risk of confusion or undue prejudice. The trial court therefore
+had adequate grounds to find the prior crimes’ probative value was not
+substantially outweighed by undue consumption of time or a substantial
+danger of undue prejudice, confusing the issues, or misleading the jury.
+      In sum, we see no abuse of discretion in admitting the prior acts under
+section 1101(b) to prove intent.
+C.    The Trial Court Erred in Instructing the Jury on Character Evidence
+      1.    Izumi Did Not Forfeit the Issue
+      Although Izumi did not object to the trial court’s version of CACLCRIM
+No. 375, “[t]he rule of forfeiture does not apply . . . if the instruction was an
+incorrect statement of the law [citation], or if the instructional error affected
+the defendant’s substantial rights.” (People v. Franco (2009) 180 Cal.App.4th
+713, 719.) Both of these exceptions apply here.
+
+
+                                        11
+      2.    The Trial Court Erred in Instructing the Jury
+      Although the trial court properly admitted Izumi’s prior crimes under
+section 1101(b) as discussed above, we can discern no basis to admit that
+evidence for propensity purposes. Izumi did not offer any evidence of his own
+character or that of Roberts’s, rendering inapplicable sections 1102 and
+1103’s allowance for prosecution rebuttal propensity evidence. Additionally,
+the trial court did not find that the charged murder constituted a sexual
+offense, domestic violence, elder abuse, or child abuse, so there was no basis
+to admit character evidence under sections 1108 and 1109.
+      Under these circumstances, the bar against character evidence was in
+effect. However, the trial court told the jury the opposite. The court twice
+instructed the jury that it could consider Izumi’s past violent acts to
+determine whether he “acted in conformity with this character trait.” Here,
+this was prejudicial error.
+      3.    The Trial Court’s Error Prejudiced Izumi
+      At the outset, we acknowledge that a portion of the trial court’s
+character evidence instruction was correct. Specifically, the trial court
+instructed the jury not to conclude from the prior acts “that the defendant
+has a bad character or is disposed to commit crime.” But this correct portion
+was contradicted by two incorrect portions allowing the jury to consider the
+uncharged acts to determine if Izumi acted in conformity with his character
+to commit acts of violence. Additionally, the prosecutor highlighted those two
+incorrect portions in closing argument when she stated that the jury could
+use the prior acts “to assess [Izumi’s] character,” and “to consider whether he
+acted in conformity with his character.” Thus, despite the correct portion of
+the instruction, we doubt the jury properly applied the bar against character
+evidence.
+
+
+                                       12
+      As for the People’s contention that any instructional error was
+harmless based on the overwhelming evidence of Izumi’s guilt, we disagree.
+The evidence overwhelmingly established that Izumi killed Roberts, but that
+issue was never in dispute. Instead, the disagreement in this matter focused
+on Izumi’s state of mind and the resulting form of homicide that occurred,
+and the evidence was conflicting on that subject.
+      Both Vega and Izumi testified that there were no prior disputes
+between Izumi and Roberts. Vega and Larson also testified that there did
+not appear to be any tension between Izumi and Roberts while they chatted
+before the killing. The neighbor’s surveillance footage did not capture any
+arguments until Izumi yelled, “you raped my daughter” about an hour after
+he arrived at the Roberts’ home and moments before he killed Roberts. This
+evidence is consistent with Izumi’s claim that he killed Roberts in a heat of
+passion shortly after Izumi claimed A. confirmed Roberts’s alleged abuse.
+      Although other evidence conflicted with Izumi’s claim, such as
+Ramirez’s denial of telling Izumi that Roberts molested A. and Larson’s
+testimony that he never saw Izumi speaking with A., the jury rejected the
+prosecution’s theory that this was a preplanned attack by finding Izumi not
+guilty of first degree murder. As such, the jury seemingly determined that
+the killing involved some degree of provocation. Provocation may reduce first
+degree murder to second degree murder. (People v. Carasi (2008) 44 Cal.4th
+1263, 1306; CALCRIM No. 522.) Provocation is also “ ‘the factor which
+distinguishes the “heat of passion” form of voluntary manslaughter from
+murder.’ ” (People v. Manriquez (2005) 37 Cal.4th 547, 583.) “ ‘ “Heat of
+passion arises when ‘at the time of the killing, the reason of the accused was
+obscured or disturbed by passion to such an extent as would cause the
+ordinarily reasonable person of average disposition to act rashly and without
+
+
+                                      13
+deliberation and reflection, and from such passion rather than from
+judgment.’ ” ’ ” (Id. at p. 584.)
+      The character evidence in this case detailed two prior instances where
+Izumi resorted to violence under the apparent belief that he was protecting
+his daughter. It included Izumi’s statement that he had no lapse in judgment
+when he stabbed Meteer and that he “prayed on” it beforehand, and
+Ramirez’s description of a prolonged domestic violence incident. From this
+evidence, the jury could infer not only that Izumi was a violent person, but
+that his past use of violence to protect his daughter was a reasoned decision.
+The trial court’s character evidence instruction allowed the jury to conclude
+that Izumi acted in conformity with that character trait when he killed
+Roberts, and that conclusion would negate the provocation necessary for heat
+of passion voluntary manslaughter.
+      In light of the foregoing and given “ ‘ “[t]he natural and inevitable
+tendency” ’ . . . to give excessive weight to” propensity evidence (People v.
+Hendrix, supra, 214 Cal.App.4th at p. 238), there is a reasonable chance the
+jury’s ability to use character evidence affected its selection of second degree
+murder over Izumi’s heat of passion voluntary manslaughter defense.
+Accordingly, we conclude there is “ ‘ “ ‘more than an abstract possibility’ ” ’
+[citation] that at least one juror” decided the case against Izumi using
+impermissible character evidence. (People v. Hendrix (2022) 13 Cal.5th
+933, 948.) We conclude therefore the outcome would have been different in
+the absence of the trial court’s instructional error, requiring reversal.
+
+
+
+
+                                        14
+                            IV. DISPOSITION
+     The judgment is reversed, and the matter is remanded for a new trial.
+
+
+
+                                                                 RUBIN, J.
+
+WE CONCUR:
+
+
+
+IRION, Acting P. J.
+
+
+
+DATO, J.
+
+
+
+
+                                    15

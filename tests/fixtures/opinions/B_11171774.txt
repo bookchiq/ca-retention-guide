@@ -1,0 +1,360 @@
+cl_opinion_id: 11171774
+cluster: 10705187
+docket: B333751
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Mauldin CA2/8
+----
+Filed 10/16/25 P. v. Mauldin CA2/8
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                      DIVISION EIGHT
+
+THE PEOPLE,                                                   B333751
+
+         Plaintiff and Respondent,                            (Los Angeles County
+                                                              Super. Ct. No. MA084797-01)
+         v.
+
+ERIN VINCENT MAULDIN,
+
+         Defendant and Appellant.
+
+
+      APPEAL from a judgment of the Superior Court of Los
+Angeles County. Emily J. Cole, Judge. Reversed and remanded
+with instructions.
+      Jared G. Coleman, by appointment of the Court of Appeal,
+for Defendant and Appellant.
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Assistant
+Attorney General, Noah P. Hill and Deepti Vaadyala, Deputy
+Attorneys General, for Plaintiff and Respondent.
+
+                               _________________________
+      On appeal defendant Erin Vincent Mauldin contends the
+jury did not find true both prior strike allegations alleged against
+him and for which he was sentenced. He argues the verdict form
+shows the jury found true only one prior strike. We agree and
+reverse and remand the matter with instructions to find the
+second strike allegation untrue and to hold a new sentencing
+hearing.
+               PROCEDURAL BACKGROUND
+       By Information filed March 22, 2023, the People charged
+appellant Erin Vincent Mauldin with the attempted
+premeditated murder of Dominique Beverly in violation of Penal
+Code sections 664 and 187, subdivision (a)1 while personally
+inflicting great bodily injury and using a firearm within the
+meaning of sections 12022.7, subdivision (a) and 12022.5,
+subdivision (a); assault with a semiautomatic firearm on Earl
+McConnell in violation of section 245, subdivision (b); kidnapping
+Ariyah W., a victim under 14 years old, in violation of section
+207, subdivision (a) while personally using a semiautomatic
+firearm with the meaning of sections 12022.5, subdivisions (a),
+(d); and assault with a semiautomatic firearm on Ariyah W. in
+violation of section 245, subdivision (b). The Information also
+alleged Mauldin suffered two prior strike convictions within the
+meaning of the Three Strikes Law (§ 667, subds. (d)), which also
+constituted prior serious felony convictions within the meaning of
+section 667, subdivision (a)(1). Finally, the Information alleged
+aggravating circumstances within the meaning of California
+Rules of Court, rules 4.421(a), (b).
+
+
+1     Undesignated statutory sections are to the Penal Code.
+
+
+
+
+                                 2
+       The jury convicted Mauldin on all counts. He elected to
+have the jury decide the truth of the enhancements, including the
+two prior strike allegations. The People presented evidence that
+Mauldin had sustained two prior felony robbery convictions in
+the same case, that is, case No. MA035322. The trial court read
+the allegations from the Information to the jury. The trial court
+stated: “[I]t’s further alleged that with all of the counts, the
+defendant has been convicted of the following serious or violent
+felonies, and there are two counts under [case No.] MA035322.
+Both counts are violations of Penal Code section 211, which is
+robbery, and that conviction date was for both counts, September
+11th of 2007.”
+       The prosecutor presented the People’s evidence of the prior
+convictions and, in closing, told the jury: “Does Mr. Mauldin have
+prior convictions? The only evidence that you can consider in
+determining whether or not he has prior convictions is this
+[section 969, subdivision (b)] packet. You all will be going back to
+deliberate one more time. You’ll be able to take this packet with
+you and thumb through it and look at all of the information that
+Ms. Chavez just testified to. It is a certified record from the
+Department of Corrections indicating when Mr. Mauldin was
+convicted; what he was convicted of; where he went to prison; his
+movement within the prison system; and, ultimately, when he
+was paroled. [¶] I’ll draw your attention specifically to that
+abstract of judgment. I know it’s pretty difficult to see up on the
+screen, but this particular page of the document is going to tell
+you specifically about his convictions. Again, I know it’s hard to
+see, but the case number that the judge read to you that will be
+contained on the verdict form is towards the top of the abstract of
+judgment. It gives you the date of the hearing as well as the date
+
+
+
+
+                                 3
+of conviction, which is September 11, 2007, and then what his
+two convictions are for. Now, it’s the same count with the same
+case number, but it’s two different counts; so it counts as two
+different convictions. [¶] You’ll also be able to see that he pled to
+these counts for the primary counts, 211, which are robberies.”
+       The trial court then instructed the jury with CALCRIM
+No. 3101 [Prior Convictions]: “The People have alleged that the
+defendant was previously convicted of other crimes. It has
+already been determined that the defendant is the person named
+in exhibit 969(B) packet. You must decide whether the evidence
+proves that the defendant was convicted of the alleged crimes. [¶]
+The People allege that the defendant has been convicted of: [¶]
+1. A violation of Penal Code 211, for which judgment was entered
+on September 11, 2007, in . . . Los Angeles, in Case Number
+MA035322; [¶] 2. A violation of Penal Code 211, for which
+judgment was entered on September 11, 2007, in . . . Los Angeles,
+in Case Number MA035322. [¶] In deciding whether the People
+have proved this allegation, consider only the evidence presented
+in this proceeding. Do not consider your verdict or any evidence
+from the earlier part of the trial. [¶] You may not return a finding
+that any alleged conviction has or has not been proved unless all
+12 of you agree on that finding.”
+       The verdict form, presented to and signed by the jury, as to
+the strike allegations stated: “We, the Jury in the above-entitled
+action, find that defendant, ERIN MAULDIN, suffered a prior
+felony conviction on or about September 11, 2007 in case number
+MA035322[,] a violation of Penal Code section 211 in the Los
+Angeles Superior Court to be TRUE.” The jury made no other
+findings related to the prior strike allegations.
+
+
+
+
+                                 4
+       Before the case went to the jury, the trial court invited
+comment about and objections to the jury instructions. The trial
+court asked if there were any corrections or additions that were
+needed or being requested. The record does not reflect that the
+trial court’s invitation to comment extended to the verdict forms.
+There are no objections in the record to the form of the verdict.
+       In a sentencing memorandum to the court, defense counsel
+noted for the court that the jury had found true one prior strike
+conviction. Counsel also noted that the probation report included
+two prior strike convictions from case number MA035322.
+Counsel asked the court to strike a prior conviction along with
+the gun enhancements.
+       At sentencing, the trial court noted, “[T]he two strikes the
+defendant has [are] under case MA035322. The defendant’s true
+strikes are from the same case, the same incident, but are from
+separate victims. The defendant and a codefendant entered a
+store and pointed rifles at multiple people in that store and
+ordered everyone into the restroom, stole money and cell phones,
+and one of the victims had the gun pointed at their head.” The
+trial court sentenced Mauldin to a total of 85 years to life plus 12
+years in prison. The aggregate term included a “third strike”
+sentence of 25 years to life. This appeal followed.
+                  FACTUAL BACKGROUND
+      In August 2022, Dominique Beverly and her four children
+returned home between 9:00 p.m. and 10:00 p.m. after a day
+spent with family in Apple Valley. Beverly took the children
+inside the apartment and then took their dog outside. When she
+returned to her front door, she heard someone running up behind
+her. It was Mauldin. He was extremely agitated and asked to
+come inside her apartment because he said he was being chased.
+
+
+
+
+                                 5
+Beverly tried to enter the apartment without him, but Mauldin
+kept trying to force his way in. Eventually Mauldin asked if he
+could use the phone; he promised to stand by the front door.
+Beverly told him to wait. She headed towards her bedroom to
+find a weapon to protect herself. She also called her fiancé. Just
+as she connected with her fiancé, Mauldin attacked her from
+behind with a hammer. She ran into the living room before
+Mauldin attacked her again.
+       Beverly and Mauldin scuffled as she tried to grab the gun
+she now saw in his hand. Mauldin shot her in the face. Beverly
+called out to her 12-year-old daughter Ariyah to call the police.
+She then saw Mauldin holding the gun to Ariyah’s head. Beverly,
+bleeding and choking on her blood, begged him not to shoot
+Ariyah. She began to crawl out of the apartment to find help.
+       Eventually Beverly’s fiancé arrived. He saw Mauldin
+holding Ariyah in a chokehold and pointing a gun at her.
+Followed and observed by Beverly’s fiancé, Mauldin walked to a
+house across the street and kicked open the wooden gate that led
+to the front yard. He told Ariyah he was doing all this because
+people were chasing him. He also told her, as he kept his arm
+around her neck, that she would be the first to die. Ariyah saw
+Mauldin with two guns.
+       At around 10:30 p.m. police arrived and found Mauldin
+holding Ariyah at gunpoint. Mauldin released her upon the
+officer’s command to do so and he was then detained. Beverly
+suffered severe facial injuries, including the loss of her right eye,
+several skull fractures, recurring pain, and permanent swelling
+and nerve damage.
+
+
+
+
+                                 6
+                         DISCUSSION
+I.    Standard of Review
+      Review of an unauthorized sentence presents a question of
+law which we review de novo. (People v. Smith (2001) 24 Cal.4th
+849, 852; People v. Cromer (2001) 24 Cal.4th 889, 894.) A
+sentence that exceeds statutory limits is unauthorized and
+voidable at any time. (People v. Bell (1971) 17 Cal.App.3d 949,
+955. No objection in the trial court is required to preserve the
+issue. (People v. Scott (1994) 9 Cal.4th 331, 354.)
+II.   Applicable Law
+       Under California’s Three Strikes Law, a sentence of
+25 years to life may be imposed only if the trier of fact expressly
+finds that the defendant has suffered two or more prior strike
+convictions. (§ 1170.12, subd. (c)(2)(A); see also § 1170.1, subd. (e)
+[allegations must be found to be true by the trier of fact].)
+       This finding must be express, not implied. Penal Code
+section 1158 provides as follows: “Whenever the fact of a previous
+conviction of another offense is charged in an accusatory
+pleading, and the defendant is found guilty of the offense with
+which he is charged, the jury, or the judge if a jury trial is
+waived, must unless the answer of the defendant admits such
+previous conviction, find whether or not he has suffered such
+previous conviction. The verdict or finding upon the charge of
+previous conviction may be: ‘We (or I) find the charge of previous
+conviction true’ or ‘We (or I) find the charge of previous conviction
+not true,’ according as the jury or the judge find that the
+defendant has or has not suffered such conviction. If more than
+one previous conviction is charged a separate finding must be
+made as to each.” (§ 1158.)
+
+
+
+
+                                  7
+III.   Analysis
+       The record is clear that the jury found true only one prior
+strike conviction, not two. We conclude, pursuant to the
+reasoning of People v. Huffman (1967) 248 Cal.App.2d 260, that
+the trier of fact’s failure to find true both strikes operates as an
+acquittal of one of the two strike allegations. As Huffman
+explains, “Since no finding was made by the court as to the
+alleged prior conviction as required under Penal Code section
+1158, the court’s silence operates as an acquittal of the charge of
+the prior conviction. [Citations.] Thus the present conviction
+must be treated as a conviction upon a first offense. [Citation.]”
+(Huffman, at p. 261; see also People v. Bright (1970) 4 Cal.App.3d
+926, 928 [failure of trier of fact to make finding on prior
+conviction operates as acquittal of allegation].)
+       More salient is People v. Eppinger (1895) 109 Cal. 294.
+There the jury was asked to find whether the defendant had
+suffered a prior conviction for petty larceny. The jury returned a
+verdict of guilty on the underlying charge, but “[failed to] find
+specifically upon this issue as they were required to do by section
+1158 of the Penal Code.” (Id. at p. 297.) The trial court
+sentenced the defendant to the mandatory term of fourteen years
+as if there had been a true finding on the prior petty larceny
+conviction. Our Supreme Court held, “It was unquestionably
+error for the jury to have failed to find upon the issue. The error
+being shown, the injury will be presumed, unless the contrary is
+clearly made to appear. [Citations.] In other words, it must be
+presumed that the trial judge treated the general verdict as
+including a finding in favor of the truth of the charge of prior
+conviction and thus sentenced under section 667 of the Penal
+Code. Had the sentence been for any less period than fourteen
+
+
+
+
+                                 8
+years, the difficulty would have been obviated, for it would then
+certainly have appeared that the court treated the verdict as
+favorable to the defendant upon the charge of prior conviction.
+Not having done so affords additional ground for the belief that it
+felt compelled to sentence under section 667. But, in so doing,
+the judge incorporated into the verdict a finding of fact which the
+jury did not make, and sentenced the defendant under an issue
+upon which the jury did not pass.” (Id. at pp. 297–298.) The
+Supreme Court concluded: “The verdict rendered should be
+treated as a finding against the defendant upon the crime
+charged, and in favor of the defendant upon the question of prior
+conviction. The judgment must therefore be reversed, with
+directions to the trial judge to pronounce a judgment and
+sentence upon defendant in the exercise of . . . discretion upon the
+facts and circumstances of the case.” (Id. at p. 298; People v.
+Gutierrez (1993) 14 Cal.App.4th 1425, 1440 [where no words are
+used and the trier of fact fails to make a finding, the effect is the
+same as a finding of “not true”].)
+       Citing People v. Jackson (2014) 58 Cal.4th 724, 750 and
+People v. Ochoa (1998) 19 Cal.4th 353, 427, the People contend
+we should treat the jury’s failure to make a factual finding as a
+“technical” defect in the verdict form that may be disregarded.
+The People also suggest that because the instructions were so
+clear, the jury had no reason to believe that they were making a
+finding as to a single strike only and therefore we should imply a
+jury finding that both strike allegations were true. Finally, the
+People argue that if we determine there must be a jury finding on
+the second strike allegation, all we have to do is remand for a
+retrial on the allegation pursuant to People v. Barragan (2004)
+32 Cal.4th 236, 259.
+
+
+
+
+                                 9
+       We disagree with the People’s contentions. This was not a
+verdict form that had the potential to confuse the jury, as
+contended in Jackson and Ochoa. This was the complete absence
+of a jury form, in violation of section 1158’s requirement of a
+separate verdict form for each alleged prior conviction. The form
+the jury did sign was neither unclear nor confusing. It plainly
+asked for one finding on one prior conviction in the prior case in
+which Mauldin had sustained two prior convictions. We can
+speculate as to why the jury proceeded with the jury verdict form
+that contradicted the instructions it had received, but to what
+end. Over 100 years ago, People v. Eppinger set out the path we
+must follow, which does not include a retrial of the allegation.
+We do so now.
+                         DISPOSITION
+      The judgment is reversed with directions to find the second
+strike allegation untrue and to hold a new sentencing hearing.
+
+      NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+
+
+
+                                                STRATTON, P. J.
+
+We concur:
+
+
+
+
+             VIRAMONTES, J.                     RUBIN, J.*
+
+*      Retired Presiding Justice of the Court of Appeal, Second
+Appellate District, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+
+
+
+                                10

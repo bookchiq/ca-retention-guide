@@ -1,0 +1,703 @@
+cl_opinion_id: 11312363
+cluster: 10845003
+docket: G064487
+date: 2026-04-16
+status: Published
+type: 010combined
+field: plain_text
+case: NNN Capital Fund I, LLC v. Mikles
+----
+Filed 3/20/26; Certified for Publication 4/16/26 (order attached)
+
+
+
+
+        IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                            FOURTH APPELLATE DISTRICT
+
+                                         DIVISION THREE
+
+
+ NNN CAPITAL FUND I, LLC,
+
+      Plaintiff and Respondent,                             G064487
+
+         v.                                                  (Super. Ct. No. 30-2017-
+                                                             00910991)
+ TODD A. MIKLES et al.,
+                                                            OPINION
+      Defendants and Appellants.
+
+
+
+                Appeal from a judgment of the Superior Court of Orange County,
+David J. Hesseltine, Judge. Vacated and remanded with directions.
+Appellants’ and respondent’s requests for judicial notice. Granted.
+                Thomas E. Walling for Defendants and Appellants.
+                Catanzarite Law, Kenneth J. Catanzarite and Tim James
+O’Keefe for Plaintiff and Respondent.
+                                     *             *                *
+            This case represents the collision of two basic tenets of the law:
+The first is that jurisdiction is never waived and can be raised at any time,
+including for the first time on appeal. The second is that an arbitration
+award can only be challenged on very limited grounds and must be upheld if
+those grounds do not exist, even if the award is based on an error of law. The
+majority opinion follows the first tenet, and the dissent the second.
+            Purported representatives of respondent NNN Capital Fund I,
+LLC (Cap Fund), claiming to be the company’s liquidating trustees, brought
+an action against appellants Todd A. Mikles, SCMG Liquidation, LLC
+(SCMG), SSMF Liquidation, LLC (collectively, appellants), and various other
+defendants, claiming breach of fiduciary duty and fraud. The trial court
+ordered the claims to arbitration. Appellants filed a motion to dismiss the
+arbitration based on lack of standing of the purported liquidating trustees,
+which was denied by the arbitrator. The arbitrator issued an award in favor
+of Cap Fund, which was affirmed by the court.
+            On appeal, appellants argue the arbitrator and trial court lacked
+jurisdiction over the action because it was initiated and prosecuted by
+individuals who were unauthorized to represent Cap Fund. More specifically,
+appellants contend the purported representatives, Tyrone (Tye) Wynfield and
+Mary Jo Saul, lacked standing to bring claims on behalf of Cap Fund because
+they were not elected in accordance with the terms of the company’s
+operating agreement. If the purported representatives did not have standing,
+the court and arbitrator lacked jurisdiction over the case, 1 and it should have
+been dismissed at the outset and not sent to arbitration. We conclude the
+
+      1 As discussed in more detail below, we grant appellants’ and
+
+respondent’s requests for judicial notice of documents pertinent to assessing
+justiciability.
+
+                                       2
+factual dispute whether Wynfield or Saul had standing to bring the instant
+action on Cap Fund’s behalf, therefore, remains unresolved. Accordingly, we
+vacate the judgment and remand to the trial court with directions that it
+consider whether Wynfield and Saul had standing.
+                                   FACTS
+A. Factual Background
+            In 2008, Cap Fund was formed to provide short-term financing to
+affiliated borrowers for real estate syndications. Cap Fund obtained
+membership through a private placement memorandum which provided Cap
+Fund would be professionally managed by NNN Realty Investors, LLC
+(NNNRI). By 2011, in the wake of a widespread recession, three of Cap
+Fund’s loans (the Notes), which were unsecured and short-term, were
+outstanding and nonperforming.
+            In August 2011, Mikles was appointed president of NNNRI. After
+his appointment, several of Cap Fund’s members told him they wished to
+wrap up Cap Fund and its outstanding Notes. Mikles proposed that
+Sovereign Strategic Mortgage Fund, LLC (SSMF), which he controlled, would
+purchase the Notes. Cap Fund decided to sell the Notes to SSMF for a
+discount and obtain new notes from SSMF at 8 percent interest, each with a
+short maturity date and periodic interest payments.
+            Disclosures regarding the Note sale were provided to Cap Fund’s
+members. The sale of two of the Notes was included in a proposed
+“Amendment No. 1 to the Limited Liability Company Agreement” that was
+presented to the members for approval and approved by 77 percent of Cap
+Fund’s members; the third Note was sold at the same time and at a similar
+discount. Amendment No. 1 also required that Cap Fund’s manager, NNNRI,
+
+
+
+                                      3
+would resign upon the sale of the Notes and be replaced by SCMG. After
+acquiring the Notes, SSMF negotiated a deal to sell them.
+            On December 18, 2015, SCMG, Cap Fund’s manager, dissolved
+the company under sections 11.1.1. and 11.1.2 of the operating agreement by
+distribution of all the assets of the company to its members and cessation of
+Cap Fund’s activities. The members were subsequently issued Schedule K-1’s
+as part of Cap Fund’s tax returns, showing their ownership percentages as 0
+percent at the end of 2015. All of the members accepted the repayment of the
+Notes and the final distribution proceeds.
+            Cap Fund members Wynfield and John Weiss were apparently
+unhappy with the company’s management, alleging that the sale of the Notes
+was a breach of fiduciary duty. In December 2015, Wynfield and Weiss
+purported to conduct a vote of Cap Fund members to appoint themselves as
+“liquidating trustees.” The ballots state as follows:
+            “VOTE AND/OR DIRECTION AND/OR APPLICATION BY
+MEMBER THAT JOHN WEISS AND TYE WYNFIELD BE APPOINTED
+LIQUIDATING TRUSTEE OF NNN CAPITAL FUND I, LLC
+            “By my signature below I vote and/or direct and/or apply as to
+100 [percent] of the membership interests attributable to me that John Weiss
+and Tye Wynfield be appointed Liquidating Trustee by the court for NNN
+CAPITAL FUND I, LLC (the “Company”) to wind up the Company’s affairs in
+accordance with [(Del. Code Ann. tit. 6, § 18-803)] (the text of which is below).
+The liquidating trustees shall have full power and authority to pursue any
+and all Company assets, claims, choses in action and remedies in addition to
+all other powers of such liquidating trustees as are available under Delaware
+law.
+
+
+
+                                        4
+            “Delaware law provides: (a) Unless otherwise provided in the
+limited liability company agreement, [. . .] but the Court of Chancery, upon
+cause shown, may wind up the limited liability company’s affairs upon
+application of any member or manager, or the member’s personal
+representative or assignee, and in connection therewith, may appoint a
+liquidating trustee. Unless otherwise provided in a limited liability company
+agreement, a limited liability company whose original certificate of formation
+was filed with the Secretary of State and effective on or prior to July 31,
+2015, shall continue to be governed by this subsection as in effect on July 31,
+2015. [(Del. Code Ann. tit. 6, § 18-803)] (West).” (Italics added.)
+            Under the terms of Cap Fund’s operating agreement, not all
+members are qualified to vote. Section 9.2 of Cap Fund’s operating agreement
+provides that members who received their interest as transferees, such as
+when the admitted member died, have no right to vote on company matters
+unless they are admitted as a “substituted member,” pursuant to the
+procedures set forth in the operating agreement.
+            The operating agreement provides for several conditions which
+must be fulfilled to become a substitute member: (1) obtaining the consent of
+Cap Fund’s manager under section 9.2.2; and (2) providing a written
+assignment and other documentation supporting the transfer and paying a
+transfer fee under section 9.2.1. None of the transferees of Cap Fund
+interests ever applied to be admitted as substitute members.
+            After the ballots were tallied, Wynfield claimed he was elected,
+by a majority vote of the members of Cap Fund, to be its liquidating trustee.
+However, despite the express language of the ballots, which stated the vote
+was to seek to have a court appoint Weiss and Wynfield as liquidating
+trustees, neither Weiss nor Wynfield ever applied to the Delaware Court of
+
+                                        5
+Chancery or any other court to dissolve Cap Fund. Wynfield admitted that he
+never sought court approval to be appointed liquidating trustee. No court
+ever appointed Wynfield or anyone else to be liquidating trustee. 2
+            A later examination of the ballots for the alleged December 2015
+vote apparently determined that all the ballots, including those of members
+not entitled to vote on company matters per the terms of Cap Fund’s
+operating agreement, were counted in the vote totals. Exclusion of the
+members ineligible to vote apparently left Wynfield with 44 percent of the
+votes, less than the 50 percent required by the operating agreement.
+            After Wynfield died in December 2019, another election was held
+in March 2020 purporting to appoint Wynfield’s widow, Mary Jo Saul, as a
+new liquidating trustee. This purported election also allegedly included votes
+of members who were not qualified to vote under the terms of Cap Fund’s
+operating agreement. A later examination of the ballots for the March 2020
+vote allegedly demonstrated that Saul obtained the votes of 37 percent of
+qualified members, less than the 50 percent required by Cap Fund’s
+operating agreement.
+B. Procedural History
+            In March 2017, Wynfield, purporting to be Cap Fund’s
+“liquidating trustee,” filed the underlying action. The complaint sought
+damages on Cap Fund’s behalf against appellants and other related entities
+for alleged breach of fiduciary duty arising from their role as Cap Fund
+
+      2 Notably, previous efforts by Weiss and Wynfield to be appointed Cap
+
+Fund’s liquidating trustees were denied by the United States District Court
+for the Southern District of California in Weiss et al. v. NNN Capital Fund,
+LLC, et al. (No. 14-cv-02689-H-NLS) and in Orange County Superior Court in
+Weiss v. NNN Capital Fund I, LLC (No. 30-2015-00818459). Weiss
+subsequently dismissed both actions in 2016.
+
+                                       6
+managers and submanagers. The complaint also contended that appellants’
+liquidation of Cap Fund’s assets was fraudulent. In September 2018, the trial
+court ordered the case to arbitration.
+            On January 5, 2021, with Saul now purportedly acting as
+“liquidating trustee,” Cap Fund initiated arbitration. On March 16, 2022,
+appellants filed a motion to dismiss the arbitration proceedings based in part
+on lack of standing.
+            In 2023, in an apparent attempt to correct the standing defects
+raised by appellants in arbitration, respondent’s counsel purported to conduct
+a ratification vote. Respondent’s counsel claimed Saul obtained the votes of
+51.6 percent of Cap Fund’s ownership interests. However, this ratification
+vote, like the two previous purported votes, apparently included the votes of
+transferee members not qualified by the terms of the operating agreement to
+vote on company matters. When non-qualified votes were removed, Saul
+allegedly received 37 percent of the qualified votes, less than the 50 percent
+required by the operating agreement.
+            In June 2023, appellants filed a renewed motion to dismiss for
+lack of standing based on the alleged improper elections and lack of
+authorized votes. The arbitrator did not hold a hearing on the motion to
+dismiss.
+            Arbitration was held in October and November 2023. On January
+26, 2024, the arbitrator issued an interim award in favor of Cap Fund in the
+amount of $20,972,601 in compensatory and punitive damages. The
+arbitrator also concluded that Wynfield and Saul had standing to bring the
+action on Cap Fund’s behalf.
+
+
+
+
+                                         7
+            On March 29, 2024, the arbitrator issued a final award, which
+included attorney fees and costs. On June 3, 2024, the trial court confirmed
+the final award.
+                                  DISCUSSION
+                                        I.
+                                JUDICIAL NOTICE
+A. Appellants’ Request for Judicial Notice
+            Appellants filed a request for judicial notice of documents which
+were either filed in the arbitration or presented as exhibits. Appellants argue
+these documents are necessary to this court’s determination of whether the
+trial court and arbitrator lacked jurisdiction. Respondent filed an opposition
+to the request for judicial notice.
+            We grant appellants’ request for judicial notice of the documents
+in its appendix. First, these documents are subject to judicial notice under
+Evidence Code section 452, subdivision (d) because they were filed or entered
+as exhibits in the arbitration. Second, they may also be judicially noticed
+pursuant to subdivision (h) as facts “not reasonably subject to dispute” which
+are “capable of immediate and accurate determination by resort to sources of
+reasonably indisputable accuracy.” (See Brown v. TGS Management Co., LLC
+(2020) 57 Cal.App.5th 303, 308, fn. 2 [citing Evidence Code section 452,
+subdivisions (d) and (h) in granting request for judicial notice of arbitration
+transcripts]; Greenspan v. LADT LLC (2010) 191 Cal.App.4th 486, 525 [“trial
+court properly took judicial notice of” documents from underlying arbitration
+proceeding].)
+            We are unpersuaded by respondent’s argument that these
+documents are not subject to judicial notice because they were not filed in the
+trial court. A court must judicially notice the extent and limits of its own
+
+                                        8
+jurisdiction and may, at any time, take judicial notice of facts necessary to
+determine its jurisdiction. (See, e.g., Apple, Inc. v. Franchise Tax Bd. (2011)
+199 Cal.App.4th 1, 14, fn. 17 [appellate court took judicial notice of
+documents related to administrative proceedings to determine whether party
+had standing to appeal]; see also In re Christian H. (2015) 238 Cal.App.4th
+1085, 1091 [appellate court took judicial notice of letter brief consenting to
+jurisdiction of state court to determine custody and placement of refugee
+where necessary in determining whether case was moot].)
+B. Respondent’s Request for Judicial Notice
+            We also grant respondent’s request for judicial notice of
+documents filed in Utah state court and in the Florida bankruptcy court.
+Such documents are subject to judicial notice under Evidence Code section
+452, subdivision (d) as records of the courts of record of the United States or
+of any state of the United States. We further grant respondent’s request for
+judicial notice of the American Arbitration Association’s commercial
+arbitration rules, which are subject to judicial notice under Evidence Code
+section 452, subdivision (h).
+                                       II.
+PLAINTIFFS WYNFIELD AND SAUL MAY LACK STANDING TO SUE ON BEHALF OF
+                                   CAP FUND
+            If Wynfield and Saul were not qualified to file suit on Cap Fund’s
+behalf, they lacked standing, and therefore neither the trial court nor the
+arbitrator had jurisdiction over the suit.
+A. Legal Standard
+            “A litigant’s standing to sue is a threshold issue to be resolved
+before the matter can be reached on the merits. (Hernandez v. Atlantic
+Finance Co. (1980) 105 Cal.App.3d 65, 71.) . . . We will not address the merits
+
+                                        9
+of litigation when the plaintiff lacks standing because ‘“California courts have
+no power . . . to render advisory opinions or give declaratory relief.”’
+(Municipal Court v. Superior Court (Gonzalez) (1993) 5 Cal.4th 1126, 1132.)
+Standing ‘“goes to the existence of a cause of action.”’” (Blumhorst v. Jewish
+Family Services of Los Angeles (2005) 126 Cal.App.4th 993, 1000.)
+            An appellant can raise the lack of standing for the first time on
+appeal. A plaintiff’s lack of standing is treated as a “jurisdictional” defect and
+is not waived by a defendant’s failure to raise it by demurrer or answer.
+“[C]ontentions based on a lack of standing involve jurisdictional challenges
+and may be raised at any time in the proceeding.” (Common Cause v. Board
+of Supervisors of Los Angeles County (1989) 49 Cal.3d 432, 438 [lack of
+standing can be raised for first time on appeal]; Golden Eagle Land
+Investment, L.P. v. Rancho Santa Fe Assn. (2018) 19 Cal.App.5th 399, 425,
+[same].) Standing to sue affects the right to relief and goes to the existence of
+a cause of action against the defendant. (Killian v. Millard (1991) 228
+Cal.App.3d 1601, 1605.)
+            “Courts will decline to resolve lawsuits that do not present a
+justiciable controversy, and justiciability ‘involves the intertwined criteria of
+ripeness and standing.’” (County of San Diego v. San Diego NORML (2008)
+165 Cal.App.4th 798, 813.) “Every action must be prosecuted in the name of
+the real party in interest, except as otherwise provided by statute.” (Code Civ.
+Proc., § 367.) “The real party in interest is generally the person who has the
+right to sue under the substantive law. [Citation.] ‘A party who is not the real
+party in interest lacks standing to sue because the claim belongs to someone
+else.’” (River’s Side at Wash. Square Homeowners Assn. v. Superior Court
+(2023) 88 Cal.App.5th 1209, 1226 (River’s Side).)
+
+
+
+                                        10
+            California courts “view standing to sue as a substantive right”
+and therefore apply the law where the company was incorporated. (Vaughn v.
+LJ Internat., Inc. (2009) 174 Cal.App.4th 213, 222, 226–227.) Cap Fund’s
+operating agreement provides that Delaware law shall apply. Under
+Delaware law, a party must have standing to sue to invoke the jurisdiction of
+the court. (El Paso Pipeline GP Co., L.L.C. v. Brinckerhoff (Del. 2016) 152
+A.3d 1248, 1256.)
+            Both standing and the interpretation of statutes are questions of
+law to which we typically apply a de novo standard of review. (Fry v. City of
+Los Angeles (2016) 245 Cal.App.4th 539, 548–549; Ghirardo v. Antonioli
+(1994) 8 Cal.4th 791, 799–801.) However, where the superior court makes
+underlying factual findings relevant to the question of standing, we defer to
+the superior court and review the findings for substantial evidence. (Fry,
+supra, at p. 549.) Where the facts related to standing are not in dispute, we
+decide the issue de novo as a matter of law. (San Luis Rey Racing, Inc. v.
+California Horse Racing Bd. (2017) 15 Cal.App.5th 67, 74; Babbitt v. Superior
+Court (2016) 246 Cal.App.4th 1135, 1143.)
+B. Discussion
+            Appellants contend that neither Wynfield nor Saul were properly
+elected as “liquidating trustees” authorized to sue on Cap Fund’s behalf.
+First, the explicit terms of the ballots sent to members stated that the vote
+was to seek appointment by the court of liquidating trustees. However,
+Wynfield and Saul never obtained court approval before declaring themselves
+“liquidating trustees.” Second, if Wynfield and Saul were not elected by a
+majority of the members qualified to vote per the terms of the operating
+agreement, any such vote was invalid.
+
+
+
+                                      11
+            Respondent fails to directly address appellants’ contention that
+Wynfield and Saul relied on ballots which were invalid under the terms of the
+company’s operating agreement and therefore were not properly elected
+liquidating trustees. Respondent instead makes two arguments, both of
+which we find unconvincing. First, respondent argues that, even if Wynfield’s
+initial appointment was improper, any error was cured by the later votes
+approving Wynfield’s and Saul’s appointments. As noted, these later votes
+appear to suffer from the same deficiencies as the first vote, namely that they
+counted all the ballots returned, including those that were not qualified to
+vote per the terms of Cap Fund’s operating agreement.
+            Second, respondent contends that Wynfield and Saul were
+authorized to act as liquidating trustees because the company lacked a
+manager at the time. Respondent relies on the assignment for benefit of
+creditors initiated by former manager NNNRI to claim that the manager had
+“resigned” within the meaning of section 8.1 of Cap Fund’s operating
+agreement. However, it appears that a majority of Cap Fund’s members
+authorized to vote had voted on an amendment to the operating agreement to
+replace NNNRI as manager with SCMG when they approved the sale of the
+Notes to SSMF. No action was taken to revoke the amendment or to remove
+SCMG as manager. Therefore, it seems there was an authorized manager in
+place at the time Wynfield and Saul sought to be appointed as liquidating
+trustees.
+            Cap Fund’s operating agreement does not authorize any
+individual member to file an action on the company’s behalf, but instead
+specifically vests this authority in the company’s manager. Section 6.3.19 of
+Cap Fund’s operating agreement provides that the manager shall have the
+exclusive authority to “[i]nitiate, settle and defend legal actions on behalf of
+
+                                       12
+the Company including any such actions with respect to Investments.”
+Section 7.1 of the operating agreement states, “[T]he management of the
+company is vested exclusively in the Manager. No Member, acting solely in
+the capacity of a Member, is an agent of the Company nor can any Member in
+such capacity bind or execute any instrument on behalf of the Company.”
+Thus, at the time Wynfield claimed to be elected as liquidating trustee,
+SCMG, as manager, appears to have possessed sole authority to litigate on
+Cap Fund’s behalf.
+            Additionally, neither Wynfield nor Saul, as individual members
+of the limited liability company, had standing to sue for any alleged injury to
+Cap Fund. In determining whether an individual action as opposed to a
+derivative action lies, a court looks at “the gravamen of the wrong alleged in
+the pleadings.” (Nelson v. Anderson (1999) 72 Cal.App.4th 111, 124 (Nelson).)
+As noted, the gravamen of the complaint was injury to Cap Fund caused by
+alleged fraudulent transfer of its assets by appellants, who purportedly
+breached their fiduciary duty as the company’s managers and submanagers.
+            Claims for injury or damage to a corporation or its property
+belong to the corporation, not its stockholders, who have no standing to sue
+for such wrongs. (Jones v. H.F. Ahmanson & Co. (1969) 1 Cal.3d 93, 107
+(Jones).) “Because all of the acts alleged to have caused [plaintiff’s] injury
+amount to alleged misfeasance or negligence in managing the corporation’s
+business . . . any obligations so violated were duties owed directly and
+immediately to the corporation.” (Nelson, supra, 72 Cal.App.4th at p. 125.)
+Therefore, “it was for the corporation to institute and maintain a remedial
+action.” (Id. at p. 126.) Similarly, a member of a limited liability company
+cannot sue individually for alleged fraudulent transfer of the company’s
+assets because the entity is the real party in interest. (PacLink
+
+                                        13
+Communications Int’l, Inc. v. Superior Court (2001) 90 Cal.App.4th 958, 964–
+965 (PacLink).)
+            Accordingly, the trial court must make a factual determination
+on remand and resolve whether Wynfield and/or Saul had standing to file
+suit on Cap Fund’s behalf. If the court determines Wynfield and Saul lacked
+standing, and no authorized representative of the company may be
+substituted, the court would lack jurisdiction to adjudicate the case. (River’s
+Side, supra, 88 Cal.App.5th at p. 1239 [where party lacks standing to sue,
+action is subject to dismissal].) A lack of subject matter jurisdiction would
+similarly prevent the court from adjudicating any motion to compel
+arbitration. (See Cohen v. TNP 2008 Participating Notes Program, LLC
+(2019) 31 Cal.App.5th 840, 857 [court vacated order granting petition to
+compel arbitration of claims brought by party lacking standing].)
+            “When a court lacks fundamental jurisdiction, its ruling is void”
+(People v. Chavez (2018) 4 Cal.5th 771, 780), and the action must be
+dismissed. (Cloud v. Northrop Grumman Corp. (1998) 67 Cal.App.4th 995,
+1004; Saffer v. JP Morgan Chase Bank, N.A. (2014) 225 Cal.App.4th 1239,
+1243 [court vacated judgment arising from arbitration award where trial
+court lacked jurisdiction].)
+                                       III.
+    AN ARBITRATION AWARD IS REVIEWABLE IN CERTAIN CIRCUMSTANCES
+            Respondent argues the arbitration award must be affirmed
+because such an award is generally not reviewable on appeal, citing
+Moncharsh v. Heily & Blase (1992) 3 Cal.4th 1. We agree with respondent
+that Moncharsh concluded that there is limited judicial review of arbitration
+decisions. Moncharsh determined that a court may not review the merits of
+the controversy, the validity of the arbitrator’s reasoning, or the sufficiency of
+
+                                       14
+the evidence. (Id. at p. 11.) Indeed, an arbitrator’s decision is not generally
+reviewable for errors of fact or law, even if the error appears on the face of
+the award and causes substantial injustice. (Id. at p. 6.)
+            However, as the Supreme Court noted in Moncharsh, an
+arbitration award is subject to judicial review “on the grounds set forth in
+[Code of Civil Procedure] sections 1286.2 (to vacate) and 1286.6 (for
+correction).” (Id. at p. 33.) Code of Civil Procedure section 1286.2 sets forth
+the bases on which a court “shall” vacate an arbitration award, including if it
+determines “the arbitrators exceeded their powers and the award cannot be
+corrected without affecting the merits of the decision upon the controversy
+submitted.” (Id., at subd. (a)(4).) An arbitrator exceeds his powers when he
+acts without subject matter jurisdiction. (National Union Fire Ins. Co. v.
+Stites Prof. Law Corp. (1991) 235 Cal.App.3d 1718, 1724.) In National Union,
+the appellate court set aside an arbitration award on the ground that the
+arbitrator lacked jurisdiction over the dispute, concluding the arbitrator’s
+factual finding that he had jurisdiction was not binding on the trial court.
+(Ibid.) Therefore, if the arbitrator here did not have subject matter
+jurisdiction due to the liquidating trustees’ lack of standing, the arbitration
+award is subject to vacation pursuant to Code of Civil Procedure section
+1286.2.
+            Respondent also argues that appellants may not challenge the
+arbitrator’s authority to decide the dispute because they failed to raise the
+issue in the trial court. However, appellants’ failure to challenge the
+arbitrator’s authority in the trial court does not waive the issue. (See, e.g.,
+Jordan v. Department of Motor Vehicles (2002) 100 Cal.App.4th 431, 453
+[appellant did not waive argument arbitrators lacked authority to exceed
+capped monetary award by failing to raise the issue in arbitration].) Thus, it
+
+                                        15
+is an issue for the trial court, not the arbitrator, to determine whether there
+is standing. (See Bouton v. USAA Casualty Ins. Co. (2008) 167 Cal.App.4th
+412, 425 [“The preliminary determination of standing to arbitrate as a party
+to the arbitration agreement is a question for the trial court.”].)
+                                 DISPOSITION
+            The judgment in respondent’s favor is vacated. The matter is
+remanded with directions for the trial court to: (1) vacate its order compelling
+arbitration; (2) vacate its order confirming the arbitration award; and (3)
+make factual findings regarding whether Tyrone Wynfield and/or Mary Jo
+Saul had standing to bring the action on respondent’s behalf. If Wynfield and
+Saul lacked standing and no other plaintiff may be substituted, the court
+shall dismiss the action. If the court finds Wynfield and/or Saul have
+standing, or that another plaintiff may be substituted, the court shall
+reinstate the order compelling arbitration, the order confirming the
+arbitration award, and the judgment. Appellants are entitled to recover their
+costs on appeal.
+
+
+                                            SANCHEZ, J.
+
+I CONCUR:
+
+
+
+MOORE, ACTING P. J.
+
+
+
+
+                                       16
+BANCROFT, J., pro tem., Dissenting.
+            I respectfully dissent.
+            The majority’s opinion would vacate a judgment after a final,
+binding arbitration award based on the aggrieved party’s contention that the
+other party did not have standing. The practical result of the majority’s
+decision will be to require the trial court to conduct an evidentiary hearing on
+the plaintiff’s standing in every case before ordering the matter to arbitration
+on the defendant’s request. This is neither practical nor legally required.
+When a jury or court sitting as a finder of fact determines after trial that one
+party to the proceeding lacked standing, the court’s interim orders are not
+subject to be vacated because it did not determine the parties’ standing at the
+outset of the case. The result should be no different when the matter has
+been sent to contractual arbitration at the request of the party who now
+seeks a second bite at the apple.
+            Taken to its logical conclusion, the rule announced by the
+majority today would permit an unhappy party to challenge any judgment
+(whether the result of a jury trial, a bench trial, or a dispositive motion)
+based on a bare contention of lack of standing, on the ground that the court
+never had jurisdiction over the matter in the first place. No authority
+supports this attack on the finality of judgments, or of binding arbitration
+awards to which the parties agreed.
+            Defendants and appellants Todd A. Mikles, SCMG Liquidation,
+LLC (SCMG), and SSMF Liquidation, LLC (SSMF) (collectively Appellants)
+each filed demurrers to the original, first amended, and second amended
+complaints filed by plaintiff and respondent NNN Capital Fund I, LLC (Cap
+Fund); the issue of standing was never raised in any of those demurrers.
+After Cap Fund filed a third amended complaint, Mikles and another
+
+                                        1
+defendant filed a motion to compel arbitration; SCMG, SSMF, and two other
+defendants filed a joinder in that motion.
+            A trial court must order a matter to arbitration if it “determines
+that an agreement to arbitrate the controversy exists,” unless it makes other
+findings that no party contends are at issue in this case. (Code Civ. Proc.,
+§ 1281.2.) Specifically, the statute provides: “If the court determines that a
+written agreement to arbitrate a controversy exists, an order to arbitrate that
+controversy may not be refused on the ground that the petitioner’s contentions
+lack substantive merit.” (Ibid., italics added.) The trial court properly granted
+the motion to compel arbitration requested by Appellants.
+            The arbitration provision in this case provides that “[a]ny
+controversy arising out of or related to this Agreement or the breach thereof or
+an investment in the Interests shall be settled by arbitration in Orange
+County California, in accordance with the rules of the American Arbitration
+Association (the ‘AAA’), and judgment entered upon the award rendered may
+be enforced by appropriate judicial action.” (Italics added.) This broad
+language gave the arbitrator the jurisdiction to consider and decide all issues
+between the parties, including but not limited to the issue of the parties’
+standing. The issue of standing was addressed in the arbitration proceeding,
+and the arbitrator made factual findings as to standing in the arbitration
+award.
+            Cap Fund filed a petition to confirm the arbitration award.
+Appellants did not file an opposition to the petition and did not file their own
+motion to correct or vacate the arbitration award. 1 The trial court granted the
+unopposed petition to confirm and entered judgment thereafter.
+
+            1  A petition to vacate an arbitration award, or a response to a
+petition to confirm requesting the award be vacated must be served and filed
+
+                                        2
+             Appellants argue on appeal that certain individuals lacked
+standing to represent Cap Fund in the case. The majority holds that, because
+lack of standing is a jurisdictional defect and lack of jurisdiction may be
+raised for the first time on appeal, this court has the authority to reverse the
+judgment and remand the matter to the trial court to make factual findings
+in the first instance.
+             This conclusion fails to take into account that jurisdiction was not
+raised for the first time on appeal. To the contrary, the issue was raised,
+argued, and decided in the arbitration by the duly appointed arbitrator.
+Under the clear rule enunciated by our Supreme Court in Moncharsh v. Heily
+& Blase (1992) 3 Cal.4th 1, standing is a factual matter to be decided by the
+arbitrator and is not subject to judicial review. “[I]t is within the ‘powers’ of
+the arbitrator to resolve the entire ‘merits’ of the ‘controversy submitted’ by
+the parties. [Citations.] Obviously, the ‘merits’ include all the contested
+issues of law and fact submitted to the arbitrator for decision. The
+arbitrator’s resolution of these issues is what the parties bargained for in the
+arbitration agreement. Moncharsh does not argue that the arbitrator’s award
+strayed beyond the scope of the parties’ agreement by resolving issues the
+parties did not agree to arbitrate. The agreement to arbitrate encompassed
+‘[a]ny dispute arising out of’ the employment contract.” (Id. at p. 28.) “We
+
+
+within 100 days after a signed copy of the award is served. (Code Civ. Proc.,
+§§ 1288, 1288.2.) An issue that would have supported a petition to vacate
+may not be raised on appeal if a timely challenge to the arbitration award is
+not made in the trial court. (See Louise Gardens of Encino Homeowners’
+Assn., Inc. v. Truck Ins. Exchange, Inc. (2000) 82 Cal.App.4th 648; Knass v.
+Blue Cross of California (1991) 228 Cal.App.3d 390.) Although the record in
+this case spans more than 6,300 pages, along with an additional 5,000 plus
+pages of documents attached to the requests for judicial notice, a proof of
+service on a copy of the arbitrator’s award cannot be easily located.
+
+                                         3
+conclude that an award reached by an arbitrator pursuant to a contractual
+agreement to arbitrate is not subject to judicial review except on the grounds
+set forth in [Code of Civil Procedure] sections 1286.2 (to vacate) and 1286.6
+(for correction). Further, the existence of an error of law apparent on the face
+of the award that causes substantial injustice does not provide grounds for
+judicial review.” (Id. at p. 33.)
+             The majority cites Cohen v. TNP 2008 Participating Notes
+Program, LLC (2019) 31 Cal.App.5th 840 in support of its conclusion the trial
+court here lacked jurisdiction to grant the original motion to compel
+arbitration filed by the parties who now claim the trial court lacked
+jurisdiction to do so. I would not read Cohen so broadly. The specific issue
+that case decided was whether the agent of a party to an arbitration
+agreement had standing to compel arbitration of his personal claims against
+the other party. (Id. at p. 857.) No case, published or unpublished, has
+extended Cohen beyond this point, and I would not do so here. I would rather
+conclude the trial court had jurisdiction to consider and rule on the motion to
+compel arbitration in the first instance, without determining whether the
+individuals had standing to represent Cap Fund.
+             I would also conclude the arbitrator had the jurisdiction to
+consider the issue of standing. National Union Fire Ins. Co. v. Stites Prof.
+Law Corp. (1991) 235 Cal.App.3d 1718, 1724, on which the majority relies for
+the proposition that an arbitrator exceeds his power when he acts without
+subject matter jurisdiction is not on point. As the court explained in Douglass
+v. Serenivision, Inc. (2018) 20 Cal.App.5th 376, 385: “[T]he subject matter
+jurisdiction of an arbitrator is purely a product of contract [citation], which by
+definition turns on the parties’ mutual consent [citation]. To say that an
+arbitrator’s subject matter jurisdiction ‘cannot be conferred by consent’ is
+
+                                        4
+accordingly incorrect. [Citation.] National Union’s language makes sense
+when it is read in context, as National Union was addressing the scope of an
+arbitrator’s jurisdiction fixed by a statute (there, Bus. & Prof. Code, § 6200
+et seq.) [citation]; but to the extent that language is read out of context to say
+that an arbitrator’s subject matter jurisdiction cannot be enlarged by consent
+when that jurisdiction is solely a matter of contract, we disagree with
+National Union.” In this case, the operating agreement’s arbitration
+provision gave the arbitrator the broadest possible jurisdiction. National
+Union is inapplicable here.
+            I do not find the majority’s citation to Bouton v. USAA Casualty
+Ins. Co. (2008) 167 Cal.App.4th 412 convincing, as the court in that case was
+considering whether a party had standing under the terms of an arbitration
+agreement to participate in the arbitration. That is a matter of contract
+interpretation and does not address the issue presented here.
+            The trial court could only vacate the arbitration award if
+(1) Appellants filed and served a petition to vacate the award or an opposition
+to the petition to confirm (Code Civ. Proc., § 1286.4, subd. (a)), and (2) the
+trial court determined the arbitrator exceeded his power “and the award
+cannot be corrected without affecting the merits of the decision upon the
+controversy submitted” (id., § 1286.2, subd. (a)(4)). 2 There is no dispute that
+the first requirement was not met. As explained ante, I do not believe the
+arbitrator exceeded his power to determine the parties’ standing, so the
+second requirement was not met either. The trial court did not err in
+
+
+            2  Code of Civil Procedure section 1286.2, subdivision (a), sets
+forth the six grounds on which an arbitration award may be vacated by the
+trial court. Subdivision (a)(4) is the ground on which the majority relies, and
+the only one arguably applicable.
+
+                                        5
+confirming the arbitration award and entering judgment thereon. It had no
+obligation to sua sponte consider standing, much less conduct an evidentiary
+hearing on that issue.
+            As to appellants’ request for judicial notice, I would grant the
+request under Evidence Code sections 452, subdivision (d), and 459. I would
+not grant the request under section 452, subdivision (h). Almost by definition,
+arbitration claims and briefs, declarations and exhibits attached thereto, and
+arbitration awards are not “[f]acts and propositions that are not reasonably
+subject to dispute and are capable of immediate and accurate determination
+by resort to sources of reasonably indisputable accuracy.” (Id., subd. (h).) Of
+course, this court should not take judicial notice of the truth of any factual
+assertions in any of the exhibits. (Sandoval v. Pali Institute, Inc. (2025)
+113 Cal.App.5th 616, 627, fn. 2.)
+
+
+
+
+                                            BANCROFT, J.*
+
+*Judge of the Orange County Superior Court, assigned by the Chief Justice
+pursuant to article VI, section 6 of the California Constitution.
+
+
+
+
+                                        6
+Filed 4/16/2026
+                     CERTIFIED FOR PUBLICATION
+
+       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                      FOURTH APPELLATE DISTRICT
+
+                              DIVISION THREE
+
+
+ NNN CAPITAL FUND I, LLC,
+
+     Plaintiff and Respondent,                G064487
+
+        v.                                     (Super. Ct. No. 30-2017-
+                                               00910991)
+ TODD A. MIKLES et al.,
+                                              ORDER
+     Defendants and Appellants.
+
+
+
+       Respondent has requested that our opinion, filed on March 20, 2026, be
+certified for publication. It appears that our opinion meets the standards set
+forth in California Rules of Court, rule 8.1105(c). The request is GRANTED.
+       The opinion is ordered published in the Official Reports.
+
+                                           SANCHEZ, J.
+
+WE CONCUR:
+
+
+MOORE, ACTING P. J.
+
+
+BANCROFT, J.*
+
+*Judge of the Orange County Superior Court, assigned by the Chief Justice
+pursuant to article VI, section 6 of the California Constitution.

@@ -1,0 +1,150 @@
+cl_opinion_id: 11171772
+cluster: 10705185
+docket: C102485
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Movrich CA3
+----
+Filed 10/16/25 P. v. Movrich CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      THIRD APPELLATE DISTRICT
+
+                                                        (Placer)
+                                                          ----
+
+ THE PEOPLE,                                                                    C102485
+
+                    Plaintiff and Respondent,                                   (Super. Ct. No. 62200845)
+
+           v.
+
+ JEREMY VERNON MOVRICH,
+
+                    Defendant and Appellant.
+
+
+
+         Defendant Jeremy Vernon Movrich appeals from the trial court’s order authorizing
+the involuntary administration of medication. His appointed counsel submitted a brief
+pursuant to Conservatorship of Ben. C. (2007) 40 Cal.4th 529 (Ben C.). Under Ben C.,
+upon the filing of an appellate brief that does not identify any arguable issues and the
+allowance of time for the defendant to file a supplemental brief, we may exercise our
+discretion to retain the appeal or dismiss it on our own motion. (Id. at p. 544, fns. 6, 7.)
+Counsel informed defendant of his right to file a supplemental brief but he has not done
+so. Consistent with Ben C., we will dismiss the appeal.
+
+
+
+
+                                                             1
+                                     BACKGROUND
+       In September 2024, a felony complaint charged defendant with making criminal
+threats (Pen. Code,1 § 422; count one) and resisting an executive officer (§ 69, subd. (a);
+count two). The complaint further alleged defendant suffered a single prior serious
+felony conviction and prior strike conviction. (§§ 667, subd. (a)(1), 667, subds. (b)-(i),
+1170.12, subd. (a).)
+       On September 11, 2024, the trial court declared doubt as to defendant’s
+competency and ordered two doctors to evaluate defendant for competency and grave
+disability.
+       On September 30, 2024, the Placer County Adult System of Care filed a petition
+for involuntary administration of psychotropic medication under section 2603. The
+petition attached a declaration of Dr. Dianne Collins, a psychiatrist, who diagnosed
+defendant with schizoaffective disorder. Dr. Collins opined that defendant was gravely
+disabled and lacked the capacity to refuse treatment. Dr. Collins explained that on
+September 12, 2024, defendant began refusing medication. When she attempted to talk
+with defendant as to why he was refusing medication, defendant talked in a rambling and
+disjointed manner about a girlfriend, being on a steamboat with another woman with
+three children, then being chained to a bed with a diaper, and being fondled and tortured.
+When Dr. Collins attempted to talk to defendant appropriately, he continued to ramble
+and became more agitated. Another mental health professional was similarly
+unsuccessful in redirecting defendant to appropriate conversation.
+       Dr. Collins opined that defendant’s gravely disabled behavior was a consequence
+of his refusing treatment. Defendant had been incarcerated since May 2022 and during
+his incarceration he had been stabilized on medications. When stabilized, defendant was
+
+
+
+
+1 Undesignated statutory references are to the Penal Code.
+
+
+
+                                             2
+calm, cooperative, and able to make appropriate decisions; but since refusing medication,
+defendant had become delusional, paranoid, and angry. Unmedicated, defendant had a
+history of unpredictable and violent behavior and posed a risk to others. When Dr.
+Collins attempted to talk to defendant about the need for medication, he “adamantly”
+stated he did not need medication and became agitated when the subject was raised, again
+making delusional statements. Alternative treatments had been attempted, but defendant
+refused oral medication. Dr. Collins concluded that defendant was disorganized,
+delusional, and paranoid, and therefore lacked the capacity to make appropriate decisions,
+including how to provide for food, clothing, and shelter for himself.
+       The petition also attached a declaration from a supervisor at Placer County Health
+and Human Services in Adult Mental Health that defendant had been determined to meet
+the criteria for gravely disabled due to a mental health disorder. Efforts to locate a
+community-based treatment facility had been unsuccessful because the facility contacted
+denied placement of defendant due to the level of his behaviors, including a history of
+unprovoked violence at the facility.
+       On October 23, 2024, the trial court granted the petition for involuntary
+administration of medication, finding that defendant had a serious mental disorder, was
+gravely disabled and lacked the capacity to consent or refuse treatment, and was a danger
+to himself or others if not medicated. The court further found that there was no less
+intrusive alternative to involuntary medication and it was in defendant’s best interest.
+                                       DISCUSSION
+       Appointed counsel filed an opening brief under Ben C. setting forth the procedural
+history and facts of the case. (Ben C., supra, 40 Cal.4th at p. 544.) In Ben C., the
+California Supreme Court concluded that the procedures referenced in People v. Wende
+(1979) 25 Cal.3d 436 and Anders v. California (1967) 386 U.S. 738 are required only in
+the first appeal of right from a criminal conviction. (Ben C., at pp. 536-537.) The appeal
+before us, “although originating in a criminal context, is not a first appeal of right from a
+
+                                              3
+criminal prosecution, because it is not an appeal from the judgment of conviction.”
+(People v. Serrano (2012) 211 Cal.App.4th 496, 501.) We conclude defendant has no
+right to Wende/Anders review of the order to administer antipsychotic medications
+involuntarily. (Ben C., at pp. 537, 544.)
+       Counsel advised defendant of his right to file a supplemental brief within 30 days
+of the date of the opening brief. (Ben C., supra, 40 Cal.4th at p. 544, fn. 6.) Defendant
+has not filed a supplemental brief. We decline to exercise our Ben C. discretion to
+conduct an independent review of the record in this case. (Id. at p. 544, fn. 7.) Thus, we
+dismiss the appeal. (Id. at p. 544.)
+                                       DISPOSITION
+       The appeal is dismissed.
+
+
+
+                                                  _/s/________________________
+                                                  WISEMAN, J.*
+
+
+
+We concur:
+
+
+
+_/s/________________________
+HULL, Acting P. J.
+
+
+
+_/s/________________________
+KRAUSE, J.
+
+
+
+
+* Retired Associate Justice of the Court of Appeal, Fifth Appellate District, assigned by
+the Chief Justice pursuant to article VI, section 6 of the California Constitution.
+
+                                              4
