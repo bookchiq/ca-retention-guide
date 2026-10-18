@@ -57,7 +57,7 @@ Good: "Wrote the 2–1 majority holding that a warrant affidavit relying on an u
 
 ## 5. Verification (a different session)
 
-Re-open the opinion and confirm: the author and panel from the signature lines (or the Supreme Court attribution), the disposition sentence, the listing rule and role, the vote, and that the summary matches the holding. Fix anything wrong, then stamp with `python -m src.review verify --justice <slug> --by <session> --ids ...`.
+Re-open the opinion and confirm: the case name and docket number match the opinion's own caption (CourtListener occasionally files an opinion under another case's name; correct the record to the caption and note it), the author and panel from the signature lines (or the Supreme Court attribution), the disposition sentence, the listing rule and role, the vote, and that the summary matches the holding. Fix anything wrong, then stamp with `python -m src.review verify --justice <slug> --by <session> --ids ...`.
 
 ## 6. Second check and promotion
 
