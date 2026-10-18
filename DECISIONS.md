@@ -57,6 +57,12 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 **Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" marking a modified opinion's docket; the stored records keep both. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
 
+## 2026-10-18: Tier 1 review complete for the San Diego set
+
+All 13 queued San Diego-ballot justices were read, verified by a separate session, and second-checked on a random 15% per justice (minimum 1), listed and excluded. Every sampled record passed, so none went back to verification. 27 cases appear in more than one justice's queue, and each got the same at-issue call for every justice. All 24 listed records match their opinion captions (docket and party name).
+
+**Reading rule clarification.** Readers and checkers treated bail and pretrial-detention rulings (*In re Humphrey*) and "probable cause" to hold a defendant to answer (Pen. Code § 995) as outside the search-and-seizure topic. The review guide now says so explicitly. No record changed.
+
 ## 2026-10-17: Review queue rules (U9)
 
 - L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.
