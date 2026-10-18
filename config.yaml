@@ -1,0 +1,39 @@
+# Project configuration. Secrets live in .env (gitignored), never here.
+
+project:
+  name: ca-retention-guide
+  repo_url: https://github.com/bookchiq/ca-retention-guide
+
+window:
+  # Default window for Court of Appeal opinions (SPEC §3). Owner decision point: R6.
+  start: "2020-01-01"
+  # Supreme Court opinions are fetched from this date.
+  supreme_court_start: "2019-01-01"
+
+bulk:
+  snapshot: "2026-09-30"
+  courts: [calctapp, cal]
+
+api:
+  base: https://www.courtlistener.com/api/rest/v4/
+  # Fixed spacing keeps a run under the documented 50 requests/hour limit.
+  min_interval_seconds: 75
+  # Stop rather than wait longer than this on a 429 Retry-After.
+  max_retry_after_seconds: 3600
+
+render:
+  # "Last updated" date printed on every page; never the wall clock (KTD12).
+  snapshot_date: null
+
+phase:
+  tier2_enabled: false
+
+paths:
+  raw: data/raw
+  bulk: data/raw/bulk
+  database: data/cases.sqlite
+  drafts: data/drafts
+  review: data/review
+  case_notes: data/case_notes.jsonl
+  validation: data/validation
+  guide: guide

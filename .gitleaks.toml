@@ -1,0 +1,32 @@
+# gitleaks configuration: default rules plus CourtListener token forms.
+# CourtListener tokens are 40-char hex with no prefix, so rules key on context;
+# a bare-hex rule would fire on every git SHA. The guard (src/guard.py) also
+# checks for the exact local token value.
+
+[extend]
+useDefault = true
+
+[[rules]]
+id = "courtlistener-token-env"
+description = "CourtListener token assigned to COURTLISTENER_TOKEN"
+regex = '''COURTLISTENER_TOKEN\s*[=:]\s*["']?([0-9a-fA-F]{40})'''
+secretGroup = 1
+keywords = ["courtlistener_token"]
+
+[[rules]]
+id = "courtlistener-token-header"
+description = "CourtListener token in an Authorization header"
+regex = '''(?i)authorization["']?\s*[:=,]\s*["']?token\s+([0-9a-fA-F]{40})'''
+secretGroup = 1
+keywords = ["authorization"]
+
+[[rules]]
+id = "courtlistener-token-param"
+description = "CourtListener token in a query string"
+regex = '''(?i)[?&]token=([0-9a-fA-F]{40})'''
+secretGroup = 1
+keywords = ["token="]
+
+[[allowlists]]
+description = "Fake token fixtures used by the gitleaks test"
+paths = ['''tests/fixtures/secrets/''']

@@ -1,0 +1,12 @@
+Guide content license
+
+The code in this repository is licensed under the MIT License (see LICENSE).
+
+The guide's original prose and data exports (everything under guide/, plus
+data/case_notes.jsonl and the other hand-built files under data/) are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Court opinions themselves are public domain. Opinion data is drawn from
+CourtListener, a project of the Free Law Project (https://www.courtlistener.com/);
+its bulk data carries the Creative Commons Public Domain Mark 1.0.

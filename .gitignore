@@ -1,0 +1,31 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Raw downloads, working data, and databases (never published)
+data/raw/
+data/drafts/
+data/review/
+data/*.sqlite
+data/*.sqlite-*
+*.sqlite
+*.sqlite-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Claude local settings
+.claude/settings.local.json
+.claude/todos.local.json
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
