@@ -12,6 +12,7 @@ from __future__ import annotations
 import csv
 import io
 import json
+import re
 import sys
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -165,6 +166,20 @@ def _glance(slug: str, j: dict, metrics: dict) -> list[dict]:
     return rows
 
 
+_CA_SUFFIX = re.compile(r"\s+CA\d/\d$")
+_MODIFIED_DOCKET = re.compile(r"^([A-HS]\d{6})M$")
+
+
+def _display_note(note: dict) -> dict:
+    """Drop CourtListener's display suffixes: ' CA4/1' on unpublished case names and the
+    'M' marking a modified opinion's docket. The stored record keeps both."""
+    shown = dict(note)
+    shown["case_name"] = _CA_SUFFIX.sub("", note.get("case_name") or "")
+    shown["citation_or_docket"] = _MODIFIED_DOCKET.sub(r"\1", note.get("citation_or_docket")
+                                                       or "")
+    return shown
+
+
 def _listing(slug: str, topic: str, inputs: Inputs) -> dict:
     reviewed = inputs.reviewed.get((slug, topic))
     if not reviewed:
@@ -175,7 +190,8 @@ def _listing(slug: str, topic: str, inputs: Inputs) -> dict:
         key=lambda n: (n["date_filed"], n["cl_opinion_id"]), reverse=True)
     if not listed:
         return {"status": "none", "queued": reviewed.get("queued", 0)}
-    return {"status": "listed", "total": len(listed), "shown": listed[:LISTING_SHOWN]}
+    return {"status": "listed", "total": len(listed),
+            "shown": [_display_note(n) for n in listed[:LISTING_SHOWN]]}
 
 
 def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:

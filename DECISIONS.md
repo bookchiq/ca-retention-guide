@@ -55,7 +55,7 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 **Reading rule clarification.** Two readers decided *People v. Brown* (S271877) differently: whether a ruling on continuing a suppression hearing puts the search issue "at issue." Ruled: yes. A ruling on how a suppression motion is litigated (timeliness, continuance, whether a hearing is required) rules on the claim the way a forfeiture ruling does. A case in several justices' queues must get the same at-issue call for each. New exclusion reason `no_rule_applies`: the issue is at issue but the justice's role meets no listing rule (for example, joined a dissent another justice wrote).
 
-**Data quality.** CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
+**Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" marking a modified opinion's docket; the stored records keep both. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
 
 ## 2026-10-17: Review queue rules (U9)
 

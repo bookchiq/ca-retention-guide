@@ -193,6 +193,16 @@ def test_multiple_source_urls_render_as_separate_links(tmp_path):
     assert ";https" not in text
 
 
+def test_listing_display_drops_courtlistener_suffixes(tmp_path):
+    n = note("dato", 1, "2024-01-01")
+    n.update(case_name="People v. Lewis CA4/1", citation_or_docket="D080606M")
+    reviewed = {("dato", "search_seizure"): {"queued": 1, "listed": 1, "excluded": 0}}
+    render.render(make_inputs(case_notes=[n], reviewed=reviewed), tmp_path)
+    text = page(tmp_path, "dato")
+    assert "*People v. Lewis* (D080606," in text
+    assert "CA4/1" not in text and "D080606M" not in text
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()
