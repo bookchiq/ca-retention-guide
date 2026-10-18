@@ -179,6 +179,20 @@ def test_supreme_court_page_quotes_denial_dissents_with_attribution(tmp_path):
     assert "Dissents from denial of review" not in page(tmp_path, "dato")
 
 
+def test_headings_always_start_their_own_line(tmp_path):
+    render.render(make_inputs(), tmp_path)
+    for line in page(tmp_path, "dato").splitlines():
+        assert "#" not in line or line.startswith("#") or "](" in line, line
+
+
+def test_multiple_source_urls_render_as_separate_links(tmp_path):
+    js = [justice("dato", prior_retention_source_url="https://a.example/1;https://a.example/2")]
+    render.render(make_inputs(justices=js, metrics=metric_rows("dato")), tmp_path)
+    text = page(tmp_path, "dato")
+    assert "](https://a.example/1)" in text and "](https://a.example/2)" in text
+    assert ";https" not in text
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()

@@ -12,11 +12,11 @@
 {% endif -%}
 | | |
 |---|---|
-| Appellate service began | {{ j.appellate_start_date or "Not found in official sources" }}{% if j.appellate_start_source_url %} ([source]({{ j.appellate_start_source_url }})){% endif %} |
-| Appointed by | {{ ("Gov. " ~ j.appointing_governor) if j.appointing_governor else "Not found in official sources" }}{% if j.appointing_governor_source_url %} ([source]({{ j.appointing_governor_source_url }})){% endif %} |
-| Prior career | {{ j.career_text or "Not found in official sources" }}{% if j.prior_career_source_url %} ([source]({{ j.prior_career_source_url }})){% endif %} |
-| Prior retention votes | {{ j.retention_text }}{% if j.prior_retention_source_url %} ([source]({{ j.prior_retention_source_url }})){% endif %} |
-| Public discipline (Commission on Judicial Performance) | {{ j.discipline_text }}{% if j.cjp_source_url %} ([source]({{ j.cjp_source_url }})){% endif %} |
+| Appellate service began | {{ j.appellate_start_date or "Not found in official sources" }}{{ j.appellate_start_source_url|sources }} |
+| Appointed by | {{ ("Gov. " ~ j.appointing_governor) if j.appointing_governor else "Not found in official sources" }}{{ j.appointing_governor_source_url|sources }} |
+| Prior career | {{ j.career_text or "Not found in official sources" }}{{ j.prior_career_source_url|sources }} |
+| Prior retention votes | {{ j.retention_text }}{{ j.prior_retention_source_url|sources }} |
+| Public discipline (Commission on Judicial Performance) | {{ j.discipline_text }}{{ j.cjp_source_url|sources }} |
 {% if j.bio_url %}| Official biography | [{{ j.bio_url }}]({{ j.bio_url }}) |
 {% endif %}
 {% if not j.limited_record %}
@@ -51,16 +51,17 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 {% if t.listing %}
 {% if t.listing.status == "not_reviewed" -%}
 **Listed cases: not yet reviewed.** The cases this topic's listing rules select for {{ j.short_name }} have not all been read and verified yet, so none are shown.
-{%- elif t.listing.status == "none" -%}
+{% elif t.listing.status == "none" -%}
 **Listed cases:** none. No case in the window met the listing rules ({{ t.listing.queued }} candidate{{ "s" if t.listing.queued != 1 }} reviewed).
-{%- else -%}
+{% else -%}
 **Listed cases** ({{ t.listing.total }}{% if t.listing.total > t.listing.shown|length %}; the {{ t.listing.shown|length }} most recent are shown, and all are in [the CSV](../data/case_notes/{{ j.slug }}.csv){% endif %}). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
 {% for c in t.listing.shown %}
 - {{ c.summary }} *{{ c.case_name }}* ({{ c.citation_or_docket }}, {{ c.date_filed }}; {{ "published" if c.published else "unpublished" }}{% if c.vote %}; vote {{ c.vote }}{% endif %}). [Opinion]({{ c.opinion_url }})
 {% endfor %}
-{%- endif %}
 {% endif %}
+{% endif %}
+
 {% endfor %}
 {% endif %}
 {% endif %}

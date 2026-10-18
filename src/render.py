@@ -249,6 +249,16 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
     return ctx
 
 
+def _sources(value) -> str:
+    """' ([source](u))' for one URL, ' (sources: [1](u1), [2](u2))' for several."""
+    urls = [u.strip() for u in str(value or "").split(";") if u.strip()]
+    if not urls:
+        return ""
+    if len(urls) == 1:
+        return f" ([source]({urls[0]}))"
+    return " (sources: " + ", ".join(f"[{i}]({u})" for i, u in enumerate(urls, 1)) + ")"
+
+
 def _tidy(md: str) -> str:
     """Blank line before every heading and blockquote; no runs of blank lines."""
     out: list[str] = []
@@ -275,6 +285,7 @@ def _csv_text(rows: list[dict], fields: list[str]) -> str:
 def build(inputs: Inputs) -> dict[str, str]:
     env = Environment(loader=FileSystemLoader(TEMPLATES), undefined=StrictUndefined,
                       keep_trailing_newline=True, trim_blocks=True, lstrip_blocks=True)
+    env.filters["sources"] = _sources
     metrics = {(r["slug"], r["metric"], r.get("topic") or ""): r for r in inputs.metrics}
     updated = inputs.updated or "draft (no release date set)"
     contexts = [_justice_context(j, inputs, metrics) for j in inputs.justices]
