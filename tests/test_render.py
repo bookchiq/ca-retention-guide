@@ -290,6 +290,18 @@ def test_large_undercount_gets_a_caveat_on_the_page(tmp_path):
     assert "miss about 58% of opinions" in text
 
 
+def test_read_topics_report_reader_agreement_not_keyword_precision(tmp_path):
+    topics = dict(TOPICS, arbitration={"tier": 3, "validated": True, "method": "read",
+                                       "definition": "Decides arbitration."})
+    status = {"arbitration": {
+        "rounds": [{"precision": 0.4, "precision_n": 50, "probe_n": 30, "probe_hits": 3,
+                    "undercount_share": 0.3}],
+        "read": {"agreement": 0.95, "second_n": 40}}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    text = (tmp_path / "methodology.md").read_text()
+    assert "each opinion read; second readers agreed on 95% (N = 40) | 30% | yes" in text
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()
