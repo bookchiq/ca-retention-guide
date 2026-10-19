@@ -25,7 +25,7 @@ Last updated: {{ updated }}.
 4. **Who wrote what.** CourtListener does not record authors or panels for these courts, so software reads each opinion's signature lines to find the author, the other panel members, and any dissent or concurrence. Its accuracy was measured against hand-labeled samples before any count was published (see [Validation](#validation)).
 5. **Counts.** Opinions written, publication rate, dissents, and concurrences were computed for each justice and for their court as a whole, which gives each rate its baseline ([metrics.csv](data/metrics.csv)).
 6. **Topics.** Keyword rules flag opinions on each topic. Only the search-and-seizure rule has been checked by hand (see [Topics](#topics)).
-7. **Case review.** For San Diego-ballot justices, every opinion that might touch search and seizure was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)).
+7. **Case review.** For every justice (first the 17 on San Diego County ballots, then statewide), every opinion that might touch search and seizure was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)).
 8. **Pages.** The pages are generated from the data by a program, and the same data always produces the same pages. A word filter blocks a fixed list of loaded or ideological terms (listed in the review guide) from every page.
 
 ## Sources
@@ -62,7 +62,7 @@ Every other topic goes through the same check before its counts appear on the pa
 
 ## Which cases are listed
 
-For each San Diego-ballot justice, the guide lists every search-and-seizure case where the justice:
+For each justice, the guide lists every search-and-seizure case where the justice:
 
 1. wrote a dissent, concurrence, or concurrence-and-dissent;
 2. wrote a published majority opinion;
@@ -101,7 +101,9 @@ The [case data](data/case_notes.csv) includes every record, listed or excluded, 
 - **Summaries are short.** Each is at most 50 words. They were checked for accuracy, but some leave out context a lawyer would want, so read the opinion before relying on one.
 - **Judgment calls.** Deciding whether a search issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
 - **Source errors.** CourtListener occasionally files an opinion under the wrong case name. Reviewers check each case name against the opinion's own caption; the errors found are listed in the decisions log.
-- **Keyword counts undercount.** The search-and-seizure topic counts miss about one in five qualifying opinions (see [Topics](#topics)). The case lists are not affected, because review started from a much broader match.
+- **Filing dates.** Dates come from CourtListener, which sometimes records an opinion one to three days after the "Filed" date printed on it. Reviewers noted these differences but did not change the dates.
+- **Keyword counts undercount.** Every topic's counts are a floor: the keywords miss some qualifying opinions, from about one in five (search and seizure) to more than half (right to counsel, arbitration). The table under [Topics](#topics) gives each estimate. The search-and-seizure case lists are not affected, because review started from a much broader match.
+- **Some topics are not covered yet.** Jury selection and six civil topics (employment, consumer protection, landlord and tenant, public records, land use, taxes and fees) are not shown, because no keyword rule passed the accuracy check. They would need opinion-by-opinion reading instead.
 
 ## Limitations
 

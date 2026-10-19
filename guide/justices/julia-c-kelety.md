@@ -44,7 +44,61 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 - Joined the 2–1 majority holding that the record did not support a finding that a deputy saw a gun in plain view before opening a parked car's partially open trunk, and that community caretaking did not justify the warrantless search; reversed with directions to grant the motion to suppress. *People v. Lewis* (D087168, 2026-06-09; unpublished; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/10872541/people-v-lewis-ca41/)
 - Wrote the opinion holding that the initial police encounter was consensual but the patdown lacked reasonable suspicion; because the trial court made no finding on whether the defendant consented to the patdown, conditionally reversed and remanded for a renewed suppression hearing on consent. *People v. Ruiz* (D084504, 2025-08-25; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10660100/people-v-ruiz-ca41/)
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 9 | 46 | 1 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 2 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 9 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 1 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 12 | 0 | 1 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 27 | 91 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 8 | 25 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 17 | 1 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

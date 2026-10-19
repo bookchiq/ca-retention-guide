@@ -39,9 +39,66 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 5 | 13 | 0 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Banke have not all been read and verified yet, so none are shown.
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the opinion affirming partial denial of a suppression motion. Held a deceased man's parents were 'authorized possessors' of his devices under CalECPA and could consent to their warrantless search, and that any remaining particularity defect in the warrant for the defendant's phone was harmless. *People v. Clymer* (A166279, 2024-12-04; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10287920/people-v-clymer/)
+- Wrote the opinion reversing an order granting the defendant's suppression motion on the People's appeal. Held the trial court wrongly sustained a Harvey-Madden objection to information relayed through official channels and that the officer had probable cause to search the defendant's car; reinstated the dismissed counts. *People v. Mayes* (A160820, 2021-10-04; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/5287360/people-v-mayes-ca11/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 12 | 39 | 0 | 1 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 2 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 7 | 0 | 1 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 6 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 4 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 22 | 61 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 15 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 15 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

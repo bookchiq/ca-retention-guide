@@ -49,7 +49,61 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 - Wrote the opinion holding that minors in a parked car were detained and that a tip they were “acting shady” did not alone supply reasonable suspicion; reversed and remanded for a renewed suppression hearing. Also wrote a concurrence on how racial perceptions and implicit bias can bear on such detentions. *In re Edgerrin J.* (D076461, 2020-12-10; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4838065/in-re-edgerrin-j/)
 - Wrote the opinion holding that in infraction cases the prosecution need not file an opposition or appear at a suppression hearing, and may meet its burden by subpoenaing officers; reversed orders granting suppression and remanded for a new hearing. *People v. Cotsirilos* (D076870, 2020-07-08; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4766602/people-v-cotsirilos/)
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 17 | 70 | 2 | 2 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 8 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 16 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 5 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 7 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 36 | 130 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 17 | 46 | 0 | 1 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 13 | 26 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

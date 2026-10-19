@@ -244,11 +244,9 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
         def tm(name, _topic=topic):
             return _int_text(metrics.get((slug, name, _topic), {}).get("value"))
 
-        listing = None
-        if spec["tier"] in review_tiers and _true(j.get("sd_ballot")):
-            listing = _listing(slug, topic, inputs)
-        elif spec["tier"] == 1:
-            listing = {"status": "not_reviewed"}
+        # Case lists cover every justice whose queue has been reviewed (statewide since
+        # 2026-10-18); a reviewable topic without reviewed records says "not yet reviewed".
+        listing = _listing(slug, topic, inputs) if spec["tier"] in review_tiers else None
         rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
         missed = rounds[-1].get("undercount_share") if rounds else None
         topics.append({
@@ -279,7 +277,7 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
     if limited:
         ctx["record_status"] = "limited appellate record"
         ctx["index_listed"] = "—"
-    elif _true(j.get("sd_ballot")) and tier1 and all(
+    elif tier1 and all(
             t["listing"]["status"] != "not_reviewed" for t in tier1):
         ctx["record_status"] = "verified"
         ctx["index_listed"] = str(sum(t["listing"].get("total", 0) for t in tier1))

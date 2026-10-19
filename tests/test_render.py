@@ -97,6 +97,14 @@ def test_render_is_byte_identical_on_rerun(tmp_path):
         assert (a / rel).read_bytes() == (b / rel).read_bytes()
 
 
+def test_case_lists_cover_any_reviewed_justice_not_just_san_diego(tmp_path):
+    n = dict(note("other", 7, "2024-01-01"), justice_slug="other")
+    reviewed = {("other", "search_seizure"): {"queued": 1, "listed": 1, "excluded": 0}}
+    render.render(make_inputs(case_notes=[n], reviewed=reviewed), tmp_path)
+    assert "People v. Case7" in page(tmp_path, "other")
+    assert "not yet reviewed" in page(tmp_path, "dato")
+
+
 def test_unreviewed_topic_shows_counts_and_no_list(tmp_path):
     render.render(make_inputs(case_notes=[note("dato", 1, "2024-01-01")]), tmp_path)
     text = page(tmp_path, "dato")

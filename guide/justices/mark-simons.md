@@ -39,9 +39,66 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 3 | 11 | 0 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Simons have not all been read and verified yet, so none are shown.
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the opinion holding that warrantless tows of lawfully parked, registered vehicles based solely on unpaid parking tickets were not justified under the vehicular community caretaking exception or a forfeiture rationale; reversed the denial of the challenge to the city's towing policy. *Coalition on Homelessness v. City and County of S.F.* (A164180, 2023-07-21; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9415085/coalition-on-homelessness-v-city-and-county-of-sf/)
+- Wrote the opinion holding that trial counsel was ineffective for failing to renew a motion to suppress evidence from a warrantless vehicle stop, because a renewed motion would have been granted under the Harvey-Madden rule; reversed the conviction. *People v. Togiai* (A161507, 2023-03-17; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9384927/people-v-togiai-ca15/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 8 | 36 | 0 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 2 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 2 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 1 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 7 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 24 | 69 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 13 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 15 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

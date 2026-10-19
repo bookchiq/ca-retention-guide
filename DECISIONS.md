@@ -75,6 +75,12 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 
+## 2026-10-18: Search-and-seizure case lists for every justice
+
+Owner request: extend the hand-checked search-and-seizure lists beyond the 17 San Diego-ballot justices. The other 47 justices' queues (869 candidate opinions, built the same way) went through the same reading, separate verification, 15% second check, and consistency checks. Readers were batched by district and division so panel-mates shared a reader. Result for all 64 justices: 1,223 records for the 53 with candidate cases (the other 11 are limited-record justices with none), 70 listed, 204 second-checked, 0 substantive errors. All 54 cases shared between justices got the same at-issue call, and all 70 listed records match their opinion captions.
+
+Rulings made during this review (added to `docs/review-guide.md`): claim-preclusion rulings on a search claim are at issue, but a civil claim counts only if it is itself a search or seizure claim; L2 needs the search ruling in a published part of a partially published opinion; dockets are corrected to the caption. A concurrence that only states agreement with the majority's search analysis does not "address" it for L1. A summary may note a later Supreme Court reversal (People v. Brown, H048462, reversed in S271877).
+
 ## 2026-10-18: Validating the other 15 topics
 
 Owner request: add more topics so the guide is useful for different priorities. Each topic now has a written definition of "addresses the topic" in `data/keywords.yaml`, and the same check as search and seizure: independent labelers who see only the opinion text and the definition (`docs/topic-labeling-guide.md`) label 50 random tagged opinions, shuffled with 30 near misses. A topic is shown only at 85% precision or better on a sample not used to choose its rule. New tooling: `src/topic_validate.py`; results: `data/validation/report_topics.md`.

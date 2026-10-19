@@ -39,9 +39,73 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 4 | 13 | 3 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Wiley have not all been read and verified yet, so none are shown.
+**Listed cases** (9). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the opinion holding that hot pursuit of a fleeing felony suspect justified officers' warrantless entry into the defendant's apartment, and that no warrant was needed once inside, so jurors could find officers were acting lawfully; affirmed the convictions and remanded for sentencing corrections. *People v. Valencia* (B338672, 2026-03-10; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10806666/people-v-valencia/)
+- Wrote the opinion holding that officers detained a minor when they ordered him and his companions to step into the street with hands up, without reasonable suspicion; reversed the juvenile adjudication and directed the court to grant the motion to suppress the gun. *In re L.G.* (B331298, 2025-02-11; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10331157/in-re-lg/)
+- Wrote the opinion holding that officers detained the defendant by boxing in his parked car at night, and that a bulky jacket on a warm night, awkward seating and nervousness did not create reasonable suspicion; reversed with directions to grant the motion to suppress. *People v. Jackson* (B328954, 2024-03-15; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9484740/people-v-jackson/)
+- Wrote the opinion holding that police had probable cause to arrest the defendant, whose distinctive neck tattoo matched a witness description and who appeared at a surveilled location tied to the crime; affirmed the conviction and remanded only on sentencing questions. *People v. Diaz* (B319020, 2023-12-18; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9453086/people-v-diaz/)
+- Wrote the 2–1 majority holding that a search warrant affidavit established probable cause to search the defendant's home, a known gang hangout, and that omitting the dates of his prior convictions was immaterial; affirmed the denial of the motion to suppress. One justice dissented on probable cause. *People v. Delgado* (B309947, 2022-05-06; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/6466505/people-v-delgado/)
+- Wrote the opinion holding that a Border Patrol agent had reasonable suspicion to stop a minivan that made an abrupt U-turn and sped away after seeing his patrol car in a restricted area near the border; affirmed the superior court's order in the driver's license-suspension challenge. *Elmore v. Gordon* (B308328, 2021-12-30; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/5313257/elmore-v-gordon/)
+- Wrote the opinion holding that exigent circumstances justified a warrantless blood draw from an unconscious driver who was being airlifted to surgery after a fatal crash; affirmed the murder conviction and modified the sentence on another ground. *People v. Nault* (B306460, 2021-12-20; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/5308127/people-v-nault/)
+- Joined the 2–1 majority holding that the defendant was detained when he submitted to deputies' show of authority in a motel parking lot, without reasonable suspicion, and that the revolver found in a pat-down should have been suppressed; reversed the conviction. *People v. Cuadra* (B310554, 2021-11-05; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/5295291/people-v-cuadra/)
+- Wrote the 2–1 majority holding that the defendant, who ducked behind a parked car and stayed down as police approached at night in a high-crime area gave officers reasonable suspicion to detain him; affirmed the denial of the motion to suppress. One justice dissented. *People v. Flores* (B305359, 2021-02-16; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/4856901/people-v-flores/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 12 | 38 | 1 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 5 | 17 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 4 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 8 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 5 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 34 | 156 | 1 | 1 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 10 | 36 | 0 | 1 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 7 | 22 | 2 | 3 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 
