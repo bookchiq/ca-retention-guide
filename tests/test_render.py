@@ -266,6 +266,19 @@ def test_methodology_lists_each_topic_with_its_latest_validation(tmp_path):
     assert "| Search and seizure | Decides search_seizure. |" in text
 
 
+def test_large_undercount_gets_a_caveat_on_the_page(tmp_path):
+    topics = dict(TOPICS, interrogation={"tier": 2, "validated": True})
+    def rnd(share):
+        return {"precision": 0.9, "precision_n": 50, "probe_n": 30, "probe_hits": 5,
+                "undercount_share": share}
+    status = {"interrogation": {"rounds": [rnd(0.58)]},
+              "search_seizure": {"rounds": [rnd(0.19)]}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    text = page(tmp_path, "dato")
+    assert text.count("These counts are a floor") == 1
+    assert "miss about 58% of opinions" in text
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()

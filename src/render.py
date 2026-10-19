@@ -43,6 +43,7 @@ TOPIC_TITLES = {
     "anti_slapp": "Anti-SLAPP", "taxpayer": "Taxes and fees",
     "land_use_housing": "Land use and housing",
 }
+UNDERCOUNT_NOTE_MIN = 0.25
 NOTE_FIELDS = [
     "justice_slug", "topic", "cl_opinion_id", "case_name", "citation_or_docket", "date_filed",
     "published", "listing_decision", "exclusion_reason", "role", "listing_rule", "issue_type",
@@ -248,9 +249,14 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
             listing = _listing(slug, topic, inputs)
         elif spec["tier"] == 1:
             listing = {"status": "not_reviewed"}
+        rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
+        missed = rounds[-1].get("undercount_share") if rounds else None
         topics.append({
             "topic": topic, "title": TOPIC_TITLES.get(topic, topic),
             "validated": bool(spec.get("validated")),
+            # Counts that likely miss a quarter or more of the topic get a visible caveat.
+            "undercount_pct": (round(100 * missed) if missed is not None
+                               and missed >= UNDERCOUNT_NOTE_MIN else None),
             "authored": tm("topic_authored"), "panels": tm("topic_panels"),
             "contested_majority": tm("contested_majority"),
             "contested_dissent": tm("contested_dissent"), "listing": listing,

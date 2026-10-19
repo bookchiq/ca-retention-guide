@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4560885,probe,0,1,1,12022.53(h) firearm enhancement motion; 3051 mentioned only in denied judicial notice request
+4579390,precision,1,2,23,1170.95 summary denial affirmed; intent to kill; SB 1437 constitutionality
+4647191,precision,1,1,13,1170.95 summary denial affirmed on Wende review; express malice
+4661398,precision,1,1,18,1170.95 does not apply to manslaughter; equal protection rejected
+4663792,precision,1,2,49,1170.95 prima facie denial affirmed; intent to kill as aider and abettor
+4670165,precision,1,1,23,1170.95 does not apply to manslaughter plea; equal protection rejected
+4693008,precision,1,2,28,1170.95 does not apply to attempted murder plea; equal protection rejected
+4708116,precision,1,3,51,3051 youthful offender parole equal protection (LWOP exclusion) rejected; also 1170(d)(2) challenge
+4766110,precision,1,2,24,1170.95 summary denial without counsel reversed; actual killer not established
+5116168,probe,1,0,0,CLOSE: former 1170(d)(1) recall resentencing on District Attorney (not CDCR) recommendation; abuse of discretion rejected
+5122748,precision,1,2,14,1170.95 attempted murder petition; remand under SB 775
+5124178,precision,1,2,16,1170.95 denial reversed; SB 1437 not invalid amendment of Prop 115
+5787537,precision,1,3,38,3051(h) youth offender parole exclusion of One Strike offenders; equal protection rejected
+6105347,precision,1,2,37,1170.95 unavailable for provocative act murder; denial affirmed
+6112582,probe,1,0,0,former 1170(d)(1) CDCR recommendation recall; trial court misunderstood discretion; remand under 1170.03 and SB 483
+6113661,probe,0,0,0,presentence conduct credit limit for violent felony
+6220713,precision,1,1,16,1170.95 summary denial error harmless; affirmed
+6317741,probe,0,0,0,ordinary sentencing discretion; no resentencing statute
+6323168,precision,1,1,19,"1170.95 attempted murder/manslaughter petition; record does not defeat prima facie case, reversed"
+6326627,precision,1,1,16,1170.95 attempted murder plea petition; reversed and remanded under SB 775
+6335233,probe,0,0,0,"new trial, Brady and jury questions; prison priors dismissed under SB 136 below only"
+6335239,precision,1,1,14,CLOSE: appeal after granted 1170.95 resentencing; court construes 1170.95(d)(1) to uphold victim restitution reimposed at resentencing; also restitution fine credits
+6343552,precision,1,3,45,1170.95 petition; SB 775 applies to attempted murder; conspiracy excluded; partial reversal
+6351786,probe,1,0,0,"CLOSE: SB 483 / section 1171.1 (now 1172.75) applied on direct appeal; prison prior invalid, remand for resentencing under 1171.1"
+7798351,precision,1,2,21,1170.95/1172.6 attempted murder petition; reversed and remanded under SB 775 and Lewis
+8375392,probe,1,2,5,1172.6 attempted murder petition denial affirmed on Wende review
+8410391,probe,0,1,1,CEQA land use case
+9298351,precision,1,2,18,1172.6 evidentiary hearing denial affirmed; substantial evidence of direct aiding and abetting
+9371225,probe,0,0,0,juvenile restitution order Wende review
+9377040,precision,1,3,20,3051 youth offender parole LWOP exclusion equal protection rejected on direct appeal
+9388094,probe,0,1,1,"AB 333 gang retrial and SB 136 prison priors stricken on direct appeal (Estrada retroactivity, not 1172.75)"
+9397919,precision,0,3,9,"CLOSE: SB 775/1172.6(g) applied on direct appeal to reverse attempted murder conviction for NPC instruction; instructional error, not a resentencing petition"
+9405003,precision,1,1,8,CLOSE: court holds former 1170(d)/1172.1(a)(1) own-motion recall did not authorize vacating plea after appeal filed; 1172.1 recall issue decided though not a reform-petition claim
+9409092,probe,0,2,3,CLOSE: appeal from 1172.6 denial dismissed as abandoned under Delgadillo; no issue reviewed or decided
+9411537,probe,0,1,1,remand for resentencing under AB 518/SB 567 only; Franklin cite is different case
+9412789,probe,0,2,5,CLOSE: appeal from 1172.6 denial dismissed as abandoned under Delgadillo; no issue reviewed or decided
+9453197,probe,1,2,2,"1172.6 Delgadillo review; actual killer, denial affirmed"
+9548898,precision,1,3,12,1172.6 prima facie denial affirmed; actual killer; AB 333 and SB 81 not available
+9651966,precision,1,2,8,1172.6 prima facie denial affirmed; actual killer
+9813433,precision,1,2,24,"1172.6 resentencing; custody credits, parole under 1172.6(d)(1)/(h), victim restitution"
+9894166,precision,1,2,15,1172.6 denial reversed in light of SB 775; ambiguous instructions
+9895972,precision,1,2,15,1172.6 does not cover attempted voluntary manslaughter; equal protection rejected (Delgadillo)
+9896621,precision,1,2,8,"1172.6 Delgadillo appeal; claims not cognizable in 1172.6 appeal, affirmed"
+9914773,precision,1,1,13,1172.6 prima facie denial reversed; preliminary hearing transcript does not establish ineligibility
+9915817,precision,1,1,18,1172.75 requires full resentencing; Romero/1385 issues addressed
+9926442,precision,1,3,18,1172.6 prima facie denial reversed; improper reliance on preliminary hearing testimony
+9945599,probe,0,0,0,heat of passion instructions and prosecutorial error; no resentencing statute
+10513091,precision,1,2,10,1172.6 prima facie denial affirmed; no imputed malice theory
+10517557,precision,1,1,21,1172.75 applies to stayed prison priors; remand for recall and full resentencing
+10609705,probe,0,0,0,instructional and evidentiary errors; no resentencing statute
+10611421,precision,1,1,29,1172.75 jurisdiction after CDCR identification; remand for full resentencing
+10628335,probe,0,0,0,CLOSE: petition styled under 1170.03 treated as juvenile LWOP recall under 1170(d)(1); ineligibility under that excluded category decided
+10743298,probe,1,1,1,1172.75 resentencing order affirmed; Three Strikes and IAC claims at resentencing rejected
+10743299,precision,1,1,11,1172.6 prima facie denial reversed on concession; actual killer not established
+10748134,probe,0,0,0,kill zone instruction and sentencing; remand for resentencing on other grounds
+10756130,precision,1,1,9,"former 1170(d)(1)/1172.1 CDCR recommendation recall resentencing; 1385 and 1170(b)(6) discretion, credits"
+10762110,precision,1,3,46,1172.6 attempted murder prima facie denial reversed; intent to kill not established
+10779278,probe,1,2,5,1172.6 prima facie denial affirmed; actual killer record
+10781788,probe,1,1,4,1172.75 resentencing affirmed on Delgadillo review; received all relief entitled
+10818847,precision,1,1,14,1172.75 applies to stayed/stricken prison priors; remand for resentencing
+10849054,precision,1,1,18,1172.6 manslaughter/attempted murder plea; prima facie denial conditionally affirmed under Patton
+11073387,precision,1,4,17,1172.6 attempted murder plea entered after SB 1437; ineligibility finding reversed
+11088762,probe,1,1,2,"CLOSE: appeal from denial of defendant-filed 1172.1 resentencing motion dismissed; no standing under 1172.1(c), order nonappealable"
+11091138,probe,1,1,4,1172.75 resentencing order affirmed after independent review
+11099948,precision,1,1,13,CLOSE: appeal from denial of 1172.1/AB 1540 resentencing request dismissed; court holds no own-motion 1172.1 jurisdiction so order nonappealable
+11136591,precision,1,2,9,1172.6 successive petition barred by collateral estoppel; affirmed
+11205536,precision,1,1,9,"1172.6 attempted murder petition denial affirmed (Delgadillo); no NPC instruction, trial errors not cognizable"
+11212612,precision,0,3,40,juvenile LWOP recall under 1170(d)(1)(A)/Heard equal protection; excluded category
+11220680,probe,0,1,3,"SB 81/SB 1393 modification motions; 1172.1 motion not within notice of appeal, mentioned only in footnote"
+11231593,precision,1,2,8,1172.75 resentencing; refusal to strike strike prior and upper term under 1172.75(d)(4) affirmed
+11234902,precision,1,3,36,Franklin motion (youth offender parole record) wrongly denied as successive; reversed
+11239876,probe,1,1,4,1172.75 full resentencing affirmed on Delgadillo review; trial-error claims not cognizable
+11241012,precision,1,2,17,1172.6 evidentiary hearing denial affirmed; contentions forfeited or meritless
+11274103,precision,1,1,20,1172.75 resentencing; Three Strikes Reform Act relief under Guevara; remand for full resentencing
+11279201,probe,0,1,4,"CLOSE: custody credit correction under 1237.1; 1172.1 discussed only as jurisdiction source in distinguishing Singleton, no 1172.1 claim decided"
+11281107,precision,1,1,25,1172.6 evidentiary hearing; parole hearing statements admissible; denial affirmed
+11333328,probe,0,0,0,robbery/felony murder trial appeal; no resentencing statute
+11346620,probe,1,1,4,1172.75 resentencing; refusal to strike strike prior and use enhancement affirmed
+11410061,probe,1,1,1,"CLOSE: after 1172.6 petition granted, court decides juvenile transfer hearing required before resentencing on redesignated offenses"
+11477283,precision,1,1,13,"1172.75 prison-prior resentencing; counsel, presence, full resentencing required"

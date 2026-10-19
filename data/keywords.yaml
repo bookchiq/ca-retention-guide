@@ -59,7 +59,7 @@ search_seizure:
 
 interrogation:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 92% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_interrogation_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -69,6 +69,9 @@ interrogation:
     The court decides whether a defendant's statements to police or other government
     agents were admissible: Miranda warnings, waiver, or invocation; custody; or whether
     a confession or admission was voluntary.
+    An ineffective-assistance claim for failing to move to suppress the defendant's own
+    statements counts when the court decides it; rulings about a third party's statements
+    do not.
   anchors: [miranda, custodial interrogation, voluntariness, involuntary confession]
   broad: []
   probe: [confession, interrogat, admonition, statements to police, invoked his right,
@@ -76,7 +79,7 @@ interrogation:
 
 counsel_fair_trial:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 90% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_counsel_fair_trial_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -88,6 +91,8 @@ counsel_fair_trial:
     self-representation, a conflict of interest, or a denial of counsel or of a
     continuance to obtain counsel. Other Sixth Amendment issues, such as confrontation or
     jury-trial rights, do not count.
+    An ineffective-assistance claim counts when the court decides it, even as an
+    alternative to another claim; a civil motion to disqualify opposing counsel does not.
   anchors: [ineffective assistance, strickland, marsden, faretta, sixth amendment]
   broad: []
   probe: [right to counsel, substitute counsel, self-representation, represent himself,
@@ -96,15 +101,17 @@ counsel_fair_trial:
 jury_selection:
   tier: 2
   validated: false
-  # Round-1 candidate (2026-10-18): fit on labels_topic_jury_selection_r1.csv; must pass a
-  # fresh round-2 sample before the topic is shown.
+  # Round-2 failed at 82% with ≥6 anchor uses. Round-3 candidate (2026-10-18): fit on the
+  # round-1 and round-2 labels; must pass a fresh round-3 sample before the topic is shown.
   tag_rule:
-    min_distinct_anchors: 1
-    min_anchor_occurrences: 6
+    min_distinct_anchors: 2
+    min_anchor_occurrences: 5
   definition: >-
     The court decides a jury-selection claim: a Batson/Wheeler objection to a peremptory
     challenge, an objection under Code of Civil Procedure section 231.7, or a challenge to
     excusing a prospective juror for cause.
+    Peremptory challenges to a judge (Code Civ. Proc. § 170.6) and peremptory writs are not
+    jury selection.
   anchors: [batson, wheeler, section 231.7]
   broad: []
   probe: [peremptory, prospective juror, voir dire, excused for cause, jury venire]
@@ -112,22 +119,23 @@ jury_selection:
 racial_justice_act:
   tier: 2
   validated: false
-  # Round-1 candidate (2026-10-18): fit on labels_topic_racial_justice_act_r1.csv; must pass a
-  # fresh round-2 sample before the topic is shown.
+  # Round-2 failed at 84% with ≥3 anchor uses. Round-3 candidate (2026-10-18): fit on the
+  # round-1 and round-2 labels; must pass a fresh round-3 sample before the topic is shown.
   tag_rule:
-    min_distinct_anchors: 1
-    min_anchor_occurrences: 3
+    min_distinct_anchors: 2
+    min_anchor_occurrences: 5
   definition: >-
     The court decides a claim under the California Racial Justice Act (Pen. Code § 745),
     including whether a claim was properly raised, a hearing was required, or the Act
     applies to the case.
+    A § 745 reference only inside a quotation of another statute does not count.
   anchors: [racial justice act, section 745]
   broad: []
   probe: [racial bias, racial animus, implicit bias, racially discriminatory, race-based]
 
 police_records:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 92% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_police_records_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -138,6 +146,7 @@ police_records:
     records: a Pitchess motion, Penal Code section 832.7 (including SB 1421 disclosures),
     or a Brady claim about officer records. A request to review the sealed transcript of
     a Pitchess in-camera hearing counts, because the court decides it.
+    The Pitchess Detention Center and citations to Blair v. Pitchess are not this topic.
   anchors: [pitchess, evidence code section 1043, section 832.7, senate bill 1421]
   broad: []
   probe: [personnel records, personnel file, disciplinary records, officer misconduct,
@@ -145,7 +154,7 @@ police_records:
 
 immigration_pleas:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 92% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_immigration_pleas_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -155,13 +164,15 @@ immigration_pleas:
     The court decides whether a criminal conviction or plea must be vacated, or whether
     counsel erred, because of its immigration consequences (Pen. Code § 1473.7, Padilla
     claims, or related advisements under § 1016.5).
+    A § 1473.7(a)(2) motion based on newly discovered evidence of innocence is not this
+    topic.
   anchors: [section 1473.7, immigration consequences, padilla v. kentucky]
   broad: []
   probe: [deportation, removal proceedings, noncitizen, section 1016.5, immigration status]
 
 resentencing:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 96% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_resentencing_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -172,6 +183,9 @@ resentencing:
     petitions under Penal Code § 1172.6 (formerly § 1170.95, SB 1437/SB 775), recall and
     resentencing under §§ 1172.1 or 1172.75, or youth-offender parole and Franklin
     proceedings under § 3051.
+    Former § 1170(d)(1) and § 1170.03 recalls (predecessors of § 1172.1) count. Ordinary
+    sentencing errors, remands for resentencing on other grounds, and other resentencing
+    statutes (Prop 47, Prop 36, § 1170.91, Prop 64, juvenile LWOP recall) do not.
   anchors: [section 1172.6, section 1170.95, senate bill 1437, senate bill 775, section 3051,
             youth offender parole, franklin, section 1172.1, section 1172.75]
   broad: []
@@ -180,7 +194,7 @@ resentencing:
 
 arbitration:
   tier: 3
-  validated: false
+  validated: true    # report_topics.md round 2: 92% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_arbitration_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -190,6 +204,7 @@ arbitration:
     The court decides an arbitration issue: a motion to compel or stay arbitration, the
     enforceability or unconscionability of an arbitration agreement, waiver of the right to
     arbitrate, or a petition to confirm, correct, or vacate an arbitration award.
+    Dismissing an appeal of such an order as premature or nonappealable counts.
   anchors: [motion to compel arbitration, arbitration agreement, unconscionab, armendariz]
   broad: []
   prefix_terms: [unconscionab]
@@ -249,7 +264,7 @@ transparency:
 
 anti_slapp:
   tier: 3
-  validated: false
+  validated: true    # report_topics.md round 2: 94% precision (2026-10-18)
   # Round-1 candidate (2026-10-18): fit on labels_topic_anti_slapp_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -258,6 +273,8 @@ anti_slapp:
   definition: >-
     The court decides a special motion to strike under the anti-SLAPP statute (Code Civ.
     Proc. § 425.16), or an appeal of a ruling or fee award on one.
+    Dismissing such an appeal as untimely counts; "protected activity" in a retaliation or
+    civil-harassment sense does not.
   anchors: [anti-slapp, section 425.16]
   broad: []
   probe: [slapp, special motion to strike, protected activity]

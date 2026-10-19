@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4561609,precision,1,2,19,"Batson/Wheeler; no prima facie showing, affirmed"
+4561679,precision,1,2,39,Wheeler/Batson motion denial upheld (unpublished part)
+4564947,precision,1,2,38,Batson/Wheeler: court reversing own ruling; claim decided
+4573121,probe,0,1,1,"Bryant, Smith and Wheeler cited on probation conditions"
+4573552,probe,0,1,1,"Bryant, Smith and Wheeler cited on search warrant"
+4581408,precision,1,2,24,Batson/Wheeler motion; race-neutral reasons credible
+4588168,probe,0,0,0,Section 170.6 peremptory challenge to judge only
+4635826,probe,0,0,0,Peremptory writ of mandate only
+4643865,probe,0,1,5,CLOSE: denial of motion to dismiss venire after public defender disclosure decided; not a Batson/231.7/for-cause claim
+4652895,precision,1,2,16,Batson/Wheeler objection to strike of D.B. rejected
+4656320,precision,1,2,36,Batson/Wheeler motion denial upheld (Supreme Court)
+4660441,probe,0,0,0,170.6 analogy re arbitrator disqualification
+4661649,precision,1,2,13,Batson/Wheeler gender-based strikes; motion properly denied
+4666639,probe,0,0,0,Peremptory writ of mandate only
+4667385,precision,0,1,63,Wheeler is a victim's name; no jury selection issue
+4670966,precision,0,1,18,Wheeler is party name
+4675108,probe,0,1,1,Civil bifurcation case; jury selection and Wheeler only incidental
+4681126,precision,0,1,25,Wheeler is a name; no jury selection issue
+4690783,probe,0,1,2,People v. Wheeler (1992) cited on impeachment
+4692344,precision,0,1,75,Wheeler is defendant's name
+4698774,precision,1,3,31,Batson-Wheeler challenge rejected
+5117386,probe,0,0,0,Peremptory writ of mandate only
+5122119,precision,1,2,27,Batson/Wheeler claim re African-American juror rejected
+5129486,probe,0,0,0,Voir dire of expert witness only
+5132871,precision,1,2,60,Two Batson/Wheeler motions decided
+5136030,precision,1,3,45,Batson/Wheeler motion denial upheld
+6320278,precision,1,2,16,Batson/Wheeler challenge to strike of juror D. rejected
+6328427,precision,1,2,26,Batson/Wheeler motion denial upheld
+6330455,precision,1,3,49,Three Batson/Wheeler motions decided; no error
+6334253,probe,0,0,0,Peremptory writ of mandate only
+6342664,probe,0,0,0,Discharge of sworn juror during trial; voir dire mentioned only in facts
+6496334,precision,1,2,41,Batson/Wheeler claim rejected
+8211135,probe,0,0,0,Peremptory writ of mandate only
+9324619,probe,0,1,1,"Bryant, Smith and Wheeler cited on waiver only"
+9375490,precision,1,3,57,Batson/Wheeler prima facie ruling challenged; decided
+9377897,precision,1,2,19,Batson/Wheeler motion re Juror 28; no error
+9393599,probe,0,0,0,Prosecutorial misconduct in voir dire questioning; not Batson/for-cause
+9396200,precision,1,3,62,"Three Batson/Wheeler motions; AB 3070 inapplicable, no error"
+9396478,precision,0,1,16,Restraint belt during jury selection decided; not a Batson/231.7/for-cause claim
+9398288,precision,1,3,34,Batson/Wheeler motion re Juror 100; no error
+9400344,probe,0,0,0,Section 170.6 peremptory challenge to judge only
+9656876,probe,0,0,0,Voir dire mentioned in closing argument context
+9693882,probe,0,0,0,Reasonable doubt instruction; jury selection remarks as harmlessness context
+9911474,precision,1,2,34,Batson-Wheeler violation; reversed
+9928098,precision,1,2,6,Batson-Wheeler violation found; reversed (codefendant of Nazareta)
+9941704,probe,0,0,0,Section 170.6 peremptory challenge to judge only
+9952522,probe,0,0,0,Voir dire of peer review hearing panel; administrative
+9969139,probe,0,1,1,"Bryant, Smith and Wheeler cited on instruction"
+9973024,precision,1,3,25,Batson/Wheeler claim re three Hispanic jurors rejected
+9975685,precision,1,3,25,Prosecution for-cause challenge properly granted; 231.7 argument rejected
+9978116,precision,1,1,22,Objection to gender-based peremptory challenge overruled; affirmed
+10074587,probe,0,0,0,Peremptory writ of mandate only
+10492444,precision,1,3,28,Batson/Wheeler objection wrongly overruled; reversed
+10769826,precision,1,3,20,Section 231.7 objection to peremptory of Juror 7; no presumptively invalid reason
+10823878,precision,1,3,38,Section 231.7 objection claim decided; held forfeited
+10841101,probe,0,0,0,Voir dire of expert witness in dependency case
+11054897,precision,1,3,47,Section 231.7 objection should have been sustained; reversed
+11061621,probe,0,0,0,170.6 challenge mentioned in background
+11062354,precision,1,3,23,Batson/Wheeler motion denial upheld
+11062355,precision,1,3,76,Section 231.7 objections to two peremptory challenges decided
+11085504,precision,0,1,16,Name change petition; Wheeler is party name
+11113721,probe,0,1,2,Wheeler v. Wheeler cited on cross-examination of experts
+11115457,precision,1,3,44,Section 231.7 objection claim held forfeited
+11142162,precision,1,1,16,Section 231.7 objection to strike of Juror 47; affirmed
+11146093,precision,1,3,16,Section 231.7 objection wrongly overruled; reversed
+11203084,precision,1,1,33,Section 231.7 objection and demographic-info request rejected
+11260538,precision,1,3,53,"Section 231.7 objections to three peremptories; error as to one, reversed"
+11271149,precision,1,3,57,Section 231.7 violated; reversed
+11276658,precision,0,1,7,Wheeler is a witness name; summary judgment
+11278053,probe,0,0,0,Peremptory writ of mandate only
+11309500,precision,1,3,45,"Section 231.7 objection; presumptive invalidity not forfeited, reversed"
+11316008,probe,0,1,1,Andrews v. Foster Wheeler cited on summary judgment
+11335519,precision,0,3,7,CLOSE: decides adequacy of voir dire and limits on defense use of peremptories (and alternates); no Batson/231.7/for-cause excusal claim
+11341889,precision,0,1,7,Wheeler is counsel's name
+11341891,precision,1,3,63,"Section 231.7 objection; not forfeited, strike violated 231.7(e)(1)"
+11347297,precision,1,1,23,Section 231.7 objection to strike of Latino juror; affirmed
+11388169,precision,1,1,11,Section 231.7 objections to strikes of three women; affirmed
+11394929,probe,0,1,1,"Bryant, Smith and Wheeler cited on forfeiture"
+11414873,precision,1,3,114,Batson/Wheeler claim re Black prospective jurors rejected (capital case)
+11424385,probe,0,0,0,Mentions 170.6 challenge to judge in facts only

@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4503067,precision,1,3,31,Miranda waiver validity and voluntariness of confessions decided
+4513989,probe,0,0,0,"Sufficiency, confrontation, instructions; no claim about defendants' own statements"
+4536661,probe,0,1,11,Multiple convictions; People v. Miranda case name only
+4555336,precision,1,2,21,"Miranda, Vienna Convention, and voluntariness of confessions decided"
+4565382,precision,1,2,22,Probation officer's booking questions not interrogation; no Miranda violation
+4577653,precision,1,2,9,Custody for Miranda decided; not custodial
+4583367,probe,0,1,3,Arbitration unconscionability; plaintiff named Miranda
+4587106,probe,0,0,0,Civil partnership dispute; discovery admissions only
+4587910,precision,1,2,21,Voluntariness of Miranda waiver (Honeycutt) decided
+4635836,probe,1,1,2,"CLOSE: IAC for not moving to suppress own statement to undercover agent; argued as Sixth Amendment, court also applies Perkins and finds statements freely made"
+4658562,precision,1,2,27,CLOSE: plea reversed because Miranda suppression claim not cognizable on appeal after plea; court rules the issue not cognizable but does not reach merits
+4661647,precision,1,2,23,"Invocation, reinitiation, waiver and Seibert claims re statements decided"
+4674986,precision,1,4,24,Confession noncustodial (no Miranda violation) and voluntary
+4676589,probe,0,1,1,Wende no-issues affirmance; Miranda advisement mentioned only in facts
+4681991,probe,0,0,0,Stalking/First Amendment; no interrogation issue
+4690016,precision,1,3,12,Voluntariness of statements to jail informants after alleged invocation decided
+4700571,precision,1,3,65,Perkins-operation statements: no Miranda warning required and statements voluntary
+4879110,probe,0,0,0,Dependency custody/visitation; no interrogation issue
+5116921,precision,1,3,8,Voluntariness of Hernandez's confession decided
+6113362,precision,1,4,38,Hospital statements voluntary and not custodial; station statements decided
+6216566,precision,1,2,24,Initial interview not custodial for Miranda; confession admissible
+6317239,precision,1,2,23,Miranda advisement inadequate; admission error harmless
+6340732,precision,1,2,12,Perkins/Miranda and voluntariness of jailhouse statements to informant decided
+6343194,probe,0,1,2,Only Aranda/Bruton re codefendants' statements (third party)
+6351757,precision,1,3,27,Prearrest interview not custodial and voluntary
+6358839,probe,0,0,0,Fourth Amendment Gmail warrant suppression only
+6496035,probe,0,0,0,Attempted murder theory and sentencing; no interrogation issue
+6498538,precision,1,4,13,Voluntariness of confessions to federal agent (promise of leniency) decided on remand
+7801395,precision,1,2,20,CLOSE: Miranda custody claim for DUI-evaluation statements resolved by assuming error and finding it harmless
+7802144,probe,0,0,0,Brady/discovery issues; witness invoked Fifth only in facts
+7803580,precision,1,3,37,Miranda waiver and voluntariness of defendant's statement decided
+8212692,probe,0,0,0,Faretta self-representation; no interrogation issue
+9324963,precision,1,2,22,Adequacy of Spanish Miranda advisement decided
+9326103,probe,0,1,1,Fourth Amendment vehicle search; Miranda only in facts
+9349345,precision,1,3,9,"Voluntariness of pretrial confession (intoxication, coercive tactics) decided"
+9375767,precision,1,3,42,IAC for failing to object on Miranda waiver ground decided (implied waiver)
+9392753,precision,0,3,17,Miranda challenge concerns codefendant Villasenor's statements (third party); forfeited
+9396175,precision,0,2,9,"CLOSE: civil false-arrest suit; court says Miranda failure cannot ground a section 1983 claim, but no ruling on admissibility of statements"
+9411693,probe,0,0,0,Civil evidence of victim's sexual conduct; no interrogation issue
+9444532,precision,1,4,40,Miranda invocation/waiver and voluntariness of statements to police decided
+9880901,precision,1,4,30,Voluntariness of Vargas's confession after Perkins operation decided
+9889887,precision,1,3,19,Not custodial and voluntary; statement admissible
+9892632,precision,1,3,24,Miranda invocation and waiver claims re police statement decided
+9902390,probe,0,0,0,Conservatorship: prior trial testimony admitted as party admission; not statements to police
+9910542,precision,1,2,21,Section 1172.6 hearing: statements not product of custodial interrogation; no Miranda violation
+9915642,probe,0,0,0,Prosecutorial argument and section 654; no interrogation issue
+10237968,precision,1,2,21,Inmate not in Miranda custody; statements admissible
+10512852,probe,0,1,2,Civil appealability; plaintiff named Miranda
+10564737,probe,0,1,12,Lesser included offense instruction; People v. Miranda cited as case name only
+10612028,probe,0,1,3,Perkins operation statements were of witness Williams (third party); hearsay ruling
+10740744,precision,1,2,35,"CLOSE: main claim is fruit of illegal arrest (attenuation), but court also rules post-Miranda statements not inadmissible under Fifth Amendment (no Seibert two-step)"
+10745025,probe,0,0,0,Grand theft value and prosecutorial argument; no interrogation issue
+10749658,precision,1,4,22,"Implied Miranda waiver, Edwards reinitiation and voluntariness of confession decided"
+10749827,precision,1,2,26,"Confession and apology letters: not custodial, no Miranda required"
+10769825,precision,1,4,13,Statements about truck not interrogation and voluntary
+10772916,precision,1,3,8,Voluntariness of admissions in police-arranged pretext call decided (no coercion); Miranda/Massiah not renewed
+10774398,probe,0,0,0,Defendant's police statements only in facts/sufficiency discussion
+11021256,precision,1,2,10,"Wende review addresses Miranda motion (detention, not custodial; harmless)"
+11066723,precision,1,2,18,Miranda claim re statements to CPS investigator (not law enforcement agent); no violation
+11082721,probe,0,0,0,Severance and sentencing issues; no interrogation issue
+11106257,precision,1,2,52,Seibert two-step / post-Miranda confession admissibility decided
+11112187,precision,1,3,24,Miranda/deception challenge to statements to investigators decided; also Doyle
+11120634,precision,1,2,43,Juvenile's van statements not interrogation; Miranda claim rejected
+11136031,precision,1,2,18,Perkins operation after invocation of Miranda rights; statements admissible
+11173902,probe,0,0,0,Victim forensic interview and other-acts evidence; no interrogation issue
+11178244,precision,1,2,12,CLOSE: Miranda invocation claim resolved only by finding any error harmless
+11230699,precision,1,4,27,Prison inmate interview not Miranda custody; statements voluntary
+11239125,precision,1,2,14,Voluntariness/Miranda waiver and invocation of police confession decided
+11241539,probe,0,0,0,Only victim's emergency-room statement (third party) under hearsay/confrontation
+11267874,probe,0,0,0,Instructional and evidentiary issues; no interrogation issue
+11335516,precision,0,2,29,"CLOSE: suppression of statements argued only as fruit of illegal Fourth Amendment detention; Miranda custody cases cited by analogy, no Miranda or voluntariness claim decided"
+11344667,precision,0,3,19,Perkins-operation statements were codefendant Coreas's (third party); confrontation/hearsay
+11344825,precision,1,2,13,CLOSE: Miranda custodial-interrogation claim resolved by assuming error and finding it harmless
+11386837,probe,0,0,0,Marital dissolution; interrogatories only
+11393134,probe,0,0,0,Civil forfeiture; interrogatories only
+11403559,probe,0,0,0,Civil auto negligence; requests for admission only
+11410066,precision,1,2,9,Voluntariness of police confession decided
+11440849,precision,1,2,34,Unwarned park statements custodial (harmless); Seibert claim rejected
+11442418,precision,1,3,20,"IAC for failing to move to suppress statements (Miranda custody, voluntariness) decided"
+11480674,probe,0,0,0,Codefendant recorded statements challenged only under secondary evidence rule; RJA

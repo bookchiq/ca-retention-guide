@@ -13,6 +13,19 @@
         "rule": "any anchor",
         "tagged": 1154,
         "undercount_share": 0.0
+      },
+      {
+        "est_missed": 0,
+        "precision": 0.94,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 1592,
+        "round": "r2",
+        "rule": "\u22651 distinct anchors, \u22655 anchor uses",
+        "tagged": 941,
+        "undercount_share": 0.0
       }
     ]
   },
@@ -30,6 +43,19 @@
         "rule": "any anchor",
         "tagged": 1447,
         "undercount_share": 0.09658536585365854
+      },
+      {
+        "est_missed": 653,
+        "precision": 0.92,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 13,
+        "probe_n": 30,
+        "probe_pool": 1506,
+        "round": "r2",
+        "rule": "\u22652 distinct anchors, \u22658 anchor uses",
+        "tagged": 680,
+        "undercount_share": 0.5105551211884285
       }
     ]
   },
@@ -64,6 +90,19 @@
         "rule": "any anchor",
         "tagged": 6256,
         "undercount_share": 0.018736383442265796
+      },
+      {
+        "est_missed": 2569,
+        "precision": 0.9,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 14,
+        "probe_n": 30,
+        "probe_pool": 5506,
+        "round": "r2",
+        "rule": "\u22652 distinct anchors, \u22654 anchor uses",
+        "tagged": 2047,
+        "undercount_share": 0.5824076173203355
       }
     ]
   },
@@ -98,6 +137,19 @@
         "rule": "any anchor",
         "tagged": 497,
         "undercount_share": 0.0
+      },
+      {
+        "est_missed": 17,
+        "precision": 0.92,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 522,
+        "round": "r2",
+        "rule": "\u22652 distinct anchors, \u22659 anchor uses",
+        "tagged": 263,
+        "undercount_share": 0.06563706563706563
       }
     ]
   },
@@ -115,6 +167,19 @@
         "rule": "any anchor",
         "tagged": 1568,
         "undercount_share": 0.0
+      },
+      {
+        "est_missed": 142,
+        "precision": 0.92,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 4258,
+        "round": "r2",
+        "rule": "\u22652 distinct anchors, \u22658 anchor uses",
+        "tagged": 297,
+        "undercount_share": 0.3421686746987952
       }
     ]
   },
@@ -131,6 +196,19 @@
         "round": "r1",
         "rule": "any anchor",
         "tagged": 1014,
+        "undercount_share": 0.0
+      },
+      {
+        "est_missed": 0,
+        "precision": 0.82,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 2249,
+        "round": "r2",
+        "rule": "\u22651 distinct anchors, \u22656 anchor uses",
+        "tagged": 216,
         "undercount_share": 0.0
       }
     ]
@@ -183,6 +261,19 @@
         "rule": "any anchor",
         "tagged": 369,
         "undercount_share": 0.04065040650406504
+      },
+      {
+        "est_missed": 29,
+        "precision": 0.92,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 2,
+        "probe_n": 30,
+        "probe_pool": 441,
+        "round": "r2",
+        "rule": "\u22651 distinct anchors, \u22655 anchor uses",
+        "tagged": 223,
+        "undercount_share": 0.12393162393162394
       }
     ]
   },
@@ -200,6 +291,19 @@
         "rule": "any anchor",
         "tagged": 416,
         "undercount_share": 0.0
+      },
+      {
+        "est_missed": 15,
+        "precision": 0.84,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 452,
+        "round": "r2",
+        "rule": "\u22651 distinct anchors, \u22653 anchor uses",
+        "tagged": 274,
+        "undercount_share": 0.061224489795918366
       }
     ]
   },
@@ -217,6 +321,19 @@
         "rule": "any anchor",
         "tagged": 8186,
         "undercount_share": 0.014617368873602751
+      },
+      {
+        "est_missed": 1326,
+        "precision": 0.96,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 13,
+        "probe_n": 30,
+        "probe_pool": 3060,
+        "round": "r2",
+        "rule": "\u22651 distinct anchors, \u22656 anchor uses",
+        "tagged": 6146,
+        "undercount_share": 0.18350401328535842
       }
     ]
   },
