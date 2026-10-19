@@ -1,10 +1,31 @@
 # California appellate justices on the November 3, 2026 ballot
 
-California voters decide whether to retain Supreme Court and Court of Appeal justices with a yes/no vote. This guide describes each justice's record on the bench with links to the opinions. It does not grade, rank, or recommend.
+{% if credit %}
+*{{ credit }}. It is a work in progress: the [methodology](methodology.md) explains exactly how it was made, and all the [code and data](https://github.com/bookchiq/ca-retention-guide) are public, so you can judge it for yourself.*
 
-**How to read this.** Each justice's page has background facts with sources, automated counts compared with the same counts for their court ("baseline"), and, for justices on San Diego County ballots, a verified list of search-and-seizure cases selected by fixed rules applied to everyone. Court of Appeal justices appear on the ballot for their whole district. See the [methodology](methodology.md) for how the data was gathered and what it cannot show.
+{% endif %}
+On November 3, California voters decide whether each Supreme Court and Court of Appeal justice on the ballot keeps their seat. The ballot asks a yes-or-no question for each justice and says little else about them. This guide collects what each justice has done on the bench, with links to the court opinions, so you can look for yourself. It does not grade, rank, or recommend a vote.
 
-Last updated: {{ updated }}.
+## What's on each justice's page
+
+- **Background:** who appointed them, what they did before, how earlier retention votes went, and any public discipline. Each fact links to its source.
+- **Record at a glance:** how many opinions they wrote, how often those were published, and how often they wrote dissents or concurrences. Each rate is shown next to the same rate for their court.
+- **Search-and-seizure cases**, for justices on San Diego County ballots: the cases chosen by the same fixed rules for every justice, each with a short summary and a link to the opinion. AI reviewers did the reading. Each case was read, then re-checked against the opinion text by a separate reviewer, a random 15% were checked a third time, and the author checked a random sample of the summaries.
+
+## Before you draw conclusions
+
+- **Court of Appeal cases are decided by panels of three.** An outcome reflects the panel. The opinions a justice wrote, and their dissents and concurrences, are the clearest signs of their own views.
+- **California follows federal search-and-seizure rules.** Differences between justices show up mostly in close calls, not in the rules themselves.
+- **The counts come from software that reads the opinions.** Its error rates were measured by hand and are published in the [methodology](methodology.md#validation).
+- **The record starts in {{ window_start[:4] }}.**{% if window_start <= "2020-12-31" %} The 2020 data is incomplete, so 2020 counts are low for everyone.{% endif %} Some justices are too new to have much of a record, and their pages say so.
+
+## Found a mistake?
+
+{{ correction_contact }}
+
+## The justices
+
+Listed in ballot order. Last updated: {{ updated }}.
 
 | Justice | Court | Appointed | Prior career | Opinions written | Separate opinions | Search-and-seizure cases listed | Record status |
 |---|---|---|---|---|---|---|---|

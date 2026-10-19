@@ -47,8 +47,25 @@ NOTE_FIELDS = [
     "justice_slug", "topic", "cl_opinion_id", "case_name", "citation_or_docket", "date_filed",
     "published", "listing_decision", "exclusion_reason", "role", "listing_rule", "issue_type",
     "posture", "trial_court_ruling", "result_on_issue", "outcome", "vote", "summary",
-    "opinion_url", "verified", "verified_by", "verified_date", "second_check",
+    "opinion_url", "verified", "verified_by", "verified_date", "verification_notes",
+    "second_check", "second_check_by", "second_check_date", "second_check_note",
 ]
+
+# GitHub Pages (Jekyll) settings, written next to the pages so guide/ is the whole site.
+JEKYLL_CONFIG = """\
+title: California appellate justices on the November 3, 2026 ballot
+description: A source-linked guide to the justices on the retention ballot. An experiment.
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+"""
 
 
 class LintFailure(RuntimeError):
@@ -73,6 +90,7 @@ class Inputs:
     validation_summary: str
     tag_summary: str
     extra: dict = field(default_factory=dict)
+    credit: str = ""
 
 
 def _num(value):
@@ -298,6 +316,25 @@ def _csv_text(rows: list[dict], fields: list[str]) -> str:
     return buf.getvalue()
 
 
+def _review_stats(notes: list[dict]) -> dict:
+    """Counts for the methodology page, computed from the published records."""
+    sampled = [n for n in notes if n.get("second_check") in ("passed", "failed")]
+    reasons: dict[str, int] = {}
+    for n in notes:
+        if n.get("listing_decision") == "excluded":
+            key = n.get("exclusion_reason") or "unspecified"
+            reasons[key] = reasons.get(key, 0) + 1
+    return {
+        "justices": len({n["justice_slug"] for n in notes}),
+        "records": len(notes),
+        "listed": sum(1 for n in notes if n.get("listing_decision") == "listed"),
+        "excluded": sum(reasons.values()),
+        "reasons": sorted(reasons.items(), key=lambda kv: (-kv[1], kv[0])),
+        "sampled": len(sampled),
+        "failed": sum(1 for n in sampled if n["second_check"] == "failed"),
+    }
+
+
 def build(inputs: Inputs) -> dict[str, str]:
     env = Environment(loader=FileSystemLoader(TEMPLATES), undefined=StrictUndefined,
                       keep_trailing_newline=True, trim_blocks=True, lstrip_blocks=True)
@@ -308,13 +345,17 @@ def build(inputs: Inputs) -> dict[str, str]:
     files: dict[str, str] = {}
     for ctx in contexts:
         files[f"justices/{ctx['slug']}.md"] = _tidy(env.get_template("justice.md.j2").render(
-            j=ctx, window_end=inputs.window_end, updated=updated))
-    files["index.md"] = _tidy(env.get_template("index.md.j2").render(justices=contexts,
-                                                                      updated=updated))
+            j=ctx, window_end=inputs.window_end, updated=updated, credit=inputs.credit))
+    correction = inputs.correction_contact or PLACEHOLDER
+    files["index.md"] = _tidy(env.get_template("index.md.j2").render(
+        justices=contexts, updated=updated, credit=inputs.credit, window_start=inputs.window_start,
+        correction_contact=correction))
     files["methodology.md"] = _tidy(env.get_template("methodology.md.j2").render(
         updated=updated, bulk_snapshot=inputs.bulk_snapshot, window_start=inputs.window_start,
         validation_summary=inputs.validation_summary, tag_summary=inputs.tag_summary,
-        correction_contact=inputs.correction_contact or PLACEHOLDER))
+        correction_contact=correction, credit=inputs.credit,
+        stats=_review_stats(inputs.case_notes)))
+    files["_config.yml"] = JEKYLL_CONFIG
 
     justice_fields = list(inputs.justices[0].keys()) if inputs.justices else []
     files["data/justices.csv"] = _csv_text(inputs.justices, justice_fields)
@@ -379,6 +420,7 @@ def main() -> int:
         bulk_snapshot=settings.raw["bulk"]["snapshot"],
         tier2_enabled=bool(settings.raw["phase"].get("tier2_enabled")),
         correction_contact=settings.raw["project"].get("correction_contact"),
+        credit=settings.raw["project"].get("credit") or "",
         validation_summary=("Full results: [validation report](https://github.com/bookchiq/"
                             "ca-retention-guide/blob/main/data/validation/report_parse.md)."
                             if report.exists() else "Validation has not been run yet."),

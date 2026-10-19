@@ -55,7 +55,7 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 **Reading rule clarification.** Two readers decided *People v. Brown* (S271877) differently: whether a ruling on continuing a suppression hearing puts the search issue "at issue." Ruled: yes. A ruling on how a suppression motion is litigated (timeliness, continuance, whether a hearing is required) rules on the claim the way a forfeiture ruling does. A case in several justices' queues must get the same at-issue call for each. New exclusion reason `no_rule_applies`: the issue is at issue but the justice's role meets no listing rule (for example, joined a dissent another justice wrote).
 
-**Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" marking a modified opinion's docket; the stored records keep both. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
+**Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Their published case names, and record 4531440's (below), were corrected to the opinion captions on 2026-10-18. Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" marking a modified opinion's docket; the stored records keep both. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
 
 ## 2026-10-18: Tier 1 review complete for the San Diego set
 
@@ -66,6 +66,8 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 ## 2026-10-18: Owner decisions
 
 **Spot check passed.** The owner read 10 randomly drawn listed summaries against their opinions (seed 1027) and found them accurate. A few were judged accurate but missing some context; the owner accepted that for Phase 1. This clears the promoted records in `data/case_notes.jsonl` for publication.
+
+**Publishing.** The guide is published on GitHub Pages from the committed `guide/` folder, credited as "An experiment by Sarah Lewis" and labeled a work in progress. Corrections are invited as GitHub issues or pull requests, or by email. The release date on each page is the day the pages are generated for publication (`render.snapshot_date`). The front page is a short version for casual readers; the methodology page is the detailed version, including review counts computed from the published records, known weaknesses, and links to every validation report. The case data now includes each reviewer's notes.
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 

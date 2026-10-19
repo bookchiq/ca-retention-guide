@@ -3,6 +3,14 @@
 project:
   name: ca-retention-guide
   repo_url: https://github.com/bookchiq/ca-retention-guide
+  # Owner decisions, 2026-10-18.
+  credit: An experiment by Sarah Lewis
+  correction_contact: >-
+    This guide is an experiment and a work in progress. If you find an error, please open an
+    [issue](https://github.com/bookchiq/ca-retention-guide/issues) or a
+    [pull request](https://github.com/bookchiq/ca-retention-guide/pulls) on GitHub, or email
+    Sarah Lewis at sarah@happyhumans.com. Corrections are logged in
+    [DECISIONS.md](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
 
 window:
   # Default window for Court of Appeal opinions (SPEC §3). Owner decision point: R6.
@@ -23,7 +31,8 @@ api:
 
 render:
   # "Last updated" date printed on every page; never the wall clock (KTD12).
-  snapshot_date: null
+  # Owner decision 2026-10-18: set to the day the pages are generated for publication.
+  snapshot_date: "2026-10-18"
 
 phase:
   tier2_enabled: false

@@ -203,6 +203,40 @@ def test_listing_display_drops_courtlistener_suffixes(tmp_path):
     assert "CA4/1" not in text and "D080606M" not in text
 
 
+def test_credit_and_contact_appear_on_every_page(tmp_path):
+    render.render(make_inputs(credit="An experiment by Test Author",
+                              correction_contact="Open an issue."), tmp_path)
+    for rel in ("index.md", "methodology.md", "justices/dato.md"):
+        assert "An experiment by Test Author" in (tmp_path / rel).read_text(), rel
+    assert "Open an issue." in (tmp_path / "index.md").read_text()
+    assert render.PLACEHOLDER not in (tmp_path / "methodology.md").read_text()
+
+
+def test_methodology_reports_review_counts_from_records(tmp_path):
+    listed = note("dato", 1, "2024-01-01")
+    excluded = dict(note("dato", 2, "2024-02-01"), listing_decision="excluded",
+                    exclusion_reason="topic_not_at_issue", second_check="not_sampled")
+    other = dict(note("other", 3, "2024-03-01"), listing_decision="excluded",
+                 exclusion_reason="topic_not_at_issue", second_check="failed")
+    render.render(make_inputs(case_notes=[listed, excluded, other]), tmp_path)
+    text = (tmp_path / "methodology.md").read_text()
+    assert "3 records for 2 justices" in text
+    assert "1 cases are listed and 2 were excluded" in text
+    assert "| `topic_not_at_issue` | 2 |" in text
+    assert "re-read 2 records; 1 had a substantive error" in text
+
+
+def test_site_config_and_reviewer_notes_are_exported(tmp_path):
+    n = dict(note("dato", 1, "2024-01-01"), verification_notes="Checked caption.",
+             second_check_note="Re-read in full.")
+    render.render(make_inputs(case_notes=[n]), tmp_path)
+    assert "jekyll-relative-links" in (tmp_path / "_config.yml").read_text()
+    with open(tmp_path / "data" / "case_notes.csv") as fh:
+        row = next(csv.DictReader(fh))
+    assert row["verification_notes"] == "Checked caption."
+    assert row["second_check_note"] == "Re-read in full."
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()
