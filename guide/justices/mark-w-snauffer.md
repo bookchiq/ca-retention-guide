@@ -39,9 +39,65 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 2 | 22 | 1 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Snauffer have not all been read and verified yet, so none are shown.
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the 2-1 opinion holding that an officer's testimony that a car's windows were illegally tinted, without specific facts showing the tint was illegal, did not give reasonable suspicion for the traffic stop; reversed and directed the trial court to grant the suppression motion. *People v. Hair CA5* (F084831, 2024-01-03; unpublished; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/9457136/people-v-hair-ca5/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 24 | 110 | 2 | 1 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 11 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 9 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 13 | 1 | 1 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 6 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 19 | 181 | 1 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 6 | 12 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 7 | 16 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

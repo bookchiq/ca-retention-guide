@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4555336,probe,0,0,0,"Capital appeal; racial disparity arguments, no RJA"
+4561609,probe,0,0,0,Batson/Wheeler; no RJA
+4579872,probe,0,0,0,Racial epithet evidence; no RJA
+4683500,probe,0,0,0,Gang evidence of racial slurs; no RJA
+4911902,probe,0,0,0,Batson/Wheeler; no RJA
+6317323,probe,0,0,0,Racial slur evidence under 352; no RJA
+6331022,probe,0,0,0,Batson/Wheeler; no RJA
+6337453,probe,0,0,0,"Civil case; racial bias allegation, no RJA"
+9351202,probe,0,0,0,"Fourth Amendment; racial profiling studies cited, no RJA"
+9351351,precision,1,2,86,Expert profile testimony did not violate RJA
+9374673,probe,0,0,0,Attenuation/implicit bias discussion; no RJA
+9385622,probe,0,0,0,Fair housing disparate impact; no RJA
+9392752,precision,1,2,11,RJA argument forfeited for failure to file 745(b) motion in trial court
+9398738,precision,1,2,14,IAC for failing to file CRJA motion rejected; 745(a)(4)/(a)(2) inapplicable
+9403256,probe,0,1,1,745 only within quoted 1385(c)(2)(A) mitigating factors
+9407400,precision,1,2,11,Merits: prosecutor's questioning re English ability did not violate CRJA
+9556588,probe,0,0,0,Batson/Wheeler; no RJA
+9688098,probe,0,0,0,Evid. Code 352.2 creative expression; no RJA
+9828098,precision,1,2,6,RJA claim not properly before court; must proceed by habeas under 745(b)
+9841104,probe,0,0,0,California Voting Rights Act; no RJA
+9904748,precision,1,2,11,Trial court lacked jurisdiction over postjudgment RJA motion; appeal dismissed
+9905254,precision,1,2,8,CLOSE: footnote holds RJA claim not properly before court on 851.8 appeal; 745(b) route required
+9908431,probe,0,2,2,Footnote: need not reach CRJA argument
+10012844,precision,1,2,11,RJA claim cannot be made in this appeal
+10471290,precision,0,2,5,RJA legislative history cited to interpret CCP 231.7; no RJA claim
+10548329,precision,1,2,63,Trial court erred finding no prima facie RJA showing; remand for hearing
+10573048,probe,0,2,3,CLOSE: footnote responds to reply-brief RJA reference in Fourth Amendment analysis; no RJA claim decided
+10598223,precision,1,2,21,No jurisdiction for postjudgment RJA motion in final case; appeal dismissed
+10609685,precision,1,2,10,Prosecutor's 'baby mama'/'wilding' remarks; RJA claim rejected
+10609709,precision,1,2,40,Prosecutor's skin-tone comment did not violate RJA
+10749846,probe,0,2,2,CLOSE: reversal on suppression renders RJA claim moot and court does not reach it
+10771275,precision,1,2,74,Prosecution's argument violated 745(a)(2); no harmless error; reversal
+10773802,precision,1,2,18,No jurisdiction for postjudgment RJA motion; habeas only; appeal dismissed
+10789005,probe,0,1,1,Defendant's remark he will return under RJA; no ruling
+10791784,probe,0,0,0,1385(c) racial impact data argument; no 745 claim
+10801254,precision,1,2,13,CLOSE: holds RJA did not change 987.2 counsel-selection rules for RJA habeas proceedings
+10813528,probe,0,0,0,Evidence of racially charged posts; no RJA
+10817940,precision,1,2,11,"Delgadillo: RJA claim not cognizable in 1172.6 appeal, forfeited, and unsupported"
+10824221,precision,1,2,19,Merits of 745(a)(3) charging-disparity motion
+10841152,probe,0,2,2,Footnote listing statutes defendant cited incl. 745; no ruling
+10853525,precision,1,2,12,Order denying RJA discovery under 745(d) not appealable
+10906894,probe,0,0,0,Creative expression/juror bias; no RJA
+11053961,precision,1,2,5,Resentencing court properly found RJA motion untimely under 745(c); within remittitur
+11071894,precision,1,2,15,RJA claim forfeited for not raising timely in trial court
+11079804,precision,1,2,17,"RJA claim re rap lyrics forfeited; record inadequate, left to habeas"
+11085513,precision,1,2,10,Order denying RJA discovery motion (745(d)) not appealable; dismissed
+11108092,precision,1,2,6,Appeal dismissed; order denying RJA petition not appealable
+11128475,probe,1,2,4,Appeal dismissed; order denying RJA petition not appealable
+11129337,precision,1,2,13,RJA claims re counsel's animal comparisons procedurally barred / rejected
+11140342,precision,1,2,6,"RJA claim forfeited, raised first time on appeal"
+11142174,probe,0,0,0,"Civil; racial animus allegation, no RJA"
+11146118,precision,1,2,19,RJA claim based on defense-elicited evidence rejected
+11178356,precision,1,2,10,"CLOSE: declined requests to treat 1385 request as RJA claim, remand for RJA hearing, or stay; also 1385(c)(2)(A) analysis"
+11206567,precision,1,2,7,Postjudgment 745 motion unauthorized for final judgment; appeal dismissed; RJA discovery denial upheld
+11211531,precision,1,2,28,Appeals from RJA discovery denial/motions dismissed as nonappealable
+11225114,precision,1,2,5,"RJA motion by final-judgment defendant must be habeas; order nonappealable, dismissed"
+11225116,precision,1,2,6,Order denying RJA habeas not appealable; declined to treat brief as petition
+11241533,probe,1,1,3,Writ: RJA discovery available with habeas petition under AB 1071; no prima facie prerequisite
+11247370,precision,1,2,34,RJA claim re identification forfeited; IAC for not filing RJA motion rejected
+11249488,precision,0,2,7,CLOSE: CCP 170.1 judge disqualification for RJA evidentiary hearing; no RJA claim decided
+11260510,precision,1,2,35,Trial court's comments did not violate RJA; burden not met
+11263106,precision,1,2,66,"RJA habeas: counsel appointment requires plausible allegation, not prima facie showing"
+11263664,probe,0,0,0,CCP 231.7 peremptory challenge; no RJA
+11266507,probe,0,0,0,Civil employment retaliation; no RJA
+11271149,precision,1,2,9,Merits: witness's 'colored' testimony not RJA violation; witnesses not covered by 745(a)(1)
+11298720,precision,1,2,16,CLOSE: denial of continuance to investigate RJA claim upheld; RJA discovery/timing analyzed
+11307784,precision,1,2,7,"RJA claim re interpreter for witness forfeited, not raised at trial"
+11311433,precision,0,2,7,CLOSE: CCP 170.1 judge disqualification for RJA evidentiary hearing; no RJA claim decided
+11330973,probe,1,2,4,Order denying postjudgment RJA discovery not appealable; dismissed
+11335517,precision,1,2,27,Capital appeal: RJA claim re defense counsel's language rejected; remand denied
+11347230,precision,1,2,13,Trial court did not err in denying RJA new-trial motion
+11350096,probe,0,0,0,Civil class action racial discrimination; no RJA
+11392803,precision,1,2,6,No prima facie RJA claim re first-trial jury discrimination; remedy issue decided
+11399739,precision,1,2,14,Rejected claim that gang evidence/joinder violated RJA
+11403413,precision,1,2,9,RJA challenge to gang expert forfeited; no IAC
+11428037,precision,1,2,31,"Capital appeal: RJA claim rejected, no prejudicial error"
+11431495,precision,1,2,6,RJA claim not cognizable on 1172.6 appeal; IAC for not raising RJA rejected (745(j))
+11432666,precision,1,2,7,Defense counsel's animal imagery did not violate RJA; procedurally barred
+11443375,precision,1,2,8,Delgadillo review: denial of CRJA motion affirmed; no prima facie showing for hearing
+11449209,precision,1,2,8,RJA claim re original sentencing remarks forfeited

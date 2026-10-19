@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4557894,probe,1,2,3,IAC for failing to object and to request ability-to-pay hearing rejected
+4569530,precision,1,2,25,Faretta grant conditioned on forfeiting continuance decided
+4570037,precision,1,2,7,IAC for failing to seek mental health diversion rejected
+4580668,precision,1,2,5,CLOSE: civil DVRO; claimed Sixth Amendment right to counsel/counsel deficiency rejected
+4582573,probe,1,0,0,CLOSE: denial of appointed counsel on 1170.95 petition decided (statutory right to counsel)
+4635400,probe,0,1,5,Capital appeal; only confrontation/jury Sixth Amendment issues
+4663117,precision,1,2,8,IAC for not requesting involuntary manslaughter instruction rejected
+4682573,probe,0,0,0,CLOSE: denial-of-counsel claim under 1170.95 deemed moot/not reached after habeas relief granted
+4693834,precision,1,2,6,IAC for failing to object to prosecutor argument rejected
+4695819,precision,1,2,6,IAC for failing to object to instructions and argument rejected
+4696983,precision,1,2,9,IAC for failing to object to prior bad acts rejected
+4698079,precision,0,2,14,Writ decides 170.6 peremptory challenge timeliness; underlying habeas IAC claim not decided
+4703209,probe,1,1,5,Dependency writ: mother's IAC claim rejected
+4705753,probe,1,1,4,IAC for failing to object to fines (Duenas) rejected
+4880375,precision,1,3,12,CLOSE: IAC contention ruled forfeited (raised first in reply); Sixth Amendment informant issue not raised on appeal
+4924670,precision,1,2,31,Denial of substitution of counsel/continuance; counsel of choice claim decided
+5095612,precision,1,2,7,IAC for failing to object to closing argument and fines rejected
+5141397,probe,1,2,2,Alternative IAC claim (failure to preserve misconduct) rejected in footnote
+5141827,probe,0,1,1,IAC only mentioned in distinguishing Centeno; no counsel claim decided
+6226923,probe,1,1,2,CLOSE: LPS appeal incl. IAC claim dismissed as moot; mootness ruling but claim not reached on merits
+6321557,probe,0,1,1,Wende appeal; IAC only in procedural history of old motion
+6324843,probe,0,1,2,1473.7 motion decided on defendant's understanding/prejudice; no ruling on counsel's performance
+6325260,precision,1,3,36,"Denial of continuance with Faretta request, and IAC, decided"
+6326021,precision,1,2,5,IAC for failing to object/redact rejected
+6335482,probe,0,1,1,Only Sixth Amendment sentencing (aggravating facts) issue
+6341700,probe,1,1,4,IAC claims tied to prosecutorial error and accomplice instructions rejected
+6498558,probe,0,1,7,Only Sixth Amendment notice/jury-trial (Apprendi) issues; no counsel claim
+6498809,precision,1,3,15,Recall of remittitur for IAC of appellate counsel granted
+6800545,probe,1,1,3,"CLOSE: section 1473.7 motion; court holds counsel's immigration advice deficient (Padilla) and failed to defend, though IAC not required under statute"
+7798891,precision,1,2,7,IAC for failing to demand ability-to-pay hearing rejected
+7801110,precision,0,2,5,Alternative IAC claim not addressed (footnote)
+7841727,precision,0,2,5,CLOSE: IAC not raised; court notes no prejudice whether trial error or IAC
+8209515,probe,1,1,1,Rejects IAC claim as unsupported by record on direct appeal (1172.6 appeal)
+8406240,precision,1,3,6,IAC for failing to proffer alcohol-abuse evidence rejected on record
+8407231,probe,1,0,0,Denial of continuance to substitute retained private counsel decided
+8482639,precision,1,2,5,IAC for failing to object to prosecutor argument rejected
+9349345,precision,1,3,8,Several IAC claims rejected
+9350974,precision,1,2,19,Counsel's concession of guilt (Sixth Amendment/McCoy) claim rejected
+9352587,probe,1,1,4,IAC for failing to object to 1026.2 report rejected
+9363842,precision,1,2,9,Gi's IAC claim re pleading deficiency rejected for no prejudice
+9367119,probe,0,0,0,"Civil arbitration; conflict of interest of arbitration administrator, not counsel"
+9375063,precision,1,2,14,IAC re consecutive terms and fines rejected
+9376456,probe,1,1,4,CLOSE: Wende review notes Marsden motions properly denied
+9376496,precision,1,3,8,IAC for failing to object to blocked view of witness rejected
+9378278,precision,0,2,4,"CLOSE: IAC on instruction not addressed; denied continuance was for DNA testing, not to obtain counsel"
+9380641,precision,0,2,4,CLOSE: court says it does not consider IAC after rejecting misconduct; fines IAC not reached; continuance was for witness
+9393299,precision,1,2,27,Postconviction Marsden hearing claim rejected (no clear request)
+9405003,probe,0,1,3,Jurisdiction after notice of appeal; IAC only in notice of appeal and counsel withdrawal facts
+9554338,precision,1,2,5,"CLOSE: Wende review; court lists Marsden denial and IAC as potential issues and finds no arguable error, without specific discussion"
+9556816,precision,1,3,23,Faretta waiver validity decided
+9640433,probe,0,1,2,IAC claim expressly not addressed
+9757982,precision,1,2,6,IAC for failing to object to burden-shifting remarks rejected
+9840871,probe,1,1,1,CLOSE: civil harassment case; IAC claim held not cognizable in civil action
+9908177,probe,0,0,0,Delgadillo review of 1172.6 denial; right to counsel only in Wende/Delgadillo background
+9955285,precision,1,3,41,IAC of prior habeas counsel as justification for successive claims decided
+9977947,precision,1,3,16,IAC at 1172.6 hearing found; habeas granted
+10464741,precision,1,2,9,IAC for failing to object to hearsay value evidence rejected
+10471047,precision,1,2,6,IAC for failing to call alibi witness and object to upper term rejected
+10477455,probe,0,0,0,Only Miranda/Fifth Amendment right to counsel discussed
+10547515,precision,1,2,14,Multiple IAC claims decided
+10611426,precision,1,3,10,"IAC re expert, prep, impeachment rejected"
+10627674,probe,0,1,2,Alternative IAC claim expressly not addressed (footnote)
+10775048,precision,1,2,5,Miranda claims reviewed through IAC lens; IAC rejected
+10781789,precision,1,3,5,"IAC/denial of right to testify (new trial motion) decided, harmless"
+10804880,probe,1,1,2,CLOSE: civil case; plaintiff's IAC/attorney abandonment claim rejected for no argument or prejudice
+10827306,precision,1,3,35,Multiple IAC claims decided (others not reached)
+10842065,precision,1,3,27,Failure to hear Marsden motions held error but harmless
+10843739,precision,1,3,9,Writ: recusal of public defender for conflict of interest reversed
+10906895,precision,1,2,8,IAC for failing to obtain youth-brain expert decided
+11141080,precision,1,2,7,IAC for failing to object at sentencing rejected
+11202529,precision,1,2,5,Alternative IAC claims decided via prejudice analysis
+11208090,precision,1,4,43,IAC claims at plea and 1172.6 proceedings rejected
+11230701,precision,1,2,7,IAC for failing to request limiting instruction rejected
+11234896,precision,1,3,16,IAC re joinder and redaction rejected
+11236280,precision,1,2,21,IAC claim held not cognizable/rejected
+11267709,precision,1,2,11,IAC re Aranda/Bruton objection decided
+11338429,probe,0,0,0,"CLOSE: guardian ad litem attorney conflict claim deemed forfeited; GAL role, not counsel"
+11424356,precision,1,2,12,IAC for failing to object to firearm testimony rejected
+11430646,probe,0,1,2,Alternative IAC claim expressly not addressed after instruction claim fails on merits
+11438445,probe,0,0,0,1203.2a jurisdictional clock; right to counsel only background

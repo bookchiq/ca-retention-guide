@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4522017,precision,1,2,57,CEQA/land-use approvals challenge time-barred (tract map/MND)
+4558300,precision,0,1,1,relief from default; no land use
+4566251,probe,0,0,0,utility relocation costs/trespass; no land use
+4578076,probe,1,0,0,challenge to neighbor remodel building permit/variance and design review procedures
+4637686,precision,0,1,1,marina public trust/collusion claims; CEQA suit only mentioned
+4644389,probe,0,0,0,special tax initiative vote threshold
+4650230,probe,0,0,0,nuisance receivership attorney fees; building permit only in facts
+4681126,probe,0,0,0,anti-SLAPP; zoning only in allegations
+4685167,precision,1,1,138,CEQA supplemental EIR for desalination plant lease
+4686127,precision,0,2,2,"anti-SLAPP on fraud claims; CEQA/zoning challenge is a separate case, only background"
+4792045,precision,1,2,38,CEQA EIR adequacy and land use plan consistency for forest improvement project
+4879267,precision,0,2,3,"CLOSE: eminent domain valuation; court applies Porterville doctrine and upholds hypothetical road dedication requirement under Nollan/Dolan, but no challenge to a development approval"
+4880159,precision,0,2,6,Prop 218 water fee; subdivision only as setting
+4912950,precision,1,2,7,"CLOSE: Brown Act challenge to county approval of resort project (development agreement/EIR); open-meeting law, CEQA decided in separate case"
+5118573,precision,1,2,57,CEQA EIR and general plan consistency for Harmony Grove Village South
+5121272,precision,1,2,35,CEQA infill exemption for gas station CUP
+5129456,precision,1,2,68,CEQA EIR adequacy for sewer water vault project
+5136523,precision,1,2,18,"CEQA claim against water board small domestic use registration; ministerial, not subject to CEQA"
+5140490,probe,0,0,0,child sexual abuse criminal appeal
+5141401,probe,0,0,0,private easement dispute; zoning code used only to interpret easement
+5289378,precision,1,2,3,zoning code consistency of short-term rental ordinance
+6219089,precision,1,2,13,CEQA challenge to zoning amendments dismissed for failure to timely request hearing (section 21167.4)
+6328479,precision,1,2,55,CEQA project description for mixed-use development
+6331016,precision,1,2,21,CEQA EIR adequacy for water bank project
+6345840,probe,1,0,0,Coastal Commission denial of coastal development permit
+6350096,precision,1,1,1,Housing Accountability Act; county denial of housing project
+6500119,precision,1,2,7,"CLOSE: zoning challenge to business license for ministorage use; court decides res judicata does not bar the land-use claim (threshold ruling, merits remanded)"
+7801408,precision,0,2,23,CLOSE: appeal only of section 1021.5 fee award after CEQA win on development projects; merits not decided here
+7804521,probe,0,0,0,anti-SLAPP catchall (picketing); zoning only in legislative history
+8205801,probe,1,0,0,CLOSE: Mitigation Fee Act challenge to development impact fee imposed on self-storage project
+8212100,probe,1,0,0,CLOSE: zoning ordinance banning cannabis activity enforced against church; preemption and RLUIPA land-use claims decided
+9340348,precision,1,3,37,general plan consistency and CEQA/SEIR for Lafayette housing project
+9352069,precision,1,2,6,CEQA EIR adequacy for city water infrastructure project
+9366476,precision,1,3,22,planning/zoning consistency and CEQA exemption for affordable housing project
+9380295,probe,0,0,0,premises liability; zoning code only in expert evidence
+9396209,probe,0,0,0,discovery sanctions/res judicata; no land use
+9408163,probe,0,0,0,murder/elder abuse criminal appeal
+9440713,probe,1,0,0,"CLOSE: Measure Z general plan land-use prohibitions on oil wells held preempted by state law; land-use regulation challenge, not a project approval"
+9555673,precision,0,2,18,syringe services program approval under Health & Safety Code; CEQA claim expressly not reached
+9839628,probe,0,0,0,civil service discharge of housing inspector
+9896294,probe,0,0,0,False Advertising Law/public adjuster; no land use
+9901980,probe,0,0,0,"CLOSE: planned development permit expiration case; appeal decides only remand procedure (new findings vs new trial) and ripeness of developer due process claim, not the land-use claim"
+9925658,probe,0,0,0,wrongful foreclosure; zoning/CUP only in facts
+9925663,precision,1,2,15,CEQA exemption challenge to tree-removal permit/home project held moot
+9926024,precision,1,2,32,CEQA EIR and general plan/zoning consistency for solar project
+9953758,probe,0,0,0,resentencing petition; criminal
+9975430,precision,1,2,6,"CLOSE: inverse condemnation/regulatory taking from denial of historic demolition permit; court holds claim unripe (no final decision on a development proposal). Land-use permit denial challenge, but takings framing"
+9978495,precision,1,2,47,CEQA EIR for People's Park housing/LRDP
+10149320,probe,0,0,0,oil field contract/fraud dispute; no land use
+10474524,precision,1,2,3,zoning deviations/eldercare permit for senior housing project
+10499226,precision,1,2,68,CEQA PEIR for general plan amendment
+10499279,precision,1,2,47,CEQA statute of limitations for EIR/CUP approval of roadside attraction
+10511906,precision,1,2,69,CEQA challenge to transportation impact fee program updates
+10743302,precision,0,2,2,perjury conviction postconviction motion; CEQA rule only mentioned
+10765002,probe,0,0,0,premises liability; building permit evidence only
+10780131,probe,0,0,0,contractor/employment status; no land use
+10783465,probe,1,0,0,conditional use permit for overheight fence denied
+10788873,precision,1,1,1,Coastal Act coastal development permits for homes
+10834259,precision,0,1,1,attorney fees in housing voucher payment standards case; not a land-use/development claim
+10856250,precision,1,2,24,CEQA VMT thresholds of significance for development projects
+10888542,precision,0,2,3,hazardous waste policy rescission; CEQA claim denied below and not on appeal
+11099233,probe,0,0,0,restrictive covenant attorney fees; building permit only in facts
+11117096,probe,0,0,0,unlawful detainer; zoning/certificate-of-occupancy illegality defense rejected as outside possession issue
+11128394,probe,0,0,0,CalPERS employee status; land use only in job duties
+11129210,probe,0,0,0,property tax assessment of hotel intangibles; zoning only mentioned
+11146301,precision,1,2,53,CEQA infill exemption/piecemealing for subdivision and commercial project
+11167097,precision,1,2,38,CEQA limitations/NOD for development impact fee initiative
+11175520,precision,1,2,28,CEQA analysis for ballot measure removing coastal height limit
+11232696,probe,0,0,0,personal injury/Privette; no land use
+11241171,precision,1,2,43,CEQA water supply analysis in EIR for warehouse project
+11241532,precision,0,2,10,Public Records Act; CEQA case only distinguished
+11310845,precision,1,2,33,CEQA challenge to specific plan EIR (housing redevelopment); affirmed
+11338217,precision,1,2,61,CEQA challenge to Bay Lights project approval (res judicata/limitations)
+11343387,probe,0,0,0,"CLOSE: building code violation notices for unpermitted barbecue lines/floodlights at a home; code enforcement, not a development approval"
+11421860,precision,0,1,1,anti-SLAPP employment claims; no land use
+11425330,precision,0,3,23,CLOSE: appeal only of section 1021.5 attorney fees and costs after CEQA/zoning win on subdivision EIR; merits not decided here
+11433747,precision,1,2,88,"CEQA; lot line adjustment with street dedication acceptance not ministerial, writ granted"
+11435071,precision,1,2,51,"CEQA challenge to field-lights approval; relation back of amended petition naming real party, CEQA claim timely"
+11493074,precision,1,3,67,CEQA streamlining (section 21083.3) for SF housing project; affirmed
+11504787,precision,1,1,1,general plan consistency (45% slope prohibition) of construction project approval; reversed

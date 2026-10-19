@@ -55,7 +55,7 @@ Coverage (`data/validation/coverage.md`): 2021–2025 Court of Appeal years are 
 
 **Reading rule clarification.** Two readers decided *People v. Brown* (S271877) differently: whether a ruling on continuing a suppression hearing puts the search issue "at issue." Ruled: yes. A ruling on how a suppression motion is litigated (timeliness, continuance, whether a hearing is required) rules on the claim the way a forfeiture ruling does. A case in several justices' queues must get the same at-issue call for each. New exclusion reason `no_rule_applies`: the issue is at issue but the justice's role meets no listing rule (for example, joined a dissent another justice wrote).
 
-**Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Their published case names, and record 4531440's (below), were corrected to the opinion captions on 2026-10-18. Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" marking a modified opinion's docket; the stored records keep both. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
+**Data quality.** CourtListener records 9940655 and 9940656 have swapped case names ("In re H.D." and "Bonds v. Superior Court"); both are excluded (no search or seizure claim decided). Their published case names, and record 4531440's (below), were corrected to the opinion captions on 2026-10-18. Guide pages drop CourtListener's " CA4/1" suffix on unpublished case names and the "M" (or "A") CourtListener adds to some dockets. *Superseded the same day for dockets:* reviewers now correct a stored docket to the opinion's caption, dropping a suffix the caption does not show (`docs/review-guide.md` §5). Records promoted earlier may still carry the suffix; pages display both forms the same way. CourtListener record 4531440 is filed under "Torres" but its text is *People v. Flores* (S116307). It was excluded (no search or seizure claim), so no listing is affected.
 
 ## 2026-10-18: Tier 1 review complete for the San Diego set
 
@@ -74,6 +74,28 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 **Guerra.** Metrics and the limited-record test count only her confirmed service (from 2026-05-22). Counting her pro tem assignment would not change anything shown: either way she has less than 12 months of appellate service. Her page now lists the pro tem assignment (Fifth District, October 2025 to January 2026) as earlier appellate service, sourced to her official biography (new `other_appellate_service` columns in `justices.csv`).
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
+
+## 2026-10-18: Search-and-seizure case lists for every justice
+
+Owner request: extend the hand-checked search-and-seizure lists beyond the 17 San Diego-ballot justices. The other 47 justices' queues (869 candidate opinions, built the same way) went through the same reading, separate verification, 15% second check, and consistency checks. Readers were batched by district and division so panel-mates shared a reader. Result for all 64 justices: 1,223 records for the 53 with candidate cases (the other 11 are limited-record justices with none), 70 listed, 204 second-checked, 0 substantive errors. All 54 cases shared between justices got the same at-issue call, and all 70 listed records match their opinion captions.
+
+Rulings made during this review (added to `docs/review-guide.md`): claim-preclusion rulings on a search claim are at issue, but a civil claim counts only if it is itself a search or seizure claim; L2 needs the search ruling in a published part of a partially published opinion; dockets are corrected to the caption. A concurrence that only states agreement with the majority's search analysis does not "address" it for L1. A summary may note a later Supreme Court reversal (People v. Brown, H048462, reversed in S271877).
+
+## 2026-10-18: Validating the other 15 topics
+
+Owner request: add more topics so the guide is useful for different priorities. Each topic now has a written definition of "addresses the topic" in `data/keywords.yaml`, and the same check as search and seizure: independent labelers who see only the opinion text and the definition (`docs/topic-labeling-guide.md`) label 50 random tagged opinions, shuffled with 30 near misses. A topic is shown only at 85% precision or better on a sample not used to choose its rule. New tooling: `src/topic_validate.py`; results: `data/validation/report_topics.md`.
+
+**Round 1 (the original any-anchor rules): every topic failed.** Precision ranged from 14% (jury selection: "Wheeler" citations, "peremptory writ") to 84% (resentencing). Near-miss probes now match only at word starts, after "lease" matched "release" and "tenant" matched "lieutenant" in an unlabeled first draw (redrawn before labeling).
+
+**Candidate rules for nine topics.** For interrogation, right to counsel, jury selection, Racial Justice Act, police records, immigration pleas, resentencing, arbitration, and anti-SLAPP, true matches use the anchor terms many times while false matches mention them once or twice. Each now has a rule on distinct anchors and anchor uses (the tagger gained `min_anchor_occurrences`), fit on its round-1 labels. Because the rules were fit on round 1, round 2 checks each on a fresh sample that excludes every round-1 opinion; the near-miss pool now includes opinions the tighter rule drops.
+
+**Six civil topics need another approach.** For employment, consumer protection, landlord-tenant, public records and open meetings, land use and housing, and taxes and fees, no anchor-count rule reached a safe margin on round 1. Their definitions turn on who is suing or on whether the issue was decided, which word counts cannot see (for example, the Unfair Competition Law is used by competitors, employees, and taxpayers as well as consumers). They stay hidden.
+
+**Rounds 2 and 3: eight topics pass.** On fresh samples that excluded every earlier-round opinion, these rules reached the 85% bar: resentencing 96%, anti-SLAPP 94%, interrogation 92%, police records 92%, immigration pleas 92%, arbitration 92%, right to counsel 90% (round 2), and Racial Justice Act 94% (round 3, after 84% in round 2). Their counts are now shown. Several strict rules miss many qualifying opinions (estimated: right to counsel 58%, arbitration 51%, interrogation 34%); pages say so wherever a topic's estimated miss rate is 25% or more.
+
+**Jury selection stays hidden.** It failed three fresh samples (82%, then 84% after retuning). Retuning a fourth time on the same kind of labels would start fitting the rule to the samples, so it stays off the pages until a different approach (such as reading each flagged opinion) is used.
+
+**Definitions clarified while labeling.** Right to counsel excludes confrontation and jury-trial claims (the topic is retitled "Right to counsel"). Police records includes review of a sealed Pitchess hearing.
 
 ## 2026-10-17: Review queue rules (U9)
 

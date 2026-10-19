@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4515115,probe,0,0,0,commercial real estate arbitration; warranty claim only alleged
+4521524,precision,0,2,2,vacation pay case; UCL mentioned in claims and Sullivan discussion
+4541539,probe,0,0,0,land use; Consumer Cause cite only
+4556261,precision,0,1,6,Song-Beverly case but only arbitration with nonsignatory manufacturer decided
+4578019,precision,1,1,2,CLRA pre-suit notice requirement not proven; JNOV should have been granted
+4581586,precision,0,1,1,employee forum selection (Lab. Code 925); UCL only listed
+4652015,precision,0,1,1,discovery dispute in People's opioid FAL/UCL suit; no consumer-protection claim decided
+4656068,precision,1,3,4,UCL claim against home warranty company fails because insurance regulations inapplicable
+4672047,probe,0,0,0,criminal; case cite only
+4674624,precision,0,3,5,CLOSE: appeal from arbitration order dismissed for lack of standing; McGill public-injunction (CLRA/UCL) analysis only alternative
+4766486,probe,0,0,0,criminal appeal
+5116442,probe,0,0,0,CLOSE: toll-road privacy statute (Sts & Hy 31490) claim against public transportation agencies; not a consumer-v-business consumer protection claim
+5116557,probe,0,0,0,criminal restitution; warranty mention only
+5121928,precision,0,1,1,"CLOSE: tribes' UCL standing against cardroom competitors decided; competitor/government claim, not consumer"
+5130685,precision,1,1,1,borrower's Rosenthal Act and UCL claims against loan servicer fail on demurrer
+6104408,probe,0,0,0,juvenile dependency; 17500 is Penal Code cite
+6112423,precision,1,2,28,Song-Beverly implied warranty damages under 1794(b)(1) denied because lessee accepted vehicle
+6113669,precision,1,2,2,"FTC holder rule limit does not bar consumer's attorney fees, costs, interest in CLRA/Song-Beverly auto case"
+6305372,precision,0,1,1,PAGA seating case; UCL/FAL discussed only by analogy on jury right
+6322021,probe,0,0,0,criminal appeal
+6326020,probe,0,0,0,criminal appeal
+6335243,precision,0,1,1,wage-and-hour release; UCL derivative of Labor Code
+6342274,probe,0,0,0,capital criminal appeal
+6350212,probe,0,0,0,criminal; false advertising mentioned in facts
+6352670,probe,0,0,0,wage settlement preclusion; Consumer Advocacy Group case cite only
+7361016,probe,0,0,0,water lease/CEQA; consumers mention only
+7796858,precision,0,1,1,wage class arbitration; UCL only listed
+7799978,precision,0,1,4,"CLOSE: Song-Beverly case, but fee motion denied on notice and acceptance of 998 settlement fee amount; no Song-Beverly issue decided beyond noting 1794(d) entitlement"
+8205859,probe,0,0,0,criminal appeal
+8207279,probe,0,0,0,marital settlement; warranty clause only
+8375313,precision,1,1,1,CLOSE: borrower's UCL claim against Chase fails (no conduct by Chase) on demurrer; short ruling in foreclosure case
+9324038,probe,0,0,0,no consumer issue
+9346532,precision,0,1,1,arbitration of employee Labor Code/UCL claims; no consumer issue
+9349310,precision,1,2,5,"borrower's UCL claim against lender fails (no wrongful conduct, standing, restitution); summary judgment affirmed"
+9350877,precision,0,1,1,water project contract dispute; UCL only listed
+9353067,probe,0,0,0,software business dispute; EULA/warranty mention
+9365061,precision,0,1,1,qui tam/healthcare; UCL mentioned by analogy
+9372149,probe,0,0,0,commercial truck loan; warranty disclaimer bars fraud defense; not consumer claim
+9377909,probe,0,0,0,criminal appeal
+9378283,probe,0,0,0,criminal appeal
+9378874,precision,0,1,1,independent contractor's UCL claim based on Labor Code; forum selection issue; not consumer
+9402017,precision,0,1,2,anti-SLAPP first prong only (Immigration Consultants Act/UCL claims not reached)
+9405709,probe,0,0,0,employee arbitration fee default (1281.98); consumer only in statute text
+9411359,precision,0,1,1,wage case; UCL ruling from prior appeal only
+9412918,precision,0,1,1,tribe v developer/lawyer; UCL in claims and judgment description only
+9554825,precision,0,1,1,business statute of limitations; 17200 only listed
+9840522,precision,0,1,5,"CLOSE: tenant class certification reversed for Ordinance/fraud/UCL claims; analysis on Ellis Act ordinance commonality, not UCL substance"
+9889611,precision,0,1,1,forum selection/jury waiver in business dispute; CLRA case cited
+9890268,precision,0,1,1,unlawful detainer after foreclosure; UCL only listed
+9892116,probe,0,0,0,anti-SLAPP; Equilon cite only
+9893390,probe,0,0,0,business partnership dispute; unfair competition claims only listed
+9899022,precision,1,2,2,concrete purchasers' UCL fraud/unfair claim over energy/environmental fees adequately pled
+9927793,precision,1,3,3,CLOSE: CLRA/UCL complaint seeks public injunctive relief under McGill; arbitration denied
+9941182,precision,1,2,5,tenant's UCL claim over illegal late rent fee; summary adjudication for partner entity affirmed
+9957670,precision,1,2,5,CLOSE: decertification of CLRA/UCL omission class affirmed (failure-rate materiality not common proof)
+9972599,precision,0,1,1,employment case; UCL claim not addressed (footnote)
+10477493,precision,0,1,1,anti-SLAPP on sister-state judgment collection; 17200 claim only listed
+10598022,probe,0,0,0,Political Reform Act; Consumers Union cite only
+10607770,precision,0,1,1,"CLOSE: UCL claim against water district consultants fails under anti-SLAPP (litigation privilege); taxpayer rate dispute, not consumer protection"
+10739998,probe,0,0,0,criminal appeal
+10761073,precision,0,1,1,wage case; 17200 only listed
+10814367,precision,0,1,1,False Claims Act notice; UCL 17209 by analogy
+11053960,precision,0,1,1,quiet title/five-year rule; 17200 cross-claim only in history
+11059635,probe,0,0,0,investment/securities dispute; non-consumer loans mentioned
+11084486,precision,0,1,5,CLOSE: foreclosure bidder's UCL claim fails derivatively with Civ. Code 2924m claim; not a consumer-v-business claim
+11084503,precision,0,1,2,malicious prosecution by tenants; UCL only in prior complaints
+11085274,probe,0,0,0,attorney fee case; Consumer Privacy Cases cite only
+11104442,probe,0,0,0,marital dissolution; home warranty cost only
+11120648,precision,1,1,1,prevailing defendants' CLRA fee claim (Civ. Code 1780(e)) ruled waived
+11125365,probe,0,0,0,criminal appeal; no consumer issue
+11129298,precision,0,1,1,arbitration in wage class action; UCL only listed in complaint
+11206563,probe,0,0,0,conversion of consigned car; Commercial Code consumer cite only
+11236195,precision,0,1,1,wage class arbitration; UCL only listed
+11255025,precision,0,1,1,business v HOA; 17200 only listed
+11280955,precision,0,1,1,attorney-client fee dispute; consumer statutes cited only
+11329897,precision,0,1,1,five-year dismissal; UCL only listed
+11332508,precision,0,1,2,"CLOSE: competitor lender's UCL claim reinstated derivatively; business-v-business, not consumer"
+11354575,precision,1,1,1,UCL and FAL claims over book jacket synopsis; no prima facie showing of misleading to reasonable consumer (anti-SLAPP)
+11450780,precision,1,1,7,CLOSE: 998 comparison in Song-Beverly case; values Song-Beverly fees and restitution (Niedermeier) to find judgment not more favorable
+11486195,precision,0,1,1,employee arbitration; UCL only listed

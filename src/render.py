@@ -19,7 +19,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
 
-from src import lint
+from src import lint, topic_validate
 
 TEMPLATES = Path(__file__).parent / "templates"
 PLACEHOLDER = "TBD: correction contact (owner decision before publication)"
@@ -35,7 +35,7 @@ CAREER_LABELS = {
 }
 TOPIC_TITLES = {
     "search_seizure": "Search and seizure", "interrogation": "Interrogation",
-    "counsel_fair_trial": "Right to counsel and fair trial", "jury_selection": "Jury selection",
+    "counsel_fair_trial": "Right to counsel", "jury_selection": "Jury selection",
     "racial_justice_act": "Racial Justice Act", "police_records": "Police records",
     "immigration_pleas": "Immigration consequences of pleas", "resentencing": "Resentencing",
     "arbitration": "Arbitration", "employment": "Employment", "consumer": "Consumer protection",
@@ -43,6 +43,7 @@ TOPIC_TITLES = {
     "anti_slapp": "Anti-SLAPP", "taxpayer": "Taxes and fees",
     "land_use_housing": "Land use and housing",
 }
+UNDERCOUNT_NOTE_MIN = 0.25
 NOTE_FIELDS = [
     "justice_slug", "topic", "cl_opinion_id", "case_name", "citation_or_docket", "date_filed",
     "published", "listing_decision", "exclusion_reason", "role", "listing_rule", "issue_type",
@@ -95,6 +96,7 @@ class Inputs:
     tag_summary: str
     extra: dict = field(default_factory=dict)
     credit: str = ""
+    topic_validation: dict = field(default_factory=dict)
 
 
 def _num(value):
@@ -189,7 +191,7 @@ def _glance(slug: str, j: dict, metrics: dict) -> list[dict]:
 
 
 _CA_SUFFIX = re.compile(r"\s+CA\d/\d$")
-_MODIFIED_DOCKET = re.compile(r"^([A-HS]\d{6})M$")
+_MODIFIED_DOCKET = re.compile(r"^([A-HS]\d{6})[MA]$")
 
 
 def _display_note(note: dict) -> dict:
@@ -242,14 +244,17 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
         def tm(name, _topic=topic):
             return _int_text(metrics.get((slug, name, _topic), {}).get("value"))
 
-        listing = None
-        if spec["tier"] in review_tiers and _true(j.get("sd_ballot")):
-            listing = _listing(slug, topic, inputs)
-        elif spec["tier"] == 1:
-            listing = {"status": "not_reviewed"}
+        # Case lists cover every justice whose queue has been reviewed (statewide since
+        # 2026-10-18); a reviewable topic without reviewed records says "not yet reviewed".
+        listing = _listing(slug, topic, inputs) if spec["tier"] in review_tiers else None
+        rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
+        missed = rounds[-1].get("undercount_share") if rounds else None
         topics.append({
             "topic": topic, "title": TOPIC_TITLES.get(topic, topic),
             "validated": bool(spec.get("validated")),
+            # Counts that likely miss a quarter or more of the topic get a visible caveat.
+            "undercount_pct": (round(100 * missed) if missed is not None
+                               and missed >= UNDERCOUNT_NOTE_MIN else None),
             "authored": tm("topic_authored"), "panels": tm("topic_panels"),
             "contested_majority": tm("contested_majority"),
             "contested_dissent": tm("contested_dissent"), "listing": listing,
@@ -272,7 +277,7 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
     if limited:
         ctx["record_status"] = "limited appellate record"
         ctx["index_listed"] = "—"
-    elif _true(j.get("sd_ballot")) and tier1 and all(
+    elif tier1 and all(
             t["listing"]["status"] != "not_reviewed" for t in tier1):
         ctx["record_status"] = "verified"
         ctx["index_listed"] = str(sum(t["listing"].get("total", 0) for t in tier1))
@@ -342,6 +347,28 @@ def _review_stats(notes: list[dict]) -> dict:
     }
 
 
+def _topic_rows(inputs: Inputs) -> list[dict]:
+    """One row per topic for the methodology page: definition and latest validation round."""
+    def pct(x):
+        return "—" if x is None else f"{100 * x:.0f}%"
+
+    order = list(TOPIC_TITLES)
+    rows = []
+    for topic in sorted(inputs.topics, key=lambda t: (order.index(t) if t in order else 99, t)):
+        spec = inputs.topics[topic]
+        rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
+        last = rounds[-1] if rounds else None
+        rows.append({
+            "title": TOPIC_TITLES.get(topic, topic),
+            "definition": " ".join((spec.get("definition") or "").split()),
+            "precision": (f"{pct(last['precision'])} (N = {last['precision_n']})" if last
+                          else "not yet checked"),
+            "undercount": topic_validate.undercount_text(last) if last else "—",
+            "shown": "yes" if spec.get("validated") else "no",
+        })
+    return rows
+
+
 def build(inputs: Inputs) -> dict[str, str]:
     env = Environment(loader=FileSystemLoader(TEMPLATES), undefined=StrictUndefined,
                       keep_trailing_newline=True, trim_blocks=True, lstrip_blocks=True)
@@ -361,7 +388,7 @@ def build(inputs: Inputs) -> dict[str, str]:
         updated=updated, bulk_snapshot=inputs.bulk_snapshot, window_start=inputs.window_start,
         validation_summary=inputs.validation_summary, tag_summary=inputs.tag_summary,
         correction_contact=correction, credit=inputs.credit,
-        stats=_review_stats(inputs.case_notes)))
+        stats=_review_stats(inputs.case_notes), topic_rows=_topic_rows(inputs)))
     files["_config.yml"] = JEKYLL_CONFIG
 
     justice_fields = list(inputs.justices[0].keys()) if inputs.justices else []
@@ -431,6 +458,8 @@ def main() -> int:
         tier2_enabled=bool(settings.raw["phase"].get("tier2_enabled")),
         correction_contact=settings.raw["project"].get("correction_contact"),
         credit=settings.raw["project"].get("credit") or "",
+        topic_validation=(json.loads((vdir / "topic_status.json").read_text())
+                          if (vdir / "topic_status.json").exists() else {}),
         validation_summary=("Full results: [validation report](https://github.com/bookchiq/"
                             "ca-retention-guide/blob/main/data/validation/report_parse.md)."
                             if report.exists() else "Validation has not been run yet."),

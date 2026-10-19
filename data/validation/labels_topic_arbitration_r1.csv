@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4527624,probe,0,0,0,Song-Beverly attorney fees; arbitration only in statute cite
+4557919,probe,1,0,0,CLOSE: fee dispute between firms; court briefly rejects alternative contention that dispute must be arbitrated (no written agreement; estoppel forfeited)
+4558204,precision,1,3,8,denial of motion to compel arbitration reversed; service of suit clause vs arbitration clause
+4564705,probe,0,0,0,arbitration only in case name of a cite
+4570408,precision,1,1,1,judgment confirming arbitration award; sanctions portion vacated as exceeding arbitrator powers
+4640564,probe,0,0,0,jurisdiction discussion; compel arbitration case cited only
+4643204,precision,0,1,1,no arbitration content
+4650818,probe,0,0,0,custody; 'arbitrary' and statutory list only
+4656424,precision,1,1,6,order confirming arbitration award affirmed; challenges to award rejected
+4668819,precision,1,3,9,CLOSE: appeal from order on initial arbitration fees after compelling arbitration dismissed as nonappealable; writ treatment declined
+4672527,precision,1,4,86,"denial of motion to compel arbitration; FAA transportation exemption, class waiver, unconscionability"
+4682001,probe,0,0,0,arbitration only in a cite about respondent briefs
+4690773,precision,1,4,164,denial of motion to compel arbitration affirmed; unconscionability
+4700631,precision,1,3,9,denial of motion to compel arbitration affirmed; FAA transportation worker exemption
+4700965,precision,1,4,60,denial of motion to compel arbitration reversed; unconscionability and waiver
+4706097,probe,0,0,0,temporary judge disqualification; arbitrator ethics only by analogy
+4880805,precision,1,2,13,denial of petition to compel arbitration of PAGA claims affirmed
+4910316,probe,0,0,0,land use; arbitration in cite parenthetical
+5125109,probe,0,0,0,costs under 998; arbitration only in statutory text and history
+5126451,probe,0,0,0,mediation confidentiality; arbitration in statutory quote
+5128911,probe,0,0,0,deed of trust fraud; arbitration case cited only
+5134964,probe,1,0,0,petition to vacate arbitrator's dismissal denied; affirmed
+6316787,precision,1,1,3,CLOSE: appeal from order confirming award and denying vacatur dismissed as nonappealable (no final judgment)
+6323610,precision,1,1,30,denial of petition to compel arbitration affirmed; no authority to sign agreement
+6326105,probe,0,0,0,alter ego/fraud; arbitration case cited for duty to explain contract only
+6326633,probe,1,0,0,"denial of petition to compel arbitration affirmed; res judicata, scope, arbitrator conflict"
+6326993,precision,0,1,3,"CLOSE: attorney fees after confirmation proceeding; only fee award decided, collateral attack on confirmation judgment barred"
+6327542,precision,0,1,12,settlement enforcement; arbitration clause in settlement terms only
+6333055,precision,1,4,83,denial of motion to compel arbitration affirmed; unconscionability and severance
+6336508,precision,1,2,34,denial of petition to compel arbitration affirmed; unconscionability
+6336641,precision,0,1,1,"CLOSE: suit against JAMS and neutral; arbitral immunity discussed only for prejudice, not a compel/enforceability/award issue"
+6345552,precision,0,1,9,no arbitration content
+6345584,precision,0,1,1,no arbitration content
+6345619,probe,0,0,0,employment retaliation; arbitration matter only in evidence description
+6345959,precision,1,2,4,petition to vacate arbitration award denied; confirmation affirmed
+7799161,precision,1,3,15,order compelling arbitration reviewed on appeal from dismissal; agreement and unconscionability challenges rejected
+7802169,precision,0,1,1,no arbitration content
+9365061,probe,0,0,0,arbitration of employment claims only in procedural history
+9366479,precision,1,1,1,judgment confirming arbitration award; untimely petition to vacate/correct
+9377922,probe,0,0,0,contract interpretation; arbitration clause mention only
+9383604,precision,1,1,1,motion to compel accounting-expert ADR under 1281.2; scope of arbitrable disputed items
+9383665,probe,0,0,0,'arbitrator' in dictionary quote only
+9394034,precision,1,3,112,"denial of petition to compel arbitration affirmed; unconscionability, no severance"
+9396515,precision,1,1,3,motion to compel payment of arbitration fees or find waiver; denial affirmed
+9405281,precision,0,2,4,Song-Beverly antiwaiver and release; arbitration only in quoted precedent
+9409286,precision,0,2,11,CLOSE: PAGA standing after individual claims compelled to arbitration; court limits review to standing and expresses no view on arbitration agreement
+9554178,precision,0,1,5,no arbitration content
+9906595,precision,0,1,1,class settlement approval; arbitration only as litigation risk
+9913006,precision,1,2,10,CLOSE: appeal of order compelling arbitration dismissed as premature; PAGA nonindividual dismissal reversed
+9915922,probe,0,0,0,attorney fees in unlawful detainer; arbitration clause precedent by analogy only
+9919350,precision,1,2,23,"denial of motion to compel arbitration affirmed; minor disaffirmance, delegation clause"
+9945595,precision,1,2,8,"writ: employer late arbitration fees under 1281.98; stay lifted, arbitration waived"
+9969101,precision,1,1,17,writ: motion to withdraw from arbitration under 1281.98 for unpaid fees granted
+10471291,precision,0,1,6,no arbitration content
+10479919,probe,0,0,0,"elisor appointment; confirmed award only background, court reads award scope but no confirm/vacate ruling"
+10547513,probe,0,0,0,restraining order; prior arbitration only in facts
+10641997,precision,1,1,9,"orders compelling arbitration and confirming award affirmed as to Amex, reversed as to nonsignatory Gearys"
+10753692,precision,0,1,1,class certification; motion to compel only in footnote history
+10777093,probe,0,0,0,anti-SLAPP; arbitration only in discussion of cited cases
+10792743,precision,1,2,13,writ: EFAA preempts order compelling arbitration of sexual harassment case
+10830210,probe,0,0,0,anti-SLAPP; Rent Stabilization and Arbitration Ordinance name only
+10844715,precision,1,4,55,denial of motion to compel arbitration affirmed; unconscionability
+11060441,probe,1,0,0,CLOSE: whether WCAB mandatory arbitration of coverage dispute under Lab. Code 5275 applies; statutory not contractual arbitration
+11087778,precision,1,1,9,order confirming appraisal as arbitration award reversed; no agreement to arbitrate
+11106388,precision,0,2,4,insurance conservatorship; arbitration only in background of RPA litigation
+11107170,precision,0,1,1,"State Bar rule barring inactive licensees as arbitrators; equal protection, not an arbitration issue"
+11120649,probe,0,0,0,rent control takings; arbitrator mentioned in pleading quote
+11173964,probe,0,0,0,No Surprises Act arbitration mentioned in background
+11225047,probe,0,0,0,judgment satisfaction; confirmed arbitration award in another matter only background
+11225975,precision,1,3,76,denial of motion to compel arbitration affirmed; unconscionability
+11245519,precision,0,1,1,marriage date of separation; arbitration only in discussion of cited case
+11248688,probe,0,0,0,arbitration only in a parenthetical cite
+11276087,probe,0,0,0,anti-SLAPP; arbitration of buy-sell dispute only in quoted statement
+11278054,probe,0,0,0,demurrer against broker; confirmed arbitration award only background
+11296777,precision,0,1,2,legal malpractice; underlying arbitration only in facts
+11312363,precision,1,2,9,standing to arbitrate; orders compelling arbitration and confirming award vacated
+11329907,precision,1,3,45,"denial of motion to compel arbitration affirmed; unconscionability, choice of law"
+11335519,precision,0,1,3,Racial Justice Act; 'arbitrary' only
+11428090,precision,1,3,29,"denial of motion to compel arbitration reversed; third party beneficiary, delegation clause"
+11430670,precision,1,2,33,denial of motion to compel arbitration affirmed; electronic signature not authenticated

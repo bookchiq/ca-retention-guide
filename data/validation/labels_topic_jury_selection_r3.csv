@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4516688,probe,0,0,0,coastal LCP; peremptory writ only
+4560882,precision,1,2,33,Batson/Wheeler denial affirmed
+4561364,precision,1,2,37,Batson/Wheeler challenges rejected
+4564456,precision,0,2,57,CLOSE: decides timing of 170.6 challenge to judge after Batson remand; Batson motion itself not decided
+4578448,probe,0,1,1,"CLOSE: defendant's removal from courtroom during part of voir dire (right to presence), not Batson/231.7/cause"
+4656729,precision,1,2,24,"Batson/Wheeler: wrong standard, conditional reversal"
+4661743,probe,0,0,0,water permits; peremptory writ only
+4672413,precision,1,3,19,Batson/Wheeler denial affirmed (Latino jurors)
+4680658,probe,0,2,3,resentencing remand; Batson claim from prior appeal in history only
+4682469,probe,0,0,0,juror concealment on questionnaire / new trial for juror misconduct; no selection claim decided
+4687920,precision,1,2,32,Batson/Wheeler objections (four Black jurors) rejected
+4693088,precision,1,3,48,Batson/Wheeler denial affirmed (three Black prospective jurors)
+4705017,probe,0,1,1,"Bryant, Smith and Wheeler cite only"
+4706898,probe,0,0,0,DMV license suspension writ; peremptory writ only
+4706988,probe,0,0,0,postconviction discovery writ; peremptory writ only
+4766390,probe,0,1,2,CEQA; peremptory writ only
+4910248,precision,1,2,26,Batson/Wheeler objections (two Black female jurors) rejected
+4912346,precision,1,3,41,Batson/Wheeler third-step error; conditional reversal
+4972063,precision,0,2,17,mental health diversion appealability; Wheeler/Batson only in cited case discussion
+5131047,precision,0,2,63,CLOSE: decides work-product/postconviction discovery of prosecutor notes for a pending Batson habeas claim; Batson claim itself not decided
+5136678,probe,0,1,3,no jury selection issue
+5139755,precision,1,2,32,Batson/Wheeler denial affirmed
+5648812,precision,1,3,31,Batson/Wheeler denial affirmed
+6113812,probe,0,1,1,employment 'terminated for cause' only
+6114019,precision,1,3,60,capital case; Witt for-cause excusal of Juror 126 upheld (plus other jury selection claims)
+6321320,probe,0,0,0,170.6 challenge to judge; not jury selection
+6325657,precision,1,2,13,CLOSE: capital habeas; Batson and Witt-related claims held successive (procedural bar) under Prop 66
+6333080,precision,1,3,19,Batson claim (four African-American jurors) rejected
+6333844,precision,1,3,16,Batson/Wheeler denial affirmed
+6344616,precision,0,2,5,Racial Justice Act discovery; Batson mentioned only in legislative background
+7803580,precision,1,2,19,capital case; denials of for-cause challenges and Witt excusals upheld
+7804008,probe,0,0,0,probation term / plea; peremptory writ only
+8406208,probe,0,0,0,discharge of deliberating Juror No. 1 for refusing to follow law (not jury selection)
+9363336,precision,0,2,5,1172.6 petition; prior Batson reversal in background only
+9368158,probe,0,0,0,probation writ; peremptory writ only
+9379153,precision,1,2,28,Batson/Wheeler prima facie denial affirmed
+9392611,precision,1,3,30,Batson/Wheeler denial affirmed
+9405288,precision,1,2,16,Batson/Wheeler denial affirmed
+9556588,precision,1,3,25,Batson/Wheeler prima facie claim rejected
+9574243,probe,0,1,1,arbitration; Wheeler is counsel's name
+9838788,probe,0,0,0,CEQA writ; peremptory writ of mandate only
+9841220,probe,0,0,0,voir dire mentioned in closing argument quote only
+9890006,precision,1,3,38,231.7 exception motion denied; for-cause challenge forfeited; peremptory denial harmless
+9892420,precision,1,3,110,231.7 objection; demeanor reasons; overruling affirmed
+9893139,precision,1,3,17,Batson-Wheeler challenge rejected
+9894404,precision,1,2,13,Batson/Wheeler on remand; prosecutor's reasons upheld
+9908790,probe,0,0,0,CEQA; peremptory writ only
+9911841,probe,0,0,0,speedy trial dismissal; peremptory writ only
+9945296,precision,0,3,5,CLOSE: civil; court notes no Batson/composition challenge was raised; claims were juror bias/nullification and judicial bias
+9945602,precision,1,3,88,231.7 claims forfeited for failure to raise below
+9969078,precision,1,3,57,231.7 presumptively invalid reasons; violation found
+9989136,precision,1,2,41,Batson/Wheeler claim rejected
+10466374,precision,1,3,29,Batson/Wheeler denial affirmed (concurrence on RJA)
+10477457,probe,0,1,1,"Bryant, Smith and Wheeler cite only"
+10499544,precision,1,3,44,231.7 objection to peremptory challenge properly overruled
+10611724,precision,1,3,29,231.7 objection erroneously overruled; reversal
+10629063,precision,1,3,30,for-cause excusal of African-American juror upheld vs. bias/231.7/RJA claims
+10753690,probe,0,1,1,"Bryant, Smith and Wheeler cite only"
+10759421,precision,1,3,28,231.7 gender objection; overruling affirmed
+10759761,probe,0,1,2,Second Amendment; Wheeler is a federal case name
+10779291,probe,0,0,0,1172.6 writ; peremptory writ only
+10793537,precision,1,3,29,civil Batson/Wheeler denial and for-cause challenge denials affirmed
+10800345,probe,0,0,0,bail review writ; peremptory writ only
+11051726,precision,0,2,25,admissibility at 1172.6 hearing of evidence from trial reversed for Batson error; no Batson objection decided
+11056662,precision,1,3,122,231.7 objection erroneously overruled; reversal
+11063943,probe,0,0,0,juror nondisclosure in voir dire / new trial motion (misconduct); no selection claim
+11079804,precision,1,3,23,Batson/Wheeler denial affirmed; RJA jury-selection claims
+11104363,probe,0,0,0,capital appeal; no jury selection claim (voir dire mentioned in cite only)
+11166366,precision,1,3,28,231.7 objection properly overruled
+11171024,precision,1,3,63,231.7: youth not cognizable group; unraised group claim forfeited
+11175550,precision,1,3,76,231.7(j) deemed-prejudicial standard inapplicable to erroneously granted objection
+11181553,probe,0,1,1,"Bryant, Smith and Wheeler cite only"
+11199831,precision,1,3,12,CLOSE: denial of challenge for cause to Juror 25 held forfeited (no peremptory used); for-cause denial rather than excusal
+11227590,probe,0,0,0,170.6 challenge to judge; not jury selection
+11263664,precision,1,3,55,231.7 objection erroneously overruled; reversal
+11263666,precision,1,3,29,Batson/Wheeler objections to strikes of Hispanic jurors rejected
+11313741,precision,1,3,9,Wende/Kelly review: trial court properly sustained 231.7 objection to defendant's peremptory strike
+11332513,precision,1,3,31,Batson/Wheeler denial affirmed; 231.7 inapplicable by date
+11446007,precision,0,3,38,CLOSE: 1054.9 postconviction discovery of prosecutor jury-selection notes for Batson habeas claim; Batson claim not decided
+11479594,probe,0,1,1,Faretta; jury selection mentioned in advisement only

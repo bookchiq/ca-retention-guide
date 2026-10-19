@@ -39,9 +39,63 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 0 | 11 | 0 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Chou have not all been read and verified yet, so none are shown.
+**Listed cases:** none. No case in the window met the listing rules (10 candidates reviewed).
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 6 | 19 | 0 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 1 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 1 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 7 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 14 | 42 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 10 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 7 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

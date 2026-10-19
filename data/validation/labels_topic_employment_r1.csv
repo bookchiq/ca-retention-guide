@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4535890,precision,1,2,15,Labor Code 218.5 attorney fees for meal/rest claims
+4556535,probe,0,0,0,dependency appeal
+4557339,probe,0,0,0,criminal restitution appeal
+4576656,probe,0,0,0,spousal support order
+4577637,precision,1,2,3,Labor Code 432.7 claim re termination for dismissed conviction decided
+4614147,probe,0,0,0,uninsured motorist coverage vs workers comp offset; not employee v employer
+4640181,precision,1,1,6,choice of law: California wage laws apply to nonresident crew; MSJ denial upheld
+4647976,precision,0,1,1,Voting Rights Act case
+4656850,precision,1,2,47,FEHA discrimination/retaliation summary judgment decided
+4679855,probe,0,0,0,criminal appeal
+4679868,precision,0,1,7,appeal dismissed after settlement; merits not reached
+4685811,probe,0,0,0,criminal murder appeal
+4881027,precision,1,1,1,CLOSE: former employee's wrongful termination/harassment claims vs employer barred by claim preclusion
+4995622,precision,1,2,3,disability discrimination termination judgment affirmed
+5121271,precision,1,2,92,PAGA intervention/settlement objection issue decided
+5135336,precision,0,2,3,attorney fee collection arbitration
+6104320,probe,1,0,0,"Labor Commissioner wage appeal; wage order, employee status, 218.5 fees"
+6104668,precision,1,3,9,Labor Code wage and PAGA judgment reviewed
+6216888,precision,0,4,10,CLOSE: CBA arbitration scope for Labor Code claims; arbitrability only
+6309959,precision,0,1,2,anti-SLAPP attorney fees; FEHA only cited
+6336664,precision,1,1,19,FEHA third-party harassment and retaliation claims decided
+6341848,probe,0,0,0,criminal murder appeal
+6341915,probe,0,0,0,criminal gang case
+6800391,precision,0,1,1,Penal Code 496 treble damages partnership case
+6800531,precision,1,1,2,FEHA pregnancy discrimination summary judgment reversed
+7797833,precision,0,1,10,Unruh Act applicability to school district; not employment
+9322981,precision,1,3,103,CLOSE: arbitrability of PAGA claims after Viking River; rejects PAGA State-must-consent rule
+9348962,precision,1,1,3,administrative exemption misclassification judgment affirmed
+9350314,probe,0,0,0,dependency writ
+9377154,precision,1,2,7,age discrimination and Labor Code 1102.5 whistleblower claims decided
+9383596,precision,1,1,6,FEHA and whistleblower retaliation claims against EDD decided
+9385454,probe,0,0,0,criminal resentencing appeal
+9388777,precision,0,3,9,arbitration unconscionability only in employment case
+9390047,probe,0,0,0,criminal rape appeal
+9402537,precision,0,3,4,arbitration nonsignatory enforcement only in wage case
+9405500,probe,1,0,0,CLOSE: police sergeant writ challenging termination; court upholds setting aside discipline
+9840951,precision,0,3,6,arbitration nonsignatory to CBA only in wage case
+9891499,probe,0,0,0,criminal robbery appeal
+9899461,probe,0,0,0,premises liability against building owner
+9913935,probe,0,0,0,criminal appeal
+9916446,probe,0,0,0,parental rights termination
+9926435,precision,0,1,1,LLC member arbitration dispute
+9947841,precision,1,1,20,FEHA harassment/discrimination claims decided
+9954060,precision,1,1,2,Wage Order 16 hours worked questions answered
+9975647,probe,0,0,0,dependency appeal
+9978763,precision,0,1,1,student enrollment arbitration award; not employment
+10034510,precision,0,1,1,arbitration nonsignatory only in employment action
+10174146,precision,1,2,28,FEHA disability discrimination claim decided
+10464263,precision,1,1,1,FEHA disability accommodation verdict affirmed
+10597960,probe,0,0,0,consumer warranty forum selection
+10629537,probe,0,0,0,spousal support modification
+10741710,precision,1,2,13,"FEHA disability and wrongful termination verdict, employer status decided"
+10753692,precision,0,3,10,CLOSE: disqualification of class counsel in wage case; attorney conflict issue only
+10759301,precision,1,1,1,CLOSE: harassment/retaliation case; challenge to summary adjudication of same-decision defense rejected on inadequate record
+10783469,precision,0,2,3,arbitration enforceability only in wrongful termination suit
+10785425,precision,1,1,7,"CLOSE: employer loan claim vs employee; Labor Code wage-deduction defense held forfeited, Armendariz inapplicable"
+10789009,precision,0,1,2,"CLOSE: employment claims against employer's attorneys, not employer; affirmed on unchallenged failure-to-state ground"
+10832244,probe,1,0,0,CLOSE: city employees' challenge to retirement/health benefit changes decided (vested rights)
+10840297,precision,1,2,23,"FEHA discrimination, harassment, retaliation nonsuit affirmed"
+10841100,precision,0,1,2,anti-SLAPP in restaurant partnership dispute; wrongful termination only background
+10912044,probe,0,0,0,habeas petition
+11050835,precision,0,4,15,CCP 1281.98 arbitration fee nonpayment; no employment-law ruling
+11069518,probe,0,0,0,criminal resentencing
+11086742,probe,0,0,0,divorce property dispute
+11124682,probe,0,0,0,neighbor dispute anti-SLAPP; employment case only cited
+11133517,precision,0,1,1,"defamation claim against staffing recruiter, not employer"
+11208047,precision,0,1,1,malicious prosecution/jury instruction; prior wrongful termination suit only background
+11217301,precision,1,2,22,prevailing party for Labor Code fee award on wage claims
+11267878,precision,0,4,123,CLOSE: PAGA case but decided issue is arbitration agreement severance and stay; Iskanian waiver conceded
+11273499,precision,1,2,24,"harassment, discrimination, retaliation, wrongful termination claims decided"
+11273500,precision,1,2,17,FEHA/Tameny wrongful termination verdict challenges decided
+11310003,probe,0,0,0,vexatious litigant order; not employment
+11327580,precision,1,2,15,"FEHA religious accommodation, wrongful termination, contract claims decided"
+11335517,probe,0,0,0,capital criminal appeal
+11336533,probe,0,0,0,marital settlement dispute
+11394908,probe,0,0,0,civil harassment restraining orders
+11430781,precision,0,1,7,"CLOSE: staffing company v. union defamation; LMRA preemption, not employee v employer"
+11431346,probe,0,0,0,criminal murder appeal
+11439738,precision,0,1,1,motion to compel arbitration of employee claims; contract supersession only
+11442699,precision,0,1,1,CLOSE: discovery sanctions in employment suit; no employment-law ruling

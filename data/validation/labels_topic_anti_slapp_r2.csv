@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4554134,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4556854,precision,1,2,77,affirms grant of anti-SLAPP motion on cross-complaint
+4558853,precision,1,2,11,affirms denial of anti-SLAPP motion
+4571604,precision,1,2,24,affirms grant of anti-SLAPP motion
+4585030,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4649526,precision,1,2,54,affirms/reverses in part denials of anti-SLAPP motions
+4653980,precision,1,2,41,affirms supplemental anti-SLAPP fee award
+4654693,precision,1,2,50,affirms grant of anti-SLAPP motion
+4662248,precision,1,2,46,reverses grant of anti-SLAPP motion (malicious prosecution)
+4668525,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4668985,precision,1,2,62,affirms in part/reverses denial in part of anti-SLAPP motion
+4669325,precision,1,2,12,affirms denial of anti-SLAPP motion
+4690334,precision,1,2,21,dismisses appeal of anti-SLAPP grant as untimely
+4698798,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4698860,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4699601,precision,1,2,26,affirms denial of anti-SLAPP motion as modified
+4708085,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+4880412,precision,1,2,37,affirms denial of late anti-SLAPP motion
+4881027,precision,0,2,6,"CLOSE: claim preclusion from prior anti-SLAPP judgment; court declines to review that ruling, decides demurrer only"
+4911955,precision,1,2,17,reviews denial of anti-SLAPP motion (defamation)
+5118225,precision,1,2,55,reverses in part grant of anti-SLAPP motion
+5139442,precision,1,2,42,reverses in part partial grant/denial of anti-SLAPP motion
+6226423,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+6227046,precision,1,2,43,affirms denial of anti-SLAPP motion
+6316791,precision,1,2,38,affirms denial of anti-SLAPP motion
+6332273,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+6342274,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+6351180,probe,0,1,1,prior anti-SLAPP dismissal in background only
+6353674,precision,1,2,23,affirms denial of anti-SLAPP motion (illegality)
+6495853,precision,1,2,8,affirms denial of anti-SLAPP motion (malicious prosecution)
+6497976,precision,1,2,25,reviews denial of anti-SLAPP motion (public interest)
+6800394,precision,1,2,22,affirms grant of anti-SLAPP motion and fee award
+7799161,probe,0,1,1,"anti-SLAPP motion pending in arbitration, background only"
+8206373,precision,1,2,32,appeal not moot; reviews denial of anti-SLAPP motion
+8206409,precision,1,2,30,affirms denial of anti-SLAPP motion (prong one)
+8208264,precision,0,2,16,CCP 1987.2 subpoena fees; anti-SLAPP cited only by analogy
+8375311,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+9322979,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+9352745,precision,1,2,15,affirms anti-SLAPP fee award; reverses some costs
+9384713,probe,0,0,0,arbitration; anti-SLAPP case cited only
+9388479,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+9390880,precision,1,2,33,affirms 425.16(c) fee award after voluntary dismissal pending anti-SLAPP motions
+9394534,precision,1,2,92,reverses denial of anti-SLAPP motion; remands for prong two
+9405009,precision,1,2,50,reverses in part denial of anti-SLAPP motion (defamation)
+9413417,probe,0,1,1,anti-SLAPP joinder case cited only
+9838787,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+9904809,precision,1,2,29,reverses fee award to plaintiffs on anti-SLAPP motion
+9925437,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+9929649,precision,1,2,10,affirms denial of anti-SLAPP motion (easement)
+9973306,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+10352288,precision,1,2,15,reverses denial of anti-SLAPP motion
+10352325,precision,1,2,65,affirms denial of anti-SLAPP motion; reverses frivolousness fee award
+10473734,precision,1,2,21,affirms denial of anti-SLAPP motion
+10514103,precision,1,2,12,affirms anti-SLAPP fee award
+10607738,precision,1,2,42,affirms anti-SLAPP order and fee order
+10641493,precision,1,2,56,affirms anti-SLAPP ruling against cross-complaint
+10739230,precision,1,2,12,reviews grant of anti-SLAPP motion on cross-complaint
+10788774,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+10790546,precision,1,2,41,affirms grant of anti-SLAPP motions
+10791436,precision,1,2,29,affirms denial of anti-SLAPP motion
+10812776,precision,1,2,38,affirms partial grant of anti-SLAPP motion and fee award; 425.17 exemption
+10820696,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+10823193,precision,1,2,8,reverses 425.16(c) fee award after prior reversal of anti-SLAPP grant
+10824227,precision,1,2,46,affirms denial of anti-SLAPP motion
+10984943,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11045080,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11053321,precision,1,2,21,reverses denial of anti-SLAPP motion
+11066529,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11088761,precision,1,2,14,reverses frivolous-motion fee award under 425.16(c)
+11112126,precision,1,2,20,affirms grant of anti-SLAPP motion
+11124803,precision,1,2,18,affirms denial of anti-SLAPP motion (malicious prosecution)
+11206495,precision,1,2,26,affirms denial of anti-SLAPP motion; frivolous appeal sanctions
+11215821,probe,0,0,0,anti-SLAPP case cited only
+11251578,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11279221,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11315200,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11327590,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11403813,probe,0,0,0,no anti-SLAPP motion; topic not mentioned
+11405330,precision,1,2,13,affirms 425.16(c) fee award after granted anti-SLAPP motion
+11406311,precision,0,1,5,CLOSE: contractual fee award (Civ. Code 1717); anti-SLAPP motion and fees only background

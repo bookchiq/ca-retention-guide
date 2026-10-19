@@ -39,9 +39,66 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 6 | 16 | 0 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Stewart have not all been read and verified yet, so none are shown.
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the opinion holding a traffic stop lacked reasonable suspicion because the defendant's signaled right turn after stopping at a stop sign did not violate the Vehicle Code and the officer's contrary belief was not objectively reasonable; reversed the denial of the suppression motion. *People v. Holiman* (A160142, 2022-03-28; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/6455428/people-v-holiman/)
+- Wrote the opinion affirming denial of the defendant's suppression motion. Held officers had probable cause to search his rental car under the automobile exception, and that although an officer's pre-warrant look into his cellphone was unlawful, the later phone warrant was valid under the independent source doctrine. *People v. Tousant* (A156044, 2021-06-24; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4894702/people-v-tousant/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 13 | 38 | 0 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 7 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 3 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 4 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 3 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 14 | 56 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 6 | 20 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 18 | 1 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

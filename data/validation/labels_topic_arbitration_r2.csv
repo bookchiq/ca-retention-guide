@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4561383,probe,1,1,1,Order denying in part compel; appraisers as arbitrators lacking interpretive power
+4566544,probe,1,1,2,Order confirming labor arbitration award affirmed
+4579729,precision,1,3,78,Enforceability/unconscionability of arbitration step decided; not substantively unconscionable
+4582478,precision,1,2,22,Denial of compel under 1281.2(c) third-party exception
+4587113,precision,1,4,26,Denial of motion to compel arbitration reviewed
+4656034,precision,1,4,39,Denial of motion to compel; unconscionability/delegation
+4662405,probe,0,0,0,Arbitration only in quoted fee clause
+4664262,precision,0,2,50,Related case compelled to arbitration mentioned in background; 'arbitrary' otherwise
+4665067,probe,0,0,0,Fee arbitration suggestion in facts only
+4699663,probe,1,1,1,Denial of petition to vacate arbitration award reviewed
+4879580,probe,1,2,6,Denial of petition to compel; waiver
+5126448,probe,0,0,0,Arbitration awards/confirmation only in background of lien satisfaction dispute
+5129829,probe,1,1,11,Judgment confirming award; arbitrator exceeded powers
+6116713,precision,1,3,26,Order partially denying compel/stay; carve-out scope
+6305369,precision,1,4,187,Motion to compel; unconscionability of agreement
+6329304,precision,0,3,66,Arbitration unconscionability case law cited by analogy only
+6333949,precision,1,2,15,Affirms denial of motion to compel; no proof of agreement
+6352566,probe,0,0,0,"CLOSE: reverses fee order because companion opinion reversed vacatur of award; vacate/confirm issue decided in the other opinion, not here"
+6354381,probe,1,0,0,Judgment confirming award; arbitrator exceeded powers claim
+6496082,precision,1,3,128,Denial of motion to compel; unconscionability
+8206360,probe,1,2,4,Motion to compel arbitration under CBAs
+8406907,precision,1,2,15,Waiver of right to arbitrate by delay
+8600713,precision,1,3,11,Denial of petition to compel ADR under 1281.2(c) affirmed
+9324037,precision,1,2,27,Affirms denial of motion to compel; no valid agreement
+9348506,precision,1,4,105,Denial of motion to compel affirmed
+9364693,precision,1,4,50,Motion to compel arbitration; authenticity of signatures
+9365715,precision,1,3,125,Denial of petition to compel; unconscionability
+9381337,precision,1,2,53,Denial of motion to compel; authentication of e-signature
+9382797,precision,1,2,38,Denial of motion to compel; scope of arbitration clause
+9382873,precision,1,2,21,Motion to compel arbitration; existence of agreement
+9384711,precision,1,4,87,Denial of petition to compel arbitration reviewed
+9385649,precision,1,3,29,Motion to compel PAGA arbitration post-Viking River
+9395078,probe,1,0,0,Whether arbitrator exceeded powers on fees; award confirmation affirmed
+9395086,probe,0,1,1,No arbitration mention
+9402537,precision,1,2,71,Denial of motion to compel; nonsignatory enforcement
+9405323,probe,1,1,1,Petition to compel/court appointment of arbitrator reviewed
+9408428,precision,1,4,45,Denial of motion to compel affirmed; enforceability
+9556354,precision,1,2,13,Waiver of right to arbitrate; motion to compel denied
+9758006,precision,1,4,84,Denial of motion to compel; validity/unconscionability
+9841242,probe,1,0,0,Orders confirming awards and denying vacatur affirmed
+9889611,probe,0,2,2,Forum selection/jury waiver; arbitration rule discussed only by contrast
+9893545,probe,1,0,0,Timeliness of request to vacate arbitration award
+9928671,probe,0,0,0,Passing reference to arbitration decisions cited by party
+9945501,precision,1,3,34,Order denying motion to compel reversed; delegation
+9973033,precision,1,3,91,Denial of motion to compel; assent by continued employment
+9980257,precision,1,3,45,Denial of motion to compel; signature proof
+10464758,precision,1,2,8,Denial of motion to compel arbitration under EFAA reviewed
+10495338,precision,1,2,8,Denial of motion to compel PAGA arbitration affirmed
+10579235,probe,0,0,0,Collateral estoppel effect of prior arbitrator decision; no compel/confirm/vacate ruling
+10586326,probe,0,2,7,PAGA standing after individual claims sent to arbitration; no arbitration ruling
+10588610,precision,1,2,72,Denial of motion to compel; assent to agreement
+10786517,precision,1,3,16,Denial of motion to compel; existence of agreement
+10788876,precision,1,4,155,Denial of motion to compel; unconscionability
+10795870,probe,0,0,0,'Arbitrate' in quotation about fiduciary duties
+10799435,precision,1,2,48,Denial of motion to compel; agreement not proven
+10827138,probe,0,1,1,No arbitration mention
+10834550,probe,1,2,3,Petition to compel UIM arbitration denied; five-year deadline issue
+10847891,precision,1,3,147,Judgment confirming arbitration award challenged
+10872089,probe,0,0,0,Death knell appealability; arbitration only in description of Cortez
+11051618,probe,0,1,2,No arbitration mention
+11065020,probe,0,0,0,Arbitration award only in description of cited case
+11139057,precision,1,3,9,Motion to compel arbitration of individual PAGA claim
+11141123,precision,1,2,26,Denial of motion to compel; existence of agreement
+11176307,precision,1,2,14,Orders compelling arbitration and confirming award reversed
+11221366,precision,1,2,12,Denial of union petition to compel labor arbitration affirmed
+11225845,precision,0,2,10,CLOSE: writ re PAGA standing after confirmed award/law of the case; no compel/confirm/vacate ruling here
+11225938,precision,1,2,17,Denial of compel arbitration under EFAA affirmed
+11240601,precision,1,2,23,Motion to compel; FAA governs agreement
+11242143,precision,1,2,30,Affirms denial of compel arbitration; EFAA/single claim
+11267251,precision,1,3,9,Reverses order denying compel arbitration; EFAA scope
+11268330,probe,0,1,94,No arbitration mention
+11276664,precision,1,2,13,Denial of motions to compel; existence of agreement
+11277349,probe,1,0,0,Judgment confirming appraisal/arbitration award; correction deadline
+11280421,precision,1,4,115,Denial of motion to compel individual claims
+11309434,probe,0,1,1,Indemnity contract appeal; arbitration only in cited statute/case
+11406242,precision,1,3,18,Writ re motion to compel; scope of arbitration provisions
+11406243,precision,1,3,91,Refusal to enforce arbitration agreement; unconscionability
+11425237,precision,1,3,34,Denial of motion to compel affirmed; no agreement proven
+11442911,precision,0,3,31,Unconscionability of non-arbitration contract; arbitration cases cited only
+11446190,probe,0,0,0,Prior order compelling arbitration mentioned in procedural history

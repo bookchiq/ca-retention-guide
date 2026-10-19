@@ -46,7 +46,61 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 - Wrote the unanimous opinion rejecting a challenge to the denial of a suppression motion: the stop challenge was forfeited and lacked merit, officers had probable cause to arrest, and a 1991 vehicle search followed then-binding precedent, so the exclusionary rule did not apply. Affirmed the judgments. *People v. Silveria and Travis* (S062417, 2020-08-13; published; vote 7-0). [Opinion](https://www.courtlistener.com/opinion/4774990/people-v-silveria-and-travis/)
 - Wrote the opinion for a 6–1 court upholding denial of a motion to suppress, holding that the search warrant affidavit contained no intentional or reckless misstatements or material omissions and would establish probable cause even if corrected. Affirmed the judgment; the dissent addressed jury selection, not the search. *People v. Miles* (S086234, 2020-05-28; published; vote 6-1). [Opinion](https://www.courtlistener.com/opinion/4756872/people-v-miles/)
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 5 | 37 | 9 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 4 | 2 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 15 | 5 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 2 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 7 | 6 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 22 | 6 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 5 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 8 | 2 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Dissents from denial of review
 

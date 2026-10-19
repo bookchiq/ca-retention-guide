@@ -39,9 +39,66 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 8 | 14 | 1 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Eurie have not all been read and verified yet, so none are shown.
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the 2-1 majority holding that a traffic stop based only on tint affixed to the front side windows lacked reasonable suspicion, because the officer gave no specific facts suggesting the tint was illegal; reversed and directed the trial court to grant the motion to suppress. *People v. Sturgis CA3* (C098617, 2024-06-28; unpublished; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/9986756/people-v-sturgis-ca3/)
+- Wrote the published opinion holding that a traffic stop for paper plates became unlawful once the officer saw valid temporary registration and then prolonged the stop with unrelated inquiries; reversed the denial of the motion to suppress. *People v. Suggs* (C096555, 2023-07-31; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9417079/people-v-suggs/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 20 | 59 | 1 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 3 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 4 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 3 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 4 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 51 | 154 | 1 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 9 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 9 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

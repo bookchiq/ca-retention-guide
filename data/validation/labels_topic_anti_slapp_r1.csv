@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4558825,precision,0,2,4,Unruh Act demurrer; anti-SLAPP motion in background/footnote only
+4562850,precision,1,2,44,"Anti-SLAPP order affirmed in part, reversed in part (Doe defendants)"
+4578010,precision,1,2,17,Affirms denial of anti-SLAPP motion; conduct not protected activity
+4579377,precision,1,2,56,"CLOSE: appeal from orders granting special motions to strike dismissed as untimely; procedural ruling on anti-SLAPP appeal, no merits"
+4580274,precision,1,2,21,Anti-SLAPP order reversed in part; website protected activity under (e)(4)
+4587100,precision,1,2,23,Affirms denial of special motions to strike; not protected activity
+4588181,precision,1,2,30,Affirms grant of anti-SLAPP motion
+4638201,precision,1,2,32,Affirms grant of anti-SLAPP motion; malicious prosecution claim fails
+4640625,probe,0,0,0,Juvenile case; topic absent
+4675328,probe,0,0,0,Juvenile case; topic absent
+4677760,precision,0,2,2,Vexatious litigant appeal; prior anti-SLAPP appeal is history only
+4685443,probe,0,0,0,Criminal appeal; topic absent
+4690337,probe,0,0,0,Criminal appeal; 'slapped' in facts only
+4695292,probe,0,0,0,Criminal appeal; topic absent
+4697274,precision,1,2,28,Affirms denial of special motion to strike; not protected activity
+4880372,probe,0,0,0,FEHA retaliation 'protected activity'; not anti-SLAPP
+5119853,probe,0,0,0,Dependency writ; 'slapped' in facts only
+5132563,precision,1,2,45,Affirms anti-SLAPP-related orders including fee award for frivolous motion
+5139451,precision,1,2,25,Anti-SLAPP order reversed in part; directs grant in entirety
+6322022,probe,0,0,0,DVRO/custody; 'slapped' in facts only
+6331014,precision,1,2,34,Affirms denial of anti-SLAPP motion in contract dispute; frivolous appeal
+6336515,probe,0,0,0,Juvenile case; topic absent
+6339262,precision,1,2,23,"Anti-SLAPP grant affirmed in part, reversed in part"
+6342832,precision,1,2,29,Reverses denial of anti-SLAPP motion in part
+6349354,precision,1,2,42,Affirms denial of anti-SLAPP fees; harassment petition not arising from protected activity (prong one)
+6352574,probe,0,0,0,Criminal appeal; topic absent
+6353292,probe,0,0,0,Criminal plea appeal; 'slapped' in facts only
+6496989,precision,1,2,65,Affirms judgment after granted anti-SLAPP motion and fee award (Sanchez v. Bezos)
+7802508,precision,1,1,6,Affirms 425.16(c) attorney fee award after granted special motion to strike
+7802613,precision,1,2,42,Affirms denial of anti-SLAPP motion; claims not arising from protected activity
+7803004,precision,1,2,30,Affirms denial of anti-SLAPP motion as untimely
+8484015,probe,0,0,0,Wende criminal appeal; 'slapped' in facts only
+9297488,precision,1,2,34,Reverses denial of anti-SLAPP motion; Flatley extortion exception inapplicable
+9374675,precision,1,2,27,Affirms grant of anti-SLAPP motion and denial of reconsideration
+9386262,probe,0,0,0,Dependency writ; topic absent
+9386832,probe,0,0,0,Dependency; 'slapped' in facts only
+9399216,precision,0,1,1,Twitter demurrer/section 230; anti-SLAPP only in quoted case
+9400641,probe,0,0,0,Juvenile dependency; topic absent
+9403386,precision,0,1,1,Insurance bad faith demurrer; anti-SLAPP filing in judicial notice background only
+9404420,precision,0,2,3,Dissolution appeal; prior anti-SLAPP appeal mentioned in footnote only
+9404936,precision,1,2,12,Affirms attorney fee order following granted anti-SLAPP motion
+9407673,precision,1,2,27,CLOSE: appeal from anti-SLAPP order dismissed as untimely and fee-order appeal dismissed for lack of jurisdiction; procedural ruling on anti-SLAPP appeal
+9839712,precision,0,1,1,Workplace violence restraining order; anti-SLAPP appeal cited in footnote only
+9881932,precision,0,1,2,Civil harassment order (527.6); anti-SLAPP cases cited by analogy for constitutionally protected activity
+9887071,precision,1,2,32,Reverses anti-SLAPP order (Head v. Dolch)
+9890589,precision,1,2,38,"Anti-SLAPP order affirmed in part, reversed in part (HFPA press releases)"
+9906082,precision,1,2,47,Affirms denial of anti-SLAPP motion; (e)(2)/(e)(4) not met
+9950804,precision,0,1,1,Probate restitution order; denied special motion to strike only in procedural history
+9973281,precision,0,2,2,"Vexatious litigant/disqualification; appellant's 'special motion to strike' only in procedural history, not decided"
+10010486,precision,0,1,1,Custody order; notes appellant cites inapposite anti-SLAPP law
+10733138,precision,1,2,45,Affirms grant of anti-SLAPP motion; litigation privilege defeats prong two
+10759756,probe,0,0,0,FEHA trial appeal; topic absent
+10763021,precision,1,2,21,Affirms denial of anti-SLAPP motion in malicious prosecution suit
+10780950,probe,0,0,0,Criminal appeal; topic absent
+10790744,precision,1,2,60,"Anti-SLAPP order affirmed in part, reversed in part; fee order affirmed"
+11059679,precision,1,2,17,Affirms grant of anti-SLAPP motion on inadequate record; no leave to amend
+11067821,probe,0,0,0,Criminal RJA/IAC appeal; topic absent
+11069400,probe,0,0,0,Criminal appeal; topic absent
+11070203,precision,1,2,42,Affirms denial of special motion to strike as untimely; sanctions denial
+11109324,precision,1,2,40,Reverses denial of anti-SLAPP motion; litigation-related statements protected
+11133540,probe,0,0,0,Dissolution appeal; 'slapped' in facts only
+11142156,precision,1,2,24,Affirms denial of anti-SLAPP motion; (e)(4) public interest not shown
+11178300,precision,0,2,3,Motion to vacate renewal of default judgment; prior anti-SLAPP rulings only procedural history
+11197116,precision,1,2,58,Reverses denial of Disney's anti-SLAPP motion
+11212741,precision,1,2,16,Reverses anti-SLAPP ruling; wrongful eviction not protected activity
+11256329,precision,1,2,33,Affirms anti-SLAPP attorney fee award under 425.16(c)
+11262307,precision,0,1,1,Elder abuse fee award; anti-SLAPP mentioned in footnote only
+11262461,probe,0,0,0,Employment retaliation 'protected activity'; not anti-SLAPP
+11262995,probe,0,0,0,Juvenile case; topic absent
+11276108,probe,0,0,0,Juvenile case; topic absent
+11276110,probe,0,0,0,Appealability of clerk order; anti-SLAPP orders listed in 904.1 summary only
+11307800,probe,0,0,0,Dependency; 'slapped' in facts only
+11320815,probe,0,0,0,Criminal appeal; topic absent
+11325758,precision,1,2,19,Affirms denial of special motion to strike; actual malice shown (Ghost v. Wilson)
+11331791,probe,0,0,0,Criminal appeal; 'slapped' in facts only
+11346610,precision,0,1,1,Litigation privilege on judgment on pleadings; prior anti-SLAPP appeal is history
+11421815,precision,0,2,7,Arbitration waiver; anti-SLAPP motion only as litigation background
+11444478,probe,0,0,0,Juvenile case; topic absent
+11446994,probe,0,0,0,Juvenile case; topic absent
+11454064,probe,0,0,0,Civil harassment 'constitutionally protected activity'; not anti-SLAPP

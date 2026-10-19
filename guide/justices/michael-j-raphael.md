@@ -45,7 +45,61 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 - Joined the 2–1 majority holding that the prosecution did not show exigent circumstances justifying a warrantless blood draw after a fatal collision; reversed two convictions and directed the trial court to grant the suppression motion. The dissent would have upheld the exigency finding. *People v. Noujaim* (E076514, 2022-06-15; unpublished; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/6478091/people-v-noujaim-ca42/)
 - Wrote the published opinion stating that a deputy's warrantless search of the defendant's home was not justified as an exigency or protective sweep, but declining to resolve its legality because admitting the evidence was harmless; affirmed the misdemeanor brandishing conviction. *People v. Chen* (E071585, 2020-06-18; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4762139/people-v-chen/)
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 7 | 42 | 0 | 1 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 5 | 18 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 9 | 0 | 2 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 7 | 0 | 1 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 0 | 2 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 51 | 225 | 13 | 19 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 12 | 16 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 7 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

@@ -46,6 +46,9 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 {% if not t.validated %}*Unvalidated keyword-match counts: the precision of this topic's keywords has not been measured.*
 
 {% endif -%}
+{% if t.undercount_pct %}*These counts are a floor: the keywords likely miss about {{ t.undercount_pct }}% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+{% endif -%}
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | {{ t.authored }} | {{ t.panels }} | {{ t.contested_majority }} | {{ t.contested_dissent }} |
@@ -66,7 +69,7 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 
 {% endfor %}
 {% if j.hidden_topics %}
-*{{ j.hidden_topics }} other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+*{{ j.hidden_topics }} other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 {% endif %}
 {% endif %}

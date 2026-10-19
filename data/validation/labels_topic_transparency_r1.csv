@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4506188,probe,0,0,0,investigative subpoena; protective order mentions PRA requests only
+4524187,precision,1,2,3,"reverse-CPRA action; CPRA exemptions (6254(k)) and trade secret decided, injunction reversed"
+4535149,precision,1,2,2,CLOSE: reverse-PRA action; decides interveners (requesters) may seek 1021.5 fees and intervention condition invalid; ancillary to CPRA dispute
+4542189,probe,0,0,0,candidate statement anti-SLAPP; open meetings case cited only
+4573550,precision,1,2,2,PRA injunction action: CCP 529 undertaking applies to PRA requesters' injunction (no conflict with Gov. Code 6258)
+4587152,precision,0,1,1,partnership fee motion; CPRA fee statute cited by analogy
+4650459,precision,0,2,2,anti-SLAPP defamation vs school district; Brown Act/PRA cited only
+4669281,probe,0,0,0,BCDC/water board enforcement; public records mention only
+4670782,probe,0,0,0,criminal murder appeal; public records mention only
+4680652,precision,1,1,13,Brown Act personnel exception; teacher not entitled to open session
+4690364,probe,0,0,0,court-records destruction/privacy claims vs superior court; not CPRA/Brown Act
+4690891,precision,1,2,5,"CPRA claim: complaint states cause of action, leave to amend; Bagley-Keene open meeting claim moot/merits addressed"
+4699133,probe,0,0,0,capital habeas successive petition; public records request in cited case only
+4766446,precision,0,1,1,Prop G initiative; Meyers-Milias-Brown Act only
+5120183,precision,0,1,1,court interpreter bargaining PERB; MMBA cited
+5120956,precision,1,2,22,Brown Act cause of action: demurrer properly sustained on Brown Act theories
+5131047,precision,0,1,1,postconviction discovery work product; footnote says no CPRA question raised
+5134419,precision,1,2,6,CPRA request overbreadth/burden and 6254(f) investigative file exemption decided
+6112417,probe,1,0,0,"CLOSE: Bagley-Keene (state open meeting act, not Brown Act) claim held time-barred; pending litigation exception rejected as defense"
+6317385,precision,1,2,5,CPRA applies to private immigration detention facility operator under Civ. Code 1670.9(c); writ granted
+6324282,precision,1,2,4,CPRA attorney fees: court has discretion to deny fees for minimal relief
+6335223,probe,0,0,0,UCL contingency fee disqualification
+6339850,probe,0,0,0,good faith settlement appealability; 6259 cited by analogy
+6342052,probe,0,0,0,Pen. Code 115 void deed; public records phrase only
+6500426,precision,0,1,1,SVP commitment; W&I 6250 not CPRA
+7360875,precision,0,1,6,CLOSE: petition included Brown Act claim but appeal decided on indispensable-party joinder; Brown Act demand issue deemed abandoned in footnote
+8206712,probe,0,0,0,employee suspension writ; public records mention only
+8482418,probe,0,0,0,Government Claims Act; public records judicial notice only
+8484731,probe,0,0,0,hospital medical staff writ; CPRA case cited for standard of review
+8598535,precision,1,2,35,Brown Act claim: prejudice required to void action; no prejudice from superintendent contract violations
+9297093,precision,0,1,1,probate homestead; Prob. Code 6250 not CPRA
+9351551,precision,1,2,4,CPRA petition denied: collective bargaining exemption 6254(p)(1) and duty to search SCO database
+9364615,probe,0,0,0,SVP commitment; public records hearsay exception only
+9369776,probe,0,0,0,malicious prosecution damages; public records phrase in quote
+9383671,probe,0,0,0,anti-SLAPP; public records search in facts only
+9386825,precision,0,1,1,"civil rights trial; disqualification motion citing 54950 denied for lack of standing, no Brown Act claim decided"
+9390168,probe,0,0,0,attorney fees prevailing party contract; records request form in record only
+9399857,precision,0,2,7,anti-SLAPP employment retaliation; Brown Act/PRA complaints are protected-activity facts only
+9400642,precision,1,1,1,reverse-CPRA action: families not likely to show privacy right blocking CPRA release of autopsy reports; PI denial affirmed
+9403791,precision,0,1,1,protest arrest tort claims; CPRA counts dismissed below and expressly not appealed
+9410551,probe,0,0,0,Customer Records Act data breach; not CPRA
+9411749,precision,0,1,6,RHNA judicial review; MMBA cited
+9698927,precision,0,1,1,"CLOSE: HOA Common Interest Development Open Meeting Act (Civ. Code), not a government body or Brown Act; Brown Act only compared"
+9830283,precision,0,1,8,validation action; Brown Act issues raised but court expressly need not decide them
+9865753,precision,1,2,4,CPRA/SB 1421 police records redactions; former 6254(f) redaction not permitted
+9890184,probe,0,0,0,lawyer referral demurrer; public records request in facts only
+9899008,precision,0,2,2,CLOSE: anti-SLAPP on privacy claim from unredacted CPRA response; holds CPRA response not protected activity but no public-access claim
+9916435,precision,0,1,1,PERB EERA retaliation; MMBA cited
+9926028,precision,0,1,1,CLOSE: Wende/plea appeal; alleged 7923.625 (CPRA) violation lumped with preplea claims barred without certificate; not a public-access claim
+10495382,precision,0,1,27,CLOSE: 1021.5 fee award in Westlands validation action; court says it was not a Brown Act case and Brown Act compliance was never adjudicated
+10538601,probe,0,0,0,appeal deadline in admin mandamus; CPRA case cited only
+10590887,precision,0,1,1,anti-SLAPP whistleblower retaliation; PRA request and Brown Act cure letter in facts only
+10745021,precision,1,1,34,Brown Act claim; affirms summary judgment for failure to make cure-and-correct demand (54960.1)
+10750736,precision,0,1,1,PERB MMBA fair representation
+10761074,precision,1,1,1,CPRA writ petition barred by judicial estoppel (serial petition)
+10771617,probe,0,0,0,FEHA disability summary judgment
+10772137,probe,0,0,0,criminal ECPA suppression
+10819854,precision,0,1,1,charter renewal writ; CPRA claim noted in footnote as not pressed on appeal
+10849397,precision,1,1,1,"CPRA claim vs City of Burbank: individual CPRA claim adequately pleaded, class claims barred"
+10852807,precision,0,1,1,redistricting writ; Brown Act compliance requirement mentioned in background only
+11084399,precision,0,1,1,unlawful detainer appealability; CPRA writ-review case cited by analogy
+11084400,precision,1,2,2,CPRA writ: 7923.625 firearm-discharge recordings disclosure and investigation exemption; in camera review
+11085529,probe,0,0,0,anti-SLAPP malicious prosecution; public records phrase only
+11088760,precision,0,1,5,EERA strikes; George Brown Act labor history only
+11106258,precision,1,2,2,CPRA petition: 7923.605 and Pen. Code 832.7 do not compel disclosure; affirmed
+11175551,precision,0,1,1,traffic infraction; CPRA response mentioned as exhibit
+11212728,precision,0,1,1,counsel disqualification; Brown Act closed-session approval noted in footnote only
+11228403,precision,0,2,2,disability access fee disclosure privilege; CPRA billing case cited by analogy
+11236400,probe,0,0,0,IFPA qui tam public disclosure bar; not CPRA
+11237819,precision,0,1,2,DVRO appeal; CPRA case cited only re discovery act
+11247394,probe,0,0,0,motion to unseal court exhibits dismissed for standing; not CPRA/Brown Act
+11323315,precision,0,1,1,anti-SLAPP; CPRA request for State Bar notice in facts only
+11326266,probe,0,0,0,CMIA/CRA data breach; not public access
+11332530,precision,0,1,1,MMBA/PERB disaster workers; not Brown Act
+11338217,probe,0,0,0,CEQA; records request in facts only
+11401031,probe,0,0,0,anti-SLAPP Government Claims Act; records request phrase in facts only
+11405082,probe,0,0,0,right to attach order; judicial notice of public records
+11416212,precision,1,1,1,CPRA claim held not cognizable on appeal (no timely writ petition under 7923.500)
+11430676,probe,0,0,0,compassionate release; public records hearsay exception
+11439734,precision,0,2,2,criminal set-aside; PRA request in facts only

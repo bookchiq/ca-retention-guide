@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4555337,precision,1,1,3,for-cause excusals of prospective jurors for death penalty views upheld
+4563239,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4580292,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4580961,precision,0,1,2,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4583027,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4641051,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4644176,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4645261,precision,0,2,2,Batson remand in related appeal mentioned in procedural history only
+4648565,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4652913,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4670616,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4677011,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4698079,precision,0,2,4,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4700511,precision,1,3,63,Batson/Wheeler prima facie denial affirmed (capital)
+4704622,precision,0,2,2,pledge of allegiance before voir dire; peremptory/Batson only mentioned in argument about prejudice
+4704728,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4710050,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+4910249,probe,0,0,0,court's comments to jury pool during selection; not a Batson or for-cause claim
+5134125,precision,1,3,21,Batson/Wheeler objection to strike of Juror S. denied; affirmed
+6215872,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+6321739,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+6322109,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+6335619,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+6337708,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+6348800,precision,0,1,1,mistrial motion over prospective juror's remark in voir dire; not jury-selection claim
+7374834,probe,0,0,0,voir dire mentioned re Faretta; no jury-selection claim
+7799277,probe,0,0,0,prospective jurors in juror-identity disclosure quote
+7799898,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+7801544,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+7802511,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+8483630,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9351508,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9352586,precision,1,2,15,Batson/Wheeler motion re young Hispanic jurors; denial affirmed
+9366047,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9387692,precision,1,2,7,CLOSE: Wende review after Batson/Wheeler remand; denial on remand was sole subject; court finds no arguable error without analysis
+9558201,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9640431,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9912788,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9919197,precision,0,1,5,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9925764,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9952091,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+9957718,precision,0,2,2,"CLOSE: Wende review rejects post-swearing objection to jury panel racial makeup (panel challenge under CCP 225); court notes no Batson/Wheeler objection was made, so no peremptory or for-cause claim decided"
+10149320,probe,0,0,0,CLOSE: new trial for juror misconduct/statutory ineligibility (concealment in voir dire); not a Batson or for-cause excusal claim
+10511735,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10516951,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10566486,probe,0,0,0,voir dire in joinder quote only
+10594754,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10609702,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10736263,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10744040,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10749846,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10763879,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10769880,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10772960,probe,0,0,0,prosecutor's voir dire statements re instructions; no selection claim
+10784795,precision,1,3,17,CCP 231.7 challenge to peremptory strike of Juror No. 39 rejected
+10790641,precision,0,1,3,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10800354,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10804867,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10807129,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10815240,probe,0,0,0,Batson prima facie burden cited by analogy only
+10817282,probe,0,0,0,"voir dire of expert witness, not jurors"
+10817942,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+10827722,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11122405,probe,0,0,0,voir dire mentioned in facts only
+11124676,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11132030,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11134483,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11201658,precision,0,1,4,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11225111,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11241613,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11243470,probe,0,0,0,voir dire mentioned in timing of Faretta motion/shackling
+11247370,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11281025,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11330481,precision,1,3,55,CCP 231.7 objection to strikes of two Hispanic prospective jurors decided
+11344623,probe,0,0,0,voir dire mentioned in counsel's statement
+11401537,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11426172,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11439736,probe,0,0,0,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11442911,precision,0,1,1,"only incidental term (peremptory writ, judge 170.6 challenge, or Wheeler case cite/name); no jury-selection issue"
+11504784,probe,0,0,0,voir dire mention; CCP 170.6 judge challenge footnote

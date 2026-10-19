@@ -97,6 +97,14 @@ def test_render_is_byte_identical_on_rerun(tmp_path):
         assert (a / rel).read_bytes() == (b / rel).read_bytes()
 
 
+def test_case_lists_cover_any_reviewed_justice_not_just_san_diego(tmp_path):
+    n = dict(note("other", 7, "2024-01-01"), justice_slug="other")
+    reviewed = {("other", "search_seizure"): {"queued": 1, "listed": 1, "excluded": 0}}
+    render.render(make_inputs(case_notes=[n], reviewed=reviewed), tmp_path)
+    assert "People v. Case7" in page(tmp_path, "other")
+    assert "not yet reviewed" in page(tmp_path, "dato")
+
+
 def test_unreviewed_topic_shows_counts_and_no_list(tmp_path):
     render.render(make_inputs(case_notes=[note("dato", 1, "2024-01-01")]), tmp_path)
     text = page(tmp_path, "dato")
@@ -208,6 +216,9 @@ def test_listing_display_drops_courtlistener_suffixes(tmp_path):
     text = page(tmp_path, "dato")
     assert "*People v. Lewis* (D080606," in text
     assert "CA4/1" not in text and "D080606M" not in text
+    n2 = dict(n, citation_or_docket="B331398A", cl_opinion_id=2)
+    render.render(make_inputs(case_notes=[n2], reviewed=reviewed), tmp_path)
+    assert "(B331398," in page(tmp_path, "dato")
 
 
 def test_credit_and_contact_appear_on_every_page(tmp_path):
@@ -252,6 +263,31 @@ def test_other_appellate_service_row_only_when_present(tmp_path):
     assert ("| Earlier appellate service | Pro tem assignment, 2025 ([source]"
             "(https://a.example/bio)) |") in page(tmp_path, "dato")
     assert "Earlier appellate service" not in page(tmp_path, "other")
+
+
+def test_methodology_lists_each_topic_with_its_latest_validation(tmp_path):
+    topics = {k: dict(v, definition=f"Decides {k}.") for k, v in TOPICS.items()}
+    status = {"interrogation": {"rounds": [
+        {"round": "r1", "precision": 0.6, "precision_n": 50, "undercount_share": 0.1},
+        {"round": "r2", "precision": 0.9, "precision_n": 50, "undercount_share": 0.25}]}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    text = (tmp_path / "methodology.md").read_text()
+    assert "| Interrogation | Decides interrogation. | 90% (N = 50) | 25% | no |" in text
+    assert "| Arbitration | Decides arbitration. | not yet checked | — | no |" in text
+    assert "| Search and seizure | Decides search_seizure. |" in text
+
+
+def test_large_undercount_gets_a_caveat_on_the_page(tmp_path):
+    topics = dict(TOPICS, interrogation={"tier": 2, "validated": True})
+    def rnd(share):
+        return {"precision": 0.9, "precision_n": 50, "probe_n": 30, "probe_hits": 5,
+                "undercount_share": share}
+    status = {"interrogation": {"rounds": [rnd(0.58)]},
+              "search_seizure": {"rounds": [rnd(0.19)]}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    text = page(tmp_path, "dato")
+    assert text.count("These counts are a floor") == 1
+    assert "miss about 58% of opinions" in text
 
 
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):

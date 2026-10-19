@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4561356,precision,1,2,26,"1016.5 immigration advisement motion; court found advisement given, affirmed"
+4561973,precision,1,2,46,"1473.7 immigration/IAC motion; held parolee ineligible (still in custody), equal protection rejected"
+4563613,probe,0,0,0,sexual battery trial; immigration status evidence in footnote only
+4577977,probe,0,0,0,U-visa impeachment of witness; not plea immigration consequences
+4579873,probe,0,1,1,Prop 64 petition res judicata; unrelated
+4580232,probe,0,0,0,Wende not available; 1016.5 cited via Serrano only
+4585223,probe,0,0,0,witness deported; due diligence issue only
+4614251,probe,0,1,1,1170.95 case; 1473.7 case cited for counsel right only
+4643257,probe,0,0,0,SVP case; deportation mentioned only re eligibility for commitment
+4646793,probe,0,0,0,Wende not available on sealing denial; 1016.5 cited via Serrano only
+4650527,probe,0,0,0,sovereign citizen civil suit; unrelated
+4659372,probe,0,1,1,Padilla v. Kentucky cited only for Strickland standard
+4666544,precision,1,3,108,1473.7 immigration IAC motion; reversed and remanded for hearing
+4675317,probe,0,1,1,Padilla v. Kentucky cited only for Strickland standard
+4675818,precision,1,2,23,motion to vacate for immigration-consequences error; denial affirmed
+4677007,probe,0,0,0,immigration/U-visa bias evidence at trial; not plea consequences
+4683384,precision,1,3,120,"Vivar (Cal. Supreme Ct.): 1473.7 immigration consequences, independent review, reversed"
+4686586,precision,1,2,13,1016.5/1473.7 immigration advisement motion; reversed and remanded for merits hearing
+4697928,precision,1,2,23,"1473.7 immigration motion; no prejudice, affirmed"
+4698855,precision,1,2,39,1473.7 immigration IAC and innocence claims; denial affirmed
+4703609,precision,1,3,60,motion to withdraw plea for inaccurate immigration advice (1016.3); reversed
+5126479,precision,1,2,35,1473.7 immigration motion (mandatory deportation); denial affirmed
+5128482,precision,1,3,93,Alatorre: 1473.7 immigration motion; reversed with directions to grant
+5129348,precision,0,3,31,"CLOSE: plea withdrawal over SVP advisement; court distinguishes Padilla/immigration analogy, no immigration claim"
+5136613,precision,1,2,36,1473.7(a)(1) immigration motion; denial affirmed
+5648712,precision,1,2,41,1473.7 immigration-consequences motion held moot after sentence vacated
+5855446,precision,1,2,19,"1473.7 immigration motion; collateral estoppel and merits, denial affirmed"
+6319967,precision,0,2,21,1473.6/1473.7(a)(2) newly discovered innocence evidence; no immigration claim
+6321548,precision,1,3,186,1473.7 immigration motion; conditionally reversed and remanded
+6324257,precision,0,2,26,1473.7(a)(2) actual-innocence motion (Asperger diagnosis); immigration only via Vivar standard
+6342709,precision,1,2,23,"CLOSE: Wende review of denial of 1473.7 motion (immigration and innocence grounds), no arguable issue; affirmed"
+6345041,probe,0,0,0,civil suit Heck-barred; immigration status in allegations only
+6351175,probe,1,1,4,1473.7 motion; reversed for new hearing on reasonable diligence under Alatorre
+6496892,precision,1,2,35,1473.7(a)(1) immigration motion; denial affirmed
+6500110,precision,1,2,40,1473.7 immigration motion after trial conviction; eligibility under AB 1259 decided
+6800547,probe,0,0,0,Wende unavailable for 1170.95; 1016.5 cited via Serrano only
+7800258,precision,1,3,92,1473.7 motion re family-visa immigration consequence for naturalized citizen; denial affirmed
+8212962,precision,1,2,56,"second 1473.7 immigration motion; successive-motion and merits, denial affirmed"
+8488102,precision,1,3,57,1473.7(a)(1) immigration motion; denial affirmed
+9353794,precision,0,2,9,1172.6 resentencing; Vivar cited only for standard of review
+9402350,precision,1,3,59,1473.7 immigration motion; reversed with directions to grant
+9406099,precision,1,2,77,1473.7 immigration-consequences motion; decided on merits
+9411413,probe,0,0,0,witness unavailability after deportation; not topic
+9881270,probe,0,0,0,probation revocation re reentry after deportation; not plea consequences
+9890951,precision,1,2,28,1473.7(a)(1) grant reversed: no showing conviction causes potential immigration consequences
+9891925,precision,1,2,61,1473.7 immigration motion; reversed with instructions to grant
+9899411,precision,1,2,31,1473.7 claim counsel failed to advise of immigration consequences before trial; affirmed
+9915608,precision,1,2,45,1473.7 immigration-consequences motion denied; affirmed (no prejudice)
+9926858,precision,1,2,16,1473.7 immigration motion; prima facie denial reversed (concession)
+9951398,precision,1,3,46,"1473.7 immigration motion (CIMT reclassification); no error or prejudice, affirmed"
+9975771,precision,1,2,15,"plea withdrawal: Padilla/IAC immigration advice claim rejected (advised, no prejudice)"
+10454352,precision,1,3,124,1473.7(a)(1) immigration motion; reversed with directions to grant
+10474610,probe,0,1,1,"coram nobis IAC re plea, not immigration; Kim cited only"
+10573101,probe,0,1,4,RJA discovery order not appealable; 1473.7 only as RJA vehicle
+10773802,probe,0,1,1,RJA claim/appealability; 1473.7 mentioned as RJA vehicle only
+10819848,precision,1,2,47,1473.7 immigration motion; denial affirmed
+10823916,precision,1,3,76,"1473.7 immigration motion (carjacking, asylee); reversed with directions to grant"
+10838955,probe,0,1,1,factual innocence/discovery motions; immigration custody only in facts
+10840384,precision,1,3,35,"1473.7(a)(1) immigration motion; credibility deference, affirmed"
+10845473,precision,1,3,21,1473.7 claim not advised of mandatory deportation; denial affirmed
+10854069,precision,1,2,20,"1473.7 immigration motion; no contemporaneous evidence of misunderstanding, affirmed"
+10912044,probe,0,1,1,RJA habeas; unrelated
+11021255,precision,1,2,16,"1473.7 immigration motion; declaration issue, affirmed"
+11050664,probe,0,0,0,"probation condition re reentry, preemption; not plea consequences"
+11050683,precision,1,3,25,1473.7 deportation-consequences motion; denial affirmed
+11051608,probe,0,1,1,Wende; immigration advisement only in plea colloquy facts
+11056661,precision,1,2,61,1473.7(a)(1) immigration motion on replacement plea; reversed to grant
+11071923,precision,1,2,44,1473.7 counsel failed to explain mandatory immigration consequence; reversed (AG concession)
+11182206,precision,1,3,50,1473.7 immigration motion; reversed with directions to grant
+11200752,precision,1,3,41,1018/1473.7(a)(1) immigration motion; denial affirmed for lack of corroboration
+11206535,precision,1,2,44,"1473.7 immigration motion; no prejudicial error, affirmed"
+11208090,probe,0,0,0,murder victim named Padilla; advisement in plea transcript only
+11214313,probe,0,2,5,RJA prima facie standard writ; 1473.7 only as RJA vehicle
+11215772,probe,0,0,0,anti-SLAPP civil case; unrelated
+11314699,probe,0,0,0,Hague Convention custody; unrelated
+11321800,probe,0,0,0,Unruh Act civil case; immigration status in statute list only
+11333185,precision,1,3,18,1473.7 immigration motion; reversed with directions to grant
+11392680,precision,1,2,23,1473.7(a)(1) immigration motion; denial affirmed
+11399759,probe,0,0,0,insurance rate regulation; unrelated
+11501672,precision,1,2,45,1473.7 immigration motion; reversed with directions to grant

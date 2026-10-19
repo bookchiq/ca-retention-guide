@@ -40,13 +40,15 @@ class Hits:
     broad_hits: int
     core_hits: int = 0
     rule: dict | None = None
+    anchor_occurrences: int = 0
 
     @property
     def tagged(self) -> bool:
         if self.rule:
             # A validated topic's own rule (KTD9): the topic is litigated, not just mentioned.
-            return (self.anchor_hits >= self.rule["min_distinct_anchors"]
-                    and self.core_hits >= self.rule["min_core_hits"])
+            return (self.anchor_hits >= self.rule.get("min_distinct_anchors", 1)
+                    and self.core_hits >= self.rule.get("min_core_hits", 0)
+                    and self.anchor_occurrences >= self.rule.get("min_anchor_occurrences", 0))
         return self.anchor_hits > 0 or self.broad_hits >= TAG_BROAD_MIN
 
     @property
@@ -93,6 +95,7 @@ def score(text: str, compiled: Compiled) -> dict[str, Hits]:
         t: {"anchor": set(), "broad": set()} for t in compiled.topics
     }
     core = dict.fromkeys(compiled.topics, 0)
+    anchor_uses = dict.fromkeys(compiled.topics, 0)
     for match in compiled.pattern.finditer(normalize(text or "")):
         term = match.group(0)
         for topic, kind in compiled.owners.get(term, []):
@@ -100,9 +103,11 @@ def score(text: str, compiled: Compiled) -> dict[str, Hits]:
                 core[topic] += 1  # occurrences, not distinct terms
             else:
                 found[topic][kind].add(term)
+                if kind == "anchor":
+                    anchor_uses[topic] += 1
     return {
         t: Hits(anchor_hits=len(k["anchor"]), broad_hits=len(k["broad"]), core_hits=core[t],
-                rule=compiled.rules.get(t))
+                rule=compiled.rules.get(t), anchor_occurrences=anchor_uses[t])
         for t, k in found.items()
     }
 

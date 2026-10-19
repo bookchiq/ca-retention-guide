@@ -39,9 +39,65 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 7 | 23 | 2 | 0 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Earl have not all been read and verified yet, so none are shown.
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Joined the 2-1 published majority holding that officers had probable cause to search a vehicle without a warrant after seeing a usable amount of loose marijuana and a rolling tray, with other circumstances; denied the defendant's writ petition challenging denial of his suppression motion. *Sellers v. Super. Ct.* (C100036, 2024-08-22; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/10056548/sellers-v-super-ct/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 31 | 76 | 0 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 4 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 8 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 5 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 6 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 52 | 158 | 2 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 5 | 11 | 0 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 11 | 0 | 0 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 

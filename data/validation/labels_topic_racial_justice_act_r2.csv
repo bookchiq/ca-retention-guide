@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4554769,probe,0,0,0,no RJA/745 mention
+4573567,probe,0,0,0,no RJA/745 mention
+4674303,probe,0,0,0,no RJA/745 mention
+7360960,probe,0,0,0,no RJA/745 mention
+9365709,probe,0,0,0,no RJA/745 mention
+9387350,precision,0,1,8,"CLOSE: 745 amendment cited for CCP 231.7 retroactivity; court finds 745 irrelevant, no RJA claim"
+9839955,precision,1,2,91,no prima facie RJA (a)(3)/(a)(4) showing at sentencing; not entitled to hearing
+9840829,precision,1,2,7,CLOSE: holds RJA does not create jurisdiction for postjudgment Hedgecock motion / its standard inapplicable
+9899881,precision,1,2,27,RJA relief request untimely; not granted
+9899886,probe,1,2,2,"RJA 745(a)(1) claim forfeited, not raised below (fn)"
+9914178,precision,1,1,4,any 745 claim not cognizable on appeal from 1172.6 denial
+9931697,precision,1,2,103,writ re CRJA motion challenging decision to seek death penalty
+9939463,precision,1,2,103,writ re CRJA motion challenging death penalty decision
+9940655,precision,1,2,30,RJA motion denial error re implicit bias of officer; writ/remand
+9951352,probe,0,0,0,no RJA/745 mention
+9957718,precision,1,2,7,Wende review: no arguable RJA issue (jury composition)
+9969115,precision,1,2,16,denial of RJA discovery motion reviewed
+10013309,precision,1,2,17,RJA claim cannot be raised first time on appeal; request to review record denied
+10467426,probe,0,0,0,no RJA/745 mention
+10472355,probe,0,0,0,no RJA/745 mention
+10498042,precision,1,2,9,CLOSE: denies motion to stay appeal/remand to file RJA motion (Wilson factors)
+10540225,probe,0,0,0,no RJA/745 mention
+10547516,probe,0,2,2,CLOSE: record augmented for possible RJA issue; juror-bias claim decided but not framed or analyzed under RJA
+10556866,precision,1,2,5,appeal from denial of RJA motion dismissed; trial court lacked jurisdiction (habeas required)
+10556869,precision,0,2,3,RJA discovery denial not reached (Faretta reversal)
+10573101,precision,1,2,34,order denying RJA discovery with habeas not appealable; dismissed
+10579238,probe,0,1,1,745 only inside quotation of 1385(c)(2)(A)
+10581863,probe,0,1,1,no RJA/745 mention
+10591864,precision,1,2,3,CLOSE: Delgadillo review; RJA sentencing argument among contentions court rejects as repeating those trial court denied
+10639960,precision,1,2,3,supplemental brief RJA/Batson claim not articulated; deemed forfeited
+10753754,probe,0,1,1,745 only inside quotation of 1385(c)(2)(A)
+10756294,probe,0,1,1,745(b) in string cite only
+10756979,probe,0,0,0,no RJA/745 mention
+10757875,probe,0,0,0,no RJA/745 mention
+10758963,probe,0,2,2,"CLOSE: rejects 1385(c)(2)(A) discriminatory-racial-impact mitigating factor (fn); claim under 1385, not an RJA claim"
+10763225,probe,0,0,0,no RJA/745 mention
+10770024,precision,1,2,4,RJA claim cannot be raised first time on appeal; not considered
+10772960,precision,1,2,14,'monsters'/'predators' in closing did not violate RJA (published)
+10787630,precision,0,2,4,RJA claim bifurcated below; expressly not at issue
+10790701,precision,1,2,22,RJA claim re word 'street' forfeited; IAC rejected
+10799537,precision,1,2,47,evidentiary rulings not RJA implicit-bias violation
+10802243,probe,0,0,0,Wende; 745 disclosure motion denial only in procedural history
+10814374,probe,0,1,1,prior appeal's rejection of CRJA motion in procedural history only
+10818788,precision,1,2,13,RJA claim re rap sheet in jury room held forfeited
+10827728,precision,1,2,6,RJA did not require further Marsden inquiry into counsel bias
+10838787,probe,0,2,2,RJA claim not considered; may raise on retrial
+10838877,precision,0,1,4,cruel/unusual claim citing RJA objectives forfeited; no RJA claim
+10847881,precision,1,2,5,record review finds no RJA violation
+10849541,precision,1,2,34,RJA claim re officer comment rejected/forfeited; IAC re RJA rejected
+11060564,precision,1,2,13,affirms denial of RJA motion (detective rap sheet testimony)
+11062354,precision,1,2,17,"RJA claims raised first time on appeal (jury selection, rap evidence) decided"
+11064236,precision,1,2,6,appeal from denial of postjudgment RJA motion; independent review
+11066509,precision,1,2,13,denial of 745 motion not appealable; that part dismissed
+11092659,precision,0,2,8,RJA claim not reached due to sentencing reversal; may raise on remand
+11124792,precision,1,2,17,prosecutor animal imagery RJA claim; forfeiture/merits
+11125365,precision,1,2,4,prosecutors' 'hunt' language did not violate RJA
+11136048,precision,1,2,5,"stay request denied; RJA claims cannot be raised in this postjudgment appeal, use habeas"
+11140984,probe,0,0,0,no RJA/745 mention
+11142860,precision,0,1,3,"CLOSE: IAC for not pressing RJA; court treats as 1385(c) argument, no RJA ruling"
+11143525,precision,1,2,9,writ vacating RJA discovery order; no plausible factual basis
+11171800,precision,1,2,60,RJA claims forfeited except conceded sentencing statement; remand
+11199831,precision,1,2,25,prima facie RJA violation from rap videos; remand for hearing
+11237827,probe,0,1,1,1172.1 appeal dismissed as nonappealable; RJA only in contention summary
+11241535,precision,1,1,3,RJA discovery with habeas petition; AB 1071 applies
+11242036,probe,0,0,0,no RJA/745 mention
+11247401,precision,1,2,3,prosecutor Escobar comparisons RJA claim forfeited; analyzed as IAC
+11263661,precision,1,2,7,CLOSE: rejects 1385(c)(2)(A)/745 discriminatory-impact argument and RJA contention as no showing of error
+11280485,precision,0,1,4,"CLOSE: continuance denial; RJA mentioned only as reason for continuance, could be raised later"
+11315223,probe,0,1,1,no RJA/745 mention
+11335518,precision,1,2,48,capital appeal: multiple RJA claims rejected
+11336521,precision,1,1,6,bare mention of 745 did not make 1172.1 request an RJA discovery motion; appeal dismissed
+11344627,precision,1,2,11,postjudgment discovery: upholds finding RJA claims forfeited
+11400142,precision,1,2,9,nickname 'Travieso' references not an RJA violation
+11419630,probe,0,1,1,no RJA/745 mention
+11422526,probe,0,1,1,745 only inside quotation of 1385(c)(2)
+11430584,probe,0,0,0,no RJA/745 mention
+11446017,precision,1,2,14,record does not show RJA violation by preponderance
+11479594,precision,0,2,5,RJA claim below described; not renewed on appeal
+11486204,probe,0,0,0,no RJA/745 mention
+11487506,precision,1,2,8,affirms denial of RJA motion; no prima facie showing for hearing

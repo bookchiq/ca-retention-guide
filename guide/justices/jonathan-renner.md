@@ -39,9 +39,69 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 14 | 35 | 0 | 1 |
 
-**Listed cases: not yet reviewed.** The cases this topic's listing rules select for Justice Renner have not all been read and verified yet, so none are shown.
+**Listed cases** (5). Each was selected by a fixed rule applied to every justice and verified against the opinion.
 
-*15 other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+- Wrote the opinion holding that the magistrate erred by barring questions about the officer's reasons for impounding the defendant's truck, which bore on whether the impound was a pretext for a search; reversed and remanded for a new suppression hearing. *People v. Vincent CA3* (C099435, 2024-11-12; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10272626/people-v-vincent-ca3/)
+- Dissented from the 2-1 decision holding that a traffic stop for tinted front windows lacked reasonable suspicion and directing that the suppression motion be granted. Would have upheld the stop because the tint was undisputedly affixed film, which cannot meet Vehicle Code requirements. *People v. Sturgis CA3* (C098617, 2024-06-28; unpublished; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/9986756/people-v-sturgis-ca3/)
+- Wrote the published opinion holding that officers lacked probable cause to search the defendant's car under the automobile exception and that reasonable suspicion for his detention had dissipated before he was searched; directed the trial court to grant the suppression motion. *Mosley v. Super. Ct.* (C099530, 2024-04-05; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9502474/mosley-v-super-ct/)
+- Wrote the opinion holding that an officer exceeded a lawful inventory search by using a narcotics dog and opening closed containers without a standardized policy; reversed so the defendant could withdraw his plea. Held challenges to a later vehicle search forfeited. *People v. Prince CA3* (C096016, 2023-05-09; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9397821/people-v-prince-ca3/)
+- Wrote the opinion holding that an officer who pulled in behind the defendant's car and had him step out, while conceding no basis to suspect a crime, unlawfully detained him, so the pat-down was invalid; reversed and directed the trial court to grant the suppression motion. *People v. Velazquez CA3* (C095079, 2022-09-30; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/8245649/people-v-velazquez-ca3/)
+
+### Right to counsel
+
+*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 38 | 125 | 2 | 0 |
+
+### Immigration consequences of pleas
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 5 | 0 | 0 |
+
+### Interrogation
+
+*These counts are a floor: the keywords likely miss about 34% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 12 | 0 | 0 |
+
+### Police records
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 10 | 0 | 0 |
+
+### Racial Justice Act
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 3 | 0 | 0 |
+
+### Resentencing
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 84 | 274 | 0 | 0 |
+
+### Anti-SLAPP
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 5 | 18 | 1 | 0 |
+
+### Arbitration
+
+*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 3 | 9 | 0 | 1 |
+
+*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
 
 ## Limitations
 
