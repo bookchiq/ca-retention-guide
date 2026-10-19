@@ -254,6 +254,18 @@ def test_other_appellate_service_row_only_when_present(tmp_path):
     assert "Earlier appellate service" not in page(tmp_path, "other")
 
 
+def test_methodology_lists_each_topic_with_its_latest_validation(tmp_path):
+    topics = {k: dict(v, definition=f"Decides {k}.") for k, v in TOPICS.items()}
+    status = {"interrogation": {"rounds": [
+        {"round": "r1", "precision": 0.6, "precision_n": 50, "undercount_share": 0.1},
+        {"round": "r2", "precision": 0.9, "precision_n": 50, "undercount_share": 0.25}]}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    text = (tmp_path / "methodology.md").read_text()
+    assert "| Interrogation | Decides interrogation. | 90% (N = 50) | 25% | no |" in text
+    assert "| Arbitration | Decides arbitration. | not yet checked | — | no |" in text
+    assert "| Search and seizure | Decides search_seizure. |" in text
+
+
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):
     render.render(make_inputs(), tmp_path)
     assert render.PLACEHOLDER in (tmp_path / "methodology.md").read_text()

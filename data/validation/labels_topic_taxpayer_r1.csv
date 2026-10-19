@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4503178,probe,0,0,0,youth offender parole; no tax issue
+4557305,probe,0,0,0,equitable easement; property taxes only as condition of easement
+4582549,probe,0,0,0,recreational-use immunity/motocross injury; no tax issue
+4584062,precision,1,1,4,school impact fee not invalid special tax; Mitigation Fee Act findings upheld
+4648914,precision,1,1,1,CLOSE: state mandate claim; court decides local govts have authority to levy regulatory fees and analyzes Prop 218 limits on hypothetical trash fee (Gov Code 17556(d))
+4652220,precision,1,1,2,property tax refund; change-in-ownership reassessment upheld
+4655994,probe,0,0,0,real estate purchase deposit; property tax bill in facts only
+4666238,precision,1,3,13,county water district SWP ad valorem property tax challenge subject to validation statutes 60-day limit
+4668983,precision,1,3,15,Prop 13/26 challenges to Waterfix resolutions held not ripe; appeal moot
+4676513,precision,1,1,5,Health & Safety 39613 regulatory fee is fee not tax under Prop 13
+4680269,probe,0,0,0,spousal support; taxes in facts only
+4690460,probe,0,0,0,dependency jurisdiction; no tax issue
+4699603,precision,0,1,1,carjacking criminal case; HJTA case cited only
+4710123,probe,0,0,0,Roundup FIFRA preemption tort; no tax issue
+4766446,precision,1,4,58,citizen initiative special tax / art XIII D sec 3 does not constrain; Prop C validity
+4792054,precision,1,2,18,Prop 218: 2% electricity franchise charge is valid franchise fee not tax (Jacks remand)
+4909996,precision,0,1,1,1170.95 resentencing; no tax issue
+4912723,precision,0,1,1,"CLOSE: post-remittitur scope of judgment/writ on MWD wheeling rates; prior Prop 26 ruling recited, current issues are compliance with remittitur under wheeling statutes"
+5127371,probe,0,0,0,employment discrimination summary judgment; no tax issue
+5134419,probe,0,0,0,public records act; no tax issue
+5175979,probe,0,0,0,parental rights termination; no tax issue
+5289377,precision,0,1,1,asbestos insurance coverage; no tax issue
+6118525,precision,0,1,2,Prop 218 water case but appeal decides only 1021.5 catalyst attorney fees
+6330448,precision,0,1,1,loan modification demurrer; no tax issue
+6499405,precision,1,1,3,mobilehome assessment appeal: extraction method and Rev & Tax 62.1 upheld
+8377511,precision,1,2,19,CLOSE: Prop 218 sewer charge class decertification; court holds 6(b)(1) overcharge theory barred as outside government claim
+9326019,precision,0,2,5,PRA and taxpayer-waste claim; no tax/fee validity issue
+9352577,precision,1,1,2,art XIII sec 19 does not require utility property taxed at same debt-service rate; Rev & Tax 100(b)
+9371756,precision,0,1,1,criminal sentencing; no tax issue
+9375533,probe,0,0,0,robbery criminal appeal; no tax issue
+9376766,probe,0,0,0,juvenile reunification services; no tax issue
+9376820,probe,0,0,0,resentencing petition; no tax issue
+9381746,probe,0,0,0,1170.95 resentencing; no tax issue
+9385908,precision,0,1,1,scooter negligence/public entity; no tax issue
+9387408,precision,1,1,4,"Mitigation Fee Act: in-lieu parking fees subject to Act, refund of unexpended fees ordered"
+9390455,precision,0,1,1,design immunity; Prop 13 in legislative history only
+9396920,precision,1,1,4,property tax refund: raise letters not subject to 4831 one-year limit; higher valuation upheld
+9397309,precision,0,1,1,discovery evidence preservation safe harbor; no tax issue
+9409303,precision,0,1,22,"CLOSE: lease interpretation of Prop 13 protection clause for property tax pass-through; private contract, no tax validity/assessment decided"
+9840687,probe,0,0,0,enforcement of judgment homestead/consumer debt; no tax issue
+9892432,precision,1,1,7,CLOSE: franchise tax refund suit; Prop 39 tax apportionment not invalid under single-subject rule
+9914782,probe,0,0,0,probate assignment of estate interest; no tax issue
+9927064,probe,0,0,0,escrow negligence/duty; property tax mentioned in allegations only
+9927642,precision,1,1,1,"property tax refund: escape assessment notices inadequate, parent-child exclusion claims timely"
+9930359,probe,0,0,0,medical arbitration agreement; no tax issue
+9941705,precision,0,1,1,attorney fee motion timing; no tax issue
+9943544,precision,0,1,1,"CLOSE: criminal appeal; probation supervision fee vacated by concession - criminal fee, not tax/fee-limit law"
+9943596,probe,0,0,0,five-year dismissal rule; no tax issue
+9943649,precision,1,4,33,Measure C citizen tax initiative needs only majority vote under Props 13/218; other challenges rejected
+10293683,precision,0,1,2,pension obligation bonds validation/debt limit; no tax issue decided
+10353237,precision,0,1,1,mandatory duty dog attack; no tax issue
+10453528,precision,0,1,1,med-mal/employment trial misconduct; no tax issue
+10470270,precision,1,4,37,Prop 218 6(b)(3): Otay tiered water rates invalid; refund remedy
+10480895,precision,0,1,1,Prop 22 Castellanos; art XIII B mandate case discussed by analogy only
+10511623,precision,0,2,5,"ballot label for ACA 1 (bond/tax vote threshold); election-law wording, no tax validity decided"
+10565518,probe,0,0,0,dependency jurisdiction; no tax issue
+10611789,probe,0,0,0,constructive filing notice of appeal; no tax issue
+10804865,precision,1,3,32,Prop 218: bond resolution did not impose/increase fee; revenue use not violation
+10805868,precision,0,1,2,5150 hold psychiatric services; no tax issue
+10837387,probe,0,0,0,vandalism criminal appeal; no tax issue
+10844659,probe,0,0,0,murder criminal appeal; no tax issue
+10847251,precision,0,1,1,anti-SLAPP; no tax issue
+11067705,probe,0,0,0,plea withdrawal IAC; no tax issue
+11118104,probe,0,0,0,mental health diversion forfeiture; no tax issue
+11132908,probe,0,0,0,EFAA arbitration; no tax issue
+11136660,precision,0,1,1,1172.75 resentencing jurisdiction; HJTA case cited only
+11143483,precision,1,2,8,utility property tax refund: art XIII sec 19 does not require equal debt-service rate
+11215802,precision,1,3,40,Prop 218 6(b)(3): city tiered water rates upheld as proportional
+11221196,precision,0,1,1,trail immunity; no tax issue
+11234902,probe,0,0,0,Franklin hearing habeas; no tax issue
+11237824,probe,0,0,0,SVP involuntary medication; no tax issue
+11247336,precision,0,2,7,Delta Conveyance bond validation denied on authority; HJTA Prop 13 issue not reached
+11312365,probe,1,0,0,Rev & Tax Code 170 calamity reassessment denied for COVID closures of mall
+11315304,probe,0,0,0,inverse condemnation/negligence; no tax issue
+11351111,precision,0,1,1,rest period arbitration; no tax issue
+11385003,precision,0,1,2,art XVI sec 17 mutual water company shares; no tax issue
+11403535,precision,0,1,6,"presidential elector statutes; candidate filing-fee equal protection argument, not tax/fee limits"
+11404389,precision,0,1,1,housing/coastal LCP; no tax issue
+11406192,precision,0,1,1,CERL retirement board salary authority; tax mentioned in legislative history only
+11421476,precision,0,1,3,marital settlement property sale; no tax issue

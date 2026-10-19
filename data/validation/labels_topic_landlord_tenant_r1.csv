@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4505430,probe,0,0,0,Self-storage class certification/false advertising; not residential/commercial tenancy dispute
+4540811,probe,1,0,0,Commercial landlord v tenant (Saks) lease rent arbitration; vacatur of award under lease terms affirmed
+4550675,probe,0,0,0,Joint tenancy/community property; not landlord-tenant
+4553105,precision,1,1,3,UD stipulated judgment for tenants' late move-out an unenforceable penalty
+4557089,precision,0,1,1,Construction contract/prejudgment interest; lease cases only cited
+4565003,precision,0,1,1,UCL restitution; rent control case only cited
+4582937,probe,0,0,0,Partition between tenants in common; not landlord-tenant
+4637686,precision,1,1,3,CLOSE: houseboat resident v City landlord challenging lease terminations/evictions under Docktown plan; City authority and jurisdiction to evict upheld
+4667382,precision,0,1,1,Criminal restitution for real estate fraud; evictions only in facts
+4678131,precision,0,1,4,Coastal Act penalties; rent control cases only cited
+4705311,probe,0,0,0,Song royalties contract; no landlord-tenant issue
+4710103,precision,1,1,18,"Tenants v City/owners; whether apartment subject to LA RSO, exemption settlement"
+4910061,probe,0,0,0,Property tax on tribal-land leaseholds; not landlord-tenant dispute
+4912111,precision,1,2,19,UD domestic violence defense under CCP 1161.3 construed
+4912722,probe,0,0,0,Dependency/guardian ad litem; landlord only in facts
+5119696,probe,0,0,0,"CLOSE: tenant harassment/wrongful eviction case, but appeal on stay undertaking orders dismissed as moot; no L-T issue decided"
+5125965,precision,0,1,1,Wrongful foreclosure; post-sale UD only in facts
+5133861,probe,0,0,0,Inverse condemnation over water main; tenants only in facts
+5139452,precision,0,1,2,Anti-SLAPP over film title; Feldman UD case only distinguished
+6326107,precision,0,1,1,Discretionary dismissal for delay; warehouse lease only background
+6330290,probe,0,0,0,Fiduciary duty/demurrer; lease only in case name
+6330462,precision,1,1,38,CLOSE: commercial tenants' lease/possession claims vs landlord; anti-SLAPP appeal ruled moot because final UD judgments resolved possession
+6336117,precision,0,1,17,CLOSE: commercial tenant's fraud suit against landlord; only anti-SLAPP prong one (not arising from UD) decided
+6340354,probe,0,0,0,CEQA; tenants association case only cited
+6342832,precision,0,1,22,"HOA/co-owner anti-SLAPP dispute; UD by owners' association over closet, not landlord-tenant"
+6497386,precision,0,1,1,Health plan reimbursement; rent control case only cited
+6500829,precision,1,1,6,Release of rent deposited during UD appeal (mobilehome space lease) to landlord City affirmed
+8598539,probe,0,0,0,Easement dispute between neighbors; restaurant tenant only in facts
+9365061,precision,0,1,1,Insurance fraud qui tam jury right; rent control case only cited
+9386830,precision,0,1,20,"CLOSE: tenants' suit to enjoin landlord's UD; only anti-SLAPP prong one decided, lease/notice merits remanded"
+9391701,precision,1,2,54,CLOSE: landlord associations v. SF over tenant buyout ordinance and UD settlements; court decides validity of eviction-protection rules (parties not landlord v tenant)
+9399978,precision,1,3,14,UD; Tenant Protection Act just cause (1946.2) applies only if lawful occupation; triable issues
+9405009,precision,0,1,1,Anti-SLAPP defamation; UD case only cited
+9839916,precision,0,1,1,Partition/referee sale; prior UD only in history
+9840678,precision,1,1,28,"UD/forcible detainer judgment affirmed; jury right, lease existence, substantial evidence"
+9891197,probe,0,0,0,Dependency case; renting lot to tenants only in facts
+9892432,probe,0,0,0,Tax apportionment; lease only in statute
+9894172,precision,1,1,18,Tenant mold/habitability claims barred by collateral estoppel from UD habitability defense
+9918355,probe,0,0,0,Doe amendment delay; leases only hypothetical
+9943240,precision,1,1,1,"Tenant claims under LA Rent Stabilization Ordinance (landlord registration, rent disgorgement) decided"
+9955937,precision,0,1,3,Motion to vacate default judgment in foreclosure case; UD only history
+10511634,precision,0,1,21,CLOSE: tenant's malicious prosecution suit against landlord's attorney over UD; anti-SLAPP malice element only
+10516349,probe,0,0,0,Attorney disqualification; eviction threat only in facts
+10580165,precision,1,1,2,"UD judgment affirmed; tenant defenses, lease enforceability demurrer"
+10592078,probe,0,0,0,Wrongful death/negligence in park; leased only in allegation
+10598568,precision,0,1,1,Trial continuance; UD facts not considered
+10625837,precision,0,1,1,CEQA/Subdivision Map Act limitations; UD only quoted in statute
+10627686,precision,0,1,2,Inverse condemnation; rent control cases only cited
+10732341,precision,1,2,23,UD; Oakland just-cause/rent program notice requirements; notice not defective
+10763244,probe,0,0,0,Franchise renewal takings; lease renewal case only by analogy
+10790743,precision,1,1,5,UD; landlord could not dismiss after SJ; challenge to defective 3-day notice ruling forfeited
+10791786,probe,0,0,0,Civil harassment restraining order service; landlord-tenant only in facts
+10814368,precision,0,1,15,Fraud in sale of business; sublease and landlord only in facts
+10831261,precision,0,1,3,"Wrongful foreclosure SJ; UD consolidation only procedural background, not a landlord-tenant ruling"
+11087778,precision,0,1,1,Settlement appraisal dispute between co-owners; leases only as appraisal info
+11106355,probe,0,0,0,Fraud/contract claims against seller of contaminated property; lease only background
+11107172,probe,0,0,0,Financial elder abuse/quiet title; tenants only in facts
+11109436,probe,0,0,0,Administrative subpoenas re vehicle leases; not real property tenancy
+11112197,precision,0,1,2,"CLOSE: underlying UD/habitability/rent-ordinance dispute, but only issue decided is enforceability of settlement agreement"
+11124594,precision,0,1,3,"CLOSE: wrongful foreclosure/quiet title; held post-foreclosure UD judgment not preclusive, but no landlord-tenant relationship"
+11124803,precision,0,1,1,Malicious prosecution anti-SLAPP; theater tenants only in facts
+11129796,precision,0,1,2,Terminating sanctions/default judgment in elder abuse property case; eviction notice only in facts
+11129883,precision,1,1,19,UD summary judgment affirmed; oral lease and nonpayment of rent
+11139059,precision,1,1,20,"Retaliatory eviction claim by month-to-month lessee of stables; demurrer affirmed, UD stipulation effect"
+11174797,precision,1,1,5,"CLOSE: UD by owner against occupant; affirmed set-aside of default judgment and writ of possession (service issue), occupant's tenancy status unclear"
+11199827,probe,0,0,0,Forum selection/Song-Beverly; lease only in case name
+11226838,probe,0,0,0,Anti-SLAPP/attorney fees; tenant only in quoted case
+11230690,probe,0,0,0,Forum selection; lease only in case name
+11235572,probe,0,0,0,Personal jurisdiction; lease agreements only as forum contacts
+11240617,probe,0,0,0,Dependency writ; father's lease only in facts
+11250165,precision,0,1,1,Attorney disqualification; related UD only mentioned
+11250168,probe,0,0,0,Criminal sentencing; no topic
+11277987,probe,0,0,0,Criminal restitution for embezzled rents/deposits by property manager
+11281075,precision,0,1,1,CLOSE: consolidated quiet title/UD; appeal is from quiet title judgment rejecting tenants' purchase claim on inadequate record
+11314218,precision,1,2,37,CLOSE: former at-will tenant's wrongful eviction torts from UD default judgment barred by litigation privilege; Chacon wrongful-eviction case distinguished
+11422524,precision,0,1,1,Street renaming; tenants only in allegations
+11425330,precision,0,1,1,CEQA attorney fees; rent control case only cited
+11429191,probe,0,0,0,"CLOSE: tenant v landlord suit, but rulings only on disqualification, fees, costs, demurrer by neighbor; no L-T issue decided"
+11437829,precision,1,1,15,Commercial UD; 3-day notice served beyond one year after rent due under CCP 1161(2)
+11442715,precision,0,1,2,Dismissal after rejected filing; eviction only in facts

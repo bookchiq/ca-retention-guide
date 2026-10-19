@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4554390,probe,0,0,0,no RJA / section 745 mention
+4581408,probe,0,0,0,no RJA / section 745 mention
+4645616,probe,0,0,0,no RJA / section 745 mention
+4664282,probe,0,0,0,no RJA / section 745 mention
+4681054,probe,0,0,0,no RJA / section 745 mention
+4698508,probe,0,0,0,no RJA / section 745 mention
+4710106,probe,0,0,0,no RJA / section 745 mention
+4910480,precision,1,2,2,RJA (AB 2542) does not apply to 1997 conviction under 745(j)
+5136529,probe,0,0,0,no RJA / section 745 mention
+5141799,probe,0,0,0,no RJA / section 745 mention
+6111635,probe,0,0,0,no RJA / section 745 mention
+6327812,probe,0,0,0,no RJA / section 745 mention
+6331807,probe,0,0,0,no RJA / section 745 mention
+6333313,probe,0,0,0,no RJA / section 745 mention
+6351786,probe,0,0,0,no RJA / section 745 mention
+6495467,precision,1,2,19,order on motion to reconsider 745 relief not appealable; appeal dismissed
+8205859,precision,0,2,8,"CLOSE: fn notes defendant correctly concedes 745 not retroactive; no RJA claim pressed, misconduct claim decided on other law"
+9298352,probe,0,0,0,no RJA / section 745 mention
+9326104,probe,0,0,0,no RJA / section 745 mention
+9366028,probe,0,0,0,no RJA / section 745 mention
+9372140,probe,0,0,0,no RJA / section 745 mention
+9377897,precision,1,2,4,"rejects claim prosecutor's 'monster' remark violated 745(a)(1),(2)"
+9380213,precision,1,2,9,CLOSE: appeal from denial of 745/AB 333 petition (745 inapplicable under subd. (j)); affirmed after independent review without separate RJA analysis
+9381352,probe,0,0,0,no RJA / section 745 mention
+9400637,precision,1,1,4,RJA (as amended by AB 256) inapplicable to 1172.6 appeal and to defendant under 745(j)
+9409285,probe,0,0,0,no RJA / section 745 mention
+9556881,precision,1,1,5,745 does not yet apply to defendant (subd. (j)(5)); denial affirmed
+9890397,precision,1,2,27,prosecutor's argument violated 745; RJA remedy constitutional; reversal
+9895978,precision,0,1,1,745 only in quoted 1385(c)(2)(A)
+9906332,precision,0,1,1,745 only in quoted 1385(c)(2)(A)
+9909561,precision,0,1,1,RJA discovery request only in procedural history; generic Wende review
+9909694,precision,1,2,10,rejects CRJA (a)(1) claim re admission of rap videos
+9939378,precision,0,1,1,745 only in quoted 1385(c)(2)(A)
+9969043,precision,0,1,1,fn: need not address RJA motions; RJA findings only quoted in Batson discussion
+9969078,precision,0,1,2,majority decides CCP 231.7; RJA only in dissent
+9973444,precision,0,1,1,745 only in quoted 1385(c)(2)(A)
+9977659,precision,0,1,1,745(b) only in string cite of motion procedures
+10454352,precision,0,2,3,court expressly declines to reach RJA claim
+10464244,precision,1,2,17,CRJA claims against court/prosecutor forfeited (Lashon)
+10494271,probe,0,0,0,no RJA / section 745 mention
+10511639,probe,0,0,0,no RJA / section 745 mention
+10557349,precision,1,2,50,"RJA motion premature under 745(j)(5); order void, appeal dismissed"
+10578875,precision,0,1,1,745 only in quoted 1385(c)(2)(A)
+10582122,precision,1,2,3,RJA claim cannot be raised first time on direct appeal (Lashon)
+10582868,precision,1,2,6,CLOSE: RJA sentencing-disparity argument held forfeited for failure to argue on appeal; otherwise only IAC context
+10590884,precision,1,2,10,rejects claims re denial of RJA discovery motion and (a)(1)/(a)(2) theories
+10744105,probe,0,0,0,no RJA / section 745 mention
+10758529,precision,1,2,4,CLOSE: Kelly/Wende review; counsel flagged RJA prima facie/hearing issue; court finds no arguable issue without separate analysis
+10785422,precision,0,1,1,RJA named as basis of objection; Anders review addresses CCP 231.7 peremptory challenge
+10789807,precision,1,2,7,CLOSE: rejects supplemental-brief request for counsel to bring RJA claim as not raised below/outside appeal
+10790696,precision,1,2,127,"writ granted: RJA 745(d) disclosure, good cause standard"
+10827723,precision,1,2,46,prima facie showing made; writ directs RJA evidentiary hearing
+10841098,precision,1,2,24,745(j) bars defendant's motion; disagrees with Serrano; appeal dismissed
+10843634,probe,0,0,0,no RJA / section 745 mention
+10874364,precision,1,2,2,RJA not new law justifying successive motion; RJA remand claim forfeited
+10984199,precision,1,2,5,affirms denial of RJA petition; no prima facie showing
+11048677,probe,0,0,0,no RJA / section 745 mention
+11067821,precision,1,2,19,RJA prosecutorial-language claim forfeited; IAC rejected on record
+11068381,probe,0,0,0,no RJA / section 745 mention
+11099948,precision,1,2,14,trial court lacked jurisdiction over RJA motion in final case; not appealable
+11170342,precision,1,1,3,order denying RJA petition not appealable; appeal dismissed
+11204961,precision,1,2,8,"RJA not applicable until 745(j)(5); declines to hold appeal, affirms denial"
+11207146,precision,0,1,1,745 only in quoted 1385(c)(2)(A) mitigating factor
+11214313,precision,1,2,52,"745(h)(2) prima facie standard applies to RJA habeas, not Duvall"
+11214969,probe,0,0,0,no RJA / section 745 mention
+11236279,precision,1,2,4,order denying RJA petition not appealable; appeal dismissed
+11243470,probe,0,0,0,no RJA / section 745 mention
+11248644,precision,1,1,1,"CLOSE: appeal from denial of 1172.1/RJA motion dismissed; court holds invoking 1172.1 to raise RJA errors gives no right to relief/appeal (not properly raised), no RJA merits"
+11250169,probe,0,0,0,no RJA / section 745 mention
+11253264,precision,0,1,1,RJA mentioned only describing Garcia continuance case
+11260538,probe,0,0,0,no RJA / section 745 mention
+11264494,precision,1,2,3,RJA disparate charging contention forfeited/no prima facie showing
+11277343,precision,0,1,2,trial court's RJA prima facie ruling only in background; not raised/decided on appeal
+11336519,precision,0,2,6,RJA in procedural history; fn notes no RJA claim on appeal
+11384848,precision,1,2,14,de novo: no prima facie RJA showing
+11420863,precision,1,2,31,RJA claim not moot/forfeited; no (a)(2) violation shown
+11429324,precision,1,2,33,RJA habeas: entitlement to counsel and 745(d) discovery good cause
+11446007,precision,0,1,2,pending RJA motion mentioned; court decides AB 1036 discovery
+11480674,precision,1,2,66,RJA motion ruling and request to stay/remand for amended-RJA litigation decided
+11484879,precision,1,2,14,RJA (a)(2) claim re prospective juror rejected; applies only to jurors

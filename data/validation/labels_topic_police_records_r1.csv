@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4524187,precision,0,1,1,832.7 cited only as analogy in trade-secret reverse-CPRA case
+4556574,probe,0,0,0,trial judge commendation in defendant's personnel record; recusal context only
+4567064,probe,0,0,0,non-police employer personnel file in facts only
+4635974,precision,0,1,1,Pitchess Detention Center place name only
+4653266,probe,0,0,0,no topic
+4660246,precision,0,2,8,SB 1421 in procedural history of prior motion only
+4664564,precision,1,3,17,SB 1421 / 832.7 retroactivity to pre-2019 records decided
+4667739,precision,1,1,7,independent review of Pitchess in camera hearing and officer files
+4671034,probe,0,0,0,police employees' own personnel files in FEHA retaliation case; no access dispute
+4672050,probe,0,0,0,no topic
+4689919,precision,1,2,9,Pitchess motion denial on notice grounds affirmed
+4707764,precision,0,1,2,defendant's pretrial Pitchess motions mentioned in Faretta context only
+4708444,precision,1,1,8,partial Pitchess denial as to four officers affirmed
+4845381,precision,1,1,7,independent review of sealed Pitchess hearing
+4909219,probe,1,0,0,CLOSE: independent review of in camera review of subpoenaed police department records on officer Wang's misconduct (plus non-officer records); not labeled Pitchess
+4911954,precision,0,1,2,juror Twitter records 'Pitchess-type' review; not police records
+4925479,precision,1,1,24,CLOSE: IAC claim for failing to file third Pitchess motion; court assesses prejudice of Pitchess/Brady officer-record discovery
+5000520,probe,0,0,0,no topic
+5117279,probe,0,0,0,parole agent rejection; personnel file in cited case only
+5139755,precision,1,1,11,independent review of sealed Pitchess in camera hearing
+6321185,probe,0,0,0,employee personnel file in facts; not police
+6330229,precision,1,3,25,"Pitchess motion denial reviewed; error found, conditional reversal"
+6353266,probe,0,0,0,"CLOSE: Measure P gives oversight agency access to Brady materials/complaints; court decides only MMBA bargaining duty, not a records-access dispute"
+7802868,precision,1,1,6,"juvenile court Pitchess denial reviewed; no plausible factual scenario, affirmed"
+7804622,probe,0,0,0,CLOSE: probation department employee personnel files subpoena quashed on general privacy grounds; not framed as Pitchess/832.7/Brady
+7874478,precision,1,1,24,destroyed Pitchess record after remand; due process/dismissal claim decided
+8405364,probe,0,0,0,teacher personnel file in facts; not police
+8406237,precision,1,3,44,SB 1421 / 832.7-832.8 'sustained finding' reverse-CPRA dispute decided
+9326104,precision,1,1,9,Pitchess motion denied for lack of good cause; affirmed
+9371195,precision,1,1,7,independent review of Pitchess in camera ruling; no abuse
+9379991,precision,0,1,1,Blair v. Pitchess citation only
+9381304,precision,1,1,8,"Pitchess in camera procedure error found; independent review, harmless"
+9391014,probe,0,0,0,employee personnel records claim mentioned; ministerial exception case
+9394215,precision,1,2,8,Pitchess in camera review; court failed to disclose relevant complaint
+9401942,probe,0,0,0,teacher personnel file discovery under privacy; not police
+9407434,precision,0,1,4,subpoena of jail call recordings and Brady; not officer records
+9411985,precision,1,2,12,civil Pitchess motion for deputies' personnel files; denial affirmed
+9555679,precision,1,1,9,independent review of sealed Pitchess in camera hearing
+9688768,precision,1,1,5,independent review of Pitchess in camera hearing for five officers
+9809220,probe,0,0,0,employee personnel files in arbitration case; not police
+9912788,precision,0,1,1,prior Pitchess issue on direct appeal mentioned in history; 1172.6 appeal
+9914327,probe,0,0,0,deputy personnel file entries in FEHA facts; no access dispute
+9945595,probe,0,0,0,Labor Code 1198.5 personnel records claim in arbitration case; not police records
+10236798,precision,1,2,14,Pitchess motion ruling (no relevant records) reviewed and upheld
+10480952,probe,0,0,0,no topic
+10494461,probe,0,0,0,no topic
+10590712,precision,1,1,5,independent review of Pitchess in camera hearing
+10732326,precision,1,3,22,832.7(b)(1)(C) sustained dishonesty records not subject to Pitchess protective order
+10745098,precision,0,1,3,Pitchess claim mentioned in trial court ruling; appeal decided on MMBA bargaining
+10756979,precision,1,2,9,independent review of officer personnel records under Pitchess
+10757874,probe,0,0,0,Labor Code personnel records claim; not police
+10772160,precision,1,2,6,independent review of sealed Pitchess in camera hearing
+10780126,precision,1,1,3,independent review of sealed Pitchess in camera transcript; no abuse
+10790696,precision,0,2,8,RJA discovery; Pitchess standard cited only by analogy
+10805676,precision,1,1,23,inadequate Pitchess record; conditional reversal for new Pitchess hearing
+10838064,probe,0,0,0,no topic
+10851070,probe,0,0,0,Labor Code personnel records claim; not police
+11067699,precision,0,1,1,defendant's Pitchess/Brady motions listed in history only
+11079642,precision,0,1,2,Dillard/Rutherford v. Pitchess jail-conditions citations only
+11084404,precision,1,1,27,denial of Pitchess motion for in camera review affirmed; no plausible factual basis
+11112154,precision,1,1,9,independent review of sealed Pitchess in camera hearing; no abuse of discretion
+11129285,probe,0,0,0,employee personnel file in arbitration case; not police
+11154387,precision,0,1,2,Pitchess Detention Center place name only
+11197993,precision,1,1,4,independent review of sealed Pitchess in camera proceedings; no abuse
+11200751,probe,0,0,0,employee personnel records in tort case; not police
+11201651,precision,0,1,1,Delgadillo appeal; IAC claim for not filing Pitchess motion held beyond scope of 1172.6 appeal; no records-access ruling
+11206567,precision,0,1,1,"RJA discovery request citing Evid Code 1043; appeal dismissed, footnote on RJA good cause"
+11207149,precision,1,1,14,independent review of Brady/Pitchess in camera review of officer files
+11209833,precision,0,1,1,Blair v. Pitchess taxpayer standing citation only
+11250171,probe,0,0,0,employee personnel file in retaliation case; not police
+11271230,precision,1,1,6,Pitchess in camera determinations reviewed; no error
+11313745,precision,1,2,6,independent review of sealed Pitchess in camera hearing; no abuse
+11318591,precision,1,1,7,independent review of Pitchess denial; no abuse
+11344787,precision,0,1,4,CLOSE: Wende review notes Pitchess motion dismissed as moot below and says IAC claim re lack of Pitchess material not arguable on direct appeal; no ruling on records access itself
+11411646,probe,0,0,0,juvenile transfer case; no topic
+11424384,probe,0,0,0,"CPRA dispute over port district investigation records, not law enforcement"
+11432668,precision,0,1,1,Pitchess motions mentioned in Marsden complaints only
+11452795,probe,0,0,0,Brady letter re pathologist in facts; not officer records
+11453787,probe,0,0,0,teacher personnel records in facts; not police
+11486195,probe,0,0,0,employee personnel file in arbitration authentication; not police

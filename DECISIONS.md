@@ -75,6 +75,18 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 
+## 2026-10-18: Validating the other 15 topics
+
+Owner request: add more topics so the guide is useful for different priorities. Each topic now has a written definition of "addresses the topic" in `data/keywords.yaml`, and the same check as search and seizure: independent labelers who see only the opinion text and the definition (`docs/topic-labeling-guide.md`) label 50 random tagged opinions, shuffled with 30 near misses. A topic is shown only at 85% precision or better on a sample not used to choose its rule. New tooling: `src/topic_validate.py`; results: `data/validation/report_topics.md`.
+
+**Round 1 (the original any-anchor rules): every topic failed.** Precision ranged from 14% (jury selection: "Wheeler" citations, "peremptory writ") to 84% (resentencing). Near-miss probes now match only at word starts, after "lease" matched "release" and "tenant" matched "lieutenant" in an unlabeled first draw (redrawn before labeling).
+
+**Candidate rules for nine topics.** For interrogation, right to counsel, jury selection, Racial Justice Act, police records, immigration pleas, resentencing, arbitration, and anti-SLAPP, true matches use the anchor terms many times while false matches mention them once or twice. Each now has a rule on distinct anchors and anchor uses (the tagger gained `min_anchor_occurrences`), fit on its round-1 labels. Because the rules were fit on round 1, round 2 checks each on a fresh sample that excludes every round-1 opinion; the near-miss pool now includes opinions the tighter rule drops.
+
+**Six civil topics need another approach.** For employment, consumer protection, landlord-tenant, public records and open meetings, land use and housing, and taxes and fees, no anchor-count rule reached a safe margin on round 1. Their definitions turn on who is suing or on whether the issue was decided, which word counts cannot see (for example, the Unfair Competition Law is used by competitors, employees, and taxpayers as well as consumers). They stay hidden.
+
+**Definitions clarified while labeling.** Right to counsel excludes confrontation and jury-trial claims (the topic is retitled "Right to counsel"). Police records includes review of a sealed Pitchess hearing.
+
 ## 2026-10-17: Review queue rules (U9)
 
 - L4 candidates include every queue-matching opinion with a dissent where the justice **wrote or joined** the majority. SPEC §8.3 says "joined"; the author is part of the majority too, and without this an unpublished pure affirmance a justice wrote over a colleague's dissent would reach no listing rule.

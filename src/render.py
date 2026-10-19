@@ -19,7 +19,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
 
-from src import lint
+from src import lint, topic_validate
 
 TEMPLATES = Path(__file__).parent / "templates"
 PLACEHOLDER = "TBD: correction contact (owner decision before publication)"
@@ -35,7 +35,7 @@ CAREER_LABELS = {
 }
 TOPIC_TITLES = {
     "search_seizure": "Search and seizure", "interrogation": "Interrogation",
-    "counsel_fair_trial": "Right to counsel and fair trial", "jury_selection": "Jury selection",
+    "counsel_fair_trial": "Right to counsel", "jury_selection": "Jury selection",
     "racial_justice_act": "Racial Justice Act", "police_records": "Police records",
     "immigration_pleas": "Immigration consequences of pleas", "resentencing": "Resentencing",
     "arbitration": "Arbitration", "employment": "Employment", "consumer": "Consumer protection",
@@ -95,6 +95,7 @@ class Inputs:
     tag_summary: str
     extra: dict = field(default_factory=dict)
     credit: str = ""
+    topic_validation: dict = field(default_factory=dict)
 
 
 def _num(value):
@@ -342,6 +343,28 @@ def _review_stats(notes: list[dict]) -> dict:
     }
 
 
+def _topic_rows(inputs: Inputs) -> list[dict]:
+    """One row per topic for the methodology page: definition and latest validation round."""
+    def pct(x):
+        return "—" if x is None else f"{100 * x:.0f}%"
+
+    order = list(TOPIC_TITLES)
+    rows = []
+    for topic in sorted(inputs.topics, key=lambda t: (order.index(t) if t in order else 99, t)):
+        spec = inputs.topics[topic]
+        rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
+        last = rounds[-1] if rounds else None
+        rows.append({
+            "title": TOPIC_TITLES.get(topic, topic),
+            "definition": " ".join((spec.get("definition") or "").split()),
+            "precision": (f"{pct(last['precision'])} (N = {last['precision_n']})" if last
+                          else "not yet checked"),
+            "undercount": topic_validate.undercount_text(last) if last else "—",
+            "shown": "yes" if spec.get("validated") else "no",
+        })
+    return rows
+
+
 def build(inputs: Inputs) -> dict[str, str]:
     env = Environment(loader=FileSystemLoader(TEMPLATES), undefined=StrictUndefined,
                       keep_trailing_newline=True, trim_blocks=True, lstrip_blocks=True)
@@ -361,7 +384,7 @@ def build(inputs: Inputs) -> dict[str, str]:
         updated=updated, bulk_snapshot=inputs.bulk_snapshot, window_start=inputs.window_start,
         validation_summary=inputs.validation_summary, tag_summary=inputs.tag_summary,
         correction_contact=correction, credit=inputs.credit,
-        stats=_review_stats(inputs.case_notes)))
+        stats=_review_stats(inputs.case_notes), topic_rows=_topic_rows(inputs)))
     files["_config.yml"] = JEKYLL_CONFIG
 
     justice_fields = list(inputs.justices[0].keys()) if inputs.justices else []
@@ -431,6 +454,8 @@ def main() -> int:
         tier2_enabled=bool(settings.raw["phase"].get("tier2_enabled")),
         correction_contact=settings.raw["project"].get("correction_contact"),
         credit=settings.raw["project"].get("credit") or "",
+        topic_validation=(json.loads((vdir / "topic_status.json").read_text())
+                          if (vdir / "topic_status.json").exists() else {}),
         validation_summary=("Full results: [validation report](https://github.com/bookchiq/"
                             "ca-retention-guide/blob/main/data/validation/report_parse.md)."
                             if report.exists() else "Validation has not been run yet."),

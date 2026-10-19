@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4582385,precision,0,1,3,denial of continuance to file Romero motion by pro per defendant; not continuance to obtain counsel
+4614282,precision,1,2,16,multiple IAC claims rejected
+4648929,precision,0,1,1,CLOSE: IAC claim used only as vehicle to reach forfeited Lent claim on merits; no explicit IAC ruling
+4657979,probe,0,0,0,civil; self-represented litigant mention only; untimely appeal
+4660475,precision,1,2,6,IAC for failing to object to prosecutorial argument rejected
+4674902,probe,0,0,0,civil pro per mention only
+4690016,precision,0,1,3,CLOSE: Perkins informant statements; court notes Massiah Sixth Amendment counsel right inapplicable pre-charge as aside within coercion analysis; not a counsel-representation claim
+4700900,precision,0,1,1,"civil commitment; Sixth Amendment confrontation only, no counsel claim"
+4703881,precision,1,3,9,multiple alternative IAC claims (failure to object) rejected
+4703885,probe,0,0,0,"1170.95 petition; right to counsel split noted in footnote, not reached"
+4708759,probe,0,0,0,Miranda invocation of counsel discussed in cited cases only
+4910307,precision,1,2,11,IAC for failing to renew/expand suppression motion rejected
+5119419,precision,1,2,6,IAC for eliciting harmful testimony rejected for no prejudice
+5120087,precision,1,2,3,dependency IAC for failing to challenge bypass rejected
+5121538,precision,1,2,8,IAC for failure to object rejected on silent record
+5125960,probe,0,0,0,government conflict of interest cause of action
+6113252,probe,1,0,0,mother's claim minor's counsel had conflict of interest rejected for lack of standing and forfeiture
+6226942,precision,1,2,5,civil DVRO; claim minor's counsel was ineffective rejected for no record support
+6319889,precision,1,2,6,alternative IAC for failing to object to fines rejected
+6322454,probe,0,0,0,1170.95 petition; right to counsel only in SB 775 description
+6346813,probe,0,0,0,"CLOSE: civil attorney disqualification for conflict vacated as untimely; conflict not reached; civil counsel-of-choice, not a right-to-counsel claim"
+6498951,probe,0,0,0,"civil DVRO; party elected to represent himself, mention only"
+7805500,precision,1,1,2,alternative IAC for failing to object to prosecutor argument rejected
+8210924,probe,0,0,0,trustee conflict of interest
+9349450,probe,0,0,0,anti-SLAPP; officials' conflict of interest
+9375794,probe,0,0,0,anti-SLAPP; plaintiff forced to represent himself only in allegations
+9383672,precision,0,2,3,1473.7 dismissal; IAC only in legislative history
+9392689,probe,0,0,0,1172.6; right to counsel only in SB 775 description
+9400658,precision,1,3,12,IAC re expert testimony and prior statement rejected
+9407056,precision,1,1,3,IAC at 1172.6 hearing rejected
+9555292,probe,0,0,0,civil; referee conflict of interest policy
+9890267,probe,0,0,0,trust; trustee conflict of interest
+9891195,precision,1,3,7,IAC for references to custody status rejected
+9909695,precision,0,1,1,reversed on prima facie error; court declines to address alternative IAC claim
+9912787,probe,0,0,0,prosecutor recusal for conflict/appearance of impropriety; not defense counsel
+9927414,precision,1,1,3,alternative IAC claims rejected for lack of prejudice
+9927988,precision,1,1,1,CLOSE: appeal dismissed; request for appointment of counsel on appeal held moot; underlying penalty-phase IAC claim not decided by this court
+9978498,precision,0,1,8,"Marsden motion withdrawn below, only in facts; issue is denial of motion to reopen to testify"
+10012792,probe,0,0,0,attorney fees; self-represented attorney litigant rule
+10435513,probe,0,0,0,Wende/Delgadillo review of 1172.6 appeal; right to counsel only in quoted standard
+10467536,precision,0,1,6,trust litigation; conflict of interest between beneficiaries
+10471293,probe,1,0,0,denial of statutory right to appointed counsel at 1172.75 resentencing; reversed
+10512856,precision,1,1,4,Wende supplemental claim of appellate counsel conflict/IAC denied
+10516349,probe,0,0,0,CLOSE: civil motion to disqualify opposing counsel (public law office) for conflict denied; not a right-to-counsel claim
+10570161,probe,0,0,0,"CLOSE: argument that defendant has constitutional right to counsel requiring Wende review in 1172.6 appeal rejected under Delgadillo; about appellate review procedure, not denial of counsel"
+10587503,precision,1,1,1,alternative IAC for failing to request limiting instruction rejected
+10611845,precision,0,1,1,Strickland cited only for prejudice standard on evidentiary issue
+10736263,precision,1,2,6,derivative IAC for failing to request heat-of-passion instruction foreclosed/fails
+10745040,precision,1,3,12,IAC for failing to make due process objection rejected
+10745131,precision,1,1,1,CLOSE: IAC claim (Romero request) expressly held moot after resentencing granted on other ground
+10758672,probe,0,0,0,employment case; conflict of interest in employer code of ethics
+10772162,precision,1,2,5,IAC at sentencing rejected
+10791430,precision,1,2,9,alternative IAC claims for failure to object rejected
+10818818,precision,1,1,2,IAC at resentencing hearing rejected
+10841154,precision,1,2,9,IAC for failing to seek Tirado lesser enhancement rejected
+10851056,precision,0,1,1,"capital case; Miranda issues only, no counsel claim"
+11081026,probe,0,0,0,Brady/discovery re investigator conflict of interest; not counsel
+11099952,precision,1,2,2,CLOSE: civil marriage appeal; new IAC argument in reply brief deemed forfeited in parenthetical
+11105302,precision,1,3,8,alternative IAC for failing to object to prosecutorial misconduct and Second Amendment issue rejected
+11117074,precision,0,1,4,"CLOSE: IAC raised first in reply; court expressly declines to reach it, leaving to habeas"
+11119727,precision,1,1,4,LPS conservatee IAC for failing to object rejected
+11124040,precision,1,1,5,Wende supplemental claim that video hearing denied private consultation with counsel (Sixth Amendment) rejected
+11126819,precision,1,2,4,denial of appointed counsel at 1473.7 hearing; reversed
+11138256,precision,1,2,7,pro per claims construed as IAC and rejected
+11167081,probe,0,0,0,nonprofit director fiduciary conflict of interest
+11225978,precision,0,1,3,no counsel issue
+11228586,probe,0,0,0,arbitration; financial conflict of interest allegation
+11239185,precision,1,2,9,"IAC claims (expert, objections) rejected"
+11247371,precision,1,1,1,CLOSE: pro per IAC-type complaints about retained resentencing counsel held unsuited for appellate review; IAC claims re underlying conviction unavailing
+11274618,precision,1,1,7,IAC (dependency) for failure to demur to (e) allegation rejected for no prejudice
+11316483,probe,0,0,0,civil pro per mention only
+11328745,precision,1,1,1,IAC for failing to request lesser-included instruction rejected
+11330482,precision,0,1,2,involuntary medication order; no counsel claim
+11344787,precision,1,2,2,"CLOSE: Wende review addresses potential IAC (Pitchess) and finds it not arguable on direct appeal, leaves to habeas; Marsden denial only in facts"
+11346610,probe,0,0,0,civil litigation privilege; expert conflict of interest
+11401143,precision,0,1,1,reversed on AB 333 ground; alternative IAC claim not reached
+11407133,probe,0,0,0,"charter school; conflict of interest allegations, not counsel"
+11422532,probe,0,0,0,civil; pro per status mention; nonappealable order
+11425344,precision,1,3,8,IAC at 1172.6 hearing rejected for no prejudice
+11500177,probe,0,0,0,civil fraud; attorney conflict only in facts

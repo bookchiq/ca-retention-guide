@@ -67,6 +67,17 @@ def test_topic_tag_rule_requires_distinct_anchors_and_core_hits():
     assert litigated.tagged
 
 
+def test_topic_tag_rule_can_require_anchor_occurrences():
+    topics = {"t": {"anchors": ["batson", "wheeler"], "broad": [],
+                    "tag_rule": {"min_anchor_occurrences": 3}}}
+    comp = tag.compile_topics(topics)
+    cite = tag.score("See People v. Wheeler (1978) 22 Cal.3d 258.", comp)["t"]
+    assert not cite.tagged and cite.queue_match
+    decided = tag.score("The Batson/Wheeler motion failed: no prima facie Batson showing.",
+                        comp)["t"]
+    assert decided.anchor_occurrences == 3 and decided.tagged
+
+
 def test_rerun_after_keyword_change_replaces_rows():
     conn = db.connect(":memory:")
     conn.execute(

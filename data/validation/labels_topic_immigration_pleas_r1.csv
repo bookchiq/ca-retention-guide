@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4561668,precision,0,1,1,trial appeal; Padilla only in Strickland quotation
+4585011,precision,0,1,7,"Wende appeal of 1473.7(a)(2) newly-discovered-evidence motion, not immigration"
+4645259,precision,1,2,34,affirms denial of 1473.7(a)(1) motion; counsel advised of deportation
+4648880,precision,1,2,12,"affirms denial of 1473.7 motion; no prejudice, same immigration consequences"
+4652227,probe,0,0,0,civil discrimination claim; immigration status in statutes
+4654661,precision,0,2,2,"CLOSE: 1473.7 immigration-advisement motion; appeal dismissed because no Wende review, merits not reached"
+4661272,precision,1,2,16,affirms denial of 1473.7 motion re immigration consequences of plea
+4663460,precision,1,2,18,affirms denial of 1473.7 motion; credibility of prejudice claim
+4687895,probe,0,0,0,dependency reunification services; parent deported
+4690506,probe,0,0,0,trial appeal; family immigration status in facts
+4693111,probe,0,0,0,admission of defendant's immigration status and deportations as motive evidence at trial
+4694850,probe,0,0,0,SIJ guardianship; not criminal plea
+4695384,precision,1,2,49,affirms denial of 1473.7 motion; would have pleaded anyway
+4695821,precision,1,2,81,reverses denial of 1473.7/1016.5 motion; remands for merits hearing and 1016.5 ruling
+4766357,precision,1,2,93,reverses denial of 1473.7 motion (timeliness and prejudice); directs vacatur
+4779150,precision,1,2,30,affirms denial of 1473.7 motion for failure to show prejudice
+4857962,probe,0,0,0,trial appeal; immigration status as postpartum risk factor in testimony
+4908758,precision,1,2,101,reverses denial of 1473.7 motion; directs vacatur of conviction
+4909990,probe,0,0,0,split sentence and immigration status at sentencing; not plea vacatur
+5133745,precision,1,2,47,reverses denial of 1016.5/1473.7 motion; directs court to allow plea withdrawal
+5136528,probe,0,0,0,instructional error; deportation in statute and immigration case cite
+6113381,probe,0,0,0,anti-SLAPP extortion; immigration in statute quote
+6318226,precision,0,1,5,"1473.7(a)(2) actual-innocence motion, not immigration"
+6324843,precision,1,2,36,affirms denial of 1473.7 motion; no prejudicial error shown
+6330248,precision,1,2,56,affirms denial of 1016.5/1473.7 motion; no prejudice
+6331081,precision,1,3,51,affirms denial of 1473.7 motion; no deficient advice or prejudice
+6337089,probe,0,0,0,exclusion of witness immigration status evidence at trial
+6337559,precision,1,2,88,affirms grant of 1473.7 motions vacating pleas over People's appeal
+6338852,probe,0,0,0,trial appeal; U-visa witness facts
+6341502,probe,0,0,0,dependency; immigration status in facts
+6800468,probe,0,0,0,1473.6 repleader motion; 1016.5 only in Serrano cite
+6800471,precision,1,2,9,Wende review affirms denial of 1473.7(a)(1) immigration motion without prejudice
+7803002,precision,1,2,18,"CLOSE: reverses denial of 1473.7(a)(1) motion for failure to hold hearing with defendant present; procedural, immigration basis implied (Vivar, immigration custody)"
+7804876,precision,1,2,40,affirms denial of 1473.7 motion; no prejudice shown
+8208486,precision,0,2,6,1170.95 appeal; Vivar cited for standard of review
+9364233,probe,0,0,0,trial appeal; witness immigration status in facts
+9369409,probe,0,0,0,DVRO appeal; immigration status in facts
+9378849,probe,0,0,0,record sealing 851.91; deportation in facts only
+9382489,precision,0,1,1,1170.95 petition; RJA immigration category mentioned only
+9384382,precision,0,2,2,1172.6 appeal; Vivar cited for standard of review
+9393298,precision,0,1,1,DEJ plea advisement; Padilla only in string cite
+9403378,precision,1,2,136,affirms denial of 1473.7(a)(1) motion without prejudice
+9407691,precision,0,2,7,"CLOSE: section 1018 plea withdrawal for loss of teaching credential; immigration cases (Padilla, Giron) used only by analogy"
+9409090,precision,0,1,1,education regulations; Zamudio/1016.5 analogy only
+9411067,precision,1,2,21,"on transfer, affirms denial of 1473.7 motion re forgery plea"
+9451073,precision,0,1,1,CLOSE: 1473.7 immigration-plea motion appeal dismissed as abandoned (Delgadillo) without reaching merits
+9556029,precision,1,2,37,"on transfer after Espinoza, affirms denial of 1473.7(a)(1) motion"
+9840673,probe,0,0,0,EB-5 investor class action; not criminal plea
+9890585,precision,1,2,27,affirms denial of 1473.7 motion; no prejudice
+9905230,precision,0,2,5,1172.6 standard of review; Vivar distinguished
+9908432,probe,0,0,0,employment retaliation; deportation in case parenthetical
+9953693,probe,0,0,0,trial appeal; deportation in facts
+10523178,precision,0,1,1,robbery appeal; immigration consequences mentioned in footnote only
+10564745,precision,1,2,21,"affirms denial of 1473.7 motion; immigration advisements adequate, no error"
+10748137,precision,1,2,20,affirms denial of 1473.7 motion; no prejudice shown
+10755439,probe,0,0,0,writ re placement; immigration status in statute quote
+10763802,probe,0,0,0,probation/sentencing; deportation in case parenthetical
+10780169,precision,1,2,26,affirms denial of 1473.7(a)(1) motion; no prejudice under Espinoza
+10784793,precision,0,1,1,1485.55 factual innocence; 1473.7 quoted in statute only
+10820736,probe,0,0,0,DVRO appeal; immigration status in facts
+10824272,precision,0,1,1,1172.6 appeal; Vivar/1473.7 cited only for standard of review
+10824279,probe,0,0,0,civil negligence re student visa work authorization
+10838837,precision,0,1,3,RJA claim; 1473.7 mentioned only as procedural vehicle
+10841098,precision,0,2,2,RJA discovery appeal dismissed; immigration category of 745(j) not applicable
+10927525,probe,0,0,0,1172.6; deportation fear in facts
+11126819,precision,1,2,24,reverses denial of 1473.7 motion for refusal to appoint counsel; remands for new hearing
+11126823,precision,1,3,43,affirms denial of 1473.7(a)(1) motion to vacate
+11129817,precision,0,1,11,"1473.7(a)(2) newly discovered evidence re sex registration, not immigration"
+11138258,precision,1,2,36,affirms denial of 1473.7 motion; proper immigration advisements given
+11166194,precision,1,1,3,Wende/Anders review affirms denial of 1473.7(a)(1) motion after ICE removal order
+11221388,probe,0,0,0,"trial appeal; victim U-visa/immigration status evidence, not plea consequences"
+11253357,precision,0,1,2,unauthorized sentence appeal dismissed; 1473.7 mentioned in passing
+11261848,probe,0,0,0,dependency writ; no immigration plea issue
+11309512,precision,1,3,64,affirms denial of 1473.7 motion re aggravated-felony advisement
+11335517,probe,0,0,0,"capital appeal; RJA claim re family immigration status, not plea consequences"
+11395301,probe,0,0,0,DVRO appeal; immigration threats in statute quote
+11407038,precision,1,2,22,affirms denial of 1473.7 motion after jury-trial convictions; no immigration-neutral resolution shown
+11416373,probe,0,0,0,civil partnership dispute; no immigration
+11422365,probe,0,0,0,marital dissolution; immigration in facts
+11431496,precision,1,3,69,"vacates denial of 1473.7(a)(1) motion; directs court to grant (pre-Padilla plea, prejudice shown)"

@@ -1,0 +1,81 @@
+cl_opinion_id,sample,at_issue,anchors_distinct,anchor_occurrences,notes
+4561379,probe,0,0,0,juvenile wardship appeal; no resentencing statute
+4573429,probe,0,0,0,"Wende direct appeal; 1170 recall in other case not reviewable, only noted"
+4580277,precision,1,1,27,1170.95 petition; remand for prima facie determination
+4580530,probe,0,0,0,CLOSE: Prop 36 (1170.126)/Buycks petition; statute not in topic definition
+4651683,precision,1,2,9,"1170.95 petition denied; plea to manslaughter ineligible, affirmed"
+4660669,probe,0,0,0,CLOSE: Prop 47 (1170.18) petition; statute not in topic definition
+4660673,precision,1,1,8,1170.95 summary denial affirmed; actual killer
+4685456,probe,0,0,0,direct appeal; evidentiary and sentencing issues only
+4685777,probe,0,0,0,PRCS violation appeal; no resentencing
+4687919,probe,1,0,0,CLOSE: CDCR recall under former 1170(d)(1) (predecessor of 1172.1); denial of recall reviewed
+4690336,precision,1,2,14,1170.95 denial affirmed; ineligible as matter of law
+4696730,probe,0,0,0,CLOSE: 1170.91 military-veteran resentencing; statute not in topic definition
+4697270,probe,0,0,0,CLOSE: Prop 47 (1170.18) petition; statute not in topic definition
+4698067,precision,1,1,19,1170.95 relief unavailable for manslaughter; equal protection rejected
+4705351,probe,0,0,0,direct appeal; no resentencing statute
+4707638,probe,0,0,0,CLOSE: 1170.91 military-veteran resentencing; statute not in topic definition
+4708746,precision,1,2,36,"1170.95 petitions denied; ineligible as actual killer, affirmed"
+4710052,precision,0,1,13,CLOSE: Wende appeal from Franklin hearing; only Prop 57/SB 1391 retroactivity decided
+4766057,probe,1,0,0,"CLOSE: CDCR recall under former 1170(d)(1) (predecessor of 1172.1); court holds resentencing occurred, decides SB 620 discretion"
+4912342,precision,1,3,33,1170.95 denial affirmed; record of conviction/prima facie issues
+4912345,precision,0,1,3,direct appeal; Franklin cite is different 1994 case
+5116559,precision,1,2,26,1170.95 petition denial reversed; remedy/evidentiary hearing directions
+5134398,precision,1,2,10,1170.95 prima facie denial reversed; OSC ordered
+5134423,precision,1,1,15,1170.95 prima facie denial reversed; OSC ordered
+5135191,precision,1,2,26,1170.95 denial affirmed after Wende-type independent review
+5139812,precision,1,1,19,1170.95 prima facie denial reversed; OSC ordered
+5175721,probe,0,0,0,CLOSE: Prop 64 (H&S 11361.8) resentencing petition; statute not in topic definition
+6104351,probe,0,0,0,CLOSE: Prop 36 (1170.126) dangerousness denial; statute not in topic definition
+6221938,probe,0,0,0,civil anti-SLAPP case; no resentencing
+6319828,probe,1,0,0,CLOSE: CDCR letter as recall recommendation under former 1170(d)(1)/1170.03 (now 1172.1); decided
+6332291,precision,1,2,37,1170.95 denial affirmed on reconsideration after SB 775/Lewis
+6333896,precision,1,3,27,"Wende review of 1170.95 denial; implied malice remains valid, affirmed"
+6335424,precision,0,1,2,Tirado remand on firearm enhancement; Franklin only in prior history
+6498200,precision,1,2,23,CLOSE: writ re 170.6 challenge in 1170.95 proceeding dismissed as moot after petition withdrawn
+7804551,precision,1,2,3,"1172.6 petition denial; supplemental brief rejected, actual killer ineligible; appeal dismissed"
+8213151,precision,1,3,20,1170.95 petitions denial reversed; OSC and evidentiary hearing
+8387768,precision,1,2,16,1172.6 denial reversed under Strong; special circumstance finding
+9372475,precision,1,3,27,1172.6 denial affirmed; intoxication/intent claim rejected
+9381827,probe,0,0,0,1385 motion to strike enhancement; ordinary sentencing
+9403775,precision,1,3,11,1172.6 denial affirmed; plea admission of intent to kill
+9403996,precision,1,2,11,1172.6 denial affirmed; arguments outside scope
+9781673,precision,1,2,5,Delgadillo review of 1172.6 denial; affirmed
+9892922,precision,1,2,10,1172.6 prima facie denial reversed; improper factfinding
+9899885,precision,1,1,9,CLOSE: appeal from 1172.75 resentencing; remand because court unclear on 1385 discretion at that resentencing
+9943227,precision,1,2,10,1172.6 denial affirmed; actual killer/express malice
+9949859,precision,0,1,5,CLOSE: 1203.01 probation report motion likened to Franklin; not youth offender; appeal dismissed
+9955897,probe,0,0,0,direct appeal murder instructions; custody credit
+9969196,probe,0,0,0,direct appeal; no resentencing statute
+10174167,precision,0,2,10,Franklin reports only in facts of resentencing on remand; issues firearm/gang enhancement
+10465087,precision,0,2,2,ordinary resentencing after unauthorized sentence; SB 81/1385; Franklin only cited
+10471292,precision,1,3,24,1172.6 denial after evidentiary hearing affirmed
+10565336,precision,1,2,12,1172.6 prima facie denial affirmed; direct aider and abettor
+10732329,probe,0,0,0,CLOSE: 1170.91 military-veteran resentencing; statute not in topic definition
+10732746,precision,1,2,29,1172.6 prima facie denial affirmed; plea record shows ineligibility
+10739194,precision,1,1,50,SB 483/1172.75 ex parte strike void; remand for 1172.75 resentencing
+10799320,precision,1,1,13,appeal of 1172.75 full resentencing; postconviction factors and 1385 discretion reviewed
+10803115,probe,0,0,0,CLOSE: juvenile LWOP recall under 1170(d)(1); not an enumerated statute
+10822876,precision,1,2,16,"1172.75/1172.1 reconsideration motion: no jurisdiction, nonappealable; dismissed"
+10830208,precision,1,3,18,1172.6 denial after evidentiary hearing affirmed; major participant/reckless indifference
+10832185,probe,0,0,0,CLOSE: Prop 47 (1170.18) resentencing procedure; statute not in topic definition
+10849374,precision,1,1,18,1172.1 invitation denial nonappealable; appeal dismissed
+10984941,precision,1,1,3,1172.1 motion denial nonappealable; appeal dismissed
+11045076,probe,0,0,0,CLOSE: juvenile LWOP recall petition under 1170(d)(1); not 1172.6/1172.1/1172.75/3051
+11048329,precision,1,3,18,1172.6 denial affirmed; substantial evidence major participant
+11088636,probe,0,0,0,direct appeal evading conviction; no resentencing statute
+11154493,precision,1,3,18,1172.6 denial affirmed under Delgadillo; supplemental claims rejected
+11159279,probe,0,0,0,direct appeal; no resentencing statute
+11248060,probe,0,0,0,direct appeal; no resentencing statute
+11262465,precision,1,2,14,"1172.6 denials: affirmed as to attempted murder, reversed on manslaughter standard"
+11262466,precision,1,1,9,1172.1 recall request denial held nonappealable; appeal dismissed
+11264491,probe,0,0,0,remand for full resentencing on other grounds; no reform-statute claim
+11280480,precision,1,2,20,1172.6 successive petition denial affirmed (Delgadillo)
+11296702,precision,0,1,1,CLOSE: appeal after 1172.75 resentencing but only clerical errors in minute order/abstract decided
+11320726,probe,0,0,0,juvenile transfer (WIC 707); 'youth offender' only generic
+11346534,precision,0,1,5,CLOSE: direct appeal invoking SB 1437 murder-law changes re conspiracy instruction; no 1172.6 petition
+11347375,precision,1,2,11,1172.6 denial after evidentiary hearing affirmed; admission at civil trial
+11407105,precision,1,2,16,1172.6 prima facie denial affirmed; conspiracy instructions
+11431345,probe,0,0,0,juvenile transfer order after 1170(d) petition; transfer only decided
+11437782,probe,0,0,0,direct appeal of murder conviction; resentencing case only cited
+11501824,precision,1,2,3,1172.6 denial reversed to consider youth in implied malice

@@ -1,0 +1,275 @@
+{
+  "anti_slapp": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.72,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 1379,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1154,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "arbitration": {
+    "rounds": [
+      {
+        "est_missed": 99,
+        "precision": 0.64,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 4,
+        "probe_n": 30,
+        "probe_pool": 739,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1447,
+        "undercount_share": 0.09658536585365854
+      }
+    ]
+  },
+  "consumer": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.28,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 2371,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1021,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "counsel_fair_trial": {
+    "rounds": [
+      {
+        "est_missed": 86,
+        "precision": 0.72,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 2,
+        "probe_n": 30,
+        "probe_pool": 1297,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 6256,
+        "undercount_share": 0.018736383442265796
+      }
+    ]
+  },
+  "employment": {
+    "rounds": [
+      {
+        "est_missed": 344,
+        "precision": 0.52,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 3,
+        "probe_n": 30,
+        "probe_pool": 3438,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1513,
+        "undercount_share": 0.3041556145004421
+      }
+    ]
+  },
+  "immigration_pleas": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.62,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 288,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 497,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "interrogation": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.26,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 2987,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1568,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "jury_selection": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.14,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 1451,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 1014,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "land_use_housing": {
+    "rounds": [
+      {
+        "est_missed": 103,
+        "precision": 0.74,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 6,
+        "probe_n": 30,
+        "probe_pool": 515,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 411,
+        "undercount_share": 0.25307125307125306
+      }
+    ]
+  },
+  "landlord_tenant": {
+    "rounds": [
+      {
+        "est_missed": 92,
+        "precision": 0.38,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 2752,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 651,
+        "undercount_share": 0.2713864306784661
+      }
+    ]
+  },
+  "police_records": {
+    "rounds": [
+      {
+        "est_missed": 10,
+        "precision": 0.64,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 295,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 369,
+        "undercount_share": 0.04065040650406504
+      }
+    ]
+  },
+  "racial_justice_act": {
+    "rounds": [
+      {
+        "est_missed": 0,
+        "precision": 0.66,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 310,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 416,
+        "undercount_share": 0.0
+      }
+    ]
+  },
+  "resentencing": {
+    "rounds": [
+      {
+        "est_missed": 102,
+        "precision": 0.84,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 3,
+        "probe_n": 30,
+        "probe_pool": 1020,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 8186,
+        "undercount_share": 0.014617368873602751
+      }
+    ]
+  },
+  "search_seizure": {
+    "rounds": [
+      {
+        "est_missed": 137,
+        "note": "Validated 2026-10-18 before per-topic tooling (report_tags.md). The near-miss sample was opinions the earlier, looser rule tagged but this rule does not (pool 1,707).",
+        "precision": 0.98,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 4,
+        "probe_n": 50,
+        "probe_pool": 1707,
+        "round": "r2",
+        "rule": "\u22652 distinct anchors, \u22654 core-term uses",
+        "tagged": 598,
+        "undercount_share": 0.1894
+      }
+    ]
+  },
+  "taxpayer": {
+    "rounds": [
+      {
+        "est_missed": 85,
+        "precision": 0.4,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 2540,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 283,
+        "undercount_share": 0.4292929292929293
+      }
+    ]
+  },
+  "transparency": {
+    "rounds": [
+      {
+        "est_missed": 10,
+        "precision": 0.38,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 1,
+        "probe_n": 30,
+        "probe_pool": 307,
+        "round": "r1",
+        "rule": "any anchor",
+        "tagged": 227,
+        "undercount_share": 0.10416666666666667
+      }
+    ]
+  }
+}
