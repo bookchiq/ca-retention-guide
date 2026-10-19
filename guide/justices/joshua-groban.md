@@ -17,7 +17,7 @@ California Supreme Court
 
 ## Record at a glance
 
-Opinions from 2020-01-01 through 2026-10-18. Each rate is shown next to the same rate for the Supreme Court as a whole over the same period ("baseline"), with the number of opinions it is based on.
+Opinions from 2020-01-01 through 2026-10-19. Each rate is shown next to the same rate for the Supreme Court as a whole over the same period ("baseline"), with the number of opinions it is based on.
 
 | Measure | Justice Groban | Baseline |
 |---|---|---|
@@ -30,7 +30,28 @@ Opinions from 2020-01-01 through 2026-10-18. Each rate is shown next to the same
 
 ## Topics
 
-Counts are opinions that address the topic, found by keyword matching (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+Counts are opinions that address the topic, found by keyword matching or by reading each opinion (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+
+| Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
+|---|---|---|---|---|
+| [Search and seizure](#search-and-seizure) | 1 | 19 | 3 / 3 | 5 |
+| [Right to counsel](#right-to-counsel) (floor) | 5 | 37 | 9 / 0 | — |
+| [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 4 | 2 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 2 | 15 | 5 / 0 | — |
+| [Jury selection](#jury-selection) | 4 | 25 | 9 / 0 | — |
+| [Police records](#police-records) | 0 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 7 | 6 / 0 | — |
+| [Resentencing](#resentencing) | 4 | 22 | 6 / 0 | — |
+| [Anti-SLAPP](#anti-slapp) | 0 | 5 | 0 / 0 | — |
+| [Arbitration](#arbitration) (floor) | 2 | 8 | 2 / 0 | — |
+| [Consumer protection](#consumer-protection) | 1 | 11 | 0 / 0 | — |
+| [Employment](#employment) (floor) | 1 | 21 | 1 / 0 | — |
+| [Land use and housing](#land-use-and-housing) (floor) | 0 | 5 | 1 / 0 | — |
+| [Landlord and tenant](#landlord-and-tenant) (floor) | 0 | 1 | 0 / 0 | — |
+| [Taxes and fees](#taxes-and-fees) (floor) | 0 | 5 | 0 / 0 | — |
+| [Public records and open meetings](#public-records-and-open-meetings) | 0 | 2 | 0 / 0 | — |
+
+"Floor" means the keywords likely miss a quarter or more of the opinions on that topic. Each topic's section below has the details.
 
 ### Search and seizure
 
@@ -158,6 +179,6 @@ The Supreme Court decides most petitions without an opinion. Justices sometimes 
 
 California courts apply federal search-and-seizure rules, so differences between justices show mostly in how they apply precedent to close facts. Court of Appeal cases are decided by three-justice panels, so outcomes reflect the panel; authored and separate opinions are the clearest individual signals. Which cases are appealed, and who writes, are not random. Unpublished opinions are included because they are most of the record. This guide describes; it does not recommend a vote. Full list: [methodology](../methodology.md#limitations).
 
-Data window: 2020-01-01 through 2026-10-18. Last updated: 2026-10-18.
+Data window: 2020-01-01 through 2026-10-19. Last updated: 2026-10-19.
 
 *An experiment by Sarah Lewis, and a work in progress. Found an error? See [corrections](../methodology.md#corrections).*

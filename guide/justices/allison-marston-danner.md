@@ -17,7 +17,7 @@ Court of Appeal, Sixth District
 
 ## Record at a glance
 
-Opinions from 2020-01-01 through 2026-10-18. Each rate is shown next to the same rate for the Sixth District over the same period ("baseline"), with the number of opinions it is based on.
+Opinions from 2020-01-01 through 2026-10-19. Each rate is shown next to the same rate for the Sixth District over the same period ("baseline"), with the number of opinions it is based on.
 
 | Measure | Justice Danner | Baseline |
 |---|---|---|
@@ -31,7 +31,28 @@ Opinions from 2020-01-01 through 2026-10-18. Each rate is shown next to the same
 
 ## Topics
 
-Counts are opinions that address the topic, found by keyword matching (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+Counts are opinions that address the topic, found by keyword matching or by reading each opinion (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+
+| Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
+|---|---|---|---|---|
+| [Search and seizure](#search-and-seizure) | 11 | 21 | 1 / 1 | 8 |
+| [Right to counsel](#right-to-counsel) (floor) | 22 | 60 | 0 / 0 | — |
+| [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 7 | 1 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 3 | 5 | 1 / 0 | — |
+| [Jury selection](#jury-selection) | 1 | 3 | 1 / 0 | — |
+| [Police records](#police-records) | 1 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 5 | 12 | 0 / 0 | — |
+| [Resentencing](#resentencing) | 51 | 112 | 3 / 0 | — |
+| [Anti-SLAPP](#anti-slapp) | 11 | 29 | 1 / 0 | — |
+| [Arbitration](#arbitration) (floor) | 5 | 16 | 0 / 0 | — |
+| [Consumer protection](#consumer-protection) | 2 | 13 | 0 / 0 | — |
+| [Employment](#employment) (floor) | 3 | 23 | 0 / 0 | — |
+| [Land use and housing](#land-use-and-housing) (floor) | 3 | 9 | 0 / 0 | — |
+| [Landlord and tenant](#landlord-and-tenant) (floor) | 2 | 2 | 0 / 0 | — |
+| [Taxes and fees](#taxes-and-fees) (floor) | 5 | 7 | 0 / 0 | — |
+| [Public records and open meetings](#public-records-and-open-meetings) | 1 | 3 | 0 / 0 | — |
+
+"Floor" means the keywords likely miss a quarter or more of the opinions on that topic. Each topic's section below has the details.
 
 ### Search and seizure
 
@@ -158,6 +179,6 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 
 California courts apply federal search-and-seizure rules, so differences between justices show mostly in how they apply precedent to close facts. Court of Appeal cases are decided by three-justice panels, so outcomes reflect the panel; authored and separate opinions are the clearest individual signals. Which cases are appealed, and who writes, are not random. Unpublished opinions are included because they are most of the record. This guide describes; it does not recommend a vote. Full list: [methodology](../methodology.md#limitations).
 
-Data window: 2020-01-01 through 2026-10-18. Last updated: 2026-10-18.
+Data window: 2020-01-01 through 2026-10-19. Last updated: 2026-10-19.
 
 *An experiment by Sarah Lewis, and a work in progress. Found an error? See [corrections](../methodology.md#corrections).*

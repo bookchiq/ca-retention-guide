@@ -218,6 +218,11 @@ def _listing(slug: str, topic: str, inputs: Inputs) -> dict:
             "shown": [_display_note(n) for n in listed[:LISTING_SHOWN]]}
 
 
+def _anchor(heading: str) -> str:
+    """The id kramdown gives a heading, so the summary table can link to each section."""
+    return re.sub(r"[^a-z0-9 -]", "", heading.lower()).strip().replace(" ", "-")
+
+
 def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
     slug = j["slug"]
     key = "supreme" if j["court"] == "supreme" else str(j["district"])
@@ -251,6 +256,7 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
         missed = rounds[-1].get("undercount_share") if rounds else None
         topics.append({
             "topic": topic, "title": TOPIC_TITLES.get(topic, topic),
+            "anchor": _anchor(TOPIC_TITLES.get(topic, topic)),
             "validated": bool(spec.get("validated")),
             # Counts that likely miss a quarter or more of the topic get a visible caveat.
             "undercount_pct": (round(100 * missed) if missed is not None

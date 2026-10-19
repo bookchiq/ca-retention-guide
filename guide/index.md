@@ -24,7 +24,7 @@ This guide is an experiment and a work in progress. If you find an error, please
 
 ## The justices
 
-Listed in ballot order. Last updated: 2026-10-18.
+Listed in ballot order. Last updated: 2026-10-19.
 
 | Justice | Court | Appointed | Prior career | Opinions written | Separate opinions | Search-and-seizure cases listed | Record status |
 |---|---|---|---|---|---|---|---|

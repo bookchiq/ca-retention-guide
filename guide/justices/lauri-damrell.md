@@ -21,6 +21,6 @@ Court of Appeal, Third District · Limited appellate record
 
 California courts apply federal search-and-seizure rules, so differences between justices show mostly in how they apply precedent to close facts. Court of Appeal cases are decided by three-justice panels, so outcomes reflect the panel; authored and separate opinions are the clearest individual signals. Which cases are appealed, and who writes, are not random. Unpublished opinions are included because they are most of the record. This guide describes; it does not recommend a vote. Full list: [methodology](../methodology.md#limitations).
 
-Data window: 2026-08-19 through 2026-10-18. Last updated: 2026-10-18.
+Data window: 2026-08-19 through 2026-10-19. Last updated: 2026-10-19.
 
 *An experiment by Sarah Lewis, and a work in progress. Found an error? See [corrections](../methodology.md#corrections).*

@@ -4,7 +4,7 @@ This is the detailed version, for readers who want to check how the guide was ma
 
 An experiment by Sarah Lewis. Everything here, including the rules, the code, the validation samples, and each reviewer's notes, is public in the [GitHub repository](https://github.com/bookchiq/ca-retention-guide), so you can decide for yourself whether the method holds up.
 
-Last updated: 2026-10-18.
+Last updated: 2026-10-19.
 
 ## Ground rules
 

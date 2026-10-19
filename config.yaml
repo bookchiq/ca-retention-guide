@@ -32,7 +32,7 @@ api:
 render:
   # "Last updated" date printed on every page; never the wall clock (KTD12).
   # Owner decision 2026-10-18: set to the day the pages are generated for publication.
-  snapshot_date: "2026-10-18"
+  snapshot_date: "2026-10-19"
 
 phase:
   tier2_enabled: false
