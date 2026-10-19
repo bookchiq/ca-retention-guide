@@ -100,7 +100,8 @@ counsel_fair_trial:
 
 jury_selection:
   tier: 2
-  validated: false
+  validated: true    # read each opinion; second readers agreed 99% (data/topic_reads/jury_selection.csv, 2026-10-19)
+  method: read
   # Round-2 failed at 82% with ≥6 anchor uses. Round-3 candidate (2026-10-18): fit on the
   # round-1 and round-2 labels; must pass a fresh round-3 sample before the topic is shown.
   tag_rule:
@@ -111,7 +112,10 @@ jury_selection:
     challenge, an objection under Code of Civil Procedure section 231.7, or a challenge to
     excusing a prospective juror for cause.
     Peremptory challenges to a judge (Code Civ. Proc. § 170.6) and peremptory writs are not
-    jury selection.
+    jury selection. A for-cause claim includes refusing to excuse a juror for cause and
+    Witherspoon/Witt death-qualification excusals. Discovery of a prosecutor's
+    jury-selection notes, juror misconduct found after selection, and discharging a sworn
+    juror are not this topic.
   anchors: [batson, wheeler, section 231.7]
   broad: []
   probe: [peremptory, prospective juror, voir dire, excused for cause, jury venire]
@@ -213,14 +217,17 @@ arbitration:
 
 employment:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 95% (data/topic_reads/employment.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides a claim between an employee (or job applicant) and an employer:
     discrimination, harassment, or retaliation (including FEHA), wrongful termination,
     wage and hour or PAGA claims, or other employment-law claims.
     Public-employee discipline and benefits claims count. An arbitration ruling in an
     employment case counts only if the court also decides an employment-law issue; claims
-    against an employer's lawyers, or by a business against a union, do not.
+    against an employer's lawyers, or by a business against a union, do not. A ruling
+    that a PAGA, FEHA, or wage right cannot be waived by an arbitration agreement
+    (Iskanian, Armendariz, Gentry) is an employment-law issue and counts.
   anchors: [private attorneys general act, paga, labor code section 2698, feha, wage and hour,
             wrongful termination]
   broad: []
@@ -229,7 +236,8 @@ employment:
 
 consumer:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 98% (data/topic_reads/consumer.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides a consumer-protection claim: Song-Beverly (lemon law) or other
     warranty claims, the Consumers Legal Remedies Act, the Unfair Competition Law, false
@@ -237,7 +245,8 @@ consumer:
     Consumers include buyers, borrowers, and tenants suing a business. An Unfair
     Competition Law claim brought by a competitor, an employee over wages, or a taxpayer
     does not count, and neither does an arbitration ruling unless a consumer-protection
-    issue is also decided.
+    issue is also decided. A ruling that a consumer's public-injunction claim cannot be
+    waived by an arbitration agreement (McGill) is a consumer-protection issue and counts.
   anchors: [song-beverly, lemon law, consumers legal remedies act,
             business and professions code section 17200, unfair competition law]
   broad: []
@@ -246,7 +255,8 @@ consumer:
 
 landlord_tenant:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 97% (data/topic_reads/landlord_tenant.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides a dispute between a landlord and a residential or commercial tenant:
     unlawful detainer (eviction), just-cause or rent-control rules, habitability, security
@@ -261,7 +271,8 @@ landlord_tenant:
 
 transparency:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 96% (data/topic_reads/transparency.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides a public-access claim against a government body: a California Public
     Records Act request, or a Brown Act (open meetings) claim.
@@ -295,7 +306,8 @@ anti_slapp:
 
 taxpayer:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 100% (data/topic_reads/taxpayer.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides the validity or application of a tax, fee, assessment, or charge
     under the California Constitution's tax limits (Propositions 13, 218, and 26) or other
@@ -309,7 +321,8 @@ taxpayer:
 
 land_use_housing:
   tier: 3
-  validated: false
+  validated: true    # read each opinion; second readers agreed 98% (data/topic_reads/land_use_housing.csv, 2026-10-19)
+  method: read
   definition: >-
     The court decides a land-use or housing-development claim: CEQA review, zoning or
     general-plan consistency, permits for a project, the Housing Accountability Act,

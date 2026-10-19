@@ -75,6 +75,24 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 
+## 2026-10-19: Seven topics counted by reading each opinion
+
+Owner decision: cover the seven topics no keyword rule could count (jury selection, employment, consumer protection, landlord and tenant, public records and open meetings, land use and housing, taxes and fees) by reading every candidate opinion, limited to opinions with a ballot justice on the panel (the only opinions any page counts). Pool: 3,347 opinions with at least one of the topic's keywords, read in 47 batches by independent AI sessions that saw only the opinion text and the definition (`src/topic_reads.py`). A random 15% per topic (502 opinions) was read again blind; a third reader decided each of the 14 disagreements.
+
+| Topic | Read | Addresses topic | Second-read agreement |
+|---|---|---|---|
+| Employment | 976 | 627 | 95% (146) |
+| Jury selection | 658 | 135 | 99% (99) |
+| Consumer protection | 658 | 214 | 98% (99) |
+| Landlord and tenant | 415 | 134 | 97% (62) |
+| Land use and housing | 286 | 191 | 98% (43) |
+| Taxes and fees | 189 | 89 | 100% (28) |
+| Public records and open meetings | 165 | 54 | 96% (25) |
+
+All seven cleared the 90% agreement bar and are now shown, with counts taken from the read decisions (`data/topic_reads/<topic>.csv`, one row per opinion with each reader's note). The keyword undercount estimates from round 1 still apply, because opinions that never use a topic's keywords were not read.
+
+**Definitions clarified while reading** (added to `data/keywords.yaml` and given to every later reader): an arbitration ruling that a PAGA, FEHA, or wage right cannot be waived counts for employment (sent to the five employment readers already at work, who re-applied it to their whole batch); a McGill public-injunction ruling counts for consumer protection; for-cause claims include refusals to excuse and death-qualification excusals, while discovery of a prosecutor's jury-selection notes does not count.
+
 ## 2026-10-18: Search-and-seizure case lists for every justice
 
 Owner request: extend the hand-checked search-and-seizure lists beyond the 17 San Diego-ballot justices. The other 47 justices' queues (869 candidate opinions, built the same way) went through the same reading, separate verification, 15% second check, and consistency checks. Readers were batched by district and division so panel-mates shared a reader. Result for all 64 justices: 1,223 records for the 53 with candidate cases (the other 11 are limited-record justices with none), 70 listed, 204 second-checked, 0 substantive errors. All 54 cases shared between justices got the same at-issue call, and all 70 listed records match their opinion captions.

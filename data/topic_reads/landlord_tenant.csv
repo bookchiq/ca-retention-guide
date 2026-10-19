@@ -1,0 +1,416 @@
+cl_opinion_id,at_issue,note,second_at_issue,second_note,tiebreak_at_issue,tiebreak_note,final
+4505429,0,Arbitration among fraternity entities; leases and UD only in facts,,,,,0
+4505913,1,Commercial lease holdover rent increase enforced,,,,,1
+4515252,0,Admin code-enforcement appeal jurisdiction; UD case only cited,,,,,0
+4516796,0,Malicious prosecution vs attorneys; UD case only cited,,,,,0
+4532121,1,Ellis Act UD: reclassification as limited civil case after damages waiver,,,,,1
+4537890,1,Costa-Hawkins single-family exemption for rented rooms; Oakland rent ordinance applies,,,,,1
+4548870,0,Unauthorized practice/judgment renewal; landlord case only cited,0,Judgment renewal/unauthorized practice of law; eviction-services case cited only,,,0
+4553062,0,Criminal/Prop 57 initiative amendment; rent control case only cited,0,SB 1437 criminal; rent control case cited only,,,0
+4553511,0,Voting rights; rent control board election mention only,,,,,0
+4558304,1,Civ. Code 1953 bars arbitration clause in residential lease; habitability suit,,,,,1
+4563240,0,Wrongful foreclosure; post-sale UD only allegations,,,,,0
+4564089,0,Trust/forum dispute; UD only in facts,,,,,0
+4564945,0,Criminal fraud; eviction only in facts,,,,,0
+4565009,0,"Post-foreclosure UD; claims vs bank, no landlord-tenant relationship",,,,,0
+4566498,0,City ground lease dispute but only anti-SLAPP ruling,,,,,0
+4568946,1,Tenant harassment under SF Rent Ordinance; verdict and landlord-tenant instructions reviewed,,,,,1
+4572223,0,Terminating sanctions/set-aside; commercial UD only in facts,0,Commercial lease guaranty suit but rulings only on terminating sanctions/set-aside,,,0
+4572481,0,Foreclosure set-aside; post-sale UD only in facts,,,,,0
+4573557,0,Anti-SLAPP in building sale dispute; rent control only in facts,,,,,0
+4578333,0,Restraining order; rental only in facts,,,,,0
+4579377,0,Malicious prosecution after commercial UD; appeal dismissed as untimely,,,,,0
+4580291,0,Mechanic's lien anti-SLAPP; landlord cases only cited,,,,,0
+4580615,0,Wrongful foreclosure; post-sale UD only in facts,,,,,0
+4581587,0,Insurance coverage; wrongful eviction only as policy term,,,,,0
+4582455,0,SLAPPback malicious prosecution arising from commercial lease dispute; only anti-SLAPP malice ruling,,,,,0
+4582550,1,CLOSE: mobilehome rent ordinance special rent adjustment; residents are necessary parties under ordinance,0,CLOSE: Mobilehome rent adjustment case but ruling only on joinder of residents as necessary parties,0,"CLOSE: Mobile home park owner's mandamus against the county over denial of a special rent increase under the county rent-control ordinance. The court decides only joinder: the residents are necessary parties under CCP 389(a), with a remand on 389(b). It does not decide any rent-control rule or the merits of the rent increase, and the suit is owner v. county. This is a procedural ruling in a rent-control case, like the definition's excluded unrelated-issue examples.",0
+4583669,1,"CLOSE: tenants' fee award in UD under lease clause/1717 (defaulted party, apportionment)",,,,,1
+4637686,0,"CLOSE: houseboat tenant's taxpayer suit vs City-landlord; decided only city settlement authority and pleading, not lease or eviction",,,,,0
+4639819,1,"CLOSE: tenants' malicious prosecution of UD actions (favorable termination, probable cause preclusion) plus construction of rental agreement attorney fee clause",,,,,1
+4640795,0,Agency judicial power; rent control case only cited,0,Energy Commission judicial review statute; rent control case cited only,,,0
+4645337,0,Trust dispute; UD by sibling trustees only in facts,,,,,0
+4645648,1,Costa-Hawkins sublessee rent increase under SF rent ordinance,,,,,1
+4646347,0,Commercial lease dispute but only waiver of arbitration decided,,,,,0
+4652858,0,Mobilehome park owner's malicious prosecution claim; only anti-SLAPP favorable-termination ruling,,,,,0
+4657987,0,IIED claim from eviction of occupant of decedent's house; no landlord-tenant relationship or rule decided,,,,,0
+4662248,0,Malicious prosecution anti-SLAPP; UD case only cited,,,,,0
+4663350,1,Tenants appeal Oakland rent ordinance substantial-rehabilitation exemption ruling,1,Tenants vs owner on Oakland rent ordinance substantial-rehab exemption,,,1
+4664224,0,Quiet title issue preclusion from post-foreclosure UD; no landlord-tenant relationship,,,,,0
+4665398,0,Employment retaliation/PAGA; rent control case only cited,,,,,0
+4667382,0,Criminal restitution for mortgage fraud; rent/UD only in facts,,,,,0
+4668984,1,"CLOSE: restitution denied to commercial holdover tenant after post-foreclosure UD reversal; lease extinguished, tenant of prior owner",,,,,1
+4670202,0,Foreclosure/loan dispute; no landlord-tenant issue,,,,,0
+4672528,0,Attorney fee as damages; UD case only cited,0,Attorney fees in construction dispute; UD case cited only,,,0
+4674309,0,Post-foreclosure UD (discovery/admissions issue); no landlord-tenant relationship,,,,,0
+4677459,1,Commercial UD; habitability warranty defense not extended to commercial tenant,,,,,1
+4681792,0,Forfeiture for record citations; UD only background,,,,,0
+4681968,0,Escrow negligence damages for rescinded sale; eviction fees only as damages item,,,,,0
+4683567,1,Motion to quash cannot test UD complaint merits (Supreme Court),,,,,1
+4686593,0,Probate/transmutation of property; tenancy in common and eviction mention only,0,"Probate title dispute; UD analogy rejected, no tenancy",,,0
+4699269,1,Preclusive effect of commercial UD stipulated judgment on tenant's later claims vs landlord,,,,,1
+4700196,1,Lease arbitration clause vs judicial-remedy clause in UD; arbitration denied,1,CLOSE: Commercial UD; lease construed to exempt eviction from arbitration clause,,,1
+4700205,0,Trust undue influence; tenant mentions only,,,,,0
+4701000,0,Quiet title dispute; UD only in background facts,,,,,0
+4701575,0,Quiet title default set-aside; post-foreclosure notice to quit only in facts,,,,,0
+4701894,0,Litigation privilege/anti-SLAPP; UD cases only cited,0,Anti-SLAPP extortion claim; UD cited only,,,0
+4702921,0,Tort-of-another fee damages; UD case only discussed as precedent,,,,,0
+4704909,1,Commercial lease attorney fee clause scope in landlord-tenant dispute,,,,,1
+4705650,0,Premises liability vs owner for shooting near tenant's club; evidentiary rulings only,,,,,0
+4710631,0,Wrongful foreclosure claims; UD only background,,,,,0
+4880804,1,Wrongful eviction/harassment under SF rent ordinance; damages judgment affirmed,1,Tenants' wrongful eviction/harassment verdict under SF Rent Ordinance affirmed,,,1
+4910316,0,Housing Accountability Act; rent control case only cited,0,Housing Accountability Act permit denial; rent control case cited only,,,0
+5000525,1,Mobilehome space tenants' implied covenant claim under lease rejected,,,,,1
+5116151,0,Trust accounting; UD only in facts,0,Trust accounting; UD against beneficiary only in background,,,0
+5116457,0,"CLOSE: tenants' wrongful-eviction suit, but appeal only challenges amount of Rent Ordinance fee award (rates, apportionment); entitlement undisputed",,,,,0
+5119531,1,CLOSE: commercial UD judgment and lease fee award reversed for lack of final judgment/prevailing party determination,,,,,1
+5121928,0,Tribal UCL suit; rent control board case only cited,,,,,0
+5125965,0,Wrongful foreclosure demurrer; post-sale UD only in facts,,,,,0
+5126112,0,City zoning enforcement re short-term rentals in apartment house; not landlord-tenant dispute,,,,,0
+5126833,0,Commercial UD aftermath but only anti-SLAPP ruling,,,,,0
+5127630,0,Parentage case; UD statute only mentioned,,,,,0
+5131051,0,Fee award reversed because underlying judgment reversed; no landlord-tenant issue,,,,,0
+5139332,0,RCFE arbitration; UD carve-out only quoted,,,,,0
+5288661,0,Section 8 eligibility termination by housing commission; not landlord-tenant dispute,,,,,0
+6112148,1,SF rent ordinance eviction restrictions for Costa-Hawkins-exempt units upheld,,,,,1
+6216896,0,Foreclosure challenge; post-sale UD only background,0,Foreclosure challenge; UD mentioned only,,,0
+6221539,1,"UD stipulated judgment; limits of UD court authority, voidness under 473(d)",,,,,1
+6227046,0,Tenant-landlord suit but only anti-SLAPP ruling on cross-complaint,,,,,0
+6316808,0,"IIED/elder abuse vs buyer of home; post-sale UD of occupant, no landlord-tenant relationship",0,"Elder abuse/BFP title dispute; UD only as IIED facts, no landlord-tenant relationship",,,0
+6322046,0,Eviction from decedent's mobile home by public administrator; no landlord-tenant relationship,,,,,0
+6323011,0,Appealability/limited civil jurisdiction of settlement order in UD; no landlord-tenant issue decided,,,,,0
+6323885,0,Sisters' quiet title dispute over rental house; evidence ruling only,,,,,0
+6324429,0,UD only in a cited case parenthetical,,,,,0
+6325199,0,UD only in quoted contract/statute language; unrelated issue,,,,,0
+6326714,1,"CLOSE: Trustee v. occupants claiming farm lease; UD ruling not collateral estoppel, lease forged",,,,,1
+6327529,1,"Commercial UD: lease construed re sprinkler obligation, judgment for tenant reversed",1,Commercial UD; lease interpretation re sprinkler obligation as defense,,,1
+6333902,0,"Anti-SLAPP only: tenant's IIED suit over eviction, motion should be granted",,,,,0
+6334246,0,Anti-SLAPP in sibling quiet title dispute; rent control only in a case cite,,,,,0
+6334418,0,"CLOSE: Tenant v. new owner; decides meaning of UD stipulation ('prevails') on dismissal of purchase-right claims, not lease/UD law",,,,,0
+6336117,0,Anti-SLAPP only in commercial lease fraud suit,0,Anti-SLAPP ruling only in commercial lease dispute,,,0
+6338597,0,UD only in a quoted court rule,,,,,0
+6338618,0,Probate omitted-spouse appeal dismissed; UD only in background,,,,,0
+6340235,0,Marital dissolution; court notes no landlord-tenant relationship for COVID eviction protections,,,,,0
+6342832,0,Anti-SLAPP in condo association fiduciary suit; UD only as background,,,,,0
+6343102,0,Attorney disqualification in co-owner title/foreclosure dispute,,,,,0
+6343202,0,UD case only described as precedent,0,Attorney disqualification; UD case mentioned only,,,0
+6344016,0,CLOSE: Former tenants' habitability default judgment void for exceeding pleaded damages (CCP 580); procedural,0,Tenants' default judgment vs landlords void under CCP 580; procedural only,,,0
+6344320,0,Anti-SLAPP in business sale fraud suit; lease assignment only in facts,,,,,0
+6348514,0,Landlord only in cited federal cases; unrelated subject,,,,,0
+6349553,0,Costs award in trust litigation; forged lease only background,0,Trust costs award including costs of evicting cabin tenants; no landlord-tenant dispute decided,,,0
+6500829,0,"CLOSE: Release of rent deposited in mobilehome UD appeal; only bias, bankruptcy stay, record claims decided",,,,,0
+7802513,1,"Commercial UD: lease term, unpaid rent and holdover damages, fees decided",,,,,1
+7804521,0,Supreme Court anti-SLAPP picketing case; eviction only background,,,,,0
+7804976,0,Tenants' suit vs landlord but issue is waiver of appeal bond under 995.240,,,,,0
+7805512,1,Ellis Act UD: SF relocation-notice requirement not preempted; defective termination notice,,,,,1
+7806119,0,Criminal sex offense appeal; family eviction only as evidence,,,,,0
+8207275,0,Rent Control Board only in a case cite,,,,,0
+8209676,0,Golf course partnership settlement enforcement; eviction case only in background,,,,,0
+8213479,0,Post-foreclosure UD vs former owner and claimant; no landlord-tenant relationship,0,Post-foreclosure UD; occupant found not a tenant,,,0
+8374502,0,DVRO move-out order between co-tenants; no dispute with landlord decided,,,,,0
+8377510,0,Cannabis license denial; UD of applicant's prior dispensary only in facts,,,,,0
+8406239,0,Anti-SLAPP re HOA lien lawyer; tenant only in facts,,,,,0
+8484064,1,CLOSE: Commercial UD: appeal not moot despite tenant vacating; default judgment set aside,,,,,1
+8484771,0,Easement merger dispute; UD by lender only in facts,,,,,0
+9297667,0,"Post-foreclosure UD vs former owner; title/continuance issues, no landlord-tenant relationship",,,,,0
+9322982,0,Rent stabilization only in cited federal case; unrelated subject,,,,,0
+9324331,1,CLOSE: UD after 60-day notice terminating occupant's tenancy; possession and holdover damages affirmed (no foreclosure),,,,,1
+9346510,0,Landlord's insurance coverage suit vs insurer; eviction/conversion only background,,,,,0
+9348479,1,"Commercial UD: untimely lease option, acceptance of rent did not waive termination (Civ. Code 1945)",1,Commercial UD; landlord did not waive eviction by receiving rent; option not exercised,,,1
+9349823,1,CLOSE: Deceased tenant's wife's UD complaint vs landlord (Civ. Code 1940.2/1954 claims); challenge forfeited,,,,,1
+9353007,0,Storage agreement dispute; plaintiff never a tenant,,,,,0
+9363987,0,Endorsement contract fee clause; lease fee cases only cited,,,,,0
+9366530,0,Anti-SLAPP in family trust dispute; no landlord-tenant content,,,,,0
+9367038,0,Foreclosure/lis pendens negligence suit vs bank; UD only in background,,,,,0
+9367459,1,Residential tenant's mold suit: complaint states implied warranty of habitability claim vs landlord,1,Tenant states habitability warranty claim against landlord,,,1
+9371412,0,Post-foreclosure UD vs former owner; no landlord-tenant relationship,,,,,0
+9376765,0,"Post-foreclosure UD context; wrongful foreclosure sanctions/consolidation, no landlord-tenant relationship",,,,,0
+9378311,1,Berkeley rent control: units not exempt under Costa-Hawkins new construction; tenants real parties,,,,,1
+9378818,0,Insurance personal jurisdiction; UD case only cited (Stancil),,,,,0
+9383624,0,Family quiet title/fiduciary dispute over home; eviction only background,0,"Family title/trust dispute; issues are jury trial and amendment, month-to-month finding only in background",,,0
+9383657,0,"ICRAA claim by rental applicant vs property manager; retroactivity/limitations, not tenancy",,,,,0
+9388037,1,"CLOSE: Residential lease-purchase option; lease terms construed, $83,000 refundable to tenants",,,,,1
+9388823,0,Condo maintenance corp; UD only in a cite,,,,,0
+9388831,0,CLOSE: Criminal restitution to landlord-victim incl. eviction legal fees; no landlord-tenant dispute decided,,,,,0
+9390552,1,Residential UD settlement enforcement: back rent award and tenant waiver argument decided,,,,,1
+9391013,1,Commercial UD: lease force majeure clause did not excuse COVID-era rent,,,,,1
+9391701,1,"CLOSE: Landlord groups v. SF over tenant buyout ordinance; scope/severability decided, not a direct L-T dispute",,,,,1
+9391934,0,Rent control only in a case cite,,,,,0
+9392758,1,"Commercial UD: oral lease month-to-month, agricultural one-year tenancy presumptions rejected",,,,,1
+9397171,1,"UD after foreclosure vs pre-foreclosure lessee: LAMC just-cause notice defect, 1161b argument forfeited",,,,,1
+9397615,1,"Residential UD (short-term rental breach): special verdict challenge forfeited, judgment affirmed",1,CLOSE: Residential UD judgment affirmed; challenge to special verdict on UD liability held forfeited,,,1
+9399978,1,Residential UD: Tenant Protection Act just-cause applicability to tenancy at will after owner's death; triable issues,,,,,1
+9400217,0,Disqualification statement re mortgage suit; related UD only mentioned,,,,,0
+9403823,0,"Ex-spouse co-owner quiet title/partition; joint tenancy, not landlord-tenant",0,"Ex-spouses co-ownership/partition; rental value award, no tenancy",,,0
+9405009,0,UD threat only in a string cite,,,,,0
+9405281,0,Vehicle lease Song-Beverly release; not real property tenancy,,,,,0
+9405356,0,Judicial foreclosure writ of sale; UD only in statute text,,,,,0
+9406016,1,Commercial UD: affirms rejection of tenant's COVID frustration-of-purpose defense to unpaid rent,1,Commercial UD; frustration of purpose defense to COVID rent nonpayment rejected,,,1
+9406833,0,Probate order authorizing UD against sibling cotenants; jurisdiction/notice issue only,,,,,0
+9407355,0,Post-judgment sale proceeds/fees in partnership dispute; eviction only in background,,,,,0
+9408834,0,Anti-SLAPP defamation re tenant law firm; no landlord-tenant dispute,,,,,0
+9409098,0,"Anti-SLAPP only; commercial UD appears in facts, ruling on protected demand letter and litigation privilege",,,,,0
+9409586,0,Suit vs bank after foreclosure; prior UD not subject of appeal,,,,,0
+9411535,1,"Ellis Act UD: summary judgment for landlord, relocation payment/intent to withdraw issues decided",,,,,1
+9411793,0,Rent Control Board only in a case cite,0,Quiet title statute case; rent control board case cited only,,,0
+9414836,0,UD mentioned only in court-system description,,,,,0
+9444236,0,Co-owner (cotenancy) ouster negligence claim; not landlord-tenant,,,,,0
+9556054,0,Short-term rental attorney fees under 1021.5; rent control only in a cite,,,,,0
+9642634,0,"Tenant's suit vs court clerk; quasi-judicial immunity/claims act, not landlord-tenant issue",0,Clerk's quasi-judicial immunity; UD only background,,,0
+9691043,1,"Residential UD: lease termination clause and Tenant Protection Act notice, damages",,,,,1
+9838735,0,Post-foreclosure UD vs former owner; no landlord-tenant relationship,,,,,0
+9838948,0,Probate/partition; UD and mobilehome only in procedural history/cites,,,,,0
+9840522,1,Former rent-controlled tenants v. landlords; Ellis Act/LA RSO liability analyzed for class certification,,,,,1
+9840678,1,"CLOSE: UD/forcible detainer affirmed; court found occupant had no valid lease, jury trial and SE claims rejected",,,,,1
+9865594,1,UD against tenant at will; order to post reasonable rental value under CCP 1170.5 affirmed,,,,,1
+9882316,0,Billboard permit enforcement; billboard lease only evidence,,,,,0
+9890015,1,Tenant's wrongful eviction claims vs former landlord barred by UD res judicata; BMR tenancy termination claims fail,,,,,1
+9890613,0,Anti-SLAPP for UD lawyers and process server only,,,,,0
+9891782,1,Tenants' wrongful eviction judgment; 1952.3 surrender does not bar relief,,,,,1
+9892969,1,Commercial lease COVID rent dispute; tenant's recoupment claims rejected,,,,,1
+9894172,1,CLOSE: tenant's mold claims vs landlord barred by collateral estoppel from UD habitability defense,1,Former tenant's mold claims barred by collateral estoppel from UD habitability defense,,,1
+9896288,0,Option contract/limitations; UD only in facts,,,,,0
+9899148,0,Malicious prosecution limitations vs attorney; UD only in cited case,,,,,0
+9901086,1,Commercial landlord's rent judgment against tenants affirmed; lease defenses rejected,,,,,1
+9904809,0,Anti-SLAPP fee award/safe harbor; UD threat only in facts,,,,,0
+9906097,0,Criminal burglary; evictions only in discussion of cited case,,,,,0
+9906326,0,Anti-SLAPP on malicious prosecution claim against eviction law firm; eviction only background,,,,,0
+9910915,0,Coastal permit/basement condition; rent control only in a cited case,,,,,0
+9911774,0,Arbitration unconscionability at care facility; UD carve-out only as part of clause analysis,,,,,0
+9913145,0,Post-foreclosure UD against former owners; appeal dismissed,,,,,0
+9915922,1,"CLOSE: post-foreclosure UD, but against tenant holding pre-foreclosure lease; court holds lease fee clause does not cover the UD (UD not 'arising out of' lease)",,,,,1
+9916333,0,Appellate costs/void judgment in trust dispute; UD and lease only background,,,,,0
+9916882,0,Default judgment/preclusion on land contract; UD preclusion between non-landlord-tenant parties,,,,,0
+9919204,1,Commercial UD: summary adjudication of lease violation (common area) affirmed,,,,,1
+9920873,1,Tenants have UCL standing over terminations on deficient (3-day vs 30-day) notices in subsidized housing,,,,,1
+9925405,0,Attorney limitations/conspiracy; sublease and UD only in facts,,,,,0
+9925658,0,Wrongful foreclosure/dragnet clause; UD only in facts,,,,,0
+9925662,0,Building permit/road width mandate; UD only in a cited case,,,,,0
+9926864,0,Contract fee clause after referee motion; lease/UD only in cite,0,Contract attorney fees for referee motion; lease case cited only,,,0
+9928439,0,CLOSE: enforcement of settlement of tenant habitability suit; only fraud/settlement validity decided; moratorium point only in quoted trial ruling,,,,,0
+9928833,1,Commercial lease limitation-of-liability clause bars tenant's damages vs landlord; JNOV ruling on lease term,,,,,1
+9931696,0,Rent Control Bd. only in a cite,,,,,0
+9943240,1,Tenants' suit for rent refund under LA RSO registration rules; demurrer affirmed,1,Tenants vs landlord: LA RSO registration violation remedy (no rent disgorgement),,,1
+9944608,0,Jury fee statute; UD only in statutory description,,,,,0
+9945013,0,Criminal; eviction only in facts,,,,,0
+9950266,0,CLOSE: mobilehome park lease arbitration clause held unconscionable under general contract law; MRL issues not reached,,,,,0
+9954207,0,Marital settlement; rent control fees only as property obligations,,,,,0
+9955938,0,Business/property dispute; UD only in facts,,,,,0
+9969199,1,"CLOSE: residential UD judgment (rent, holdover damages, possession) affirmed for inadequate record",,,,,1
+9975344,1,CLOSE: mobilehome park resident v. park; holds claims arose under MRL and park is prevailing party for MRL fees (798.85) on late-rent-fee claims,,,,,1
+10352248,0,Elder abuse restraining order; UD and landlord assistance only mentioned,,,,,0
+10453330,1,"CLOSE: UD summary judgment (agreement to pay rent, 1161(2)) affirmed for inadequate record",,,,,1
+10464079,0,Anti-SLAPP in conspiracy suit by non-tenant; eviction only background,,,,,0
+10467429,1,"Commercial UD: retaliation defense, notice validity after rent check, holdover damages",,,,,1
+10473735,1,Tenant's retaliatory-eviction fees under 1942.5 override lease fee cap,,,,,1
+10491272,0,"Attorney disqualification only, in consolidated UD case",,,,,0
+10498148,0,Wrongful foreclosure demurrer; UD only procedural,0,"Wrongful foreclosure demurrer; UD is post-foreclosure, no landlord-tenant relationship",,,0
+10511908,0,"CLOSE: commercial UD voluntarily dismissed; lease fee clause barred by 1717(b)(2)/998, disbursement issue moot",,,,,0
+10517578,1,Residential lease-after-sale security deposit suit; 1953(a)(4) voids arbitration of tenancy claims,,,,,1
+10556855,0,CLOSE: commercial UD; only voluntary dismissal validity and lease fee motion decided on procedural grounds,0,Commercial UD voluntary dismissal and fees; court declines to reach three-day notice defects,,,0
+10565232,0,"CLOSE: tenants' association habitability suit; only associational standing, in limine, leave to amend reviewed (nonsuit unchallenged)",,,,,0
+10565335,1,CLOSE: tenant negligence claim over apartment condition v. landlord; judgment affirmed mostly on forfeiture/credibility,,,,,1
+10565517,0,"CLOSE: occupant's tort claims barred by release in UD settlement (third-party beneficiary); release interpretation, not tenancy law",,,,,0
+10566409,0,CLOSE: commercial UD; only fee award amount/prevailing party under lease fee clause (1717) reviewed,1,"CLOSE: Commercial UD; lease fee award to tenant upheld, tenant not required to raise defective notice earlier",1,"CLOSE: Commercial unlawful detainer (landlord T-A Fashion v. tenant Megna); appeal decides the tenant's attorney fee award under the lease's prevailing-party clause (Civ. Code 1717), holding the tenant's late attack on the 3-day notice (CCP 1161(2)) was not bad faith because a valid notice is part of the landlord's UD case, and finding forfeited the landlord's claim that the tenant was not the prevailing party. A fee dispute between landlord and tenant under a lease term, reasoned on UD notice rules, not a collateral procedural ruling like anti-SLAPP.",1
+10580165,1,"Residential UD judgment affirmed: exclusion of defenses, reclassification, demurrer on lease enforceability",,,,,1
+10580914,0,Takings/exaction challenge; rent control only in cited cases,,,,,0
+10581114,1,CLOSE: landlord groups v. SF; local at-fault eviction notice ordinance preempted by state UD law (not landlord v. tenant parties),,,,,1
+10582923,1,"Residential UD: 3-day notice under 1161(2), 'person' includes entities, notice still defective",,,,,1
+10587509,0,"Post-foreclosure UD against former owners (tenancy at sufferance under deed of trust); fee award voidness, no landlord-tenant relationship",,,,,0
+10591198,0,"CLOSE: landlord v. guarantors of commercial lease; guaranty exoneration and mitigation, not tenant",,,,,0
+10594340,1,Commercial UD: summary judgment for landlord on lease breaches/notices to quit affirmed,,,,,1
+10596513,0,Foreclosure suit; post-sale UD only in facts,,,,,0
+10611441,0,Fee-clause dispute in business contract; habitability/UD only in string cites,,,,,0
+10611787,0,Temporary judge disqualification; UD only in rule quotation,,,,,0
+10612036,0,Anti-SLAPP for UD attorneys after foreclosure,,,,,0
+10625837,0,Subdivision Map Act/CEQA service timing; no landlord-tenant issue,,,,,0
+10627686,0,Inverse condemnation limitations; landlord only in cited case,0,Inverse condemnation limitations; landlord case cited only,,,0
+10629100,0,Criminal false recording; foreclosure UD only in facts,,,,,0
+10629539,1,CLOSE: post-foreclosure UD; court holds trial court erred finding no pre-foreclosure lease for 1161b tenant protection,,,,,1
+10650310,0,Criminal securities fraud; commercial lease loss only in facts,,,,,0
+10732341,1,UD: Oakland just-cause/rent regulation safe-harbor notice content not a defense; reversed,1,Oakland just-cause UD: termination notice and rent board regulation defense,,,1
+10732735,0,Motion to vacate default judgment for service defects; sublease only as service facts,,,,,0
+10741713,0,Insurance/attorney anti-SLAPP; tenant only in cited cases,,,,,0
+10741723,0,Anti-SLAPP prong-one ruling only (statements urging tenants to withhold rent not protected),,,,,0
+10742650,0,Anti-SLAPP in commercial UD only,,,,,0
+10744989,0,"Post-foreclosure UD against former owner; issue preclusion on quiet title, no landlord-tenant relationship",,,,,0
+10753750,0,Civil harassment restraining orders between homeowner and lodger; UD only background,0,Civil harassment restraining orders between landlord and roommate tenant; no landlord-tenant issue decided,,,0
+10759761,0,Second Amendment challenge; no topic,,,,,0
+10762113,0,Family trust/abuse of process; tenants mentioned in facts and a quotation,0,Anti-SLAPP abuse of process between brothers; tenants mentioned only,,,0
+10762171,0,City nuisance abatement injunction; tenant/UD argument forfeited but no landlord-tenant dispute,,,,,0
+10764988,0,SVP commitment; rent control only in cited case,,,,,0
+10770739,0,Partner real estate venture contract/fraud verdicts; UD possession not at issue on appeal,,,,,0
+10771702,0,Vexatious litigant prefiling order; UD case only procedural vehicle,,,,,0
+10771703,0,Post-foreclosure UD (1161a); no landlord-tenant relationship,,,,,0
+10773757,0,Easement/cannabis permit; tenant only as statutory term,,,,,0
+10777949,1,Landlord's rent damages vs tenant; habitability offsets rejected,,,,,1
+10777975,0,HOA v. owner; tenant/rent only in cited case,,,,,0
+10779365,1,"CLOSE: commercial lease case; attorney fees under lease prevailing-party clause, case arose from lease, remand on whether movant was landlord party",,,,,1
+10781798,1,"Commercial UD: three-day notice invalid, judgment for landlord reversed",,,,,1
+10784756,0,Post-foreclosure UD; appeal dismissed as nonappealable postjudgment order; no landlord-tenant issue,,,,,0
+10789911,0,Buyer v. seller real estate contract; tenant-removal contingency and eviction only as facts,,,,,0
+10790744,1,"Commercial tenants v. landlords: breach of lease (early termination, integration clause), wrongful eviction claims on demurrer",,,,,1
+10790756,1,"Commercial tenant v. landlord: breach of lease re parking spaces, nonsuit affirmed",,,,,1
+10793435,1,Commercial lease breach claims vs former warehouse lessee; summary adjudication of lease claims affirmed,,,,,1
+10795902,0,Only anti-SLAPP ruling in joint venture/land use dispute that involved UD,,,,,0
+10796002,0,Post-foreclosure UD vs former owners (not tenants); summary judgment,,,,,0
+10796974,1,Residential UD: holdover/month-to-month tenancy created by accepting rent under lease,,,,,1
+10802257,1,"Commercial UD: lease notice provision unambiguous, action timely",1,Commercial UD; lease has no 10-day grace period for rent,,,1
+10814368,1,"CLOSE: business-sale suit; subtenants' claim that sublessor had duties under sublease (defend eviction, rent collection) ruled forfeited",,,,,1
+10818787,0,Criminal witness-dissuasion conviction; rent withholding only as facts,,,,,0
+10830210,0,"CLOSE: tenant's Rent Ordinance owner-move-in suit; only anti-SLAPP prong-one ruling (claims not based on protected activity), an excluded issue type",,,,,0
+10831261,0,Foreclosure/bona fide purchaser dispute; UD against plaintiff's tenant mentioned only,0,Post-foreclosure; no landlord-tenant issue,,,0
+10837336,0,Wrongful foreclosure/2924m; UD mentioned only,,,,,0
+10841100,0,Anti-SLAPP in restaurant LLC dispute; rent control only in cited case,,,,,0
+10844838,1,"CLOSE: commercial leaseback UDs; eviction judgments not void for landlord entity misdescription, curable by amendment",1,"CLOSE: Commercial UD; eviction judgments vacated for plaintiff misdescription, remand for curative amendment",,,1
+10847333,0,Child custody; court expressly does not address eviction/UD,,,,,0
+11045081,1,Commercial sublease addendum rent abatement interpreted; subtenant owes deferred rent,,,,,1
+11051616,1,Landlord judgment vs tenant; decides fraud in inducement of lease/addendum waiving RSO protections and effect of illegal lease,,,,,1
+11053235,1,UD: court may bar occupancy for fire hazards despite denying UD relief,,,,,1
+11053321,0,"CLOSE: commercial tenant's malicious prosecution suit over UD; only anti-SLAPP ruling (excluded), though prong two discusses UD probable cause",,,,,0
+11059602,1,Residential nuisance UD default: complaint sufficiently alleges plaintiff is landlord via agent who signed lease,,,,,1
+11060408,0,Anti-SLAPP; UD sublease only in cited case,,,,,0
+11060664,0,Easement/property suit; landlord-tenant only in cited case,,,,,0
+11065019,0,Legal malpractice re failed UD; decides preclusion/evidence issues only,,,,,0
+11067754,1,Commercial landlord's breach-of-lease suit: lease ambiguous whether individuals are lessees; UD judgment no preclusion on tenant status,,,,,1
+11071136,0,Probate trust petition; UD only in footnote,,,,,0
+11072861,1,"CLOSE: commercial UD; decides prevailing party for costs, rejecting landlord's argument that party obtaining possession prevails in UD",,,,,1
+11081040,0,Terminating sanctions in suit vs funeral services; no landlord-tenant content,,,,,0
+11084399,1,"UD: possession-only judgment not appealable while landlord damages pending; writ granted, judgment entered for tenant",,,,,1
+11084503,0,"CLOSE: ex-tenants' malicious prosecution suit vs landlord over UD actions; court decides only advice-of-counsel defense, not UD merits or tenancy rules",,,,,0
+11087778,0,Trust/appraisal dispute between siblings; leases mentioned only as appraisal documents,0,Appraisal/arbitration confirmation; leases mentioned only,,,0
+11099110,1,Commercial UD: three-day notice requirements; judgment for tenant affirmed,,,,,1
+11100431,0,Attorney fee apportionment in purchase/escrow dispute; lease claim only background,,,,,0
+11103541,1,Residential UD jury trial judgment affirmed; tenants' challenges rejected,,,,,1
+11109166,1,CLOSE: residential UD appeal; stipulated judgment unreviewable and tenant's notice/habitability/overcharge defenses waived by settlement,,,,,1
+11110277,0,Litigation privilege/UCL suit; UD only in cited case,,,,,0
+11110291,0,"Ex-tenant's conversion suit after vacated UD default; decided wrong entity sued (nonsuit), not landlord-tenant issue",,,,,0
+11112197,0,UD/habitability litigation but ruling only on enforceability of settlement agreement,,,,,0
+11117096,1,"Commercial UD: lease legality, amendment validity, unpaid rent",,,,,1
+11117173,0,Anti-SLAPP vs opposing counsel; UD sealing only background,,,,,0
+11120649,1,"CLOSE: park owner v. State, not tenant; court rejects facial challenge to mobilehome rent cap (Civ. Code 798.30.5)",,,,,1
+11124594,0,Usury/wrongful foreclosure; post-foreclosure UD preclusion only,,,,,0
+11124803,0,Anti-SLAPP/malicious prosecution over small claims vs theater tenants; UD only in cited case,,,,,0
+11124831,1,Tenant v. landlord: illegal rent increases under Tenant Protection Act support Penal Code 496 claim,1,CLOSE: Tenant suit vs landlord over rent hike above AB 1482 cap; court holds illegally increased rent supports Pen. Code 496 liability (cap itself conceded),,,1
+11125377,0,DVRO appeal; UD and lessee language mentioned only,,,,,0
+11125382,0,Landlord-tenant suit but only anti-SLAPP ruling (UD prosecution protected; no probability of prevailing),,,,,0
+11126772,0,Post-foreclosure UD (1161a) vs former owner; no landlord-tenant relationship,0,Post-foreclosure UD under 1161a against former owner,,,0
+11129796,0,Terminating sanctions default judgment; eviction only in facts,,,,,0
+11129883,1,"Residential UD summary judgment: oral lease and nonpayment established, no triable issue on landlord-tenant relationship",,,,,1
+11138277,1,Commercial UD: notice to pay rent or quit compliant with CCP 1161(2),,,,,1
+11139059,1,Decides tenant's retaliatory eviction claim (Civ. Code 1942.5) vs district landlord of stables lease; demurrer sustained,,,,,1
+11139121,0,Ex-spouse wrongful eviction tort; no landlord-tenant relationship,,,,,0
+11140340,0,Tenant's suit vs landlord/attorney over UD complaint; only anti-SLAPP and litigation privilege rulings (incl. breach-of-lease claim struck as privileged),,,,,0
+11153616,1,Commercial UD judgment affirmed; lease rent provisions and damages,,,,,1
+11170284,0,Post-foreclosure UD under CCP 1161a; no landlord-tenant relationship,,,,,0
+11174797,0,UD vs contractor occupant; only set-aside of default for lack of actual notice,,,,,0
+11176509,1,Commercial UD after lease expiry; landlord standing and month-to-month tenancy,1,Commercial UD summary judgment; tenant cannot challenge landlord's title,,,1
+11178366,0,Anti-SLAPP re 2924m foreclosure bidder affidavit; UD mentioned only,,,,,0
+11197816,0,Tenant's suit vs landlord's attorneys; only anti-SLAPP ruling,,,,,0
+11203079,0,Ruling in UD case only on court's retained jurisdiction to enforce settlement under CCP 664.6; unrelated procedural issue,,,,,0
+11204997,0,"CLOSE: occupants claiming PTFA tenancy sue foreclosure purchaser; decided oral purchase option void under statute of frauds and no issue preclusion from reversed UD, not tenancy rights",,,,,0
+11206495,0,Landlord's harassment cross-complaint vs tenant; only anti-SLAPP ruling and sanctions,,,,,0
+11206542,0,Appellate fee award after anti-SLAPP in tenant suit; no landlord-tenant issue decided,,,,,0
+11208082,0,Veterinary license; rent control only in cited case,,,,,0
+11208112,1,CLOSE: tenants' Santa Monica tenant-harassment ordinance claim vs landlord's attorney; decides probable cause for Airbnb-based evictions given rent control charter eviction limit/preemption,,,,,1
+11212631,0,Family law appeal; tenancy/UD mentioned in facts only,,,,,0
+11214253,0,Free speech at shopping center; tenants mentioned only,0,Pruneyard leafletting at shopping center; tenants/UD case mentioned only,,,0
+11214327,1,"Commercial UD: lease enforceability, forfeiture, rent and holdover damages",,,,,1
+11214369,0,Post-foreclosure UD vs occupant; no landlord-tenant relationship,,,,,0
+11226743,1,"CLOSE: landlord's holdover-damages/breach-of-lease cross-claim vs tenant; dismissal upheld for failure to propose instructions, holdover argument forfeited",,,,,1
+11227624,1,CLOSE: landlords v. City over Pasadena rent control/just-cause charter amendment (tenant interveners); decides validity and preemption of eviction-related provisions,,,,,1
+11227775,0,Anti-SLAPP attorney fee amount only,,,,,0
+11229669,0,Sale of business; relief from default; no landlord-tenant issue,,,,,0
+11229854,0,Anti-SLAPP on fraud claim vs banks; tenant's habitability claims not decided,,,,,0
+11229871,1,UD appeal; tenant's habitability and source-of-income defenses rejected for inadequate record/briefing,,,,,1
+11230712,1,UD; three-day notice to pay rent or quit did not overstate rent; summary judgment affirmed,,,,,1
+11230931,1,Mobile home park rent increase denied under city rent control ordinance; tenants real parties,,,,,1
+11230982,0,"Adverse possession vs estate; cotenant (co-owner) rules, not landlord-tenant",,,,,0
+11231590,0,CLOSE: UD/holdover damages default judgment reversed on pleading rule (original answer controverts amended complaint); no landlord-tenant issue decided,,,,,0
+11235614,0,Occupant after life tenant's death; possession/ejectment with no landlord-tenant relationship,,,,,0
+11241078,0,Dismissal for failure to serve; UD/retaliatory eviction claims only listed,,,,,0
+11244856,1,Commercial lease illegal for lack of certificate of occupancy; tenant's rent restitution and lease fee clause decided,,,,,1
+11250165,0,Attorney disqualification only,,,,,0
+11251931,0,CC&R neighbor suit attorney fees,,,,,0
+11264496,0,Terminating sanctions for discovery violations in wrongful eviction suit; unrelated issue,0,Tenant's wrongful eviction suit but ruling only on 473(b) relief from terminating sanctions,,,0
+11266456,0,CLOSE: commercial UD default; only 473(b) timeliness and new reply arguments decided,,,,,0
+11266501,0,Anti-SLAPP in mobilehome park breach of settlement suit; only an anti-SLAPP ruling,0,Anti-SLAPP ruling only; prior UD/wrongful eviction settled,,,0
+11267586,0,HOA vs owner on CC&R leasing restrictions and business judgment rule; not landlord vs tenant,,,,,0
+11268330,0,Consumer loan unconscionability class action,,,,,0
+11270630,0,CLOSE: Section 8 assistance termination vs housing authority; UD judgment pending appeal relevant but no landlord-tenant dispute decided,,,,,0
+11273534,0,CLOSE: city vs owner enforcing affordable-housing deed restriction; tenant's UD only background,,,,,0
+11276087,0,Anti-SLAPP in family corporation dispute; landlord-tenant case (Birkner) only cited,,,,,0
+11276725,1,UD appeal; tenant's habitability and rent-refusal claims forfeited for deficient briefing/record,,,,,1
+11276737,1,UD appeal; burden on habitability defense rests on tenant; habitability instructions; JNOV denial affirmed,,,,,1
+11278072,0,"Real estate fraud suit; post-foreclosure UD claims bifurcated, not decided",0,Post-foreclosure UD claims bifurcated; issue is jury waiver,,,0
+11281075,0,Quiet title/bias appeal; rental agreement and UD only in background,,,,,0
+11282561,1,Commercial lease breach damages not duplicative of prior UD rent award,,,,,1
+11296756,0,Post-foreclosure quiet title; UD actions only background,0,Post-foreclosure quiet title; UD mentioned only,,,0
+11305644,1,"CLOSE: anti-SLAPP in tenants' suit vs landlord, but court decides Tenant Protection Act (just cause) inapplicable and County COVID tenant protections argument forfeited",,,,,1
+11307796,1,Commercial UD; service of 3-day notice to pay rent or quit was proper under lease terms; reversed for landlord,,,,,1
+11307806,1,Tenants' declaratory relief; landlord's acceptance of stay-order payments did not reinstate lease after UD judgment,,,,,1
+11309439,0,Probate spousal property petition,,,,,0
+11310848,1,Commercial lease purchase option timely exercised and not abandoned; landlord breached lease,1,Commercial tenant's lease purchase option enforced against landlord; breach of lease,,,1
+11312366,1,CLOSE: park owners vs city; interprets Penal Code 396 'rental price' under local mobilehome rent control ordinance; rent-control rule decided but tenants not parties,1,CLOSE: Park owners vs city; Pen. Code 396 emergency cap on mobilehome space rent under local rent control (no tenant party),,,1
+11314216,1,Commercial lease renewal option condition (full possession) in UD; reversed,,,,,1
+11314218,0,"Anti-SLAPP/litigation privilege; trust beneficiary evicted, no landlord-tenant relationship",,,,,0
+11314715,1,CLOSE: landlord vs city; no vested right exemption from Culver City tenant protection (just-cause/return-rights) ordinance; tenants not parties,,,,,1
+11315291,0,Boundary dispute between neighboring properties; mobile home park leases background,,,,,0
+11316522,1,"Residential lease and option; landlord's breach of lease damages, tenants' rescission claim, and third party's lease liability decided",,,,,1
+11318533,1,Residential lease; landlord's recovery of rent and reasonable rental value after lease termination,,,,,1
+11319185,0,CLOSE: Section 8 termination suit vs city housing authority; mootness based on UD judgment; no landlord-tenant dispute decided,,,,,0
+11319186,0,Personal jurisdiction over foreign lender; sale-leaseback only background,,,,,0
+11320723,0,CLOSE: malicious prosecution anti-SLAPP; probable cause for subtenant's TORCA purchase claim; not a landlord-tenant dispute decided,,,,,0
+11326440,1,CLOSE: landlord association vs city challenge to LA rent control/tenant protection ordinances; rent-control rules decided but tenants not direct parties,,,,,1
+11327341,0,CLOSE: tenants' default judgment vs landlord; only service of process/relief from default decided,,,,,0
+11330489,1,Tenant vs landlord after UD; wrongful and retaliatory eviction (1942.5) and related claims decided on summary judgment,1,Tenant's wrongful and retaliatory eviction claims vs landlord decided on summary judgment,,,1
+11332477,1,CLOSE: landlord's lease breach and waste claims barred by UD settlement release and res judicata,,,,,1
+11332531,0,City right-of-way encroachment dispute,,,,,0
+11333099,0,Supreme Court peremptory challenge (170.6) case,,,,,0
+11333340,0,"CLOSE: UD appeal decided only on federal removal jurisdiction, trial notice, and jury waiver; no landlord-tenant issue decided",,,,,0
+11333845,0,Property tax assessment appeal,,,,,0
+11336507,0,Writ petition vs UC Regents; no landlord-tenant issue,,,,,0
+11338276,0,Anti-SLAPP/demurrer in post-foreclosure dispute; UD only mentioned,,,,,0
+11340067,0,Domestic violence restraining order renewal,0,DVRO renewal; UD threat mentioned only,,,0
+11341387,1,CLOSE: tenants' habitability/retaliation suit vs landlord barred by issue preclusion from UD and small claims judgments,1,CLOSE: Tenants' habitability/retaliation/moratorium claims vs landlord barred by prior UD judgment; decided on inadequate record,,,1
+11341889,0,Tort suit; commercial eviction only background,,,,,0
+11345683,0,Borrower vs lender; COVID eviction moratoria do not excuse loan payments,,,,,0
+11347218,0,Renewal of judgment in textile payment suit,,,,,0
+11349376,1,Tenant vs landlord harassment suit; Civ. Code 789.3 lockout damages do not require constructive eviction; default judgment affirmed,1,"CLOSE: Tenant harassment default judgment vs landlord; court upholds damages for Civ. Code 789.3 lockout/utility claim, mostly procedural",,,1
+11349430,0,"CLOSE: tenant's suit on separate purchase option agreement with landlord; only sham-declaration/summary judgment ruling, not lease terms",,,,,0
+11350098,1,"Residential lease breach; validity of forged lease renewal, holdover tenancy, tenant liability for rent",,,,,1
+11382762,1,UD appeal; exclusion of retaliatory eviction defense (Civ. Code 1942.5) resolved against tenant for inadequate record,,,,,1
+11392800,0,Appeal dismissed; 473(b) motion after settlement of habitability suit,0,Habitability suit; appeal dismissed as from nonappealable 473(b) order,,,0
+11394919,0,Post-foreclosure UD; no landlord-tenant relationship,,,,,0
+11399286,0,CLOSE: commercial lease suit; only scope of lease arbitration clause decided,,,,,0
+11403020,1,Commercial UD; holdover/month-to-month tenancy creation by accepting rent and notice requirement,,,,,1
+11403029,0,Probate trust costs; commercial lease and UD only in background,0,Probate costs order; lease/UD only in background,,,0
+11403387,1,Rent-controlled tenants vs landlord; harassment/construction claims under Santa Monica ordinance and Civil Code; liability and damages,,,,,1
+11403560,0,Malicious prosecution/anti-SLAPP and Claims Act; UD and habitability suit only mentioned,,,,,0
+11404022,0,Post-foreclosure UD by trustee-sale buyer; no landlord-tenant relationship,,,,,0
+11404422,1,UD dismissed for defective 3-day notice to cure covenant or quit; affirmed,1,UD dismissed for defective notice to cure covenant violation; affirmed,,,1
+11405088,0,Conservatorship elder abuse fee award,,,,,0
+11405331,0,Anti-SLAPP in estate/condo ownership dispute; no landlord-tenant relationship,,,,,0
+11405517,1,UD; service of notice to pay rent or quit upheld,,,,,1
+11411572,0,Declaratory relief on post-foreclosure repurchase agreement; UD actions only background,,,,,0
+11415131,0,Foreclosure suit; stay of post-foreclosure UD only mentioned,,,,,0
+11421301,1,CLOSE: appellate fee award to landlord under retaliatory eviction statute (Civ. Code 1942.5) fee provision; no apportionment because retaliatory eviction claims pervade; fee-only ruling,,,,,1
+11421334,1,CLOSE: landlord's breach of commercial lease suit vs tenant; statute of limitations runs from tenant's nonpayment breach,,,,,1
+11422363,0,Declaratory relief on post-foreclosure repurchase agreement; UD actions pending,,,,,0
+11422524,0,Street renaming challenge vs city,,,,,0
+11425237,0,Mobilehome residents' maintenance suit; only arbitration-agreement existence decided,,,,,0
+11425330,0,CEQA attorney fees; rent control only in case name cite,,,,,0
+11425361,1,CLOSE: mobile home park resident v. park management; court holds claims incl. rent-control/illegal rent increase contentions waived for inadequate briefing,,,,,1
+11428220,0,Quitclaim deed fraud/statute of limitations hearsay; UD between sons only background,,,,,0
+11428231,0,"Anti-SLAPP ruling only in tenant's cross-complaint (wrongful eviction, harassment); excluded",,,,,0
+11430586,0,Vexatious litigant order; UD example only in quoted case law,0,Vexatious litigant order; UD case cited only,,,0
+11430682,0,HOA quiet title v. former owner; UD after sheriff's sale only background,,,,,0
+11435124,0,"Quiet title; issue preclusion from post-foreclosure UD, no landlord-tenant relationship",,,,,0
+11437812,1,CLOSE: residential UD; court construes lease attorney fee clause to let non-signatory occupants named in lease recover fees; UD judgment appeal dismissed as untimely,,,,,1
+11437829,1,Commercial UD; three-day notice invalid under CCP 1161(2) one-year rule despite lease payment-application clause; holdover damages reversed,,,,,1
+11442715,0,Wrongful foreclosure suit; dismissal for late amended complaint; post-foreclosure UD only background,,,,,0
+11446009,1,Commercial lease UD stipulated judgment; future rent damages under lease upheld against penalty/double recovery challenges,,,,,1
+11446194,0,"CLOSE: Elder Abuse Act restraining order/move-out vs alleged squatter; court rejects misuse-as-eviction and Oakland relocation-ordinance arguments, but no landlord-tenant relationship and ruling rests on Elder Abuse Act",,,,,0
+11447139,0,UD case but appeal dismissed as untimely (invalid reconsideration motion); no landlord-tenant issue decided,0,UD appeal dismissed as untimely; no landlord-tenant issue reached,,,0
+11500377,1,CLOSE: residential UD; tenant's retaliatory eviction (Civ. Code 1942.5) defense claim held forfeited for inadequate record/briefing; judgment for rent/holdover affirmed,,,,,1
+11504638,0,Employment FEHA/leave claims; no landlord-tenant issue,,,,,0

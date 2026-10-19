@@ -1,0 +1,977 @@
+cl_opinion_id,at_issue,note,second_at_issue,second_note,tiebreak_at_issue,tiebreak_note,final
+4505456,1,CLOSE: staffing-agency class settlement does not bar nurse's wage claims against client joint employer (res judicata/privity),,,,,1
+4507310,1,Exit search time compensable as hours worked,,,,,1
+4508315,1,Choice of law for crew members' California wage and hour claims (Louisiana law applies),,,,,1
+4515584,1,PAGA standing survives settlement of individual claims,,,,,1
+4523417,1,FEHA claims vs staffing agencies and harasser; limitations period,,,,,1
+4528365,1,FEHA gender discrimination verdict reversed; errors re retaliation claim and discrimination evidence,,,,,1
+4530032,1,Workplace retaliation verdict; punitive damages reduced,,,,,1
+4532281,1,Wrongful termination in violation of public policy stated against union employer,1,Union employee's wrongful discharge in violation of public policy claim stated,,,1
+4540070,0,CLOSE: collateral estoppel after decertification in wage class action; procedural class ruling only,,,,,0
+4542895,0,Arbitration agreement carve-out excludes PAGA claims; contract interpretation only,0,CLOSE: arbitration agreement excludes PAGA representative actions; contract interpretation only,,,0
+4544883,1,California wage statement law applies by principal place of work (airline employees),,,,,1
+4544885,1,"Wage statement, pay timing and minimum wage laws for flight attendants",1,California wage laws applied to flight attendants,,,1
+4545187,1,Meal/rest period and time-rounding wage claims; summary judgment affirmed,,,,,1
+4546109,1,Wage Order 16 CBA exemption and meal period claims; summary judgment reversed,,,,,1
+4547620,1,Work-program participant not an employee under FEHA,,,,,1
+4548413,0,"CLOSE: ALRB unfair labor practice (bad faith bargaining) between employer and union; labor relations, not an employee-employer claim",,,,,0
+4549931,0,Arbitration agreement not unconscionable; no employment-law issue,1,"CLOSE: Armendariz requirements for unwaivable statutory claims (adequate discovery, costs) held satisfied; otherwise general unconscionability",1,"Fired employee's suit; employer's motion to compel arbitration. Mostly general unconscionability (does not count), but the court separately decides the Armendariz unwaivable-statutory-rights challenge: discovery limits are adequate and the filing-fee provision complies with Armendariz for employment claims. That Armendariz ruling is an employment-law issue under the definition.",1
+4555463,1,PAGA claim preclusion and standing for post-termination violations,,,,,1
+4556295,0,Personal jurisdiction over foreign manufacturer; not employment,0,Distribution agreement; personal jurisdiction,,,0
+4556530,1,Race/national origin discrimination and retaliation; summary judgment and costs affirmed,,,,,1
+4558679,1,Store managers' overtime exemption verdict affirmed,,,,,1
+4558866,1,"CLOSE: arbitration of employee's harassment claims, but court holds fee provisions violate FEHA fee rule (12965) under Armendariz",1,Arbitration fee/cost and attorney fee terms violate Armendariz FEHA protections; severed,,,1
+4560870,1,FEHA failure to accommodate and interactive process; summary judgment affirmed,,,,,1
+4562376,1,Labor Code 1102.5/98.6 whistleblower and public policy claims; summary judgment affirmed,,,,,1
+4564135,0,DFEH Unruh Act public accommodation case (bakery); not employment,,,,,0
+4564136,0,DFEH Unruh public accommodation action; attorney fees; not employment,,,,,0
+4565580,0,Motion to compel arbitration denied on signature authenticity; no employment-law issue,0,Assent to employment arbitration agreement only,,,0
+4567801,1,PAGA claims over confidentiality policies not preempted by NLRA,,,,,1
+4573567,1,"FEHA discrimination, harassment, retaliation; summary judgment affirmed",,,,,1
+4577640,1,"CLOSE: arbitration appeal, but court holds PAGA-only action indivisible so aggrieved-employee status cannot be arbitrated",,,,,1
+4579729,0,Optometrist provider agreement arbitration; not employment,,,,,0
+4580959,1,Teacher's FEHA harassment exhaustion and Education Code retaliation claims; demurrer affirmed,,,,,1
+4581581,1,Disability discrimination trial; evidence exclusion and supervisor status,1,FEHA disability discrimination,,,1
+4581586,1,Labor Code 925 lets employee void forum-selection clause,1,Lab. Code 925 forum-selection clause voidable,,,1
+4582057,1,"CLOSE: arbitration appeal, but court reaffirms Iskanian rule that PAGA waivers are unenforceable",,,,,1
+4584067,1,FEHA discrimination/retaliation judgment affirmed on inadequate record,,,,,1
+4585272,0,Arbitrator bias and costs in confirming award; underlying wrongful termination claims not decided,,,,,0
+4586326,0,Unruh Act claim against school district by student; not employment,,,,,0
+4587114,1,Tameny wrongful termination judgment affirmed,1,Wrongful termination in violation of public policy judgment affirmed,,,1
+4614253,0,Pro hac vice revocation in wage case; no employment-law issue decided,,,,,0
+4635474,1,CLOSE: People's suit; preliminary injunction on Uber/Lyft drivers' misclassification under ABC test (Labor Code),,,,,1
+4635945,1,Age discrimination; FEHA exhaustion of disparate impact/class claims and summary judgment,1,FEHA age discrimination; exhaustion and summary judgment,,,1
+4638862,0,Student religious discrimination claim against school district; not employment,0,Student religious discrimination; no employment issue,,,0
+4639828,1,Employment race discrimination and retaliation; summary judgment affirmed,,,,,1
+4640181,1,"On remand, California wage and hour law applies to offshore crew",,,,,1
+4640649,1,Race/gender discrimination and wrongful termination; summary judgment affirmed,,,,,1
+4641048,1,"CLOSE: arbitration appeal, but court holds PAGA waiver unenforceable under Iskanian (PAGA-law issue) despite opt-out",,,,,1
+4645371,1,PAGA prefiling notice sufficiency,,,,,1
+4646822,1,Probationary court employee's whistleblower retaliation claim; summary judgment affirmed,,,,,1
+4647976,0,Voting Rights Act case; employment only in background,0,Voting rights act; no employment issue,,,0
+4649508,0,CLOSE: wage class settlement reversed for failure to explain adequacy of class representative; procedural only,,,,,0
+4651150,0,Hospital fine; equitable tolling; not employment,0,Hospital fine; administrative mandamus timeliness; no employment issue,,,0
+4651541,1,Dynamex ABC test for employee status under wage orders applies retroactively,,,,,1
+4651671,1,FEHA disability discrimination and accommodation; summary judgment affirmed,,,,,1
+4655501,0,Employer's malicious prosecution suit against employee's lawyers (anti-SLAPP); excluded,,,,,0
+4655931,1,"Race discrimination, harassment, retaliation claims; summary judgment affirmed",,,,,1
+4655939,1,FEHA retaliation and failure to prevent; summary judgment affirmed,,,,,1
+4656421,1,"CLOSE: arbitration appeal, but court holds predispute agreement to arbitrate PAGA claims unenforceable without state consent",,,,,1
+4656434,1,FEHA/CFRA and wrongful termination; summary adjudication and trial errors,,,,,1
+4656734,1,Wrongful termination (age) claim; equitable tolling during grievance,,,,,1
+4658575,1,FEHA failure to prevent harassment/retaliation; response to jury question,,,,,1
+4661086,1,Venue for PAGA action,,,,,1
+4661336,1,FEHA accommodation claim adequately pled; other FEHA claims fail,,,,,1
+4662407,1,"CLOSE: arbitration appeal, but court holds PAGA waiver unenforceable under Iskanian (PAGA-law issue)",,,,,1
+4662922,1,Meal period rounding and time-record presumption,,,,,1
+4665070,1,CLOSE: wrongful death by employee's heirs for workplace bullying; workers' comp exclusivity and fundamental public policy exception decided,1,Workers' comp exclusivity bars wrongful death claim based on workplace harassment of employee,,,1
+4665398,1,PAGA penalties against CSU reversed; Labor Code retaliation evidentiary rulings,,,,,1
+4667715,0,Motion to compel arbitration denied (different contract); no employment-law issue decided,,,,,0
+4669285,0,"CLOSE: unemployment insurance tax refund; Borello employee classification but dispute is employer vs EDD, not employee claim",,,,,0
+4671034,1,"FEHA discrimination, retaliation, harassment by police employees; summary judgment affirmed",,,,,1
+4671670,1,"Race, gender, age discrimination and retaliation; summary judgment affirmed",,,,,1
+4672527,1,CLOSE: arbitration appeal; court holds class waiver of wage claims unenforceable under Gentry (wage-law rights) after FAA exemption,1,Gentry class action waiver unenforceable; FAA transportation-worker exemption,,,1
+4677681,1,Wrongful termination (medical condition) punitive damages and managing agent affirmed,,,,,1
+4678943,1,"CLOSE: employees' negligent supervision claim against employer for coworker's hidden camera; no duty, leave to add FEHA denied",1,"CLOSE: employees' workplace claims vs employer; court rejects FEHA/Lab. Code 6400 as basis for direct liability, otherwise government tort liability",,,1
+4681137,0,Insurance coverage / third party beneficiary; not employment,,,,,0
+4682879,1,"FEHA discrimination, retaliation and whistleblower claims; summary judgment affirmed",,,,,1
+4685464,1,Class certification denied on second meal break claims,,,,,1
+4687832,0,"CLOSE: dismissal for failure to amend; only employer-related ruling is forfeited workers' comp exclusivity argument on battery claim, no employment-law claim decided",,,,,0
+4688685,0,Enforcement of settlement in disability discrimination case; contract formation only,,,,,0
+4690772,1,Employee retaliation claims; summary judgment affirmed,1,Retaliation summary judgment affirmed,,,1
+4691927,1,Retaliation and race discrimination; summary judgment for CDCR affirmed,,,,,1
+4700009,1,Minimum wage claim; costs/fees under Lab. Code 1194 decided,,,,,1
+4700631,0,"CLOSE: wage claims, but court decides only FAA transportation-worker exemption to compel arbitration",,,,,0
+4700964,1,Minimum wage and rest period under productivity pay plan (Oman),,,,,1
+4700999,1,Joint employer liability for wage statement and waiting time penalties; PAGA,,,,,1
+4701893,1,FEHA disability discrimination verdict and related employment claims reviewed,,,,,1
+4703877,1,Ferra: meal/rest premium pay 'regular rate of compensation' under Lab. Code 226.7 decided,,,,,1
+4704935,1,Per coordinator clarification: Iskanian PAGA-waiver unenforceability reaffirmed against FAA preemption arguments,,,,,1
+4706395,1,Pollock: FEHA failure-to-promote limitations accrual and FEHA appellate costs rule,,,,,1
+4706920,1,Age and disability employment discrimination; nonsuit/judgment affirmed,,,,,1
+4707003,0,Consumer money-transfer arbitration; not employment,0,Consumer arbitration; no employment issue,,,0
+4707313,1,FEHA disparate impact age discrimination by retired judges; immunity and pleading sufficiency decided,1,FEHA disparate impact age discrimination by retired judges; immunity,,,1
+4709486,1,Iskanian/state-consent holding that PAGA claims cannot be compelled to arbitration; also rejects LMRA preemption of PAGA claims,1,PAGA claims not arbitrable under predispute agreement (Iskanian); FAA no preemption,,,1
+4710055,1,FEHA aiding and abetting claim (and Ralph Act/UCL) against non-employer arising from termination; summary judgment reviewed,,,,,1
+4710380,1,FEHA age/national origin discrimination and retaliation in promotions; Labor Code pay claim,,,,,1
+4765426,1,FEHA racial harassment verdict; economic damages issue,1,FEHA verdict; damages,,,1
+4766136,1,Anti-SLAPP: employee's Lab. Code 2802 indemnification claim has probability of prevailing; other claims addressed,,,,,1
+4879580,0,Wage/PAGA case but court decides only waiver of right to arbitrate,,,,,0
+4879581,1,CLOSE: rest-break class certification denial affirmed; court addresses rest-break policy lawfulness under CBAs and wage orders,,,,,1
+4880372,1,CFRA leave and FEHA retaliation verdict for CHP employee affirmed,1,CFRA/FEHA termination verdict,,,1
+4880805,1,Same Herrera opinion (modified version): Iskanian/state-consent PAGA holding; LMRA preemption of PAGA claims rejected,,,,,1
+4911519,1,Travel time compensation law and class certification of wage claims,,,,,1
+5095610,1,Lab. Code 1102.5 retaliation jury verdict and summary adjudication affirmed,1,Lab. Code 1102.5 retaliation verdict (no adverse action) affirmed,,,1
+5116133,1,FEHA discrimination and retaliation; demurrer reversed,1,FEHA discrimination/retaliation demurrer reversed,,,1
+5119414,1,CLOSE: Labor Commissioner intervention; court construes Lab. Code 98.7 retaliation-complaint process as independent of employee's arbitration,,,,,1
+5119417,1,PAGA claim fails because defendant not plaintiff's employer (aggrieved employee definition),,,,,1
+5119695,1,Wrongful termination/retaliation and related employment claims; summary judgment for employer affirmed,,,,,1
+5120949,1,"CLOSE: mostly arbitration (delegation, fraud in execution), but court holds Version One PAGA waiver contrary to unwaivable PAGA right (Iskanian) as unconscionability ground",,,,,1
+5122112,0,Civil harassment restraining order venue; not employment,,,,,0
+5125576,0,Personal injury/public entity immunity; not employment,,,,,0
+5130359,1,PAGA settlement approval standard and allocation of civil penalties decided,1,PAGA settlement objections,,,1
+5130565,1,PAGA prefiling notice sufficiency,1,PAGA prefiling notice sufficiency; Khan distinguished,,,1
+5130679,1,Lab. Code 226 wage statements for flight attendants (Ward) decided,1,Lab. Code 226 wage statements for flight attendants,,,1
+5131402,1,FEHA and Lab. Code 1102.5 retaliation/constructive discharge; summary judgment affirmed,,,,,1
+5132129,0,Priest's defamation anti-SLAPP; not an employment claim,,,,,0
+5132185,1,"CLOSE: arbitration denial, but court decides FEHA retaliation is a form of statutory employment discrimination under FEHA",,,,,1
+5133740,1,Whistleblower (Lab. Code 1102.5) and FEHA retaliation; summary judgment for city affirmed,,,,,1
+5135336,0,Attorney fee collection arbitration; not employment,,,,,0
+5136023,1,Volunteers not employees absent expectation of pay; class certification denial affirmed,,,,,1
+5175971,1,PAGA: commission plan not unlawful deductions under Lab. Code 221/223,,,,,1
+5176407,1,Breach of good-cause employment agreement; Cotran good-cause instruction error,,,,,1
+6104660,0,"CLOSE: anti-SLAPP prong one only; employment claims held not protected activity, no employment-law issue decided",,,,,0
+6113286,1,Lawson: Lab. Code 1102.6 framework governs 1102.5 whistleblower retaliation claims,,,,,1
+6113672,0,CLOSE: FEHA case but court decides only whether arbitration agreement existed (substantial evidence),,,,,0
+6215872,1,PAGA relation back of amended complaint substituting plaintiff,,,,,1
+6216804,1,FEHA sexual harassment: supervisor status and county liability for coworker harassment decided on summary adjudication,,,,,1
+6226420,0,Wrongful termination suit but appeal dismissed for lack of appellate jurisdiction; no employment issue decided,,,,,0
+6226421,0,Quiet title/res judicata; wage case only cited by analogy,,,,,0
+6226547,1,FEHA disability discrimination and retaliation; summary judgment affirmed,1,FEHA disability discrimination summary judgment,,,1
+6226562,0,Employment claims but court decides only arbitration delegation,,,,,0
+6315936,1,Lab. Code 970 misrepresentation to job applicant; summary judgment reversed,,,,,1
+6316576,1,FEHA retaliation/harassment jury trial issues and laches defense to FEHA claims,,,,,1
+6317715,0,Business partners' arbitration dispute; not employment,,,,,0
+6318669,1,"Lab. Code sec. 925 (employee forum/choice-of-law protection) vs compulsory cross-complaint and full faith and credit, employer v. former employee",,,,,1
+6319426,1,"FEHA claims by deputy; prima facie case not established, summary judgment affirmed",,,,,1
+6319826,0,Fair housing gentrification claim; not employment,,,,,0
+6321205,1,FEHA failure to accommodate and interactive process; summary judgment reversed,,,,,1
+6323010,1,FEHA gender harassment and aiding-and-abetting claims against principal and superintendent; demurrer affirmed,,,,,1
+6323927,1,Medical resident is employee; academic deference inapplicable to FEHA discrimination/retaliation; reversed,,,,,1
+6325221,0,CLOSE: Labor Commissioner wage settlement enforced; only settlement execution/evidence issues decided,,,,,0
+6326273,0,Caltrans home sale price statute; not employment,,,,,0
+6331084,0,HOA dispute; not employment,,,,,0
+6332510,1,PAGA claim under Lab. Code 226(a)(9) wage statement overtime rate; demurrer ordered sustained,,,,,1
+6332964,0,CLOSE: discovery writ (apex deposition/privilege) in whistleblower case; no employment-law issue decided,,,,,0
+6336213,0,Securities federal forum provision; not employment,,,,,0
+6336508,1,"CLOSE: per coordinator clarification; Kho holding that agreement stripping Berman wage-claim protections is unenforceable (wage right), not only general unconscionability",,,,,1
+6336664,1,"FEHA third-party harassment and retaliation claims; demurrer sustained, affirmed",,,,,1
+6339590,1,Per coordinator clarification: Iskanian holding that PAGA representative right cannot be waived/compelled to arbitration,,,,,1
+6339635,1,CLOSE: intervention denial in wage/PAGA class action; court decides labor-contractor workers were LPF employees (joint employer) and PAGA settlement scope,,,,,1
+6343045,1,Naranjo: meal/rest premiums are wages for Lab. Code 226 and 203,,,,,1
+6344321,1,CLOSE: per coordinator clarification; relief from award rests on Armendariz rule that employee cannot bear arbitration-unique costs for wage claims (non-waivable employment right),,,,,1
+6345619,1,"Age/national origin discrimination, whistleblower, CFRA wrongful termination; summary adjudication affirmed",,,,,1
+6349806,0,Intervention appeal in wage/PAGA class settlement dismissed as moot (procedural; no employment-law ruling),,,,,0
+6350217,1,FEHA claims time-barred; equitable tolling of DFEH filing rejected,,,,,1
+6351182,1,CLOSE: PAGA representative in overlapping action has interest to intervene in PAGA settlement; PAGA issue decided,,,,,1
+6353082,1,CLOSE: unconscionability ruling includes holding fee clause improperly overrides Lab. Code 218.5 one-way fee protection for wage claims (non-waivable wage right),1,"CLOSE: mostly general unconscionability, but fee term held unconscionable for overriding Lab. Code 218.5 wage-claim fee right",,,1
+6495938,1,FEHA retaliation summary adjudication affirmed; FEHA costs award,,,,,1
+6497950,1,CLOSE: nurse's Labor Code claims against hospital (alleged joint employer) held not barred by claim preclusion from staffing-agency settlement,,,,,1
+6498545,0,Motion to vacate PAGA settlement in another department; jurisdictional ruling only,,,,,0
+6499124,1,FEHA harassment/failure to prevent: no employment relationship shown (sec. 12940(j)); affirmed,,,,,1
+6500780,0,Housing discrimination (Unruh/FEHA housing); no employment issue,,,,,0
+6724246,0,Anti-SLAPP on abuse of process and IIED claims over police report; personal-assistant employment only in facts,,,,,0
+6800391,0,Partnership dispute; Penal Code 496 treble damages; no employment issue,,,,,0
+6800526,1,"DLSE wage claims: limitations, personal liability of CEO, liquidated damages and penalties",,,,,1
+6800531,1,FEHA pregnancy discrimination claims; summary judgment reversed,,,,,1
+6800890,1,CLOSE: anti-SLAPP denied as to employee's wage-and-hour cross-complaint against employer; wage claims do not arise from protected activity,0,"CLOSE: anti-SLAPP prong one only; wage cross-complaint not based on protected activity, no employment-law issue decided",0,"CLOSE: Worker's cross-complaint alleges misclassification, wage/hour, Labor Code and PAGA claims. The only issue decided is anti-SLAPP prong one: the claims do not arise from the employer's protected act of filing its own cross-complaint. The court expressly does not reach the merits or probability of prevailing (fn. 7). Like an arbitration-only ruling, this is a procedural ruling in an employment case with no employment-law issue decided.",0
+7275462,0,CCP 1281.97-1281.99 arbitration fee statute not FAA-preempted; arbitration-procedure ruling only,,,,,0
+7369447,1,CLOSE: challenges to summary adjudication of wrongful termination/whistleblower claims deemed abandoned; CANRA disclosure arguments rejected,,,,,1
+7374859,1,Police officer's employment discrimination/retaliation claims; summary judgment affirmed,,,,,1
+7374914,1,CLOSE: People's UCL misclassification action not bound by workers' arbitration agreements (state-consent holding),,,,,1
+7635842,1,PAGA claim under Lab. Code 201.3 weekly pay for temporary security guards; exception applied,,,,,1
+7796858,0,Arbitration agreement interpreted to allow class arbitration of wage claims; arbitration-only ruling,,,,,0
+7797833,0,Unruh Act liability of public school district; no employment issue,0,Unruh Act school district; no employment issue,,,0
+7798428,0,"CLOSE: whether employee in DFEH FEHA suit may proceed under pseudonym; procedural anonymity ruling, no employment-law issue",0,"CLOSE: DFEH employment discrimination suit, but only issue is pseudonymity of employee",,,0
+7798429,1,DFEH not bound by employee's arbitration agreement; FEHA enforcement action cannot be compelled to arbitration,,,,,1
+7803405,0,Tenant lease dispute; Civ. Code 1717 fee timing; no employment issue,0,Tenant dispute; attorney fees,,,0
+7803614,0,CLOSE: motion to compel arbitration in FEHA case; contract assent/replacement and general unconscionability (Armendariz discovery adequacy cited in passing); no employment-law issue decided,,,,,0
+7803615,0,Waiver of right to arbitrate by litigation conduct; arbitration-only ruling,0,Waiver of right to arbitrate only,,,0
+7804009,1,Discovery into immigration status barred in wrongful termination case under SB 1818 (Lab. Code 1171.5),,,,,1
+7804614,0,"CLOSE: FEHA claim against architects licensing board (not employer) dismissed as time-barred; licensing, not employment relationship",,,,,0
+7804622,1,Public employee termination upheld on writ of administrative mandate (civil service discipline),,,,,1
+7806168,1,PAGA exemption for construction workers under CBA (Lab. Code 2699.6) decided; arbitration compelled,,,,,1
+7806799,0,Law firm fee dispute with former client; employment suit only in background,,,,,0
+7807123,1,FEHA sexual harassment/retaliation summary judgment affirmed; Fair Pay Act (Lab. Code 1197.5) costs award reversed,,,,,1
+8205857,1,Lab. Code 218.5 attorney fees for meal/rest break claims after Naranjo; fee award affirmed,,,,,1
+8206360,1,CLOSE: CBA does not clearly and unmistakably waive judicial forum for statutory wage claims; motion to compel denied,,,,,1
+8206471,1,FEHA race discrimination failure-to-promote claims; summary judgment for BART affirmed,,,,,1
+8206768,0,Employer failed to prove existence of arbitration agreement; arbitration-only ruling,,,,,0
+8208264,0,Motion to quash subpoena and fees; no employment issue,,,,,0
+8209747,1,"Summary judgment affirmed on FEHA harassment, discrimination, retaliation, Lab. Code 1102.5 and wrongful termination claims",,,,,1
+8210922,1,"CLOSE: PAGA post-Viking: individual PAGA claims compelled to arbitration, wholesale PAGA waiver rule noted and severed, non-individual claims stayed",,,,,1
+8213495,0,Aircraft restoration fraud case; discovery sanction; no employment issue,,,,,0
+8374029,1,FEHA disability accommodation/wrongful termination claims; summary judgment affirmed,,,,,1
+8404030,1,Wage claim over time-rounding policy; rounding unlawful where employer captures all time,,,,,1
+8405252,0,CLOSE: anti-SLAPP rulings on employer's suit and on worker's claims against employer's attorney (excluded); no employer-employee claim decided,,,,,0
+8406191,1,Employee's FEHA discrimination/retaliation claims; writ directing summary judgment for city,,,,,1
+8444722,0,CLOSE: arbitrator exceeded powers by adding fee award to final award in wrongful termination arbitration; arbitration-procedure ruling only,,,,,0
+8482718,1,CLOSE: Lab. Code 925 construed (invoking it does not automatically void out-of-state forum); employee status delegated to arbitrator,,,,,1
+8484379,1,"FEHA disability discrimination, accommodation and interactive-process claims; summary judgment reversed",,,,,1
+8484579,0,Real estate purchase fee dispute; no employment issue,,,,,0
+8488266,1,PAGA waiver in arbitration agreement unenforceable under surviving Iskanian rule; agreement unconscionable,,,,,1
+9297157,0,Employer waived right to arbitrate FEHA claims; arbitration-only ruling,0,Waiver of right to arbitrate only,,,0
+9297674,1,"FEHA harassment, disability discrimination, retaliation and wrongful termination; demurrer/summary judgment affirmed",,,,,1
+9322976,1,Employee vs. independent contractor test (Borello vs. ABC) for wrongful termination claims; jury instructions,1,Independent contractor vs employee test,,,1
+9323655,1,"FEHA retaliation, discrimination, wrongful termination and contract claims; demurrer reversed",,,,,1
+9327867,1,"FEHA sexual harassment, discrimination, retaliation; summary adjudication affirmed for employer, reversed as to coworker",,,,,1
+9346532,0,Existence of arbitration agreement with staffing agency; arbitration-only ruling,,,,,0
+9346533,1,"CFRA, FEHA, Lab. Code 432.7 and public policy termination claims; summary judgment affirmed",,,,,1
+9348500,1,PAGA: test for real estate salesperson employee status under Lab. Code 2778(c)(1),,,,,1
+9348506,1,CLOSE: arbitration provision unconscionable partly because it deprives employee of unwaivable Labor Code remedies (fees/costs) under Armendariz,,,,,1
+9348962,1,Misclassification as exempt employee; Labor Code overtime claims; judgment affirmed,,,,,1
+9350810,1,Lab. Code 204(d) weekly wage timing with CCP 12a weekend extension; PAGA claim,,,,,1
+9350840,0,CLOSE: forum non conveniens stay of former employee's suit; forum ruling only,,,,,0
+9352039,1,"FEHA injunctive relief can be a public injunction whose waiver is unenforceable (McGill), not preempted by FAA",1,FEHA injunctions are public injunctions not arbitrable,,,1
+9352593,0,CLOSE: employer waived right to arbitrate nurses' wage claims by delay; Berman hearing discussion not the basis of decision; arbitration-only ruling,,,,,0
+9353152,1,Age/race discrimination and retaliation termination claims; summary judgment affirmed,,,,,1
+9364693,1,"CLOSE: arbitration assent found; Armendariz minimum requirements for FEHA claims implied into agreement, so not unconscionable",,,,,1
+9365038,1,CLOSE: public-employee pension contribution (benefits) claims; class certification denial reversed with subclasses; procedural ruling in benefits claim,,,,,1
+9365354,1,CLOSE: class certification denied on Lab. Code 2802 apparel reimbursement claim; procedural ruling in wage claim,,,,,1
+9365715,0,Elder abuse case against senior living facility; arbitration unconscionability; no employment issue,0,Elder abuse arbitration; no employment issue,,,0
+9365733,0,CLOSE: FEHA disability appeal dismissed as untimely; merits not reached,,,,,0
+9366722,0,CLOSE: adding alleged owner as judgment debtor (alter ego/due process) on wage-claim default judgment; enforcement issue only,,,,,0
+9366791,1,Lab. Code 226 wage statement claims; release scope and in limine rulings reversed,,,,,1
+9367019,0,Political Reform Act fee standard; employment laws mentioned only by analogy,,,,,0
+9368085,0,"Arbitration agreement unconscionable for lack of mutuality and not severable; general unconscionability, no employment-law issue",,,,,0
+9368764,1,"Labor Code and PAGA claims against public hospital system: sovereign powers doctrine, municipal corporation exemptions",,,,,1
+9369511,1,"FEHA disability discrimination, accommodation, interactive process, retaliation; summary judgment affirmed",,,,,1
+9370103,1,PAGA: individual claims arbitrable post-Viking; non-individual PAGA claims may proceed in court,,,,,1
+9375154,1,PAGA: Iskanian representative-waiver rule survives Viking River; plaintiff retains PAGA standing for non-individual claims,,,,,1
+9375486,0,CLOSE: PAGA appeal dismissed as from nonappealable order; PAGA notice issue not reached,,,,,0
+9377142,1,"Former employee v. employer/CEO: workers' comp exclusivity, fraudulent inducement of employment contract, battery/IIED on demurrer",,,,,1
+9377448,1,PAGA: individual claims arbitrable post-Viking; non-individual PAGA claims may proceed in court (modified opinion),,,,,1
+9377488,1,PAGA: individual claims arbitrable; plaintiffs retain standing for representative PAGA claims in court,,,,,1
+9378874,1,CLOSE: forum selection clause enforced; holds Lab. Code 925 inapplicable and UCL wage claim not shown unwaivable,,,,,1
+9379137,0,CLOSE: judicial disqualification writ in wrongful termination suit; no employment-law issue decided,,,,,0
+9379444,1,"FEHA sexual harassment, discrimination, retaliation, constructive termination; summary judgment affirmed",,,,,1
+9379482,1,"Personal liability of CEO for wage and hour violations (Lab. Code 558.1, wage orders, alter ego)",,,,,1
+9379985,1,FEHA harassment and retaliation claims by former UC employee; timeliness and causation; summary judgment affirmed,,,,,1
+9380033,1,FEHA pregnancy accommodation (Gov. Code 12945) elements and discrimination claims after bench trial,,,,,1
+9380217,0,"CLOSE: age discrimination claims against Supreme Court over bar exam; licensing, not employment; government immunity",0,"CLOSE: bar applicant's age discrimination claim vs Supreme Court; FEHA licensing-board provision held inapplicable, no employer relationship",,,0
+9380417,0,Malicious prosecution/unclean hands; no employment issue,,,,,0
+9380671,0,Wage case; only arbitration consent decided,,,,,0
+9381770,1,Paid sick leave statute (s.248.5) and PAGA; reverses dismissal,,,,,1
+9385622,0,Housing element law; no employment issue,,,,,0
+9385649,1,"PAGA: individual claims arbitrable, non-individual PAGA claims remain in court (standing)",,,,,1
+9386227,1,CLOSE: former employee's defamation suit vs employer over termination; decides employment-context common-interest privilege and compelled self-publication; no statutory employment claim,0,"CLOSE: ex-employee's defamation claim against employer (privilege, self-publication, new trial); tort rather than employment-law claim",1,"CLOSE: Fired sales VP's defamation suit against his former employer and executives over the stated reasons for his termination. Court decides the common-interest privilege for employer statements explaining discipline (malice), compelled self-publication to a later employer, and respondeat superior for coworker statements. It affirms the new trial order and orders JNOV on one theory. This is a claim between employee and employer arising from discharge, though the trial court stressed it was not a wrongful-termination case.",1
+9386228,0,"CLOSE: FEHA/PAGA case; arbitration held unconscionable on general grounds (mutuality, confidentiality); court expressly does not reach PAGA waiver",,,,,0
+9386880,1,Affirms SJ on race discrimination/wrongful termination claims,,,,,1
+9387342,1,"Reverses SJ on employee's retaliation, disability discrimination/harassment claims vs employer",1,Retaliation/wrongful termination summary judgment reversed,,,1
+9388049,1,EMT meal/rest period claims barred by Lab. Code 880-890 (Prop 11),,,,,1
+9388777,0,Wrongful termination case; arbitration not substantively unconscionable (general); PAGA issue noted as forfeited,,,,,0
+9389203,1,CLOSE: arbitration agreement invalid via poison-pill clause triggered by unenforceable PAGA representative waiver (Iskanian),,,,,1
+9389499,1,FEHA disability discrimination verdict and fee award affirmed,1,"FEHA disability discrimination verdict, fees",,,1
+9390526,1,"Affirms SJ on FEHA claims; continuing violation, limitations",1,"FEHA claims; continuing violation, summary judgment",,,1
+9390840,0,Wrongful termination case; only arbitration mutual consent decided,,,,,0
+9391014,1,FEHA age discrimination; ministerial exception triable issue,,,,,1
+9392399,0,HOA parking arbitration; no employment issue,,,,,0
+9393271,1,Lab. Code 226 wage statement liability; LMRA preemption of unpaid wage claims,1,Adjunct wage claims LMRA-preempted; Lab. Code 226 and 515.7 issues,,,1
+9393570,1,PAGA claim; employer not willful re final wages; SJ affirmed,,,,,1
+9393684,1,Upholds retroactive Labor Code worker-classification statute (s.2785) against employee's claim,,,,,1
+9394534,0,Anti-SLAPP in defamation suit by employer vs employees' lawyer; not an employee-employer claim,,,,,0
+9395033,0,Parolee suit vs parole agents; immunity; no employment issue,,,,,0
+9395281,1,"CLOSE: plaintiff is a non-employee, but court decides FEHA 12940(h) retaliation claim (covers non-employees; no adverse employment action)",,,,,1
+9395823,0,Residential lease; no employment issue,,,,,0
+9396197,1,FEHA disability discrimination re flu vaccine requirement; SJ affirmed,,,,,1
+9396205,1,"PAGA settlement judgment not vacated after ZB, N.A. (unpaid wages under s.558)",,,,,1
+9396253,1,Affirms SJ on FEHA race/age discrimination and retaliation claims,,,,,1
+9396258,0,"Wage class action, but only judicial disqualification decided",,,,,0
+9396774,0,"Forum selection clause, privacy act; no employment issue",,,,,0
+9397216,1,"FEHA retaliation verdict reversed for evidentiary error (pre-complaint conduct, EEO complaints)",,,,,1
+9397612,1,CLOSE: arbitration of Berman de novo wage appeal held unconscionable under OTO v. Kho wage-claim-specific rules and Lab. Code 98.2,,,,,1
+9398554,1,"CLOSE: arbitration petition, but decides union can waive employees' judicial forum for statutory Labor Code wage claims via CBA (Penn Plaza) and clear-and-unmistakable waiver",,,,,1
+9399857,1,Anti-SLAPP: probability of prevailing on FEHA harassment/retaliation and constructive discharge claims,,,,,1
+9401664,1,Wrongful termination/retaliation SJ partly reversed,,,,,1
+9401762,0,"Wage class action, but only judicial disqualification decided",,,,,0
+9402433,1,FEHA age discrimination/retaliation/harassment and 1102.5 claims; SJ partly reversed,,,,,1
+9403824,1,"Affirms SJ on FEHA age discrimination/harassment, wrongful termination claims",,,,,1
+9404975,0,Partition appeal; employee's employment claims bifurcated and not before court,,,,,0
+9405281,0,Song-Beverly consumer warranty release; no employment issue,,,,,0
+9405289,1,"Affirms SJ on Airbnb cohost's FEHA/1102.5 retaliation, wrongful termination, harassment claims vs her employers",1,"Retaliation, wrongful termination, Lab. Code 1102.5 claims decided on summary judgment",,,1
+9405292,0,Wage class action; arbitration lacks mutuality (general unconscionability),,,,,0
+9406357,1,Anti-SLAPP: Lab. Code 1102.5 retaliation claim by city treasurer,,,,,1
+9407165,1,Retaliation/discrimination SJ affirmed; no pretext,,,,,1
+9408125,1,PAGA/Lab. Code 2802 reimbursement of work-from-home expenses,,,,,1
+9408126,0,Attorney disqualification for concurrent conflict; no employment issue decided,,,,,0
+9408805,1,Employees' Anaheim Living Wage Ordinance claim; Disney covered (City Subsidy),,,,,1
+9409041,1,CLOSE: PAGA arbitration; individual PAGA claim compelled under Viking River; arbitrability of non-individual PAGA claims left to arbitrator,,,,,1
+9409286,1,PAGA standing for non-individual claims after individual claims arbitrated,,,,,1
+9411809,0,Sexual assault claims revival vs massage franchise; no employment issue,,,,,0
+9411976,1,"CLOSE: affirms SJ for UC on termination-related claims; rejects argument employer's evidence did not show misconduct termination, mostly on procedural grounds",,,,,1
+9415717,1,"CFRA retaliation, disability discrimination, Labor Code wage claims vs city",,,,,1
+9440712,0,Nonprofit director standing; no employment issue,,,,,0
+9554647,1,"Wage and hour class certification, PAGA, SJ on rounding and rest break claims",,,,,1
+9555675,1,County employee's termination writ barred by res judicata and limitations,,,,,1
+9556354,0,Whistleblower case; only waiver of right to arbitrate decided,,,,,0
+9556894,1,CLOSE: PAGA default judgment; decides plaintiff is prevailing party in PAGA action for fees and PAGA penalty distribution costs; mostly CCP 580/fee issues,,,,,1
+9558193,1,FEHA 'employer' includes employer's business-entity agent; applicant medical inquiries,,,,,1
+9639094,0,"CLOSE: employment discrimination/wage case, but only denial of 437c(h) continuance reviewed; no employment-law ruling",,,,,0
+9690311,1,"CLOSE: arbitration; applies Armendariz to FEHA claims, holding fee and cost-splitting terms unlawful as to FEHA rights and severing them",,,,,1
+9693877,1,Reverses demurrer on FEHA race discrimination/harassment claims vs city employer,,,,,1
+9695051,1,FEHA claims untimely; SJ on whistleblower and wrongful termination claims affirmed,,,,,1
+9752402,0,"CLOSE: PAGA suit vs employer, but only issue decided is CCP 128.7 sanctions for frivolous sanctions motion; no employment-law ruling",,,,,0
+9758000,0,Wildfire tort; class action tolling,,,,,0
+9779546,1,PAGA action: timeliness (COVID tolling) and claim preclusion from prior PAGA judgment,,,,,1
+9779547,1,Lab. Code 2802 does not apply to CSU; PAGA claim fails,,,,,1
+9782684,1,FEHA failure to accommodate/interactive process; SJ affirmed,,,,,1
+9839088,1,"1102.5 retaliation, wrongful termination, FEHA verdict; at-will instruction and evidence rulings",1,Retaliation/wrongful termination; at-will instruction,,,1
+9839106,1,CLOSE: public employee's wrongful termination claim under Brown Act personnel exception fails,,,,,1
+9840677,0,Wage case; only arbitration mutual-assent issue decided,,,,,0
+9840951,0,Wage case; only existence of arbitration agreement decided,,,,,0
+9840952,0,Employment case; only waiver of right to arbitrate decided,0,Waiver of right to arbitrate only,,,0
+9840963,0,Marital dissolution; no employment issue,,,,,0
+9840972,0,Wage case; only CCP 2033.420 cost-of-proof fees decided,,,,,0
+9865482,0,Attorney-client fee dispute; no employment issue,,,,,0
+9865589,1,Affirms SJ on FEHA disability discrimination claims; fees/costs,,,,,1
+9865593,1,"CLOSE: PAGA arbitration; applies Viking River/Adolph: individual PAGA claims arbitrable, non-individual PAGA claims stay in court; stay remanded",,,,,1
+9865851,1,CLOSE: PAGA; denial of intervention by other PAGA plaintiffs (LWDA proxies) in PAGA settlement,,,,,1
+9881072,1,People/Labor Commissioner wage misclassification actions not bound by drivers' arbitration agreements,,,,,1
+9881453,1,Affirms nonsuit/directed verdict on FEHA disability discrimination claims,,,,,1
+9881938,1,"Affirms SJ on FEHA sex/age discrimination, retaliation claims",1,FEHA discrimination/retaliation summary judgment affirmed (no pretext),,,1
+9889350,0,Wrongful termination case; only mutual assent to arbitrate,,,,,0
+9889574,1,CLOSE: employer's challenge to Labor Commissioner wage citation dismissed for failure to post Lab. Code 1197.1 bond; procedural ruling in wage enforcement,,,,,1
+9889917,1,"CLOSE: PAGA arbitration; individual PAGA claim arbitrable, representative PAGA claim stays in court (Adolph standing)",,,,,1
+9890015,0,"Tenant housing dispute; FEHA housing retaliation, not employment",,,,,0
+9890624,0,CLOSE: sealing/unsealing records after settled retaliation suit; no employment issue decided,,,,,0
+9891278,1,"FEHA disability discrimination, accommodation, exhaustion SJ affirmed",,,,,1
+9891819,1,CLOSE: PAGA arbitration; decides Iskanian PAGA rule after Viking River no longer supports denial; remand on formation,1,CLOSE: representative PAGA waiver invalid but severable after Viking River; individual PAGA claims to arbitration,,,1
+9892116,0,Claims against employer's investigating law firm; excluded by definition,,,,,0
+9892438,1,Discrimination claims summary adjudication affirmed; sanctions,,,,,1
+9893373,1,"CLOSE: PAGA arbitration; individual PAGA claims to arbitration, non-individual PAGA claims not dismissed (PAGA standing)",1,"CLOSE: mainly contract interpretation sending individual PAGA claims to arbitration, but court rules nonindividual PAGA claims may not be dismissed (Adolph standing)",,,1
+9894164,0,"CLOSE: wage class action; discovery appeal dismissed, discovery sanctions affirmed; no employment-law issue decided",,,,,0
+9894206,1,CLOSE: PAGA arbitration; FINRA discovery limits held unconscionable because employee could not prove PAGA claim (Armendariz-type statutory-rights holding); also waiver/scope,,,,,1
+9895306,1,Chaplain's religious harassment/constructive discharge claims vs CDCR,,,,,1
+9895969,1,FEHA disability discrimination/retaliation summary adjudication reversed in part,,,,,1
+9896138,0,Construction contract arbitration; not employment,,,,,0
+9896305,0,Commercial lease guaranty anti-SLAPP; not employment,,,,,0
+9896911,1,Labor Code 1102.5 whistleblower claim evidentiary rulings; employer's claims against employee,,,,,1
+9898596,1,Employee discrimination/retaliation SJ for CSU affirmed,,,,,1
+9898651,1,FEHA disability discrimination verdict for employer affirmed; jury instruction issues,1,FEHA disability termination verdict affirmed,,,1
+9899457,1,"CLOSE: arbitration denial affirmed; holds waiver of representative PAGA claims unenforceable under Iskanian, plus general unconscionability",,,,,1
+9900901,1,"CLOSE: DLSE wage citation against employer; minimum wage/penalty merits decided (agency enforcement, not employee suit)",,,,,1
+9900903,0,Wrongful termination case; only scope of arbitration agreement decided,,,,,0
+9900945,1,PAGA: nonattorney cannot bring PAGA claims pro per; dismissal and costs affirmed,,,,,1
+9901993,1,CLOSE: H-2A worker arbitration agreement unenforceable as undisclosed material term of employment under H-2A rules,,,,,1
+9902388,1,Age discrimination/harassment/constructive termination SJ partly reversed,,,,,1
+9902391,1,CLOSE: FEHA disability SJ affirmed on inadequate appellate record,,,,,1
+9905558,0,Student athlete harassment claims; FEHA only by analogy,,,,,0
+9906347,1,PAGA suitable seating claim; SJ for McDonald's affirmed,,,,,1
+9906348,0,Family property fraud; not employment,,,,,0
+9906595,1,Wage/PAGA class settlement approval affirmed,,,,,1
+9907159,1,Wage case: Lab. Code 218.5 bars employer's cost recovery,,,,,1
+9907182,1,Sexual harassment/FEHA claims; judgment reversed,1,Sexual harassment trial; evidentiary error and severe-or-pervasive,,,1
+9907223,1,"FEHA hostile work environment, failure to prevent harassment SJ reversed",,,,,1
+9908432,1,"FEHA and Lab. Code 1102.5 retaliation verdict; evidentiary rulings, misconduct",,,,,1
+9908802,0,"CLOSE: bar exam applicant FEHA/ADEA claims vs State Bar; no employment relationship, immunity",0,CLOSE: bar applicant's FEHA licensing-board claim vs State Bar; no employer relationship,,,0
+9909281,1,Police officer discipline; mandate petition denied,,,,,1
+9910516,0,"CLOSE: LLC member removal under operating agreement; claims are contract, not employment law",,,,,0
+9910925,1,"FEHA wrongful termination; alter ego employer status, fees",,,,,1
+9911471,0,Indemnity dispute between staffing agency and client; not employee-employer claim,,,,,0
+9912172,1,"CLOSE: PAGA arbitration appeal; holds PAGA waiver unenforceable under Iskanian (employment-law issue per clarification), then severance clause",1,PAGA representative waiver unenforceable (Iskanian); agreement severs it,,,1
+9912183,0,PAGA case; only waiver of right to arbitrate,0,Waiver of right to arbitrate PAGA claims only,,,0
+9912204,0,"CLOSE: third-party car accident; state's vicarious liability for IHSS provider, not employee claim",,,,,0
+9913006,1,CLOSE: PAGA arbitration; dismissal of representative PAGA claims reversed under Adolph standing,,,,,1
+9913058,0,Probate care custodian presumption; not employment claim,,,,,0
+9913135,0,"CLOSE: insurer coverage of city's settlement of employees' 1102.5 suit; employer v. insurers, not employee claim",0,CLOSE: insurer coverage for city's Lab. Code 1102.5 settlement (Ins. Code 533); not employee v. employer,,,0
+9913888,1,CLOSE: wrongful termination suit; personal jurisdiction over employer's parent quashed,,,,,1
+9914327,1,Deputies' harassment/retaliation claims; judgment and fees for County,,,,,1
+9914338,0,FEHA/wage case; only whether employee assented to arbitration,,,,,0
+9915588,0,"PAGA case; only waiver of right to arbitrate decided, other issues not reached",,,,,0
+9915869,1,PAGA waiver unenforceable under Iskanian after Viking River,,,,,1
+9916435,1,CLOSE: PERB unfair practice re public employee discipline/union retaliation; decision set aside,,,,,1
+9916988,0,Employment claims; only arbitration agreement scope,,,,,0
+9919533,1,PAGA manageability (Supreme Court),1,Trial courts lack inherent authority to strike PAGA claims on manageability grounds,,,1
+9920873,0,Wrongful termination of tenancy; not employment,,,,,0
+9925437,0,Attorney disqualification in university contract case; not employment,,,,,0
+9926433,0,"CLOSE: wage case; employer's late arbitration fee under CCP 1281.98, arbitration procedure only",,,,,0
+9926444,1,"PAGA claims; joint employer/control pleading, Labor Code 245.5, costs",,,,,1
+9926853,0,Criminal gang case; not employment,0,Criminal gang enhancement; no employment issue,,,0
+9927413,1,PAGA non-individual claims dismissal vacated under Adolph,,,,,1
+9927690,0,Costs award in hospital privileges case; not employment,0,Costs award in hospital privileges case,,,0
+9927691,0,CLOSE: physician's hospital privileges terminated under medical staff bylaws; privileges not employer-employee claim,,,,,0
+9927789,1,Unpaid wages and waiting penalties; CFO personal liability affirmed,,,,,1
+9928438,0,Suit against county/hospitals over 5150 hold; prior employers only background,,,,,0
+9930061,1,FEHA costs require frivolousness finding,,,,,1
+9931246,1,CLOSE: PAGA arbitration; holds plaintiff retains PAGA standing for non-individual claims under Adolph,,,,,1
+9940259,1,Employee discrimination/commission claims against Apple/FileMaker decided,,,,,1
+9940703,1,CLOSE: wage case arbitration; assent plus Armendariz adequate-discovery analysis for statutory claims (found not unconscionable),,,,,1
+9940886,1,Sexual harassment/wrongful termination verdict; JNOV and damages rulings,,,,,1
+9941080,1,"FEHA retaliation jury verdict; evidence, sufficiency, prejudgment interest, FEHA appellate fees",1,FEHA retaliation verdict,,,1
+9942726,0,Daycare overcapacity UCL case; employment only in cited case,0,Child care negligence; no employment issue,,,0
+9942747,1,Joint employer allegations in wrongful termination suit; demurrer/default,,,,,1
+9942883,1,Wage theft/PAGA and employment contract claims; held not an employee under Borello,,,,,1
+9943156,1,"Sexual harassment, retaliation, wrongful termination verdict; JNOV/new trial/damages",,,,,1
+9943275,1,CLOSE: employee's workplace IIED suit against supervisor; Government Claims Act timeliness decided,,,,,1
+9943281,0,Suit against workers' comp QME physician; not employer,,,,,0
+9943558,1,CLOSE: teacher's Dills Act/joint employer claims vs credential commission; held not employer,0,Teacher credential suspension by CCTC; not employer,1,CLOSE: Teacher's FEHA discrimination/retaliation claims against the state credentialing commission over a credential suspension. Court affirms the demurrer on government immunity and also holds the FEHA claims fail because the commission was not his employer or joint employer (Martinez/Vernon control factors). Deciding employer status for FEHA claims is an employment-law issue. Close because the defendant was found not to be an employer and immunity was an independent ground.,1
+9943598,0,Labor Code/harassment case; only arbitration agreement formation,,,,,0
+9945296,1,Racial harassment verdict; evidence and sufficiency,,,,,1
+9945400,0,Lemon law costs; not employment,,,,,0
+9945500,0,Employment arbitration award; only untimely petition to vacate decided,,,,,0
+9945504,0,Employment claims; only arbitration agreement existence/implied consent decided,,,,,0
+9945506,0,Legal malpractice against former attorneys; no employment claim,,,,,0
+9945594,0,Expelled association member; attorney disqualification; not employment,,,,,0
+9945595,0,FEHA/Labor Code suit; only CCP 1281.98 arbitration fee-payment forfeiture decided (arbitration procedure),,,,,0
+9945816,1,FEHA and Lab. Code 1102.5 retaliation; FEHA preclusion of 1102.5 and nonsuit decided,,,,,1
+9945902,1,"PAGA; applies Iskanian rule that nonindividual PAGA claims cannot be waived or arbitrated, individual claims compelled",1,CLOSE: individual PAGA claim compelled under severability clause; court holds nonindividual PAGA claims can neither be waived nor arbitrated (Iskanian/Adolph),,,1
+9945909,0,Wage class action; only arbitration agreement formation/e-signature and 473 relief decided,,,,,0
+9945929,1,CLOSE: Wage-hour suit; court applies Lab. Code 2810.3 joint-employer liability to extend tribal immunity to staffing agency employer; mainly immunity ruling,,,,,1
+9947841,1,Anti-SLAPP in FEHA harassment/discrimination/retaliation suit by employee; protected-activity and merits of FEHA claims decided,,,,,1
+9948422,1,FEHA harassment claims time-barred; limitations/tolling decided on writ,,,,,1
+9948735,0,Employment arbitration; only CCP 1281.98 fee-payment breach decided,,,,,0
+9949144,0,UCL/FAL penalties against online university; employees only as witnesses,,,,,0
+9949184,1,Pregnancy/gender discrimination and retaliation summary judgment affirmed,,,,,1
+9949983,1,"Arbitration unconscionability; Armendariz cost rule, PAGA waiver, Berman claims rulings decided",,,,,1
+9951707,1,CLOSE: Terminated employee's CMIA claim vs employer over vaccination proof requirement; summary judgment affirmed,,,,,1
+9953247,0,Employment dispute; only CCP 1281.97 arbitration fee forfeiture decided,,,,,0
+9954060,1,Wage Order 16 hours worked compensability decided,,,,,1
+9954091,1,FEHA disability discrimination; legitimate reason/pretext on summary judgment,,,,,1
+9954346,1,Lab. Code 1194 fee/cost entitlement for prevailing employee vs CCP 1033 decided,,,,,1
+9955537,1,PAGA standing/joint employer status on summary judgment,,,,,1
+9955994,0,Wage action; appeal of arbitration order dismissed as nonappealable,0,Appeal of order compelling arbitration dismissed; death knell inapplicable,,,0
+9956704,1,FEHA claims barred by unreviewed State Personnel Board decision (preclusion) decided,,,,,1
+9957139,0,Only scope of arbitration agreement across separate employment stints decided,,,,,0
+9969037,1,Lab. Code 226 wage statement penalties; good-faith defense to knowing and intentional failure decided,,,,,1
+9969057,1,"Former employee breach of employment/stock option contract after for-cause termination; liability, damages and whether options are Labor Code wages decided",,,,,1
+9969067,0,"CLOSE: FEHA case, but only post-judgment interest date on fee award (reversal vs modification) decided",,,,,0
+9969070,0,CLOSE: PAGA claims; delegation and contract interpretation of PAGA carve-out only; no PAGA waiver/standing ruling,,,,,0
+9969074,1,PAGA standing without individual claim decided,1,PAGA standing without individual claim,,,1
+9969100,0,Wage class/PAGA; only waiver of right to arbitrate by delay decided,,,,,0
+9969137,0,Wage claims; only FAA transportation worker exemption to arbitration decided,,,,,0
+9969170,0,Only fraud in execution of arbitration agreements decided,,,,,0
+9969200,1,Au pair's FEHA harassment and employer negligence verdicts upheld; employee status under FEHA decided,,,,,1
+9969202,1,Wage-hour judgment vs employer affirmed; due process and sufficiency challenges rejected as inadequately supported/forfeited,,,,,1
+9969214,1,"PAGA settlement approval, intervention and coordination issues decided",,,,,1
+9971640,1,"Age discrimination/harassment/wrongful termination judgment affirmed; fees, tax neutralization",1,"Age discrimination, harassment, wrongful termination judgment affirmed",,,1
+9971998,1,Arbitration unconscionability; Florida choice of law forcing waiver of unwaivable California employment rights held unconscionable,,,,,1
+9972599,1,Employee discrimination/retaliation/implied contract claims vs Dignity Health; nonsuit and verdict reviewed,1,Implied employment contract and related employment claims,,,1
+9972705,0,Only procedural defect in petition to compel arbitration decided,,,,,0
+9973001,1,PAGA standing to pursue nonindividual claims after individual claims compelled to arbitration (Adolph) decided,,,,,1
+9974280,1,FEHA administrative exhaustion timeliness and equitable tolling decided,,,,,1
+9976087,1,FEHA employer definition (fewer than five employees) on summary judgment,,,,,1
+9976168,1,"CLOSE: Confirmation of arbitration award on FEHA claims; court applies Armendariz FEHA discovery entitlement and finds no prejudice, rejects unconscionability",,,,,1
+9976170,1,FEHA harassment/battery defense verdict affirmed; evidence and misconduct issues; FEHA cost rule (Pollock) applied to appellate costs,,,,,1
+9977977,1,Firefighter retaliation verdict; damages and retaliation evidence reviewed,,,,,1
+9978115,1,Lab. Code 1102.5 whistleblower retaliation; same-decision defense/causation standard decided,,,,,1
+9978723,0,Wrongful termination suit; only CCP 1281.98 applicability decided,,,,,0
+9997427,0,"CLOSE: Individual PAGA arbitration; general unconscionability (mutuality exclusions, confidentiality) and severance only",,,,,0
+10012793,0,CLOSE: Individual PAGA claim; contract interpretation of carve-out only; nonindividual claim left to trial court,0,Contract interpretation compelling individual PAGA claim; nonindividual claim not reached,,,0
+10034062,0,Criminal victim restitution for lost wages; not employment claim,,,,,0
+10034154,1,Age/race discrimination and related claims; summary judgment reversed in part,,,,,1
+10034452,1,PAGA prefiling notice sufficiency decided,,,,,1
+10034510,0,Only nonsignatory enforcement of staffing agency arbitration agreement decided,,,,,0
+10174146,1,FEHA disability claims vs employer; collateral estoppel/exhaustion from grievance hearing decided,,,,,1
+10183121,0,Wage/PAGA suit; only employer waiver of right to arbitrate decided,,,,,0
+10239031,0,FEHA/Labor Code claims; only scope of arbitration provisions decided,0,Scope of arbitration clauses only; unconscionability not reached,,,0
+10240675,0,Wage/PAGA cases; only CCP 1281.2(c) third-party litigation exception to arbitration decided,,,,,0
+10240679,0,CLOSE: PAGA; waiver of right to arbitrate and Viking River applied to compel individual PAGA arbitration; discusses Iskanian only for futility,,,,,0
+10352306,1,Wrongful termination; FEHA disability definition decided,,,,,1
+10421212,1,"FEHA sexual harassment/discrimination/wrongful termination verdict; juror misconduct, instructions, evidence rulings reviewed",,,,,1
+10431805,1,FEHA coverage of egg retrieval as pregnancy-related condition decided,,,,,1
+10453487,1,FEHA disability discrimination/retaliation summary judgment for city affirmed,,,,,1
+10453497,1,FEHA disability/constructive discharge claims decided,,,,,1
+10453528,1,"FEHA sexual harassment vs employer; supervisor-finding challenge forfeited, verdict affirmed",,,,,1
+10453529,0,PAGA case; only FAA transportation worker exemption and hearsay objections decided,,,,,0
+10453895,0,"CLOSE: Employment arbitration; formation and severance decided; fee-shifting term's unconscionability conceded, not decided; no employment-law ruling",,,,,0
+10454043,1,Firefighter retaliation/age discrimination; no adverse employment action as matter of law,,,,,1
+10464093,1,Arbitrator exceeded powers by denying unwaivable Lab. Code 226(e) attorney fees to prevailing employee,,,,,1
+10464263,1,FEHA disability discrimination/constructive discharge defense verdict affirmed,,,,,1
+10467428,0,Individual PAGA claim; only arbitration agreement existence/burden decided,,,,,0
+10469943,1,Arbitration unconscionability; holds shortened FEHA filing period and fee provision contrary to FEHA unenforceable (Armendariz-type FEHA rights),,,,,1
+10470270,0,Prop 218 water rates class action; not employment,,,,,0
+10471114,1,Police detective retaliation suit; anti-SLAPP applied to whistleblower retaliation claims,,,,,1
+10471230,1,"FEHA disability and Lab. Code 1102.5 verdict; instructions, evidence, new trial reviewed",,,,,1
+10473735,0,Landlord retaliatory eviction fees; not employment,,,,,0
+10477456,1,FEHA retaliation summary judgment reversed,,,,,1
+10478473,1,CLOSE: FEHA/wrongful termination suit; court decides employee did not release FEHA claims via workers' comp C&R with different entity (summary judgment reversed); mostly SJ notice/release issue,,,,,1
+10480065,1,Arbitration unconscionability; limits on Berman remedies and discovery inadequate for FEHA claims held unconscionable,,,,,1
+10480894,0,Arbitration waiver standard (no prejudice requirement); employment case but only arbitration issue,,,,,0
+10481046,0,Only waiver of right to arbitrate decided,,,,,0
+10486656,1,FEHA racial harassment and retaliation standards decided (Supreme Court),,,,,1
+10486712,1,FEHA disability discrimination/retaliation claims by terminated county employee,,,,,1
+10491483,1,"Whistleblower retaliation/wrongful discharge defense verdict; new trial, instructions, evidence rejected",,,,,1
+10492400,1,Holds arbitration clause barring FEHA administrative and Labor Commissioner (Berman) proceedings unconscionable (Armendariz unwaivable statutory rights),,,,,1
+10494270,1,PAGA: whether other PAGA plaintiffs may intervene/object/vacate settlement,,,,,1
+10494460,1,CLOSE: former county employees' CMIA 56.20 termination claims barred by Government Claims Act deadline,,,,,1
+10495338,0,CLOSE: PAGA case; only arbitration agreement excludes all PAGA claims (contract scope),,,,,0
+10495463,0,998 offer acceptance/judgment only; employment claims are background,,,,,0
+10500509,0,Legal malpractice; attorney disqualification,,,,,0
+10511613,1,Public employers exempt from meal/rest/wage provisions and PAGA penalties,,,,,1
+10511908,0,Commercial lease unlawful detainer; 998 fees,,,,,0
+10512979,1,FEHA retaliation/harassment claims by terminated task force commander decided,,,,,1
+10517543,1,CLOSE: former employee's CMIA employer-discrimination termination claims (Civ. Code 56.20) barred by Government Claims Act deadline,,,,,1
+10517564,0,"CLOSE: PAGA case; holding is arbitration-agreement scope (representative-proceeding carve-out); error re individual PAGA claims conceded, no contested PAGA ruling",,,,,0
+10517565,0,CLOSE: PAGA case; only decides whether stay of nonarbitrable claims under CCP 1281.4 is mandatory (arbitration procedure),,,,,0
+10517566,0,Online sellers' PAGA case; only contract assent/delegation for arbitration,,,,,0
+10538600,0,Fraudulent concealment in contract relationship (Uber's legal representative); Tameny only discussed,,,,,0
+10540258,1,"CLOSE: EFAA bars arbitration of employee's sexual harassment claims; employer's pre-Act-accrual argument forfeited, no waiver of objection",,,,,1
+10540260,1,City's Labor Code 2860 and employment-contract claims against former deputy city manager; limitations and summary adjudication,,,,,1
+10564723,1,CLOSE: Armendariz cost rule and forum/choice-of-law clauses forfeiting unwaivable Labor Code rights held unconscionable in PAGA case,,,,,1
+10564752,0,CLOSE: PAGA case but only decides FAA section 1 transportation worker exemption (arbitration law),,,,,0
+10566485,1,FEHA discrimination attorney fees and 998 cutoff,,,,,1
+10566637,1,CLOSE: anti-SLAPP prong one in PAGA case; holds predicate Labor Code violations (personnel/payroll records) do not rest on protected statements,1,CLOSE: anti-SLAPP on PAGA personnel-records claim; court also rules Lab. Code 1198.5(n) exemption inapplicable,,,1
+10569932,0,"CLOSE: elected city treasurer's mandate petition over stripped duties/salary; government-structure statutory issue, not employment claim",,,,,0
+10572112,1,FEHA harassment claim barred for failure to exhaust; employment-related claims against union employer,1,FEHA harassment exhaustion; Bane/Ralph Act claims vs employer,,,1
+10573362,1,FEHA discrimination/retaliation summary judgment affirmed,,,,,1
+10581981,0,Hotel management contract dispute,,,,,0
+10582813,0,Vendor shareholders' standing against insurer; not employment,,,,,0
+10586326,1,PAGA standing for non-individual claims after arbitration (Adolph); dismissal reversed,1,PAGA standing for nonindividual claims after individual claims arbitrated,,,1
+10587419,1,"CLOSE: mostly arbitration-agreement interpretation, but relies on rule that categorical PAGA waiver is unenforceable to send entire PAGA claim to court",,,,,1
+10588546,0,Medical malpractice; no employment issue,,,,,0
+10588555,1,Former deputy sheriff's FEHA discrimination/retaliation claims not barred by litigation privilege; reversed,1,FEHA discrimination/retaliation claims barred by litigation privilege (public employee),,,1
+10588610,0,Prevailing wage case; only contract assent to arbitration,,,,,0
+10589425,0,Employee arbitration; only forfeited contract-assent argument,,,,,0
+10590887,1,"CLOSE: anti-SLAPP prong one; holds police officers' whistleblower retaliation/harassment claims rest on adverse employment actions, not protected activity",,,,,1
+10591266,1,FEHA and wage claims summary judgment partly reversed,,,,,1
+10591481,0,Wage case; only waiver of right to arbitrate,,,,,0
+10591687,1,Adjunct lecturer's FEHA and Labor Code claims time-barred on demurrer,,,,,1
+10593717,1,FEHA/CFRA verdict for nurse; evidentiary and instructional challenges rejected,1,Age/disability discrimination and leave retaliation verdict affirmed,,,1
+10595506,1,FEHA gender harassment and retaliation claims decided,1,FEHA harassment and retaliation; bench trial,,,1
+10597118,0,Consumer public injunctive relief arbitration; not employment,0,Consumer public injunction arbitration,,,0
+10597959,1,CLOSE: EFAA exempts employee's entire case (FEHA and Labor Code claims) from arbitration where a sexual harassment claim is pleaded,,,,,1
+10598608,0,Wage case; only decides arbitration agreement scope per harvest season (contract assent/scope),,,,,0
+10600350,0,"CLOSE: wage class/PAGA settlement; only intervention, jurisdiction, notice and fairness presumption; FLSA opt-in left open",,,,,0
+10611504,0,Condominium/housing FEHA dispute; not employment,,,,,0
+10612318,0,"CLOSE: wage class arbitration; only general unconscionability (mutuality) and FAA preemption of Armendariz bilaterality, no unwaivable-right ruling",,,,,0
+10612344,1,FEHA disability discrimination/accommodation jury instruction issues,,,,,1
+10613193,0,Real estate contract dispute,,,,,0
+10621656,1,CLOSE: vacatur of award on employee's termination claims; OWBPA and section 16600 challenges to release ruled forfeited,,,,,1
+10621657,1,PAGA claims excluded from arbitration and plaintiff retains PAGA standing (Adolph); dismissal reversed,,,,,1
+10627124,1,Professor's FEHA accommodation/discrimination claims and personnel-record privacy decided,,,,,1
+10629539,0,Landlord-tenant; retaliation is housing,,,,,0
+10641493,0,CLOSE: supervisor's defamation cross-complaint against employee struck under litigation privilege; not an employee-employer claim,,,,,0
+10644218,0,"CLOSE: employment suit, but only discovery terminating sanctions decided",,,,,0
+10741710,1,Wrongful termination in violation of public policy verdict against staffing agency affirmed,,,,,1
+10741721,1,Misclassification wage class certification decided,,,,,1
+10748913,1,Labor Code 226(a)(9) wage statement class and PAGA claims decided,,,,,1
+10749012,0,CLOSE: H&S 1278.5 whistleblower retaliation by hospital against physician with staff privileges (not its employee); affirmed on implied findings/substantial evidence,0,CLOSE: H&S Code 1278.5 retaliation by hospital against staff surgeon employed by separate medical group; not employer claim,,,0
+10749022,0,Housing discrimination by landlord; not employment,,,,,0
+10749859,0,Farm laborer wage/PAGA case; only third-party beneficiary arbitration scope and claim splitting,,,,,0
+10750851,0,Film co-production arbitration award; not employment,,,,,0
+10751818,1,Labor Commissioner Cal/WARN Act claim against employer decided,,,,,1
+10753040,1,FEHA claims barred by res judicata and workers' comp exclusivity; Labor Code whistleblower claims against HR employee,,,,,1
+10753692,1,CLOSE: wage class counsel disqualification denied; applies Labor Code 558.1 to supervisory class members,,,,,1
+10754687,0,CLOSE: employer's late arbitration fees under CCP 1281.97 (arbitration procedure); no employment-law ruling,,,,,0
+10755477,1,"FEHA discrimination verdict: new trial, JNOV on benefits, fees, prejudgment interest",1,"FEHA discrimination; JNOV on lost benefits, fees, prejudgment interest",,,1
+10756930,1,"CLOSE: mainly contract interpretation of arbitration scope, but holds arbitrating non-individual PAGA claim is not 'prohibited by law' (Iskanian line) and treats individual/non-individual PAGA as one claim",,,,,1
+10757874,1,Labor Code 1194/218.5 one-way cost shifting bars employer 998 costs; wage fee award,,,,,1
+10757914,1,Arbitration award vacated for legal error on timeliness of unwaivable FEHA termination claims,,,,,1
+10758672,1,FEHA discrimination/harassment claims against airline decided,1,FEHA discrimination verdict,,,1
+10759301,1,CLOSE: FEHA/1102.5 retaliation case; challenge to summary adjudication of same-decision defense rejected for inadequate record,,,,,1
+10759387,1,Labor Code 1102.5(j) whistleblower attorney fees apply to pending case; reversed denial,,,,,1
+10759447,1,Wage and hour class certification; predominance of overtime/break exemptions,1,Class certification denial in overtime case; predominance of exemption issues,,,1
+10759756,1,FEHA age harassment summary adjudication and trial issues,,,,,1
+10759768,1,FEHA sexual harassment trial; evidentiary error reversal,,,,,1
+10759961,1,"CLOSE: unpaid wage claim fails because plaintiff was a partner, not employee; partnership finding affirmed",,,,,1
+10762108,1,"Wage and hour (rest break, overtime) rulings",,,,,1
+10763879,0,Insurance dispute; costs,,,,,0
+10763975,0,Legal malpractice against plaintiff's former employment lawyers; employment claims only background,,,,,0
+10765086,1,CLOSE: CBA does not clearly and unmistakably waive judicial forum for FEHA claims (Wright standard); Armendariz distinguished,,,,,1
+10770740,1,"Nanny's Labor Code claims; sufficiency, instructions, evidence after defense verdict",,,,,1
+10771222,1,"Wage action: Labor Code 218.5 bars employer fee recovery, cannot be circumvented via CCP 2033.420",1,Lab. Code 218.5 fees for employer in wage case,,,1
+10771615,1,PAGA: employee retains standing for nonindividual claims after individual claims compelled to arbitration (Adolph); dismissal reversed,1,Nonindividual PAGA claims dismissal reversed under Adolph,,,1
+10772203,1,"PAGA: every PAGA action includes an individual claim; individual claim compelled to arbitration, representative stayed",,,,,1
+10772209,1,FEHA age discrimination/harassment/retaliation and 1102.5 claims by fire captain; SJ reversed,,,,,1
+10774403,0,Employment discrimination SJ affirmed only because record inadequate to review denial of continuance; no employment-law ruling,,,,,0
+10777851,1,Arbitration award review: court holds employee's FEHA claim correctly found time-barred (Pearson Dental review),,,,,1
+10784786,0,"Condominium disability discrimination; housing, not employment",,,,,0
+10785109,1,"Employee's breach of employment contract (at-will), Labor Code 970 and fraud claims; SJ for employer affirmed",,,,,1
+10785110,1,Firefighter's FEHA religious accommodation (vaccine) and retaliation claims; exhaustion; judgment affirmed,,,,,1
+10785191,1,"Firefighter's FEHA religious accommodation, retaliation, constructive discharge claims; demurrer affirmed",,,,,1
+10786517,0,Arbitration agreement not knowingly signed; arbitration only,,,,,0
+10786615,0,CCP 1281.97/1281.99 inapplicable where FAA procedures govern; arbitration procedure only,,,,,0
+10786631,0,Marital dissolution/attorney misappropriation; no employment claim,,,,,0
+10787610,0,"Wage class settlement enforcement order; challenges procedurally barred, merits not reached; no employment-law ruling",,,,,0
+10787732,0,Arbitrator's FEHA interactive-process award not reviewable for legal error; arbitration review only,,,,,0
+10788876,1,"CLOSE: Arbitration of executive's employment claims; mostly procedural/substantive unconscionability, but holds discovery clause satisfies Armendariz",,,,,1
+10789017,1,Employee's 1102.5 retaliation claim and defamation as wrongful termination damages (Lazar/Hunter); judgment reversed in part,,,,,1
+10789018,0,No proof employer signed/agreed to arbitration; arbitration only,,,,,0
+10789804,0,CCP 1281.98 arbitration fee nonpayment and FAA preemption in employment case; arbitration procedure only,,,,,0
+10791790,0,"CLOSE: Teacher's defamation/false light claims vs school district fail anti-SLAPP for lack of publication evidence; tort issue only, no employment-law ruling",,,,,0
+10792743,1,CLOSE: EFAA bars compelled arbitration of employee's sexual harassment claims despite California choice-of-law clause; treated as non-waivable harassment-claim right,,,,,1
+10793535,0,"Employer waived right to compel arbitration (St. Agnes/Quach waiver); arbitration-procedure only, no employment-law ruling",,,,,0
+10793536,1,FEHA disability discrimination/accommodation claims; SJ for employer affirmed,,,,,1
+10793606,1,CLOSE: Arbitration of FEHA claims; court holds JAMS rules give adequate third-party discovery under Armendariz/Ramirez,,,,,1
+10795870,0,Probate/legal malpractice; no employment claim,,,,,0
+10795910,0,Wage class certification denial not appealable under death knell doctrine (PAGA claims remain); appeal dismissed,,,,,0
+10796959,0,Employer waived right to arbitrate wage claims; arbitration only,0,Scope of arbitration clause only,,,0
+10797896,0,Unruh Act cake case; no employment claim,,,,,0
+10799326,1,Labor Code 1102.5 whistleblower retaliation and wrongful termination SJ affirmed; FEHA cost provision ruled inapplicable post-dismissal,,,,,1
+10799435,0,Arbitration agreement e-signature not authenticated; arbitration only,0,Motion to compel arbitration; authentication of e-signature only,,,0
+10800258,1,Deputy DA's FEHA retaliation/failure to prevent claims; SJ reversed,,,,,1
+10802258,1,FEHA racial harassment/failure-to-prevent claims; SJ reversed on remand from Supreme Court,,,,,1
+10802437,0,Wage class action: which party must initiate arbitration; employer did not waive; arbitration only,,,,,0
+10804009,1,"FEHA accommodation, interactive process, retaliation and wrongful termination claims; SJ affirmed",,,,,1
+10804922,0,"CLOSE: Remand on severance of unconscionable terms in FEHA arbitration agreement; general severance ruling, no new employment-law holding",,,,,0
+10807161,1,Public employee's FEHA disability claim: denial of disability retirement not actionable adverse action,,,,,1
+10807162,1,CLOSE: PAGA action; court holds complaint asserts no individual PAGA claim (Adolph) and Balderas standing question not ripe; arbitration denial affirmed,,,,,1
+10813663,0,No implied assent to handbook arbitration policy; arbitration only,,,,,0
+10814367,1,Physician's whistleblower retaliation claims vs County: CFCA 12653 not applicable to public entity; H&S 1278.5 demurrer reversed; 1102.5 SJ affirmed,1,Public employee whistleblower retaliation claims,,,1
+10814410,1,"CLOSE: PAGA settlement; overlapping PAGA plaintiff lacks standing to challenge judgment under Turrieta; appeals dismissed (PAGA-law ruling, though on appellate standing)",,,,,1
+10817142,1,Summary judgment affirmed on teacher's employment discrimination/termination claims against charter school,,,,,1
+10817143,1,"CLOSE: Arbitration of FEHA claims; mostly mutuality/venue/severance, but court decides discovery clause meets Armendariz minimum for FEHA claims",,,,,1
+10817267,0,Unruh Act cake case; FEHA cited only by analogy,,,,,0
+10818765,1,Correctional officer's FEHA retaliation/discrimination barred by SPB collateral estoppel; harassment SJ affirmed,,,,,1
+10818887,1,Labor Code 558.1 personal liability of corporate director for wage violations; leave to amend,,,,,1
+10819857,1,FEHA discrimination/harassment claims by UCLA employee; SJ affirmed,1,FEHA discrimination and harassment summary judgment affirmed,,,1
+10822117,0,Investor's suit against company counsel; no employment claim,,,,,0
+10823199,1,"CLOSE: Arbitration of FEHA/Labor Code claims; discovery clause inadequate under Armendariz/Ramirez, severed; arbitration compelled",,,,,1
+10824251,1,FEHA disability discrimination and related claims vs railroad; judgment reversed on disability discrimination,,,,,1
+10830233,1,Suitable seating (Wage Order 7 sec. 14) PAGA claim by cashier; judgment for employer affirmed,,,,,1
+10832270,0,Charitable solicitation injunctions; no employment claim,,,,,0
+10834259,0,Tenants' fee award against housing commission; no employment claim,,,,,0
+10837372,1,Labor Code 2802 expense reimbursement does not apply to CSU (sovereign powers); judgment affirmed,1,Lab. Code 2802 expense reimbursement; CSU sovereign exemption,,,1
+10839551,1,FEHA age discrimination and wage claims by cook; immigration-status/Labor Code 1171.5 issues; judgment affirmed,,,,,1
+10839553,0,HOA architectural dispute; no employment claim,,,,,0
+10839642,0,Disqualification of employee's counsel for using privileged email in discrimination suit; no employment-law ruling,,,,,0
+10840263,1,"FEHA action dismissed for late service, but court rules Gov. Code 12965(c)(6) bars costs to prevailing FEHA defendant absent frivolousness",,,,,1
+10840295,1,FEHA sexual harassment and retaliation claims by professor; judgment reversed for new trial,,,,,1
+10840296,1,FEHA cost award: Gov. Code 12965 frivolousness standard and ability to pay; costs order reversed,,,,,1
+10840297,1,"FEHA discrimination, retaliation, harassment and wrongful termination claims by professor; judgment for CSU affirmed",,,,,1
+10841081,1,"CLOSE: Former employee's wage, discrimination and related claims barred by class wage settlement and small-claims settlement release; SJ affirmed (decided on release, not employment statute)",1,CLOSE: ex-employee's discrimination/wage claims barred by class and small claims settlements on summary judgment,,,1
+10841100,0,Anti-SLAPP in LLC/chef membership and slander of title dispute; no employment-law ruling,,,,,0
+10841114,0,CLOSE: PAGA arbitration; contract interpretation that agreement excluded all PAGA claims; scope-of-arbitration ruling only,,,,,0
+10843629,1,CLOSE: Wage and hour SJ reversed; triable issues on Labor Code claims despite interrogatory answer in other suit (D'Amico),1,Summary judgment on former employee's wage and hour claims reversed,,,1
+10843631,0,Motion to compel arbitration of FEHA claims denied for failure to authenticate e-signature; arbitration only,,,,,0
+10843634,1,"Principal's 1102.5 whistleblower and FEHA retaliation claims; JNOV on 1102.5, FEHA new trial denial affirmed",,,,,1
+10843635,1,County employee's FEHA disability accommodation/discrimination claims; SJ affirmed,,,,,1
+10844715,0,Arbitration of FEHA claims: employer forfeited delegation argument; no employment-law ruling,0,Waiver/delegation of arbitrability only,,,0
+10847258,0,CMIA data breach costs award; no employment claim,,,,,0
+10847824,1,CLOSE: FEHA agent (Raines) and aider-abettor liability of employer's HR provider ADP; demurrers affirmed,,,,,1
+10847891,1,Review of arbitration award: FEHA claims correctly held time-barred under Pearson Dental; Gov. Code 12965 no costs to employer,,,,,1
+10847896,1,FEHA disability accommodation verdict for police officer and damages affirmed,,,,,1
+10848686,0,Construction contract dispute; no employment claim,,,,,0
+10849053,1,PAGA action untimely/no standing where employee did not seek individual relief within limitations; demurrer affirmed,,,,,1
+10849113,0,Handbook arbitration clause not a contract; assent only,,,,,0
+10851070,1,Labor Code 1198.5 attorney fees to employee on remand after retaliation verdict reversed; award affirmed,,,,,1
+10851879,1,Employment discrimination/termination SJ reversed for dental receptionist,,,,,1
+10852065,1,CLOSE: Former county employee's retaliation and settlement-enforcement claims barred by claim preclusion; demurrer affirmed (decided on res judicata),,,,,1
+10854801,0,Arbitration agreement formation (employer assent without signature); arbitration only,,,,,0
+10870612,1,Wage and hour SJ for employee reversed except wage statement claim,1,Wage and hour summary judgment reversed,,,1
+10872089,0,CLOSE: appeal dismissed; death knell doctrine unavailable while PAGA claims pending; appealability only,,,,,0
+10984943,1,FEHA discrimination/retaliation and Labor Code claims; unopposed summary judgment reviewed on merits and affirmed,,,,,1
+11045080,1,"FEHA discrimination, harassment, retaliation; summary judgment for employer affirmed",,,,,1
+11048328,0,Arbitration agreement existence not proven in PAGA case; arbitration-only ruling,,,,,0
+11048677,1,Teacher's FEHA discrimination/retaliation claims; summary judgment for district affirmed,,,,,1
+11048681,1,FEHA disability discrimination verdict; jury instruction upheld,1,FEHA disability discrimination verdict; jury instruction and sufficiency,,,1
+11050712,1,FEHA age harassment and discrimination claims against City; summary adjudication/trial rulings on transfer,1,FEHA age harassment and discrimination,,,1
+11050812,1,PAGA action: whether LWDA as real party in interest is liable for prevailing employer's costs,,,,,1
+11050835,0,CLOSE: employer's late payment of arbitration fees under CCP 1281.98 lets employee withdraw from arbitration; arbitration procedure only,,,,,0
+11051703,1,FEHA disability discrimination/failure to accommodate; summary judgment reversed,1,FEHA disability discrimination/harassment summary judgment reversed,,,1
+11053318,1,FEHA administrative exhaustion / scope of DFEH complaint for employee's claims against City,,,,,1
+11054823,0,Street maintenance claim against City; not employment,,,,,0
+11055018,1,Meal period wage order claims for veterinary technicians,,,,,1
+11055025,0,Employer waived right to arbitrate (Quach); arbitration-only ruling,,,,,0
+11056570,1,"Nurse's FEHA disability discrimination/accommodation/retaliation claims; affirmed in part, reversed in part",,,,,1
+11058716,1,FEHA disability discrimination; summary judgment affirmed for lack of employer knowledge,,,,,1
+11058812,1,FEHA sexual harassment hostile work environment verdict for LAPD captain affirmed,,,,,1
+11059632,1,PAGA standing/pleading; demurrer to representative PAGA claim,1,PAGA standing,,,1
+11060577,1,PAGA wage claims failed for lack of evidence of hours and breaks; discovery sanctions denial affirmed,,,,,1
+11061400,1,"CLOSE: FAA governs employment arbitration agreement; Gentry rule and Lab. Code 229 preempted and not incorporated, so wage/class claims compelled",0,FAA applicability to employment arbitration agreement only,1,"CLOSE: Employee wage/PAGA class action; motion to compel arbitration. Court holds FAA governs and that the agreement's carve-outs for claims 'not arbitrable under state law' do not take in FAA-preempted rules (Gentry class-waiver rule, Lab. Code 229 right to litigate wage claims). It enforces the class waiver against wage claims and orders the individual PAGA claim to arbitration. This rules against non-waivability of the Gentry/229 wage rights, so it decides an employment-law issue, not only how arbitration works. Close because most of the analysis is FAA/interstate commerce and contract interpretation.",1
+11062324,1,CLOSE: FEHA/Labor Code retaliation plaintiff's attorney fee reduction and FEHA cost taxing reviewed,1,FEHA/Lab. Code 1102.5 prevailing plaintiff's attorney fee reduction and FEHA cost taxing,,,1
+11064176,1,Wrongful termination claim against Regents; forfeited leave to amend and Gov. Code 815 bar unchallenged; dismissal affirmed,,,,,1
+11065783,1,FEHA disability discrimination/retaliation jury verdict appeal,,,,,1
+11065870,1,CLOSE: FEHA attorney fee award under Gov. Code 12965 to prevailing employee against employer; reasonableness and multiplier,,,,,1
+11070191,0,CLOSE: employer's malicious prosecution suit against former employee's lawyers (anti-SLAPP); probable cause of FEHA suit assessed but not an employee-employer claim,,,,,0
+11071920,1,FEHA disability discrimination summary adjudication against county employer affirmed,,,,,1
+11079623,0,Probate elder abuse petition; not employment,,,,,0
+11081020,0,Derivative suit settlement approval; PAGA settlement cited only as analogy,,,,,0
+11081021,0,Arbitration of PAGA pay-equity claim; general unconscionability (lack of mutuality) and severance only; PAGA waiver issue not on appeal,,,,,0
+11081023,1,CLOSE: employee's Lab. Code 1102.5 retaliation claim against school district dismissed for failure to plead Government Claims Act compliance,,,,,1
+11081026,0,Criminal appeal (bail agent); employment only in facts,,,,,0
+11082049,1,PAGA settlement approval; adequacy of investigation and LWDA notice,1,PAGA settlement approval and adequacy of PAGA notice,,,1
+11082961,1,Meal period and rest break class certification for nurses (wage and hour),,,,,1
+11085524,1,FEHA sexual harassment and failure to prevent; summary adjudication reversed,,,,,1
+11086728,0,Proposition 65 consumer arbitration; PAGA only as analogy,,,,,0
+11087610,1,FEHA harassment verdict for correctional employee against CDCR and supervisors,,,,,1
+11090438,1,FEHA and Labor Code claims re remote work accommodation; summary judgment affirmed incl. Gov. Code 855.4,,,,,1
+11091754,1,Lab. Code 1102.5 whistleblower fee award unavailable when employer proves same-decision defense,1,Lab. Code 1102.5 whistleblower same-decision defense and attorney fees,,,1
+11091755,1,Headless PAGA action authorized; PAGA statutory interpretation,,,,,1
+11092712,1,Fire chief's FEHA disability discrimination and whistleblower retaliation verdict affirmed,,,,,1
+11093409,0,Arbitral immunity suit by business against arbitration provider; wage arbitration only background,,,,,0
+11098272,1,CLOSE: EFAA renders arbitration agreement unenforceable for employee's sexual harassment/assault claims against employer,,,,,1
+11100431,0,Contract indemnity/fee dispute between businesses; underlying PAGA suit only background,,,,,0
+11101811,1,FEHA claims; religious corporation exemption from FEHA upheld,1,FEHA religious-employer exemption; disability claims,,,1
+11104364,0,Stockholder forum selection clause case; employment statutes only as analogy,,,,,0
+11105341,0,"Landlord-tenant costs dispute; retaliatory eviction, not employment",,,,,0
+11106261,1,CLOSE: EFAA bars compelled arbitration of whole case of employee alleging sexual harassment plus wage claims; statutory protection of harassment claims against arbitration treated like Iskanian-type ruling,,,,,1
+11107171,0,"CLOSE: appeal dismissed as nonappealable (death knell inapplicable while PAGA claim pending); appealability only, no employment-law ruling",,,,,0
+11107813,0,Legal malpractice suit against employee's own lawyers; appealability/sanctions,,,,,0
+11108100,1,CLOSE: employee's challenges to PAGA standing summary judgment and arbitration award forfeited by deficient brief,,,,,1
+11110235,1,Wrongful termination and FEHA claims; unopposed summary judgment affirmed,,,,,1
+11110278,1,Discrimination and retaliation claims against former employer; summary adjudication partly reversed,,,,,1
+11113686,0,ICWA dependency case; not employment,,,,,0
+11113752,1,PAGA claim re paid sick leave calculation for exempt outside salesperson (Lab. Code 246),,,,,1
+11114677,1,CLOSE: dismissal for failure to bring to trial (CCP 583); alternatively holds error harmless because FEHA filing deadlines on employee's retaliation claim have run,,,,,1
+11114720,1,University employment policy facially discriminates against job applicants by immigration status; writ issued,,,,,1
+11115458,0,CLOSE: disqualification of employee's counsel in constructive discharge suit; no employment-law ruling,,,,,0
+11117068,0,CLOSE: arbitration of PAGA plaintiff's claims; decides general unconscionability (applying Armendariz cost rule) and employer's waiver of right to arbitrate; no ruling that a PAGA/wage right is unwaivable,,,,,0
+11117077,1,CLOSE: CBA arbitration clause did not clearly and unmistakably waive judicial forum for employees' statutory Labor Code wage claims,1,CLOSE: CBA does not clearly and unmistakably waive judicial forum for employee's statutory Labor Code claims,,,1
+11118031,0,"CLOSE: CCP 1281.98 arbitration fee-payment rule not preempted by FAA; arbitration procedure in employment case, no employment-law issue",,,,,0
+11119728,1,Employee's harassment claims against district time-barred; continuing violation rejected,1,FEHA harassment claims time-barred,,,1
+11120630,1,"PAGA: plaintiff waived individual PAGA claims; nonindividual PAGA claims may proceed, dismissal denied",,,,,1
+11120636,0,CLOSE: arbitration agreement's scope excludes PAGA claims; contract interpretation of arbitration only,,,,,0
+11122406,1,"PAGA: plaintiff asserted no individual PAGA claims, so nothing to compel to arbitration",,,,,1
+11122472,1,"PAGA: representative-only action, no individual PAGA claim to arbitrate",1,Nonindividual PAGA claims not arbitrable; PAGA-only action,,,1
+11123287,1,PAGA: plaintiff pursuing only nonindividual PAGA claims (Rodriguez); no individual claim to compel to arbitration,,,,,1
+11124672,1,Minimum wage liquidated damages good-faith defense and paid sick leave claim in Labor Commissioner appeal,,,,,1
+11126831,1,"Retaliation claims against hospital employer; summary judgment reversed, same-decision defense",,,,,1
+11129298,1,CLOSE: FAA transportation exemption finding unreviewable on record; Lab. Code 432.6 bars forced arbitration of wage claims,,,,,1
+11131326,1,Police officer's termination (public-employee discipline) and related claims,,,,,1
+11132908,1,"CLOSE: EFAA bars compelled arbitration of employee's entire case (harassment, discrimination, wage claims) against her law-firm employer",,,,,1
+11133516,1,Discrimination and retaliation summary judgment for employer affirmed,,,,,1
+11133517,0,"CLOSE: defamation claim against third-party recruiter Avantor contracted with (not employer); common-interest privilege/malice; wrongful termination resolved in prior arbitration, not decided",0,Ex-employee's defamation claim against third party; no employer claim decided,,,0
+11135050,1,"FEHA sexual harassment by coworker off premises, retaliation; employer liability decided",,,,,1
+11136667,0,Rent ordinance eviction case; not employment,0,Tenant eviction; no employment issue,,,0
+11139057,1,"PAGA: no individual PAGA claim asserted, so arbitration denial affirmed",,,,,1
+11140984,1,Whistleblower retaliation and FEHA claims by terminated sheriff's division chief; demurrer rulings,,,,,1
+11141027,1,CLOSE: punitive damages on employees' unpaid wage and retaliation verdict against employer; only punitive award challenged,,,,,1
+11141058,1,PAGA settlement: nonparty aggrieved employee lacks standing to challenge PAGA settlement judgment,,,,,1
+11142040,1,Whistleblower retaliation (Lab. Code 1102.5) and FEHA claims by demoted assistant sheriff; demurrer rulings,,,,,1
+11142166,0,CLOSE: PAGA statute-of-limitations strike not reviewed; appeal dismissed as nonappealable (death knell) though court characterizes remaining PAGA claim as representative,,,,,0
+11142173,0,"CLOSE: PAGA claim, but rulings are forfeiture of delegation clause and contract interpretation of PAGA exclusion; Iskanian only interpretive backdrop",,,,,0
+11142959,0,Probate/trust dispute; not employment,,,,,0
+11148478,1,Wrongful discharge in violation of public policy based on Labor Code 432.2 polygraph,,,,,1
+11156878,1,"PAGA settlement approval: release beyond PAGA notice, adequacy, fairness",,,,,1
+11158118,1,Labor Code 229 shields minimum wage-based 203 claim from arbitration; PAGA claim not arbitrable under Iskanian; also delegation,,,,,1
+11158683,0,PAGA case but only CCP 1281.97 fee default under Hohenshelt and sanctions,,,,,0
+11158734,1,FEHA discrimination/retaliation summary judgment vs county employer,1,FEHA disability discrimination/retaliation summary judgment,,,1
+11159198,1,PAGA questions decided (published),,,,,1
+11159202,0,"Post-judgment motions to vacate and tax costs; untimely/forfeited, no employment issue",,,,,0
+11166355,0,Buyer-seller arbitration award; Armendariz/FEHA discussed only by analogy,,,,,0
+11167868,0,"Wrongful termination of utility service vs PG&E; PUC jurisdiction, not employment",,,,,0
+11167883,1,FEHA discrimination and retaliation summary judgment vs city fire captain,,,,,1
+11167891,1,FEHA discrimination/retaliation/whistleblower claims vs Walgreens decided,,,,,1
+11171024,0,Criminal jury selection discrimination (CCP 231.7); not employment,0,Criminal jury selection,,,0
+11171050,1,FEHA age discrimination summary judgment,,,,,1
+11172478,1,"FEHA discrimination, retaliation, hostile environment and 1102.5 claims decided",,,,,1
+11172483,0,Arbitration agreement unconscionable for lack of mutuality and confidentiality; general unconscionability/severance only,,,,,0
+11173926,0,Wage case; only CCP 1281.98 fee default under Hohenshelt,,,,,0
+11173962,1,Armendariz: agreement strips Labor Code fee rights and imposes arbitration costs on wage claimant; unconscionable,,,,,1
+11174709,0,Delegation and mutuality unconscionability of employment arbitration agreement only,,,,,0
+11176307,1,"CLOSE: mainly arbitration-scope interpretation, but court affirms PAGA waiver unenforceable under Iskanian so whole PAGA action stays in court",,,,,1
+11176458,0,Employment case; only CCP 1281.98 fee default under Hohenshelt,0,CCP 1281.98 arbitration fee nonpayment; arbitration procedure only,,,0
+11176507,1,FEHA discrimination/harassment summary judgment vs county,,,,,1
+11178363,0,"CLOSE: wage case; rulings on release consideration, FAA coverage and transportation-worker exemption; 229 preemption follows from FAA",,,,,0
+11180816,1,Labor Code 6310 retaliation and wrongful termination summary judgment,,,,,1
+11182174,1,CLOSE: applies Ramirez II holding that FEHA limitations and fee provisions are unconscionable; severance; delegation not reached,,,,,1
+11197123,1,CLOSE: EFAA bars arbitration of employee's sexual harassment case; harassment continued past effective date and EFAA covers whole case,1,"CLOSE: EFAA bars compelled arbitration of employee's sexual harassment case; sham-pleading and scope rulings, treated as nonwaivable harassment-claim right",,,1
+11198689,0,Conservatorship/attorney disqualification; wage claims only threatened,,,,,0
+11199828,1,Disability discrimination/FEHA claims vs county employer; demurrer reversed,1,FEHA disability discrimination demurrer reversed,,,1
+11204141,1,CLOSE: EFAA inapplicable because FEHA harassment claim/dispute arose before enactment; arbitration compelled,,,,,1
+11204915,1,Wage and hour and PAGA claims of auto technicians decided,,,,,1
+11204991,0,Medical malpractice MICRA damages; not employment,0,Medical malpractice MICRA; no employment issue,,,0
+11205653,1,PAGA res judicata and standing after another plaintiff's settlement,,,,,1
+11206578,0,Business venture attorney fee/cost dispute; employment only in facts,,,,,0
+11207018,1,FEHA retaliation verdict vs former employer; release did not bar claim,,,,,1
+11207122,1,Ministerial exception and minimum wage/overtime claims vs religious employer,,,,,1
+11208047,0,Employer's claim against employee's law firm; not employer-employee claim,,,,,0
+11208098,1,"CLOSE: FEHA suit by city employee; challenge to demurrer on FEHA claims forfeited, 473(b) relief denied; Claims Act question not reached",,,,,1
+11208111,1,Labor Code 6310 retaliation and wrongful termination summary adjudication reversed; punitive damages,,,,,1
+11208857,1,FEHA exhaustion not element at trial; punitive damages reversed in pregnancy discrimination case,,,,,1
+11209833,0,Taxpayer standing (Supreme Court); not employment,,,,,0
+11211551,0,"Civil harassment restraining order; CCP 170.6 disqualification, not employment",,,,,0
+11212610,1,CLOSE: wrongful termination and Labor Code 970 claims; decided on Government Claims Act presentation and public entity status,,,,,1
+11213455,1,CLOSE: denial of PAGA penalties affirmed because inadequate record; claims deemed waived,,,,,1
+11213498,0,Wage case; arbitration denied for failure to demand under operative CBA (Mansouri); rights issue only in footnote,,,,,0
+11215029,0,Insurance regulation (FAIR Plan); not employment,,,,,0
+11216536,1,Dean's FEHA discrimination/harassment/retaliation claims vs CSU decided,,,,,1
+11217265,1,CLOSE: discovery writ in disability wrongful termination case; relevance of prior employment records to mitigation of damages,,,,,1
+11217301,1,Prevailing party attorney fees under Labor Code in wage case,,,,,1
+11220631,1,Meal/rest break claims of truck driver: class cert and federal preemption of PAGA MRB claim decided,,,,,1
+11221195,1,FEHA harassment amendment and wrongful termination instruction in physician co-owner dispute,1,"FEHA harassment claim, exhaustion, wrongful termination",,,1
+11221357,0,Tenants' housing discrimination suit against landlord's attorneys; not employment,,,,,0
+11224982,1,Equal Pay Act/retaliation claim by former employee decided,,,,,1
+11225009,1,CLOSE: Labor Code 229 lets wage claims proceed in court despite arbitration agreement when FAA inapplicable; also FAA interstate commerce,,,,,1
+11225044,0,Wage case but only waiver of right to compel arbitration,,,,,0
+11225110,0,Employment arbitration; only contract formation/authenticity of signature,,,,,0
+11225848,0,Employment case; only CCP 1281.98 fee default under Hohenshelt,,,,,0
+11225857,1,Former employee's claims: FEHA failure to prevent barred for nonexhaustion; breach of contract amend,,,,,1
+11225938,1,EFAA bars arbitration; court holds employee stated plausible FEHA sexual harassment (hostile environment) claim,,,,,1
+11225973,1,Teacher's FEHA discrimination/retaliation claims vs school district decided,,,,,1
+11225975,1,CLOSE: Armendariz cost-sharing bar applied to wage claimant's agreement plus one-sided jury waiver; unconscionable,,,,,1
+11225991,0,Employment case; only CCP 1281.97/1281.98 fee default under Hohenshelt,,,,,0
+11227591,1,CLOSE: employer's fraud/concealment cross-claim against former payroll employee over unpaid overtime; common-law theory but employer-employee claim,0,"CLOSE: law firm employer's fraud/concealment claim against its controller over overtime records; common-law tort, no employment-law issue",1,"CLOSE: Employer law firm cross-complained against its former controller (employee) for fraud and concealment because she logged a coworker's overtime as regular hours. The court affirms summary judgment for the employee (no knowledge of falsity, no concealment; cites Lab. Code 2861 on the employee's duty to account) and affirms denial of leave to add indemnity claims. The court decides a claim between employer and employee arising from job duties and overtime payroll. Close because the claim is common-law fraud, not a classic employee-side employment statute.",1
+11227592,1,"CLOSE: PAGA plaintiff pursued only non-individual claims, so nothing to arbitrate; PAGA claim structure/standing",,,,,1
+11227777,1,Overlapping PAGA plaintiffs lack standing to intervene or vacate PAGA settlement,1,Standing of other PAGA plaintiffs to intervene/vacate PAGA settlement; appeals dismissed,,,1
+11229850,0,Arbitration agreement read with NDA; unconscionability/severance and FAA preemption of Civ. Code 1642 only,0,General unconscionability and severance of employment arbitration agreement; no employment-law issue,,,0
+11229853,1,Police employee discharge for vaccine-testing refusal; Skelly back pay and Labor Code 2802,,,,,1
+11229872,0,"Former employee's forgery/IIED suit over arbitration; anti-SLAPP dismissal clerical issue, no employment-law issue",,,,,0
+11230791,1,"Wage claims: limitations, personal liability, penalties, UCL",,,,,1
+11230956,1,FEHA disability accommodation/discrimination claims vs school district,,,,,1
+11230968,1,Labor Code 202/203 final pay penalties vs Regents; constitutional immunity,1,Waiting-time penalties (Lab. Code 202/203) claim; Regents constitutional immunity,,,1
+11230979,0,"Employment arbitration; only CCP 1281.97 fee-payment default/Hohenshelt remand, no employment-law issue",,,,,0
+11230981,1,Nurse's FEHA discrimination/retaliation claims; mistrial and summary adjudication,,,,,1
+11231505,1,Wage statement claim (wage order inapplicable to state employees) and whistleblower retaliation claim barred by Government Claims Act,,,,,1
+11232149,0,"CLOSE: PAGA case with long Iskanian/Viking River discussion, but holding rests on contract language alone (parties did not agree to arbitrate individual PAGA claims)",,,,,0
+11233399,1,PAGA waiver held unenforceable/unconscionable under Iskanian in FEHA case arbitration agreement,,,,,1
+11236195,0,Wage class action; only employer's waiver of right to arbitrate,,,,,0
+11236282,1,CLOSE: approval of wage-and-hour class/PAGA settlement and employer's individual Pick Up Stix releases; settlement-procedure ruling in wage case,,,,,1
+11236322,1,Former employee's wage/discrimination/retaliation judgment affirmed,,,,,1
+11236405,1,Minimum wage/overtime: standard for volunteer vs employee at nonprofit; summary judgment reversed,1,Volunteer vs employee test under wage laws,,,1
+11237138,1,Holds Labor Code 229 lets wage claims proceed in court despite arbitration agreement (FAA not shown to apply),,,,,1
+11237166,0,Medical malpractice; employment only re agency of doctors,0,Medical malpractice,,,0
+11237223,1,PAGA notice to LWDA; reverses demurrer to PAGA claims,,,,,1
+11237779,1,"Whistleblower/medical leave retaliation, disability discrimination, harassment; summary judgment affirmed",,,,,1
+11240449,1,FEHA/Equal Pay gender pay discrimination and retaliation jury verdict affirmed,1,Gender pay discrimination and retaliation verdict,,,1
+11240984,1,"Applies Armendariz FEHA minimums, severs fee clause contrary to FEHA; reviews FEHA award",,,,,1
+11241214,1,FEHA age discrimination challenge to city disability retirement formula; affirms judgment for city,,,,,1
+11242143,1,"PAGA: construes section 2699, holds plaintiff pleaded only nonindividual PAGA claim; arbitration denied",,,,,1
+11243553,0,CLOSE: employer's defamation cross-complaint vs former employee; anti-SLAPP public-interest ruling only,,,,,0
+11244247,1,"FEHA disability discrimination, accommodation, harassment, whistleblower; summary judgment affirmed",,,,,1
+11244775,0,Anti-SLAPP service issue in landlord/settlement dispute with former employee; merits forfeited,,,,,0
+11245492,1,FEHA claims re exclusion from work-study job not subject to Government Claims Act; demurrer reversed,,,,,1
+11245532,0,Claims against former employee's lawyers; excluded,,,,,0
+11245540,1,"Wage-hour claims; reverses demurrer, successor liability of employer adequately pled",,,,,1
+11246144,0,CLOSE: wrongful termination case; only denial of motion to vacate dismissal for nonappearance,,,,,0
+11246163,1,"CLOSE: PERB/HEERA unfair labor practice, CSU duty to bargain with faculty union over effects of vaccine policy; public-sector labor law between employer and employees' union",,,,,1
+11247387,1,Race discrimination suspension claims vs hospital employer; summary judgment affirmed,,,,,1
+11247402,1,"FEHA discrimination/retaliation/harassment against employer CalSTRS; issues forfeited, judgment affirmed",,,,,1
+11248033,1,Labor Code 1102.5 whistleblower verdict reversed for missing reasonable-belief finding,1,Lab. Code 1102.5(b) special verdict insufficient,,,1
+11249461,0,CLOSE: Supreme Court on general unconscionability (illegible print); PAGA waiver issue left for remand,,,,,0
+11250171,1,Retaliation and religious discrimination by public employer; summary judgment affirmed,1,Retaliation and religious discrimination claims; summary judgment affirmed,,,1
+11250710,1,CLOSE: ICRAA claim against employer for background check on employee; holds statutory damages available without adverse employment action,1,CLOSE: ICRAA claim by employee against employer over employment background check,,,1
+11255028,1,"FEHA discrimination, retaliation, harassment re city failure to reinstate; demurrer reversed",,,,,1
+11256321,0,Song-Beverly consumer forum clause; not employment,,,,,0
+11261843,0,Shareholder arbitration award; not employment claim,,,,,0
+11261849,0,"CLOSE: confirms shareholder arbitration award; court says no unwaivable FEHA rights at stake, applies ordinary arbitration review only",0,CLOSE: confirmation of arbitration award in shareholder/termination dispute; no FEHA issue decided,,,0
+11262461,1,FEHA discrimination and retaliation by community college district; summary judgment affirmed,,,,,1
+11262478,1,CLOSE: vacatur denied; holds award met Armendariz essential-findings requirement for FEHA claims,,,,,1
+11263151,1,Wage-hour individual liability under Labor Code 558.1; judgment reversed,,,,,1
+11266501,0,"Employer's breach-of-settlement suit vs former employees, anti-SLAPP; no employment-law issue decided",,,,,0
+11266507,1,FEHA/Equal Pay/1102.5 gender discrimination and retaliation by city; summary judgment affirmed,,,,,1
+11267251,1,"EFAA: decides employee's allegations state sex discrimination, not sexual harassment, under FEHA; arbitration compelled",,,,,1
+11267878,1,PAGA: wholesale PAGA waiver invalid under Iskanian; PAGA claims not arbitrable; stay,,,,,1
+11268392,1,Unpaid commissions and outside-salesperson meal/rest exemption; summary judgment affirmed,,,,,1
+11269246,1,Wage claims: ministerial exception defense and Labor Code 98.2 undertaking; judgment reversed,,,,,1
+11270649,1,Upholds finding that PAGA representative waiver in employment arbitration agreement is unconscionable; remand on severance,,,,,1
+11273499,1,"Sexual harassment, discrimination, retaliation, wrongful termination; summary adjudication and fees affirmed",,,,,1
+11274615,1,PAGA: plaintiff may plead only nonindividual PAGA claim; arbitration denied,,,,,1
+11275302,1,"FEHA discrimination, retaliation, wrongful termination trial; judgment affirmed",,,,,1
+11276087,0,"Family shareholder dispute, anti-SLAPP; not employment",,,,,0
+11276587,1,CLOSE: FEHA termination verdict affirmed; evidentiary redaction error held not prejudicial,,,,,1
+11276657,1,Whistleblower retaliation and wrongful termination; JNOV/new trial on employer status affirmed,,,,,1
+11276664,0,Arbitration denied for lack of proof employees assented; contract formation only,,,,,0
+11277993,0,CLOSE: suit for breach of settlement of prior labor lawsuit dismissed under Government Claims Act; no employment-law ruling,,,,,0
+11279596,1,FEHA gender discrimination termination; summary judgment affirmed,,,,,1
+11280421,1,Unconscionability incl. unwaivable PAGA waiver and Labor Code 232 violation; remand on severance,1,Arbitration agreement's ban on representative PAGA actions held unwaivable/unconscionable (Iskanian); Lab. Code 232 violation,,,1
+11280955,0,Attorney fee dispute with class counsel in bank discrimination case; not employment,,,,,0
+11281022,0,"CLOSE: attorney disqualification over former executive's possession of employer's privileged email; attorney-ethics ruling, no employment claim decided",,,,,0
+11296610,0,CLOSE: judgment on employer's cross-complaint for procedural default (no third amended answer); no employment-law ruling,,,,,0
+11296741,0,Real estate fraud/respondeat superior; not employee-employer claim,,,,,0
+11296768,1,Student research assistant's FEHA employment claims fail to state cause of action; demurrer affirmed,,,,,1
+11299409,1,Wage-hour class action; whether employees must repay settlement money to rescind individual wage-claim releases,,,,,1
+11307802,0,"CLOSE: physician's suit vs individuals; leave to amend after judgment, delay, discovery sanctions; no employment-law ruling",0,"CLOSE: ex-employee's claims vs individual doctors; only Doe amendment, post-judgment amendment and discovery rulings",,,0
+11310254,1,"CLOSE: employer vs former in-house counsel; injunction over employer documents, rejects claimed right to use them in wrongful termination case",,,,,1
+11312364,1,CLOSE: nursing student is unpaid intern with FEHA standing for harassment claims; summary judgment reversed,,,,,1
+11313681,1,Wage-hour class certification on regular rate of pay/bonus overtime claims; denial reversed,,,,,1
+11313757,0,Condo owners vs property manager; not employment,,,,,0
+11314139,0,Arbitration scope/successor nonsignatory for former employee's shareholder claims; no employment-law issue,,,,,0
+11314217,1,"Wage-hour meal period class certification; waiver defense and commonality, writ granted in part",,,,,1
+11314235,1,Wage-hour/PAGA arbitration; addresses validity and severance of wholesale PAGA waiver under Iskanian/Adolph,1,CLOSE: PAGA waiver valid because nonindividual claims carved out (Iskanian/Adolph); otherwise unconscionability,,,1
+11314714,1,"Whistleblower Protection Act retaliation by CSU; triable issues, summary judgment reversed",,,,,1
+11315124,0,CLOSE: only reviews fee condition on leave to amend (section 473) in employment case; no employment-law ruling,0,Fee sanction as condition of amendment in employment case; procedure only,,,0
+11315261,1,Arbitration denied; holds employee's representative PAGA waiver unwaivable/unconscionable (Adolph/Iskanian) plus Armendariz analysis in FEHA case,1,Employment arbitration agreement unconscionable incl. unenforceable representative/PAGA waiver,,,1
+11315306,1,CLOSE: PAGA claims excluded from arbitration as not arbitrable under Iskanian when agreement signed,,,,,1
+11316013,1,PAGA standing of successor in interest; wage and break claims lack evidence,,,,,1
+11316019,1,PAGA: successor in interest lacks standing to pursue father's PAGA claims or vacate overlapping PAGA judgment,,,,,1
+11317873,1,FEHA claims by school district employees; summary judgment affirmed,,,,,1
+11317888,1,FEHA disability/CFRA/Labor Code 98.6 claims vs DWP; summary judgment affirmed,,,,,1
+11317889,1,FEHA claims vs LAUSD; summary judgment affirmed,,,,,1
+11318716,1,EFAA: decides employee pleaded plausible FEHA sexual harassment claim; arbitration denied,,,,,1
+11319230,1,CLOSE: FAA transportation-worker exemption and holds class waiver of wage claims enforceable because FAA preempts state anti-waiver rule (Iskanian/Gentry),,,,,1
+11320214,1,"FEHA pregnancy/gender discrimination, retaliation, harassment; summary judgment affirmed",,,,,1
+11321800,0,HOA/abortion clinic CC&R case; employment law only cited by analogy,,,,,0
+11324512,0,"CLOSE: PAGA case but arbitration denied only on general unconscionability (mutuality, scope, duration); PAGA waiver argument not reached",,,,,0
+11324992,1,EFAA: employee pleaded plausible FEHA sexual harassment; whole case exempt from arbitration,,,,,1
+11325729,0,CLOSE: confirms arbitration award in retaliation case; only arbitrator-bias vacatur issue decided,0,Confirmation of arbitration award; arbitrator bias claim only,,,0
+11327324,1,Public-employee discipline: correctional officer suspension; arbitrator award under MOU/Dills Act vs SPB authority,,,,,1
+11327580,1,FEHA religious accommodation (vaccine) and wrongful termination; summary judgment affirmed,,,,,1
+11327598,1,FEHA race discrimination termination verdict; substantial evidence and damages affirmed,1,FEHA race discrimination verdict,,,1
+11328793,1,Anti-SLAPP step two: FEHA racial harassment claim against city manager fails (personnel actions not harassment),,,,,1
+11330465,1,FEHA disability discrimination/accommodation; employer knowledge; SJ affirmed,1,FEHA employer knowledge of disability,,,1
+11330491,0,Car buyer CLRA arbitration; not employment,,,,,0
+11331918,1,FEHA and Lab. Code 1102.5 claims affirmed; Gov. Code 19257 state employee pay claim reversed,1,"State employee salary correction (Gov. Code 19257), FEHA and 1102.5 claims",,,1
+11332519,1,"FEHA race discrimination, age harassment, retaliation; SJ affirmed",,,,,1
+11332522,1,FEHA discrimination (transgender teacher) constructive discharge and failure to prevent; SJ reversed in part,1,FEHA transgender discrimination summary judgment reversed,,,1
+11333175,1,"CLOSE: EFAA timing; court decides FEHA hostile work environment claim accrued after EFAA date (continuing violation), a FEHA accrual issue",,,,,1
+11333940,1,"Wage and hour class trial (exempt misclassification, overtime, breaks); judgment reversed in part",1,Wage and hour misclassification class trial,,,1
+11336508,0,Home purchase/VA loan discrimination; not employment,,,,,0
+11336529,0,Arbitration: e-signature not proven; arbitration only,,,,,0
+11341350,0,Sanctions against plaintiff lawyers for AI misuse in wage case pleading; no employment issue,,,,,0
+11341351,1,FAA exemption plus Lab. Code 229 (wage claims not arbitrable) scope and Gentry class waiver rulings,,,,,1
+11344666,1,FEHA sexual harassment by patient; employer response adequate; SJ affirmed,,,,,1
+11344838,1,Employment claims jury verdict; JNOV denial affirmed incl. punitive/managing agent,,,,,1
+11344839,1,Arbitration unconscionability; court holds waiver of non-individual PAGA claims invalid under Iskanian/Adolph,,,,,1
+11347458,0,"HFPA member expulsion (bylaws, fair procedure); wrongful discharge claim not challenged on appeal",0,HFPA membership expulsion; wrongful discharge claim not challenged on appeal,,,0
+11348006,1,FAA exemption plus PAGA ruling: employee retains standing for non-individual PAGA claims under Adolph,,,,,1
+11348702,1,FEHA sexual harassment and failure to prevent; judgment for employee affirmed,,,,,1
+11348733,1,"CLOSE: arbitration appeal in wage class action; mostly general unconscionability, but court decides class-action waiver in employment agreement is enforceable (Gentry rule preempted per Iskanian) - a Gentry-type waiver issue, decided against employee",,,,,1
+11349237,0,Arbitration fee nonpayment (CCP 1281.98) remand under Hohenshelt; arbitration only,,,,,0
+11349355,0,Physician-seller v practice buyers; McGill public injunctive relief arbitration; not employment,,,,,0
+11349385,1,Meal period waiver under wage order/Lab. Code 512; arbitrator's ruling upheld,,,,,1
+11350096,0,"CLOSE: misjoinder of hundreds of FEHA plaintiffs v Tesla; civil procedure joinder ruling, no employment-law issue",,,,,0
+11351111,1,Rest period law: on-premises rest break requirement is employer control; award confirmed,,,,,1
+11351165,0,"HOA dispute; FEHA housing accommodation, not employment",,,,,0
+11351287,1,Labor Code civil penalties amount/reduction and fees,,,,,1
+11352007,0,Arbitration unconscionability (Cook scope/duration); PAGA waiver and Armendariz issues not reached,,,,,0
+11352716,0,FAA transportation-worker exemption only; Lab. Code 229/432.6 not reached; arbitration law,0,FAA transportation-worker exemption only; Lab. Code 229/432.6 not reached,,,0
+11382654,1,CLOSE: employer's workplace violence restraining order against former superintendent for harassing employees; court holds employment separation agreement release cannot waive employer's WVRO right and affirms WVRO; workplace-harassment dispute between employer and former employee,,,,,1
+11385036,1,EFAA: holds sexual orientation harassment is sexual harassment under FEHA and severe/pervasive adequately alleged,,,,,1
+11388059,0,Discovery monetary sanctions for self-represented party; no employment issue,,,,,0
+11395175,0,Firearms DES challenge vs DOJ; not employment,,,,,0
+11401155,0,Five-year dismissal reversed in employee suit; no employment-law ruling,,,,,0
+11401574,1,Wage and hour and wrongful termination verdict against co-operator; substantial evidence affirmed,,,,,1
+11401575,1,"Employment verdict: substantial evidence entity was employer/joint venturer, FEHA employer liability",,,,,1
+11401593,1,"FEHA age/race/gender discrimination, retaliation, harassment; SJ affirmed",,,,,1
+11403387,0,Tenant harassment/construction case; not employment,,,,,0
+11403543,1,CLOSE: employee arbitration unconscionability; court holds provision curtailing statutory attorney-fee rights on Labor Code claims violates Armendariz (wage right not waivable by arbitration agreement),,,,,1
+11404365,1,CLOSE: public employee wrongful termination/1102.5/FEHA suit dismissed for failure to comply with Government Claims Act presentment; merits of employment claims not reached but claims disposed of,1,Employee's Lab. Code 1102.5 whistleblower claim barred for failure to allege Government Claims Act presentment,,,1
+11405073,1,FEHA 12952 and Lab. Code 432.7 extraterritoriality for remote worker; award confirmed,,,,,1
+11405498,0,Prop 65 res judicata; not employment,,,,,0
+11406242,0,Arbitration scope: whether FEHA/CFRA/Tameny claims fall within arbitration clause; contract interpretation only,,,,,0
+11406243,0,"Arbitration unconscionability (mutuality, confidentiality agreement, opt-out) only",,,,,0
+11406317,0,Criminal conspiracy; not employment,,,,,0
+11406322,1,Overtime under Lab. Code 510 and PAGA standing; isolated clerical errors insufficient,,,,,1
+11407140,1,"Lab. Code 98.6 and 1102.5 retaliation; no protected activity, SJ affirmed",,,,,1
+11407911,1,"FEHA disability claims; some forfeited, others fail; SJ affirmed",1,FEHA claims summary judgment affirmed,,,1
+11408508,0,CLOSE: anti-SLAPP step one only - public employee wrongful termination claim does not arise from protected activity; no employment-law merits decided,,,,,0
+11411647,1,FEHA disability discrimination and hostile work environment; SJ reversed in part,,,,,1
+11415123,1,"CLOSE: arbitration motion, but court decides PAGA question that alleging aggrieved-employee status for standing does not create an individual PAGA claim (Adolph)",,,,,1
+11416291,1,Arbitration unconscionability; court holds wholesale waiver of non-individual PAGA claims unconscionable/invalid,,,,,1
+11420865,1,PAGA construction worker exemption bars claim; dismissal affirmed,,,,,1
+11421815,0,Waiver of right to arbitrate (Quach) in harassment case; arbitration only,,,,,0
+11421860,0,"CLOSE: employee's fraud/IIED claims based on employer's statements to EEOC/CRD/DLSE struck as litigation-privileged; tort/anti-SLAPP issue, no employment-law ruling",0,CLOSE: anti-SLAPP on ex-employee's fraud/IIED claims about agency statements; no employment-law issue,,,0
+11422369,1,Unpaid wages; ministerial exception does not bar claims; reversed,,,,,1
+11422525,1,"Labor Code 1102.5 whistleblower retaliation; nonsuit affirmed, no protected activity",,,,,1
+11424392,0,PAGA case arbitration: employer failed to prove agreement exists; arbitration only,,,,,0
+11425235,0,"CLOSE: employee's invasion-of-privacy tort vs district for publishing her claim; litigation privilege/anti-SLAPP, no employment-law issue decided",,,,,0
+11425237,0,Mobile home residents arbitration; not employment,,,,,0
+11425360,0,"Appealability of order vacating arbitration award in employment case; appeal dismissed, no employment issue",,,,,0
+11426061,1,"FEHA retaliation by city fire marshal; demurrer sustained, affirmed",,,,,1
+11426210,0,Shareholder inspection/forum selection; not employment,,,,,0
+11426218,0,Renewed motion to compel arbitration barred by CCP 1008; appeal dismissed,,,,,0
+11428231,0,Tenant cross-complaint anti-SLAPP; FEHA housing only,,,,,0
+11429131,0,"CLOSE: arbitration unconscionability reversed; PAGA waiver/Gentry/FAA issues discussed only as guidance and remanded, not decided",,,,,0
+11430577,1,FEHA retaliation prima facie and whistleblower claims decided on SJ (affirmed),,,,,1
+11430582,0,Juvenile dependency; not employment,,,,,0
+11430584,1,Retaliation and related employment claims; SJ reversed,,,,,1
+11430670,0,Arbitration: e-signature authentication only,,,,,0
+11430781,0,Business (staffing co) v union: LMRA preemption of defamation/interference; excluded by definition,0,Business and its owner v. union (defamation); no employment claim decided,,,0
+11431350,1,CLOSE: wrongful termination claim (breach of buy-sell/employment terms) - employee's claims of error on damages/specific performance ruled forfeited; contract-based but employee v employer termination claim,,,,,1
+11431498,0,"Arbitration unconscionability (scope, duration, third parties) only",,,,,0
+11433702,1,Wrongful termination/FEHA claims; SJ for employer affirmed,1,Wrongful termination and related claims summary judgment,,,1
+11433711,1,"CFRA/FEHA verdict upheld, punitive damages directed verdict reversed, fees",1,CFRA/FEHA claims; directed verdict and judgment,,,1
+11438266,1,PAGA statute of limitations; Lab. Code 216 claim accrues on demand,1,PAGA statute of limitations,,,1
+11439738,0,Arbitration: 2021 employment agreement did not supersede 2017 arbitration agreement; arbitration only,,,,,0
+11442699,0,Discovery sanctions (Pitchess objections) in employment suit; no employment-law ruling,,,,,0
+11444506,0,Physician staff privileges/peer review fees; not employee-employer claim,,,,,0
+11450808,1,CLOSE: SJ for employer on CFRA retaliation/wrongful termination affirmed because appellant's briefing failed to show error (forfeiture),,,,,1
+11452745,1,EFAA: complaint plausibly alleges FEHA hostile work environment sexual harassment; whole case exempt,,,,,1
+11452783,1,"Labor Code 1102.5 and Whistleblower Protection Act retaliation; claims presentation, exhaustion, no individual supervisor liability",,,,,1
+11452807,1,"FEHA disability discrimination; no triable issue of pretext, summary judgment affirmed",,,,,1
+11452853,1,CLOSE: public employee retirement plan participant's fiduciary duty claim against employer over plan fees; barred by Government Claims Act immunity,,,,,1
+11477282,1,FEHA costs to prevailing defendant require frivolousness finding under Gov. Code 12965(c)(6); cost award reversed,,,,,1
+11479587,0,"CLOSE: plaintiff waived EFAA right to avoid arbitration by withholding harassment claim; waiver/arbitration ruling only, court did not reach whether harassment claim sufficed",,,,,0
+11479615,1,FEHA sexual harassment: strict liability does not apply where harasser supervises others but not plaintiff,,,,,1
+11480654,0,"CLOSE: FEHA case, arbitration unconscionability and severance only; class waiver okay since PAGA exempted (no Iskanian ruling), confidentiality clause general unconscionability",1,CLOSE: class waiver held valid because it exempts unwaivable PAGA representative claims; otherwise unconscionability/severance,1,"Employee's FEHA pregnancy/disability discrimination case; motion to compel arbitration. Court decides the class/representative waiver does not infringe the unwaivable right to bring representative PAGA actions (Iskanian/Adolph) because PAGA is carved out, and it holds the confidentiality clause unconscionable because of its effect on investigating FEHA discrimination claims. The Iskanian/PAGA non-waiver ruling counts under the definition.",1
+11481712,1,"FEHA religious discrimination/accommodation (vaccine mandate); summary judgment affirmed, undue hardship",,,,,1
+11486196,1,"FEHA and Lab. Code 1102.5 claims; PERB issue preclusion rejected, triable accommodation issues, harassment claim time-barred",1,FEHA and 1102.5 claims summary judgment reversed,,,1
+11492967,1,FEHA failure to accommodate/interactive process jury verdict; substantial evidence and post-resignation damages affirmed,,,,,1
+11499646,1,"FEHA disability/age discrimination, retaliation, harassment claims by retired police officer; demurrer affirmed",,,,,1
+11500177,1,Lab. Code 2802/558.1 employee indemnification claim against former owner; JNOV affirmed,,,,,1
+11500199,1,CLOSE: FEHA religious accommodation claim against non-employer school district; court holds interference theory of FEHA liability inapplicable,,,,,1
+11500376,1,FEHA Fair Chance Act and retaliation claims by job applicant; summary adjudication and harm requirement affirmed,,,,,1
+11501828,1,FEHA and other employment claims by CSU lecturer; summary judgment affirmed,,,,,1
+11504811,0,"CLOSE: wage/PAGA case but court decides only arbitration issues (FAA transportation-worker exemption, CCP 1281.2(c) denial of motion to compel); no employment-law ruling",,,,,0
