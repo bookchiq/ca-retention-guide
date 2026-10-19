@@ -208,6 +208,9 @@ def test_listing_display_drops_courtlistener_suffixes(tmp_path):
     text = page(tmp_path, "dato")
     assert "*People v. Lewis* (D080606," in text
     assert "CA4/1" not in text and "D080606M" not in text
+    n2 = dict(n, citation_or_docket="B331398A", cl_opinion_id=2)
+    render.render(make_inputs(case_notes=[n2], reviewed=reviewed), tmp_path)
+    assert "(B331398," in page(tmp_path, "dato")
 
 
 def test_credit_and_contact_appear_on_every_page(tmp_path):

@@ -191,7 +191,7 @@ def _glance(slug: str, j: dict, metrics: dict) -> list[dict]:
 
 
 _CA_SUFFIX = re.compile(r"\s+CA\d/\d$")
-_MODIFIED_DOCKET = re.compile(r"^([A-HS]\d{6})M$")
+_MODIFIED_DOCKET = re.compile(r"^([A-HS]\d{6})[MA]$")
 
 
 def _display_note(note: dict) -> dict:

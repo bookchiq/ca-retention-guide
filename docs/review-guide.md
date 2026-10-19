@@ -10,6 +10,8 @@ A ruling on how a suppression motion is litigated (its timeliness, a continuance
 
 Not at issue → `listing_decision: excluded`, `exclusion_reason: topic_not_at_issue`. Stop.
 
+A ruling that a search or seizure claim is barred by an earlier judgment (claim or issue preclusion) is at issue, the way a forfeiture ruling is. A civil claim counts only if it is itself a search or seizure claim (for example, that a search or detention was unreasonable), not a tort claim that merely arose from one. *(Clarified 2026-10-18.)*
+
 A case shared by several justices' queues gets the same at-issue decision for every justice.
 
 ## 2. Which listing rule applies?
@@ -25,6 +27,8 @@ Check the queue entry's `candidate_rules`, then decide from the opinion. Use the
 | L4 | The justice wrote or joined the majority over another justice's dissent **on the search or seizure issue** | `joined_majority_over_dissent` (or `author` if they wrote it) | Dissent on another issue → exclude, `dissent_on_other_issue` |
 
 A queued opinion that is the same decision as another queued one (a modified version, a duplicate) → exclude, `duplicate`.
+
+L2 applies to a partially published opinion only if the search or seizure ruling is in a published part. If it is in an unpublished part, treat the opinion as unpublished for the listing rules. *(Clarified 2026-10-18.)*
 
 The issue is at issue but the justice's role meets none of the rules (for example, they joined a dissent another justice wrote, or joined a unanimous unpublished affirmance) → exclude, `no_rule_applies`.
 
@@ -57,7 +61,7 @@ Good: "Wrote the 2–1 majority holding that a warrant affidavit relying on an u
 
 ## 5. Verification (a different session)
 
-Re-open the opinion and confirm: the case name and docket number match the opinion's own caption (CourtListener occasionally files an opinion under another case's name; correct the record to the caption and note it), the author and panel from the signature lines (or the Supreme Court attribution), the disposition sentence, the listing rule and role, the vote, and that the summary matches the holding. Fix anything wrong, then stamp with `python -m src.review verify --justice <slug> --by <session> --ids ...`.
+Re-open the opinion and confirm: the case name and docket number match the opinion's own caption (CourtListener occasionally files an opinion under another case's name; correct the record to the caption and note it; drop a docket suffix such as "M" or "A" that the caption does not show), the author and panel from the signature lines (or the Supreme Court attribution), the disposition sentence, the listing rule and role, the vote, and that the summary matches the holding. Fix anything wrong, then stamp with `python -m src.review verify --justice <slug> --by <session> --ids ...`.
 
 ## 6. Second check and promotion
 
