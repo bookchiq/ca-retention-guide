@@ -210,6 +210,19 @@
         "rule": "\u22651 distinct anchors, \u22656 anchor uses",
         "tagged": 216,
         "undercount_share": 0.0
+      },
+      {
+        "est_missed": 0,
+        "precision": 0.84,
+        "precision_n": 50,
+        "precision_pass": false,
+        "probe_hits": 0,
+        "probe_n": 30,
+        "probe_pool": 2297,
+        "round": "r3",
+        "rule": "\u22652 distinct anchors, \u22655 anchor uses",
+        "tagged": 168,
+        "undercount_share": 0.0
       }
     ]
   },
@@ -304,6 +317,19 @@
         "rule": "\u22651 distinct anchors, \u22653 anchor uses",
         "tagged": 274,
         "undercount_share": 0.061224489795918366
+      },
+      {
+        "est_missed": 53,
+        "precision": 0.94,
+        "precision_n": 50,
+        "precision_pass": true,
+        "probe_hits": 3,
+        "probe_n": 30,
+        "probe_pool": 527,
+        "round": "r3",
+        "rule": "\u22652 distinct anchors, \u22655 anchor uses",
+        "tagged": 199,
+        "undercount_share": 0.22083333333333333
       }
     ]
   },

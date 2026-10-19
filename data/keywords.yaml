@@ -118,7 +118,7 @@ jury_selection:
 
 racial_justice_act:
   tier: 2
-  validated: false
+  validated: true    # report_topics.md round 2: 94% precision (2026-10-18)
   # Round-2 failed at 84% with ≥3 anchor uses. Round-3 candidate (2026-10-18): fit on the
   # round-1 and round-2 labels; must pass a fresh round-3 sample before the topic is shown.
   tag_rule:

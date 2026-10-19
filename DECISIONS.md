@@ -85,6 +85,10 @@ Owner request: add more topics so the guide is useful for different priorities. 
 
 **Six civil topics need another approach.** For employment, consumer protection, landlord-tenant, public records and open meetings, land use and housing, and taxes and fees, no anchor-count rule reached a safe margin on round 1. Their definitions turn on who is suing or on whether the issue was decided, which word counts cannot see (for example, the Unfair Competition Law is used by competitors, employees, and taxpayers as well as consumers). They stay hidden.
 
+**Rounds 2 and 3: eight topics pass.** On fresh samples that excluded every earlier-round opinion, these rules reached the 85% bar: resentencing 96%, anti-SLAPP 94%, interrogation 92%, police records 92%, immigration pleas 92%, arbitration 92%, right to counsel 90% (round 2), and Racial Justice Act 94% (round 3, after 84% in round 2). Their counts are now shown. Several strict rules miss many qualifying opinions (estimated: right to counsel 58%, arbitration 51%, interrogation 34%); pages say so wherever a topic's estimated miss rate is 25% or more.
+
+**Jury selection stays hidden.** It failed three fresh samples (82%, then 84% after retuning). Retuning a fourth time on the same kind of labels would start fitting the rule to the samples, so it stays off the pages until a different approach (such as reading each flagged opinion) is used.
+
 **Definitions clarified while labeling.** Right to counsel excludes confrontation and jury-trial claims (the topic is retitled "Right to counsel"). Police records includes review of a sealed Pitchess hearing.
 
 ## 2026-10-17: Review queue rules (U9)
