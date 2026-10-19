@@ -1,11 +1,15 @@
 title: California appellate justices on the November 3, 2026 ballot
 description: A source-linked guide to the justices on the retention ballot. An experiment.
+# Project site: served at https://bookchiq.github.io/ca-retention-guide/
+baseurl: /ca-retention-guide
+theme: jekyll-theme-primer
 markdown: kramdown
 kramdown:
   input: GFM
 plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter
+  - jekyll-default-layout
   - jekyll-titles-from-headings
 relative_links:
   enabled: true

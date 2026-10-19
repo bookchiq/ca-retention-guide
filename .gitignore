@@ -29,3 +29,11 @@ Thumbs.db
 .idea/
 .vscode/
 *.code-workspace
+
+# Local Jekyll preview (tools/pages)
+vendor/
+.bundle/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
