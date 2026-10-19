@@ -159,10 +159,17 @@ def test_index_follows_ballot_order_not_metrics(tmp_path):
     assert index.index("Zeta") < index.index("Alpha")
 
 
-def test_tier_2_and_3_counts_labeled_unvalidated(tmp_path):
+def test_unvalidated_topics_hidden_from_pages_but_kept_in_data(tmp_path):
     render.render(make_inputs(), tmp_path)
     text = page(tmp_path, "dato")
-    assert text.count("Unvalidated keyword-match counts") == 2
+    assert "### Search and seizure" in text
+    assert "Interrogation" not in text and "Arbitration" not in text
+    assert "2 other topics are not shown yet" in text
+    with open(tmp_path / "data" / "metrics.csv") as fh:
+        rows = [r for r in csv.DictReader(fh) if r["slug"] == "dato"]
+    notes = {r["topic"]: r["note"] for r in rows if r["topic"]}
+    assert notes["interrogation"] == "unvalidated keywords"
+    assert notes["search_seizure"] == ""
 
 
 def test_supreme_court_page_quotes_denial_dissents_with_attribution(tmp_path):
@@ -235,6 +242,16 @@ def test_site_config_and_reviewer_notes_are_exported(tmp_path):
         row = next(csv.DictReader(fh))
     assert row["verification_notes"] == "Checked caption."
     assert row["second_check_note"] == "Re-read in full."
+
+
+def test_other_appellate_service_row_only_when_present(tmp_path):
+    js = [justice("dato", other_appellate_service="Pro tem assignment, 2025",
+                  other_appellate_service_source_url="https://a.example/bio"),
+          justice("other", district="1", sd="false")]
+    render.render(make_inputs(justices=js), tmp_path)
+    assert ("| Earlier appellate service | Pro tem assignment, 2025 ([source]"
+            "(https://a.example/bio)) |") in page(tmp_path, "dato")
+    assert "Earlier appellate service" not in page(tmp_path, "other")
 
 
 def test_unset_correction_contact_leaves_visible_placeholder(tmp_path):

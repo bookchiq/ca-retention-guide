@@ -11,6 +11,7 @@ Court of Appeal, Fifth District · Limited appellate record
 | | |
 |---|---|
 | Appellate service began | 2026-05-22 ([source](https://newsroom.courts.ca.gov/news/commission-confirms-five-appointments-courts-appeal-0)) |
+| Earlier appellate service | Pro tem (temporary) assignment, Fifth District, October 2025 to January 2026 ([source](https://appellate.courts.ca.gov/district-courts/5dca/bio/amy-k-guerra)) |
 | Appointed by | Gov. Newsom ([source](https://www.gov.ca.gov/2026/02/19/governor-newsom-announces-judicial-appointments-2-19-2026)) |
 | Prior career | public defender, trial judge ([source](https://www.gov.ca.gov/2026/02/19/governor-newsom-announces-judicial-appointments-2-19-2026)) |
 | Prior retention votes | None; this is the first retention vote (sources: [1](https://elections.cdn.sos.ca.gov/sov/2010-general/08-18-sov-summary-pages.pdf), [2](https://elections.cdn.sos.ca.gov/sov/2014-general/pdf/06-summary.pdf), [3](https://elections.cdn.sos.ca.gov/sov/2018-general/sov/07-summary.pdf), [4](https://elections.cdn.sos.ca.gov/sov/2022-general/sov/06-summary.pdf)) |

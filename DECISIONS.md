@@ -69,6 +69,10 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Publishing.** The guide is published on GitHub Pages from the committed `guide/` folder, credited as "An experiment by Sarah Lewis" and labeled a work in progress. Corrections are invited as GitHub issues or pull requests, or by email. The release date on each page is the day the pages are generated for publication (`render.snapshot_date`). The front page is a short version for casual readers; the methodology page is the detailed version, including review counts computed from the published records, known weaknesses, and links to every validation report. The case data now includes each reviewer's notes.
 
+**Unvalidated topics hidden.** Counts for the 15 topics whose keywords have not been hand-checked are no longer shown on the pages, to prevent confusion; each page says how many are hidden and why. The counts stay in `metrics.csv`, marked "unvalidated keywords". A topic returns to the pages once its keywords pass the same check as search and seizure. Owner decision; the owner wants these gaps filled after the short term.
+
+**Guerra.** Metrics and the limited-record test count only her confirmed service (from 2026-05-22). Counting her pro tem assignment would not change anything shown: either way she has less than 12 months of appellate service. Her page now lists the pro tem assignment (Fifth District, October 2025 to January 2026) as earlier appellate service, sourced to her official biography (new `other_appellate_service` columns in `justices.csv`).
+
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 
 ## 2026-10-17: Review queue rules (U9)

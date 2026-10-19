@@ -13,6 +13,8 @@
 | | |
 |---|---|
 | Appellate service began | {{ j.appellate_start_date or "Not found in official sources" }}{{ j.appellate_start_source_url|sources }} |
+{% if j.get("other_appellate_service") %}| Earlier appellate service | {{ j.other_appellate_service }}{{ j.other_appellate_service_source_url|sources }} |
+{% endif %}
 | Appointed by | {{ ("Gov. " ~ j.appointing_governor) if j.appointing_governor else "Not found in official sources" }}{{ j.appointing_governor_source_url|sources }} |
 | Prior career | {{ j.career_text or "Not found in official sources" }}{{ j.prior_career_source_url|sources }} |
 | Prior retention votes | {{ j.retention_text }}{{ j.prior_retention_source_url|sources }} |
@@ -63,6 +65,10 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 {% endif %}
 
 {% endfor %}
+{% if j.hidden_topics %}
+*{{ j.hidden_topics }} other topics are not shown yet, because their keyword rules have not been checked by hand. See the [methodology](../methodology.md#topics).*
+
+{% endif %}
 {% endif %}
 {% endif %}
 {% if j.denial_dissents %}

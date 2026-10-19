@@ -62,7 +62,7 @@ Rule: at least 2 distinct anchor terms and at least 4 occurrences of the core te
 - Recall loss: 4 of 50 opinions that the old rule tagged but the current rule does not had a search or seizure issue. Scaled to the 1,707 such opinions, about 137 qualifying opinions are not counted against 586 that are, so published topic counts undercount the topic by roughly one fifth.
 - The reading queue for listed cases does not use this rule. It uses a looser match (any anchor or broader term), so the stricter count rule does not remove cases from review.
 
-The other topics' keywords have **not** been checked, and their counts are labeled "unvalidated" wherever they appear. The first, unchecked version of the search-and-seizure keywords turned out to be right only 28% of the time, so treat unvalidated counts with caution.
+The guide also tracks other topics, such as right to counsel, resentencing, and anti-SLAPP. Their keywords have **not** been checked by hand, so their counts are **not shown on the pages**. The first, unchecked version of the search-and-seizure keywords turned out to be right only 28% of the time, and unchecked counts could mislead in the same way. The raw counts are in [metrics.csv](data/metrics.csv), marked "unvalidated keywords" in the note column, for anyone who wants them. Each topic will appear on the pages once its keywords pass the same hand check.
 
 ## Which cases are listed
 

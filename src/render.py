@@ -250,7 +250,10 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
             "contested_majority": tm("contested_majority"),
             "contested_dissent": tm("contested_dissent"), "listing": listing,
         })
-    ctx["topics"] = topics
+    # Owner decision 2026-10-18: counts from unchecked keyword rules stay off the pages (they
+    # remain in metrics.csv, marked unvalidated). Hand-verified listings are always shown.
+    ctx["topics"] = [t for t in topics if t["validated"] or t["listing"]]
+    ctx["hidden_topics"] = len(topics) - len(ctx["topics"])
 
     sc = inputs.sc_dissents or {}
     if slug in sc.get("justices", {}):
@@ -361,8 +364,11 @@ def build(inputs: Inputs) -> dict[str, str]:
     files["data/justices.csv"] = _csv_text(inputs.justices, justice_fields)
     metric_fields = ["slug", "metric", "topic", "value", "baseline", "baseline_n", "n",
                      "window_start", "window_end", "note"]
+    unchecked = {t for t, spec in inputs.topics.items() if not spec.get("validated")}
+    metric_rows = [dict(r, note="unvalidated keywords") if r.get("topic") in unchecked and not
+                   r.get("note") else r for r in inputs.metrics]
     files["data/metrics.csv"] = _csv_text(
-        sorted(inputs.metrics, key=lambda r: (r["slug"], r.get("topic") or "", r["metric"])),
+        sorted(metric_rows, key=lambda r: (r["slug"], r.get("topic") or "", r["metric"])),
         metric_fields)
     notes = sorted(inputs.case_notes, key=lambda n: (
         n["justice_slug"], n["topic"], n["date_filed"], n["cl_opinion_id"]))
