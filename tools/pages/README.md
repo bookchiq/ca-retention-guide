@@ -11,9 +11,9 @@ BUNDLE_GEMFILE=tools/pages/Gemfile bundle install
 ```
 
 ```bash
-LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 BUNDLE_GEMFILE=tools/pages/Gemfile bundle exec jekyll serve --source guide --destination _site --port 4000
+LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 BUNDLE_GEMFILE=tools/pages/Gemfile bundle exec jekyll serve --source guide --destination _site --port 4010
 ```
 
-Then open http://localhost:4000/ca-retention-guide/ (the site path matches the published URL). The UTF-8 locale is required: without it, the theme's Sass compiler fails on non-ASCII characters.
+Then open http://localhost:4010/ca-retention-guide/ (the site path matches the published URL). Port 4010 avoids Jekyll's default 4000, which Local by Flywheel uses; if 4010 is busy too, pick any free port. The UTF-8 locale is required: without it, the theme's Sass compiler fails on non-ASCII characters.
 
 Re-run `uv run python -m src.render` after changing data or templates; the running server picks up the new files.
