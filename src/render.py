@@ -356,13 +356,21 @@ def _topic_rows(inputs: Inputs) -> list[dict]:
     rows = []
     for topic in sorted(inputs.topics, key=lambda t: (order.index(t) if t in order else 99, t)):
         spec = inputs.topics[topic]
-        rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
+        entry = inputs.topic_validation.get(topic, {})
+        rounds = entry.get("rounds", [])
         last = rounds[-1] if rounds else None
+        read = entry.get("read") if spec.get("method") == "read" else None
+        if read:
+            precision = (f"each opinion read; second readers agreed on "
+                         f"{pct(read['agreement'])} (N = {read['second_n']})")
+        elif last:
+            precision = f"{pct(last['precision'])} (N = {last['precision_n']})"
+        else:
+            precision = "not yet checked"
         rows.append({
             "title": TOPIC_TITLES.get(topic, topic),
             "definition": " ".join((spec.get("definition") or "").split()),
-            "precision": (f"{pct(last['precision'])} (N = {last['precision_n']})" if last
-                          else "not yet checked"),
+            "precision": precision,
             "undercount": topic_validate.undercount_text(last) if last else "—",
             "shown": "yes" if spec.get("validated") else "no",
         })

@@ -131,6 +131,10 @@ def tag_all(conn: sqlite3.Connection, topics: dict) -> int:
         batch,
     )
     conn.commit()
+    # Topics covered by reading each opinion take their tags from the read decisions,
+    # not from keyword counts (src/topic_reads.py).
+    from src import topic_reads
+    topic_reads.apply(conn, topics, KEYWORDS.parent / "topic_reads")
     return count
 
 

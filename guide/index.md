@@ -8,7 +8,7 @@ On November 3, California voters decide whether each Supreme Court and Court of 
 
 - **Background:** who appointed them, what they did before, how earlier retention votes went, and any public discipline. Each fact links to its source.
 - **Record at a glance:** how many opinions they wrote, how often those were published, and how often they wrote dissents or concurrences. Each rate is shown next to the same rate for their court.
-- **Other topics:** counts for topics such as interrogation, right to counsel, resentencing, arbitration, and anti-SLAPP, shown only where a hand check found the keyword counts accurate.
+- **Other topics:** counts for 15 more topics, from interrogation and resentencing to employment, consumer protection, and land use. Each topic's count was checked for accuracy before it was shown.
 - **Search-and-seizure cases**, for every justice with an appellate record: the cases chosen by the same fixed rules for every justice, each with a short summary and a link to the opinion. AI reviewers did the reading. Each case was read, then re-checked against the opinion text by a separate reviewer, a random 15% were checked a third time, and the author checked a random sample of the summaries.
 
 ## Before you draw conclusions

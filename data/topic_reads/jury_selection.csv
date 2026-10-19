@@ -1,0 +1,659 @@
+cl_opinion_id,at_issue,note,second_at_issue,second_note,tiebreak_at_issue,tiebreak_note,final
+4503065,1,Voir dire claims incl. excluding Prospective Juror F.G. for cause decided,,,,,1
+4504014,0,Jury selection mentioned only in description of other case,0,Jury selection mentioned only in quoted case facts,,,0
+4512815,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4521869,0,Juror misconduct/discharge during trial only; no jury-selection claim,,,,,0
+4529591,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4535850,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4537219,1,Batson/Wheeler claim re prosecutor's strikes of African-American jurors decided,,,,,1
+4541806,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4544979,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4546109,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4546556,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4552817,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4552945,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4553062,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4554388,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4555336,1,"Death-qualification challenge, Witt excusal of Deborah B., denial of for-cause challenges decided",,,,,1
+4555337,1,Excusals for cause and denial of for-cause challenges (Witt) decided,,,,,1
+4557919,0,Plaintiffs named Wheeler; no jury-selection issue,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4558196,1,Witherspoon/Witt excusals for cause on questionnaire answers decided (penalty reversed),,,,,1
+4558596,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4560882,1,Batson/Wheeler motion re prospective juror no. 3 decided,1,Affirms denial of Batson/Wheeler motion,,,1
+4561364,1,Batson/Wheeler claim re prosecutor's peremptory strikes decided,,,,,1
+4561609,1,Batson/Wheeler claim (no prima facie showing) decided,,,,,1
+4563607,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4563712,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4565382,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4570033,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4573530,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4573552,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4574807,0,Defendant named Wheeler; no jury-selection issue,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4574817,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4579160,0,Wiretap records access; Batson cited only by analogy,,,,,0
+4580275,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4580529,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4582378,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4583827,1,Prosecution's Batson/Wheeler motion against defense strikes and remedy decided,,,,,1
+4584105,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4585355,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4585681,0,Jury selection mentioned in background only; Wheeler (1992) impeachment cite,0,Jury selection mentioned only as timing in facts,,,0
+4587438,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4587652,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4635400,1,Witherspoon/Witt excusal of two prospective jurors for cause decided,,,,,1
+4635401,0,Peremptory challenge to judge (170.6) and juror misconduct only; no jury-selection claim,,,,,0
+4638160,1,Excusal of two prospective jurors for cause over death-penalty views decided,,,,,1
+4638669,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4639312,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4639822,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4641051,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4642193,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4642826,0,Jury selection mentioned only as timing for competency claim; Wheeler (1992) impeachment cite,,,,,0
+4645569,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4646822,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4648565,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4655581,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4655614,0,Uniformed officers in courtroom; prospective jurors mentioned only; no jury-selection claim,,,,,0
+4656319,0,Venue-change claim; additional peremptories and juror removal during trial only mentioned; no jury-selection claim,0,Capital appeal; venue-change claim; voir dire/peremptory mentions only as support,,,0
+4656320,1,Batson/Wheeler denial re two Black prospective jurors decided,,,,,1
+4656729,1,Batson/Wheeler denial reviewed; conditional reversal for wrong standard,,,,,1
+4657574,0,"CLOSE: peremptory allocation raised only as prejudice from joint trial/severance; no Batson, 231.7 or for-cause ruling",,,,,0
+4657982,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4659641,0,"Voir dire mentioned in quotation only; Bryant, Smith and Wheeler cited",,,,,0
+4660475,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4663434,0,Defendant named Wheeler; no jury-selection issue,,,,,0
+4665702,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4668954,0,Voir dire mentioned in quoted argument only,,,,,0
+4668976,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4670305,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4670966,0,Civil tort case; party named Wheeler; no jury selection,,,,,0
+4671660,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4672413,1,Batson/Wheeler claim re strikes of Latinx jurors decided (rejected),,,,,1
+4673744,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4674303,1,Batson/Wheeler gender-discrimination claim decided,,,,,1
+4675108,0,Juror hardship relief during trial mentioned; no jury-selection claim,,,,,0
+4677011,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4677294,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4679103,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4680104,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4682399,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,,,,,0
+4687542,0,No jury-selection issue; Wheeler/Bryant case cites or unrelated terms only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4687920,1,Batson/Wheeler objections re four Black prospective jurors decided,,,,,1
+4688703,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4692344,0,Defendant named Wheeler; no jury-selection issue,,,,,0
+4693088,1,Batson/Wheeler motion (pretext for three jurors) rejected,,,,,1
+4694422,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4695023,1,Batson/Wheeler: missing transcript claim and denial of race-based peremptory objection rejected,,,,,1
+4698774,1,Batson-Wheeler challenge to excusal of only juror of group rejected,,,,,1
+4699269,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4700030,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4700511,1,Capital appeal: Batson/Wheeler prima facie denial upheld,1,Capital appeal; rejects Batson/Wheeler claim re strike of J.B.,,,1
+4703931,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4704240,0,Batson/Wheeler only in procedural history of prior appeal; SB 1437 petition,,,,,0
+4704622,0,Pledge of allegiance before voir dire; not Batson or cause challenge,,,,,0
+4704728,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4704939,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4705017,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4707594,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4707705,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4708067,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4710648,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4765436,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4765464,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4856360,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4879041,1,Capital appeal: Batson/Wheeler claim decided on merits,,,,,1
+4879277,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4880375,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+4881091,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+4910248,1,Batson/Wheeler denial of objections to strikes of two Black women affirmed,,,,,1
+4912723,0,Peremptory writ of mandate only,,,,,0
+4972063,0,Yeoman Batson waiver discussed only as analogy for forfeiture of expert objection,,,,,0
+5095610,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5118224,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5120654,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5120959,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5122116,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5122397,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5125070,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5126486,0,Yeoman Batson waiver discussed only as analogy for forfeiture of expert objection,,,,,0
+5127155,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5127353,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+5130342,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5130679,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5131047,1,Batson/Wheeler claim decided (plus jury-selection notes discovery),0,Discovery of prosecutor's jury-selection notes for Batson habeas claim; excluded by definition,0,CLOSE: Only issue decided is postconviction discovery (Pen. Code 1054.9) of the prosecutor's jury-selection notes; court holds work product impliedly waived because prosecutor relied on rating system at Batson/Wheeler hearing. Definition expressly excludes discovery of jury-selection notes. The Batson/Wheeler merits are not decided here (habeas still pending); the 2013 direct-appeal Batson rulings appear only in procedural history.,0
+5131048,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5132871,1,Two Batson/Wheeler motions denied; reviewed and affirmed,,,,,1
+5132890,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5134861,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+5135325,1,Batson/Wheeler strike of Latina juror; claim rejected,,,,,1
+5136030,1,Batson/Wheeler motion denial (Prospective Juror No. 5) affirmed,,,,,1
+5136678,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5139362,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+5139755,1,Batson/Wheeler motion denial affirmed,,,,,1
+5288647,1,Capital appeal: denial of 10 for-cause challenges decided,,,,,1
+6104410,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6104972,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6113812,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6114019,1,Capital appeal: Witt for-cause excusal of Juror 126 and Batson/Wheeler prima facie ruling both upheld,,,,,1
+6118267,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6221977,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6221981,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6316791,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6317327,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6317415,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6320423,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6322116,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6324073,0,"CLOSE: severance prejudice claim incl. sharing joint peremptory challenges with codefendants; not Batson, 231.7, or for-cause",,,,,0
+6324842,1,Batson/Wheeler motion denial reviewed and rejected,,,,,1
+6325657,1,"CLOSE: capital habeas COA; Batson/Wheeler and Witt for-cause claims (direct and IAC) held successive/procedurally barred, not reached on merits; treated as ruling claims not cognizable",,,,,1
+6328309,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6328481,1,Batson/Wheeler motion denial affirmed,,,,,1
+6331296,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6332207,0,Restraints visible during voir dire; not a jury-selection challenge,,,,,0
+6334625,0,Wheeler cited only as example of structural error,,,,,0
+6335466,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6336640,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6337447,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6337791,0,Jury trial waiver/excusing jury; Wheeler cited as structural error example only,,,,,0
+6338223,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6343563,1,Batson/Wheeler motion denial affirmed,,,,,1
+6343850,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6343994,0,"No jury-selection issue; only incidental mentions (e.g., Bryant, Smith and Wheeler or Foster Wheeler cites)",,,,,0
+6344417,0,Attorney named Wheeler only,,,,,0
+6344616,0,Racial Justice Act discovery writ; Batson cited only in background,,,,,0
+6345031,0,"Bryant, Smith and Wheeler cited on prosecutorial misconduct only",,,,,0
+6345101,0,Foster Wheeler case cited on summary judgment only,,,,,0
+6345553,1,Decides Batson-Wheeler motion re three jurors; no error,,,,,1
+6348013,0,People v. Wheeler (1992) cited on impeachment only,,,,,0
+6348800,0,Mistrial over court's voir dire question; not a challenge to a juror,,,,,0
+6350984,1,Decides Batson/Wheeler motion re Ashley N.; no error,,,,,1
+6353600,0,People v. Wheeler (1992) cited on impeachment only,,,,,0
+6495425,1,Capital appeal decides Witherspoon/Witt excusals of N.S. and J.W. and death-qualification challenge,,,,,1
+6495426,1,Capital appeal decides excusal of Prospective Juror J.W. for cause; no error,,,,,1
+6495851,0,"Bryant, Smith and Wheeler cited on abuse of discretion standard only",,,,,0
+6496330,1,"Decides Batson/Wheeler claim re A.M., A.L., C.C.; no reversible error",,,,,1
+6496334,1,Decides Batson/Wheeler claim re prospective juror C.C.; no error,,,,,1
+6496587,0,Law firm name only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6498286,0,Foster Wheeler case cited on new trial standard only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+6529622,0,Batson-Wheeler cited only by analogy in summary judgment credibility argument,,,,,0
+6800392,1,Capital appeal decides Witherspoon/Witt excusal of two prospective jurors for cause,,,,,1
+6800848,0,"Bryant, Smith and Wheeler cited on jury instructions only",,,,,0
+7374916,0,People v. Wheeler (1992) cited on statutory construction only,,,,,0
+7799161,0,Wheeler v. St. Joseph Hospital cited on arbitration only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+7801764,0,Foster Wheeler case cited on statute of repose only,,,,,0
+7802511,0,People v. Wheeler (1992) cited on hearsay only,,,,,0
+7802896,0,Foster Wheeler case cited on alter ego only,,,,,0
+7803580,1,"Capital appeal decides denied for-cause challenges, Witherspoon/Witt excusal, and Wheeler/Batson claims",,,,,1
+7804620,0,People v. Wheeler (1992) cited on hearsay only,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+7806119,0,People v. Wheeler (1992) cited on Evid. Code 352 only,,,,,0
+8205859,1,"Decides claim that prospective juror Y.B. was wrongly excused for cause; forfeited, IAC rejected",,,,,1
+8207294,0,"CLOSE: refusal to discharge seated Juror No. 4 under section 1089 (styled for cause); sworn-juror discharge, not selection",,,,,0
+8210006,0,"Bryant, Smith and Wheeler cited on prosecutor recusal only",,,,,0
+8211702,1,Decides Batson/Wheeler motion re Juror No. 131; no error,,,,,1
+8212699,1,Decides Batson-Wheeler motion re M.I. and F.W.; no prima facie showing,,,,,1
+8212794,0,"Bryant, Smith and Wheeler cited on waiver only",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+8212958,0,Wheeler v. Appellate Division cited on cannabis law only,,,,,0
+8214297,0,Continuance and alternate juror post-selection issue; no selection claim decided,,,,,0
+8488455,0,Prosecutor misgendering claim; Batson cited only as rejected analogy,0,Prosecutorial misgendering claim; voir dire and Batson only as background/analogy,,,0
+9247539,0,Foster Wheeler case cited on new trial standard only,,,,,0
+9298352,0,Jury selection mentioned in cited case facts; competency/presence issues only,,,,,0
+9324619,0,"Bryant, Smith and Wheeler cited on waiver only",,,,,0
+9324676,0,"Bryant, Smith and Wheeler cited on waiver only",,,,,0
+9324677,0,"Bryant, Smith and Wheeler cited on joinder only",,,,,0
+9349469,0,Juror misconduct after selection and refusal to excuse sworn jurors; not selection,,,,,0
+9350315,0,Jury selection mentioned only in Faretta/timing context; no selection claim,,,,,0
+9351509,0,Postconviction discovery of prosecutor's jury-selection notes; excluded from topic,,,,,0
+9353819,0,"Bryant, Smith and Wheeler cited on presumption only",,,,,0
+9363842,0,"Bryant, Smith and Wheeler cited on forfeiture only",,,,,0
+9366047,0,Attorney named Wheeler only,,,,,0
+9366410,0,Voir dire mentioned only in deliberations/coercion discussion; no jury selection claim,,,,,0
+9366791,0,Plaintiff named Wheeler; no jury selection issue,,,,,0
+9366794,0,"Bryant, Smith and Wheeler cited on jury instructions only",,,,,0
+9369417,0,Superior Wheeler Cake case cited on appealability only,,,,,0
+9369863,0,Prior Wheeler motion mentioned only in quoted procedural history,,,,,0
+9370089,0,"Challenge for cause to a judge, not juror; Wheeler cite on standard only",0,"Challenge for cause to a judge, not a juror; Wheeler cite only",,,0
+9372473,0,Prosecutor recusal; Wheeler error discussed only as background of cited case,,,,,0
+9372548,0,Defendant named Wheeler; no jury selection issue,,,,,0
+9374796,0,"Bryant, Smith and Wheeler cited on evidentiary standard only",,,,,0
+9375490,1,Decides Batson/Wheeler prima facie ruling; no error,1,Affirms denial of Batson/Wheeler motion at prima facie stage,,,1
+9376781,0,"Bryant, Smith and Wheeler cited on abuse of discretion standard only",,,,,0
+9376822,0,"Bryant, Smith and Wheeler cited on Evid. Code 352 only",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9377897,1,Decides Batson/Wheeler motion re Prospective Juror No. 28; no error,,,,,1
+9379153,1,Decides Batson/Wheeler prima facie ruling re G.C.; no error,,,,,1
+9379178,0,"Bryant, Smith and Wheeler cited on jury instructions only",,,,,0
+9380214,1,Wende review expressly addresses Batson objections to strikes of jurors 115 and 160,1,Wende-type review: finds no error in overruling Batson/Wheeler objections to strikes,,,1
+9382754,0,"Bryant, Smith and Wheeler cited on abuse of discretion standard only",,,,,0
+9384464,0,"Bryant, Smith and Wheeler cited on severance only",,,,,0
+9386878,0,"Bryant, Smith & Wheeler cited on instruction only",,,,,0
+9387352,0,Wheeler v. Appellate Division cited on cannabis law only,,,,,0
+9387692,0,CLOSE: Wende review after Batson remand hearing; generic no-arguable-issue finding without addressing Batson,,,,,0
+9388480,0,Foster Wheeler case cited on inconsistent verdicts only,,,,,0
+9390560,0,Foster Wheeler case cited on summary judgment only,,,,,0
+9390793,0,People v. Wheeler (1992) cited on impeachment only,,,,,0
+9391562,0,People v. Wheeler (1992) cited on impeachment only,,,,,0
+9392611,1,Decides Batson/Wheeler motion re African American prospective juror; no error,,,,,1
+9395461,0,People v. Wheeler (1973) cited on severance only,,,,,0
+9396173,1,Decides objection under Code Civ. Proc. 231.7 to peremptory challenge,,,,,1
+9396200,1,Decides three Batson/Wheeler motions; holds 231.7 inapplicable,,,,,1
+9398288,1,Decides Batson/Wheeler motion re Juror 100; no error,,,,,1
+9399382,0,"Bryant, Smith and Wheeler cited on probable cause only",,,,,0
+9402347,0,Witness surnamed Batson; no jury selection issue,,,,,0
+9403994,0,"Bryant, Smith and Wheeler cited on waiver only",0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9405002,0,Voir dire of expert witness only; Wheeler case cite,,,,,0
+9405205,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9405288,1,Batson/Wheeler motion re strike of African-American Juror 65 properly denied,,,,,1
+9409657,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9410277,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9411981,1,Batson/Wheeler motion re strikes of Black jurors; denial affirmed,,,,,1
+9554291,1,Section 231.7 objections to strikes of Prospective Jurors 11 and 28 (demeanor) properly overruled,1,Rejects 231.7 objections to two peremptory challenges,,,1
+9556816,0,"Jury selection mentioned re visible restraint; Bryant, Smith and Wheeler cite only",,,,,0
+9556885,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9574243,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9640431,0,People v. Wheeler (1992) impeachment cite only,,,,,0
+9754610,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9757982,1,Batson/Wheeler objection to peremptory against African American juror D.C. decided,,,,,1
+9758001,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9809221,0,Batson cited only via Johnson v. Finn in distinguishing argument about live testimony,,,,,0
+9838563,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9839122,0,Wheeler/Batson cited only in Yeoman discussion of forfeiture; no jury-selection claim,,,,,0
+9839241,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9839297,0,People v. Wheeler (1992) impeachment with misdemeanor conduct; not jury selection,,,,,0
+9841343,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9865484,0,Batson/Wheeler mentioned only in describing In re Friend habeas case,,,,,0
+9867794,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9880598,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9881136,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9889343,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9889577,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9889579,0,"Juror's failure to disclose during selection; juror misconduct/bias issue mid-trial, not selection",,,,,0
+9889643,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9890005,0,People v. Wheeler (1992) impeachment; not jury selection,,,,,0
+9890006,1,Section 231.7 objections to defense peremptories; denial of for-cause challenge to Juror 4 forfeited,,,,,1
+9892420,1,Section 231.7 objection to strike of Black prospective juror S.H. properly overruled,1,Rejects 231.7 objection (subd. (g) demeanor reasons) to strike of Black juror,,,1
+9893139,1,Batson/Wheeler denial of prima facie case affirmed; voir dire time limits,,,,,1
+9893369,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9893389,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9894195,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9894383,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9894404,1,Batson/Wheeler motion on remand; reviews trial court's third-step ruling,,,,,1
+9895586,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9896602,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9898646,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9899689,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9899879,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9899883,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9901382,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9902380,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9906037,0,People v. Wheeler (1992) impeachment cite only,,,,,0
+9906110,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9906595,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9906709,0,"CLOSE: Marsden ruling notes no remaining juror should have been challenged for cause, but no for-cause challenge was made or refused; claim is counsel performance",,,,,0
+9908450,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9908885,1,Batson/Wheeler objection to strike of Prospective Juror No. 1 rejected on merits,,,,,1
+9910008,1,Two Batson/Wheeler motions; denials supported by substantial evidence,,,,,1
+9911888,1,Section 231.7 objection to peremptory against Juror 112 properly overruled,,,,,1
+9912788,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9915286,0,Resentencing of Bryant/Smith/Wheeler codefendant; names only,,,,,0
+9918389,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9919197,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9925657,1,Witt death-qualification excusal of prospective juror J.W. for cause upheld; voir dire limits,1,Capital appeal; rejects Witt claim on excusal of J.W. and related jury-selection claims,,,1
+9927290,0,People v. Wheeler (1992) impeachment; not jury selection,,,,,0
+9928022,0,Peremptory writ of mandate (CEQA); not jury selection,,,,,0
+9928071,0,Peremptory/voir dire mentioned re retaining sworn Juror 11 after trial began; not jury selection,,,,,0
+9928098,1,Batson/Wheeler: prosecutor's strike of juror A. pretextual; reversed (following codefendant Nazareta),,,,,1
+9928100,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9930524,1,Section 231.7 and Batson/Wheeler challenges to strike of Juror 8 rejected,,,,,1
+9943230,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9945296,0,Civil appeal; notes plaintiff made no Batson challenge and cites 231.7 in footnote; no jury-selection claim decided,,,,,0
+9945602,1,Section 231.7 claims forfeited by objecting only under Batson/Wheeler; strike of J.D.,,,,,1
+9945929,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9947081,0,"CLOSE: juror seating mix-up during selection; new-trial ruling on structural error, not a Batson/231.7/for-cause claim",,,,,0
+9947445,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9948232,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9950430,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9951393,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9952091,0,No jury-selection issue; only an unrelated Wheeler case cite or name,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+9953693,0,Witness list read during voir dire mentioned in facts only,,,,,0
+9955147,0,Prior Batson/Wheeler reversal mentioned in procedural history only; Wende appeal from plea,,,,,0
+9956623,0,No jury-selection issue; only an unrelated Wheeler case cite or name,,,,,0
+9957718,0,"CLOSE: Wende review says no arguable jury selection issue, but the objection was to the panel's racial makeup (venire), and court notes no Batson/Wheeler objection was made; not a peremptory or for-cause claim",,,,,0
+9969043,1,Batson/Wheeler: denial of motion re strike of Black juror A.W. reversed,,,,,1
+9969078,1,Section 231.7: presumptively invalid reason (unemployment) not rebutted; reversed,,,,,1
+9969139,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9969175,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9969503,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9973024,1,Batson/Wheeler claim re prosecutor strikes rejected (forfeited as to some jurors),,,,,1
+9973303,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9973699,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9975198,0,"CLOSE: alternates chosen by lot before deliberations; jury-procedure claim, not Batson/231.7/for-cause",,,,,0
+9975199,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9975348,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9975638,0,Wheeler v. Appellate Division case name; section 1385 dismissal,,,,,0
+9975700,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9975701,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9975773,0,Prosecutor misconduct remark during voir dire; for-cause excusal not challenged,,,,,0
+9977640,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9977655,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+9978116,1,Section 231.7 gender objection to peremptory decided,1,Rejects 231.7 objection to prosecutor's peremptory challenge,,,1
+9989136,1,Batson/Wheeler claim re strike of C.C. rejected; others forfeited,,,,,1
+10074672,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10240667,0,Attorney misconduct re plaintiff's absence; voir dire excusal only background,,,,,0
+10421203,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10421212,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10453484,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10464079,0,"Party named Wheeler; civil fraud, no jury selection",,,,,0
+10464780,0,Batson win only in prior appeal history; restitution issue decided,0,Batson/Wheeler only in prior-appeal history,,,0
+10465454,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10466294,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10466374,1,Batson/Wheeler denial of motion re strike of Black juror affirmed,,,,,1
+10471290,1,Trial court's sustaining 231.7 objections to defense peremptories upheld,,,,,1
+10471298,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10473698,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10478516,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10479793,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10482065,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10491280,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10492444,1,Batson/Wheeler error found in allowing strike of African-American juror,1,Batson/Wheeler error in overruling objection to strike of Black juror; reversed,,,1
+10498041,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10499544,1,Section 231.7 objection to prosecutor's peremptory properly overruled,,,,,1
+10511613,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10511670,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10511735,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10511917,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10511925,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10512856,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10517558,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10523189,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10523190,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10540231,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10548329,0,RJA 745 claim re prosecutor questioning; 231.7 cited only by analogy,,,,,0
+10550134,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10566359,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10572112,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10581987,1,Wende review: no 231.7/RJA violation in prosecutor's peremptory strike,,,,,1
+10585416,1,Capital appeal: Batson/Wheeler motions rejected (dissent disagrees),1,Capital appeal; rejects Batson/Wheeler claims re strikes of Black women,,,1
+10591151,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10592043,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10594754,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10597074,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10598535,1,Section 231.7 objection to demeanor-based peremptory decided (separate opinion too),1,Majority rejects 231.7 objection to strike of Latino juror (dissent would reverse),,,1
+10609702,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10609706,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10611724,1,Section 231.7 objection wrongly overruled; reversed for new trial,,,,,1
+10611846,0,Batson/Wheeler ruling only in prior appeal history; sentencing remand,0,Batson/Wheeler ruling only in prior-appeal history; sentencing issue decided,,,0
+10627033,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10627993,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10628620,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10629062,0,Post-trial juror email / juror info unsealing; juror misconduct only,0,Juror misconduct/juror info; voir dire only background,,,0
+10629175,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10639960,1,Section 231.7 objection to prosecutor's peremptory properly overruled,,,,,1
+10731872,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10732328,0,Defendant named Wheeler; no jury selection issue,,,,,0
+10736263,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10744040,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10745131,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10748277,0,"Juror concealment during voir dire / motion to discharge sworn juror; misconduct, not selection",0,Juror concealment during voir dire = juror misconduct after selection; excluded,,,0
+10749660,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10749846,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10753690,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10755364,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10755369,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10755482,0,No jury selection issue; Wheeler/voir dire only in citations or unrelated,,,,,0
+10756164,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10758880,0,Peremptory writ of mandate only,,,,,0
+10759328,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10759331,0,Batson/Wheeler claim only in procedural history of prior appeal,0,Batson/Wheeler only in prior-appeal history; juror-info hearing issue,,,0
+10759334,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10759423,0,Batson/Wheeler reversal only in procedural history of prior appeal,0,Batson/Wheeler only in prior-appeal history,,,0
+10759756,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10759761,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10763092,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10763223,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10763879,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10769826,1,Decides 231.7 objection to peremptory challenge of Prospective Juror No. 7,,,,,1
+10783462,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10784794,0,CLOSE: jury-waiver validity; rejects claim court had to advise of 231.7 changes; no challenge to any juror,,,,,0
+10784795,1,Decides 231.7 challenge to prosecutor's peremptory challenge; no error,,,,,1
+10785422,1,"CLOSE: Wende/Anders review; counsel flagged 231.7 peremptory-challenge issue, court reviewed it and found no arguable issue",,,,,1
+10786609,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10787731,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10790750,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10794293,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10794435,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10794438,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10796957,1,Decides 231.7 objection to peremptory challenge of Juror 17,,,,,1
+10797628,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10797779,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10804867,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10805838,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10807129,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10815332,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10815334,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10816201,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10817942,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10818102,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10818842,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10819724,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10822018,0,Wheeler is an expert witness name; no jury-selection issue,,,,,0
+10823878,1,Decides 231.7 objection to peremptory strike of Black prospective juror No. 40,,,,,1
+10827306,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10827722,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10827806,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10829337,0,"CLOSE: fair cross-section motion to dismiss venire (Duren), not Batson/231.7/for-cause; 231.7 argument rejected in footnote",0,"CLOSE: decides Duren fair-cross-section challenge to venire (and continuance), not Batson/231.7/for-cause; 231.7 argument rejected only as support for venire claim",,,0
+10829341,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10838954,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10841152,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10841799,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10844740,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10845565,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10847817,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10848986,0,"CLOSE: civil; claim about improper voir dire questioning, not a peremptory or for-cause challenge",0,"Claim of improper conditioning voir dire question, not peremptory or for-cause challenge",,,0
+10849438,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+10851056,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+10912039,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11001497,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11021267,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11042408,1,Decides 231.7 objection to peremptory strike of Hispanic prospective juror,,,,,1
+11050016,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11050030,0,Jury selection only in a citation parenthetical,,,,,0
+11050041,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11050712,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11053229,0,Batson cited for equal protection; peremptory writ only,,,,,0
+11054897,1,Decides 231.7 objection to peremptory strike of Black female prospective juror,,,,,1
+11056662,1,Decides 231.7 objection to peremptory challenge; reverses under 231.7(j),1,231.7 objection erroneously overruled; reversed,,,1
+11058636,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11058812,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11062254,1,CLOSE: 1172.6 appeal; Batson/Wheeler claim (with others) ruled not cognizable,,,,,1
+11062354,1,Decides Batson/Wheeler motion and other jury-selection rulings (Sullivan),,,,,1
+11062355,1,Decides 231.7 objections to peremptory challenges of two prospective jurors,,,,,1
+11063285,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11064238,1,"Civil appeal: rejects Wheeler claim on inadequate record; juror was excused for cause, not by peremptory",,,,,1
+11064907,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11065062,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11066731,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11069527,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11070145,0,Jury selection mentioned only as timing in facts,0,Jury selection mentioned only as timing in facts,,,0
+11071137,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11073379,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11073380,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11073382,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11079804,1,"Decides Batson/Wheeler motion and other jury-selection rulings (Sullivan, modified opinion)",,,,,1
+11081032,0,No jury-selection issue; only Wheeler/other case cites or unrelated terms,,,,,0
+11081936,1,Refusal to excuse CDCR employees for cause and Batson/Wheeler denial (Lisa B.) upheld,,,,,1
+11085504,0,Petitioner named Wheeler; reconsideration motion,,,,,0
+11086732,1,Court's sua sponte 231.7 motion reseating defense-challenged Juror No. 1 upheld,,,,,1
+11087775,0,Sleeping juror during trial; not jury selection,,,,,0
+11090295,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11090425,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11098277,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11099948,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11103023,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11106359,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11107060,1,Denial of for-cause challenges to 12 prospective jurors upheld (no prejudice),,,,,1
+11111206,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11112186,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11112197,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11113685,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11114607,0,Defendant named Wheeler; sentencing issue,,,,,0
+11115457,1,231.7 objection to prosecutor peremptory of PJN 120 held forfeited,,,,,1
+11118157,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11122401,0,Venue motion renewal after voir dire; jury-selection remark only in concurrence,,,,,0
+11124040,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11124676,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11126705,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11126826,0,People v. Wheeler (1992) impeachment cite only,,,,,0
+11127557,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11128527,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11129209,1,Batson/Wheeler claim re Prospective Juror No. 179 rejected,,,,,1
+11129286,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11132030,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11135863,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11137407,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11139751,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11142162,1,Denial of objection to peremptory of Southeast Asian juror affirmed,1,Rejects 231.7 objection to strike of Southeast Asian juror,,,1
+11142938,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11143666,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11146093,1,231.7 objection erroneously overruled (PJN 117); reversed,,,,,1
+11146302,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11154490,1,231.7 objections to three peremptories against Hispanic jurors rejected,,,,,1
+11158047,1,231.7 objection to prosecutor peremptory properly overruled; disapproves Uriostegui,,,,,1
+11166366,1,231.7 objection to peremptory of Black juror properly denied,,,,,1
+11167094,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11167866,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11171024,1,Youth not cognizable under 231.7; unraised objections forfeited,,,,,1
+11171775,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11171800,0,"CLOSE: RJA claim that court's ruling on peremptory objection adopted biased statements rejected; court notes no 231.7 claim raised on appeal; RJA claim, not Batson/231.7",,,,,0
+11175522,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11175550,1,Erroneously granted 231.7 objection not deemed prejudicial; harmless,,,,,1
+11179163,1,231.7 objections to peremptories of Hispanic jurors properly overruled,1,Rejects 231.7 objections to strikes of Hispanic jurors,,,1
+11180819,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11181553,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11197016,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11197017,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11197979,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11197984,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11199802,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11200751,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11201658,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11202462,1,Sustaining prosecution 231.7 objection to defense peremptory not reversible,,,,,1
+11203084,1,Denial of 231.7 objection to peremptory of juror distrusting police upheld,,,,,1
+11204917,0,People v. Wheeler (1992) impeachment cite only,,,,,0
+11206358,1,231.7 objection erroneously denied as to one juror; reversed,,,,,1
+11208158,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11209833,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11211528,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11211534,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11211912,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11212613,1,231.7/constitutional objection to peremptory of Black Juror No. 96 rejected,,,,,1
+11216542,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11225111,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11226024,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11227766,0,"Defendant named Wheeler; jury coercion issue, not selection",,,,,0
+11228445,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11230697,0,No jury-selection issue; only unrelated Wheeler/other mention or none,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11230954,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11232149,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11232621,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11232624,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11234896,1,Objection to prosecutor peremptory of PJ 22 decided,,,,,1
+11237167,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11239125,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11239937,0,No jury-selection issue; only unrelated Wheeler/other mention or none,,,,,0
+11241536,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11245418,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11245495,1,231.7 objection to peremptory vs only African-American male juror wrongly denied; reversed,,,,,1
+11247336,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11248065,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11248159,1,"231.7 objection (presumptively invalid demeanor reason, subd. (g)) to peremptory vs Juror 1 decided; modification order and opinion",,,,,1
+11248688,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11249502,1,Codefendant's Batson/Wheeler motion (sexual orientation) denial reviewed and decided,,,,,1
+11253399,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11260538,1,"231.7 objections to three peremptories; error as to Ms. G. (no reasons stated), reversed",,,,,1
+11261833,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11262468,1,231.7: court erred sustaining objections to defense peremptories without required analysis; harmless,,,,,1
+11262469,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11263110,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11263664,1,"231.7(e) presumptively invalid reasons for peremptory vs Hispanic juror; objection wrongly overruled, reversed",,,,,1
+11267710,0,Voir dire scope ruling mentioned only in background of evidentiary issue,,,,,0
+11267777,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11267894,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11271149,1,"231.7 objection to peremptory vs Black prospective juror; violation found, reversed",,,,,1
+11271232,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11271244,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11276658,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11281025,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11306777,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11307782,0,Juror misconduct/new trial; voir dire mentioned in passing,,,,,0
+11307791,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11309500,1,231.7(e)(10) objection to peremptory vs nurse; forfeiture and merits decided,,,,,1
+11309970,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11310254,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11312347,0,Work product/peremptory writ; Batson/Wheeler case cited only by analogy,,,,,0
+11312900,1,Capital: denial of Hronis's for-cause challenges and Witt death-qualification excusals decided,,,,,1
+11312966,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11312990,1,231.7 objection to prosecutor's peremptory; court holds it properly ruled (affirmed on that issue),,,,,1
+11313741,1,Wende/Kelly: prosecutor's 231.7/Batson objection to defendant's peremptory properly sustained,,,,,1
+11316008,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11316476,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11317886,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11324627,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11325859,1,Two 231.7 rulings on peremptory challenges reviewed and decided,,,,,1
+11327587,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11328751,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11328835,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11330481,1,231.7 objections to peremptories vs two Hispanic female jurors rejected,,,,,1
+11330485,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11331918,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11332513,1,"Batson/Wheeler and 231.7 claim re Prospective Juror No. 7 rejected; 231.7 inapplicable, no prima facie case",,,,,1
+11333099,0,Code Civ. Proc. 170.6 peremptory challenge to a judge; not jury selection,,,,,0
+11335517,0,"Court expressly declines to address excusal of Prospective Juror No. 15; voir dire comments claim is judicial-bias, not selection challenge",,,,,0
+11335518,0,"CLOSE: RJA (Pen. Code 745) claims about prospective jurors' statements and voir dire questions; no Batson, 231.7, or for-cause ruling challenged",,,,,0
+11335519,0,"CLOSE: Decides voir dire adequacy and limits on peremptory use/alternate peremptories (forfeited/meritless); no Batson, 231.7, or for-cause claim",,,,,0
+11336486,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11336526,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11340133,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11340134,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11341264,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11341889,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11341891,1,"231.7(e)(1) objection to peremptory vs Black juror R.M.; not forfeited, objection should have been sustained",,,,,1
+11343383,0,Evidentiary ruling; voir dire mentioned in trial court's reasoning only,,,,,0
+11343973,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11347297,1,231.7 objection to peremptory vs Latino prospective juror properly overruled,,,,,1
+11348706,0,Juror bias claim based on extrajudicial knowledge of vacated conviction; no for-cause or peremptory ruling challenged,,,,,0
+11388169,1,231.7 objections to strikes of three women; jury selection complied with statute,,,,,1
+11392737,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11392803,0,CLOSE: RJA remedy for prior trial's Batson violation (found by federal court); no Batson/231.7 claim decided here,,,,,0
+11394929,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11399243,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11399567,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11400607,1,Batson/Wheeler motion re Black female juror properly denied (no prima facie case),,,,,1
+11401071,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11401165,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11401537,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11403385,1,"Wende review: court addresses jury selection, holds for-cause excusal of Prospective Juror No. 7 proper",1,Wende review addresses for-cause excusal and sustained 231.7 objection; no error,,,1
+11403387,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,,,,,0
+11404306,1,Supreme Court: 231.7(g) behavior-based reasons for peremptory; reverses and remands,,,,,1
+11411574,1,231.7 objection to prosecutor's peremptory vs Black female juror should have been sustained; reversed,1,231.7 objection to strike of Black juror should have been sustained; reversed,,,1
+11411575,0,Juror misconduct new-trial motion; 231.7 ruling appears only in background,,,,,0
+11414873,1,Batson/Wheeler claim re peremptories vs Black prospective jurors rejected,,,,,1
+11415124,0,Jury-waiver advisement; 231.7 mentioned only in argument about advisement,,,,,0
+11415125,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11416373,0,No jury-selection claim; Wheeler/other terms appear only as case or party names or in passing,0,Only incidental Wheeler citation (other case/party name); no jury-selection issue,,,0
+11420862,0,"Only Bryant, Smith and Wheeler string cite; no jury-selection issue",,,,,0
+11425357,0,Only appellate counsel named Wheeler; no jury-selection issue,,,,,0
+11426172,0,"Only Bryant, Smith and Wheeler cite on juror presumption; no jury-selection issue",,,,,0
+11428037,1,Capital appeal: Batson/Wheeler claim re peremptory strike of Prospective Juror A.E. decided (no prima facie showing); RJA juror-exclusion claim also addressed,1,Capital appeal; rejects Batson/Wheeler claims (strike of A.E. etc.); dissents disagree,,,1
+11432841,0,Only People v. Wheeler (1992) cite on unrelated point; no jury-selection issue,,,,,0
+11433751,0,"Only Bryant, Smith and Wheeler string cite; no jury-selection issue",,,,,0
+11437816,0,"Only Bryant, Smith and Wheeler string cite; no jury-selection issue",,,,,0
+11438217,0,Only a law firm name containing 'Wheeler'; no jury-selection issue,,,,,0
+11442911,0,"Only Bryant, Smith and Wheeler cite on abuse of discretion standard; no jury-selection issue",,,,,0
+11444504,0,"Only Bryant, Smith and Wheeler cite on abuse of discretion; no jury-selection issue",,,,,0
+11446007,0,Postconviction discovery of prosecutor's jury-selection notes (Pen. Code 1054.9); Batson/Wheeler discussed only as context; excluded by definition,,,,,0
+11447120,1,"CLOSE: Court holds RJA habeas claim that prosecutor's peremptory challenges struck all Black prospective jurors is not cognizable (per Hazlett), denies with prejudice; RJA vehicle rather than Batson/Wheeler or 231.7; long Batson/Wheeler discussion is in concurrence only",,,,,1
+11479594,0,Faretta advisement mentions challenges for cause/peremptories; Wheeler cite only; no jury-selection claim,,,,,0
+11481627,0,"Only 'Wheeler v. Appellate Division' and Bryant, Smith and Wheeler citations on dismissal discretion; no jury-selection issue",,,,,0
+11499675,0,Prior reversal for CCP 231.7 error mentioned only in background; appeal dismissed for lack of certificate of probable cause,0,231.7 reversal only in prior-appeal history,,,0
+11500194,0,Only Andrews v. Foster Wheeler cite in summary judgment case; no jury-selection issue,,,,,0
+11501673,0,"Jury-selection mention in quoted instruction and Bryant, Smith and Wheeler cites on jury coercion; no jury-selection claim",,,,,0
+11504633,0,"Only Bryant, Smith and Wheeler cite; no jury-selection issue",,,,,0

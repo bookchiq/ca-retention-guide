@@ -71,6 +71,12 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 3 | 16 | 0 | 0 |
 
+### Jury selection
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 2 | 0 | 0 |
+
 ### Police records
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
@@ -103,7 +109,49 @@ Counts are opinions that address the topic, found by keyword matching (see the [
 |---|---|---|---|
 | 13 | 26 | 0 | 0 |
 
-*7 other topics are not shown yet, because their keyword rules have not yet passed a hand check for accuracy. See the [methodology](../methodology.md#topics).*
+### Consumer protection
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 5 | 0 | 2 |
+
+### Employment
+
+*These counts are a floor: the keywords likely miss about 30% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 16 | 37 | 0 | 1 |
+
+### Land use and housing
+
+*These counts are a floor: the keywords likely miss about 25% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 4 | 13 | 0 | 0 |
+
+### Landlord and tenant
+
+*These counts are a floor: the keywords likely miss about 27% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 1 | 8 | 0 | 0 |
+
+### Taxes and fees
+
+*These counts are a floor: the keywords likely miss about 43% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 4 | 0 | 0 |
+
+### Public records and open meetings
+
+| Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
+|---|---|---|---|
+| 2 | 7 | 0 | 1 |
 
 ## Limitations
 

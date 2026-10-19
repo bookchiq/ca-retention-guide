@@ -60,6 +60,17 @@
     ]
   },
   "consumer": {
+    "read": {
+      "addresses_topic": 214,
+      "agreement": 0.9797979797979798,
+      "agreement_pass": true,
+      "disagreements": 2,
+      "method": "read",
+      "pool": 658,
+      "read": 658,
+      "second_n": 99,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 0,
@@ -107,6 +118,17 @@
     ]
   },
   "employment": {
+    "read": {
+      "addresses_topic": 627,
+      "agreement": 0.952054794520548,
+      "agreement_pass": true,
+      "disagreements": 7,
+      "method": "read",
+      "pool": 976,
+      "read": 976,
+      "second_n": 146,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 344,
@@ -184,6 +206,17 @@
     ]
   },
   "jury_selection": {
+    "read": {
+      "addresses_topic": 135,
+      "agreement": 0.98989898989899,
+      "agreement_pass": true,
+      "disagreements": 1,
+      "method": "read",
+      "pool": 658,
+      "read": 658,
+      "second_n": 99,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 0,
@@ -227,6 +260,17 @@
     ]
   },
   "land_use_housing": {
+    "read": {
+      "addresses_topic": 191,
+      "agreement": 0.9767441860465116,
+      "agreement_pass": true,
+      "disagreements": 1,
+      "method": "read",
+      "pool": 286,
+      "read": 286,
+      "second_n": 43,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 103,
@@ -244,6 +288,17 @@
     ]
   },
   "landlord_tenant": {
+    "read": {
+      "addresses_topic": 134,
+      "agreement": 0.967741935483871,
+      "agreement_pass": true,
+      "disagreements": 2,
+      "method": "read",
+      "pool": 415,
+      "read": 415,
+      "second_n": 62,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 92,
@@ -382,6 +437,17 @@
     ]
   },
   "taxpayer": {
+    "read": {
+      "addresses_topic": 89,
+      "agreement": 1.0,
+      "agreement_pass": true,
+      "disagreements": 0,
+      "method": "read",
+      "pool": 189,
+      "read": 189,
+      "second_n": 28,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 85,
@@ -399,6 +465,17 @@
     ]
   },
   "transparency": {
+    "read": {
+      "addresses_topic": 54,
+      "agreement": 0.96,
+      "agreement_pass": true,
+      "disagreements": 1,
+      "method": "read",
+      "pool": 165,
+      "read": 165,
+      "second_n": 25,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 10,
