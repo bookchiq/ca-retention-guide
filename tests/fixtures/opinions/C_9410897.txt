@@ -1,0 +1,1026 @@
+cl_opinion_id: 9410897
+cluster: 9415421
+docket: C096386
+date: 2023-07-24
+status: Published
+type: 010combined
+field: plain_text
+case: L & S Framing Inc. v. Cal. Occupational Saf. & Health Appeals Bd.
+----
+Filed 6/29/23; Certified for Publication 7/24/23 (order attached)
+
+
+
+
+               IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                    THIRD APPELLATE DISTRICT
+                                                      (Placer)
+                                                         ----
+
+
+
+ L & S FRAMING INC.,                                                         C096386
+
+                   Plaintiff and Appellant,                         (Super. Ct. No. SCV0046603)
+
+          v.
+
+ CALIFORNIA OCCUPATIONAL SAFETY AND
+ HEALTH APPEALS BOARD,
+
+                   Defendant and Respondent;
+
+ CALIFORNIA DEPARTMENT OF INDUSTRIAL
+ RELATIONS,
+
+                   Real Party in Interest and Respondent.
+
+
+
+
+         On August 20, 2016, Martin Mariano, an employee of plaintiff L & S Framing
+Inc., was working on a residential house under construction when he fell from the second
+floor onto the concrete ground floor below, sustaining serious injuries. Following an
+investigation, real party in interest California Department of Industrial Relations’
+
+
+                                                          1
+Division of Occupational Safety and Health (the Division) issued a notice of intent to cite
+plaintiff and subsequently issued a citation, which eventually included a serious accident-
+related citation for violation of California Code of Regulations, title 8, section 1626,
+subdivision (b)(5). 1 Plaintiff appealed the citation. An administrative law judge (ALJ)
+denied the Division’s mid-hearing request to amend the citation to allege a violation of
+section 1632, subdivision (b)(1), denied the Division’s post-hearing motion to amend to
+allege violation of section 1626, subdivision (a)(2), and concluded the Division failed to
+prove the alleged violation of section 1626, subdivision (b)(5). The Division filed a
+petition for reconsideration with the defendant California Occupational Safety and Health
+Appeals Board (the Appeals Board). The Appeals Board concluded the ALJ improperly
+denied the two requests to amend and upheld the citation based on violation of both
+section 1632, subdivision (b)(1) and 1626, subdivision (a)(2). Plaintiff filed a petition for
+a writ of mandate in the trial court, the trial court denied the petition, and plaintiff
+appeals.
+       Plaintiff asserts the trial court (1) erred in permitting the Appeals Board to amend
+the citation, (2) incorrectly concluded sections 1632, subdivision (b)(1) and 1626,
+subdivision (a)(2) applied, and (3) incorrectly concluded section 1716.2 did not apply and
+did not supersede the other regulations on the facts of this case. The second and third of
+these contentions depend on the seemingly simple question whether the specific location
+from which Mariano fell qualified as a floor opening (§ 1632, subd. (b)(1)) and/or a
+stairwell (§ 1626, subd. (a)(2)), or instead an “unprotected side[] or edge[]” (§ 1716.2,
+subd. (f)).
+       We affirm. We conclude the Appeals Board properly allowed the Division to
+amend the citation, the Appeals Board reasonably deemed the location at issue to fall
+
+
+
+1 Further undesignated citations are to sections in title 8 of the California Code of
+Regulations.
+
+                                               2
+within the scope of sections 1632 subdivision (b)(1) and 1626, subdivision (a)(2) and that
+determination was supported by substantial evidence, and the Appeals Board properly
+determined section 1716.2 did not apply.
+                                     BACKGROUND
+                                        The Accident
+       On August 20, 2016, plaintiff’s employees were working in a subdivision called
+Highland Grove. Mariano worked for plaintiff and was on the crew working on unit
+number 49. At that location, a stairway had been built from the ground floor to the
+second floor. The U-shaped stairway consisted of three segments of stairs. The first
+segment was to the right as one entered the front door and led part way up from the
+ground floor. The second segment turned 90 degrees to the left of the first and continued
+upwards. The third again turned 90 degrees to the left and continued upward until it
+connected with the second floor. The lowest segment of stairs starting on the ground
+floor abutted the wall containing the entry door. As they constructed the stairs, plaintiff’s
+employees also built wooden railings. After the floor on the second floor was covered
+with plywood decking, but before exterior walls were erected, workers assembled
+wooden railings around the open edges.
+       At the top of the stairs on the second floor, there was an L-shaped floor space
+leading away from the stairs and then perpendicularly 90 degrees to the left. Wooden
+railings or handrails on each of the two sides were erected after the flooring was put
+down, one along the landing at the stop of the stairs and another extending
+perpendicularly to the left for several feet until it met the framing of a wall. But for the
+railing extending to the left, the floor would have led into an open space above the
+interior area of the house’s ground floor. At least one witness referred to that railing
+
+
+
+
+                                              3
+alternately as a railing and a wall. 2 Testimony indicated that, at some point, that railing
+was to be replaced with, or perhaps completed as, a short interior wall approximately 36
+inches high. Once completed, one would be able to see the house’s “volume ceiling”
+from the second-floor “bonus room” over that short wall.
+       On the day of the accident, Mariano was on the second floor doing wall
+installation. The workers removed the railing or handrail that was where the short wall
+would ultimately be erected because they were working on an exterior wall which they
+had to lay down on the floor of the bonus room in order to work on it. It would not fit on
+the floor with the handrail in place.
+       Mariano was “chalking the strap line with his back towards the unguarded
+stairwell (inaudible) and he fell to the [first] floor.” Mariano fell 10 feet four inches to
+the concrete floor on the ground floor below. He sustained a brain injury characterized as
+a serious injury.
+                                 The Division Issues Citations
+       Ronald Aruejo, a senior safety engineer for the Division, issued plaintiff three
+general citations and one serious accident-related citation. Only the serious accident-
+related citation is at issue here.
+       Before issuing the serious accident-related citation, Aruejo sent a notice of intent.
+The notice of intent, Cal/OSHA form 1BY (1BY), cited an alleged violation of one of the
+Division’s Construction Safety Orders. (§ 1502 et seq.) Specifically, the 1BY alleged a
+violation of section 1626, subdivision (a)(2), although it also stated the alleged violation
+
+
+
+
+2  Plaintiff insists this was not a railing but the framing of a short wall, and the fact that
+witnesses referred to it as a railing did not convert the skeletal framing of the short wall
+into a railing. Whether this structure was a temporary railing or the structural framing for
+a short wall ultimately is immaterial. The relevant issues are the definition of the space
+where the railing or wall was located and the fact that it was removed, leaving that space
+where Mariano fell unguarded.
+
+                                               4
+“may be cited as a violation” of that section “or any other applicable regulation.” The
+1BY recited, in part: “[T]he employer did not provide railings and toe boards meeting
+the requirements of Article 16 around the stairwell of a story [sic] residential building
+under construction. As a result, an employee was seriously injured when he fell from the
+open side of the stairwell and landed approximately 11 feet below onto a concrete floor.”
+       The subsequent citation itself set forth the following: “[T]he employer did not
+provide the exposed sides of a stairway with temporary railings and toe board as
+prescribed in Section 1620. As a result, an employee was seriously injured when he fell
+from the exposed side of the stairway and landed approximately 11 feet below onto a
+concrete floor.” The citation cited section 1626, subdivision (a)(5). According to
+Aruejo, the language in the citation was from section 1626, subdivision (b)(5), and the
+reference to a nonexistent subdivision (a)(5) was a typographical error. The citation sets
+forth verbatim the language appearing in section 1626, subdivision (b)(5). That
+subdivision provides: “Unprotected sides and edges of stairway landings shall be
+provided with railings. Design criteria for railings are prescribed in Section 1620 of these
+safety orders.” (§ 1626, subd. (b)(5).)
+       Plaintiff appealed the citation. A hearing before an ALJ followed. The hearing
+occurred over four days, November 14 and 15, 2017, and September 5 and 6, 2018.
+       On the first day of the hearing, the ALJ granted the Division’s request to amend
+the citation to refer to section 1626, subdivision (b)(5) rather than nonexistent subdivision
+(a)(5). In July 2018, the Division moved to amend the citation to allege, in the
+alternative, a violation of section 1632, subdivision (b)(1). That section provides:
+“Floor, roof and skylight openings shall be guarded by either temporary railings and
+toeboards or by covers.” (§ 1632, subd. (b)(1).) The ALJ denied the motion.
+       In its post-hearing brief, the Division again sought to amend the citation, this time
+to conform to the evidence and allege violation of section 1626, subdivision (a)(2). That
+section provides: “Railings and toeboards meeting the requirements of Article 16 of
+
+                                              5
+these safety orders shall be installed around stairwells.” (§ 1626, subd. (a)(2).) The
+Division asserted: “[T]he Division’s 1BY notice cited [plaintiff] for a violation of
+section 1626[, subdivision](a)(2) and [plaintiff] has argued vigorously that the
+unprotected edge was not a stairwell. [Citation.] Thus, [plaintiff] had an opportunity to
+defend itself against this allegation and cannot claim surprise.” The Division also argued
+the 15-foot trigger height for fall protection in section 1716.2 did not apply to interior
+unprotected sides and edges.
+                                 The ALJ’s Determination
+       The ALJ determined the Division failed to establish plaintiff violated section
+1626, subdivision (b)(5), finding that section inapplicable to the circumstances.
+Accordingly, the ALJ dismissed the citation and vacated the penalty. The ALJ also
+denied the Division’s post-hearing request to amend the citation to conform to the proof
+and to allege a violation of section 1626, subdivision (a)(2).
+                   The Appeals Board’s Decision After Reconsideration
+       The Division filed a petition for reconsideration with the Appeals Board. Among
+the enumerated issues to be presented, the Division included: [¶] “Was the unguarded
+side from which Mariano fell the side of a stairway landing?”; [¶] “Was the unguarded
+side from which Mariano fell the side of a stairwell?”; [¶] “Was the unguarded side from
+which Mariano fell a floor opening?”; [¶] “Did the ALJ abuse her discretion in denying
+the Division’s motion to amend Citation 2, Item 1 brought 41 days before the date of the
+continued hearing?”; and “Did the ALJ abuse her discretion in declining to amend under
+§ 386?”
+       Plaintiff filed an answer to the Division’s petition for reconsideration. Among
+other things, plaintiff asserted the Division should not be permitted to amend to allege
+additional violations, particularly after commencement of the hearing. Plaintiff also
+argued the location from which Mariano fell was neither a floor opening nor a stairwell.
+While plaintiff had notice the Division challenged both the ALJ’s denial of its requests to
+
+                                              6
+amend and the merits of the proposed amendments, plaintiff did not seek leave to reopen
+the hearing or present additional evidence.
+       In its decision after reconsideration, the Appeals Board upheld Citation 2 as
+amended. The Appeals Board agreed with the ALJ that the area from which Mariano fell
+was not a stairway landing and therefore concluded plaintiff did not violate section 1626,
+subdivision (b)(5), which served as the original basis for Citation 2 after it was amended
+by the ALJ to correct the typographical error.
+       However, the Appeals Board concluded the ALJ erred in denying the Division’s
+mid-hearing motion to amend Citation 2 to plead in the alternative a violation of section
+1632, subdivision (b)(1). The Appeals Board concluded plaintiff failed to demonstrate
+prejudice. Resorting to dictionary definitions of the term “opening” (§ 1632, subd. (b)(1)
+[“Floor, roof and skylight openings shall be guarded by either temporary railings and
+toeboards or by covers”]), the Appeals Board concluded Mariano fell through what could
+be characterized as a floor opening which was unguarded and unprotected in violation of
+section 1632, subdivision (b)(1). Therefore, the Appeals Board overruled the ALJ,
+granted the motion to amend, and upheld the violation on this basis.
+       The Appeals Board further concluded the ALJ erred in denying the Division’s
+post-hearing motion to amend. 3 The Appeals Board concluded there was no evidence of
+
+
+
+
+3 For the first time in its reply brief, plaintiff contends the Appeals Board’s analysis as to
+amendment was erroneous because it concluded the ALJ erred in denying amendment,
+whereas the proper standard is abuse of discretion. “ ‘ “Obvious considerations of
+fairness in argument demand that the appellant present all . . . points in the opening brief.
+To withhold a point until the closing brief would deprive the respondent of [the]
+opportunity to answer it or require the effort and delay of an additional brief by
+permission. Hence the rule is that points raised in the reply brief for the first time will
+not be considered, unless good reason is shown for failure to present them before.” ’ ”
+(Reichardt v. Hoffman (1997) 52 Cal.App.4th 754, 764, quoting Neighbours v. Buzz
+Oates Enterprises (1990) 217 Cal.App.3d 325, 335, fn. 8; accord, Allen v. City of
+
+                                              7
+bad faith. The Appeals Board acknowledged the failure to cure a deficiency “at prior
+allowances to amend” could be deemed to weigh in plaintiff’s favor. The Appeals Board
+found plaintiff failed to demonstrate prejudice, and further overruled its own prior case
+law to the extent it could be read as suggesting undue delay alone may be sufficient to
+warrant denial of a motion to amend. Finally, the Appeals Board found that the ALJ
+erred in concluding that the amendment would have been futile. In addressing the merits
+of the amendment, the Appeals Board found plaintiff’s definition of “stairwell,” derived
+from the Construction Dictionary, to be too narrow, noting that other dictionaries defined
+the term more broadly. The Appeals Board also emphasized that the Occupational Safety
+and Health Act of 1973 was enacted “for the purpose of assuring safe and healthful
+working conditions for all California workers.” The Appeals Board accepted the
+Division’s broader definition of the term stairwell. Having found the location from
+which Mariano fell constituted a stairwell, the Appeals Board granted amendment and
+further upheld the violation on this basis as well. 4
+                   Denial of Petition for a Writ of Mandate and Appeal
+       Plaintiff filed a petition for a writ of mandate pursuant to Code of Civil Procedure
+section 1094.5 in the trial court, seeking to have the Appeals Board’s decision after
+reconsideration set aside. After oral argument, the trial court denied the petition.
+Plaintiff timely appealed.
+
+
+
+
+Sacramento (2015) 234 Cal.App.4th 41, 52.) In the absence of any showing of good
+cause, we decline to address this contention.
+4 We note that, the Appeals Board having granted the post-hearing motion to amend,
+Citation 2 thus included an allegation of violation of section 1626, subdivision (a)(2),
+mirroring the Division’s original 1BY notice of intent.
+
+                                               8
+                                        DISCUSSION
+                                               I
+                                  Request for Judicial Notice
+       The Appeals Board filed a motion requesting that we take judicial notice of
+Appeals Board decisions appended to its motion. The decision on the request for judicial
+notice was deferred pending calendaring and assignment of the panel.
+       The Appeals Board’s decisions after reconsideration are precedential; they
+establish the Appeals Board’s official policy. (Davey Tree Surgery Co. v. Occupational
+Safety & Health Appeals Bd. (1985) 167 Cal.App.3d 1232, 1243 [Board counters that
+cases cited by appellant were decided by ALJs and were not, with exceptions, reviewed
+by Board, the decisions of which after reconsideration establish official Board policy].)
+The trial court considered a number of these decisions in its order denying plaintiff’s
+petition for a writ of mandate.
+       We grant the Appeals Board’s unopposed request for judicial notice. (Evid. Code,
+§§ 452, subd. (c), 459.)
+       Plaintiff also cites to the Appeals Board decisions in its briefing, including
+decisions not the subject of the Appeals Board’s request for judicial notice, but plaintiff
+did not file a request for judicial notice of its own. We note California courts routinely
+cite Appeals Board decisions. (See, e.g., Elsner v. Uveges (2004) 34 Cal.4th 915, 930;
+Rick’s Electric, Inc. v. Occupational Safety & Health Appeals Bd. (2000) 80 Cal.App.4th
+1023, 1034, 1037; Overaa Construction v. California Occupational Safety & Health
+Appeals Bd. (2007) 147 Cal.App.4th 235, 241, 247, fn. 18 (Overaa Construction); Davey
+Tree Surgery Co. v. Occupational Safety & Health Appeals Bd., supra, 167 Cal.App.3d at
+pp. 1241-1242.) We further note that, as a reviewing court, we “shall take judicial notice
+of . . . each matter properly noticed by the trial court . . . .” (Evid. Code, § 459, subd.
+(a).) While the better practice would have been for plaintiff to file its own request for
+
+
+
+                                               9
+judicial notice, on our own motion, we take judicial notice of all Appeals Board decisions
+cited by the parties. (Evid. Code, §§ 452, subd. (c), 459, subd. (a).)
+                                              II
+                                     Standard of Review
+       The review by a court considering a petition for a writ of mandate challenging an
+Appeals Board decision “shall not be extended further than to determine, based upon the
+entire record which shall be certified by the appeals board, whether: [¶] (a) The appeals
+board acted without or in excess of its powers. [¶] (b) The order or decision was
+procured by fraud. [¶] (c) The order or decision was unreasonable. [¶] (d) The order or
+decision was not supported by substantial evidence. [¶] (e) If findings of fact are made,
+such findings of fact support the order or decision under review. [¶] Nothing in this
+section shall permit the court to hold a trial de novo, to take evidence, or to exercise its
+independent judgment on the evidence.” (Lab. Code, § 6629; see Overaa Construction,
+supra, 147 Cal.App.4th at p. 245.) “The findings and conclusions of the appeals board on
+questions of fact are conclusive and final and are not subject to review. Such questions
+of fact shall include ultimate facts and the findings and conclusions of the appeals board.”
+(Lab. Code, § 6630.)
+       “ ‘ “Our function on appeal is the same as that of the trial court in ruling on the
+petition for the writ. We must determine whether based on the entire record the
+[Appeals] Board’s decision is supported by substantial evidence and whether it is
+reasonable. [Citations.] Where the decision involves the interpretation and application of
+existing regulations, we must determine whether the administrative agency applied the
+proper legal standard. [Citation.] Since the interpretation of a regulation is a question of
+law, while the administrative agency’s interpretation is entitled to great weight, the
+ultimate resolution of the legal question rests with the courts . . . . An agency’s expertise
+with regard to a statute or regulation it is charged with enforcing entitles its interpretation
+of the statute or regulation to be given great weight unless it is clearly erroneous or
+
+                                              10
+unauthorized. [Citations.] The [Appeals] Board is one of those agencies whose expertise
+we must respect. [Citation.]” [Citation.] However, “[a]n administrative agency cannot
+alter or enlarge the legislation, and an erroneous administrative construction does not
+govern the court’s interpretation of the statute.” ’ ” (Overaa Construction, supra,
+147 Cal.App.4th at pp. 244-245.)
+                                             III
+                                  Amendment of Citation
+A.     Plaintiff’s Contentions
+       Plaintiff asserts the trial court erred in permitting the Appeals Board to amend the
+citation. Plaintiff asserts the Appeals Board ultimately found a violation based on two
+regulations that were not correctly pled. According to plaintiff, in doing so, the Appeals
+Board created exceptions to Labor Code sections 6317 and 6432 and thus engaged in
+“underground regulation” by creating a definition for a regulatory term without
+complying with the Administrative Procedure Act (Gov. Code, § 11340 et seq.). Plaintiff
+challenges (1) the Division’s ability to plead more than one violation in the alternative,
+(2) the mid-hearing amendment, and (3) the post-submission amendment.
+B.     Authority for Amendments Generally
+       The Labor Code provides that the “rules of practice and procedure adopted by the
+appeals board shall be consistent with,” among other things, Government Code section
+11507. (Lab. Code, § 6603.) Government Code section 11507 provides, in part: “At any
+time before the matter is submitted for decision, the agency may file, or permit the filing
+of, an amended or supplemental accusation . . . .” Thus, Government Code section 11507
+contemplates amendments to accusations, and, pursuant to Labor Code section 6603, the
+rules of practice adopted by the Appeals Board shall be consistent with that provision.
+       Section 371.2, a “rule[] of practice and procedure adopted by the appeals board”
+(Lab. Code, § 6603), expressly addresses amendments of a citation or appeal. Among
+other things, it provides that a “request for an amendment that does not cause prejudice to
+
+                                             11
+any party may be made by a party or the Appeals Board at any time.” (§ 371.2, subd.
+(a)(1).)
+       Labor Code section 6603 also requires the “rules of practice and procedure
+adopted by the appeals board” to be consistent with Government Code section 11516.
+That section authorizes amendment of an accusation “after submission of the case for
+decision.” (Gov. Code, § 11516.)
+       Section 386, subdivision (a) provides: “The Appeals Board may amend the issues
+on appeal or the Division action after a proceeding is submitted for decision.” Thus, as a
+general matter, post-submission amendments are authorized. In fact, “amendments at
+trial to conform to proof, ‘if not prejudicial, are favored since their purpose is to do
+justice and avoid further useless litigation.’ ” (Garcia v. Roberts (2009) 173 Cal.App.4th
+900, 909.)
+C.     Pleading in the Alternative
+       Plaintiff asserts pleading multiple, alternative violations is prohibited under the
+Labor Code. Contrary to plaintiff’s contentions, the Division has the option to plead in
+the alternative. (MTM Builders, Inc. (Cal. OSHA, June 12, 2020, No. 1101230) 2020 CA
+OSHA App.Bd. Lexis 78, at p. *5 [“the Division failed to exercise its option, which it has
+exercised in numerous other instances, effectively to plead in the alternative”].) This is
+consistent with the modern practice in courts. (See Mendoza v. Continental Sales Co.
+(2006) 140 Cal.App.4th 1395, 1402 [“When a pleader is in doubt about what actually
+occurred or what can be established by the evidence, the modern practice allows that
+party to plead in the alternative and make inconsistent allegations”].)
+       Allowing pleading in the alternative is also consistent with interpretation of the
+federal Occupational Safety and Health Act. (See Alcala v. Western Ag Enterprises
+(1986) 182 Cal.App.3d 546, 550 [“It has been held that when California’s laws are
+patterned on federal statutes, federal cases construing those federal statutes may be
+looked to for persuasive guidance”]; see also Lujan v. Minagar (2004) 124 Cal.App.4th
+
+                                              12
+1040, 1045 [Cal-OSHA is patterned after federal counterpart].) As the Ninth Circuit
+stated concerning alternative pleading in OSHA cases: “Nor does pleading in the
+alternative render the amended complaint insufficiently particular. . . . It helps avoid
+complications or delays which are contrary to the goal of fair and speedy enforcement of
+the Act.” (Donovan v. Royal Logging Co. (9th Cir. 1981) 645 F.2d 822, 828-829.)
+       Plaintiff asserts the Appeals Board in permitting alternative allegations created
+exceptions to Labor Code section 6317 and thus engaged in under underground
+regulation. Plaintiff relies on the language of that section providing that “[e]ach citation
+shall be in writing and shall describe with particularity the nature of the violation,
+including a reference to the provision of the code, standard, rule, regulation, or order
+alleged to have been violated,” emphasizing that “citation” and “provision” appear in the
+singular form.
+       Labor Code section 6317 does not address, or prohibit, amendment of citations.
+And, as addressed above, pleading in the alternative is permitted. (MTM Builders, Inc.,
+supra, 2020 CA OSHA App.Bd. Lexis 78.) Additionally, as the Appeals Board notes, in
+construing the Labor Code, “[t]he singular number includes the plural, and the plural the
+singular.” (Lab. Code, § 13.)
+       Nor are we persuaded by plaintiff’s reliance on Labor Code section 6432.
+Subdivision (b)(2) of that section provides, in part: “The division shall satisfy its
+requirement to determine and consider the facts specified in paragraph (1) if, not less than
+15 days prior to issuing a citation for a serious violation, the division delivers to the
+employer a standardized form containing the alleged violation descriptions (‘AVD’) it
+intends to cite as serious and clearly soliciting the information specified in this
+subdivision.” We do not find anything in this section 6432 that would prohibit
+amendment or pleading in the alternative. Moreover, that section contains an express
+provision providing: “The trier of fact may also draw a negative inference from factual
+information offered at the hearing by the division that is inconsistent with factual
+
+                                              13
+information provided to the employer pursuant to subdivision (b), or from a failure by the
+division to provide the form setting forth the descriptions of the alleged violation and
+soliciting information pursuant to subdivision (b).” (Lab. Code, § 6432, subd. (d).) That
+subdivision does not provide the Division is barred outright from offering inconsistent
+factual information or failing to provide the form setting forth the alleged violation; it
+provides the option of drawing a negative inference against the Division under such
+circumstances. And we note the factual allegations asserted here always remained the
+same.
+D.      Mid-hearing Amendment
+        “[A]mendments to pleadings in the administrative hearing context are liberally
+allowed.” (Calstrip Steel Corporation (Cal. OSHA, June 30, 2017, Nos. 12-R3D6-1998,
+1999) 2017 CA OSHA App.Bd. Lexis 66 at p. *15.) “A request for an amendment that
+does not cause prejudice to any party may be made by a party or the Appeals Board at
+any time.” (§ 371.2, subd. (a)(1).) “When considering a request to amend, courts, and
+the Board, will examine bad faith of the parties, failure to cure deficiencies at prior
+allowances to amend, the futility of an amendment, and prejudice.” (Calstrip Steel
+Corporation, supra, 2017 CA OSHA App.Bd. Lexis 66 at pp. *16-17.) “As to a claim of
+prejudice, the showing must demonstrate that the party was ‘unfairly disadvantaged or
+deprived of the opportunity to present facts or evidence which it would have offered had
+the . . . amendments been timely.’ ” (Calstrip Steel Corporation, supra, 2017 CA OSHA
+App.Bd. Lexis 66 at p. *17, quoting Dole v. Arco Chemical Co. (3d Cir. 1990) 921 F.2d
+484, 488.) “Prejudice will not be presumed but must be affirmatively demonstrated
+through production of evidence.” (Sierra Forest Products (Cal. OSHA, Apr. 8, 2016,
+No. 09-R2D5-3979) 2016 CA OSHA App.Bd. Lexis 28 at p. *7.)
+        There is no indication of bad faith in the record or any specific allegations in
+plaintiff’s briefs. Nor do the parties address in any substantive way the failure to cure
+deficiencies at prior allowances to amend.
+
+                                              14
+       With regard to prejudice, plaintiff asserted it had been denied notice of the
+violation because the citation “did not reference any indication of a charged violation of
+. . . [section] 1632[, subdivision ](b)(1),” and there was “no indication that [plaintiff] had
+failed to guard a ‘floor opening’ in violation of” that section, and did not reference any
+“floor opening.” As a result, plaintiff asserted it was “too late to prepare a defense.”
+Plaintiff also emphasized the passage of time since the accident and the fact that
+discovery had been completed. According to plaintiff, all of its resources had gone
+towards investigating and defending against the original citation, and plaintiff further
+asserted it would be required to expend more resources to develop a defense against an
+amended citation. In this regard, plaintiff emphasized faded memories of witnesses and
+witness unavailability.
+       As the Appeals Board notes, the proposed amendment did not seek to change the
+factual description of the alleged violation. Instead, it sought to plead, in the alternative
+and based on all of the same facts, that plaintiff failed to protect the sides and edges of a
+“stairway landing[]” (§ 1626, subd. (b)(5)), and, through the amendment, that plaintiff
+failed to guard a “[f]loor . . . opening[]” (§ 1632, subd. (b)(1)). In other words, through
+the amendment, and based on all of the same facts, the Division sought to proceed
+pursuant to the theory that the removal of the railing resulted in an unprotected stairway
+landing, or, in the alternative, on the theory that it resulted in an unguarded floor opening.
+With regard to amending a pleading, “[i]f the same set of facts supports merely a
+different theory . . . no prejudice can result.” (Garcia v. Roberts, supra, 173 Cal.App.4th
+at p. 910.) We conclude plaintiff failed to establish it would be prejudiced by this
+amendment.
+       Finally, as for futility, we conclude, post, that the Appeals Board properly found a
+violation of section 1632, subdivision (b)(1). As such, it cannot be said that amendment
+to add a violation of that section would have been futile.
+
+
+
+                                              15
+E.     Post-submission Amendment
+       Considering the same factors addressed in part II.D as to the request to amend
+post-submission pursuant to section 386 to allege a violation of section 1626, subdivision
+(a)(2), we first note, again, there is no indication of bad faith and plaintiff does not assert
+there is. And again, the parties do not address failure to cure deficiencies at prior
+allowances to amend.
+       Moreover, under the heading addressed to amendment of the citation, plaintiff
+does not advance a substantive argument addressing prejudice beyond emphasizing the
+passage of time. Instead, plaintiff largely recites the procedural background and argues
+amendment was statutorily prohibited and amendment to plead in the alternative should
+not be permitted. Plaintiff also emphasizes the consequences of having a serious
+violation on its record, which is not germane to prejudice in the context of whether
+amendment should be granted. Plaintiff in its opening brief only mentions prejudice once
+in quoting the ALJ and a second time in asserting, in conclusory fashion, that, “[b]y
+definition, the [Appeals] Board’s finding prejudiced” plaintiff. 5
+       Particularly in the context of a post-hearing request to amend to conform to the
+proof, the proposed amendment necessarily did not involve any different facts. Instead, it
+sought to prove a violation that plaintiff failed to install, or keep installed under the
+
+
+
+5 Plaintiff asserts the Appeals Board held that plaintiff “did not disprove the violations it
+found, and that they were ‘fully litigated,’ ” and contends the Appeals Board “essentially
+reversed the burden of proof.” It is not clear to what portion of the Appeals Board
+decision after reconsideration plaintiff is referring because plaintiff has not provided a
+record citation. The Appeals Board stated the “Division proved Employer violated
+Citation 2, Item 1 based on both section 1632, subdivision (b), and section 1626,
+subdivision (a)(2).” In any event, plaintiff does not make this claim under separate
+heading or subheading, does not cite to the record, and does not cite any authority beyond
+that standing for the general proposition that the Division bears the burden of proof. (See
+Cal. Rules of Court, rule 8.204(a)(1)(B).) Accordingly, we need not address this
+contention further.
+
+                                              16
+circumstances here, a railing or toeboard around a stairwell (§ 1626, subd. (a)(2)) as an
+alternative to the theory that plaintiff failed to protect the sides and edges of a stairway
+landing (§ 1626, subd. (b)(5)). In its opening statement, the Division addressed
+stairwells, landings, and floor openings. Plaintiff countered by stating there was no
+stairwell involved. The parties argued the correct interpretation of stairwell. There was
+testimony specifically about the use of the term stairwell, whether a witness would
+consider a particular area to be a stairwell, and definitions of the term stairwell.
+Plaintiff’s attorney stated at the hearing that “the stairwell and the edge of the stairwell
+and a stairway have particular meanings that are critical to this case.” Plaintiff’s counsel
+later stated the “issue was whether or not this is the railing that’s shown as number four
+[in] the Division’s [photographic] Exhibit 3 is actually part of the stairwell or the
+stairway.” We conclude there was no indication of prejudice from this issue involving a
+theory that was actually litigated. (Sierra Forest Products, supra, 2016 CA OSHA
+App.Bd. Lexis 28 at. p. *7, quoting Conolley v. Bull (1968) 258 Cal.App.2d 183, 193
+[“ ‘It is established . . . that if a case is actually tried on the theory which is later added by
+an amendment to the pleadings, the adverse party suffers no prejudice from the
+variance’ ”].)
+       Lastly, because we conclude, post, the Appeals Board properly found a violation
+of section 1626, subdivision (a)(2), it cannot be said the post-hearing amendment to
+conform the pleading to the proof would have been futile.
+                                               IV
+     Applicability of Sections 1626, Subdivision (a)(2) and 1632, Subdivision (b)(1)
+A.     Plaintiff’s Contentions
+       Plaintiff asserts the sections under which the Appeals Board, and the trial court,
+upheld violations, sections 1626, subdivision (a)(2) and 1632, subdivision (b)(1), did not
+apply to where Mariano fell, “the edge of the bonus room’s floor . . . .” Plaintiff asserts
+the Appeals Board “created an ambiguity in the regulations by erroneously concluding
+
+                                               17
+that the bonus room floor edge was a ‘stairwell.’ ” Plaintiff argues the Appeals Board
+and the Division incorrectly deemed the perimeter edge of the bonus room to be a floor
+opening through which someone could fall. As will be discussed in greater detail post
+and in part V of the Discussion, plaintiff asserts section 1716.2, subdivision (f) is the
+applicable regulation. That regulation requires fall protection “around all unprotected
+sides or edges” for work performed on floors that will later be enclosed by framed
+exterior walls, but only when the work is performed more than 15 feet above the floor
+level below. (§ 1716.2, subd. (f).) The fall here was less than 11 feet to the concrete
+floor below.
+       Ultimately, the question presented is straightforward, even if the answer to that
+question is less so: Did the location from which Mariano fell constitute a stairwell within
+the meaning of section 1626, subdivision (a)(2) and/or a floor opening within the
+meaning of section 1632, subdivision (b)(1)? We conclude it did on both counts.
+B.     Regulatory Interpretation and Substantial Evidence
+       “ ‘The interpretation of a regulation, like the interpretation of a statute, is, of
+course, a question of law’ and is therefore subject to our de novo review. [Citation.]
+Accordingly, while an administrative agency’s interpretation of its own regulation is
+entitled to deference appropriate to the circumstances, ‘the ultimate resolution of such
+legal questions rests with the courts.’ [Citations.] When interpreting an administrative
+regulation, we follow the same rules of construction that apply to statutes. [Citation.]
+Thus, our fundamental objective is to ascertain and effectuate the intent of the agency
+issuing the regulation. [Citations.] [¶] In determining the issuing agency’s intent, we
+look first to the language of the regulation itself. [Citation.] ‘ “If the language is clear
+and unambiguous there is no need for construction, nor is it necessary to resort to indicia
+of the intent of the [agency] . . . .” [Citation.] “But the ‘plain meaning’ rule does not
+prohibit a court from determining whether the literal meaning of a [regulation] comports
+with its purpose . . . .” [Citation.] Furthermore, “ ‘where a word of common usage has
+
+                                               18
+more than one meaning, the one which will best attain the purposes of the [regulation]
+should be adopted, even though the ordinary meaning of the word is thereby enlarged or
+restricted and especially in order to avoid absurdity or to prevent injustice.’ ” ’
+[Citations.] Moreover, ‘[w]e do not construe a regulation in isolation, but instead read it
+with reference to the scheme of law of which it is a part, so that the whole may be
+harmonized and retain effectiveness.’ [Citations.] Finally, when an examination of
+regulatory language in its proper context fails to resolve an ambiguity, courts may ‘turn
+to the [regulatory] history of an enactment as an aid to its interpretation.’ ” (Department
+of Industrial Relations v. Occupational Safety & Health Appeals Bd. (2018)
+26 Cal.App.5th 93, 100-101 (Department of Industrial Relations).)
+       As stated ante, “ ‘ “[a]n agency’s expertise with regard to a statute or regulation it
+is charged with enforcing entitles its interpretation of the statute or regulation to be given
+great weight unless it is clearly erroneous or unauthorized. [Citations.] The [Appeals]
+Board is one of those agencies whose expertise we must respect.” ’ ” (Overaa
+Construction, supra, 147 Cal.App.4th at pp. 244-245.)
+       “On appeal we must resolve evidentiary conflicts in favor of the prevailing party,
+and view the evidence, drawing all reasonable inferences, in the light most favorable to
+[the prevailing party]. So long as the whole record so viewed reveals in support of the
+judgment evidence of ponderable legal significance, i.e., evidence which is reasonable,
+credible, and of solid value, we must affirm.” 6 (Gaehwiler v. Occupational Safety &
+Health Appeals Bd. (1983) 141 Cal.App.3d 1041, 1045, fn. 2.)
+
+
+
+
+6 The Appeals Board asserts plaintiff waived any substantial evidence challenge. “ ‘An
+appellant challenging the sufficiency of the evidence to support the judgment must cite
+the evidence in the record supporting the judgment and explain why such evidence is
+insufficient as a matter of law.’ [Citation.] Failure to discuss contrary evidence waives
+any argument the judgment is not supported by substantial evidence.” (Antelope Valley
+Groundwater Cases (2021) 63 Cal.App.5th 17, 53, fn. 16.) Even if we could deem a
+
+                                              19
+C.     Section 1632, Subdivision (b)(1)
+       Again, section 1632, subdivision (b)(1) provides: “Floor, roof and skylight
+openings shall be guarded by either temporary railings and toeboards or by covers.”
+Section 1632 does not define the term “floor opening,” and no such definition appears in
+section 1504, the relevant definitions section. Section 1504 does define the term
+“[o]pening” as an “opening in any floor or platform, 12 inches or more in the least
+horizontal dimension. It includes: stairway floor openings, ladderway floor openings,
+hatchways and chute floor openings.” (§ 1504.) The Appeals Board found this definition
+ambiguous and resorted to dictionary definitions of the term “opening.” (See Wasatch
+Property Management v. Degrate (2005) 35 Cal.4th 1111, 1121-1122 [“When attempting
+to ascertain the ordinary, usual meaning of a word, courts appropriately refer to the
+dictionary definition of that word”]; Hammond v. Agran (1999) 76 Cal.App.4th 1181,
+1189 [“in the absence of specifically defined meaning, a court looks to the plain meaning
+of a word as understood by the ordinary person, which would typically be a dictionary
+definition”].)
+       The dictionary definitions of “opening” upon which the Appeals Board relied
+included “a hole or empty space through which things or people can pass” (Collins Dict.
+Online <https://www.collinsdictionary.com/us/dictionary/english/opening> [as of June
+22, 2023], archived at: <https://perma.cc/B9AB-RJ8E>); “a hole or space that something
+or someone can pass through” (Cambridge Dict. Online <
+https://dictionary.cambridge.org/us/dictionary/english/opening> [as of June 22, 2023],
+archived at: < https://perma.cc/Z7Y3-8ELE >); and “a void in solid matter; a gap, hole,
+or aperture” (Dictionary.com <https://www.dictionary.com/browse/opening> [as of June
+22, 2023], archived at: <https://perma.cc/522X-NLG8>).
+
+
+
+substantial evidence challenge forfeited, we address plaintiff’s contentions on their
+merits. (See ibid.)
+
+                                            20
+       The Appeals Board then concluded that, when plaintiff’s workers removed the
+railing, they “create[ed] a hole or empty space from which people or things could fall
+through.” The Appeals Board continued: “Mariano fell through the opening, which was
+unguarded and unprotected contrary to section 1632, subdivision (b)(1)’s mandate.” (Fn.
+omitted.)
+       We conclude the Appeals Board’s construction and interpretation of section 1632,
+subdivision (b)(1) comports with the plain meaning of the terms used in that provision.
+Specifically, in our de novo review of the interpretation of the regulation (see Department
+of Industrial Relations, supra, 26 Cal.App.5th at p. 100), we agree with the construction
+of the term opening utilized by the Appeals Board, informed by dictionary definitions.
+       As for the evidence supporting the violation of that section, we have reviewed the
+hearing testimony. We have also examined the photographic exhibits depicting the site
+of the accident. At the top of the stairs on the second floor of the house where the
+accident occurred, an L-shaped floor space led away from the stairs and then
+perpendicularly to the left. Wooden railings or handrails on each of the two sides were
+erected after the flooring was put down, one along the landing at the stop of the stairs and
+another extending to the left for several feet until it met the framing of a wall. But for the
+railing to the left of and perpendicular to the topmost group of stairs, the floor would
+have led into open space above the ground floor. This is the location from which
+Mariano fell. Testimony indicated that this railing farther from, and perpendicular to, the
+stairs was to be replaced with, or perhaps completed as, a short interior wall
+approximately 36 inches high. Once completed, one would be able to see the house’s
+“volume ceiling” from the second-floor “bonus room” over that short wall. And, of
+course, prior to Mariano’s fall, this railing had been removed.
+       We conclude substantial evidence supports the Appeals Board’s determination that
+the location from which Mariano fell can be characterized as an unguarded floor opening
+within the meaning of section 1632, subdivision (b)(1). Nothing in the definitions
+
+                                             21
+utilized by the Appeals Board restricted the concept of a floor opening in such a manner
+as to render that term inapplicable to the configuration here. We conclude the Appeals
+Board properly upheld the violation under this section.
+       We note that, “in the particular context of workplace health and safety here at
+issue, our high court has reviewed the statutory structure and—noting that the relevant
+provisions ‘speak in the broadest possible terms’—has concluded that ‘the terms of the
+legislation are to be given a liberal interpretation for the purpose of achieving a safe
+working environment.’ ” (Department of Industrial Relations, supra, 26 Cal.App.5th at
+p. 106, quoting Carmona v. Division of Industrial Safety (1975) 13 Cal.3d 303, 312, 313
+(Carmona); see also Lab. Code, § 6401 [“Every employer shall furnish and use safety
+devices and safeguards, and shall adopt and use practices, means, methods, operations,
+and processes which are reasonably adequate to render such employment and place of
+employment safe and healthful. Every employer shall do every other thing reasonably
+necessary to protect the life, safety, and health of employees.”]; Lab. Code, § 6307 [the
+Division “has the power, jurisdiction, and supervision over every employment and place
+of employment in this state, which is necessary adequately to enforce and administer all
+laws and lawful standards and orders, or special orders requiring such employment and
+place of employment to be safe, and requiring the protection of the life, safety, and health
+of every employee in such employment or place of employment”].)
+       Plaintiff repeatedly criticizes the Appeals Board and the trial court for what it
+characterizes as rewriting the regulations, reading into the regulations what the Standards
+Board omitted, and engaging in underground regulation. For example, plaintiff maintains
+that “[o]nly by distorting the straightforward regulatory language, inserting terms not
+included there, and inventing new meanings for construction terminology did the
+[Appeals Board] reach untenable conclusions, which the trial court implicitly adopted.”
+However, the mere fact that the trial court, and we, disagree with plaintiff’s preferred
+interpretation does not mean there has been improper circumventing of the appropriate
+
+                                             22
+rulemaking process. It simply means we are persuaded the Appeals Board’s conclusions
+are supported by the language of the regulations.
+       Plaintiff relies on Cabrillo Economic Development Corp. (Cal. OSHA, Oct. 16,
+2014, No. 11-3185) 2014 CA OSHA App.Bd. Lexis 116 (Cabrillo), in asserting the
+Appeals Board in that case found that, while section 1632, subdivision (b)(1) applied to
+floor openings during framing operations, section 1716.2 applies to unprotected sides and
+edges. 7 It appears plaintiff’s reliance on Cabrillo is for the premise that where Mariano
+fell was not “through” a floor opening like the one described in Cabrillo, but rather over
+an edge, such that only section 1716.2, subdivision (f) and its 15-foot trigger height
+would apply. We are not persuaded. In Cabrillo, the Appeals Board did determine that
+section 1632 applied to the stairwell floor opening through which the employee fell.
+(Cabrillo, supra, 2014 CA OSHA App.Bd. Lexis 116 at p. *9.) The Appeals Board
+articulated the employee “fell through” the stairway opening in which a stairway would
+eventually be installed. (Cabrillo, supra, 2014 CA OSHA App.Bd. Lexis 116 at p. *5 &
+fns. 5, 6, 11.) However, while plaintiff would prefer to characterize Mariano’s fall as
+over an edge rather than through a floor opening, we are not persuaded that anything in
+Cabrillo, including the configuration of that floor opening, establishes the location here
+could not also qualify as a floor opening.
+       Plaintiff also relies on Webcor Builders, Inc. (Cal. OSHA, Jan. 11, 2010, No. 06-
+3030) 2010 CA OSHA App.Bd. Lexis 7. According to plaintiff, the Appeals Board in
+
+
+
+7 Subdivision (f) of section 1716.2 provides: “Work on Floors and Other
+Walking/Working Surfaces. When working on floors and other walking/working
+surfaces that will later be enclosed by framed exterior walls, employees directly involved
+with the layout and construction of framed stud walls shall be protected from falling by
+standard guardrails as specified in Section 1620 around all unprotected sides or edges, or
+by other means prescribed by CSO Article 24, Fall Protection, when the floor or
+walking/working surface is over 15 feet above the surrounding grade or floor level
+below.”
+
+                                             23
+Webcor “held that [section] 1632[, subdivision ](c) – ladderway floor openings or
+platforms shall be guarded . . . on all open sides – does not apply to the perimeter of a
+building floor because it did not lead to or penetrate a floor and by its terms applies
+where there is a danger of employees falling ‘through’ floor openings.” The Appeals
+Board in Webcor stated: “By definition, the exterior end or edge of a building’s floor is
+not an opening in that floor. Beyond that end or edge there is no floor in which an
+‘opening’ can exist. This meaning is reinforced by the language of section 1632[,
+subdivision ](a), which is concerned with employees, inter alia, falling through a floor,
+not off it, as one would do at the edge.” (Webcor, supra, 2010 CA OSHA App.Bd. Lexis
+7 at p. *6.) Elsewhere, the Appeals Board noted of the subject location: “The ladder was
+placed on the outside or perimeter of the structure, and thus rested on or connected to the
+second floor at the exterior edge of that floor.” (Webcor, supra, 2010 CA OSHA
+App.Bd. Lexis 7 at p. *5.) This is distinguishable from the circumstances here, involving
+an interior floor edge, or opening.
+       We conclude the Appeals Board’s determination was supported by substantial
+evidence and was reasonable.
+D.     Section 1626, Subdivision (a)(2)
+       Section 1626, subdivision (a)(2) provides: “Railings and toeboards meeting the
+requirements of Article 16 of these safety orders shall be installed around stairwells.”
+Stairwell is not defined in section 1504.
+       The location where Mariano was at the time of his fall, the floor next to the
+opening over the ground floor, was not at the top of the stairs, but a number of feet to the
+side of the top landing of the stairs. According to John Wagner, plaintiff’s witness, there
+was no part of the stairway in the area where Mariano landed on the concrete floor. He
+estimated the stairs were four to six feet beyond and opposite the wall directly below
+where Mariano was situated immediately before he fell. He also testified “the stair
+termination is beyond the volume ceiling area, and that vertical housing is limited to the
+
+                                             24
+space that the stairs themselves occupy.” Wagner did not consider the area from which
+the railing had been removed to be within the stairwell.
+       Conversely, Ronald Aruejo, the Division’s witness, testified he considered the
+location where Mariano fell to be in the stairwell. Another Division witness, Joel Foss,
+testified a stairwell is “the well in which the stairs are.” He also testified he agreed with
+an exhibit that had been submitted that provided a dictionary definition of “stairwell.”
+That definition, plaintiff’s exhibit T, entitled Construction Dictionary, defined “stairwell”
+as “[a] compartment extending vertically through a building in which stairs are placed.”
+Foss testified he considered the stairwell to include “the entire space that was described
+as the foyer.” Asked why he considered that entire space to be the stairwell, Foss
+testified: “Because it’s part of that open space that is unguarded by surrounding walls.
+It’s the – it’s part of that open space. It presents the same fall hazard as other areas in
+that same open space.” He acknowledged that the space was not limited to the vertical
+space directly over the three segments of stairs, but also included “all the other unguarded
+sides and edges other than the entry itself, the entry onto the stairs.” Asked again why he
+included that area in his conception of the stairwell, whereas Wagner did not, Foss
+testified, “[b]ecause that side or edge abuts this same open space, the stairwell, the well
+where the stairs are, so it requires guarding.” He again testified he considered the open
+area by the railing that was removed, where Mariano fell, to be part of the stairwell and
+part of the open area where the stairs were. He testified “[i]t’s all the stairwell.” He
+continued: “[T]he stairwell is this open space. It’s not only this pillar of air above the
+stairs themselves. It’s the space, the open space, in which the stairwell is situated.” He
+testified that, unlike Wagner, he did not conceive of a stairwell as strictly limited to the
+area actually occupied by stairs.
+       The blueprint, which contained a mirror image of the floorplan, depicted the U-
+shaped stairs consisting of three segments beginning on the ground floor. The first
+
+
+
+                                              25
+segment of stairs did not begin directly under the edge from which Mariano fell, but
+several feet opposite that location.
+       The Appeals Board in its Decision After Reconsideration considered dictionary
+definitions of “stairwell” other than that submitted by plaintiff, including “a long, vertical
+passage through a building around which a set of stairs is built” (Cambridge Dict. Online
+<https://dictionary.cambridge.org/us/dictionary/english/stairwell> [as of June 27, 2023],
+archived at: <https://perma.cc/BF7F-4LWG>); and “the vertical shaft or opening
+containing a stairway” (Dictionary.com <https://www.dictionary.com/browse/stairwell>
+[as of June 27, 2023], archived at: <https://perma.cc/HA9L-W73B>.) The Appeals
+Board stated plaintiff’s “definition of stairwell, which is supported by the Construction
+Dictionary, is too narrow an interpretation of the term since other dictionaries define
+stairwell more broadly as a vertical shaft or opening that contains the stairway.” In
+connection with this observation, the Appeals Board relied on the California Supreme
+Court’s direction that “the terms of the legislation are to be given a liberal interpretation
+for the purpose of achieving a safe working environment.” (Carmona, supra, 13 Cal.3d
+at p. 313.) The Appeals Board upheld the violation under section 1626, subdivision
+(a)(2) as well.
+       The Appeals Board precedents on which plaintiff relies are inapposite. They do
+not involve stairwells, which are the subject of section 1626, subdivision (a)(2). Instead,
+they involve “stairways” (Davis Brothers Framing, Inc. (Cal. OSHA, Apr. 8, 2010, No.
+05-634) 2010 CA OSHA App.Bd. Lexis 46), and “fall protection” (JD2 Incorporated
+(Cal. OSHA, June 4, 2003, No. 02-2693) 2003 CA OSHA App.Bd. Lexis 71; Schuck and
+Sons Construction Company, (Cal. OSHA, Sept. 29, 1997, No. 92-1564) 1997 CA OSHA
+App.Bd. Lexis 1; Reese Construction Company, A Corp. (Cal. OSHA, Nov. 7, 1980, No.
+78-1037) 1980 CA OSHA App.Bd. Lexis 32).
+       We conclude the Appeals Board’s determination that this area could be considered
+a stairwell was reasonable and was supported by substantial evidence. It is supported by
+
+                                              26
+the Division witnesses’ testimony and exhibits as well as the dictionary definitions upon
+which the Appeals Board relied. Moreover, this conclusion finds further support in the
+direction that such provisions are construed liberally to provide protection and safety for
+workers. (Carmona, supra, 13 Cal.3d at p. 313; Department of Industrial Relations,
+supra, 26 Cal.App.5th at p. 106.)
+                                               V
+                                        Section 1716.2
+        Plaintiff asserts it was section 1716.2 that applied. Plaintiff asserts the trial court
+erred in affirming the Appeals Board’s findings regarding inapplicability of section
+1716.2 because those findings violate tenets of regulatory construction and depart from
+the plain meaning of the regulation’s language. According to plaintiff, “[o]nly by
+distorting the straightforward regulatory language, inserting terms not included there, and
+inventing new meanings for construction terminology did the Respondent reach
+untenable conclusions, which the trial court implicitly adopted.” Plaintiff asserts the
+Division cannot circumvent the proper rulemaking process by creating its own
+interpretation, and doing so constitutes underground regulation.
+        The Appeals Board and the Division respond that, contrary to plaintiff’s
+contention that section 1716.2 controlled, more than one safety order may apply, and
+plaintiff did not show that section 1716.2 was both more specific than and in actual
+conflict with the sections under which it found violations such that the provisions could
+not be reconciled.
+        Section 1716.2, subdivision (f) applies in the context of framing and contains a 15-
+foot trigger height, below which the prescribed fall protections do not apply. 8 We agree
+with the Division’s opinion that this provision gives rise to ambiguity as to whether it
+
+
+
+
+8   See footnote 10, ante.
+
+                                               27
+“applies to the unprotected sides and edges around the exterior edges of a floor or
+working surface later to be enclosed by framed exterior walls, or whether i[t] appl[i]es to
+all edges including interior edges created by stairway landings, stairwells and floor
+openings.”
+       Joel Foss testified the 15-foot trigger height “only applied to exterior opening --
+the exterior fall hazard . . . . So it only applied to where there were exterior walls stood
+up.”
+       Based on Foss’s testimony, section 1716.2 would not be implicated here, where
+the areas at issue were all on the interior of the structure. In any event, even if this
+section were implicated, it would not supplant or supersede the other sections as we now
+discuss.
+       “It is not uncommon for more than one safety order to apply to a particular set of
+facts. Applying principles of statutory construction, the [Appeals] Board will only find
+that a more specific safety order is controlling where there is an actual conflict between
+the two safety orders. [Citation.] Where it is possible to read the safety orders so that
+they are in harmony with one another, the [Appeals] Board will do so.” (Cabrillo, supra,
+2014 CA OSHA App.Bd. Lexis 116 at p. *8.)
+       In Cabrillo, the employer asserted sections 1632, subdivision (b)(1) and 1716.2
+were in conflict, the latter was more specific, and therefore it controlled. Because
+Cabrillo addresses essentially the same issue as presented here, we quote it at length:
+       “Section 1632 applies to ‘the static hazard of an existing opening’, which creates
+both the danger of an employee accidentally walking into the hole, as well as debris
+sliding onto the lower level, injuring those who may be below. [Citation.] . . . [U]nlike
+section 1716.2[, subdivision ](f), ‘in addition to fall protection, section
+1632[, subdivision ](b) provides protection against other objects, such as tools, falling
+below the floor, roof, or skylight openings.’ By definition, the area where the employee
+fell was a stairwell floor opening. [Citation.] As such, section 1632 applies to the
+
+                                              28
+opening. While there are overlapping purposes to the two safety orders, the hazards
+identified by the two orders are not identical, and create no direct conflict. The Board
+interprets safety orders in a manner consistent with the purpose of the Act, which is to
+achieve a safe working environment for all Californians. [Citation.]
+       “Section 1716.2[, subdivision ](f), which mandates use of guardrails or personal
+fall protection when framing work is being done over 15 feet, does not create any
+inherent conflict with the requirement to guard openings found in section 1632. There
+was no violation of the section, as the employee who fell was not required to wear fall
+protection at the height he was working at. Nor were the unprotected sides or edges of
+the building required to be guarded, as the framing was not being done at a height over 15
+feet. However, section 1632[, subdivision ](b)(1), which applies to stairwell openings,
+includes no such height trigger, nor does it exclude framing work from its mandate; the
+Division properly alleged a violation of this safety order, and the Board finds a violation.
+       “While the Board recognizes that interpreting the safety orders is not always a
+simple task, in this instance compliance with the terms of section 1632[, subdivision ]
+(b)(1) by covering or guarding floor openings does not prevent an employer from also
+complying with section 1716.2. It is both possible, and reasonable, to give concurrent
+effect to both safety orders. [Citation.] Only where there is an actual conflict between
+the orders will a more specific safety order control over the more general; that not being
+shown in this instance, Employer’s defense therefore fails. [Citation.]
+       “Additionally, the Board is not convinced that section 1716.2[, subdivision ](f) is
+more specific than section 1632[, subdivision ](b)(1). Section 1632[, subdivision ](b)(1)
+requires guarding of ‘[f]loor, roof and skylight openings . . . .’ Section 1504 defines
+‘opening’ to include ‘stairway floor openings.’ In short, section 1632[, subdivision
+](b)(1) specifically pertains to protecting stairway floor openings such as the one that
+Martinez fell through. In contrast, section 1716.2[, subdivision ](f) requires guardrails
+(or other appropriate protection) around ‘all unprotected sides or edges . . .’ over fifteen
+
+                                             29
+feet in height during framing activities. The latter regulation appears to be a more-
+generalized guideline, applicable during the framing process, whether the working floor
+contains openings or not, and does not specifically address the floor opening hazard.
+Under the circumstances of this case, we conclude there is no conflict among the two
+regulations, and so Employer must comply with both.” (Cabrillo, supra, 2014 CA
+OSHA App.Bd. Lexis 116 at pp. *9-12.)
+       For the reasons expressed in Cabrillo, we conclude section 1716.2 did not conflict
+with either section 1632, subdivision (b)(1) or, based on the same reasoning, section
+1626, subdivision (a)(2).
+       Plaintiff again maintains that the Appeals Board’s determinations amount to
+underground regulation and, under a separate point heading entitled, “Consequences of
+Respondent’s and Lower Court’s Rulings,” asserts this creates a separation of powers
+issue and further asserts, with examples, the Appeals Board’s “findings leave more
+questions than answers.” (Bold and some capitalization omitted.) We disagree. While
+we acknowledge that, going forward, as before, “interpreting the safety orders is not
+always a simple task . . .” (Cabrillo, supra, 2014 CA OSHA App.Bd. Lexis 116 at
+p. *10.) We conclude the Appeals Board here merely interpreted the subject regulations,
+as opposed to effectively rewriting them, and its interpretations were reasonable.
+
+
+
+
+                                            30
+                                     DISPOSITION
+       The judgment is affirmed. The Appeals Board and the Division shall recover their
+costs on appeal. (Cal. Rules of Court, rule 8.278(a)(1), (2).)
+
+
+
+                                                      /s/
+                                                  HORST, J. ∗
+
+
+
+We concur:
+
+
+
+    /s/
+RENNER, Acting P. J.
+
+
+
+    /s/
+BOULWARE EURIE, J.
+
+
+
+
+∗ Judge of the Placer County Superior Court, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+                                             31
+Filed 7/24/23
+                              CERTIFIED FOR PUBLICATION
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                               THIRD APPELLATE DISTRICT
+                                             (Placer)
+                                               ----
+
+
+
+ L & S FRAMING INC.,                                                  C096386
+
+                  Plaintiff and Appellant,                 (Super. Ct. No. SCV0046603)
+
+          v.                                                  ORDER CERTIFYING
+                                                                OPINION FOR
+ CALIFORNIA OCCUPATIONAL SAFETY AND                             PUBLICATION
+ HEALTH APPEALS BOARD,
+
+                  Defendant and Respondent;
+
+ CALIFORNIA DEPARTMENT OF INDUSTRIAL
+ RELATIONS,
+
+                  Real Party in Interest and Respondent.
+
+
+
+
+THE COURT:
+        The opinion in the above-entitled matter filed on June 29, 2023, was not certified
+for publication in the Official Reports. For good cause it now appears that the opinion
+should be published in the Official Reports and it is so ordered.
+
+
+
+
+                                               32
+FOR THE COURT:
+
+
+
+    /s/
+RENNER, Acting P. J.
+
+
+    /s/
+BOULWARE EURIE, J.
+
+
+
+    /s/
+HORST, J. ∗
+
+
+
+
+∗ Judge of the Placer County Superior Court, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+                                           33
+                                EDITORIAL LISTING
+
+
+      APPEAL from a judgment of the Superior Court of Placer County, Trisha J.
+Hirashima, Judge. Affirmed.
+
+      Donnell, Melgoza & Scates LLP, Manuel M. Melgoza for Plaintiff and Appellant.
+
+      J. Jeffrey Mojcher, Aaron R. Jackson, F. Elizabeth Clarke and Vincent Mersich for
+Respondent California Occupational Safety and Health Appeals Board.
+
+        Denise M. Cardosa, Deborah A. Bialosky and Clara Hill-Williams for Real Party
+in Interest and Respondent California Department of Industrial Relations.
+
+
+
+
+                                          34

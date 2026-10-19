@@ -1,0 +1,406 @@
+cl_opinion_id: 4668955
+cluster: 4865176
+docket: G058009
+date: 2021-03-17
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Nunez CA4/3
+----
+Filed 3/17/21 P. v. Nunez CA4/3
+
+
+
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                     FOURTH APPELLATE DISTRICT
+
+                                                DIVISION THREE
+
+
+ THE PEOPLE,
+
+      Plaintiff and Respondent,                                        G058009
+
+           v.                                                          (Super. Ct. No. 15NF0143)
+
+ DANIEL NUNEZ,                                                         OPINION
+
+      Defendant and Appellant.
+
+
+
+                   Appeal from a judgment of the Superior Court of Orange County, Julian W.
+Bailey, Judge. Affirmed.
+                   Cathryn L. Rosciam and Arthur Martin, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+              Xavier Becerra, Attorney General, Lance E. Winters, Chief Assistant
+Attorney General, Julie L. Garland, Assistant Attorney General, Eric A. Swenson and
+Felicity Senoski, Deputy Attorneys General, for Plaintiff and Respondent.
+                                  *          *          *
+              Daniel Nunez appeals from his conviction on one count of committing a
+lewd act on a child under the age of 14. (Pen. Code, § 288 subd. (a).) The jury also
+found true the allegation that he engaged in substantial sexual conduct with his victim.
+(Pen. Code, § 1203.066, subd. (a)(8).) Nunez contends the judgment must be reversed
+because the trial court abused its discretion by (1) admitting evidence of his prior
+uncharged sexual offenses under Evidence Code section 1108, and (2) preventing him
+from cross-examining a witness about her income in an effort to impeach her testimony.1
+              The trial court has broad discretion to determine the admissibility of
+evidence, and we find no error in either ruling. We also reject Nunez’s suggestion that
+we “reconsider” whether Evidence Code section 1108, which allows the trial court to
+admit evidence of prior uncharged sexual offenses, amounts to a denial of due process.
+As Nunez acknowledges, our Supreme Court has rejected that contention in People v.
+Falsetta (1999) 21 Cal.4th 903, 907 (Falsetta), and we are bound by its decision.2 It is
+not within our power to “reconsider” a ruling made by our Supreme Court. (Auto Equity
+Sales, Inc. v. Superior Court (1962) 57 Cal.2d 450, 455.)
+
+       1
+              In his opening brief, Nunez also contended the court erred by admitting
+evidence of the victim’s prior disclosures of the charged crime to third parties, claiming it
+was inadmissible hearsay. However, Nunez explicitly withdrew that claim of error in his
+reply brief.
+       2
+              We recognize Nunez likely raised this issue as a precursor to seeking
+review of the issue by our Supreme Court. However, as the Attorney General points out,
+the Supreme Court has rejected challenges to its Falsetta ruling several times in recent
+years. (See People v. Molano (2019) 7 Cal.5th 620, 664, citing People v. Daveggio and
+Michaud (2018) 4 Cal.5th 790, 827; People v. Loy (2011) 52 Cal.4th 46, 60-61; People v.
+Lewis (2009) 46 Cal.4th 1255, 1288-1289.)
+
+
+                                             2
+                We consequently affirm the judgment.
+
+                                           FACTS
+                In October 2017, Nunez was charged with a single count of lewd conduct
+with a minor under the age of 14. (Pen. Code, § 288, subd. (a).) It was further alleged
+that he engaged in substantial sexual contact with the minor. (Pen. Code, § 1203.066,
+subd. (a)(8).) The offense was alleged to have occurred between February 2010 and
+February 2013.
+                At the time of the offense, Nunez was living with his long-term girlfriend,
+Gwendelyn B. The two had been living together since 1986 or 1987. Gwendelyn had
+three children from an earlier relationship—daughters Shannon B. and Jamaica B., and
+son Forrest B. Nunez had helped raise those children, who were adults by the time the
+offense occurred. Gwendelyn and Nunez also had a child together, Gabriel R.
+                Gwendelyn and Nunez lived in a mobile home that was also shared, for a
+period of several months, by Forrest. The mobile home was divided into two separate
+residences; Gwendelyn and Nunez lived in the front, while Forrest lived in the back.
+                The victim of the charged crime was Forrest’s daughter (and Gwendelyn’s
+granddaughter), V.D., who was an 11-year-old fifth grader at the time. V.D. lived with
+her mother, but sometimes visited her father at the mobile home.
+                During one of those visits, V.D. was in the front residence of the mobile
+home, sitting on the bed in the room shared by Nunez and Gwendelyn. She was playing
+with her flip phone when Nunez came into the room and sat on the bed next to her.
+                After asking how V.D. was doing, Nunez pulled her closer to him, touched
+her thigh, and rubbed her vaginal area outside of her pants. He unbuttoned her pants and
+pulled down both her pants and underwear. Nunez then rubbed the outside of her vagina
+and put his finger inside. He asked V.D. if she liked it, and she told him she did not and
+that it hurt.
+
+
+                                              3
+              Nunez warned V.D. not to tell anyone; in response, she shook her head
+apparently to signify she would not. She then ran into her father’s residence, hid in the
+closet, and cried. She did not tell her father what occurred, but she avoided being alone
+with Nunez after that day.
+              At some point, V.D. stopped visiting her father at the mobile home; when
+he asked her why she did not want to stay with him, she told Forest she was not
+comfortable around Nunez and Gwendelyn.
+              V.D. did not tell anyone what Nunez had done to her for two or three years.
+However, in the period spanning eighth grade to tenth grade, she revealed that Nunez had
+molested her to four different friends. All four of those friends testified at the trial.
+              In September 2014, when V.D. was in ninth grade, she told her mother she
+had been molested, but she would not initially reveal the identity of the perpetrator. After
+consistent prodding from her mother over the course of a month, she finally revealed it
+was Nunez.
+              V.D.’s mother contacted V.D.’s aunt, Jamaica, who came to talk to V.D.
+The next day, Jamaica and V.D.’s mother took V.D. to the police station to report the
+crime. At the police station, Jamaica also reported Nunez had molested her repeatedly
+when she was between the ages of about eight and twelve years old.
+              The police then spoke with Jamaica’s sister, Shannon, who reported Nunez
+also molested her several times when she was between the ages of eight and eleven.
+              At trial, the prosecution filed a motion to admit evidence of Nunez’s prior
+uncharged sexual misconduct against Jamaica and Shannon under Evidence Code
+section 1108. The prosecution proffered that Jamaica and Shannon would testify Nunez
+had molested each of them repeatedly over a period of years in the 1980’s—beginning
+when they were around the ages of eight or nine—by digitally penetrating their vaginas
+and touching their breasts and buttocks.
+
+
+
+                                               4
+                The prosecutor argued that the evidence of both witnesses was relevant to
+the jury’s evaluation of V.D.’s credibility in this case, as well as to the issues of Nunez’s
+intent and the absence of mistake or accident. The prosecution also asserted that the
+evidence should not be excluded under Evidence Code section 352 because its probative
+value outweighed its prejudicial effect.
+                During the in limine hearing, the prosecutor explained that after Jamaica
+and Shannon disclosed the molestations to Gwendelyn, Nunez apologized at a family
+meeting, and the matter was not reported to law enforcement.
+                Although Nunez argued the evidence should be excluded because it was too
+prejudicial and too remote, the court found that the similar ages of V.D. and her aunts at
+the time they were molested, as well as the similar familial relationship between Nunez
+and each of the victims, had “significant probative value.” The court consequently
+concluded that the probative value of the evidence outweighed the danger of the jury
+misusing it and ruled it was admissible under Evidence Code section 1108. The trial
+court further noted that the jury would be appropriately instructed as to how to evaluate
+the evidence.
+                Both Shannon and Jamaica testified at trial about Nunez’s molestation
+history. They also revealed that after they finally disclosed to a cousin the fact Nunez
+was molesting them, Gwendelyn learned of it and called them together with Nunez to
+address the issue. Jamaica recalled going into a bedroom where Nunez was present on
+his knees. Gwendelyn asked the two girls if Nunez had done anything to them, and they
+said “yes.” Nunez was crying and said he was “sorry.” Gwendelyn asked the girls to
+forgive him. Shannon recalled she and her sister participated in a larger family meeting
+that included their aunt, two cousins, and Forrest. Shannon testified the outcome of the
+meeting was that Nunez apologized and said it would not happen again. They did not
+report the molestation to the police.
+
+
+
+                                              5
+              Nunez’s defense was grounded on a theory that V.D. had fabricated the
+allegation against Nunez—allegedly at the behest of Jamaica, who wanted Nunez out of
+the way so she and her five children could move into the mobile home with Gwendelyn.
+During Jamaica’s cross-examination, defense counsel asked her if she worked. When she
+responded, “no,” counsel asked her how she supported her five children.
+              After the court sustained a relevance objection to that question, counsel
+explained during a sidebar that “the defense is that these people are making this up. They
+want Daniel Nunez out of the picture so they can live at his place, and I want to know
+how she supports her five children. I think it’s relevant because it would show a motive
+to fabricate.” The court then allowed Nunez’s counsel to question Jamaica outside the
+presence of the jury, to establish how she would have answered.
+              Jamaica testified that she supported her children through a combination of
+child support payments and government housing assistance. In response to follow up
+questions, she explained that “housing assistance” meant “[t]he government helps me pay
+for my rent.” She gave the ages of her children, who were between 4 and 20, and
+clarified that she received two child support payments from different people. After
+receiving those answers, defense counsel stated those were the questions he would ask in
+front of the jury; the court once again sustained the prosecutor’s objection and ruled the
+evidence irrelevant.
+              The prosecutor asked Jamaica on redirect if she had fabricated her claim of
+sexual assault because she was trying to live in a house Nunez owns; Jamaica answered
+“[n]o.”
+              After both sides had completed their presentation of evidence, the court
+turned to the issue of jury instructions. The trial court proposed, without objection, that
+the jury be instructed it could evaluate the evidence of Nunez’s prior uncharged sexual
+misconduct involving Jamaica and Shannon for its tendency to show intent, absence of
+mistake or accident, or common plan under Evidence Code section 1101, subdivision (b),
+
+                                              6
+as well as for its tendency to show Nunez’s disposition to commit sexual offenses under
+Evidence Code section 1108.
+              The trial court subsequently instructed the jury under a modified version of
+CALCRIM No. 375, Evidence of Uncharged Offenses, which directed the jurors to
+disregard the evidence entirely if they concluded the prosecutor failed to establish by a
+preponderance of the evidence that the prior molestation occurred.
+              However, the instruction also informed the jurors that if they “decide[d]
+that the defendant committed the offenses, you may, but are not required to, consider that
+evidence for the limited purpose of deciding whether: [¶] The defendant acted with the
+intent of arousing, appealing to, or gratifying the lust, passions, or sexual desires of the
+defendant or [V.D.]; or [¶] The defendant’s alleged actions were not the result of mistake
+or accident; or [¶] The defendant had a plan or scheme to commit the offense alleged in
+this case; or [¶] The defendant was disposed or inclined to commit sexual offenses, and
+based on that decision, also conclude that the defendant was likely to commit and did
+commit the offense charged here. [¶] In evaluating this evidence, consider the similarity
+or lack of similarity between the uncharged offenses and the charged offense.”
+              The instruction explicitly directed the jury “not [to] consider this evidence
+for any other purpose except for these limited purposes. [¶] If you conclude that the
+defendant committed the uncharged offenses, that conclusion is only one factor to
+consider along with all the other evidence. It is not sufficient by itself to prove that the
+defendant is guilty of the charged crime or the allegation that the defendant had
+substantial sexual conduct with [V.D.] who was under the age of 14 at the time.
+The People must still prove the charge and every allegation beyond a reasonable doubt.”
+              The prosecutor included the instruction’s language in her closing argument,
+and told the jurors that they were not permitted to use the prior act evidence to find the
+defendant was “automatically guilty of sexually assaulting [V.D.] . . . .”
+
+
+
+                                               7
+                                        DISCUSSION
+       1.     Standard of Review
+              In seeking a reversal of his conviction, Nunez relies on a claim that the
+court abused its discretion in two evidentiary rulings. We observe at the outset of our
+analysis it is difficult to prevail on that argument. “‘In determining the admissibility of
+evidence, the trial court has broad discretion. . . . A trial court’s ruling on admissibility
+implies whatever finding of fact is prerequisite thereto . . . .’ [Citation.] ‘We review the
+trial court’s conclusions regarding foundational facts for substantial evidence. [Citation.]
+We review the trial court’s ultimate ruling for an abuse of discretion [citations], reversing
+only if “‘the trial court exercised its discretion in an arbitrary, capricious, or patently
+absurd manner that resulted in a manifest miscarriage of justice.’”’” (People v. Jackson
+(2016) 1 Cal.5th 269, 320-321.)
+       2.     Admission of Evidence of Prior Uncharged Sex Offenses
+              Nunez’s first contention is that the court abused its discretion by admitting
+the evidence of his earlier uncharged sex offenses involving Jamaica and Shannon. He
+argues the evidence should have been excluded under Evidence Code section 352
+because it was substantially more prejudicial than probative.
+              “In sexual offense cases, Evidence Code section 1108 creates an exception
+to Evidence Code section 1101’s prohibition against propensity evidence. Under
+Evidence Code section 1108, when a criminal defendant is accused of a sexual offense,
+‘evidence of the defendant’s commission of another sexual offense or offenses’ is not
+excluded under section 1101 if not inadmissible under Evidence Code section 352.
+[Citation.] For purposes of Evidence Code section 1108, ‘sexual offense’ includes sexual
+assault, lewd acts on a minor, unlawful intercourse with a minor, rape by coercion,
+forcible rape, production of child pornography, and exhibiting pornography to a minor.”
+(People v. Nguyen (2010) 184 Cal.App.4th 1096, 1115, fn. omitted (Nguyen).)
+
+
+
+                                               8
+              Evidence Code section 352 provides the court with discretion to ‘“exclude
+evidence if its probative value is substantially outweighed by the probability that its
+admission will (a) necessitate undue consumption of time or (b) create substantial danger
+of undue prejudice, of confusing the issues, or of misleading the jury.”’ However, “The
+admission of relevant evidence will not offend due process unless the evidence is so
+prejudicial as to render the defendant’s trial fundamentally unfair.” (Falsetta, supra,
+21 Cal.4th at p. 916.)
+              In exercising their discretion to admit evidence of prior sexual offenses,
+“trial judges must consider such factors as its nature, relevance, and possible remoteness,
+the degree of certainty of its commission and the likelihood of confusing, misleading, or
+distracting the jurors from their main inquiry, its similarity to the charged offense, its
+likely prejudicial impact on the jurors, the burden on the defendant in defending against
+the uncharged offense, and the availability of less prejudicial alternatives to its outright
+admission, such as admitting some but not all of the defendant’s other sex offenses, or
+excluding irrelevant though inflammatory details surrounding the offense.” (Falsetta,
+supra, 21 Cal.4th at p. 917.)
+              In Nguyen, this court characterized the most significant considerations as
+“(1) whether the propensity evidence has probative value, e.g., whether the uncharged
+conduct is similar enough to the charged behavior to tend to show the defendant did in
+fact commit the charged offense; (2) whether the propensity evidence is stronger and
+more inflammatory than evidence of the defendant’s charged acts; (3) whether the
+uncharged conduct is remote or stale; (4) whether the propensity evidence is likely to
+confuse or distract the jurors from their main inquiry, e.g., whether the jury might be
+tempted to punish the defendant for his uncharged, unpunished conduct; and (5) whether
+admission of the propensity evidence will require an undue consumption of time.”
+(Nguyen, supra, 184 Cal.App.4th at p. 1117.)
+
+
+
+                                              9
+              Keeping those factors in mind, we find no abuse of discretion in the court’s
+decision to admit the evidence of Nunez’s prior uncharged offenses against Jamaica and
+Shannon. The only factor of the five listed in Nguyen that might militate against
+admission is that the prior acts are fairly remote in time. But as the Attorney General
+points out, similar periods between prior acts of sexual misconduct and the current crime
+were countenanced in People v. Robinson (2012) 208 Cal.App.4th 965, 992 [34 years];
+People v. Branch (2001) 91 Cal.App.4th 274, 284 [30 years]; and People v. Pierce (2002)
+104 Cal.App.4th 893, 900 [23 years].
+              Moreover, as pointed out in People v. Pierce, supra, 104 Cal.App.4th at
+p. 900, “‘substantial similarities between the prior and the charged offenses balance out
+the remoteness of the prior offenses.’” And as Nunez concedes, the circumstances of the
+prior uncharged sexual offenses were strikingly similar to the one alleged in this case.
+Hence, rather than attacking the probative value of the evidence, Nunez leans heavily on
+the other factors to support his contention that the evidence was substantially more
+prejudicial than it was probative.
+              Nunez also contends the evidence of those offenses was stronger and more
+inflammatory than the evidence supporting the current charge because it involved
+multiple victims and a pattern of incidents over time. Our analysis of the issue differs.
+Both the current crime and the prior offenses were supported by the same type of
+evidence: direct victim testimony. To us, that evidence seems stronger in the current
+case as it is less attenuated. And because the crimes described by all three victims were
+so similar, we view them as equally inflammatory. It is unlikely any juror would have
+concluded that while a single incident of the type described by V.D. was excusable, the
+same conduct committed repeatedly—as described by Jamaica and Shannon—should be
+punished.
+              Nunez also argues the evidence related to prior offenses was likely to have
+confused and distracted the jury because he was never punished for those offenses and
+
+                                            10
+the jury might have decided to convict him on the charge against V.D. as a means of
+holding him accountable for those earlier crimes. However, there is no evidence to
+support such speculation. To the contrary, the court’s instruction to the jury gave clear
+directions about the limited use it could make of the prior offense evidence, and stated
+unequivocally that even if the jury concluded that Nunez had committed those prior
+offenses, that finding could not be the sole basis for convicting him on the current charge.
+We must presume the jury followed those instructions. (People v. Holt (1997) 15 Cal.4th
+619, 662.)
+                Finally, Nunez also claims the evidence of the prior offenses required an
+undue consumption of time; again we cannot agree. The evidence consisted almost
+entirely of direct testimony from Jamaica and Shannon, including cross-examination of
+both witnesses. There was little third party testimony about the prior offenses:3 no
+circumstantial evidence, no experts, and no scientific evidence.
+                Based on the foregoing, we find no abuse of discretion in the court’s
+determination that the evidence of Nunez’s prior sex offenses was not unduly prejudicial.
+       3.       Limitation on Cross-Examination of Jamaica
+                Nunez also contends the court abused its discretion by “exclud[ing] this
+line of questioning” about Jamaica’s purported difficulty “providing financially for her
+children.” He contends this alleged error unfairly “restricted [his] counsel’s ability to
+confront and cross-examine a key prosecution witness on an issue relevant to her bias and
+credibility.”
+
+       3
+              During his testimony, Forrest was asked if he knew about the “family secret
+where Daniel Nunez was accused of molesting your sister,” and he replied that he did
+know about it, but did not believe it. In her testimony, Gwendelyn explained how she
+became aware of the fact her daughters claimed Nunez had molested them. She also
+described the family meeting in which he apologized for it, and revealed that he had “fled
+to Mexico for one or two months with his mother after the family meeting.” Her direct
+testimony on the issue comprises only nine pages of the reporter’s transcript.
+
+
+                                              11
+              But the argument misconstrues what actually happened, as well as its
+significance. As the record reflects, Nunez was not stymied on an entire “line of
+questioning” about “an issue relevant to [Jamaica’s] bias and credibility.” Instead, he
+sought to ask what was essentially a single question: how did Jamaica, who apparently
+had no paying job, support her children? Nunez’s stated goal was to demonstrate that
+Jamaica had no means to provide for her children, and was so desperate for housing that
+she orchestrated a criminal conspiracy involving a false accusation of sexual abuse
+against him as a means of removing him from the mobile home he shared with
+Gwendelyn.
+              After the prosecutor objected to counsel’s question on relevance grounds,
+Nunez’s counsel was permitted to ask Jamaica his question outside the presence of the
+jury to ascertain what evidence it would reveal. After Jamaica answered the question,
+Nunez’s counsel asked some fairly minor follow-up questions—establishing that she
+relied on two separate child support payments as well as government housing assistance
+to support her five children—before stating those were all the questions he had on the
+subject.
+              Contrary to Nunez’s apparent belief, the evidence Jamaica gave in response
+to his questions—i.e., the evidence she presumably would have given before the jury had
+the court not sustained the relevance objection—did nothing to establish her bias.
+Indeed, in the absence of any information about the amounts of child support and housing
+assistance Jamaica received, it did nothing to establish she had difficulty providing
+financially for her children. It was, as the trial court ruled, irrelevant.
+              Moreover, as Nunez acknowledges, he was still able to make his larger
+point—which was that Jamaica desired to live in the mobile home with her children—
+through the testimony of Nunez’s sister, who claimed that in 2015 Jamaica had broken
+into the back residence of the mobile home and began living there with her children while
+the sister was still nominally residing there. His counsel relied on that evidence in
+
+                                               12
+closing argument to support his assertion that Jamaica had a motive to lie about Nunez to
+get him out of the residence. Although the jury was apparently not persuaded by that
+argument, we fail to see how the point would have been materially strengthened by
+allowing the jury to hear that Jamaica supported her children through some combination
+of unspecified amounts of child support and government housing assistance.
+
+                                    DISPOSITION
+             The judgment is affirmed.
+
+
+
+
+                                                GOETHALS, J.
+
+WE CONCUR:
+
+
+
+FYBEL, ACTING P. J.
+
+
+
+THOMPSON, J.
+
+
+
+
+                                           13

@@ -1,0 +1,254 @@
+cl_opinion_id: 11171768
+cluster: 10705181
+docket: G064186
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Vigil CA4/3
+----
+Filed 10/16/25 P. v. Vigil CA4/3
+
+
+
+
+                 NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+         IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                  FOURTH APPELLATE DISTRICT
+
+                                               DIVISION THREE
+
+
+ THE PEOPLE,
+
+       Plaintiff and Respondent,                                        G064186
+
+                    v.                                                  (Super. Ct. No. M-20093)
+
+ LOUIS DAVID VIGIL,                                                     OPINION
+
+       Defendant and Appellant.
+
+
+
+                   Appeal from an order of the Superior Court of Orange County,
+Jay Moorhead, Judge. Reversed and remanded with directions.
+                   Richard Schwartzberg, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+                   Rob Bonta, Attorney General, Lance E. Winters, Chief Assistant
+Attorney General, Charles C. Ragland, Assistant Attorney General, Kerry
+Ramos and Sahar Karimi, Deputy Attorneys General, for Plaintiff and
+Respondent.
+             Louis David Vigil appeals from the trial court’s order denying his
+petition to terminate his sex offender registration under Penal Code section
+290.5, subdivision (a) (all undesignated statutory references are to this code).
+Vigil argues the court abused its discretion in evaluating the statutory
+factors to determine “whether community safety would be significantly
+enhanced by requiring continued registration.” (§ 290.5, subd. (a)(3).) We
+agree. We reverse the order and remand the matter with directions to grant
+Vigil’s petition.
+               FACTUAL AND PROCEDURAL BACKGROUND
+             In 1995, Vigil pleaded guilty to a certain sex crime, triggering a
+duty to register as a sex offender under section 290. Twenty seven years
+later, in October 2022, he filed a petition to terminate his sex offender
+registration pursuant to section 290.5. He alleged he was a “[t]ier 2” offender
+and had registered for at least 20 years, making him eligible for terminating
+his registration requirement. The prosecution objected to granting the
+petition and requested a hearing because “[c]ommunity safety would be
+significantly enhanced by the petitioner’s continued registration.” It also filed
+an opposition with supporting documents. Vigil filed a response to the
+opposition with supporting documents.
+
+             At the hearing in May 2024, the trial court denied the petition
+“based on the totality of the circumstances,” but allowed Vigil to petition for
+termination again in one year. The court stated it reviewed counsel’s
+arguments and the prosecution’s evidence. In making its determination, the
+court relied on “the numerous acts of sexual conduct against” Vigil’s daughter
+“when she was three or four years old.” It mentioned “some violence against
+the victim’s mother and . . . brother.” The court cited Vigil’s statement to a
+therapist around the time of his conviction that he believed “it was his right
+
+                                        2
+to do what he did to his daughter based on the fact that he brought her into
+this world.” “But the main fact” on which the court relied was a
+postconviction allegation: Vigil engaged in inappropriate sexual conduct with
+a 13-year-old girl, who was his girlfriend’s daughter, in 2005 and 2006. The
+court acknowledged Vigil was never arrested or prosecuted for the alleged
+inappropriate conduct, but said multiple witnesses reported Vigil to law
+enforcement. The court expressed concern: “I’m extremely worried that if we
+don’t continue to have . . . Vigil register and monitored that future harm to
+somebody could happen in the future, based on what happened in 2005 [and]
+2006.”
+                                  DISCUSSION
+
+             The Sex Offender Registration Act (§ 290 et seq.) requires a
+person convicted of certain sex crimes to register as a sex offender.
+Originally, all sex offenders were subject to a lifetime registration
+requirement. Effective January 1, 2021, section 290 was restructured to
+provide for three tiers of registration for sex offenders, based primarily on the
+offense. (Stats. 2017, ch. 541, § 2.5.) Registration requirements can now be for
+10 years (tier one), 20 years (tier two), or a lifetime (tier three). (§ 290, subd.
+(d).) Vigil is a tier two sex offender required to register for at least 20 years.
+(§ 290, subd. (d)(2).)
+             Section 290.5 permits sex offenders in tiers one and two to
+petition the trial court to terminate their registration requirement. The
+prosecution may request a hearing and “present evidence” to demonstrate
+“community safety would be significantly enhanced by requiring continued
+registration.” (§ 290.5, subd. (a)(2)–(3).) In other words, the prosecution has
+the burden of producing evidence to establish “terminating the registration
+requirement considerably raised the threat to society because” a petitioner is
+
+                                         3
+“currently likely to reoffend.” (People v. Thai (2023) 90 Cal.App.5th 427, 433
+(Thai).)
+             In making its decision, the trial court must consider: “the nature
+and facts of the registerable offense; the age and number of victims; whether
+any victim was a stranger at the time of the offense (known to the offender
+for less than 24 hours); criminal and relevant noncriminal behavior before
+and after conviction for the registerable offense; the time period during which
+the person has not reoffended; successful completion, if any, of a Sex Offender
+Management Board-certified sex offender treatment program; and the
+person’s current risk of sexual or violent reoffense, including the person’s risk
+levels on SARATSO static, dynamic, and violence risk assessment
+instruments, if available.” (§ 290.5, subd. (a)(3).) If the court denies the
+petition, it must “set the time period,” ranging from one to five years, “after
+which the person can [re-petition] for termination,” and provide its reasons.
+(§ 290.5, subd. (a)(4).)
+             “An appellate court reviews the trial court’s ruling on a petition
+for termination from the sex offender registry for abuse of discretion.
+[Citation.] To establish an abuse of discretion, a defendant must demonstrate
+the trial court’s decision fell outside the bounds of reason, i.e., was arbitrary,
+capricious, or patently absurd. [Citation.] [¶] ‘The abuse of discretion
+standard is not a unified standard; the deference it calls for varies according
+to the aspect of a trial court’s ruling under review. The trial court’s findings
+of fact are reviewed for substantial evidence, its conclusions of law are
+reviewed de novo, and its application of the law to the facts is reversible only
+if arbitrary and capricious.’ [Citation.] A trial court abuses its discretion
+when its factual findings are not supported by the evidence, or its decision is
+based on an incorrect legal standard.” (Thai, supra, 90 Cal.App.5th at p. 433.)
+
+                                         4
+            The Attorney General argues the trial court properly exercised its
+discretion in weighing the statutory factors. Vigil argues insufficient evidence
+supports the denial of his petition and we should reverse the denial in
+accordance with Thai.
+            In Thai, the petitioner masturbated a 12-year-old boy and
+pleaded guilty to “committing a lewd and lascivious act upon a child under
+the age of 14 years” under section 288, subdivision (a). (Thai, supra,
+90 Cal.App.5th at p. 430.) More than 23 years later, the petitioner filed a
+petition to terminate his sex offender registration. (Ibid.) “The trial court
+stated it considered ‘each and every one of the factors’ and although not
+considering the circumstances of the offense alone, it was ‘weighing that
+heavily’” in denying the petition. (Id. at p. 431.) The appellate court held:
+“[I]nsufficient evidence supports the trial court’s conclusion community safety
+would be appreciably increased by requiring Thai to continue to register for
+five years. The prosecution failed its burden to produce evidence establishing
+that terminating the registration requirement considerably raised the threat
+to society because 64-year-old Thai was currently likely to reoffend.” (Id. at
+p. 433.)
+            Here, the trial court “committed the sin condemned in Thai.”
+(People v. Franco (2024) 99 Cal.App.5th 184, 194.) The prosecution failed to
+provide any evidence demonstrating Vigil, “at the time of the hearing, ‘was
+currently likely to reoffend.’” (Ibid.) While the court did not explicitly specify
+the statutory factors in its analysis, it appeared to give weight to the first,
+second, and fourth factors in its denial of the petition: “the nature and facts of
+the registerable offense,” the age of the victim, and “criminal and relevant
+noncriminal behavior before and after conviction for the registerable
+
+
+
+                                         5
+offense.”1 (§ 290.5, subd. (a)(3).) But, as we explain below, despite the
+circumstances of the registrable offense and Vigil’s past behavior, no evidence
+was presented to show he is a present risk to community safety.
+            With respect to the first and second factors, the Attorney General
+suggests the registrable offense here was more egregious than the one in
+Thai, because the victim in Thai was 15 years old whereas the victim here
+was three to four years old. The distinction is irrelevant. It does not reveal, in
+light of the other facts to which the trial court gave weight in denying the
+petition, how Vigil posed a risk to the community today. (See Thai, supra,
+90 Cal.App.5th at p. 434 [“facts [of the registrable offense] alone do not
+demonstrate Thai was a risk to the community over 24 years later”].)
+            As to the fourth factor, the Attorney General argues, unlike the
+single instance of misconduct in Thai, Vigil engaged in inappropriate sexual
+conduct before and after the underlying offense. The trial court cited “some
+violence against the victim’s mother and . . . brother” at the time of the
+registrable offense. But the court stressed “the main fact” on which it relied
+was Vigil’s alleged sexual misconduct in or around 2005 and 2006. The
+Attorney General asserts several witnesses reported Vigil was showering and
+having sex with a 13-year-old girl. But that alleged misconduct, for which
+Vigil was never arrested or prosecuted, occurred approximately 18 or 19
+years before the court hearing in this matter. Given this alleged misconduct
+occurred nearly two decades ago, and any misconduct before or around the
+
+
+
+            1 Although the trial court did not explicitly cite the statutory
+
+factors in its analysis, we infer it considered them in making its decision. The
+court stated it reviewed the parties’ arguments, both of which included
+analysis on the factors.
+
+
+                                        6
+conviction occurred at least 30 years ago, Vigil’s past behavior here sheds no
+light on his current risk to community safety today.
+             The trial court also appeared to give weight to Vigil’s pedophilia
+diagnosis, which he received around the time of his conviction. The court
+stated, given Vigil’s diagnosis, “you would think he’d have a little more
+wherewithal to at least try to keep distance from a 13-year-old girl.” The
+court further stated, “I can’t get it out of my mind that, . . . if I was in
+. . . Vigil’s situation, and I hate to do this, but it’s . . . like you tell mom, hey,
+look, come over to the house by yourself. Don’t bring your 13[-year-old]—find
+a different way. Let’s go out on a date somewhere else.” Notwithstanding the
+prosecution’s failure to show how this diagnosis from 30 years ago made Vigil
+a current risk to community safety today, we are concerned the trial court’s
+comments in this context appear to be irrelevant to the analysis.
+             It does not appear the trial court accorded weight to any
+additional statutory factors in favor of denying the petition. Nothing in the
+hearing transcript suggests the court gave weight to: “whether any victim
+was a stranger at the time of the offense (known to the offender for less than
+24 hours)”; “the time period during which the person has not reoffended”;
+“successful completion, if any, of a Sex Offender Management Board-certified
+sex offender treatment program”; and “the person’s current risk of sexual or
+violent reoffense, including the person’s risk levels on SARATSO static,
+dynamic, and violence risk assessment instruments, if available.” (§ 290.5,
+subd. (a)(3).)
+             In sum, the prosecution failed to present evidence demonstrating
+“terminating the registration requirement considerably raised the threat to
+society because” Vigil “was currently likely to reoffend.” (Thai, supra,
+90 Cal.App.5th at p. 433.) Therefore, the trial court abused its discretion in
+
+                                           7
+denying Vigil’s petition to terminate his sex offender registration under
+section 290.5, subdivision (a).
+                                  DISPOSITION
+            The order is reversed, and the matter is remanded with
+directions to grant Vigil’s petition.
+
+
+
+
+                                            MOTOIKE, ACTING P. J.
+
+WE CONCUR:
+
+
+
+SANCHEZ, J.
+
+
+
+DELANEY, J.
+
+
+
+
+                                        8

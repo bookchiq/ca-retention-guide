@@ -1,0 +1,477 @@
+cl_opinion_id: 9957665
+cluster: 9491052
+docket: D081637
+date: 2024-04-04
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Torres v. FedEx Office and Print Services CA4/1
+----
+Filed 4/4/24 Torres v. FedEx Office and Print Services CA4/1
+                 NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+                COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION ONE
+
+                                         STATE OF CALIFORNIA
+
+
+
+ JERRY TORRES,                                                        D081637
+
+           Plaintiff and Appellant,
+
+           v.                                                         (Super. Ct. No. 37-2022-
+                                                                      00005896-CU-PO-NC)
+ FEDEX OFFICE AND PRINT
+ SERVICES, INC. et al.,
+
+           Defendants and Respondents.
+
+
+         APPEAL from a judgment of the Superior Court of San Diego County,
+Earl H. Maas III, Judge. Affirmed in part, reversed in part, and remanded
+with instructions.
+         Jerry Torres, in pro. per., for Plaintiff and Appellant.
+         Manning & Kass Ellrod, Ramirez, Trester, Jeffrey M. Lenkov and
+Mark R. Wilson for Defendant and Respondent FedEx Office & Print
+Services, Inc.
+         Wood, Smith, Henning & Berman and Steven R. Disharoon for
+Defendant and Respondent Gershman Properties, LLC.
+                               INTRODUCTION
+      Jerry Torres was a customer in a FedEx Office and Print Services, Inc.
+(FedEx) store when he was almost hit by a car that crashed into the
+storefront after the driver mistakenly hit the gas pedal instead of the brakes.
+He sued the FedEx store and the property owner Gershman Properties, LLC
+(Gershman Properties) (together, defendants), for general negligence and
+premises liability, asserting the accident was foreseeable and preventable
+with additional protective barriers, like bollards.
+      Relying on Jefferson v. Qwik Korner Market, Inc. (1994) 28 Cal.App.4th
+990 (Qwik Korner), the trial court concluded the defendants owed no duty to
+Torres, as a matter of law, to erect additional barriers on the property as the
+accident was not reasonably foreseeable. Consequently, the court sustained
+defendants’ demurrer without leave to amend and entered a judgment of
+dismissal. We reverse the judgment. Considering the liberal rules of
+pleading, and assuming the truth of the pertinent allegations for purposes of
+de novo review, we conclude that Torres stated the basic elements of his
+premises liability and negligence claims. His complaint did not establish all
+of the facts that Qwik Korner deemed necessary to negate a business’s duty to
+guard against storefront accidents.
+      We reject, however, Torres’s claim the trial court abused its discretion
+in denying his untimely motion to compel further responses to written
+discovery requests. We thus affirm the court’s discovery order.
+
+
+
+
+                                        2
+                               BACKGROUND
+
+      According to the operative complaint,1 Torres was a customer inside a
+FedEx store at the Breeze Hill Complex in Vista, California on
+December 17, 2020. FedEx is a tenant of the complex, which is owned and
+managed by Gershman Properties. He was “near the front faxing paperwork”
+when a man, by the name of Dunham, trying to park “in front of the store”
+mistakenly hit the accelerator pedal instead of the brakes and drove his car
+
+through the front windows of the store.2 Torres “narrowly missed being hit”
+
+by Dunham’s car but alleged he was injured nonetheless.3
+      The front of the FedEx store “was composed [of] approximately 42 feet
+of glass separated into sections by aluminum studs.” There was an
+approximately 14.5-foot-wide sidewalk in front of the store. Next to the
+sidewalk were marked parking spaces to provide “parking perpendicular” to
+the sidewalk. The curb of the sidewalk was “approximately 5.5 inches in
+height” or “less than 5.5 inches in height.” There were also “6-inch-high”
+concrete wheel stops in front of the sidewalk curb.
+      Torres alleged there were no parking bollards anywhere on the
+premises of the Breeze Hill Complex at the time of the accident and the wheel
+
+
+1     Torres’s form complaint attaches a document entitled “1st Amended
+Complaint” with a “Memorandum of Points and Authorities” containing
+argument and case authorities. Because Torres appeals from a ruling
+sustaining a demurrer, we recite only the well pleaded facts alleged in the
+operative amended complaint and disregard contentions, deductions, or
+conclusions of fact or law. (See Moore v. Regents of University of California
+(1990) 51 Cal.3d 120, 125.)
+
+2     Dunham is not a named party in Torres’s lawsuit.
+
+3     At oral argument, Torres claimed he suffered physical injury as a result
+of having to suddenly move out of the way from the Dunham’s crashing car.
+                                       3
+curb and wheel stops were insufficient to prevent a car “from driving into the
+store.” He alleged the risk of harm from a storefront crash was foreseeable
+and could have been prevented by the installation of traffic bollards which, he
+asserts, “typically costs $400 - $600 per bollard,” or “[a]t a minimum,”
+ensuring “the parking spot lines” were “angled away from the front of the
+building instead of directly at it.” He further alleged the failure to take such
+protective measures despite “the minimal burden” was a breach of
+
+defendants’ duty to keep their customers and invitees safe.4
+      Torres asserted causes of action for negligence and premises liability,
+and sought compensatory damages for wage loss, hospital and medical
+expenses, and loss of earning capacity. FedEx, with Gershman Properties
+joining, demurred to the amended complaint. Relying on Qwik Korner, supra,
+28 Cal.App.4th 990, the trial court concluded the defendants owed no duty to
+Torres, as a matter of law, to erect additional barriers on the property as the
+
+
+
+
+4     Torres filed a motion to augment the record on June 5, 2023. For the
+following reasons, we deny his motion. In Items 1, 2, and 3, Torres contends
+certain pages are missing from his original complaint, Torres’s declaration
+attached to the original complaint, and Torres’s Opposition to Defendant’s
+Motion to Strike and Opposition to Demurrer. Our review of the Register of
+Actions and the originally filed copies of these pleadings reveal the assertedly
+missing pages were never filed with the superior court. In Items 4 and 5,
+Torres seeks to augment the record with his requests for entry of default and
+associated documents filed May 2022. Because these records are not
+necessary to our resolution of his appeal, we deny the requests. In Item 6,
+Torres seeks to augment the record with certain pages he contends are
+missing from his Separate Statement filed in connection with his motion to
+compel further responses to requests for admissions. Again, our review of the
+record reveals these assertedly missing pages were never filed with the
+superior court.
+
+                                        4
+accident was not reasonably foreseeable.5 Accordingly, the court sustained
+the defendants’ demurrer to Torres’s amended complaint without leave to
+amend and entered a judgment of dismissal.
+                                 DISCUSSION
+                                        I.
+                       Demurrer Was Erroneously Sustained
+      On appeal from a judgment dismissing an action after an order
+sustaining a demurrer, we independently determine whether the complaint
+states facts sufficient to constitute a cause of action under any legal theory.
+(T.H. v. Novartis Pharmaceuticals Corp. (2017) 4 Cal.5th 145, 162.) “In
+considering the sufficiency of a pleading, we are bound by the rule
+that . . . the allegations of the complaint must be liberally construed with a
+view to attaining substantial justice among the parties. (Code Civ. Proc.,
+§ 452.)” (Youngman v. Nevada Irrigation Dist. (1969) 70 Cal.2d 240, 245
+(Youngman).) We do not concern ourselves with whether the plaintiff will be
+able to prove the facts which he alleges in his complaint. Instead, we accept
+as true all material facts properly pleaded, including facts that may be
+implied or inferred from those expressly alleged. (Blank v. Kirwan (1985)
+39 Cal.3d 311, 318.)
+
+
+
+5     In his form complaint, Torres asserted three separate bases for
+premises liability: negligence, willful failure to warn (Civ. Code, § 846), and
+dangerous condition of public property. The court found he failed to state a
+cause of action on the basis of willful failure to warn because Civil Code
+section 846 governs entry of property for recreational purposes and Torres
+did not enter the FedEx store for recreational purposes; and he failed to
+demonstrate dangerous condition of public property because the FedEx store
+was private, not public, property. Torres does not challenge these aspects of
+the court’s ruling, explaining in his opening brief on appeal that he
+“mistakenly” asserted these bases for his premises liability cause of action.
+                                        5
+      In addition, “it is settled that negligence may be alleged in general
+terms.” (McMillan v. Western Pacific R. Co. (1960) 54 Cal.2d 841, 845
+(McMillan); accord Hahn v. Mirda (2007) 147 Cal.App.4th 740, 747.) “The
+California Supreme Court has consistently held that ‘a plaintiff is required
+only to set forth the essential facts of his case with reasonable precision and
+with particularity sufficient to acquaint a defendant with the nature, source
+and extent of his causes of action.’ ” (Ludgate Ins. Co. v. Lockheed Martin
+Corp. (2000) 82 Cal.App.4th 592, 608 (Ludgate), quoting Youngman, supra,
+70 Cal.2d at p. 245.) “ ‘The particularity required in pleading facts depends
+on the extent to which the defendant in fairness needs detailed information
+that can be conveniently provided by the plaintiff; less particularity is
+required where the defendant may be assumed to have knowledge of the facts
+equal to that possessed by the plaintiff.’ ” (Ludgate, at p. 608, italics added,
+quoting Jackson v. Pasadena City School Dist. (1963) 59 Cal.2d 876, 879.)
+      “The elements of a negligence claim and a premises liability claim are
+the same: a legal duty of care, breach of that duty, and proximate cause
+resulting in injury.” (Kesner v. Superior Court (2016) 1 Cal.5th 1132, 1158
+(Kesner).) Under the default rule that everyone has a duty to use ordinary
+care to prevent injury to others from their conduct (Civ. Code, § 1714,
+subd. (a)), a property owner is generally required “ ‘to exercise ordinary care
+in the management of his or her premises in order to avoid exposing persons
+to an unreasonable risk of harm.’ ” (Qwik Korner, supra, 28 Cal.App.4th at
+pp. 992−993.) This affirmative duty extends to a tenant because premises
+liability “is grounded in the possession of the premises and the attendant right
+
+to control and manage the premises.’ ”6 (Preston v. Goldman (1986) 42 Cal.3d
+
+
+6     In its reply brief filed in the trial court, FedEx stated it “does not
+dispute the elements of either negligence or premises liability causes of
+                                        6
+108, 118; ibid. [“ ‘mere possession with its attendant right to control
+conditions on the premises is a sufficient basis for the imposition of an
+affirmative duty to act’ ”].)
+      “In determining whether a premises owner [or tenant] owes a duty to
+persons on its property, we apply the Rowland factors.” (Kesner, supra,
+1 Cal.5th at p. 1158.) Those factors are “the foreseeability of harm to the
+plaintiff, the degree of certainty that the plaintiff suffered injury, the degree
+of certainty that the plaintiff suffered injury, the closeness of the connection
+between the defendant’s conduct and the injury suffered, the moral blame
+attached to the defendant’s conduct, the policy of preventing future harm, the
+extent of the burden to the defendant and consequences to the community of
+imposing a duty to exercise care with resulting liability for breach, and the
+availability, cost, and prevalence of insurance for the risk involved.”
+(Rowland v. Christian (1968) 69 Cal.2d 108, 113 (Rowland).) As our high
+court recently clarified, “Rowland’s multifactor test ‘was not designed as a
+freestanding means of establishing duty, but instead as a means for deciding
+whether to limit a duty derived from other sources,’ like Civil Code section
+1714.” (Kuciemba v. Victory Woodworks (2023) 14 Cal.5th 993, 1021,
+additional italics added.)
+      Because the trial court (and defendants) relied on Qwik Korner to
+dispose of Torres’s claims, we start there. In Qwik Korner, a boy standing on
+a sidewalk in front of the store was injured when a driver parking his car
+
+
+
+action, nor does it dispute that it owed a duty of ordinary care to [Torres].
+FedEx disputes any breach of this duty to [Torres] as the subject incident was
+the result of an act by a third-party and was unforeseeable.” In its
+respondent’s brief on appeal, FedEx also does not argue it lacked control as a
+tenant, or that Torres failed to sufficiently plead that fact. Thus, FedEx has
+abandoned and doubly forfeited any such argument.
+                                        7
+accidentally stepped on the gas instead of the brakes, causing his car to jump
+a three-foot-wide, six-inch-high concrete wheel stop, over a six-inch curb, and
+onto a six-foot-wide sidewalk. (Qwik Korner, supra, 28 Cal.App.4th at
+p. 992.) To the side of the storefront were benches and tables. (Ibid.) The
+boy’s guardian ad litem sued Qwik Korner for general negligence and
+premises liability, asserting the accident was foreseeable and “metal posts at
+the ends of the parking spaces would have prevented the car from reaching
+the sidewalk and failure to install such posts constituted negligence.” (Id. at
+pp. 991−992.)
+      Affirming the trial court’s entry of summary judgment in favor of Qwik
+Korner, the Court of Appeal concluded the accident was not sufficiently likely
+to occur such that the landowner was required to take more extensive
+measures than it did. (Qwik Korner, supra, 28 Cal.App.4th at pp. 993, 997.)
+Noting there was, at the time, very little California case law regarding cars
+negligently coming onto the sidewalks of businesses, the court conducted an
+extensive survey of the national body of law on the subject. (Id. at
+pp. 993−994.) It concluded that, in the majority of cases, the business was
+found to have no duty to guard against a negligent driver veering off the
+street and hitting people on sidewalks or in front of buildings. (Id. at p. 993.)
+But there was a minority of cases holding a property owner did or might have
+a duty to prevent such accidents that fell into three categories: (1) “where the
+business provided no protection whatever from encroaching vehicles”;
+(2) where “defendants had knowledge of prior similar accidents” and thus
+“the accidents were deemed foreseeable even when there was some type of
+barrier”; and (3) “where the building design required customers to await
+service by standing adjacent to a parking lot or driveway.” (Id. at
+pp. 994−995).
+
+
+                                        8
+      The court in Qwik Korner found it was undisputed that none of these
+three circumstances existed. Thus the court concluded a business owed no
+duty to guard against accidents caused by negligent drivers, “where the
+business provided both a curb and wheelstops, the parking lot design is
+typical of most businesses and meets all city standards and regulations, there
+were no prior similar incidents and nothing required customers to remain in
+a fixed location adjacent to the parking area.” (Qwik Korner, supra,
+28 Cal.App.4th at pp. 995−996.) Under these circumstances, the business
+“had no duty to erect additional barriers.” (Id. at p. 997, italics added.)
+      Qwik Korner, we observe, does not stand for the proposition that a
+premises owner owed no duty to protect against storefront crashes. Rather,
+the issue was the scope of that duty, specifically whether a premises owner is
+required to “erect additional barriers” to protect against an out-of-control
+vehicle. (Qwik Korner, supra, 28 Cal.App.4th at p. 997.) Indeed, as the court
+acknowledged, a property owner is generally required “ ‘to exercise ordinary
+care in the management of his or her premises in order to avoid exposing
+persons to an unreasonable risk of harm.’ ” (Id. at pp. 992−993.) In holding a
+premises owner does not have a duty to install additional protective
+measures, the court in Qwik Korner found “[t]he probabilities that someone
+will be struck by an out-of-control vehicle are far lower when there are both
+curb and wheelstops, and there is no expectation that customers will be at
+any particular point, such as a walk-up window.” (Id. at p. 996.) The court
+believed “such a result is only common sense.” (Ibid.)
+      We question whether in the 30 years since Qwik Korner expectations
+about the probabilities of storefront crashes caused by distracted driving or
+driver error have remained the same. However, we need not resolve in this
+case whether such accidents are unforeseeable as a matter of law. Qwik
+
+
+                                        9
+Korner was decided at the summary judgment phase based on a developed
+factual record that permitted the court to evaluate, among other issues,
+whether the parking lot design was “typical of most businesses and meets all
+city standards and regulations” and whether anything “required customers to
+remain in a fixed location adjacent to the parking area.” (Qwik Korner,
+supra, 28 Cal.App.4th at pp. 995–996.) Its holding does not compel the
+conclusion that Torres’s complaint was fatally deficient, because the
+complaint does not address these factual issues. Further, even under Qwik
+Korner, a property owner may have a duty to erect additional barriers beyond
+standard curbs and wheelstops where there have been prior similar
+incidents. (Ibid.) This is a fact within the peculiar knowledge of the
+premises owner and tenant, one that would not necessarily be known by a
+plaintiff at the pleading stage. (See Ludgate, supra, 82 Cal.App.4th at p. 608
+[“ ‘The particularity required in pleading facts depends on the extent to which
+the defendant in fairness needs detailed information that can be conveniently
+provided by the plaintiff; less particularity is required where the defendant
+may be assumed to have knowledge of the facts equal to that possessed by the
+plaintiff.’ ”]; McMillan, supra, 54 Cal.2d at p. 845 [“it is settled that
+negligence may be alleged in general terms”].)
+      In sum, applying the liberal rules of pleading, and assuming the truth
+of the relevant allegations, we conclude that Torres stated the basic elements
+of his negligence and premises liability claims sufficiently to survive a
+demurrer.
+
+
+
+
+                                        10
+                                       II.
+ The Trial Court Did Not Abuse Its Discretion in Denying Torres’s Untimely
+          Motion to Compel Further Responses to Written Discovery
+     Torres served FedEx with requests for admissions and demand for
+production of documents on August 20, 2022. FedEx served verified
+responses to both by e-mail and regular mail on September 26, 2022. Here,
+notice of a motion to compel further responses to the written discovery
+requests was required within 45 days of the service of the verified responses
+
+plus two court days for e-service.7 (Code Civ. Proc., §§ 2031.310, subd. (c),
+2033.290, subd. (c).)
+     Torres did not serve his motions to compel further responses until
+November 21, 2022, well beyond the statutory 45-day deadline. Thus, the
+trial court correctly concluded that it lacked jurisdiction to rule on the
+untimely motions. (See Sexton v. Superior Court (1997) 58 Cal.App.4th 1403,
+1408–1410; Vidal Sassoon, Inc. v. Superior Court (1983) 147 Cal.App.3d 681,
+683 [the statutory deadline for filing motions to compel further responses
+are “mandatory and the court may not entertain a belated motion to
+compel.”].) There was no abuse of discretion. (See People v. Prince (2007)
+40 Cal.4th 1179, 1232.)
+                                 DISPOSITION
+     The judgment is reversed. The trial court is directed to vacate its order
+sustaining the demurrer without leave to amend and to enter a new order
+overruling the demurrer. The order denying the motions to compel further
+responses to the requests for admission and demand for production is
+
+
+
+7     Time periods are extended by two court days when a document is
+served electronically and by five days when a document is served by mail.
+(See Code Civ. Proc., §§ 1010.6, subd. (a)(3)(B), 1013.)
+                                       11
+affirmed. Each party shall bear his/its own costs on appeal. (Cal. Rules of
+Court, rule 8.278(a)(5).)
+
+
+
+                                                                        DO, J.
+
+I CONCUR:
+
+
+
+DATO, J.
+
+
+
+
+                                      12
+O’ROURKE, J., Concurring in the result.
+      I concur with the majority’s holding as to the alleged property owner
+and manager, Gershman Properties, LLC (Gershman Properties). But I
+concur in the result only based on principles of abandonment and forfeiture
+(maj. opn., ante, at p. 7, fn. 6) as to FedEx Office and Print Services, Inc.
+(FedEx), which plaintiff Jerry Torres alleges was merely a tenant. I write
+separately out of concern that the majority opinion may be misconstrued to
+permit negligence and premises liability causes of action against FedEx as a
+tenant absent any factual allegations (or inferences that could be liberally
+drawn from such allegations) that FedEx had control over the sidewalk or the
+adjacent parking lot outside its leased premises which Torres alleges were
+hazardous because they lacked barriers or other measures to prevent a
+vehicle from moving forward into FedEx’s storefront.
+      Torres’s operative pleading is a form Judicial Council complaint with
+an attached memorandum of points and authorities. Torres alleges the
+defendants owed him a duty to keep customers safe from foreseeable harm by
+“install[ing] protection such as traffic bollards . . . .” But this is a legal
+conclusion that is not supported by any factual allegation as to FedEx.
+Rather, Torres specifically alleges Gershman Properties “owned and
+managed” the Breeze Hill Complex and that FedEx was a tenant there. His
+points and authorities state that “leases often obligate the tenant to take and
+pay for all actions necessary to comply with [building codes and other] legal
+requirements,” which “forces the tenant to undertake expensive alterations so
+that it can operate in the premises.” (Italics and emphasis omitted.) He
+makes other points concerning a tenant’s ability to control premises so as to
+cure dangerous conditions, with citations to authorities. But such
+argumentative contentions must be disregarded in assessing the adequacy of
+Torres’s pleading. (County of Santa Clara v. Superior Court (2023) 14
+Cal.5th 1034, 1041.)
+      The duties owed by a possessor of land in connection with the land’s
+condition “ ‘ “are owed . . . because [of the possessor’s] supervisory control over
+the activities conducted upon, and the condition of, the land.” ’ ” (Alcaraz v.
+Vece (1997) 14 Cal.4th 1149, 1157-1158, italics added; see also Moses v.
+Roger-McKeever (2023) 91 Cal.App.5th 172, 179 [“ ‘[a] defendant cannot be
+held liable for the defective or dangerous condition of property which it [does]
+not own, possess, or control’ ”], 181 [“absent evidence that a tenant exercised
+‘actual’ control of that portion of the premises where the plaintiff was injured,
+a tenant will not be held liable for the plaintiff’s injuries where the lease does
+not confer a right of control”].) Alcaraz observed that it had previously
+recognized that “ ‘[a] tenant ordinarily is not liable for injuries to his invitees
+occurring outside the leased premises on common passageways over which he
+has no control. [Citations.] Responsibility in such cases rests on the owner,
+who has the right of control and the duty to maintain that part of the
+premises in a safe condition.’ ” (Alcaraz, at p. 1158, quoting Johnston v. De
+La Guerra Properties, Inc. (1946) 28 Cal.2d 394, 401.) Johnston, however,
+made “ ‘clear . . . that if the tenant exercises control over a common
+passageway outside the leased premises, he may become liable to [others] if
+he fails to warn them of a dangerous condition existing thereon.’ ” (Alcaraz,
+at p. 1158, quoting Johnston, at p. 401 [defendant tenant “assumed some
+responsibility for, and exercised control over, the means of lighting the
+approaches to the side entrance to the [landlord’s] building” (italics added)].)
+Alcaraz reiterated that principle, but emphasized that “ ‘[t]he crucial element
+is control.’ ” (Alcaraz, at p. 1158.) And “performing ‘minimal, neighborly
+maintenance of property owned by another’ generally will not on its own
+
+
+                                         2
+constitute an exercise of control giving rise to a duty to protect . . . persons
+entering the property.” (Moses v. Roger-McKeever, at p. 180, quoting Alcaraz,
+supra, 14 Cal.4th at p. 1167.)
+      In the face of Torres’s affirmative allegation identifying Gershman
+Properties as the owner and property manager, it is impossible to infer that
+FedEx exercised any sort of management or control over common areas in the
+complex sufficient to impose a duty on it to take safety measures in the
+sidewalk or parking areas. Even applying rules of liberal construction,
+Torres’s pleading contains no facts suggesting or from which one might
+reasonably infer that FedEx in some manner managed or took some
+responsibility for those common areas. However, because FedEx made no
+such argument on appeal, I concur in the result as to that defendant.
+      Finally, I take strong exception to my colleagues’ gratuitous
+questioning “whether in the 30 years since [Jefferson v. Qwik Korner Market,
+Inc. (1994) 28 Cal.App.4th 990] expectations about the probabilities of
+storefront crashes . . . have remained the same.” (Maj. opn., ante, at p. 10.)
+To begin, my colleagues’ statement mischaracterizes Qwik Korner’s holding.
+There was no storefront crash in Qwik Korner. The opinion specifically
+addresses the foreseeability of a sidewalk accident where both curbs and
+wheel stops were present. Though the court reviewed some out-of-state cases
+addressing different scenarios involving an accident into an actual building,
+the case does not purport to decide the foreseeability of storefront crashes in
+general. My colleagues assert “we need not resolve in this case whether such
+accidents are unforeseeable as a matter of law.” (Maj. opn., ante, at p. 10.)
+By questioning whether “probabilities of storefront crashes . . . have
+remained the same” (maj. opn., ante, at p. 10), my colleagues create the
+
+
+
+
+                                         3
+impression they are signaling to the trial court that Qwik Korner is no longer
+good law.
+
+
+
+
+                                                     O'ROURKE, Acting P. J.
+
+
+
+
+                                      4

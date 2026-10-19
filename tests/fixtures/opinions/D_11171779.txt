@@ -1,0 +1,544 @@
+cl_opinion_id: 11171779
+cluster: 10705192
+docket: D083820
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Marriage of C.C. and T.D. CA4/1
+----
+Filed 10/16/25 Marriage of C.C. and T.D. CA4/1
+                   NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or
+ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+                 COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                       DIVISION ONE
+
+                                              STATE OF CALIFORNIA
+
+
+
+In re the Marriage of C.C. and T.D.
+                                                                       D083820
+C.C.,
+
+          Respondent,                                                  (Super. Ct. No. D351571)
+
+          v.
+
+T.D.,
+
+          Appellant;
+
+SAN DIEGO DEPARTMENT OF
+CHILD SUPPORT SERVICES,
+
+          Respondent.
+
+
+
+          APPEAL from orders of the Superior Court of San Diego County,
+Adam Wertheimer, Commissioner. Affirmed.
+          T.D., in pro. per., for Appellant.
+          No appearance for Respondent C.C.
+      Rob Bonta, Attorney General, Cheryl L. Feiner, Assistant Attorney
+General, Maureen C. Onyeagbako and Jennifer C. Addams, Deputy Attorneys
+General, for Respondent San Diego Department of Child Support Services.
+                             I. INTRODUCTION
+      T.D. (Father) owed C.C. (Mother) child support arrears (unpaid support
+and interest) dating back to 1994, which, with interest, grew to more than
+$245,000. When Mother requested in 2024 that the family court increase
+Father’s monthly arrears payment from $150 to $1,000, Father requested
+equitable relief to set aside arrears for a period decades earlier (1994 to 2000)
+during which Father claims Mother concealed the children from him. The
+family court denied Father’s request and granted Mother’s. On appeal,
+Father contends the family court misapplied case law and equitable
+principles in denying his motion and lacked evidentiary support to grant
+Mother’s request to increase his arrears payment. For reasons we will
+explain, we conclude Father’s claims lack merit. Accordingly, we affirm the
+family court’s orders.
+          II. FACTUAL AND PROCEDURAL BACKGROUND
+      Father and Mother married in 1981 and had four children together —
+sons born in August 1983 and October 1985, and twin daughters born in
+December 1987. Mother filed for divorce in 1992.
+      In January 1994, Mother moved to establish child support arrears owed
+by Father. As of March 1994, arrears totaled $7,737.50. Father made no
+support payments from March 1994 to January 2000 and made payments
+only sporadically thereafter. The San Diego County Department of Child
+Support Services (the Department) became actively involved in child support
+matters in January 1998. In 2016, the family court ordered Father to pay
+
+
+
+
+                                        2
+$150 per month toward arrears. As of November 2023, Father’s arrears
+totaled $245,551.56 ($62,746.70 in principal and $182,804.86 in interest).
+   A. Mother’s Request to Increase Father’s Arrears Payment
+      On August 30, 2023, Mother requested an order increasing Father’s
+monthly arrears payment from $150 to $1,000 to “liquidate the arrears
+
+balance in a more reasonable time.”1 At the repayment rate of $150 per
+month, it would take Father well in excess of 100 years to pay off the arrears.
+At $1,000 per month, it would take Father more than 20 years. Father was
+65 years old at the time of the hearing on Mother’s request.
+      Father filed a responsive declaration opposing Mother’s request. He
+asserted Mother “actively concealed the four children” from January 1994 to
+March 2000 by leaving the state without notifying him or providing new
+contact information. Father recounted his efforts to find his children. He
+searched for Mother through her work and “called every elementary school”
+in the Seattle area. “The DA’s office child abduction unit told [Father] there
+was nothing [he] could do since [Mother] was [the] custodial parent.” “Child
+support services told [him] there was no request to collect child support
+payments.” Father also contacted Mother’s parents, who told him “ ‘to leave
+their daughter alone’ ” and “ ‘she didn’t want [him] to know where she was.’ ”
+      Father stated that Mother “hinder[ed]” his search efforts by remarrying
+and changing her last name, “chang[ing] her own name two more times,”
+“illegally chang[ing] the children’s last name,” changing their address four
+times, and “chang[ing] the [children’s] school six times in the first [five] years
+of concealment.” Father argued his request for relief was supported by In re
+Marriage of Boswell (2014) 225 Cal.App.4th 1172 (Boswell), which held that a
+
+1     Mother also requested that the case be transferred to a different
+courthouse. That request, which the family court denied, is not at issue in
+this appeal.
+                                        3
+custodial parent’s active concealment for 15 years, followed by a 15-year
+delay in seeking support payments from the noncustodial parent, constituted
+unclean hands barring the custodial parent’s request. (Id. at p. 1175.)
+      Father attached to his responsive declaration two other affidavits he
+filed in November and December 1994. In those, Father discussed visitation
+issues and alleged misconduct by Mother. In the December 1994 declaration
+Father explained he had not visited the children because he could not afford
+to pay for a visitation supervisor. Once Father could afford to pay a
+supervisor, the supervisor contacted Mother and reported to Father that
+Mother “did not feel [visitation] would be a good idea” because Mother “had
+recently been remarried and was plan[n]ing to move to Seattle Wash[ington]
+on Jan[uary] 1, 1995.” Father requested a temporary restraining order
+“keeping the children in San Diego.” It appears the court denied that
+request.
+      The Department also filed a responsive declaration to Mother’s request
+to increase Father’s arrears payment. The Department requested that any
+court order provide for “a reasonable payment sufficient to liquidate the
+arrearages in a reasonable amount of time.”
+      The family court ordered the parties to submit additional briefing —
+Mother and the Department regarding Father’s concealment claim, and
+Father regarding the merits of Mother’s request to increase arrearage
+payments, and the timeliness of his own request to delete any amounts
+accrued between 1994 and 2000.
+      The Department argued in its supplemental filing that Father’s
+concealment claim in 2023 was untimely because the court established
+arrears in 1994 and Father was “well aware of this judgment for years.” The
+Department also argued Father failed to establish any of the elements of a
+
+
+                                       4
+concealment defense — active concealment by the custodial parent until the
+children reach the age of majority, reasonably diligent location efforts by the
+noncustodial parent, and concealment rendering the noncustodial parent
+unable to pay. (See In re Marriage of Damico (1994) 7 Cal.4th 673, 685
+(Damico); In re Marriage of Comer (1996) 14 Cal.4th 504, 517 (Comer).) The
+Department argued that any concealment ended before the children reached
+the age of majority, Father had not searched diligently, and Father was able
+to make support payments through the Department.
+      In her supplemental filing, Mother “agree[d] with” the Department’s
+positions. She also denied she had concealed herself and the children.
+Mother stated she notified Father and the court of her move by certified
+letter dated November 1, 1994, which was not returned as undeliverable.
+The letter states in substantive part: “This letter shall serve to notify you
+that I intend to move the residence of our children . . . out of the State of
+California effective January 1, 1995.” Mother stated she moved with the
+children to Washington on January 6, 1995. Mother denied changing names
+to conceal the children — Mother changed her name in 1994 when she
+remarried, the eldest son changed his own name when he turned 18 in 2001,
+the younger son changed his own name when he turned 18 in 2003, one of the
+daughters changed her name when she got married in 2022, and the other
+daughter never changed her name. Mother stated she also sought child
+support enforcement assistance from a Washington agency in 1995.
+      Father did not file a further response, even though directed to by the
+family court.
+      On January 17, 2024, the family court heard Mother’s motion to
+increase Father’s arrearage payments. The court rejected Father’s
+concealment defense on several grounds. Procedurally, the court denied
+
+
+                                        5
+the “equitable defense” as untimely because Father first litigated the issue
+“20 years after the fact.” Father responded that he had been “bring[ing] it
+up” at “[e]very single hearing,” and that he “didn’t know [he] needed to file a
+
+separate motion until 2016” when Boswell was decided.2 Even still, the court
+found Father was “not diligent” by waiting until 2023 to raise the Boswell
+case. On the merits, the court rejected the defense because Father located
+the children while they were all still minors.
+      After determining it would increase the amount of Father’s arrears
+payment, the court discussed with the parties how best to determine the
+increased amount. The court observed that with interest accumulating on
+the outstanding arrears at about $520 per month, the current payment of
+“$150 will not touch this balance.” Father stated he lives on $1,260 per
+month and could not afford a higher payment. The court confirmed that
+Father had elected to start drawing early on his social security retirement
+benefits, which would decrease if he were to earn more than $21,000 from
+other sources. Based on the court’s familiarity with “how easy it is to become
+employed at this time,” the court surmised Father could find a job that paid
+$18 per hour, which would nearly triple Father’s current income. At that
+rate, the court posited that “even if the [Department] took half [Father’s]
+income, which they can,” Father’s remaining anticipated earnings would still
+exceed his current income. The court continued the hearing to give Father
+time to find a job.
+    B. Father’s Request to Correct Legal Error
+      In the meantime, Father applied ex parte to request a hearing before
+the further arrears proceeding “in order to correct a legal error.” “The basic
+
+
+
+2     Boswell was decided in 2014.
+                                       6
+error” Father asserted was the family court’s failure to address his unclean
+hands argument under Boswell.
+      The court heard Father’s request on March 6, 2024. As to unclean
+hands, Father pointed out that while the family court found his 20-year delay
+untimely, the Boswell court entertained an unclean hands defense raised 25
+years after the fact and “overrule[d]” the holding in Damico that a
+concealment claim fails if the children are located before they reach the age of
+majority. Father reargued his claim that Mother moved without providing
+notice and changed the children’s names and schools.
+      The court responded that “Boswell is not strictly a concealment case” —
+“it’s talking about equity and about how the court would review equity, and
+the facts . . . were particularly egregious” because the custodial parent
+concealed the children for 15 years and then waited another 15 years to
+request arrears. Here, by contrast, the court observed that Mother allegedly
+“disappeared” for only five or six years, there was continuing litigation
+between the parties during some of her absence, Father had not exercised his
+visitation, Father “did not act reasonably in terms of trying to locate the
+
+children,”3 there had been court orders against Father, and there had been
+multiple findings of arrears throughout. The court expressly found Mother
+“was not actively concealing the children” and was credible in connection with
+the earlier hearing, including about having provided notice to Father
+
+regarding the move and about not changing the children’s names.4 The court
+
+
+3     Specifically, the court stated that “a school is not going to give a
+stranger on the telephone any information with respect to a student” and
+“there are various other remedies . . . and . . . ways that a person can locate
+other individuals” that Father “did not take advantage of.”
+4     The court found Father’s name-change theory was based on “hearsay
+information that hasn’t been presented to the court properly.”
+                                        7
+found these facts “significantly different than Boswell” and “not terribly
+egregious — except the fact that the kids had to live without support from
+their father for the majority of their minority.”
+   C. Increased Arrears Payment Amount
+      Father filed an updated income and expense declaration in advance of
+the continued hearing to fix the amount of his arrears payments. This
+declaration showed Father found work and was earning $22.50 per hour and
+had monthly average income of $3,010, plus $1,530 in monthly social security
+benefits. Father claimed monthly expenses of $4,236.
+      The court heard the continued matter on April 24, 2024. Father
+reiterated that his social security benefits would decrease 50 percent for each
+dollar he earned over $21,000. The court responded that Father’s social
+security benefit was already at a reduced amount because Father “chose to
+take it early.”
+      Based on Father’s age (65) and the outstanding arrears balance, the
+court calculated that a $500 monthly payment would take over 46 years to
+repay (putting Father at 111 years old) and a $1,000 payment would take 22
+years (putting Father at 87 years old). Considering its “duty to make an
+order best as possible to have [the arrears] paid off,” the court ordered
+Father’s arrears payments increased to $1,000 per month.
+                              III. DISCUSSION
+   A. The Family Court Did Not Err in Rejecting Father’s Equitable
+      Request to Abate Arrears
+      Father contends the family court erred in denying his equitable request
+to abate arrears during the period of alleged concealment because the family
+court judge misunderstood the law and misapplied it to the facts of this case.
+We disagree.
+
+
+                                        8
+            1. Father Failed to Establish a Concealment Defense
+               Under Damico and Comer
+      As a general matter, a custodial parent’s interference with a
+noncustodial parent’s visitation does not excuse the noncustodial parent from
+paying child support. (See Fam. Code, § 3556 [“The existence or enforcement
+of a duty of support owed by a noncustodial parent for the support of a minor
+child is not affected by a failure or refusal by the custodial parent to
+implement any rights as to custody or visitation granted by a court to the
+noncustodial parent.”]; Damico, supra, 7 Cal.4th at p. 679.)
+      A very narrow exception to this general rule applies when the custodial
+parent’s misconduct crosses the line from mere interference with visitation to
+active concealment. In Damico, the Supreme Court held that a custodial
+parent “is estopped from later collecting child support arrearages for the time
+of the concealment” if the custodial parent (1) “actively conceal[ed] him or
+herself and the child from the noncustodial parent until the child reache[d]
+
+the age of majority,”5 (2) the custodial parent and child remained concealed
+“despite reasonably diligent efforts by the noncustodial parent to locate
+them,” and (3) the custodial parent’s active concealment rendered the
+noncustodial parent unable to pay child support during the concealment
+period. (Damico, supra, 7 Cal.4th at p. 685.) The Supreme Court clarified in
+Comer that “concealment [that] ends when the child is still a minor . . . does
+not establish a defense to an action . . . for child support arrearages.” (Comer,
+supra, 14 Cal.4th at p. 517.) We review the factual findings underlying the
+
+
+
+5      Damico involved a child who reached majority before the concealment
+ended. (Damico, supra, 7 Cal.4th at p. 685.) The court left open the question
+of whether a concealment defense will lie if the concealment ends while the
+child is still a minor. (Ibid.)
+                                        9
+family court’s findings on these elements for substantial evidence. (Damico,
+at p. 684.)
+      Substantial evidence supports the family court’s findings that Father
+failed to establish any of the elements of a concealment defense. On the
+threshold finding that Mother did not actively conceal herself and the
+children, Mother presented evidence that she notified Father by certified
+letter that she intended to leave California. Although the letter did not state
+where Mother intended to move or that she had remarried, Father stated in
+his December 1994 declaration that he had learned from a visitation
+supervisor that Mother had remarried and that she intended to move to
+Seattle in January 1995. Thus, by the time Mother moved with the children,
+Father already knew Mother remarried and intended to move to Seattle.
+Mother also explained that while she changed her own name when she
+remarried, she did not change the children’s names — some of them changed
+their name on their own only after turning 18 or marrying. The court found
+Mother’s testimony credible. Substantial evidence thus supports the family
+court’s finding that Mother did not actively conceal herself and the children.
+(See In re Marriage of Wozniak (2020) 59 Cal.App.5th 120, 135 [“the
+testimony of a single witness can provide the substantial evidence necessary
+to support a finding of fact”].)
+      Substantial evidence also supports the family court’s findings that
+Father failed to establish the remaining elements of a concealment defense.
+First, Father’s own admissions in his appellate briefing and in the family
+court show that any concealment ended in March 2000, months before the
+oldest child turned 18. Second, the court could reasonably conclude that
+Father calling schools in the Seattle area and his claim to have contacted an
+unspecified DA’s office and child support agency were not reasonably diligent
+
+
+                                      10
+considering his failure to use other available location methods. Finally,
+because the Department was actively involved in pursuing child support from
+Father and Father kept in touch with Mother’s parents during the
+concealment period, the family court could reasonably conclude any alleged
+concealment did not render Father unable to make child support payments.
+(See Comer, supra, 14 Cal.4th at p. 527 [“Child support payments may be
+made to the [child support agency] in the county that rendered the support
+order, or may be placed in a trust account . . . accessible to [the custodial
+parent] or to intermediaries, such as [the custodial parent’s] parents, with
+whom [the noncustodial parent] . . . kept in contact”].)
+            2. The Family Court Did Not Misapply Boswell
+      Father contends the family court misunderstood and misapplied
+Boswell, supra, 225 Cal.App.4th 1172, which Father maintains recognized a
+concealment defense based on unclean hands. Father’s heavy reliance on
+Boswell is misplaced.
+      In Boswell, after the family court ordered the noncustodial father to
+pay child support, the custodial mother “ ‘disappeared’ ” with her two
+children — “[s]he moved from California, changed the children’s names,
+and did not notify [the] father of their new addresses.” (Boswell, supra,
+225 Cal.App.4th at p. 1174.) The father “did not see the children for
+approximately 15 years, almost their entire minority.” (Ibid.) After the older
+child “reached the age of majority, mother ‘gave’ custody of [the younger
+child] to [the] father in 1998 when he was 16 years old. He lived with [the]
+father until he reached majority.” (Ibid.) “Fifteen years after that,” when
+“the children were over 30 years old,” the “mother sought to enforce the child
+support order” and recover more than $92,000. (Ibid.) The family court
+denied the request, “specifically rul[ing] that doing so would be ‘inequitable,’
+
+
+                                        11
+that the request was ‘untimely,’ ‘unjust’ and ‘[t]his is just a terribly egregious
+situation.” (Ibid.) The Court of Appeal affirmed.
+      The Boswell court began its four-page opinion by discussing general
+“fairness/equity principles” — that family law courts are courts of equity,
+those who seek equity must come with clean hands, and family law courts
+hearing equitable matters “ ‘ “must have the ability to exercise discretion to
+achieve fairness and equity.” ’ ” (Boswell, supra, 225 Cal.App.4th at
+pp. 1174–1175, capitalization & italics omitted.) The court then cursorily
+addressed the substance of the mother’s appeal:
+            We need not dwell upon or explicate in detail
+            underlying principles of “active concealment,”
+            “estoppel,” or “retroactive modification of child
+            support.” The only issue here is whether the trial
+            court should have used judicial power to achieve an
+            “inequitable result.” . . . It is sufficient to observe
+            that mother did actively conceal the children. This
+            equitably estops her from enforcing a child support
+            judgment. [Damico, supra, 7 Cal.4th at pp. 682–683.]
+
+            The trial court found that mother had been “unjust”
+            in her unilateral decision to remove father from the
+            children’s lives. This is tantamount to a finding of
+            “unclean hands.” . . . . “These are some of the dirtiest
+            hands we have seen.”                 (Boswell, supra,
+            225 Cal.App.4th at p. 1175, citations omitted.)
+
+      Reiterating the family court’s finding that the mother’s conduct “was
+‘terribly egregious,’ ” and characterizing the unclean hands doctrine as “the
+most important rule affecting the administration of justice,” the Boswell court
+held that “a family law court, in the exercise of its broad equitable discretion,
+and upon a finding of ‘unclean hands,’ may decline to enforce a child support
+arrearage judgment.” (Boswell, supra, 225 Cal.App.4th at p. 1175.)
+
+
+
+
+                                        12
+      Here, Father contends the family court misunderstood Boswell because
+the family court said it “is not a concealment case,” when “the Boswell
+decision itself says otherwise.” Father misstates the family court’s
+characterization of Boswell. To begin, the family court said, “Boswell is not
+strictly a concealment case” and that while “there was concealment” in
+Boswell, it did “not mak[e] new law relative to concealment.” (Italics added.)
+Indeed, the Boswell court itself acknowledged it did “not dwell upon or
+explicate in detail underlying principles of ‘active concealment.’ ” (Boswell,
+supra, 225 Cal.App.4th at p. 1175.) Not surprisingly, then, Father does not
+cite, and we have not found, any published case law citing Boswell as a
+concealment case. Moreover, to the extent Boswell may conflict with Damico
+and Comer by allowing a concealment defense where the concealment ended
+before a child reached majority, we are of course bound by Supreme Court
+
+precedent.6 (See Auto Equity Sales, Inc. v. Superior Court (1962) 57 Cal.2d
+450, 455 [“Courts exercising inferior jurisdiction must accept the law declared
+by courts of superior jurisdiction.”].) Contrary to Father’s argument to the
+family court, Boswell did not “kind of overrule[]” Damico — it cannot. The
+family court thus correctly observed that “the main [concealment cases] are
+Damico and Comer,” which are “not even discussed in the Boswell case.”
+      Reframing Boswell, the family court characterized the case as “talk[ing]
+about equity and about how the court would review equity.” We agree with
+
+
+6      Boswell may well be consistent with Damico. The older child in
+Boswell reached majority before the concealment ended (thus allowing a
+concealment defense), and the mother “ ‘gave’ ” the younger child to the
+father while the child was still a minor. (Boswell, supra, 225 Cal.App.4th at
+p. 1174.) A leading treatise posits that “[h]ad this [latter fact] not occurred,
+the support obligor [i.e., the noncustodial father] most likely would have been
+liable for the support arrearages pursuant to Comer.” (Hogoboom and King,
+California Practice Guide: Family Law (The Rutter Group 2025) ¶ 7:608.)
+                                       13
+this characterization. (See Boswell, supra, 225 Cal.App.4th at p. 1175
+[discussing the family court’s fact-specific “exercise of its broad equitable
+discretion” in a case involving “ ‘terribly egregious’ ” misconduct].) Indeed,
+Boswell illustrates the deferential standard of review that applies to a family
+court’s exercise of its equitable powers. (Keith G. v. Suzanne H. (1998)
+62 Cal.App.4th 853, 861–862 [“the trial court has discretion to determine the
+appropriate means of enforcing a judgment for child support” and “can . . .
+and should take the equities of the situation into account”].) “Generally,
+where a trial court has discretionary power to decide an issue, an appellate
+court is not authorized to substitute its judgment of the proper decision for
+that of the trial judge. The trial court’s exercise of discretion will not be
+disturbed on appeal in the absence of a clear showing of abuse, resulting in
+injury sufficiently grave as to amount to a manifest miscarriage of justice.
+[Citations.] ‘ “The appropriate test for abuse of discretion is whether the trial
+court exceeded the bounds of reason. When two or more inferences can
+reasonably be deduced from the facts, the reviewing court has no authority to
+substitute its decision for that of the trial court.” ’ [Citations.] The burden is
+on the complaining party to establish abuse of discretion. [Citations.] The
+showing on appeal is insufficient if it presents a state of facts which simply
+affords an opportunity for a difference of opinion.” (In re Marriage of
+Rosevear (1998) 65 Cal.App.4th 673, 682; see Heidi S. v. David H. (2016)
+1 Cal.App.5th 1150, 1162–1163.) With this deferential standard of review in
+mind, we turn now to Father’s claims that the family court erred in its
+application of the equitable principles discussed in Boswell to the evidence in
+this case.
+      Father contends the family court improperly weighed the equities by
+overlooking the evidence he produced to show he diligently searched for
+
+
+                                        14
+Mother and the children. But the court explained it found Mother’s
+testimony credible and Father’s evidence unpersuasive on the concealment
+issue. “ ‘The trial judge, having heard the evidence, observed the witnesses,
+their demeanor, attitude, candor or lack of candor, is best qualified to pass
+upon and determine the factual issues presented by their testimony.’ ” (In re
+Marriage of Lewin (1986) 186 Cal.App.3d 1482, 1492; see Boswell, supra, 225
+Cal.App.4th at p. 1176 [“We hold that where . . . the family law court makes a
+fair and equitable ruling on contested issues of fact, its express or implied
+factual determinations are binding on appeal”].)
+      Father also contends the court did not consider the equities properly
+when it drew negative inferences against him based on alleged misconduct
+(restraining orders, injunctive orders, and restricted visitation orders) that
+Father asserts was unrelated to the concealment issue before the court, and
+which actually arose from Mother’s conduct, not Father’s. The appellate
+record does not substantiate Father’s claim. The only evidence in the record
+on these points is Father’s declarations from 1994, which do not elaborate on
+the historic events. By contrast, the family court stated it had personally
+presided over this case for about 20 years and “went back and . . . read the
+[600 page] history of this case back to 1992” to refamiliarize itself with the
+litigation. We will not presume the court was mistaken.
+      At bottom, the family court explained to Father why “the facts of
+Boswell do not fit to the facts of [his] case” — “This situation is not terribly
+egregious except the fact that the kids had to live without support from their
+father for the majority of their minority. That’s why the arrears are what
+they are today.” (Cf. People v. Thomas (1992) 2 Cal.4th 489, 516 [“When we
+decide issues of sufficiency of evidence, comparison with other cases is of
+limited utility, since each case necessarily depends on its own facts.”].)
+
+
+                                        15
+Under the applicable deferential standard of review, the family court did not
+abuse its discretion.
+   B. The Family Court Acted Within Its Discretion in Increasing the
+      Arrears Payment Amount
+      Father contends the family court erred by increasing his arrears
+payment to $1,000 per month because Father’s income and expense
+declaration showed he could not afford the payment. We are not persuaded.
+      When Mother brought her request to increase the amount of Father’s
+arrears payment, Father’s monthly income consisted entirely of $1,206 in
+social security retirement benefits. Father did not assert at that time that he
+was unable to meet his monthly expenses on this income. The court surmised
+Father could find a job that would nearly triple his income and accommodate
+an increased arrears payment. But rather than rest on that belief, the court
+continued the proceeding to give Father an opportunity to actually find work.
+Father did so, finding a job that increased his average monthly earnings to
+$3,010, plus $1,530 in monthly social security benefits. The family court
+determined this was sufficient to accommodate an increased arrears
+payment, which the court found was necessary to ensure the arrears would
+be repaid within Father’s reasonably expected lifetime.
+      Father argues the family court failed to consider his monthly expenses
+of $4,236. Yet Father does not explain how we was able to manage those
+expenses a few months earlier when his income consisted entirely of social
+security benefits. In light of Father’s apparent dramatically inflated monthly
+expenses, we conclude the family court acted within its discretion in
+determining Father’s increased income was a sufficient basis upon which to
+increase the amount of his monthly arrears payment.
+
+
+
+
+                                      16
+      Father’s reliance on In re Marriage of Schulze (1997) 60 Cal.App.4th
+519 is misplaced because the family court there erred by ordering support
+that consumed more than 83 percent of the payor’s monthly income based on
+a dramatic overstatement of the payor’s actual income due to the court’s use
+of incorrect software and erroneous assumptions about the taxable status of
+certain employer-provided benefits. (Id. at p. 522.) The family court here
+made no similar foundational errors.
+                            IV. DISPOSITION
+      The orders are affirmed. Respondents are entitled to their costs on
+appeal.
+
+
+                                                                   RUBIN, J.
+
+WE CONCUR:
+
+
+
+O’ROURKE, Acting P. J.
+
+
+
+DATO, J.
+
+
+
+
+                                       17

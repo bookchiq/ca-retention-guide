@@ -1,0 +1,781 @@
+cl_opinion_id: 9349311
+cluster: 9353839
+docket: A163611
+date: 2022-12-21
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Sipe CA1/4
+----
+Filed 12/21/22 P. v. Sipe CA1/4
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+               IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                  DIVISION FOUR
+
+
+ THE PEOPLE,
+             Plaintiff and Respondent,
+                                                                     A163611
+ v.
+ HOWARD SYLVESTER SIPE,                                              (Alameda County
+                                                                     Super. Ct. No. 164341)
+             Defendant and Appellant.
+
+
+         Defendant Howard Sylvester Sipe appeals a judgment adjudicating him
+to be a sexually violent predator (SVP), pursuant to the Sexually Violent
+Predator Act (SVPA) (Welf. & Inst. Code, § 6600 et seq.).1 Sipe contends
+reversal is required because there is insufficient evidence to support a
+current mental disorder that would make it likely he would commit a violent
+predatory sexual offense if released. He also asserts reversal is necessary
+because the trial court failed to actively ensure that he knowingly and
+voluntarily agreed to the nearly 10-year delay in bringing his case to trial.
+We find no prejudicial error and affirm the judgment.
+
+
+
+
+        All further undesignated statutory references are to the Welfare and
+         1
+
+Institutions Code.
+                               BACKGROUND2
+      On August 11, 2010, the People filed a petition seeking to commit Sipe
+as an SVP. On February 3, 2012, the court found probable cause to believe
+that Sipe was an SVP and ordered him held for trial. The matter was
+continued for reasons discussed below until September 2, 2021.
+      After Sipe waived a jury trial, the matter proceeded as a court trial at
+which the following evidence was presented:
+A.    State Evidence
+      1.    Offenses
+      On the evening of May 1, 1980, Sipe, along with Dale Kubik and Virgil
+Van Tree, burglarized the residence of 18-year-old K.L. looking for drugs. One
+of the men forced K.L. to orally copulate his penis, while Van Tree raped,
+sodomized, and placed a sharp object in her vagina and anus. Van Tree also
+strangled her. At some point during the assault, K.L. felt her ankles being
+tied. Someone also placed a shirt over her face so she was unable to see for a
+period of time. Sipe later told a friend that it was his idea to use a lamp cord
+to tie up K.L.’s legs. Sipe said he and Kubik left the apartment before the
+
+
+
+
+      2 Sipe requests that we take judicial notice of various psychiatric
+reports and articles regarding sex offenders. The Attorney General opposes
+the motion on the ground that psychiatric materials constitute neither facts
+and propositions that are of such common knowledge that they cannot
+reasonably be the subject of dispute nor are they capable of immediate and
+accurate determination by resort to sources of reasonably indisputable
+accuracy. (Evid. Code, § 452, subds. (g) & (h); In re Andrews (2002) 28 Cal.4th
+1234, 1246, fn. 6.) The Attorney General also requests that we take judicial
+notice of the appellate record in Sipe v. Superior Court of Alameda County
+(July 30, 2021, A162947), in which we summarily denied Sipe’s petition for
+writ of mandamus following the trial court’s refusal to dismiss the SVP
+petition on timeliness grounds. (Evid. Code, §§ 452, 459.) We deny Sipe’s
+request for judicial notice and grant the Attorney General’s request.
+
+                                        2
+assault. However, he told his friend that he went back to the apartment to
+retrieve a shirt he left behind and saw Van Tree raping K.L.
+       On the evening of August 23, 1989, K.G. was walking along a street in
+Oakland, working as a prostitute, when Sipe drove up in a van and asked if
+she wanted a ride. K.G. said yes and got into the van. Sipe drove to the
+Oakland waterfront. He parked, and K.G. agreed to orally copulate him for
+$15. She moved to the back of the van and took off her clothes. As she began
+to orally copulate Sipe, he “got real funny” and grabbed one of her breasts. He
+squeezed her nipple “really hard” and said, “I’m going to show you what pain
+is really like now.” Sipe also punched her in the chest. K.G. was terrified,
+thinking Sipe might kill or seriously hurt her. She screamed for help and
+struggled to get out of the van, but Sipe grabbed her by the hair. K.G.
+managed to get out of the van, but only after Sipe had torn out a clump of her
+hair. Patrolling police officers observed Sipe chasing K.G., and they arrested
+him.
+       On the evening of July 12, 1993, Oakland Police Officer Norma Parker
+and another officer were dispatched to investigate a report of a beating at a
+grocery store parking lot. Witnesses had reported hearing cries for help and a
+man saying, “Do you want me to beat you some more?” When Officer Parker
+and her partner arrived on scene, people were pointing at a van in the
+parking lot. The officers approached the van and heard a woman cry out,
+“Help me.” Officer Parker looked through the driver’s side window of the van
+and saw Sipe who was naked. A naked woman inside the van, C.S., was
+crying hysterically. Officer Parker saw bruises on C.S.’s breasts. C.S. said
+Sipe had squeezed her breasts. C.S. pointed to a green bottle and said that
+Sipe had used it to penetrate her vagina. Officer Parker also observed a piece
+of plywood on the floor of the van that appeared to be wet with urine. C.S.
+
+
+
+                                       3
+said that Sipe had urinated on her. Sipe did not show any obvious signs of
+intoxication.
+      On the evening of June 6, 2010, Oakland Police Officer Malcolm Miller
+was dispatched to investigate an illegally parked truck near the Oakland
+Coliseum. Officer Miller found the truck and walked up to its cab. He
+observed Sipe in the driver’s seat and learned that Sipe was on parole. Officer
+Miller asked Sipe to step out of the truck, but Sipe seemed reluctant to do so.
+When Sipe eventually opened his door, Miller saw that his pants and
+underpants were lowered to his ankles. Sipe also was holding a nylon rope.
+Sipe said he had been “jerking off” and that he was “horny” and that he often
+“jerk[ed] off” in that location. Sipe also said that the rope in his hand was a
+power cord for his ankle monitor. Officer Miller eventually realized that the
+rope was knotted and inserted into Sipe’s anus. Miller arrested Sipe for
+indecent exposure.
+      2.    Expert Testimony
+      The prosecution presented expert testimony from two psychologists
+who routinely performed SVP examinations for the Department of State
+Hospitals, Drs. Kathleen Longwell and Harry Goldberg. Longwell and
+Goldberg each had conducted more than 1,000 SVP evaluations and each had
+testified as an SVP expert around 300 times. Their compensation was not
+dependent on the results of their evaluations.
+      Each psychologist had evaluated Sipe in 2010, 2020, and 2021. For the
+most part, the testimony of Longwell and Goldberg was similar. Each
+concluded Sipe met the criteria as an SVP and that he should continue his
+hospitalization.
+      In preparation for their initial evaluations of Sipe in 2010, both
+Longwell and Goldberg had interviewed him for about two hours. Both
+
+
+
+                                        4
+psychologists gave Sipe several tests to evaluate his mental condition in
+2010, including the Hare Psychopathy Checklist (PCL-R), the Static 99R, the
+Static-2002R, the Structured Risk Assessment (Forensic Version), and the
+Violence Risk Appraisal Guide.3 Sipe’s score of 31 on the PCL-R test, as
+administered by Longwell, placed him in the “high” range and suggested the
+existence of psychopathy. Sipe’s score of five on the Static-99R test—the most
+validated and commonly used test for SVP’s—placed him in the “above
+average” range, meaning that he was more likely to commit a violent sexual
+offense than 88.7 percent of the sample population. Similarly, Sipe’s score of
+five on the Static 2002R test placed him in the “above average” risk category
+of the 78th percentile, meaning that he was more likely to reoffend than
+22 percent of the sample population, with a 19 percent possibility of
+reoffending within five years. Sipe’s score of 24 on the Violence Risk
+Appraisal Guide placed him in the eighth highest risk category (out of nine
+categories) for committing a violent crime upon release. Sipe’s score of 3.97 on
+the Structured Risk Assessment (Forensic Version) similarly placed him in
+the “high risk/high need” category. Both psychologists noted that Sipe’s
+relatively advanced age of 63 had been taken into account in each of the
+tests.4
+      Sipe refused to meet with either Longwell or Goldberg in 2020 and
+2021, so they based their evaluations for those years on their prior
+
+
+      3   Goldberg was not questioned about the Violence Risk Appraisal
+Guide.
+      4 Sipe’s score on the PCL-R test given by Goldberg was 28, slightly
+lower than the score of 31 on the PCL-R test given by Longwell. Also, Sipe’s
+scores on the Static 99R and Static 2002R tests were fours while his scores on
+those tests given by Longwell were fives. But Sipe had told Goldberg that he
+had lived with a woman for more than two years, and that factor improved
+Sipe’s scores on the latter tests from fives to fours.
+
+                                       5
+evaluations, which were updated by additional information they had received
+from the state hospital. Both psychologists diagnosed Sipe with three
+disorders that predisposed him to the commission of violent and predatory
+sex crimes: sexual sadism, antisocial personality disorder (ASPD), and
+alcohol use disorder.
+      The psychologists opined that the crimes for which Sipe had been
+convicted—the violent burglary of K.L.’s apartment and the sexual attacks
+upon K.G. and C.S. in his van—were sadistic. The attack on K.L. had
+involved not merely forcible rape and oral copulation by Sipe’s cohorts, but
+also the insertion of a sharp object into her vagina. Although Sipe was not the
+rapist or proven to have been the man who had forced K.L. to orally copulate
+him, Sipe was clearly an active participant in the crimes because he had
+obtained a lamp cord and tied K.L.’s ankles.
+      Sipe also had violently attacked two other women in his van; he had
+squeezed both women’s breasts with the intent to inflict “real pain” on them.
+Sipe also humiliated C.S. by urinating on her and forcing a beer bottle into
+her vagina. Then in 2010, while on parole, Sipe was found half naked in a
+truck near the Oakland Coliseum, which displayed an obvious lack of control
+over his sexuality.
+      The psychologists further noted that Sipe routinely had denied and
+minimized his deviant criminal behaviors. Sipe claimed he had not
+participated in or witnessed any sexual assault on K.L. during the 1980
+burglary of her apartment. He also claimed that K.G. had voluntarily agreed
+to provide sex to him in his van, but he insisted that she had suddenly
+become hysterical and demanded more money or drugs for her sexual
+services. Sipe similarly denied hurting C.S. in the 1993 incident and
+masturbating in his truck in 2010.
+
+
+
+                                       6
+      The psychologists also believed Sipe had not properly addressed his
+sexual sadism. They agreed that Sipe might benefit substantially from
+Coalinga State Hospital’s sex offender treatment program (SOTP), which has
+been shown to reduce the risk of reoffense by as much as 22 to 25 percent.
+Sipe had briefly participated in the hospital’s five-module SOTP program, but
+he completed only the very short introductory module, and he participated in
+the second module only for two months and in a “superficial” manner. Sipe
+quit the program and said, “This is not my cup of tea.” Longwell also noted
+that SOTP participants may not advance from the second module to the third
+module without submitting to both a polygraph examination and a penile
+plethysmograph (PPG), which measures the subject’s arousal to various
+sexual images to determine the person’s “sexual interest.” Goldberg believed
+many offenders do not want to take those tests because they would reveal a
+deviant arousal.
+      The psychologists explained that the basic characteristics of ASPD
+include committing crimes and other offenses with little sense of guilt,
+remorse, or empathy for the victims. Longwell was concerned that Sipe
+lacked “a sense of right and wrong that would inhibit him from acting on
+deviant sexual urges.” Longwell also noted that when Sipe is “caught in a
+contradiction” when discussing his prior offenses, “he just sort of reworks the
+story” and denies or minimizes his responsibility. Goldberg opined that Sipe’s
+psychopathy and sexual deviancy made for a “bad combination,” which
+increased his risk of reoffending.
+      As to the alcohol use disorder, the psychologists noted that Sipe
+admitted having a drinking problem that had resulted in serious
+consequences in the past, and that he had attributed his sexual crimes to his
+drinking. Sipe’s alcohol use disorder appeared to be in remission because he
+
+
+
+                                       7
+had little or no ability to drink in the controlled environment of the state
+hospital. Longwell thought Sipe would be at a “substantial risk” to resume
+drinking if released, given the stresses of independent living. Longwell
+believed Sipe, with unrestricted access to alcohol, would be more likely to act
+on his sadistic urges if released from confinement.
+B.    Defense Evidence
+      1.    Dr. Christopher Fisher
+      Forensic psychologist Dr. Christopher Fisher evaluated Sipe in 2020,
+and concluded he did not suffer from a current mental disorder. Fisher did
+not believe Sipe suffered from ASPD. And, in any event, he believed there
+was a very low correlation between ASPD and sexual recidivism. Fisher also
+did not believe Sipe suffered from Sexual Sadism Disorder. Fisher thought
+diagnoses of that disorder had the least reliability of all sexual disorders, and
+that experts do not agree on the behavioral indicators that might
+substantiate such a finding.
+      Based on his review of the available records and in person evaluation,
+Fisher did not believe Sipe would return to violent predatory crimes if
+released. Fisher acknowledged that Sipe has never been released into the
+community without supervision since the time of his arrest in 1993.5 As a
+result, any newfound knowledge or insight that Sipe had gained about his
+crimes had never been fully tested.
+      On cross-examination, Fisher admitted that Sipe had denied helping
+his friends attack K.L. or that he had even been present when she was raped.
+Fisher acknowledged that he did not believe Sipe’s claims, but he thought
+
+
+
+      5Sipe was required to wear an ankle monitor while he was briefly
+released on parole in 2010.
+
+
+                                        8
+Sipe was simply “minimizing” his culpability, not lying. Fisher thought that
+Sipe’s acknowledgment that K.L. had been violently attacked was a sort of
+admission of wrongful conduct, albeit with some minimization of his guilt. As
+a result, Fisher believed Sipe’s antisocial traits appeared to have diminished
+as he grew older. Fisher acknowledged that Sipe had tied up K.L.’s ankles
+with a cord and that one of his friends had inserted a sharp object into her
+vagina and anus. Fisher nonetheless did not believe that Sipe had
+participated in the attack on K.L. for the purpose of sexual gratification.
+      As to the incident in his van with K.G. in 1989, Fisher said that Sipe
+had admitted that he had picked her up, believing she was a prostitute. Sipe
+told Fisher that he and K.G. had agreed upon a price for sex, and that he had
+squeezed her breasts without intending to hurt her. Sipe also said that K.G.
+had become hysterical and demanded more money. Sipe denied pulling K.G.’s
+hair or otherwise trying to hurt or restrain her. Fisher said he believed no
+criminal charges had been filed against Sipe in that case, so he could not
+know whose version of events was accurate— Sipe’s or K.G.’s. Fisher
+acknowledged that Sipe had not shown any remorse over the incident, but
+Fisher believed Sipe’s overall conduct in the incident reflected drunken anger
+rather than sexual sadism.
+      As to the incident in Sipe’s van with C.S., Fisher said that Sipe had
+admitted squeezing her breasts and vagina, but Sipe denied any intention to
+hurt her. Sipe also insisted that he had neither urinated on her nor forced a
+beer bottle into her vagina. Instead, Sipe said he had spilled beer on the floor
+of the van and that he had told C.S. to use the bottle to masturbate herself,
+and had masturbated her with it himself. Fisher said he thought that Sipe
+had not “been entirely honest,” but Fisher again said that Sipe’s actions were
+based on drunken anger rather than sadism. The prosecutor questioned
+
+
+
+                                       9
+Fisher’s basis for concluding that Sipe was in a state of drunken anger.
+Fisher responded that he inferred Sipe was drunk from testimony that Sipe
+and C.S. had been drinking at a bar for an hour beforehand, and continued
+drinking beers in the back of the van. He believed there was evidence from a
+friend that Sipe was more prone to anger when he was drunk, and Fisher
+surmised that Sipe could have been angered by his inability to obtain an
+erection. Fisher added that even if Sipe had urinated on C.S., the urination
+was just “another consequence of this ridiculous scenario playing out in the
+van,” i.e, “just one other example” of Sipe’s “disregard for other people when
+he was drunk.” Fisher also thought that even if Sipe had pushed a beer bottle
+into C.S.’s vagina (or forced her to insert the bottle into herself), any
+satisfaction he derived from that act would have been based on its sexual
+nature, rather than on any pain or humiliation she might have felt.
+      2.    Dr. Alan Abrams
+      Dr. Alan Abrams, a board-certified psychiatrist and licensed attorney,
+found “many holes” in the evaluations prepared by Dr. Longwell and Dr.
+Goldberg. Due to COVID-19, Abrams interviewed Sipe by videoconference.
+He also had reviewed about 4,000 pages of Sipe’s medical and legal history.
+Abrams did not contact anyone at the state hospital about Sipe, nor did he
+have access to any police or probation reports about Sipe’s crimes, but he had
+information in Sipe’s prior SVP evaluations that quoted from those reports.
+Based on his review of the records and his interview, he concluded that Sipe
+did not suffer from a qualifying mental disorder for SVP status and was not
+predisposed to commit a predatory sex crime in the future.
+      Abrams recognized that Sipe had a serious alcohol abuse problem, but
+he considered it significant that Sipe had not suffered an alcoholic relapse
+while on parole briefly in 2010. Abrams also noted that Sipe had not shown
+
+
+
+                                        10
+any propensity to drink alcohol while in custody. Abrams believed some
+mental disorders disappear or diminish over time. Thus, he did not consider
+Sipe’s prior crimes of sexual violence to be especially noteworthy in assessing
+the presence of a current mental disorder that would predispose him to
+reoffend in the future.
+      Abrams did not believe Sipe had ever suffered from sexual sadism. He
+rejected the state experts’ diagnosis of that disorder, finding that Longwell
+and Goldberg had “made the unwarranted assumption” that such a disorder
+is a lifelong condition. Abrams believed Sipe’s criminal record reflected
+violent sex acts, but the violence was not an essential element of his sexual
+arousal. He attributed Sipe’s conduct to generalized anger rather than
+sadism.
+      On cross-examination, Abrams acknowledged that he had not reviewed
+the police reports and other documents describing Sipe’s predicate offenses.
+Instead, Abrams relied on the reports prepared by other experts. As to C.S.,
+he said he could not conclude that the liquid in the van was urine because it
+had not been scientifically tested. More importantly, even if Sipe had
+urinated on the victim, Abrams said that this single fact would not affect his
+diagnosis.
+      As to the incident with K.L., Abrams acknowledged “obvious
+contradictions” between Sipe’s claims of relative innocence and the contrary
+evidence. Nonetheless, Abrams “could not address those differences” at
+length, and they did not in any event appear “dramatic.” Abrams thought
+there was “only a scintilla of evidence” that Sipe had been involved in the
+1980 rape of K.L. He agreed that Sipe’s participation in the burglary was
+despicable, but he saw no evidence that it was sadistic.
+
+
+
+
+                                      11
+         Abrams thought Sipe’s 2010 parole violation was not relevant to the
+issue of Sipe’s predisposition to commit a future violent sex crime. Abrams
+thought there was some possibility that Sipe could have been properly
+diagnosed with ASPD in the past, but he did not believe Sipe met the criteria
+for ASPD when he evaluated him.
+         3.    State Hospital Employees
+         Two employees at Coalinga State Hospital also testified on Sipe’s
+behalf. They both attested to Sipe’s appropriate behavior while detained
+there.
+C.       Trial Court Ruling
+         The trial court found the allegations of the petition to be true, and that
+Sipe met the criteria for certification as an SVP. When rendering its decision,
+the court commented that normally it would be difficult to conclude, beyond a
+reasonable doubt, that Sipe was too dangerous to be released from custody
+when two expert witnesses had found that Sipe was not an SVP. However,
+the court found the two prosecution experts had been substantially more
+credible than the defense experts. Specifically, the court found that Longwell
+and Goldberg had impressive backgrounds and “vast experience” in
+performing SVP evaluations, and that their conclusions were untainted by
+bias and “amply supported by the proven facts.”
+         The trial court also stated that the testimony of the retained defense
+experts was less credible than that of the prosecution experts, in that both
+defense experts had seemed to minimize the proven facts of Sipe’s crimes.
+Specifically, the court found that Fisher had seemed to accept Sipe’s versions
+of events to conclude that Sipe had simply been “an angry rapist,” rather
+than a sexually violent predator. Fisher never explained any underlying facts
+that supported Sipe’s anger, and he characterized Sipe’s attack on C.S. as
+
+
+
+                                          12
+nothing more than a “ridiculous scenario playing out in a van.” The court also
+found that Abrams had seemed particularly biased in Sipe’s favor—“a true
+believer of sorts”—in that he had limited the category of sexual sadism very
+narrowly. The court also thought that Abrams had mischaracterized Sipe’s
+conduct more than once, and particularly by referring to Sipe’s mere
+“pinching” of breasts of the victims in his van when the evidence had shown
+substantially more serious violence.
+                                 DISCUSSION
+A.    Substantial Evidence
+      Sipe argues the judgment must be reversed because the state’s
+evidence that he suffered from a “current volitional impairment that would
+give rise to a substantial and well-founded risk of danger involving a violent
+predatory sex crime lacked solid value and credibility.” The record belies this
+claim.
+      1.    Applicable Law and Standard of Review
+      To be committed as an SVP, the People must prove beyond a reasonable
+doubt that “(1) [the defendant] ha[s] been convicted of at least one qualifying
+sexually violent offense, (2) he has a diagnosed mental disorder that makes
+him a danger to the health and safety of others, and (3) his diagnosed mental
+disorder makes it likely he will engage in sexually violent criminal behavior
+in the future.” (People v. Orey (2021) 63 Cal.App.5th 529, 561 (Orey); Welf. &
+Inst. Code, § 6600, subd. (a)(1).) Sipe challenges the sufficiency of the
+evidence of the last two elements.
+      As with any challenge to the sufficiency of the evidence, we review the
+entire record in the light most favorable to the verdict to determine whether
+substantial evidence supports the SVP finding. (People v. Mercer (1999)
+70 Cal.App.4th 463, 466.) “[T]his court may not redetermine the credibility of
+
+
+
+                                       13
+witnesses, nor reweigh any of the evidence, and must draw all reasonable
+inferences, and resolve all conflicts, in favor of the judgment.” (People v. Poe
+(1999) 74 Cal.App.4th 826, 830.) In particular, we do not reassess the
+credibility of experts or reweigh the relative strength of their conclusions.
+(Ibid.) “The testimony of one witness, if believed, may be sufficient to prove
+any fact. (Evid. Code, § 411).” (People v. Rasmuson (2006) 145 Cal.App.4th
+1487, 1508.) “Reversal for insufficiency of the evidence is warranted only if it
+appears that ‘ “upon no hypothesis whatever is there sufficient substantial
+evidence to support [the judgment].” ’ ” (Orey, supra, 63 Cal.App.5th at
+p. 561.)
+      2.    Analysis
+      The prosecution experts opined that Sipe currently suffered from
+sexual sadism, ASPD, and alcohol use disorder, and that these disorders
+made Sipe likely to reoffend in a sexually violent predatory manner. They
+explained the bases of their opinions and were cross-examined by Sipe’s
+counsel. While Sipe points to numerous instances where defense experts
+contradicted the state experts, this conflict was for the trier of fact, not the
+appellate court, to resolve. (People v. Sumahit (2005) 128 Cal.App.4th 347,
+352 (Sumahit).) The trial court’s determination that Sipe qualified as an SVP
+shows that it resolved the conflict in expert opinions against Sipe and found
+the People’s experts credible. (See, e.g., CALCRIM No. 332 [“If the expert
+witnesses disagreed with one another, you should weigh each opinion against
+the others”].)
+      Sipe contends there is insufficient evidence he currently suffers from
+sexual sadism, ASPD, and alcohol use disorder because the prosecution
+experts relied on the facts of decades-old offenses to support their diagnoses.
+However, experts may properly consider a defendant’s past crimes in
+
+
+
+                                        14
+assessing whether he currently suffers from a mental disorder. (See Hubbart
+v. Superior Court (1999) 19 Cal.4th 1138, 1163–1164.)
+      Moreover, it is significant that Sipe refused to meet with Longwell and
+Goldberg in 2020 and 2021, while agreeing to meet with defense experts in
+2020. In Sumahit, supra, 128 Cal.App.4th 347, the appellate court held that a
+similar refusal prohibited an SVP defendant from even raising an appellate
+challenge to the sufficiency of the evidence to support the SVP commitment.
+(Id. at pp. 353-354.) The court explained: “[W]e cannot overlook the
+significance of defendant’s refusal to be interviewed by either of the state’s
+experts. The law has a strong interest in seeing to it that litigants do not
+manipulate the system, especially where to hold otherwise would permit
+them to ‘ “trifle with the courts.” ’ [Citations.] Here, defendant fully
+cooperated with his own psychologist, while denying the People’s doctors the
+opportunity to interview him . . . . A sex offender cannot deny the state access
+to the workings of his mind and then claim a lack of proof that he has a
+current psychological disorder. Because he refused to be interviewed by the
+state’s experts, who could have formed an opinion as to his present
+dangerousness, defendant has forfeited the claim that the state did not prove
+that he was currently dangerous. [Fn. omitted.]” (Ibid.) Although we decline
+to find that Sipe forfeited his contention that the People failed to prove he is
+currently dangerous, Sipe’s refusal to meet with Longwell and Goldberg
+constitutes evidence that Sipe remained a sexually violent predator at the
+time of trial. (Orey, supra, 63 Cal.App.5th at p. 563.)
+      Additionally, Sipe’s “refusal to undergo treatment constitutes potent
+evidence that he is not prepared to control his untreated dangerousness by
+voluntary means. . . . A patient’s refusal to cooperate in any phase of
+treatment may therefore support a finding that he ‘is not prepared to control
+
+
+
+                                        15
+his untreated dangerousness by voluntary means if released unconditionally
+to the community.’ ” (Sumahit, supra, 128 Cal.App.4th at pp. 354-355.)
+      Finally, that Sipe did not engage in any overt sexual sadism or alcohol
+abuse while at the state hospital is not remarkable, but is, in fact, “to be
+expected.” (Orey, supra, 63 Cal.App.5th at p. 563.) “The fact that defendant
+has not misbehaved in a strictly controlled hospital environment does not
+prove he no longer suffers from a mental disorder that poses a danger to
+others.” (Sumahit, supra, 128 Cal.App.4th at p. 353.) Sipe engaged in
+predatory acts of sexual violence against vulnerable victims while
+intoxicated. Because he currently lacks ready access to vulnerable victims
+and alcohol, his lack of outward signs of sexual deviance is not dispositive of
+whether he is likely to reoffend if released into society at large. “Such an
+assessment must include consideration of his past behavior, his attitude
+toward treatment and other risk factors applicable to the facts of his case.”
+(Sumahit, supra, 128 Cal.App.4th at p. 353.) Other risk factors in this case
+include Sipe’s continued lack of empathy and lack of remorse, which the state
+experts explained are hallmarks of ASPD.
+      Sipe’s reliance on People v. Johnson (2020) 55 Cal.App.5th 96 and
+People v. Redus (2020) 54 Cal.App.5th 998 is misplaced. Johnson reversed a
+commitment extension order where the record was devoid of evidence
+suggesting the 69-year-old mentally disordered offender’s decompensation in
+an unsupervised setting would lead to violence, particularly in light of the
+fact that he had spent 11 years in the community and had stopped taking his
+medication for periods of time with no violent repercussions. (Johnson, at
+pp. 108–109.) Additionally, some of the defendant’s delusions “had ‘gone
+away’ ” and there was no “evidence of recent violence or aggression.” (Id. at
+pp. 99, 101, 110.) In Redus, the appellate court concluded the prosecution
+
+
+
+                                       16
+failed to “provide the required link” between the defendant’s “mental illness
+and his purported difficulty in controlling his potentially dangerous
+behavior.” (Redus, at p. 1013.) Redus noted there had “not been a hint of
+violence, threatening behavior, or aggressiveness of any kind” by the 73-year-
+old defendant — a “ ‘fragile old man’ ” — for more than four decades, “even
+through [conditional] releases and medication lapses.” (Id. at pp. 1011, 1012.)
+In contrast to these cases, diagnostic evidence demonstrated that Sipe was in
+the high-risk category for reoffending; this evidence was bolstered by the fact
+that Sipe refused to make a meaningful effort towards rehabilitation in the
+SOTP.
+      We conclude that Sipe’s refusal to accept treatment, coupled with valid
+diagnoses that he suffers from sexual sadism, ASPD, and alcohol use disorder
+are sufficient to sustain the trial court’s finding that he suffers from a
+diagnosable mental disorder that makes it likely he will engage in sexually
+violent criminal and predatory conduct if released. (See Sumahit, supra,
+128 Cal.App.4th at p. 355.)
+B.    Trial Court’s Duty to Supervise and Manage Case Delays
+      Sipe argues that the trial court failed “to actively supervise and
+manage this case to [e]nsure that years of continuances and delay in trial
+setting” was the result of “a personal, informed and voluntary decision” that
+he made. In response, the Attorney General engages in a thorough due
+process analysis regarding the timelines of Sipe’s trial, arguing that the trial
+court reasonably found that the delay was either caused by Sipe or was
+sought for his benefit. Sipe does not quarrel with the details of that analysis
+in his reply, but contends that the blame cannot be shifted to him when the
+trial court failed in its duty actively to manage the case and to inquire
+directly as to his wishes.
+
+
+
+                                        17
+      1.     Background
+             a.   SVP Petition Filed Followed by Years of Continuances
+      The Alameda County District Attorney’s Office filed a petition for Sipe’s
+commitment as an SVP in August 2010. Sipe appeared in court for
+arraignment on the SVP petition on August 13, 2010. Counsel was appointed
+and the matter was continued to September 10, 2010, at which time Sipe
+personally waived time for his probable cause hearing.
+      The probable cause hearing concluded on February 3, 2012. Sipe, who
+was present at the hearing, was not asked about his desire for a trial.
+Between February 2012 and March 2017, it appears Sipe’s case was called at
+least 23 times. However, as neither party provided an oral record from any of
+the continuances, the record is unclear about who sought the continuances
+and for what reasons, and whether there were any objections or good cause
+findings.
+      A newly assigned deputy public defender appeared in July 2017; he
+continued the case himself 12 times through November 2019 without any
+motions, hearings or a trial setting.6 Sipe’s personal appearance was
+consistently waived at each appearance and the clerk’s record provides no
+reasons for the continuances. In November 2019, new defense counsel was
+appointed.
+             b.   Sipe’s Motion to Dismiss and Evidentiary Hearing
+      On April 10, 2020, defense counsel filed a motion to dismiss the SVP
+petition as untimely under People v. Superior Court (Vasquez) (2018)
+27 Cal.App.5th 36 (Vasquez).
+
+
+      6 As Sipe notes, it is difficult to accurately total the number of
+unexplained continuances based on the overlapping time frames set out by
+the trial judge.
+
+
+                                      18
+      The trial court heard testimony on Sipe’s motion to dismiss the SVP
+petition on November 6 and 20, 2020, and January 22, 2021. Sipe was
+present for all but one session of the evidentiary hearing.
+      Sipe testified on his own behalf. He stated that Dr. Schwartz and Dr.
+Richard Romanoff previously had found in 2009 that he did not meet the SVP
+criteria. He believed that if he went to trial, both doctors would have made
+favorable witnesses for him. But he also admitted that he did not ask either
+of his public defenders to set the case for trial.
+      Sipe explained that he and Margo George, his first attorney, had
+discussed setting the case for trial, but he had asked her to continue the case
+because he hoped to “flip” the state’s evaluators, i.e., change their opinions
+about whether he met the SVP criteria. Sipe also said that he and George
+agreed that she would litigate motions while he would engage in sex offender
+treatment at Coalinga State Hospital in the hope of flipping the state
+evaluators. Specifically, Sipe had said to George “many times,” “[L]et’s run
+this until how far we can go [sic] to see if everything will be dropped.” Sipe
+added, “And over a couple of years, this is what we did, up until [George’s]
+retirement.” Sipe also said he did not want to risk “a lifetime commitment by
+going to trial and losing,” and he probably would not have felt good if the
+judge had set the case for trial. When asked if he was personally hopeful to
+receive an SVP trial, Sipe responded, three times, that that decision was for
+his attorney to make. Overall, Sipe said he was happy with the way that
+George had handled his case.
+      In explaining his prior relationship with his second attorney, Sachiel
+Slavin, Sipe said that he and Slavin had talked about possibly taking the
+case to trial, and that Slavin had encouraged him to speak up if he ever
+wanted to do so. Sipe admitted he never “got back” to Slavin on that issue.
+
+
+
+                                        19
+Sipe knew at the time that if he had gone to trial and lost, he would have
+been subject to an indeterminate hospital commitment. He never wanted to
+risk that happening.
+      Dr. Romanoff testified that he had determined in 2009 that Sipe did not
+meet the criteria for civil commitment under the SVPA. Romanoff had
+stopped doing SVP evaluations in about 2013, however, and he had not kept
+current with the “specialized field of forensic study” involved in such
+evaluations. As a result, he thought he would not be a helpful witness for
+Sipe at an SVP hearing.
+      The prosecutor called both of Sipe’s former public defenders to testify at
+the hearing. Attorney George testified that she had spent over 30 years at the
+public defender’s office before retiring in March 2017. George said that Sipe
+initially wanted to “move the case along as quickly as possible.” After the
+probable cause hearing, however, Sipe did not want to go to trial and never
+asked her to set a trial date. George and Sipe agreed that their best strategy
+would be for him to pursue the SOTP at Coalinga State Hospital while she
+tried to get his case dismissed (or, at the very least, get new and more
+favorable psychological evaluations). Sipe had asked her to continue the case,
+and she thought that was wise. George said she would have set a trial date if
+Sipe had asked for one, but he never did. Because George did not believe a
+trial was in Sipe’s best interests, she did not push the idea.
+      George said that she and Sipe hoped they could flip an evaluator.
+George confirmed on cross-examination that neither the prosecution nor the
+trial court ever “pushed” her to set a trial date. She could not recall the court
+ever making a good cause finding to continue the case, but she also had no
+memory of how requests for continuances were addressed by the court.
+
+
+
+
+                                       20
+      When specifically asked if Sipe had ever waived his right to a speedy
+trial, George said that “nobody knew” at that time that there was any such
+right in an SVP proceeding. She knew that Sipe had a due process right to a
+trial within a reasonable time period, but she thought Sipe may have waived
+that right at the conclusion of the probable cause hearing. She had no
+independent memory of such a waiver, however, and the court records did not
+indicate such a waiver.
+      Sipe’s second attorney, Sachiel Slavin, testified about the public
+defender office’s heavy caseload, but he denied that he had ever been too busy
+to prepare for or try a case. He said the office funding and staffing did not
+affect his decision to set a trial date in Sipe’s case. Slavin explained that he
+rarely arranged to have Sipe brought to court for appearances because the
+conditions at the jail were “horrific,” and Slavin kept in regular contact with
+Sipe by phone, written correspondence, and occasional personal visits at
+Coalinga State Hospital. Also, Slavin understood that Sipe “explicitly did not
+want to be brought to the jail in order to be present in court.”
+      When evaluating an SVP case, Slavin considered many factors,
+including the client’s diagnosis and treatment status, the qualifying offenses,
+a defense expert’s opinion (if any), and the client’s age and desire for a trial.
+However, a client’s demand for a trial was “just about determinative,” even if
+Slavin felt “other factors weigh[ed] against” going to trial. Slavin had talked
+with Sipe “about his desire or not to go to trial” and the “benefits and
+consequences of litigating the case in that way.” At one point Slavin testified
+that he did not believe Sipe had made a “trial demand”, and he later said,
+twice, that he saw no need to override Sipe’s “explicit desire not to go to trial.”
+      Rather than set the case for trial, Slavin felt it was in Sipe’s best
+interests to litigate the case in other ways. Slavin discussed with Sipe
+
+
+
+                                        21
+“different legal strategies and evidence-gathering strategies” that they were
+“going to embark upon,” and Slavin was “endeavoring to do those things.”
+They did not set a trial date because it was Sipe’s “explicit desire” not to do
+so. Slavin strongly believed that Sipe would have been harmed by going to
+trial and risking adjudication as an SVP because there would be lifetime
+consequences like “more onerous” registration and residency requirements.
+Slavin believed he had competently represented Sipe and that he had
+followed the plan they had mutually agreed upon.
+      At the conclusion of his testimony, Slavin again said that Sipe had
+always been “explicit” in not wanting Slavin to set a trial date.
+      The parties stipulated that the other psychologist who had evaluated
+Sipe in 2009, Dr. Mark Allen Schwartz, died on February 7, 2017.
+            c. Court’s Ruling and Writ Proceedings
+      In a detailed, 33-page memorandum of decision, the trial court denied
+Sipe’s motion to dismiss. The court explained that Sipe had demonstrated
+that he was prejudiced by the delay due to the loss of favorable witnesses.
+Nevertheless, the court concluded that prejudice was “outweighed by Sipe’s
+express desire to avoid trial.”
+      Sipe petitioned this court for a writ of mandamus. We summarily
+denied the petition, noting the trial court’s “well-reasoned” analysis.
+      2.    Analysis
+      Under the SVPA, the state can civilly commit an individual found to be
+an SVP indefinitely for confinement and appropriate treatment in a state
+hospital. (§ 6604.) “The SVPA does not establish a deadline by which a trial
+on an SVP petition must be held after the trial court finds probable cause to
+believe the inmate is an SVP.” (Vasquez, supra, 27 Cal.App.5th at p. 57.)
+
+
+
+
+                                       22
+Further, because it is a civil proceeding—not a criminal prosecution—the
+Sixth Amendment right to a speedy trial does not apply. (Ibid.) Nevertheless,
+“[b]ecause civil commitment involves a significant deprivation of liberty, a
+defendant in an SVP proceeding is entitled to due process protections.”
+(People v. Otto (2001) 26 Cal.4th 200, 209.) This includes the due process
+right to a timely trial. (In re Butler (2020) 55 Cal.App.5th 614, 638.)
+      Preliminarily, we agree the trial court had an obligation to ensure Sipe
+received a timely trial. “Even where the attorneys stipulate to continue a trial
+date, the trial court has an obligation to determine whether there is a good
+cause for the continuance. The trial court also has a responsibility absent a
+written time waiver to inquire of a defendant whether he or she agrees to the
+delay.” (Vasquez, supra, 27 Cal.App.5th at p. 75; People v. Williams (2013)
+58 Cal.4th 197, 251 [“the trial court has an affirmative constitutional
+obligation to bring the defendant to trial in a timely manner”].) Even a
+“neutral reason such as negligence or overcrowded courts should be weighted
+less heavily [against the government] but nevertheless should be considered
+since the ultimate responsibility for such circumstances must rest with the
+government rather than with the defendant.” (Barker v. Wingo (1972)
+407 U.S. 514, 531.)
+      There were more than 30 continuances in this case over 10 years.
+However, it is unclear who sought the continuances, if any reasons were
+stated on the record, and whether there were any objections or good cause
+findings. Sipe contends the trial court—by failing to “actively supervise and
+manage” his case to ensure that “years of continuances and delay in trial
+setting” was the result of his “personal, informed, and voluntary” decision—
+abandoned its role as “captain of the ship.” (Vasquez, supra, 27 Cal.App.5th
+at p. 76.) To a certain degree, he is correct. However, Sipe’s express desire to
+
+
+
+                                       23
+avoid trial mitigated any prejudice caused by any lapses in “judicial
+housekeeping.” (See, e.g., Vermont v. Brillon (2009) 556 U.S. 81, 89
+[discussing defendant’s role in delay].)
+      Butler, cited by Sipe, does not advance his claims. In Butler, the
+defendant made several “ ‘sincere and repeated demands’ for a timely trial”
+dating back to the filing of the SVP petition. (In re Butler, supra,
+55 Cal.App.5th at p. 649.) Among other things, the record contained letters
+by the defendant to the trial judge and one of his public defenders; testimony
+by the same public defender at the evidentiary hearing; defendant’s
+statements at a Marsden7 hearing; counsel’s statements to the court during
+the same hearing; and defendant’s declaration submitted in support of his
+habeas petition. (Ibid.)
+      Unlike Butler, there was no evidence that Sipe made sincere and
+repeated demands for trial or otherwise conveyed any concerns about the
+delays in setting a trial date. Rather, Sipe testified at the evidentiary hearing
+that he did not want to go to trial. Sipe reported he had instructed attorney
+George to “run” the case out as long as possible. Both of his public defenders
+corroborated Sipe’s story. George testified that Sipe asked her to push the
+case off for as long as possible. Slavin explained they did not set a trial date
+because it was Sipe’s “explicit desire” not to do so.
+      Accordingly, on this record, any error by the trial court in its
+management of this case was harmless under any standard.
+                                 DISPOSITION
+      The judgment is affirmed.
+
+
+                                             GOLDMAN, J.
+
+
+      7   People v. Marsden (1970) 2 Cal.3d 118.
+
+                                        24
+WE CONCUR:
+
+STREETER, Acting P. J.
+BROWN, J.
+
+
+
+
+                         25

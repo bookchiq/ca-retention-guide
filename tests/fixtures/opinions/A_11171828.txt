@@ -1,0 +1,419 @@
+cl_opinion_id: 11171828
+cluster: 10705241
+docket: A171807
+date: 2025-10-16
+status: Published
+type: 010combined
+field: plain_text
+case: Marriage of Elena Kouvabina and Jacob Veltman
+----
+Filed 10/16/25
+                      CERTIFIED FOR PUBLICATION
+
+       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                        FIRST APPELLATE DISTRICT
+
+                               DIVISION THREE
+
+
+ In re the Marriage of ELENA
+ KOUVABINA and JACOB VELTMAN.
+                                                 A171807, A172215
+ ELENA KOUVABINA,
+                                                 (San Mateo County
+        Appellant,                               Super. Ct. No. 17-FAM-01346)
+ v.
+ JACOB VELTMAN,
+        Respondent.
+
+
+       Over the last five years, attorney Elena Kouvabina has — while self-
+represented — “commenced, prosecuted, or maintained” nine litigations that
+have been “finally determined adversely to [her].” (Code Civ. Proc., § 391,
+subd. (b)(1) (section 391(b)(1)), undesignated statutory references are to this
+code.) On our own motion, we conclude she is a vexatious litigant and impose
+a prefiling order prohibiting her from filing new litigation while self-
+represented in the courts of this state without first obtaining permission from
+the presiding judge or justice where the litigation is proposed to be filed.
+(§§ 391(b)(1), 391.7, subd. (a) (section 391.7(a)).)
+                                BACKGROUND
+       Kouvabina and Jacob Veltman — also an attorney — married in 2010,
+had a daughter in 2012, and separated in 2017. Kouvabina filed a petition
+
+
+                                         1
+for dissolution in 2017, and the parties have been involved in contentious
+litigation ever since.
+      Over the last five years, Kouvabina has commenced, prosecuted, or
+maintained 11 appeals and writs in this court. Two of her appeals remain
+pending, but nine matters — five appeals and four writs — have been finally
+determined adversely to her:
+      (1)   In Kouvabina v. Superior Court, case No. A162899, she filed a
+            petition for a writ of mandate concerning her effort to disqualify
+            Judge Sean Dabel. We summarily denied the writ petition on
+            July 1, 2021.
+      (2)   In Kouvabina v. Superior Court, case No. A164282, she again
+            filed a petition for a writ of mandate concerning her effort to
+            disqualify Judge Dabel. We summarily denied the writ petition
+            on January 6, 2022.
+      (3)   In Kouvabina v. Superior Court, case No. A167447, she once more
+            filed a petition for a writ of mandate concerning her effort to
+            disqualify Judge Dabel. We summarily denied the writ petition
+            on April 6, 2023.
+      (4)   In In re Marriage of Kouvabina & Veltman, case No. A165209,
+            she appealed from an order denying her request to modify a
+            spousal support order. We affirmed by written opinion on
+            October 26, 2023.
+      (5)   In In re Marriage of Kouvabina & Veltman, case No. A165033,
+            she appealed from a statement of decision concerning custody
+            and visitation issues. We affirmed by written opinion on January
+            31, 2024.
+
+
+
+
+                                       2
+      (6)   In Kouvabina v. Superior Court, case No. A170287, she filed a
+            petition for a writ of mandate concerning her effort to disqualify
+            Judge Chinhayi C. Cadet. We summarily denied the writ petition
+            on May 15, 2024.
+      (7)   In In re Marriage of Kouvabina & Veltman, case No. A167490,
+            she appealed from a statement of decision after trial on financial
+            matters and the resulting judgment on reserved issues. We
+            consolidated the appeal with case Nos. A168348 and A168557.
+            We affirmed by written opinion on March 27, 2025.
+      (8)   In In re Marriage of Kouvabina & Veltman, case No. A168348,
+            she appealed from a judgment on child support. We consolidated
+            the appeal with case Nos. A167490 and A168557. We affirmed by
+            written opinion on March 27, 2025.
+      (9)   In In re Marriage of Kouvabina & Veltman, case No. A168557,
+            she appealed from an order on attorney fees. We consolidated the
+            appeal with case Nos. A167490 and A168348. We affirmed by
+            written opinion on March 27, 2025.
+      Given her persistent pattern of commencing unmeritorious litigations
+in this court, we issued an order to show cause (OSC) why Kouvabina should
+not be declared a vexatious litigant pursuant to section 391 and why we
+should not impose a prefiling order pursuant to section 391.7(a). We ordered
+her to file a written response addressing, among other things, whether the
+above litigations (collectively, the litigations) satisfy the requirements of
+section 391(b)(1). She filed a written response to the OSC. 1 Veltman has
+
+
+      1 Kouvabina also filed a motion asking us to take judicial notice of
+
+various documents. Her request is granted as to our court records regarding
+the litigations. (Evid. Code, § 452, subd. (d).) Her request is denied as
+irrelevant as to the other documents, including, among other things, the
+                                        3
+filed a response as well. We set the matter to be heard at an October 8, 2025
+hearing.
+                                  DISCUSSION
+      “The vexatious litigant statutes—sections 391 to 391.8—are
+‘designed . . . to protect opposing parties harassed by meritless lawsuits,
+[and] to conserve court time and resources and protect the interests of
+other litigants who are waiting for their legal cases to be processed through
+the courts.’ ” (Karnazes v. The Lauriedale Homeowners Assn. (2023)
+96 Cal.App.5th 275, 280 (Karnazes); In re Marriage of Deal (2022)
+80 Cal.App.5th 71, 77 [scheme “ ‘ “enacted ‘ “to curb misuse of the court
+system” ’ by ‘ “persistent and obsessive” litigants’ ” ’ ”].)
+      Section 391(b)(1) defines a vexatious litigant as a self-represented
+person who has filed at least five qualifying litigations within the past seven
+years that were decided adversely to them. (§ 391(b)(1)(i).) “Litigation is
+defined as any ‘civil action or proceeding, commenced, maintained or pending
+in any state . . . court.’ ” (Karnazes, supra, 96 Cal.App.5th at p. 280.) This
+“includes an appeal or civil writ proceeding filed in an appellate court.”
+(Garcia v. Lacey (2014) 231 Cal.App.4th 402, 406.) An action is “within the
+‘ “immediately preceding seven-year period” ’ so long as it was filed or
+maintained during that period” (id. at p. 406, fn. 4), and the “period is
+measured from the date the motion or OSC is filed.” (Karnazes, at p. 280.)
+The litigation is “finally determined adversely” if the person does not win and
+“avenues for direct review (appeal) have been exhausted or the time for
+appeal has expired.” (Garcia, at pp. 406–407 & fn. 5.) When a writ petition
+
+
+
+website of the law firm that used to represent Veltman, a settlement proposal
+conveyed to Veltman, various motions filed in the trial court, the court
+records in the still pending appeals, and an article from a legal magazine.
+                                          4
+is “the exclusive means of obtaining appellate review” — such as when a
+party challenges “a ruling on a motion to disqualify a judge” — an “appellate
+court’s summary denial . . . is properly considered a final determination of
+litigation for purposes of qualifying for vexatious litigant status.” (Fink v.
+Shemtov (2010) 180 Cal.App.4th 1160, 1172–1173; § 170.3, subd. (d)
+[disqualification “may be reviewed only by a writ of mandate”].)
+      If a litigant qualifies as vexatious under section 391(b)(1), a court may
+enter a prefiling order preventing the person from filing new litigation while
+self-represented without first obtaining permission from the presiding judge
+or justice where the litigation is to be filed. (§ 391.7(a); In re Marriage of
+Deal, supra, 80 Cal.App.5th at p. 77.) For the purposes of section 391.7,
+“ ‘litigation’ includes any petition, application, or motion other than a
+discovery motion, in a proceeding under the Family Code . . . , for any order.”
+(§ 391.7, subd. (d).) “Permission to file will be granted ‘only if it appears that
+the litigation has merit and has not been filed for the purposes of harassment
+or delay.’ ” (Karnazes, supra, 96 Cal.App.5th at p. 280; § 391.7, subd. (b).)
+“The ‘prefiling requirement “does not deny the vexatious litigant access to the
+courts, but operates solely to preclude the initiation of meritless [litigations]
+and their attendant expenditures of time and costs.” ’ ” (Deal, at p. 77.)
+      Kouvabina advances various arguments in opposition to the OSC. We
+address them in turn.
+                                        I.
+      Kouvabina contends appeals do not constitute “litigation” within the
+meaning of section 391. California courts have consistently held to the
+contrary. (E.g., Karnazes, supra, 96 Cal.App.5th at p. 280; In re Marriage of
+Falcone & Fyke (2012) 203 Cal.App.4th 964, 1005–1007 (Falcone); Fink v.
+Shemtov, supra, 180 Cal.App.4th at pp. 1173–1174; Garcia v. Lacey, supra,
+
+
+                                         5
+231 Cal.App.4th at p. 406; see John v. Superior Court (2016) 63 Cal.4th 91,
+99–100, fn. 2 (John) [disapproving language in Mahdavi v. Superior Court
+(2008) 166 Cal.App.4th 32, 41, “to the extent it could be interpreted as
+precluding a Court of Appeal from declaring an in propria persona defendant
+on appeal to be a vexatious litigant under section 391”].) She neither
+acknowledges the existence of such cases, nor does she persuade us to chart a
+different course. And so we do not.
+                                       II.
+      Relying on John, supra, 63 Cal.4th 91, Kouvabina next argues her
+appeals do not constitute “litigation” within the meaning of section 391
+because they “arose from [her] efforts to defend herself against Veltman’s
+affirmative claims.” For various reasons, we disagree.
+      Kouvabina characterizes John, supra, 63 Cal.4th at page 99, as holding
+“appeals from actions in which the proposed appellant is the defendant are
+not ‘litigation’ within the meaning of the vexatious statute.” Not so. John
+instead considered “whether section 391.7’s prefiling requirements apply to
+declared vexatious litigants who are self-represented defendants appealing
+from an adverse judgment in litigation they did not initiate.” (Id. at p. 93.)
+We cannot find anything in the Supreme Court’s opinion holding a
+defendant’s appeal cannot constitute “litigation” under section 391(b)(1).
+Kouvabina’s assertion otherwise is unfounded.
+      Nor can we find anything in the text of section 391(b)(1) or in case
+law — and Kouvabina does not draw our attention to anything — indicating
+a defendant’s appeal does not constitute “litigation” for purposes of section
+391(b)(1). That provision defines a vexatious litigant as a “person” who “[i]n
+the immediately preceding seven-year period has commenced, prosecuted,
+
+
+
+
+                                       6
+or maintained in propria persona at least five litigations . . . that have
+been . . . finally determined adversely to the person.” (§ 391(b)(1).) Nothing
+suggests a defendant’s appeal is exempted from this definition. In re R.H.
+(2009) 170 Cal.App.4th 678, 693, reached the same conclusion. In that case,
+the Court of Appeal determined the appealing defendant was a vexatious
+litigant under section 391(b)(1) due to his many unsuccessful appeals and
+writs. (R.H., at p. 693.) Although John disapproved R.H. “insofar as [it]
+state[d] or impl[ied] that section 391.7’s prefiling requirements apply to all
+vexatious litigant appellants and writ petitioners” (John, supra, 63 Cal.4th at
+p. 99, fn. 2), John explained the “R.H. court was correct that it had authority
+to declare the father a vexatious litigant” and “[s]ection 391 does not prohibit
+a Court of Appeal from declaring a defendant appellant or writ petitioner to
+be a vexatious litigant in the first instance during the course of an appeal
+from litigation the defendant or writ petitioner did not file.” 2 (John, at p. 99;
+Falcone, supra, 203 Cal.App.4th at pp. 1005–1007 [counting appeals from
+family law orders where vexatious litigant was the responding party]; see In
+re Marriage of Deal (2020) 45 Cal.App.5th 613, 620–621 [nonplaintiffs can be
+declared vexatious litigants under § 391].)
+
+
+
+
+      2 Kouvabina notes John cited section 391, subdivision (b)(3) — which
+
+applies when a person, “[i]n any litigation . . . , repeatedly files unmeritorious
+motions, pleadings, or other papers, . . . or engages in other tactics that are
+frivolous or solely intended to cause unnecessary delay” — after this latter
+statement. (John, supra, 63 Cal.4th at p. 99.) True, but that doesn’t change
+our view. John made clear the R.H. court correctly concluded it had the
+authority to declare the appealing defendant a vexatious litigant (ibid.), and
+R.H. did so under section 391(b)(1) (In re R.H., supra, 170 Cal.App.4th at
+p. 693). Moreover, both provisions refer to “litigation,” and Kouvabina does
+not explain why a defendant’s appeal would constitute litigation under
+section 391, subdivision (b)(3) but not subdivision (b)(1).
+                                        7
+      Even if a defendant’s appeal does not constitute “litigation” within the
+meaning of section 391(b)(1), we conclude Kouvabina’s appeals and writs —
+under the facts presented here — arose out of proceedings as to which she
+was the “plaintiff.” (§ 391, subd. (d) [plaintiff is a “person who commences,
+institutes or maintains a litigation”].) In case Nos. A162899, A164282,
+A167447, and A170287, she filed petitions for writs of mandate concerning
+her repeated motions to disqualify trial court judges. In case No. A165209,
+she appealed from the court’s denial of her motion to modify spousal support.
+In case No. A168348, she appealed from the court’s denial of her request to
+modify child support. In case No. A168557, she appealed from the court’s
+order concerning her request for attorney’s fees. In case No. A167490, she
+appealed from a statement of decision on a variety of financial issues. The
+statement of decision and resulting judgment addressed, among other things,
+her many requested orders. Finally, in case No. A165033, she appealed from
+a statement of decision concerning the parties’ competing requests concerning
+custody and visitation. Against this backdrop, we reject Kouvabina’s
+assertion that “all of [her] appeals arose from her efforts . . . to defend
+herself . . . against Veltman’s aggressive and unreasonable cross-demands.” 3
+      Finally, Kouvabina observes that “actions for dissolution of marriage do
+not neatly fit within the category of ‘litigation’ for purposes of the vexatious
+litigant statute” because “a party has no alternative but to initiate a court
+action in order to obtain a dissolution of marriage.” Also, while one party is
+designated the petitioner, both parties almost always seek “affirmative
+relief.” We agree with these observations but are unsure why they are
+
+
+
+      3 We note that Kouvabina almost entirely supports her description of
+
+what transpired below with citations to her briefing in the unsuccessful
+appeals and writs, rather than with citations to the record.
+                                         8
+relevant to the matter at hand. To the extent she implies the vexatious
+litigant statutes do not apply — or apply differently — to dissolution matters,
+we disagree. The Legislature could have exempted family law matters — as
+it exempted small claims actions in section 391(b)(1) — but it did not. To the
+contrary, Family Code section 210 explicitly provides that the vexatious
+litigant statutes apply to family law proceedings. In sum, there is no reason
+to think the vexatious litigant statutes apply to family law matters with
+lesser or different force. (See In re Marriage of Rifkin & Carty (2015)
+234 Cal.App.4th 1339, 1343–1344, 1348–1349; Falcone, supra, 203
+Cal.App.4th at pp. 1005–1007.)
+                                      III.
+      Kouvabina contends her many appeals and writs were the result of the
+trial court’s decision to bifurcate issues rather than any vexatious intent on
+her part. Of course, it is not unusual in a dissolution to see issues addressed
+over time and in different orders, many of which can be challenged via writ or
+appeal. (E.g., Falcone, supra, 203 Cal.App.4th at pp. 1005–1007.) But that
+has not prevented courts from designating a litigant vexatious due to
+numerous appeals and writs arising out of the same dissolution. (Ibid.)
+Moreover, even if true, her argument misses the point. Section 391(b)(1)
+“requires only that five qualifying litigations were finally determined
+adversely to her within a specific time period. That standard is satisfied
+here.” (Karnazes, supra, 96 Cal.App.5th at pp. 281–282.) We needn’t find
+“she engaged in tactics that were frivolous or intended to cause unnecessary
+delay” to conclude she meets the definition of a vexatious litigant. (Id. at
+p. 281, italics added.) The rationale underlying the statute “is that there is a
+limit to how many causes of action an individual is likely to accrue.”
+
+
+
+
+                                       9
+(Wolfgram v. Wells Fargo Bank (1997) 53 Cal.App.4th 43, 49.) Her nine
+unsuccessful appeals and writs exceed the legislatively prescribed limit.
+                                        IV.
+      Kouvabina argues the summary denials of her four writ petitions
+concerning her efforts to disqualify judges should not count because the
+denials did not “ ‘finally’ resolve the issue of judicial bias against [her].”
+Whether she could assert claims of judicial bias on appeal is beside the point.
+As she concedes, section 170.3, subdivision (d) provides that the
+“determination of the question of the disqualification of a judge is not an
+appealable order and may be reviewed only by a writ of mandate.” When a
+writ petition is “the exclusive means of obtaining appellate review, the
+Supreme Court [has] explained, ‘an appellate court must judge the petition
+on its procedural and substantive merits, and a summary denial of the
+petition is necessarily on the merits.’ ” (Fink v. Shemtov, supra,
+180 Cal.App.4th at p. 1172; Leone v. Medical Board (2000) 22 Cal.4th 660,
+670.) The “summary denial of this type of writ petition is properly considered
+a final determination of litigation for purposes of qualifying for vexatious
+litigant status under section 391, subdivision (b)(1).” (Fink, at p. 1173.)
+                                         V.
+      Kouvabina next contends she is representing herself “against her will
+due to the insufficiency of the pendente award of attorney’s fees and such fees
+on appeal.” To the extent she is suggesting this means we should not treat
+her as self-represented for purposes of section 391(b)(1), this argument is
+forfeited for failure to cite any legal authority or offer legal argument.
+(Young v. Fish & Game Com. (2018) 24 Cal.App.5th 1178, 1190.) Moreover,
+the trial court’s orders concerning attorney fees were affirmed on appeal.
+(Falcone, supra, 203 Cal.App.4th at pp. 1005–1007 [finding wife was a
+
+
+                                         10
+vexatious litigant under § 391(b)(1) where various appeals were from orders
+denying her requests for attorney fees].) Whatever the reason, Kouvabina
+was self-represented when she commenced, prosecuted, or maintained the
+litigations here.
+                                       VI.
+      Finally, Kouvabina argues that her appeals from orders concerning
+child and spousal support cannot constitute litigation that was finally
+determined adversely to her because the trial court “retains jurisdiction to
+modify its prior support order upon a change of circumstances, and such
+orders are, therefore, never final.” While it is correct that support orders
+generally remain modifiable (e.g., Fam. Code, § 3651 [except as provided, “a
+support order may be modified or terminated at any time as the court
+determines to be necessary”]), Kouvabina offers no legal authority or
+argument why an appeal from a support order cannot ever be finally
+determined against a person for purposes of section 391(b)(1). Her appeal
+from a specific order has been finally determined adversely to her — within
+the meaning of section 391(b)(1) — once she has lost and all “avenues for
+direct review (appeal) have been exhausted or the time for appeal has
+expired.” (Garcia v. Lacey, supra, 231 Cal.App.4th at pp. 406–407 & fn. 5.)
+That she could — in the future — request a new order modifying support
+based on a material change in circumstances does not render previously
+issued orders — or appeals therefrom — nonfinal for purposes of the
+vexatious litigant statutes. 4
+
+
+
+
+      4 Some of Kouvabina’s arguments are not confined to the point
+
+in the heading. (Provost v. Regents of University of California (2011)
+201 Cal.App.4th 1289, 1294; Cal. Rules of Court, rule 8.883(a)(1)(A).)
+“Although we address the issues raised in the headings, we do not consider
+                                       11
+                                       VII.
+      In conclusion, Kouvabina is a vexatious litigant as that term is
+defined in section 391(b)(1). In the “immediately preceding seven-year
+period,” she has — while self-represented — “commenced, prosecuted, or
+maintained . . . at least five litigations” that have been “finally determined
+adversely to [her].” (§ 391(b)(1).)
+                                DISPOSITION
+      Elena Kouvabina is hereby declared a vexatious litigant. (§ 391(b)(1).)
+Henceforth, she may not file any new litigation in the courts of this state
+without first obtaining leave of the presiding judge or justice of the court
+where the litigation is proposed to be filed. (§ 391.7(a) & subd. (d).)
+Disobedience of this order may be punished as a contempt of court. (Id.,
+subd. (a).) The clerk of this court must provide a copy of this opinion and
+order to the Judicial Council (id., subd. (f)), and to the presiding judge and
+clerk of the Superior Court for the County of San Mateo. No costs are
+awarded. (Cal. Rules of Court, rule 8.278(a)(5).)
+
+
+
+
+all of the loose and disparate arguments that are not clearly set out in a
+heading.” (Provost, at p. 1294.)
+                                       12
+                                       _________________________
+                                       RODRÍGUEZ, J.
+
+
+WE CONCUR:
+
+
+_________________________
+FUJISAKI, Acting P. J.
+
+
+_________________________
+PETROU, J.
+
+
+
+
+A171807 & A172215; In re Marriage of Kouvabina & Veltman
+
+
+
+
+                                  13
+Trial Court: San Mateo County Superior Court
+
+Trial Judge: Hon. Chinhayi C. Cadet
+
+Elena Kouvabina, in pro. per. for Appellant.
+
+Jacob Veltman, in pro. per. for Respondent.
+
+
+
+
+                                      14

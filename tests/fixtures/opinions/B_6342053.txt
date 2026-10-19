@@ -1,0 +1,578 @@
+cl_opinion_id: 6342053
+cluster: 6469942
+docket: B310427
+date: 2022-05-18
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Owens
+----
+Filed 5/18/22
+                  CERTIFIED FOR PUBLICATION
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                   SECOND APPELLATE DISTRICT
+
+                             DIVISION SIX
+
+
+ THE PEOPLE,                               2d Crim. No. B310427
+                                         (Super. Ct. No. SM105565)
+      Plaintiff and Respondent,           (Santa Barbara County)
+
+ v.
+
+ DERECK FLOURNOY
+ OWENS, JR.,
+
+      Defendant and Appellant.
+
+
+
+       This case is a perfect illustration of a person not entitled to
+Penal Code section 1170.95 relief.1 Dereck Flournoy Owens, Jr.
+appeals from the trial court’s denial of his petition for
+resentencing following an evidentiary hearing. He contends
+there was insufficient evidence he acted with reckless
+indifference to human life when he participated in a brutal “take-
+over” robbery/murder. We affirm.
+
+
+
+
+        1   All future statutory references are to the Penal Code.
+             FACTS AND PROCEDURAL HISTORY2
+       On August 8, 1997, appellant and three other men
+committed a robbery at the Vandenberg Federal Credit Union in
+Lompoc. All four men used firearms. One of appellant’s
+accomplices, Bowen, took about $12,000 from the teller drawers
+of two tellers. Another accomplice, Adams, removed $200 from
+the hand of a third teller. Appellant, displaying a .38 caliber
+firearm, entered the office of a bank credit counselor and ordered
+her and a customer to get on the floor. When they failed to
+respond, appellant cocked his pistol and repeated his demand.
+The credit counselor and customer then complied with his
+demand.
+       Moments later, one of appellant’s accomplices, Mitchell,
+shot a man in the leg as he entered the bank. Mitchell then
+fatally shot Christine O. in the back as she attempted to run from
+the bank towards her parked car where her 11-year-old son was
+waiting. After the shootings, appellant and his accomplices ran
+out of the credit union. As they ran past Christine O.’s body on
+the sidewalk, Bowen stooped down and took her handbag. The
+four men fled. A month later appellant turned himself in to the
+police and confessed.
+
+
+
+
+      2 We granted appellant’s request for judicial notice of the
+prior appellate record, People v. Owens, B130064. (Evid. Code, §
+452, subd. (d).) We summarize these facts from our prior,
+unpublished opinion. (People v. Owens (Aug. 17, 2000, B130064)
+(Owens).)
+
+
+
+
+                                2
+                       Verdict and Sentencing
+       A jury found appellant guilty of first degree murder (§§ 187,
+subd. (a), 189), second degree commercial burglary (§ 459),
+assault with a firearm (§ 245, subd. (a)(2)), and three counts of
+robbery (§ 211). The jury also found true that appellant
+personally used a firearm as to each offense (§ 12022.5, subd. (a)).
+The jury was unable to reach a verdict on the robbery-murder
+special circumstance allegation. (§ 190.2, subd. (a)(17).) The trial
+court dismissed that allegation, and the People elected not to
+retry it. The trial court sentenced appellant to state prison for a
+total term of 48 years, 8 months to life.
+       We affirmed appellant’s judgment in an unpublished
+opinion. (Owens, supra, B130064.)
+                     Section 1170.95 Proceedings
+       In 2019, appellant filed a petition for resentencing. The
+trial court appointed counsel, issued an order to show cause,
+received briefing, and conducted an evidentiary hearing. (§
+1170.95, subds. (c), (d)(1).)
+       At the hearing, appellant conceded that he aided and
+abetted in the robbery, but argued that he was not a major
+participant who acted with reckless indifference citing People v.
+Banks (2015) 61 Cal.4th 788 (Banks), People v. Clark (2016) 63
+Cal.4th 522 (Clark), and In re Scoggins (2020) 9 Cal.5th 667
+(Scoggins).3 He also argued the relevance of his youth, age 19, at
+the time of the robbery.
+
+
+      3 The Banks, Clark, and Scoggins factors are derived from
+the United States Supreme Court’s death penalty opinions
+in Tison v. Arizona (1987) 481 U.S. 137 (Tison) and Enmund v.
+Florida (1982) 458 U.S. 782.
+
+
+
+                                 3
+       Neither party presented new evidence at the hearing. The
+prosecution and the defense relied exclusively on the record of
+conviction and the presentence probation report. Appellant did
+not object. The trial court also reviewed the surveillance video of
+the robbery, the transcript from the original trial, appellant’s
+recorded statements made to the police, the sentencing
+memorandum, and the court file.
+                           Trial Court Order
+       The trial court issued a comprehensive and well-written 20-
+page order denying relief. It could serve as a model of how a trial
+court should make a written ruling. It preliminarily addressed
+three procedural issues: (1) whether the prosecution’s burden of
+proof at the hearing was “substantial evidence” or “beyond a
+reasonable doubt” pursuant to section 1170.95, subdivision (d)(3);
+(2) whether section 1170.95 permits appellant to challenge the
+nature of his first degree felony murder conviction or whether the
+proper procedural mechanism is a writ of habeas corpus; and (3)
+whether the jury’s inability to reach a verdict on the robbery-
+murder special circumstance allegation is dispositive in the
+present context.
+       First, the trial court applied the more stringent, “beyond a
+reasonable doubt” burden of proof, which has subsequently been
+clarified as the proper burden of proof required during the
+evidentiary hearing pursuant to section 1170.95, subdivision
+(d)(3), as amended by Senate Bill No. 775 (2021-2022 Reg. Sess.).
+(Stats. 2021, ch. 551, § 2.) Second, the trial court stated it was
+persuaded by People v. York (2020) 54 Cal.App.5th 250, review
+granted Nov. 18, 2020, S264954, that section 1170.95 permits a
+petitioner to challenge the nature of his first degree felony
+murder conviction. Finally, the trial court did not find the jury’s
+
+
+
+
+                                4
+inability to reach a verdict on the robbery-murder special
+circumstance allegation at trial dispositive. It reasoned that at
+the time of appellant’s conviction, first degree felony murder did
+not require a finding of “major participation” and “reckless
+indifference.”
+       As to the merits of appellant’s petition for relief, the trial
+court discussed the factors articulated in Banks, Clark, and
+Scoggins, concluded, beyond a reasonable doubt, that appellant
+was a major participant in the robbery who acted with reckless
+indifference to human life, and denied the petition.
+               SUFFICIENCY OF THE EVIDENCE
+       Appellant contends there is insufficient evidence to support
+the trial court’s finding that he acted with reckless indifference.
+As we explain, substantial evidence supports the trial court’s
+findings.
+       Effective January 1, 2019, the Legislature enacted Senate
+Bill No. 1437 (2017-2018 Reg. Sess.) “to amend the felony murder
+rule and the natural and probable consequences doctrine . . . to
+ensure that murder liability is not imposed on a person who is
+not the actual killer, did not act with the intent to kill, or was not
+a major participant in the underlying felony who acted with
+reckless indifference to human life.” (Stats. 2018, ch. 1015, § 1,
+subd. (f).)
+       Senate Bill 1437 accomplished this task by adding three
+separate provisions to the penal code. (People v. Gentile (2020) 10
+Cal.5th 830, 842 (Gentile).) First, to amend the natural and
+probable consequences doctrine, the bill added section 188,
+subdivision (a)(3), which requires a principal to act with malice
+aforethought before a principal may be convicted of murder. (§
+188, subd. (a)(3); accord, Gentile, at pp. 842-843.) Second, to
+
+
+
+
+                                  5
+amend the felony-murder rule, the bill added section 189,
+subdivision (e), which provides: “A participant in the perpetration
+or attempted perpetration of [qualifying felonies] in which a
+death occurs is liable for murder only if one of the following is
+proven: ¶ (1) The person was the actual killer. ¶ (2) The person
+was not the actual killer, but, with the intent to kill, aided,
+abetted, counseled, commanded, induced, solicited, requested, or
+assisted the actual killer in the commission of murder in the first
+degree. ¶ (3) The person was a major participant in the
+underlying felony and acted with reckless indifference to human
+life, as described in subdivision (d) of Section 190.2.” (§ 189,
+subd. (e); accord, Gentile, at p. 842.)
+       Third, the bill also added section 1170.95 to provide a
+procedure for those convicted of a qualifying offense “to seek
+relief under the two ameliorative provisions above.” (Gentile,
+supra, 10 Cal.5th at p. 843.)
+       Section 1170.95, subdivisions (b) and (c) create a two-step
+process for evaluating a petitioner’s eligibility for relief. (People
+v. Lewis (2021) 11 Cal.5th 952, 960-962 (Lewis).) First, the trial
+court determines whether the petition is facially sufficient and
+appoints counsel, if requested. (§ 1170.95, subd. (b)(1)-(b)(3).) If
+the petition is facially sufficient, then the trial court moves on to
+subdivision (c), and follows the briefing schedule set forth in the
+statute. (§ 1170.95, subd. (c); Lewis, at p. 966.) After completion
+of this briefing, the trial court then determines whether the
+petitioner has made a prima facie showing he or she is entitled to
+relief. (Ibid.) If so, the trial court must issue an order to show
+cause and conduct an evidentiary hearing to determine whether
+the petitioner is entitled to relief. (§ 1170.95, subds. (c), (d)(1)-
+(d)(3); Lewis, at p. 960.)
+
+
+
+
+                                 6
+       At the evidentiary hearing, the trial court acts as an
+independent fact finder. The parties may rely on the record of
+conviction or offer new or additional evidence. (Lewis, supra, 11
+Cal.5th at p. 960, citing § 1170.95, subd. (d)(3).) The prosecution
+bears the “burden” to prove “beyond a reasonable doubt” that the
+petitioner is ineligible for relief. (§ 1170.95, subd. (d)(3).) “A
+finding that there is substantial evidence to support a conviction
+for murder, . . . is insufficient to prove, beyond a reasonable
+doubt, that the petitioner is ineligible for resentencing.” (Ibid., as
+amended by Stats. 2021, ch. 551, § 2.)
+                          Standard of Review
+       We review the trial court’s factual findings for substantial
+evidence. (Jackson v. Virginia (1979) 443 U.S. 307, 317-320;
+People v. Westerfield (2019) 6 Cal.5th 632, 713.) “[W]e review the
+evidence in the light most favorable to the prosecution and
+presume in support of the judgment the existence of every fact
+the [trier of fact] could reasonably have deduced from the
+evidence.” (People v. Zamudio (2008) 43 Cal.4th 327, 357.) “‘We
+resolve neither credibility issues nor evidentiary conflicts . . . .’
+[Citation.].” (Ibid.)
+                           Major Participant
+       Even though appellant concedes he was a major
+participant, we briefly address the major participant factors
+enumerated in Banks, as well as the trial court’s application of
+them to appellant’s conduct in this case because there is a
+“significant[] overlap” in the requirements for being a major
+participant in a dangerous felony and acting with reckless
+indifference to human life. (Clark, supra, 63 Cal.4th at pp. 614-
+615.) “‘[T]he greater the [appellant’s] participation in the felony
+murder, the more likely that he acted with reckless indifference
+
+
+
+
+                                  7
+to human life.’ [Citation.].” (Id. at p. 615.) Those factors include
+appellant’s role in planning the criminal enterprise; his role in
+supplying or using lethal weapons; his awareness of the dangers
+posed by the crime; his presence at the scene; his actions or
+inactions in the death; and what appellant did after lethal force
+was used. (Banks, supra, 61 Cal.4th p. 803.)
+       Here, the trial court found appellant was a major
+participant in the crimes because he was “present when
+instructions were shared, labors divided, and roles defined.” He
+entered the credit union as “one of four integral parts of the
+robbery team, [and] went to a specific location within the credit
+union per a preconceived plan.” Although he did not supply the
+weapons used during the robbery, he “personally used a gun to
+control” the customers and employees inside the credit union in
+order to facilitate the robbery. He saw the events, heard the
+shots, and ran from the bank, passing the victim’s body as she lay
+on the sidewalk.
+       The trial court found appellant’s actions demonstrated that
+he knew of the “dangers inherent in this particular crime,” and
+“directly contributed to and enhanced the danger” by “attempting
+to control at least two victims inside the credit union.” The trial
+court found that appellant was a major participant.
+                 Reckless Indifference to Human Life
+       “Reckless indifference to human life is ‘implicit in
+knowingly engaging in criminal activities known to carry a grave
+risk of death.’” (Scoggins, supra, 9 Cal.5th at p. 676, quoting
+Tison, supra, 481 U.S. at p. 157.) Reckless indifference
+“encompasses a willingness to kill (or to assist another in killing)
+to achieve a distinct aim, even if the [appellant] does not
+
+
+
+
+                                 8
+specifically desire that death as the outcome of his actions.”
+(Clark, supra, 63 Cal.4th at p. 617.)
+       In reviewing the trial court’s findings, we analyze the
+totality of the circumstances. (Scoggins, supra, 9 Cal.5th at p.
+677.) We consider several factors such as, appellant’s knowledge
+that weapons would be used; how the weapons were used; the
+number of weapons used; his proximity to the crime; his
+opportunity to stop the killing or aid the victims; the duration of
+the crime; appellant’s knowledge of the killer’s (accomplice’s)
+propensity to kill; and appellant’s efforts to minimize the
+possibility of violence during the crime. (Ibid.; Clark, supra, 63
+Cal.4th at pp. 618-623.) “‘[N]o one of these considerations is
+necessary, nor is any one of them necessarily sufficient.’” (Clark,
+at p. 618, quoting Banks, supra, 61 Cal.4th at p. 803.)
+       First, appellant acknowledged in his confession to police
+that he and the other three men had firearms. One of appellant’s
+accomplices, Adams, used a shotgun. Appellant also knew that
+his firearm was loaded. As we stated in our prior opinion,
+“appellant concedes that his accomplice, Mitchell, shot and killed
+[Christine O.] while appellant was personally using a gun to
+control those inside the credit union and the other two
+accomplices were robbing the tellers at gun point.” (Owens,
+supra, B130064 at pp. 6-7.)
+       This case is unlike Scoggins and Clark in which the
+defendants were unarmed, not present at the scene, did not know
+their accomplices were armed or, as in Clark, did not know the
+accomplice was carrying a loaded gun. (See Scoggins, supra, 9
+Cal.5th at pp. 677-678; Clark, supra, 63 Cal.4th at p. 613.) This
+undercuts appellant’s claim that the evidence is insufficient to
+support the trial court’s finding of reckless indifference.
+
+
+
+
+                                 9
+       Second, the plan to commit the robbery of the credit union
+during normal business hours when customers would likely be
+present, posed obvious and extreme risks of lethal violence. We
+recognize that our Supreme Court has emphasized that the
+planning of or participation in a felony, even one in which the
+perpetrators were armed, is not by itself sufficient to show
+reckless indifference. (Scoggins, supra, 9 Cal.5th at p. 682;
+Clark, supra, 63 Cal.4th at pp. 613-623.) However, the degree of
+risk to human life is crucial to the analysis. (Scoggins, at p. 682.)
+       This robbery posed a particularly high risk of violence
+because it involved multiple robbers with loaded firearms taking
+over a bank during normal business hours when approximately
+20 people were present. While the robbery was not prolonged,
+the violence ensued quickly. The trial court found, “this risk –
+and danger – was the very reason [appellant] was asked to be a
+fourth gunman in the first place.”
+       Appellant contends that he was just the “low man on the
+totem pole” and could not have known Mitchell would become
+violent or harm anyone. But even if appellant did not know of
+Mitchell’s proclivity for violence before the robbery, it is
+reasonable the trial court could have inferred that knowledge
+became evident to appellant during the robbery. (See Clark,
+supra, 63 Cal.4th at p. 621; Scoggins, supra, 9 Cal.5th at p. 681.)
+Moreover, appellant’s own actions increased the degree of risk to
+human life when he pointed a gun at two victims and cocked his
+weapon when they did not immediately comply with his orders.
+       Considering the totality of the circumstances, we conclude
+that substantial evidence supports the trial court’s finding that
+appellant acted with reckless indifference to human life.
+
+
+
+
+                                 10
+       Appellant resists this conclusion with several
+unmeritorious arguments. First, the trial court did not wrongly
+conclude that he acted with reckless indifference because it
+“blended [the] facts pertaining to major participation [and]
+reckless indifference.”
+       Second, appellant contends the trial court’s finding that he
+participated in “more than an ordinary robbery is a matter of
+characterization rather than objective indicia of culpability.”
+(Bold and capitalization omitted.) We disagree. The trial court
+engaged in a fact-intensive, individualized inquiry to determine
+appellant’s culpability. (See Scoggins, supra, 9 Cal.5th at p. 683.)
+       This was not a “‘garden-variety armed robbery.’” (See
+Clark, supra, 63 Cal.4th at p. 617 & fn. 74.) Indeed, the trial
+court opined that the crime “was so outrageous,” it would only
+support a determination that appellant acted with reckless
+indifference.
+       Third, the standard for reckless indifference to human life
+has both a subjective and an objective element. (Scoggins, supra,
+9 Cal.5th at p. 677, citing Clark, supra, 63 Cal.4th at p. 617.)
+Recklessness is not determined “merely by reference to a
+defendant’s subjective feeling that he . . . is engaging in risky
+activities. Rather, recklessness is also determined by an
+objective standard, namely what ‘a law-abiding person would
+observe in the actor’s situation.’” (Clark, at p. 617.)
+       Here, the trial court was not limited to considering only
+appellant’s self-serving statements to determine his mental state,
+particularly when those statements were made to police when
+appellant had an incentive to minimize his involvement. Because
+intent can seldom be proven by direct evidence, it typically is
+inferred from the circumstances. (People v. Smith (1998) 64
+
+
+
+
+                                11
+Cal.App.4th 1458, 1469; People v. Edwards (1992) 8 Cal.App.4th
+1092, 1099.) The trial court properly considered all of the
+evidence in determining appellant acted with reckless
+indifference.
+        Fourth, appellant contends that although the trial court
+applied the beyond a reasonable doubt standard at the hearing, it
+“effectively revived” the substantial evidence standard by citing
+to cases that applied the Banks/Clark factors in the context of
+habeas corpus proceedings. This contention is meritless because
+the trial court addressed those cases in the context of discussing
+the Banks/Clark factors. More importantly, the trial court
+specifically addressed those cases and distinguished them
+because appellant cited them for support.
+       Finally, the trial court did consider appellant’s youth as a
+factor in its Banks/Clark/Scoggins analysis. The trial court
+expressly stated it had “factored into the calculus” appellant’s age
+of 19 years old when the crimes were committed.
+       Substantial evidence supports the trial court’s finding,
+beyond a reasonable doubt, that appellant was a major
+participant who acted with reckless indifference to human life.
+The trial court properly denied appellant’s petition for
+resentencing.
+                          Senate Bill No. 775
+       After appellant’s section 1170.95 full evidentiary hearing,
+the Legislature modified section 1170.95 both substantively and
+procedurally by the passage of Senate Bill No. 775 (S.B. 775). As
+it may have application to this case, section 1170.95 subd. (d)(3)
+now says that the Evidence Code shall apply at such hearing.
+This may mean that, absent some exception, hearsay contained
+in probation, pre-sentence reports, appellate opinions/orders, and
+
+
+
+
+                                12
+other documents, are not now admissible at a section 1170.95
+hearing. There is no statement in S.B. 775 indicating that the
+procedural change is to be applied retroactively on appeal. The
+preclusion of hearsay is an ordinary rule of evidence. This aspect
+of the new law is a procedural change. Changes in criminal
+procedural rules, as declared by the courts, generally speaking,
+are not applied retroactively. (See, e.g., In re Moore (2005) 133
+Cal.App.4th 68, 75, relying on Teague v. Lane (1989) 489 U.S.
+288, 301; Schriro v. Summerlin (2004) 542 U.S. 348.) The same
+is true for California statutory changes in criminal procedural
+rules. As the Legislature has said, since 1872, “No part of it [the
+Penal code] is retroactive, unless expressly so declared.” (§ 3;
+People v. Alford (2007) 42 Cal.4th 749, 753; see also Tapia v.
+Superior Court (1991) 53 Cal.3d 282 [procedural change in
+criminal rules by initiative not retroactive].)
+       The word, “retroactivity” and the name “Estrada” (In re
+Estrada (1965) 63 Cal.2d 740) have become the appellate words
+“du jour.” But neither is a talisman precluding independent
+analysis and in whose presence extant statutory and other
+decisional law fade away and disappear. (See Coolidge v. New
+Hampshire (1971) 403 U. S. 443, 461.) We need not definitively
+rule on the retroactivity issue because denial of the instant
+petition did not result from the consideration of prejudicial
+hearsay. As Justice Frankfurter has said: “Wise adjudication
+has its own time for ripening.” (See Maryland v. Baltimore Radio
+Show (1950) U.S. 912, 918.)
+        Senate Bill No. 775 does not have any impact on the
+outcome of this appeal. First, there was no objection to the pre-
+sentence report which contained hearsay. There is a good reason
+why. Appellant’s attorney wanted the trial court to consider the
+
+
+
+
+                                13
+hearsay statements. There was no evidentiary “bomb shell”
+crucial to the People’s case in the report. To the contrary, the
+hearsay was favorable to him. The hearsay statements show that
+appellant was not recruited to participate in the planned robbery
+until 90 minutes before it happened. He was only invited to
+participate at the last minute because the fourth conspirator was
+a “no show.” This, of course, theoretically diminishes his over-all
+culpability. He had no part in planning or logistics. In his
+hearsay explanation, he attempted to minimize his involvement.
+He was asked to aid the robbery as just a “helper” and supplied a
+firearm to control the people in the bank. As he phrases it on
+appeal, he was “low man on the totem pole.”
+       Second, there is nothing unfavorable to appellant in any
+hearsay documents that the trial court did not already know from
+the other admissible evidence. Thus, appellant suffered no
+prejudice by the court’s consideration of any hearsay evidence.
+Admission of this evidence did not result in an unfairness. There
+is no miscarriage of justice and we are not of the opinion that a
+different result would obtain upon retrial of the petition. (Cal.
+Const., art. VI, § 13.)
+                           DISPOSITION
+       The order is affirmed.
+       CERTIFIED FOR PUBLICATION.
+
+
+
+                                     YEGAN, acting P. J.
+
+I concur:
+
+            PERREN, J.
+
+
+
+
+                                14
+TANGEMAN, J., Concurring:
+      I concur in the disposition because the admissible evidence
+demonstrates that appellant was a major participant who acted
+with reckless indifference to human life. I do not join in the
+majority’s analysis of whether the hearsay provisions of Senate
+Bill No. 775 (2021-2022 Reg. Sess.) (Stats. 2021, ch. 551, § 2)
+(Senate Bill 775) are retroactive. The majority’s pronouncements
+on this issue are dicta because the appellant did not raise Senate
+Bill 775. This court sent a Government Code section 68081 letter
+asking whether it should discuss Senate Bill 775. Appellant
+responded in supplemental briefing that he does not claim Senate
+Bill 775 applies in this case. As the majority recognizes, Senate
+Bill 775 has no impact on the outcome of the appeal.
+      In any event, it is unresolved whether the evidentiary
+provisions of Senate Bill 775 apply in an appeal from a completed
+resentencing hearing. Because the evidentiary portions of Senate
+Bill 775 “clarify[] the discussion” in People v. Lewis (2021) 11
+Cal.5th 952, 970-972 (Sen. Bill No. 775, § 1(d)), they may come
+within the rule that legislative clarification of existing law
+applies to conduct that precedes its enactment. (Carter v.
+California Dept. of Veterans Affairs (2006) 38 Cal.4th 914, 922.)
+In addition, cases have reached different conclusions on the
+retroactivity of so-called procedural changes. (Compare People v.
+Cervantes (2020) 55 Cal.App.5th 927 [limitations on admission of
+evidence not retroactive] with People v. Burgos (2022) 77
+Cal.App.5th 550, 564-568 [procedural change in bifurcating trial
+of enhancement retroactive] and Tapia v. Superior Court (1991)
+53 Cal.3d 282 [portions of Prop. 115 including admission of
+
+
+
+
+                                1
+hearsay at preliminary hearing, apply to future court proceedings
+for alleged crimes committed prior to enactment].)1
+       The majority’s hostility to the requirements of In re
+Estrada (1965) 63 Cal.2d 740 is evident from its use of the phrase
+“appellate words ‘du jour’” to describe “retroactivity” and
+“Estrada.” (Maj. opn. ante, at p. 13.) The only purpose served by
+the majority’s dicta is to discourage trial courts from considering
+this unresolved issue in the first instance, and litigants from
+raising and briefing the issue on appeal from a record that
+presents it. I would reserve analysis of the retroactivity of
+Senate Bill 775 for a case that squarely presents the issue.
+       CERTIFIED FOR PUBLICATION.
+
+
+
+
+                                     TANGEMAN, J.
+
+
+
+
+      1The majority misapprehends Tapia, supra, 53 Cal.3d 282.
+Tapia held that the provisions of Proposition 115 that increased
+punishment or created new crimes could not be applied to
+completed conduct because the effect would be “retroactive.” In
+that context, the Court concluded the provisions that related to
+the conduct of court proceedings, such as allowing hearsay at
+preliminary hearings, were not “retroactive,” and were properly
+prospectively applied to future court proceedings, even for alleged
+crimes committed before the proposition’s enactment.
+
+
+
+
+                                 2
+                   James K. Voysey, Judge
+           Superior Court County of Santa Barbara
+              ______________________________
+
+     Ralph H. Goldsen, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Senior
+Assistant Attorney General, Noah P. Hill, Supervising Deputy
+Attorney General, Thomas C. Hsieh, Deputy Attorney General,
+for Plaintiff and Respondent.

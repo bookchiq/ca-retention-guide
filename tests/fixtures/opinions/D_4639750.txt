@@ -1,0 +1,160 @@
+cl_opinion_id: 4639750
+cluster: 4835971
+docket: D076747
+date: 2020-12-04
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Richardson CA4/1
+----
+Filed 12/4/20 P. v. Richardson CA4/1
+See dissenting opinion
+                   NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or
+ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+                 COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+                                                       DIVISION ONE
+
+                                              STATE OF CALIFORNIA
+
+
+
+ THE PEOPLE,                                                                  D076747
+
+            Plaintiff and Respondent,
+
+            v.                                                                (Super. Ct. No. FSB048987)
+
+ DARWIN LAMONT RICHARDSON,
+
+            Defendant and Appellant.
+
+
+          APPEAL from an order of the Superior Court of San Bernardino,
+Brian S. McCarville, Judge. Reversed.
+          Patricia J. Ulibarri, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+          Jason Anderson, District Attorney, and James R. Secord, Deputy
+District Attorney, for Plaintiff and Respondent.
+
+
+          In 2008, a jury convicted defendant Darwin Richardson of two counts of
+
+first degree murder (Pen. Code, § 187, subd. (a))1 and two counts of robbery
+
+
+1         All statutory references are to the Penal Code unless otherwise noted.
+(§ 211), found that a principal was armed with a handgun during the
+commission of the crimes (§ 12022, subd. (a)(1)), and returned felony-murder
+and multiple-murder special circumstance findings (§ 190.2, subd. (a)(3),
+(17)(A)). (People v. White (Sept. 16, 2011, D059000, D059032) [nonpub.
+opn.].) Richardson was sentenced to two consecutive life terms without the
+possibility of parole on the felony murder counts, one year for a firearm
+enhancement on one of the murder counts, and four years on the robbery
+counts to be served consecutively to the murder terms. (Ibid.) On appeal,
+this court reversed the multiple-murder special circumstance finding and
+modified the judgment to stay execution of the sentences for the robbery
+
+counts, but in all other respects affirmed the judgment.2 (Ibid.)
+      In 2018, the Legislature enacted Senate Bill No. 1437 (2017–2018 Reg.
+Sess.), effective January 1, 2019, “to amend the felony murder rule and the
+natural and probable consequences doctrine, as it relates to murder, to
+ensure that murder liability is not imposed on a person who is not the actual
+killer, did not act with the intent to kill, or was not a major participant in the
+underlying felony who acted with reckless indifference to human life.” (Stats.
+2018, ch. 1015, § 1, subd. (f).) Senate Bill No. 1437 amended sections 188 and
+189, the statutory provisions pertaining to malice and the degrees of murder,
+respectively. (Id., §§ 2–3.) It also added section 1170.95, which permits
+persons with murder convictions to petition their sentencing courts to vacate
+their murder convictions and to be resentenced on any remaining counts if,
+among other conditions, they could not be convicted of murder now based on
+the amendments to sections 188 and 189. (Id., § 4.)
+
+
+
+2    We grant the People’s request for judicial notice of our opinion in
+Richardson’s direct appeal. (Evid. Code, § 452, subd. (d); see People v.
+Woodell (1998) 17 Cal.4th 448, 458.)
+                                        2
+      In 2019, Richardson filed a petition to vacate his murder convictions
+and to be resentenced under section 1170.95. The People moved to strike
+Richardson’s resentencing petition. They argued Senate Bill No. 1437
+unconstitutionally amends Proposition 7 (Prop. 7, as approved by voters, Gen.
+Elec. (Nov. 7, 1978)) and Proposition 115 (Prop. 115, as approved by voters,
+Primary Elec. (June 5, 1990)) without voter approval, violates the separation
+of powers doctrine, and contravenes Marsy’s Law (Prop. 9, as approved by
+voters, Gen. Elec. (Nov. 4, 2008)). The trial court granted the motion to
+strike, finding that Senate Bill No. 1437 amends “the initiative” (presumably
+referring to Proposition 7 or Proposition 115, or perhaps both measures).
+Richardson appeals the order striking his resentencing petition.
+      In a pair of companion opinions issued shortly after the trial court
+struck Richardson’s resentencing petition, a divided panel of this court
+rejected the People’s arguments and concluded that Senate Bill No. 1437 is
+constitutional. (People v. Lamoureux (2019) 42 Cal.App.5th 241 (Lamoureux);
+People v. Superior Court (Gooden) (2019) 42 Cal.App.5th 270 (Gooden).)
+Since then, several other Courts of Appeal have followed suit. (People v.
+Lombardo (2020) 54 Cal.App.5th 553; People v. Murillo (2020) 54 Cal.App.5th
+160; People v. Lippert (2020) 53 Cal.App.5th 304; People v. Nash (2020) 52
+Cal.App.5th 1041; People v. Superior Court of Butte County (2020) 51
+Cal.App.5th 896; People v. Lopez (2020) 51 Cal.App.5th 589; People v. Alaybue
+(2020) 51 Cal.App.5th 207; People v. Johns (2020) 50 Cal.App.5th 46; People
+v. Prado (2020) 49 Cal.App.5th 480; People v. Smith (2020) 49 Cal.App.5th
+85, review granted July 22, 2020, S262835; People v. Bucio (2020) 48
+Cal.App.5th 300; People v. Solis (2020) 46 Cal.App.5th 762; People v. Cruz
+(2020) 46 Cal.App.5th 740; but see Lippert, at p. 314 (dis. opn. of Ramirez, J.);
+Nash, at p. 1084 (con. & dis. opn. of Poochigian, J.).)
+
+
+                                        3
+      We need not rehash the bases for our Gooden and Lamoureux decisions.
+Rather, we incorporate by reference our analyses from those decisions and
+conclude, for the reasons expressed therein, that Senate Bill No. 1437 is
+
+constitutional.3 Because the trial court ordered the resentencing petition
+stricken based solely on the constitutionality of Senate Bill No. 1437, the
+order striking the resentencing petition must be reversed.
+                                DISPOSITION
+      The order is reversed.
+
+
+
+
+                                                             McCONNELL, P. J.
+
+I CONCUR:
+
+
+
+
+AARON, J.
+
+
+
+
+3      The People requested judicial notice of a legislative document
+pertaining to a proposed bill that would have amended section 189, but was
+never enacted into law. We deny the request as irrelevant to the disposition
+of the appeal.
+                                       4
+O’Rourke, J., dissenting.
+
+
+      I respectfully dissent on the grounds previously expressed in People v.
+Lamoureux (2019) 42 Cal.App.5th 241 and People v. Superior Court (Gooden)
+(2019) 42 Cal.App.5th 270. For the reasons stated, I would affirm the trial
+court’s order denying Richardson’s resentencing petition brought under Penal
+Code section 1170.95.
+
+
+
+
+                                                               O'ROURKE, J.
+
+
+
+
+                                      1

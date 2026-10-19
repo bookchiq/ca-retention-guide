@@ -1,0 +1,495 @@
+cl_opinion_id: 10585515
+cluster: 10118914
+docket: B333875
+date: 2024-09-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Moreno CA2/1
+----
+Filed 9/16/24 P. v. Moreno CA2/1
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION ONE
+
+
+ THE PEOPLE,                                                    B333875
+
+           Plaintiff and Respondent,                            (Los Angeles County
+                                                                Super. Ct. No. LA039438)
+           v.
+
+ EDDIE FERNANDO MORENO,
+
+           Defendant and Appellant.
+
+
+
+
+      APPEAL from an order of the Superior Court of Los
+Angeles County, Gregory A. Dohi, Judge. Affirmed.
+      James Koester, under appointment by the Court of Appeal,
+for Defendant and Appellant.
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Assistant
+Attorney General, Jason Tran and Kristen J. Inberg, Deputy
+Attorneys General, for Plaintiff and Respondent.
+                     ______________________
+      This appeal requires that we opine on the interplay
+between Penal Code1 sections 1170.126 and 1172.75, an issue
+currently pending before our Supreme Court. Section 1170.126
+was enacted when voters passed Proposition 36, also known as
+the Three Strikes Reform Act of 2012 (Reform Act). Proposition
+36 amended the Three Strikes law to provide that going forward
+a defendant with two or more prior serious or violent felony
+convictions, whose current conviction was for a nonserious or
+nonviolent felony, would no longer receive a life sentence unless
+the prosecution pleaded and proved certain aggravating factors.
+(§§ 667, subd. (e)(2)(C), 1170.12, subd. (c)(2)(C).) Section
+1170.126 sets forth a procedure for persons serving a life term
+pursuant to the Three Strikes law that was imposed prior to the
+Reform Act’s effective date to petition for resentencing if their
+third conviction was for a nonserious and nonviolent felony.
+(§ 1170.126, subd. (b).) Upon such a petition, the trial court must
+reduce such a third strike sentence to double the term for the
+current offense “unless the court, in its discretion, determines
+that resentencing the petitioner would pose an unreasonable risk
+of danger to public safety.” (Id., subd. (f).)
+      Section 1172.75, subdivision (a) provides that most prior
+prison term enhancements (former § 667.5, subd. (b)) imposed
+before January 1, 2020, are invalid. Subdivision (c) of section
+1172.75 states that if a current judgment includes an invalid
+prior prison term enhancement, the court must recall the
+sentence and resentence the defendant. Section 1172.75,
+subdivision (d)(2) requires that, in addition to removing the prior
+prison enhancements, at resentencing the court must “apply any
+
+
+      1 All unspecified statutory references are to the Penal Code.
+
+
+
+
+                                 2
+other changes in law that reduce sentences or provide for judicial
+discretion so as to eliminate disparity of sentences and to
+promote uniformity of sentencing.” The resentencing must result
+in a lesser sentence than was originally imposed “unless the court
+finds by clear and convincing evidence that imposing a lesser
+sentence would endanger public safety.” (Id., subd. (d)(1).)
+        A question has arisen over whether section 1170.126
+provides the exclusive method to reduce a third strike component
+of any pre-Reform Act sentence, or whether a court resentencing
+pursuant to section 1172.75 must reduce a pre-Reform Act third
+strike sentence for a nonserious and nonviolent felony unless the
+prosecution pleads and proves disqualifying factors to support the
+existing sentence. Every single Court of Appeal to consider this
+question has held that the resentencing provisions of section
+1170.126 provide the exclusive mechanism for reducing a third
+strike sentence for a nonserious and nonviolent felony, and that
+“applying the revised penalty provisions of the . . . Reform Act to
+reduce a defendant’s indeterminate life term to a determinate
+term when the defendant is being resentenced under section
+1172.75 due to an invalid prior prison term enhancement
+unconstitutionally amends the resentencing procedure and
+requirements set forth in section 1170.126 of the voter-approved
+. . . Reform Act.” (People v. Superior Court (Williams) (2024) 102
+Cal.App.5th 1242, 1250, review granted Aug. 28, 2024, S286128;
+accord, People v. Santos 2024) 100 Cal.App.5th 666, review
+granted May 29, 2024, S284341; People v. Kimble (2024) 99
+Cal.App.5th 746, review granted Apr. 24, 2024, S284259; People
+v. Superior Court (Guevara) (2023) 97 Cal.App.5th 978, review
+granted Mar. 12, 2024, S283305.)
+
+
+
+
+                                3
+      Defendant Eddie Fernando Moreno and the Attorney
+General both urge us to adopt the view of the lone justice that
+has dissented from this view. (People v. Superior Court
+(Guevara), supra, 97 Cal.App.5th at pp. 988-995 (dis. opn. of
+Baltodano, J.).) We decline to do so for the reasons explained
+below.
+      FACTUAL AND PROCEDURAL BACKGROUND
+       In November 2001, while Elena Hiller was packing her
+belongings into her truck, Moreno approached her with a knife
+and demanded she hand over her wallet to him. When Hiller told
+him she only had one dollar, Moreno demanded the keys to her
+truck, made her get into the vehicle with him, and drove away
+with her in the truck. After driving a few blocks, Moreno took
+Hiller’s wallet, forced her out of the truck, and drove away.
+About a week later, officers observed Moreno driving the truck.
+They tried to initiate a traffic stop but Moreno sped away and
+evaded the pursuing police vehicle for five or six miles before the
+chase ended. When Moreno was arrested police found a knife and
+cocaine on his person.
+       In 2003, a jury convicted Moreno of carjacking (§ 215, subd.
+(a); count 1), robbery (§ 211; count 2), unlawful driving or taking
+of a vehicle (Veh. Code, § 10851, subd. (a); count 3), evading an
+officer (id., § 2800.2, subd. (a); count 4), and possession of a
+controlled substance (Health & Saf. Code, § 11350, subd. (a);
+count 5). As to counts 1 and 2, the jury also found that Moreno
+used a knife (§ 12022, subd. (b)(1)-(2)).
+       The trial court found true the allegations that Moreno had
+suffered two prior serious or violent felony juvenile adjudications
+for robbery with the use of a firearm and robbery with the use of
+a deadly weapon which both qualified as strikes within the
+
+
+
+
+                                 4
+meaning of the Three Strikes law (§§ 667, subds. (b)-(i), 1170.12,
+subds. (a)-(d)), and that he had served three prior prison terms
+(§ 667.5, subd. (b)). The court sentenced Moreno to an aggregate
+prison term of 80 years to life, composed of third-strike terms of
+26 years to life on count 1, 26 years to life on count 2, and 25
+years to life on count 4, as well as three years for the three prior
+prison term enhancements.2
+      In March 2014, Moreno timely petitioned for relief under
+section 1170.126. The court denied the petition, finding that
+Moreno was ineligible for relief. The court construed language in
+section 1170.126 which states that “[a]n inmate is eligible for
+resentencing if: [¶] . . . [¶] . . . [t]he inmate’s current sentence was
+not imposed for any of the offenses” included in the list of violent
+and serious felonies (id., subd. (d)(2), italics added) to mean that
+Moreno was eligible for relief only if all his current commitment
+offenses were nonserious and nonviolent. Because Moreno’s
+current counts of conviction included serious and violent felonies,
+the court found him ineligible for relief. The record does not
+indicate Moreno sought review of this determination.
+      In 2015, our Supreme Court rejected the notion that section
+1170.126, subdivision (d)(2) disqualifies an inmate from
+resentencing relief under the Reform Act unless all of the
+prisoner’s current commitment offenses are nonserious and
+nonviolent. (People v. Johnson (2015) 61 Cal.4th 674, 688-695.)
+After acknowledging the statute’s ambiguity, the court held
+“resentencing is allowed with respect to a count that is neither
+serious nor violent, despite the presence of another count that is
+
+
+      2 Moreno received a stayed term of 25 years to life on
+count 3 and a concurrent term of 25 years to life on count 5.
+
+
+
+
+                                   5
+serious or violent.” (Id. at p. 695.) The record does not indicate
+that Moreno sought to challenge the trial court’s prior ruling
+regarding his eligibility for resentencing under section 1170.126
+after the Supreme Court decided Johnson.
+       In 2022, Moreno moved for resentencing under section
+1172.75 following a referral by the Department of Corrections
+and Rehabilitation recommending the court recall his sentence.
+Moreno requested dismissal of the three one-year prior prison
+term enhancements imposed as part of his sentence, reduction of
+count 5 to a misdemeanor pursuant to Proposition 47, and
+dismissal of one or more of his prior strikes pursuant to section
+1385. He also requested “a full resentencing” where he would
+receive the benefit of any other ameliorative sentencing
+provisions enacted after his prior sentence became final. Nothing
+in the record indicates, however, that he requested that the court
+resentence him in accord with the Reform Act; as noted above, his
+only requests with regard to his third strike sentences were the
+Romero3 motion to strike one of his prior strikes and his request
+to stay the sentence on count 2 so that it did not run
+consecutively.
+       The trial court recalled Moreno’s sentence and, on
+August 28, 2023, resentenced him. The court struck the three
+one-year prior prison term enhancements, reduced count 5 to a
+misdemeanor, and stayed the sentence on count 2 pursuant to
+section 654. The court denied Moreno’s Romero motion to dismiss
+his prior strikes pursuant to section 1385. The court effectively
+left the remainder of Moreno’s sentence in place, imposing a new
+sentence of 51 years to life.
+
+
+      3 People v. Superior Court (Romero) (1996) 13 Cal.4th 497.
+
+
+
+
+                                6
+                           DISCUSSION
+       Moreno does not contend the trial court erred in
+resentencing him to 26 years to life on count 1, as carjacking is
+both a serious (§ 667.5, subd. (c)(17)) and violent (§ 1192.7, subd.
+(c)(27)) felony and therefore not subject to the Reform Act
+provisions regarding nonserious, nonviolent third strike
+convictions. Moreno instead argues, and the Attorney General
+agrees, that the trial court erred in failing to reduce Moreno’s
+sentence for evading an officer (count 4), which is not a serious or
+violent felony, to a second-strike determinate term. In the
+parties’ view, current law states that a defendant with two or
+more prior serious or violent felony convictions cannot receive a
+life sentence for a current felony conviction that is a nonserious
+or nonviolent felony unless the prosecution pleads and proves
+certain disqualifying factors. (§§ 667, subd. (e)(2)(C), 1170.12,
+subd. (c)(2)(C).) Because the prosecution did plead or prove such
+factors here, the parties argue we should remand this matter for
+Moreno to be resentenced on count 4.4
+      We are not bound by the Attorney General’s concession,
+and thus independently analyze this issue. (People v. Kimble,
+
+
+      4 Although Moreno’s resentencing counsel did not
+specifically argue section 1170.126 applied to him, Moreno has
+not waived the issue. An unauthorized sentence, meaning one
+that “cannot ‘lawfully be imposed under any circumstance in the
+particular case’ [citation], . . . is reviewable ‘regardless of whether
+an objection or argument was raised in the trial and/or reviewing
+court.’ [Citations.] An obvious legal error at sentencing that is
+‘correctable without referring to factual findings in the record or
+remanding for further findings’ is not subject to forfeiture.
+[Citations.]” (In re Sheena K. (2007) 40 Cal.4th 875, 887.)
+
+
+
+
+                                   7
+supra, 99 Cal.App.5th at p. 749 [“As a general rule, we are not
+bound by concessions made by the People in a criminal case.
+[Citation.] And here, we are not inclined to give the Attorney
+General’s concession significant deference, as the issue before us
+turns on a question of statutory interpretation.”].) We agree with
+the opinions to date that have analyzed this issue, all of which
+have rejected the position advocated by Moreno and the Attorney
+General.
+       In a nutshell, the parties’ “view of section 1172.75,
+subdivision (d)(2), automatically mandates the trial court to
+reduce [Moreno’s] indeterminate life term imposed [on count 4]
+under the Three Strikes law to a determinate term . . . . Under
+this view, section 1172.75, subdivision (d)(2), renders void for
+those lucky enough to have had a prior prison term enhancement
+the provisions of section 1170.126, requiring the filing of a
+petition, the deadline for filing the petition, and the trial court’s
+discretion to deny the petition on the ground of an unreasonable
+risk to public safety.” (People v. Superior Court (Guevara), supra,
+97 Cal.App.5th at p. 984.) We have several problems with this
+position, all of which prior courts have noted.
+       For starters, such a construction of section 1172.75 would
+unconstitutionally amend section 1170.126. The Reform Act
+“allows the Legislature to amend it by statute only if the statute
+passes each house of the Legislature by a vote of two-thirds of the
+membership. (Prop. 36, § 11, subd. (b).) Senate Bill No. 483
+(2021-2022 Reg. Sess.), codified as section 1172.75, did not pass
+the senate with a two-thirds vote. [Citation.]” (People v.
+Superior Court (Guevara), supra, 97 Cal.App.5th at p. 985.) The
+parties’ interpretation of section 1172.75 would
+unconstitutionally amend section 1170.126 in multiple ways.
+
+
+
+
+                                  8
+       First, it would eliminate the requirement that a
+resentencing petition for a pre-Reform Act Three Strikes sentence
+be filed within two years of the effective date of the Reform Act
+(in other words, no later than November 2014), and only later
+upon a showing of good cause. (People v. Superior Court
+(Williams), supra, 102 Cal.App.5th at p. 1267.)
+       Second, it improperly expands the scope of retroactivity
+contemplated by the Reform Act and conflicts with our Supreme
+Court’s guidance in People v. Conley (2016) 63 Cal.4th 646.
+(People v. Kimble, supra, 99 Cal.App.5th at pp. 753-755.) In
+Conley, the “Supreme Court decided ‘whether third strike
+defendants who were sentenced under the Three Strikes law
+before November 7, 2012, but whose judgments were not yet final
+as of that date, are entitled to automatic resentencing under the
+revised penalty provisions of the Reform Act.’ [Citation.] The
+court concluded they were not and ‘instead may seek
+resentencing by petitioning for recall of sentence under section
+1170.126.’ [Citation.]” (People v. Santos, supra, 100 Cal.App.5th
+at p. 674.) “Thus, we are bound by Conley to conclude that, as to
+[Moreno], even during a full resentencing, the Reform Act cannot
+be applied retroactively to entitle him to automatic resentencing
+outside of section 1170.126.” (Id. at p. 675; see also People v.
+Superior Court (Williams), supra, 102 Cal.App.5th at pp. 1262-
+12645; People v. Kimble, supra, 99 Cal.App.5th at p. 758.) Put
+
+
+     5 Although she agreed the application of section 1172.75
+urged by the parties here would constitute an impermissible
+amendment to the Reform Act, Justice Mary J. Greenwood
+dissented from the majority’s retroactivity analysis and would
+have read section 1172.75 to allow defendants a renewed
+opportunity to petition for relief under section 1170.126 in
+
+
+
+
+                                9
+differently, with regard to any third strike component of his
+sentence, Moreno had to file a petition to recall that sentence and
+request resentencing under section 1170.126. (People v. Conley,
+supra, 63 Cal.4th at pp. 657-659.)
+       Third, the parties’ interpretation would unconstitutionally
+amend the trial court’s discretion not to reduce a third strike
+sentence if “resentencing the petitioner would pose an
+unreasonable risk of danger to public safety.” (§ 1170.126, subd.
+(f).) Moreno points out that in most of the prior published cases,
+the Three Strikes defendants being resentenced under section
+1172.75 had previously been denied relief under section 1170.126
+based on findings that they posed a danger to society. (People v.
+Superior Court (Williams), supra, 102 Cal.App.5th at p. 1249;
+People v. Kimble, supra, 99 Cal.App.5th at p. 750; People v.
+Superior Court (Guevara), supra, 97 Cal.App.5th at p. 982; but
+see People v. Santos, supra, 100 Cal.App.5th 666 [no indication
+that the defendant previously petitioned for relief under
+§ 1170.126].) Moreno asserts the court’s failure to make a finding
+of dangerousness when ruling on his prior section 1170.126
+petition means the question of whether section 1172.75
+unconstitutionally amends the court’s discretionary authority
+
+
+
+
+connection with a resentencing request under section 1172.75.
+(People v. Superior Court (Williams), supra, 102 Cal.App.5th at
+pp. 1268-1274 (conc. & dis. opn. of Greenwood, J.). Here,
+Moreno’s prior section 1170.126 petition was denied on
+procedural grounds later disapproved by our Supreme Court, and
+nothing we say here prohibits him from filing a second section
+1170.126 petition provided that he can show good cause for his
+delay in doing so. (See § 1170.126, subd. (b).)
+
+
+
+
+                                10
+under section 1170.126 to deny relief where resentencing would
+pose an unreasonable risk of public danger is not ripe as to him.
+       We disagree. Section 1170.126 permits a court to deny
+resentencing if it finds by a preponderance of the evidence that
+doing so would pose a danger to the public. (Id., subd. (f).)
+Section 1172.75, however, ratchets up that burden up to the
+higher one of clear and convincing evidence. (Id., subd. (d)(1).)
+This is not an insignificant change and, more to the point,
+amounts an unconstitutional end run around the requirement of
+a two-thirds vote in the Legislature to amend section 1170.126.
+(See People v. Superior Court (Guevara), supra, 97 Cal.App.5th at
+p. 985.)
+       It would also materially alter without the required two-
+thirds vote the express factors in section 1170.126, subdivision (g)
+governing a court’s discretion in determining whether the
+petitioner poses a risk to public safety. Both sections 1170.126
+and 1172.75 permit the court to consider the defendant’s
+disciplinary record and record of rehabilitation while
+incarcerated. (Compare § 1170.126, subd. (g)(2) with § 1172.75,
+subd. (d)(3).) The overlap, however, ends there. Section
+1170.126, subdivision (g)(3) permits consideration of “evidence
+the court, within its discretion, determines to be relevant in
+deciding whether a new sentence would result in an
+unreasonable risk of danger to public safety”; section 1172.75,
+subdivision (d)(3) uses more restrictive language permitting
+consideration of evidence that has “reduced the defendant’s risk
+for future violence” as opposed to other types of public safety
+risks. A court in a section 1170.126 proceeding can consider the
+petitioner’s criminal history in assessing public safety risks (id.
+subd. (g)(1)); section 1172.75, subdivision (d) lists only
+
+
+
+
+                                11
+postconviction factors and thus does include prior criminal
+history as a permissible consideration. A court hearing a section
+1172.75 petition may consider “evidence that reflects that
+circumstances have changed since the original sentencing so that
+continued incarceration is no longer in the interest of justice” (id.,
+subd. (d)(3)); section 1170.126, subdivision (g) does not list this as
+a permissible consideration. Permitting section 1172.75 to
+override these express provisions in section 1170.126 “would
+conflict with the Reform Act’s intent to protect the public from
+people who pose an unreasonable risk of danger to public safety.”
+(People v. Kimble, supra, 99 Cal.App.5th at pp.754-755, italics
+omitted; see also People v. Superior Court (Williams), supra, 102
+Cal.App.5th at pp. 1261-1262 [reaching similar conclusion].)
+       Beyond these constitutionality concerns, the parties’
+interpretation of section 1172.75 also fails to promote sentencing
+uniformity, one of that statute’s express goals. (§ 1172.75, subd.
+(d)(2).) Instead, the parties’ interpretation “carv[es] out a
+favorable exception for a specific subset of defendants—those
+sentenced under the former Three Strikes law who may be
+eligible for resentencing as second strike offenders and who
+received a prior prison term enhancement within the ambit of
+[section 1172.75]. This exception would grant those defendants
+mandatory relief under the [Three Strikes] Reform Act, requiring
+the court to resentence them as second strike offenders, while
+leaving otherwise similarly situated inmates with only the
+Reform Act’s (time-limited) petition process as a path to
+resentencing, with its assessment of disqualifying factors and
+discretionary weighing of safety and recidivism considerations.”
+(People v. Kimble, supra, 99 Cal.App.5th at p.755.)
+
+
+
+
+                                 12
+      Despite all of the above, the parties urge us to adopt the
+view expressed by Justice Hernaldo Baltodano in his dissent in
+People v. Superior Court (Guevara), supra, 97 Cal.App.5th at
+pages 988-995. That view rests on the assertion that a
+resentencing under section 1172.75 is a full resentencing, and
+therefore a defendant like Moreno is entitled to be resentenced as
+though he was just convicted of a nonviolent and nonserious
+offense. We reject that premise for the same reason the majority
+in Guevara did, namely that the portion of Moreno’s sentence
+mandated by the Three Strikes law was not vacated and thus not
+subject to resentencing in a section 1172.75 proceeding. (People
+v. Superior Court (Guevara), supra, at p. 986.) Simply put,
+“because section 1172.75 was not enacted by a two-thirds vote of
+both houses of the Legislature, it is not the mechanism for relief
+for those serving an indeterminate term pursuant to the Reform
+Act.” (Id. at p. 987.) With regard to his third strike sentence on
+count 4, Moreno “is entitled to resentencing only upon a
+successful petition under section 1170.126.” (People v. Santos,
+supra, 100 Cal.App.5th at p. 676.)
+
+
+
+
+                               13
+                         DISPOSITION
+      The judgment is affirmed.
+      NOT TO BE PUBLISHED
+
+
+
+
+                                           WEINGART, J.
+
+
+We concur:
+
+
+
+
+             BENDIX, Acting P. J.
+
+
+
+
+             KELLEY, J.*
+
+
+
+
+      * Judge of the San Luis Obispo County Superior Court,
+assigned by the Chief Justice pursuant to article VI, section 6 of
+the California Constitution.
+
+
+
+
+                                14

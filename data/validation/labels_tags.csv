@@ -1,0 +1,111 @@
+cl_opinion_id,sample,at_issue,notes
+4504014,precision,1,"untimely mid-trial suppression motion, parole search of camper"
+4542201,precision,0,kill zone; gang hearsay; instructions; warrant only in facts
+4566220,precision,0,trust amendment (civil)
+4655627,precision,0,IAC re mental health diversion
+4670651,precision,0,"UNSURE: juvenile probation search condition challenged under Lent reasonableness, no actual search claim"
+4671912,precision,0,sufficiency; Brady; misconduct; IAC
+4704646,precision,0,double jeopardy; vindictive prosecution
+4912681,precision,0,counsel conflict/probation procedure; suppression motion only in history
+4995328,precision,0,gang expert hearsay (Sanchez)
+5135713,precision,1,"writ re suppression motion, vehicle impound/probable cause search"
+5136509,precision,1,"suppression motion, detention/patdown, inevitable discovery"
+6111850,precision,0,civil damages for seized cannabis; limitations/res judicata
+6114843,precision,1,"CalECPA/Fourth Amendment suppression, cell phone ping exigency"
+6137622,precision,0,misconduct; CALCRIM 315; 654; warrant only in facts
+6216565,precision,0,1170.95; suppression motion only in history
+6317741,precision,0,firearm enhancement strike discretion
+6319967,precision,0,1473.6/1473.7 postconviction relief
+8213856,precision,0,1170.95 prima facie; SB 1437 constitutionality
+9298591,precision,0,hearsay/352 social media messages
+9390579,precision,0,"civil malicious prosecution; warrantless arrest as proceeding element, no search-seizure claim"
+9415037,precision,0,1172.6 resentencing; warrant only in facts
+9751791,precision,1,"suppression motion, consensual encounter/detention, vehicle search"
+9880901,precision,0,coerced confession/Perkins; Fourth Amendment consent analogy only
+9893568,precision,0,UNSURE: Fourth Amendment detention/arrest law used only to construe arrest element of 136.1; no search-seizure claim
+9895362,precision,1,"suppression motion, consensual encounter vs detention, consent search"
+9895588,precision,0,civil negligence; court notes Fourth Amendment not at issue
+9900923,precision,1,"suppression motion, vehicle search inevitable discovery; standing re victim phone search"
+9906607,precision,0,confession voluntariness; hearsay; flight instruction
+9927047,precision,1,"suppression motion, warrantless blood draw, exigent circumstances"
+9948727,precision,1,"suppression motion, prolonged traffic stop, consent search"
+9969062,precision,0,1172.6 confession voluntariness
+9975646,precision,0,dependency jurisdiction; ICWA
+10478570,precision,0,suggestive lineup due process; warrants only in facts
+10498045,precision,0,sufficiency; hearsay; 352; stops/warrant only in facts
+10627035,precision,0,Miranda custody/involuntary confession only
+10733075,precision,0,Wende; notice of appeal cited suppression but no motion filed
+10827214,precision,0,criminal threat sufficiency; warrant only in facts
+10912039,precision,0,declaration against interest; mistrial; gang instruction
+11081034,precision,0,dependency mootness; warrantless-entry premise not reached
+11179162,precision,0,Romero motion at 1172.75 resentencing
+11207162,precision,0,juvenile sufficiency of evidence; warrants only in facts
+11232151,precision,1,"motion to quash/traverse warrant, curtilage entry, probable cause"
+11268329,precision,0,instructions; misconduct; sentencing
+11279593,precision,1,"suppression motion, warrantless in-home seizure"
+11314713,precision,0,dependency 366.26 beneficial relationship
+11320721,precision,0,entrapment instruction; 654
+11337687,precision,1,"suppression motion, prolonged traffic stop DUI investigation reasonable suspicion"
+11421470,precision,1,"People's appeal from suppression order, detention without reasonable suspicion"
+11428175,precision,1,unheard GPS warrant suppression motion ruled not reviewable on appeal (Wende)
+11431346,precision,0,misconduct; instructions; gang sufficiency
+4508546,recall,0,1170.95 manslaughter eligibility
+4517511,recall,0,SB 1437 constitutionality
+4570407,recall,0,instructions; sufficiency; 654
+4578065,recall,0,restitution; fines forfeiture
+4584107,recall,0,sufficiency; CALCRIM 1190
+4638858,recall,0,weapon enhancement; SB 136
+4653962,recall,0,Wende no issues
+4655972,recall,0,sentencing 654; juror info
+4657576,recall,0,lesser included instruction
+4661420,recall,0,substitution of retained counsel
+4666664,recall,0,stalking sufficiency; evidence
+4670972,recall,0,SB 1391 constitutionality
+4681994,recall,0,robbery degree
+4690014,recall,0,1170.95 Wende
+4701988,recall,0,sufficiency; flight/unanimity instructions; firearm enhancement
+4704677,recall,0,accident instruction harmless
+5120650,recall,0,travel probation condition overbreadth; detention only in facts
+5121591,recall,0,CALCRIM 315 eyewitness instruction
+5123569,recall,0,1170.95 gang special circumstance eligibility
+5128941,recall,0,Wende marijuana vacatur
+6118266,recall,0,Wende speedy trial
+6219086,recall,0,mental condition evidence for arson
+6334594,recall,0,Wende remote prelim
+6351696,recall,0,1170.95 Wende
+7797660,recall,0,sufficiency premeditation; firearm enhancement resentencing
+9386248,recall,0,1172.6 hearing presence
+9386895,recall,0,1172.6 conspiracy instruction
+9391561,recall,0,Pitchess; 1473.6 vacatur
+9393357,recall,0,1170.95 Wende
+9400228,recall,0,1172.6 prima facie
+9402061,recall,0,provocation instructions; sufficiency
+9889550,recall,0,1172.75 Delgadillo
+9900899,recall,0,Supreme Court non-search issue (no search discussion)
+9901972,recall,0,civil receivership appealability
+9931247,recall,0,Wende
+9940347,recall,0,1172.6 Wende
+9947373,recall,0,new trial; IAC expert; instructions
+9969099,recall,0,1172.6 manslaughter plea eligibility
+10466294,recall,0,"capital appeal; severance, evidence, misconduct"
+10467540,recall,0,1172.75 stayed prior
+10498333,recall,0,lesser included instruction
+10627673,recall,0,1172.6 resentencing
+10748137,recall,0,1473.7 immigration vacatur
+10793538,recall,0,ameliorative legislation resentencing
+10799430,recall,0,special circumstance sufficiency; gang enhancement
+10800243,recall,0,Wende upper term SB 567
+10814422,recall,0,Wende expungement
+10820744,recall,0,1172.75 eligibility
+10834263,recall,0,1172.75 resentencing
+11063285,recall,0,sufficiency; firearm enhancement
+11106357,recall,0,1172.6 IAC; sufficiency
+11136715,recall,0,CSAAS; sufficiency; misconduct
+11244666,recall,0,gang evidence bifurcation; warrants only in facts
+11253360,recall,0,1172.6 prima facie
+11267872,recall,0,1170(d) equal protection
+11269178,recall,0,prosecutorial misconduct IAC
+11323830,recall,0,NGI recommitment
+11405419,recall,0,Wende custody credits resentencing
+11442050,recall,0,gang probation conditions
+11442702,recall,0,SB 1437 resentencing

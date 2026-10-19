@@ -1,0 +1,221 @@
+cl_opinion_id: 4646827
+cluster: 4843048
+docket: B304090
+date: 2020-12-24
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Gonzales v. Lind CA2/1
+----
+Filed 12/24/20 Gonzales v. Lind CA2/1
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on
+opinions not certified for publication or ordered published, except as specified by rule
+8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                      SECOND APPELLATE DISTRICT
+
+                                    DIVISION ONE
+
+
+THOMAS GONZALES,                                                B304090
+
+        Plaintiff and Respondent,                               (Los Angeles County
+                                                                Super. Ct. No. 19LBCV00501)
+        v.
+
+KIMBERLY OLSON LIND,
+
+        Defendant and Appellant.
+
+
+
+     APPEAL from an order of the Superior Court of Los
+Angeles County, Mark C. Kim. Affirmed.
+     Baker, Keener & Nahra, Phillip A. Baker for Defendant
+and Appellant.
+     Law Offices of Drew F. Teti, Drew F. Teti for Plaintiff and
+Respondent.
+             ___________________________________
+      In this case, an attorney represented her client from 2012
+to 2018. In 2018, the parties entered into a retention contract
+that contained a clause by which the parties agreed to seek
+arbitration of “any dispute” that “arises” regarding “any claim”
+for negligence or malpractice. In 2019, the client sued the
+attorney for negligence, fraud, breach of fiduciary duty,
+conversion, and financial elder abuse. The trial court denied the
+attorney’s motion to compel arbitration on the ground that the
+arbitration agreement was ambiguous as to whether it applied to
+disputes arising from pre-agreement events. We agree. Although
+the words “any” and “arises” are facially unambiguous, in context
+here, the client had no reason to believe the retention contract
+applied to transactions from years past. Accordingly, we affirm.
+                          BACKGROUND
+      In 2012, Thomas Gonzales retained attorneys Kimberly
+Lind and Duane Westrup to represent him in an employment
+related lawsuit. The parties entered into a 2012 written attorney
+retention agreement and a later oral retention agreement,
+neither of which contained an arbitration clause. Gonzales lost
+his lawsuit at trial but prevailed in part on appeal.
+      In 2018, on the eve of retrial by new counsel (with Lind
+participating), Lind (but not Westrup) required that Gonzales
+enter into another attorney retention agreement. It provided, in
+pertinent part, the following:
+
+     “14. If any dispute arises between you and our firm with
+     respect to or arising from the compensation due to us for
+     our legal services rendered, or costs advanced, herein, or
+     with respect to any alleged attorney negligence and/or
+     malpractice, you and our firm all agree that the dispute
+
+
+
+
+                                2
+      shall be submitted to arbitration. As to any claim of
+      alleged attorney negligence and/or malpractice, the results
+      of the arbitration shall be binding upon both you and our
+      firm.
+
+      “NOTE: BY AGREEING TO BINDING ARBITRATION
+      WITH RESPECT TO ANY ALLEGED CLAIMS OF
+      ATTORNEY NEGLIGENCE AND/OR MALPRACTICE
+      YOU ARE WAIVING YOUR RIGHT TO SETTLEMENT
+      OF THOSE DISPUTES BY THE JUDICIAL
+      PROCESS.”
+
+      In 2018, Gonzales’s other retained counsel advised him that
+Lind and Westrup had allegedly committed mis- and malfeasance
+in handling his first lawsuit.
+      In 2019, Gonzales sued Lind and Westrup for negligence,
+fraud, breach of fiduciary duty, conversion, and financial elder
+abuse. Lind moved to compel arbitration.
+      Gonzales opposed the motion, arguing the arbitration
+agreement (1) was procedurally and substantively
+unconscionable, (2) failed to cover the relevant time period, (3)
+could not be applied retroactively, (4) was limited to fee disputes,
+(5) was non-binding, and (6) created a risk of conflicting outcomes
+with respect to ongoing litigation against Westrup.
+      The trial court found that the arbitration agreement
+contained “no clear language” that applied to “both past claims
+and future claims,” but suggested (from the language “[i]f any
+suit arises”) a prospective scope only. The court found that
+plaintiff’s claims arose out of the 2013 trial and subsequent
+appeal, both of which preceded the 2018 arbitration agreement.
+
+
+
+
+                                 3
+Finding the agreement ambiguous as to claims arising from pre-
+2018 events, the court denied Lind’s motion to compel
+arbitration.
+       Lind appeals.
+                           DISCUSSION
+       Lind argues the arbitration agreement unambiguously
+applies to post-contract claims concerning pre-contract events.
+We disagree.
+       “Private arbitration (also called contractual or nonjudicial
+arbitration) ‘is a procedure for resolving disputes which arises
+from contract; it only comes into play when the parties to the
+dispute have agreed to submit to it.’ ” (Toal v. Tardif (2009) 178
+Cal.App.4th 1208, 1218.) “By agreeing to arbitration, parties
+anticipate a relatively speedy, inexpensive and final resolution,
+one that may be based on ‘broad principles of justice,’ rather than
+strictly the rule of law. [Citation.] Consequently, ‘as a general
+rule courts will indulge every reasonable intendment to give
+effect to arbitration proceedings.’ ” (Ibid.) But “a party cannot be
+required to submit to arbitration any dispute which he has not
+agreed so to submit.” (Atkinson v. Sinclair Refining Co. (1962)
+370 U.S. 238, 241.) The “question of whether the parties agreed
+to arbitrate is to be decided by the court, not the arbitrator.” (AT
+& T Technologies, Inc. v. Communications Workers of America
+(1986) 475 U.S. 643, 649.) “California law . . . favors enforcement
+of valid arbitration agreements.” (Armendariz v. Foundation
+Health Psychcare Services, Inc. (2000) 24 Cal.4th 83, 97.)
+       “The fundamental goal of contractual interpretation is to
+give effect to the mutual intention of the parties. (Civ. Code, §
+1636.) If contractual language is clear and explicit, it governs.
+(Civ. Code, § 1638.) On the other hand, ‘[i]f the terms of a
+
+
+
+
+                                 4
+promise are in any respect ambiguous or uncertain, it must be
+interpreted in the sense in which the promisor believed, at the
+time of making it, that the promisee understood it.’ ” (Bank of the
+West v. Superior Court (1992) 2 Cal.4th 1254, 1264-1265.) A
+court faced with an argument that contract language is
+ambiguous must interpret the language in context. (Id. at p.
+1265.) “This is because ‘language in a contract must be construed
+in the context of that instrument as a whole, and in the
+circumstances of that case, and cannot be found to be ambiguous
+in the abstract.’ ” (Ibid.)
+       When the evidence presented to the trial court was
+undisputed, we review the court’s determination of the validity of
+an agreement de novo. (Parada v. Superior Court (2009) 176
+Cal.App.4th 1554, 1567.)
+       Here, the parties agreed to arbitrate “any” dispute that
+“arises” with respect to “any” negligence or malpractice claim. It
+is obviously possible to interpret the terms “any” and “arises,” in
+the abstract, as referring inclusively to all disputes incepted after
+the agreement, including those based on past events. A typical
+dictionary, for example, defines “any” as “of whatever kind” or
+“without restrictions.” (Webster’s Collegiate Dict. (10th ed. 1993)
+p. 53, col. 1.) And several courts have construed “any” as
+meaning without restriction or temporal limitation. (Desert
+Outdoor Advertising v. Superior Court (2011) 196 Cal.App.4th
+866, 877 [the words “any dispute” are broad, with “no temporal
+limitation”]; Estate of Willis (1950) 34 Cal.2d 782, 790; Emmolo v.
+Southern Pacific Co. (1949) 91 Cal.App.2d 87, 92.)
+       Leaving abstract philology behind, however, the arbitration
+agreement here is easily susceptible of another interpretation,
+one in which “any dispute” refers only to disputes arising from
+
+
+
+
+                                 5
+future events. The parties had been transacting for years,
+through one trial and appeal, to the eve of a second trial, under a
+retention agreement that apparently satisfied Lind at the time.
+Gonzales had no reason to think that Lind intended to supplant
+the agreement retroactively. On the contrary, with the second
+trial soon to begin, and with Lind giving no indication that she
+was thinking retrospectively, Gonzales had every reason to
+believe that past events had settled into history, and to be
+exclusively forward looking. At the very least, Gonzales could
+expect that if Lind intended to displace their prior arrangement
+retroactively, she would say so. In this context, an agreement
+about disputes that may “arise,” which gives no indication of
+retrospectivity or retroactivity, can reasonably be interpreted as
+applying only to disputes arising from future events.
+       Because the agreement is ambiguous in this respect, it
+cannot be said that Gonzales agreed to arbitrate disputes arising
+from pre-agreement events.
+                          DISPOSITION
+       The order is affirmed. Respondent is to receive costs on
+appeal.
+       NOT TO BE PUBLISHED
+
+
+                                                 CHANEY, J.
+We concur:
+
+
+                                                                     *
+             BENDIX, Acting P. J.                FEDERMAN, J.
+
+      *
+       Judge of the San Luis Obispo County Superior Court,
+assigned by the Chief Justice pursuant to article VI, section 6 of
+the California Constitution.
+
+
+
+                                 6

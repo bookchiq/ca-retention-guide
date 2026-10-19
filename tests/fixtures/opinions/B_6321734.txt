@@ -1,0 +1,923 @@
+cl_opinion_id: 6321734
+cluster: 6449623
+docket: B290062A
+date: 2022-03-09
+status: Unpublished
+type: 010combined
+field: plain_text
+case: SoCal Diesel v. Extrasensory Software CA2/1
+----
+Filed 3/9/22 SoCal Diesel v. Extrasensory Software CA2/1
+Opinion following rehearing
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on
+opinions not certified for publication or ordered published, except as specified by rule
+8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                      SECOND APPELLATE DISTRICT
+
+                                    DIVISION ONE
+
+
+SOCAL DIESEL, INC.,                                             B290062, B293020
+
+        Plaintiff and Appellant,                                (Los Angeles County
+                                                                Super. Ct. No. BC597857)
+        v.
+                                                                PUBLIC—REDACTED
+EXTRASENSORY SOFTWARE,                                          VERSION OF OPINION
+INC., et al.,
+                                                                Redacts material from sealed
+        Defendants and Respondents.                                        *
+                                                                record. (Civ. Code, § 3426.5;
+                                                                Cal. Rules of Court, rules 8.45,
+                                                                8.46(f)(1) & (f)(2).)
+
+
+
+
+        *
+        This case involves material from a sealed record. In
+accordance with Civil Code section 3426.5 and California Rules of
+Court, rules 8.45, 8.46(f)(1) and (f)(2), we have prepared both
+public (redacted) and sealed (unredacted) versions of this opinion.
+We hereby order the unredacted version of this opinion sealed.
+      APPEAL from orders of the Superior Court of Los Angeles
+County, David Sotelo, Judge. Affirmed in part and reversed in
+part and remanded with directions.
+      Hacker Law Group, Jeffrey A. Hacker and Kristen E.
+Green for Plaintiff and Appellant.
+      Karish & Bjorgum, A. Eric Bjorgum and Marc Karish for
+Defendants and Respondents.
+              ___________________________________
+      SoCal Diesel, a manufacturer of devices that communicate
+with computers on truck engines, sued Extrasensory Software, a
+competitor, and Ira and Robyn Emus, its principals, for trade
+secret misappropriation, alleging defendants stole an algorithm
+used in SoCal’s products. After presentation of the plaintiff’s
+evidence, the court granted nonsuit as to Robyn, finding no
+evidence supported the allegation that she misappropriated any
+trade secret. After a jury verdict in favor of SoCal, the trial court
+granted Extrasensory’s and Ira’s motion for new trial, finding no
+evidence suggested the algorithm in their product was (1) similar
+to SoCal’s algorithm or (2) wrongfully acquired.
+      We conclude the court properly granted a new trial because
+a reasonable fact finder could conclude from the evidence both
+that defendants’ algorithm was not substantially similar to
+SoCal’s and that it was reverse engineered by proper means. We
+further conclude nonsuit was improperly granted as to Robyn,
+whom evidence suggested oversaw Extrasensory’s operations and
+knew that Ira had reverse engineered SoCal’s algorithm, possibly
+by improper means. Accordingly, we affirm the court’s order
+granting a new trial, reverse the order granting nonsuit, and
+remand the matter with directions to vacate nonsuit and order a
+new trial.
+
+
+
+
+                                  2
+                         BACKGROUND
+A.     EFILive and Ira and Robyn Emus
+       1.     Engine Control Module
+       A modern truck engine is controlled by a computer, called
+an Engine Control Module (Control Module), which receives
+signals from sensors throughout the vehicle, interprets them, and
+uses the results to communicate with actuators that adjust such
+factors as ignition timing, air-fuel ratios, and idle speed. The
+Control Module thus “tunes” the engine, while it is running, to
+meet desired performance and emissions goals. Embedded
+software in modern Control Modules is complex and
+sophisticated, able to monitor and regulate hundreds of
+parameters to optimize performance.
+       The group of calibrations—for example, water temperature,
+air pressure, or engine speed—necessary to achieve a particular
+performance profile is called a “tune.”
+       A Control Module can be accessed by way of an “Onboard
+Diagnostics” (OBD2) port usually found under the driver’s-side
+dashboard. A mechanic can attach a data cable between the
+OBD2 port and a scanning device, and from that device to a
+personal computer, to receive information from and convey
+commands to the Control Module.
+       Data streams to and from the Control Module may also be
+intercepted by a “can analyzer,” which gathers the data in binary
+(1’s and 0’s) or hexadecimal form.
+       The performance and emissions goals established by a
+truck manufacturer are achieved by the “stock” tune, which the
+manufacturer pre-programs into the Control Module before it
+leaves the factory. Because an engine must meet various
+
+
+
+
+                                3
+environmental, fuel-use, and longevity standards, the stock tune
+is relatively conservative.
+       But some modern Control Modules can be programmed by
+truck owners to carry more than simply the stock tune.
+       An owner who has modified an engine with nonstandard
+equipment—for example a turbo- or supercharger, or high
+performance spark plugs or fuel injection—or who wishes to
+operate the vehicle in nonstandard conditions—such as in racing,
+towing, or offroading—may want to select a tune different from
+the stock tune, then later revert to the stock tune for standard
+conditions.
+       2.    EFILive
+       Paul Blackmore started EFILive, Ltd. (EFI) in the late
+1990’s to develop and sell computer hardware and software that
+monitors and modifies the performance characteristics of engines
+for competition and racing. (EFI, a New Zealand company is not
+a party here.) As pertinent here, EFI developed two pieces of
+hardware and associated software.
+             a.    FlashScan
+       EFI’s “FlashScan” is a scanning tool that attaches to a
+Control Module by a Controller Area Network (CAN) “can
+connection” through the OBD2 port and to a PC by USB cable.
+The FlashScan pulls calibrations from an engine’s Control
+Module to a PC, which displays them in the form of graphs and
+charts. A technician can edit these reported calibrations on the
+PC and upload the resulting modified tune through the
+FlashScan to the Control Module. The FlashScan can thus be
+used in connection with a PC to switch between tunes while the
+vehicle is being tested on a Dynamometer in a workshop.
+
+
+
+
+                               4
+             b.    AutoCal
+       EFI also manufactures the “AutoCal,” a device smaller
+than but similar to a FlashScan, which allows a technician to
+transfer a custom tune to a vehicle owner. The technician creates
+the custom tune in the workshop with a FlashScan and PC as
+described above, downloads the tune from the PC to an AutoCal
+by USB cable, then sends the AutoCal to the owner, who then
+connects it to a vehicle through the OBD2 port and transfers the
+custom tune to the vehicle’s Control Module. Each AutoCal can
+be linked with only one FlashScan device and one Control
+Module.
+             c.    EFI Software
+       The FlashScan and AutoCal must be configured and loaded
+with proprietary software from EFI, which must also be installed
+on a PC. The software can be obtained either from a CD sold
+with the devices or by download. At the beginning of both the
+configuration and installation an End User License Agreement
+(EULA) will be displayed and must be affirmatively accepted.
+Only after the devices have thus been configured may they be
+loaded with custom tunes.
+       Once a now-configured and tune-loaded FlashScan or
+AutoCal is connected to a vehicle’s Control Module through the
+OBD2 port, the tunes and EFI software are flashed to the Control
+Module.
+             d.    2013 CSP5 Software
+       A Control Module is normally able to house only one tune
+at a time. In 2013, EFI modified its software—now calling it
+“CSP5,” for Cummins Switchable 5 position tuning—to load up to
+five different tunes onto a Control Module at one time, thus
+expanding the module’s stock capabilities.
+
+
+
+
+                                5
+       EFI licensed its CSP5 software to SoCal.
+             e.    Security Identification Algorithm
+       However, to prevent accidental or unauthorized switching,
+the CSP5 software previously flashed to the Control Module will
+not accept a tune change without first completing a security
+protocol that authenticates any switch attempting to alter a tune.
+This protocol is effected by a CSP5 security identification
+algorithm, which we describe below.
+       3.    SoCal’s “Switch”
+       SoCal manufactures diesel racing parts, assembles racing
+engines, and distributes competition performance vehicle parts.
+       Under racing conditions it is impossible to navigate a
+computer menu and press keys to change between tunes. To
+make it possible to change tunes, SoCal manufactures the
+Cummins Engine CSP5 Switch (the Switch), a large physical
+device that can quickly select between tunes loaded on the
+Control Module of a Cummins diesel engine, such as is found in
+late model Dodge Ram trucks, while driving. The Switch
+attaches to a truck’s dashboard and can implement any one of
+five preset tunes loaded onto the Control Module simply by
+turning a knob.
+       4.    Trade Secret: Security Identification
+Algorithm
+       Before SoCal’s Switch can access the tunes loaded onto a
+Control Module, it must initiate the CSP5 security identification
+algorithm also loaded onto the module, causing the module to
+recognize the Switch user as an authorized tuner. Without this
+authorization, the Control Module will be “locked,” i.e., will reject
+any switching attempt.
+
+
+
+
+                                  6
+      That identification algorithm is part of the trade secret
+alleged here.
+      The identification algorithm “unlocks” the Control Module
+by [REDACTED].
+      [REDACTED]
+      (At the time of trial, EFI had licensed only two CSP5 ID
+Codes, one to SoCal and one to Starlite Diesel, which is not a
+party here. Starlite’s device operates similarly to SoCal’s, but
+uses a mobile device rather than a Switch.)
+      In the first step of the algorithm, [REDACTED].
+      [REDACTED]
+      [REDACTED]
+      [REDACTED]
+      [REDACTED]. If it corresponds, the Control Module
+recognizes the Switch as an authorized input device, and will
+accept its selection between tunes already programmed into the
+module.
+      SoCal identifies as its trade secret, licensed from EFI, the
+combination of the security algorithm, including the methods and
+the values (constants) it uses to compute [REDACTED] values,
+and SoCal’s ID Code.
+      Defendants concede that they [REDACTED] SoCal’s ID
+Code into each of their own switches.
+B.    The End User License Agreement
+      In 2005, Ira and Robyn Emus distributed EFI devices in
+the United States. Ira also worked for EFI as a tester of its
+devices. As part of the distributorship arrangement Ira signed a
+confidentiality agreement with EFI, and as part of his duties
+downloading and testing EFI software he had to agree to EFI’s
+
+
+
+
+                                7
+EULA many times. The EULA stated it was governed by New
+Zealand law.
+      The relationship between the Emuses and EFI ended
+acrimoniously in March 2012.
+      EFI released its CSP5 software in 2013.
+      As discussed above, using any device with CSP5 software
+requires that the software first be installed on a PC. After
+downloading CSP5 software from EFI or obtaining it on a CD
+sold by EFI, a user must accept an End User License Agreement
+(EULA) to install it. This is done by selecting the “I Do Accept”
+option displayed at the beginning of installation.
+      The EULA prohibits use of CSP5 software, including any
+piece of it and any file it produces, or any connected device, for
+purposes of decompiling, accessing or otherwise reverse
+engineering the CSP5 algorithm. The agreement provides: “By
+connecting the EFILive software to any electronic control module,
+you confirm that you have read and agreed to the EFILive Terms
+and Conditions. [¶] If you do not agree with the EFILive Terms
+and Conditions, you must not use the EFILive software to
+connect to any electronic control module.” It provides that the
+user may not “modify, reverse engineer, decrypt or decompile the
+EFILive software or configuration files, or any part of them.”
+      When an AutoCal is sold to a technician, the EULA will pop
+up on the technician’s computer screen during configuration.
+When the technician sends the tuned AutoCal to an end user,
+however, the EULA will not follow.
+      EFI assigned its rights to enforce the EULA to SoCal.
+
+
+
+
+                                8
+C.     Alleged Misappropriation of the Trade Secret
+       Ira and Robyn Emus are the sole officers, directors,
+shareholders, and employees of Extrasensory, which like SoCal
+manufactures tuning accessories for diesel engines.
+       In 2014, Ira, Robyn and Extrasensory began manufacturing
+and selling switches that defeated EFI’s CSP5 security
+identification algorithm.
+D.     Litigation
+       On October 14, 2015, SoCal sued Ira, Robyn, and
+Extrasensory for misappropriation of trade secrets (and other
+claims) under Civil Code section 3426, alleging they
+misappropriated the Switch security identification algorithm.
+After summary adjudication of other claims, the matter went to
+jury trial only on this claim.
+       At trial, Paul Blackmore, a software developer and the
+owner and CEO of EFI, testified that EFI developed its CSP5
+software in 2012 and released it in 2013.
+       SoCal presented evidence that Robyn ran Extrasensory’s
+operations, while Ira was its technical expert. Robyn planned
+with Ira to acquire and use SoCal’s security identification
+algorithm. Specifically, Robyn testified that Extrasensory’s
+switch needed EFI’s software to operate, and that EFI’s altering
+its software in 2013 caused the switch to cease working. She had
+written, “There is no way to screw with our switch functionality
+and not also screw with [SoCal’s Switch],” and testified that she
+knew that Extrasensory’s switch used SoCal’s ID Code. Robyn
+testified, “They had changed the protocol, in my opinion, when
+they realized that we knew how to do it. So they changed it and
+then Ira figured it out again.” Robyn knew about the EULA
+through her tenure as an EFI distributor up to 2012.
+
+
+
+
+                                9
+       Ira testified that in 2013 he [REDACTED] and advertised
+on Craigslist for a “hacker” to help him [REDACTED] derive an
+algorithm that would overcome the EFI security identification
+algorithm lock. That effort proving fruitless, Ira placed another
+ad on an international job Web site for engineers and
+programmers, and over the next months interviewed several
+individuals until he found Pavel Simonov, a programmer based in
+Russia, to whom he sent the same information. Simonov agreed
+to “reverse engineer” the software for $5,000, and was ultimately
+successful. (The parties characterize Ira’s efforts as “reverse
+engineering.” We utilize this terminology for purposes of the
+appeal, without deciding whether it is accurate.)
+       Ira modified and incorporated Simonov’s algorithm into
+switches he then manufactured and sold.
+       It was undisputed at trial that Ira’s new algorithm caused
+his switch to [REDACTED], just as SoCal’s algorithm did
+([REDACTED]), employed the same [REDACTED] SoCal’s
+algorithm used, and [REDACTED].
+       Ira admitted his efforts required decompiling EFI’s
+intellectual property, and when asked whether his efforts
+violated the EULA, he responded, “no one has ever respected the
+end user license agreement.” When asked a second time, Ira
+responded, “the EULA was never enforced. In all my years of
+working with EFILive, the EULA was never enforced.” However,
+no evidence indicated that he downloaded or installed CSP5
+software, nor that he agreed to the EULA after his relationship
+with EFI ended in 2012, almost a year before EFI released the
+CSP5 software.
+       After SoCal rested its case-in-chief, the trial court granted
+Robyn’s motion for nonsuit, finding that no evidence suggested
+
+
+
+
+                                10
+she participated in or had reason to know about any
+misappropriation of SoCal’s algorithm. Because she had no
+understanding of computer programming, she could not know
+that the algorithm was misappropriated as opposed to reverse
+engineered. The court found it “inherently improbable that
+[Robyn] committed any act directly or indirectly[,] implied or
+tacit[,] that would subject her to personal liability . . . .” The
+court further found that SoCal’s maintenance of the action
+against Robyn was in bad faith, and granted her motion for fees
+and costs, awarding $198,485.24.
+       The court denied Ira’s and Extrasensory’s motion for
+nonsuit.
+       Ira testified he has never known the content of SoCal’s
+algorithm, even during trial. He merely [REDACTED]. He
+testified that Simonov did not copy SoCal’s algorithm.
+       Defendants presented evidence that Josh Chavez, a
+programmer from Arizona, independently reverse engineered the
+EFI software lock using an AutoCal, without using SoCal’s
+algorithm, as did Dan Smith, an electrical engineer. Smith and
+Josh Chavez both testified that defendants’ algorithm was not
+similar to SoCal’s, but instead functioned like the EFI algorithm
+operating on a Control Module, in that it could [REDACTED].
+(Smith testified that he reverse engineered SoCal’s algorithm
+using only a pre-tuned AutoCal (and Control Module
+[REDACTED]), and never encountered the EULA.)
+       Smith testified that Extrasensory’s and SoCal’s algorithms
+were “not the same” because they performed different steps.
+Smith acknowledged that both algorithms would produce the
+same result if given the same input, but testified that SoCal’s
+algorithm could accept only one input value, while Extrasensory’s
+
+
+
+
+                                11
+could accept approximately 65,000 values. Although it was
+undisputed that Extrasensory’s algorithm (1) used SoCal’s user
+ID Code (even though it did not have to); (2) [REDACTED],
+Smith nevertheless testified that the algorithms were different
+because “the whole idea of the algorithm being the same would be
+for the same inputs they should result in the same outputs, and
+for some input the outputs would be different comparing the
+EFILive description versus the [Extrasensory] tuning C code.” In
+sum, whereas SoCal’s algorithm would work with only one user
+ID Code, Extrasensory’s algorithm would work with any user ID
+Code, using math steps not found in the other algorithm.
+       Chavez testified that the SoCal and Extrasensory
+algorithms “are a different algorithm because they perform
+different operations that are not described in the trade secret or
+are not used in the SoCal Diesel switch code.”
+       SoCal attempted to rely upon the EULA throughout trial
+but the trial court repeatedly sustained defendants’ objections to
+its consideration because, the court found, the EULA could not
+“trump” or “govern over” California law. The court ultimately
+issued jury instructions to that effect.
+       On March 23, 2018, the jury returned a special verdict
+finding that Ira and Extrasensory misappropriated SoCal’s trade
+secret, and awarded disgorgement of profits in the amount of
+$482,000.
+       Ira and Extrasensory moved for judgment notwithstanding
+the verdict (JNOV) and a new trial.
+       On June 14, 2018, the court denied defendants’ motion for
+JNOV but granted the motion for new trial. It found “the jury
+was wrong—‘clearly’ so, in finding that plaintiff’s algorithm was
+the same as defendants’ and that plaintiff misappropriated the
+
+
+
+
+                                12
+trade secret.” The court found that no substantial evidence
+suggested SoCal’s switching algorithm “was the same as”
+defendants’ algorithm. [REDACTED]. As a result,
+“[defendants’] switching algorithm would function with different
+[manufacturer IDs], something that [plaintiff’s] switching
+algorithm would be unable to do. Put another way, plaintiff’s
+switching algorithm is a [REDACTED]. . . . The switching
+algorithms were not simply different sets of instructions that
+would produce the same outputs for a given input. The
+algorithms were different in substance.”
+       The court further found that “[o]ther than innuendo, no
+substantial evidence was presented that [defendants]
+‘misappropriated’ or wrongfully obtained plaintiff’s designated
+Trade Secret (the combined algorithm and manufacturer I.D.).”
+(Internal quotations omitted.) Instead, the evidence showed that
+Ira reverse engineered a “separate and distinct” algorithm, which
+is permissible. “Had Ira Emus simply misappropriated the
+relevant information given to him under the confidentiality
+agreement, there would have been no need to even attempt
+reverse engineering and, more importantly, the switching
+algorithms would have simply been the same.”
+       SoCal appealed separately from the orders granting Robyn
+nonsuit and granting Ira’s and Extrasensory’s motion for new
+trial. We consolidated the appeals.
+       We issued an opinion in this matter on May 3, 2021, but
+subsequently granted rehearing, vacated the opinion, and sought
+supplemental briefing. We asked four questions, two of which
+are pertinent for our discussion:
+       1.    Where does the record reflect that after terminating
+his relationship with EFI in 2012, Ira Emus or his agent
+
+
+
+
+                               13
+downloaded, used or transferred CSP5 software (except for
+purposes of this litigation) that was subject specifically to the
+2007 EULA?
+      2.     Where does the record reflect that Ira Emus knew
+about the 2007 EULA after 2012?
+      The parties’ answers and our own reexamination of the
+record indicate that nothing in the record shows Ira downloaded,
+used, or transferred CSP5 software subject specifically to the
+2007 EULA. The testimony showed that he transferred
+unidentified computer files to Pavel Simonov that may have been
+subject to some end user license agreement, but did not show
+what these files were or that they were subject specifically to the
+2007 EULA. It is not clear what fragments of code Simonov used.
+                           DISCUSSION
+A.    New Trial
+      SoCal contends the trial court abused its discretion in
+granting defendants’ motion for new trial. We disagree.
+      1.     Applicable Law
+      A new trial may be granted only on grounds specified in
+Code of Civil Procedure section 657, one of them being
+“Insufficiency of the evidence to justify the verdict.”
+      “Trade secret” means “information, including a
+formula, pattern, compilation, program, device, method,
+technique, or process, that: [¶] (1) Derives independent economic
+value, actual or potential, from not being generally known to the
+public or to other persons who can obtain economic value from its
+disclosure or use; and [¶] (2) Is the subject of efforts that are
+reasonable under the circumstances to maintain its secrecy.”
+(Civ. Code, § 3426.1, subd. (d).)
+
+
+
+
+                                14
+       Algorithms and computer code can be trade secrets.
+(Altavion, Inc. v. Konica Minolta Sys. Lab., Inc. (2014) 226
+Cal.App.4th 26, 59.) Software in a product remains a trade secret
+when it is not necessarily revealed during the product’s use.
+(Ibid.)
+        “Misappropriation” of a trade secret means “Acquisition of
+a trade secret of another by a person who knows or has reason to
+know that the trade secret was acquired by improper means.”
+(Civ. Code, § 3426.1, subd. (b), italics added.)
+       “Improper Means” includes theft, “inducement of a breach
+of a duty to maintain secrecy, or espionage through electronic or
+other means.” (Civ. Code, § 3426.1, subd. (a).)
+       However, “[r]everse engineering or independent derivation
+alone shall not be considered improper means.” (Civ. Code,
+§ 3426.1, subd. (a).)
+       We review an order granting a new trial for abuse of
+discretion. (Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th
+826, 860.) “[O]n appeal from an order granting a new trial upon
+the ground of the insufficiency of the evidence to justify the
+verdict . . . , such order shall be reversed as to such ground only if
+there is no substantial basis in the record” supporting it. (Code
+Civ. Proc., § 657.)
+       2.      Application
+       Here, the trial court made two findings: that SoCal failed
+to establish either that defendants (1) copied SoCal’s algorithm or
+that they (2) misappropriated as opposed to permissibly reverse
+engineered it. (SoCal argues the court made only the first
+finding, not the second. We discuss that argument below.) If
+supported by the evidence, these findings would undermine the
+essential assertions forming the basis of the jury’s verdict—that
+
+
+
+
+                                 15
+defendants obtained SoCal’s trade secret by improper means—
+and therefore ostensibly provide a sufficient basis for ordering a
+new trial. We conclude that the record supports both findings.
+       3.    Dissimilarity Between SoCal’s and Defendants’
+Algorithms
+       The first question is whether evidence supported the trial
+court’s finding that Extrasensory’s algorithm was different from
+SoCal’s. In our prior opinion we held that the evidence
+supporting the difference, the testimony of Smith and Chavez,
+lacked sufficient foundation. Upon further reflection, however,
+we conclude the court was entitled to credit the testimony not
+only of Smith and Chavez but also Ira Emus, all of whom opined
+that the algorithms were different.
+       Smith and Josh Chavez both testified that defendants’
+algorithm functioned like the EFI algorithm operating on a
+Control Module, but was not the same as that algorithm because
+it could produce an acceptable key value from any user ID input.
+They described the algorithms as functionally identical, but only
+when SoCal’s user ID Code was used: [REDACTED]
+       Both experts distinguished the manner in which
+Extrasensory’s and SoCal’s algorithms [REDACTED]. Although
+it was undisputed (1) that Extrasensory’s algorithm would not
+work without [REDACTED]; (2) that the initial values, end
+value, and all constants were the same; and (3) that both
+algorithms “functioned substantially the same way and
+accomplished substantially the same result” (Sinclair v. Aquarius
+Electronics, Inc. (1974) 42 Cal.App.3d 216, 222), the specific
+operations employed to reach interim values were different.
+       Smith and Chavez concluded that Extrasensory’s algorithm
+constituted an independent reverse engineering of a prior
+
+
+
+
+                                16
+solution to find a new solution reached by different means.
+Because in reviewing an order granting a new trial we must defer
+to the trial court’s view of the evidence, we now conclude we must
+accept its view of Smith’s and Chavez’ testimony. Even though
+the evidence was susceptible to opposing interpretations, a
+reasonable finder of fact sitting much closer to the evidence than
+we, watching and hearing as the evidence unfolds, could have
+credited Smith and Chavez.
+      We reiterate from our prior opinion that parties “cannot
+escape responsibility by showing that they have improved upon
+or modified plaintiff’s process. Even though they may have
+modified or improved the plaintiff’s process they are still
+wrongfully using its property.” (By-Buk Co. v. Printed
+Cellophane Tape Co. (1958) 163 Cal.App.2d 157, 169; see also
+American Can Co. v. Mansukhani (7th Cir. 1984) 742 F.2d 314,
+328-329 [“a party may not use another’s trade secret, even with
+independent improvements or modifications, so long as the
+product or process is substantially derived from the trade
+secret”].) “One who seeks to pirate an invention, like one who
+seeks to pirate a copyrighted book or play, may be expected to
+introduce minor variations to conceal and shelter the piracy.
+Outright and forthright duplication is a dull and very rare type of
+infringement. To prohibit no other would place the inventor at
+the mercy of verbalism and would be subordinating substance to
+form.” (Graver Tank & Mfg. Co. v. Linde Air Products Co. (1950)
+339 U.S. 605, 607.) “If the law were not flexible enough to reach
+such modifications, trade secret protection would be quite
+hollow.” (American Can Co., at p. 329.)
+      However, Smith, Chavez, and Ira Emus all testified that
+Extrasensory’s algorithm constituted the independent
+
+
+
+
+                                17
+engineering of a solution to EFI’s security identification
+algorithm derived from raw data openly conveyed from the
+Control Module to a scanning tool, not simply a copy of EFI’s or
+SoCal’s process. The court was entitled to credit this testimony
+and order a new trial based on it.
+      4.    Appropriation by Inappropriate Means, i.e.,
+Violation of the EULA
+      We next consider whether evidence supported the court’s
+finding that Ira did not appropriate the trade secret by improper
+means.
+      5.    Procedure
+      SoCal preliminarily argues that the trial court granted a
+new trial only on the ground of insufficient evidence, and
+reasoned the evidence was insufficient only because SoCal and
+Extrasensory algorithms were different. Under the rule of
+Mercer v. Perez (1968) 68 Cal.2d 104 (Mercer), SoCal argues, we
+may review only whether the algorithms were different, not
+whether the evidence was insufficient for any other reason.
+      Given our holding on that question, ante, we need not
+examine the improper means issue. However, we disagree with
+SoCal’s characterization of the court’s order, and in any event
+wish to provide the trial court with some guidance on the issue
+should there be another trial.
+      A trial court must specify the reasons why the evidence
+supports a moving party’s grounds for seeking a new trial. (See
+Scala v. Jerry Witt & Sons, Inc. (1970) 3 Cal.3d 359, 363 (Scala).)
+A statement of reasons suffices where the court “furnishes a
+concise but clear statement of the reasons why” one or more
+“grounds” in Code of Civil Procedure section 657 applies.
+(Mercer, supra, 68 Cal.2d at p. 115.) “[T]he judge must briefly
+
+
+
+
+                                18
+recite the respects in which he [or she] finds the evidence to be
+legally inadequate” (id. at p. 116) and “identify the deficiencies”
+in “ ‘the proof.’ ” (Scala, at p. 367.) A brief summation regarding
+the key evidence suffices. (Id. at p. 370.) The key question is
+whether the court’s explanation is adequate to facilitate
+“ ‘meaningful appellate review.’ ” (Oakland Raiders v. National
+Football League (2007) 41 Cal.4th 624, 637.)
+        Here, the court found first that “the jury was wrong—
+‘clearly’ so, in finding that plaintiff’s algorithm was the same as
+defendants’ and that [defendants] misappropriated the trade
+secret.”
+        However, the court went on to find that “[o]ther than
+innuendo, no substantial evidence was presented that
+[defendants] ‘misappropriated’ or wrongfully obtained plaintiff’s
+designated Trade Secret (the combined algorithm and
+manufacturer I.D.).” Instead, the evidence showed that Ira
+reverse engineered a “separate and distinct” algorithm, which is
+permissible. “Had Ira Emus simply misappropriated the relevant
+information given to him under the confidentiality agreement,
+there would have been no need to even attempt reverse
+engineering and, more importantly, the switching algorithms
+would have simply been the same.”
+        Both findings discussed the difference between
+Extrasensory’s and SoCal’s algorithms, but the second used the
+word “misappropriated” twice (putting it in quotes the first time)
+and “wrongfully” once, from which we conclude the court found
+Ira’s reverse engineering of the algorithm constituted a proper
+means of obtaining it.
+        We conclude the record supported the court’s finding that
+no evidence indicated Ira reverse engineered SoCal’s algorithm
+
+
+
+
+                                19
+by improper means. But it is not clear that the court fully
+considered EFI’s EULA in making that finding.
+       It was undisputed that installing CSP5 software on any
+computer, which was necessary to configure every AutoCal and
+install CSP5 software onto a Control Module, was subject to the
+EULA, which prohibited decompiling or reverse engineering the
+software.
+       Civil Code section 3426.1 states that “Reverse engineering
+or independent derivation alone shall not be considered improper
+means.” (Civ. Code, § 3426.1, subd. (a), italics added.) Use of the
+word “alone” indicates that reverse engineering attended by some
+delict is improper. If Ira Emus agreed to the EULA—which
+specifically prohibited reverse engineering—with the intention of
+breaching it, that would constitute an improper means of
+obtaining EFI’s trade secret. (See Lazar v. Superior Court (1996)
+12 Cal.4th 631, 638 [entering a contract with the intention of
+breaching it constitutes fraud].)
+       “ ‘The basic logic of the common law of trade secrets
+recognizes that private parties invest extensive sums of money in
+certain information that loses its value when published to the
+world at large.’ [Citation.] Based on this logic, trade secret law
+creates a property right ‘defined by the extent to which the owner
+of the secret protects his interest from disclosure to others.’ ”
+(DVD Copy Control Assn., Inc. v. Bunner (2003) 31 Cal.4th 864,
+880.) “By sanctioning the acquisition, use, and disclosure of
+another’s valuable, proprietary information by improper means,
+trade secret law” “recognizes that ‘ “good faith and honest, fair
+dealing, is the very life and spirit of the commercial world.” ’ ”
+(Id. at p. 881.)
+
+
+
+
+                                20
+       Fraudulent violation of EFI’s EULA, which expressly
+prohibited the very measures employed here and was designed to
+avoid the very result obtained, defeated EFI’s (and by assignment
+SoCal’s) efforts to protect its interest, and cannot be considered
+good faith and honest, fair dealing. We conclude that a deliberate
+violation of the EULA would constitute an improper means by
+which to reverse engineer SoCal’s algorithm. (See Viken
+Detection Corp. v. Videray Techs., Inc. (D.Mass. Jan. 7, 2020,
+Civil A. No. 19-10614-NMG) 2020 U.S.Dist. Lexis 2138, at pp.
+*10-11.)
+       Defendants argue the EULA is irrelevant because reverse
+engineering can never be an improper means of obtaining a trade
+secret. Untrue. As stated above, Civil Code section 3426.1,
+subdivision (a) provides that “Reverse engineering or
+independent derivation alone shall not be considered improper
+means.” (Italics added.) Reverse engineering accomplished by
+fraud is not reverse engineering alone. Entering into a EULA
+with the intention of violating its terms is fraud.
+       Defendants argue that reverse engineering is proper where
+a rightful user is “examining or testing a product to determine
+whether it works.” Perhaps so, but nothing suggests that was
+defendants’ purpose here. On the contrary, defendants
+admittedly reversed engineered SoCal’s algorithm in order to
+create their own competing product.
+       However, we have been directed to no evidence, and our
+own reexamination revealed none, indicating that Ira violated
+the EULA, deliberately or otherwise.
+       We asked the parties for supplemental briefing about what
+evidence suggests that Ira, after terminating his relationship
+with EFI in 2012, or his agent, used or transferred CSP5
+
+
+
+
+                               21
+software (except for purposes of this litigation) that was subject
+specifically to the 2007 EULA.
+       SoCal gave several nonresponsive and/or
+misrepresentational answers. First, it argued that Ira admitted
+in his testimony that he continued to download, use and transfer
+CSP5 software files after 2012. The testimony cited for this
+proposition pertained to Ira’s email conversations with Simonov
+and the transfers by Ira of unidentifiable files and code
+fragments and by Simonov of computer code representing the
+fruits of his reverse engineering efforts. However, nothing in
+these exchanges indicated that the two exchanged anything that
+was subject to the EULA.
+       SoCal argued that software Ira used could not be
+“downloaded” without agreeing to the EULA, but the testimony of
+EFI’s CEO indicated that EFI’s software could be downloaded
+without agreeing to the EULA, it simply could not be installed. It
+is not clear whether this is a substantive difference, but that
+uncertainty just means that even if the files exchanged between
+Ira and Simonov were described in the EULA, it is not clear they
+were obtained after installing (as opposed to simply downloading)
+EFI software.
+       (Smith testified that he reverse engineered SoCal’s
+algorithm using only a pre-tuned AutoCal and CAN analyzer,
+and never encountered the EULA.)
+       SoCal represented that Ira testified that in 2013 he sent
+Simonov “a CSP5 file” after converting it with EFILive software,
+but the testimony was actually about a CSP file, CSP5’s
+precursor.
+       SoCal argued that Ira admitted using the new EFI CSP5
+software in his testing and troubleshooting of Simonov’s algorithm,
+but again, the testimony was about only CSP software (and
+sometimes “EFI software”), not specifically about CSP5.
+
+
+
+
+                                22
+      In any event, that Ira downloaded, used or transferred
+CSP5 software “files” does not mean he knew about the EULA,
+which popped up on a computer screen only when a user installed
+a CSP5 package. We have found nothing in the record indicating
+Ira ever installed one, and nothing indicating he needed to have
+done so in order to transact with Simonov.
+      If there is a second trial, we think the trial court would be
+well advised to ascertain exactly which EULA—the one from
+2005 or from 2013—Ira encountered after 2013 and under what
+circumstances, and whether the law governing that EULA would
+enforce its prohibition against reverse engineering the software
+within the pertinent timeframe.
+      6.     Other Grounds for New Trial
+      Defendants argue that SoCal’s counsel characterized them
+as “cheaters” during opening argument, which inflamed the jury’s
+passions, and in closing argument asserted that defendants
+violated the EULA, which misrepresented the law. Defendants
+argue a new trial is warranted because of counsel’s misconduct.
+We disagree. Characterizing defendants as cheaters was no more
+inflammatory than SoCal’s theory that defendants deliberately
+schemed to misappropriate its trade secret. An attorney “ ‘may
+vigorously argue his case and is not limited to “Chesterfieldian
+politeness.” ’ ” (People v. Fields (1983) 35 Cal.3d 329, 363.) And
+as discussed above, counsel’s characterization of the law was
+correct.
+      Defendants argue a new trial is warranted on the issue of
+damages because Chavez’s independent reverse engineering of
+the SoCal algorithm vitiated some of SoCal’s damages by
+reducing the period during which the algorithm was entitled to
+protection. We are in no position to reweigh the evidence on
+damages, and thus cannot from our vantage point affirm a new
+
+
+
+
+                                23
+trial based on them. In any event, these matters may be
+revisited at any second trial.
+B.     Grounds for Nonsuit
+       SoCal contends nonsuit as to Robyn was improper. We
+agree.
+       A motion for nonsuit tests the legal sufficiency of a
+plaintiff’s evidence, operating, in effect, as a demurrer to the
+evidence. The motion lies when the plaintiff’s evidence, taken as
+true and construed most strongly in favor of the plaintiff, entitles
+the plaintiff to no relief under any theory. (Castaneda v. Olsher
+(2007) 41 Cal.4th 1205, 1214-1215.) In a proper case the court
+has the duty to forestall the cost and delay of a meritless lawsuit
+by granting nonsuit. (O’Keefe v. South End Rowing Club (1966)
+64 Cal.2d 729, 746.)
+       A nonsuit motion may be made “[o]nly after, and not before,
+the plaintiff has completed his or her opening statement, or after
+the presentation of his or her evidence in a trial by jury.” (Code
+Civ. Proc., § 581c, subd. (a).) The motion may be granted as to
+“some but not all of the issues involved in the action.” (Code Civ.
+Proc., § 581c, subd. (b).)
+       Because a nonsuit deprives the plaintiff of the right to have
+a claim determined by a jury, California courts take a restrictive
+view of the circumstances under which it may be granted.
+(Carson v. Facilities Development Co. (1984) 36 Cal.3d 830, 838.)
+       In reviewing a judgment of nonsuit, we are “guided by the
+same rule requiring evaluation of the evidence in the light most
+favorable to the plaintiff. ‘The judgment of the trial court cannot
+be sustained unless interpreting the [proposed] evidence most
+favorably to plaintiff’s case and most strongly against the
+defendant and resolving all presumptions, inferences and doubts
+
+
+
+
+                                24
+in favor of the plaintiff a judgment for the defendant is required
+as a matter of law.’ ” (Carson v. Facilities Development Co.,
+supra, 36 Cal.3d at p. 839.)
+      An officer or director of a corporation may not use her
+position as an agent of the corporation to escape liability for
+“personally direct[ing] or participat[ing] in . . . tortious conduct”
+(Frances T. v. Village Green Owners Assn. (1986) 42 Cal.3d 490,
+504), but is liable to a third party “[w]hen [her] acts are wrongful
+in their nature” (Civ. Code, § 2343). Thus, “a corporate officer or
+director may be liable for an intentional tort” committed by the
+corporation at the officer or director’s behest. (PMC, Inc. v.
+Kadisha (2000) 78 Cal.App.4th 1368, 1372.)
+      Here, Robyn testified that defendants’ switch needed EFI’s
+code, and consequently SoCal’s algorithm, to operate, and that
+EFI’s altering its software in 2013 caused their prototype switch
+to cease working. She testified, “They had changed the protocol,
+in my opinion, when they realized that we knew how to do it. So
+they changed it and then Ira figured it out again.” Evidence thus
+suggested that Robyn: planned with Ira to acquire and use
+SoCal’s trade secret; knew about the EULA through her tenure
+as an EFI distributorship; knew that it at least facially prohibited
+reverse engineering of EFI’s software; and knew defendants’
+switch could not be created without such reverse engineering. A
+reasonable jury could thus find that Robyn controlled
+Extrasensory’s actions and directly participated in any
+misappropriation of SoCal’s trade secret, and thus can be held
+personally liable.
+      The court found, and defendants argue, that Robyn was not
+a computer programmer, and did not know what decompiling
+hardwired code entailed.
+
+
+
+
+                                 25
+       The point is irrelevant because if Robyn knew that the
+EULA prohibited decompiling EFI’s hardwired code, no matter
+how it was accomplished, she need not be a programmer to
+facilitate Ira’s breach of the EULA.
+       Defendants argue that Robyn, at worst, believed the trade
+secret was acquired through reverse engineering, but “reverse
+engineering is expressly excluded from the definition of improper
+means.” This argument has been discussed and rejected above.
+                            DISPOSITION
+       The order granting nonsuit is reversed. The order granting
+a new trial is affirmed, and the matter is remanded for further
+proceedings consistent with this opinion. The parties are to bear
+their own costs on appeal.
+       NOT TO BE PUBLISHED
+
+
+                                                 CHANEY, J.
+We concur:
+
+
+
+             BENDIX, Acting P. J.
+
+
+
+                            †
+             CRANDALL, J.
+
+
+
+
+      †
+       Judge of the San Luis Obispo County Superior Court,
+assigned by the Chief Justice pursuant to article VI, section 6 of
+the California Constitution.
+
+
+
+
+                                26

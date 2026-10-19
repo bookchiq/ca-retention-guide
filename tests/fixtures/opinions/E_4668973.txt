@@ -1,0 +1,500 @@
+cl_opinion_id: 4668973
+cluster: 4865194
+docket: E074843
+date: 2021-03-17
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Flores CA4/2
+----
+Filed 3/17/21 P. v. Flores CA4/2
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+ California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+                                     or ordered published for purposes of rule 8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                   FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION TWO
+
+
+
+ THE PEOPLE,
+
+          Plaintiff and Respondent,                                      E074843
+
+ v.                                                                      (Super.Ct.No. SWF1207306)
+
+ JUAN ELIAS FLORES, JR.,                                                 OPINION
+
+          Defendant and Appellant.
+
+
+
+
+         APPEAL from the Superior Court of Riverside County. John D. Molloy, Judge.
+
+Affirmed.
+
+         Christopher Love, under appointment by the Court of Appeal, for Defendant and
+
+Appellant.
+
+         Xavier Becerra, Attorney General, Lance E. Winters, Chief Assistant Attorney
+
+General, Julie L. Garland, Assistant Attorney General, Eric A. Swenson and Charles C.
+
+Ragland, Deputy Attorneys General, for Plaintiff and Respondent.
+
+
+
+
+                                                             1
+                                    I. INTRODUCTION
+
+       Defendant and appellant Juan Elias Flores, Jr., appeals from the trial court’s order
+
+denying the Secretary of the California Department of Corrections and Rehabilitation’s
+
+(CDCR) recommendation that his sentence be recalled for resentencing pursuant to Penal
+
+Code1 section 1170, subdivision (d) (section 1170(d)). On appeal, defendant argues the
+
+trial court abused its direction in failing to recall his sentence and resentence him because
+
+(1) it exercised its discretion to circumvent the amendment to section 667.5; and (2) the
+
+court was unaware that it had the discretion to strike the enhancements and then devise a
+
+new sentence. We find the trial court acted well within its discretion in declining to
+
+recall the sentence and affirm the postjudgment order.
+
+                  II. FACTUAL AND PROCEDURAL BACKGROUND2
+
+       Defendant and Jane Doe had an “‘off and on’” relationship for many years.
+
+Jane Doe eventually left defendant because he was using drugs and she was afraid he
+
+would assault her. On November 20, 2012, as Jane Doe and her young niece walked out
+
+of a shop, defendant grabbed Jane Doe from behind, held a six-inch tire reamer probe
+
+against her neck, and threatened to stab her with it. Defendant then forced Jane Doe and
+
+her niece into Jane Doe’s car and made Jane Doe drive while he sat in the back seat. As
+
+Jane Doe drove, she saw what she believed was a parked police vehicle and stopped her
+
+car behind it. Jane Doe and her niece then ran to the officer, a citizen volunteer, who
+
+
+       1   All future references are to the Penal Code.
+
+       2   The factual background is taken from the probation officer’s report.
+
+                                              2
+called the police. Police officers responded and apprehended defendant from the back
+
+seat of Jane Doe’s vehicle. During a search of the vehicle, officers found the tire reamer
+
+probe used in the commission of the incident. A records check indicated defendant was
+
+on probation at the time.
+
+       On October 10, 2013, a jury found defendant guilty of kidnapping (§ 207,
+
+subd. (a); count 1) and stalking after being convicted of a domestic violence offense
+
+(§ 646.9, subd. (c)(1); count 2). The jury found true that defendant personally used a
+
+deadly or dangerous weapon in committing the kidnapping (§ 12022, subd. (b)(1)).
+
+Defendant thereafter admitted that he had suffered a prior strike conviction (§§ 667,
+
+subds. (c) & (e)(1), 1170.12, subd. (c)(1)), a prior serious felony conviction (§ 667,
+
+subd. (a)), and five prior prison terms (§ 667.5, subd. (b)).
+
+       On February 28, 2014, the trial court sentenced defendant to an aggregate
+
+determinate term of 20 years in state prison as follows: 10 years on count 1 (the middle
+
+term of five years doubled due to the prior strike conviction); a consecutive one-year term
+
+for the weapon use enhancement; consecutive one-year terms for four of the five prior
+
+prison term enhancements; and a consecutive five-year term for the prior serious felony
+
+enhancement. The court stayed the sentences on count 2 and one of the prior prison term
+
+enhancements.
+
+       On June 17, 2019, the Secretary of the CDCR sent a letter to the superior court
+
+recommending that defendant be resentenced pursuant to section 1170(d). The Secretary
+
+noted that in 2014 when defendant had been sentenced, the five-year prior serious felony
+
+
+
+                                              3
+enhancement under section 667, subdivision (a)(1), was mandatory, but as of 2019, the
+
+trial court has the discretion to retroactively strike the five-year sentence on the
+
+enhancement. The Secretary attached to its letter a copy of defendant’s prison history, as
+
+well as a report showing defendant had not violated any rules while in prison.
+
+       On February 7, 2020, defendant filed a recall and resentencing brief pursuant to
+
+section 1170(d), with supporting exhibits. He argued that the five-year prior serious
+
+felony enhancement should be stricken as well as the four one-year section 667.5,
+
+subdivision (b) prior prison term enhancements due to the changes in the sentencing laws
+
+concerning these enhancements. He noted that he had not received any prison violation
+
+or any negative write-ups for a violation and that he had completed numerous programs,
+
+including substance abuse and faith-based programs, while in custody at four different
+
+prison facilities. Defendant also pointed out that while incarcerated, he had earned his
+
+GED and remained employed working as a porter, furniture factory worker, and
+
+warehouse worker.
+
+       The People filed an opposition to defendant’s motion for recall and resentencing,
+
+arguing the court should decline to exercise its discretion to resentence defendant because
+
+his sentence was appropriate. The People asserted that defendant’s extensive criminal
+
+history, which included a long history of domestic violence toward women, and the
+
+seriousness of his current offense showed he posed a threat to society.
+
+       The trial court heard the matter on February 21, 2020, and denied the motion to
+
+recall and resentence defendant. The court remarked that the Secretary’s letter was
+
+
+
+                                               4
+“wholly unhelpful” because it failed to articulate why the court should exercise its
+
+discretion under section 1170(d). The court also noted that during a chambers conference
+
+it had discussed with the attorneys that if the court believed it was appropriate to
+
+resentence defendant, it would be required to strike the four prior prison term
+
+enhancements due to a change in the law, specifically, Senate Bill No. 136 (Senate Bill
+
+136) (2019-2020 Reg. Sess.). The court further stated, “Having said those things, on the
+
+merits the Court indicated to the attorneys in chambers . . . that [it] was not inclined to
+
+exercise [its] discretion on this set of facts.”
+
+       The court explained its decision as follows: “I am mindful the defendant has done
+
+some things. The defendant, primarily with his letters and through the exhibits, has
+
+demonstrated that he has found religion. And there are no bad records that were
+
+presented at all that he’s been in trouble since he’s been in prison. [¶] But the Court is
+
+also mindful of the defendant’s record. The record at the time of the instant offense was
+
+horrific. The Court is also mindful that the instant offense involved a protracted series of
+
+events with respect to the victim. The Court is further mindful that a number of the
+
+defendant’s priors involved this same victim. [¶] Having looked at everything on
+
+balance, the Court is disinclined to exercise its discretion pursuant to 1170(d) and
+
+resentence this defendant.”
+
+       Defendant timely appealed.
+
+
+
+
+                                                   5
+                                     III. DISCUSSION
+
+       Defendant contends the trial court abused its discretion when it declined to
+
+resentence him under section 1170(d), because the court only did so to avoid striking his
+
+prior prison term enhancements. He also asserts the court abused its discretion because it
+
+was unaware of the full scope of its discretion, noting that the court was unaware it had
+
+the discretion to strike the enhancements and then devise a new sentence. We disagree.
+
+       Section 1170(d)(1) authorizes the Secretary of the CDCR to recommend to the
+
+superior court that the court recall a previously imposed sentence and resentence the
+
+defendant “‘for any otherwise lawful reason.’” (People v. Loper (2015) 60 Cal.4th 1155,
+
+1165, quoting Dix v. Superior Court (1991) 53 Cal.3d 442, 460 (Dix).) The goal of such
+
+resentencing is “to eliminate disparity of sentences and to promote uniformity of
+
+sentencing.” (§ 1170(d)(1).)
+
+       Specifically, section 1170(d)(1) authorizes the court, “within 120 days of the date
+
+of commitment on its own motion, or at any time upon the recommendation of the
+
+secretary or the Board of Parole Hearings in the case of state prison inmates . . . [to]
+
+recall the sentence and commitment previously ordered and resentence the defendant in
+
+the same manner as if they had not previously been sentenced, provided the new
+
+sentence, if any, is no greater than the initial sentence.”3 This provision thus creates “an
+
+exception to the common law rule that the court loses resentencing jurisdiction once
+
+
+       3 The Legislature revised section 1170(d)(1), effective August 6, 2020, to replace
+“he or she” with “they.” For ease of reference we quote section 1170(d)(1) in its current
+form.
+
+                                              6
+execution of sentence has begun.” (Dix, supra, 53 Cal.3d at p. 455; accord, People v.
+
+McCallum (2020) 55 Cal.App.5th 202, 210 (McCallum).)
+
+       The CDCR can only recommend to the trial court that it recall and resentence the
+
+defendant. The court retains the authority to accept or decline the CDCR’s
+
+recommendation. The statute is clearly permissive, not mandatory—it uses the verb
+
+“may,” not “shall.” (§ 1170(d)(1); People v. Humphrey (2020) 44 Cal.App.5th 371, 378;
+
+Dix, supra, 53 Cal.3d at p. 459, fn. 12; People v. Gibson (2016) 2 Cal.App.5th 315, 324
+
+(Gibson); People v. Delson (1984) 161 Cal.App.3d 56, 62.) If the court chooses to recall
+
+and resentence the defendant, it must give some indication that it is doing so. (People v.
+
+Humphrey, at p. 378.)
+
+       We review the superior court’s order declining to follow the Secretary of the
+
+CDCR’s recommendation for abuse of discretion. (McCallum, supra, 55 Cal.App.5th at
+
+p. 211; Gibson, supra, 2 Cal.App.5th at pp. 324-325.) A trial court abuses its sentencing
+
+discretion when its decision is arbitrary or capricious, patently absurd resulting in a
+
+manifested miscarriage of justice, inconsistent with the letter and spirit of the law, or
+
+based on circumstances that constitute an improper basis for decision. (People v.
+
+Sandoval (2007) 41 Cal.4th 825, 847 (Sandoval); Gibson, at p. 325.) It is defendant’s
+
+burden to clearly show the sentencing decision was so irrational or arbitrary no
+
+reasonable person could agree with it. (People v. Carmony (2004) 33 Cal.4th 367, 376-
+
+377 (Carmony).) “‘The abuse of discretion standard “involves abundant deference” to
+
+the court’s ruling.’ [Citations.]” (McCallum, at p. 211.)
+
+
+
+                                              7
+       “In deciding whether to recall a sentence under section 1170, subdivision (d)(1),
+
+the trial court may exercise its authority ‘for any reason rationally related to lawful
+
+sentencing.’ (Dix, supra, 53 Cal.3d at p. 456.) Further, section 1170, subdivision (d)(1),
+
+expressly authorizes the court in resentencing a defendant to consider ‘postconviction
+
+factors, including, but not limited to, the inmate’s disciplinary record and record of
+
+rehabilitation while incarcerated, evidence that reflects whether age, time served, and
+
+diminished physical condition, if any, have reduced the inmate’s risk for future violence,
+
+and evidence that reflects that circumstances have changed since the inmate’s original
+
+sentencing so that the inmate’s continued incarceration is no longer in the interest of
+
+justice.’” (McCallum, supra, 55 Cal.App.5th at p. 210, italics added.)
+
+       Section 1170(d)(1) thus contains a two-step process. At the first step, the trial
+
+court decides whether to recall the sentence. If the court decides not to recall the
+
+sentence, this ends the inquiry. If the court decides to recall the sentence, however, the
+
+inquiry moves onto the second step, and the court holds a resentencing hearing. (See
+
+§ 1170(d)(1); see also Dix, supra, 53 Cal.3d at p. 463 [“We hold that section 1170(d)
+
+permits the sentencing court to recall a sentence for any reason which could influence
+
+sentencing generally, even if the reason arose after the original commitment. The court
+
+may thereafter consider any such reason in deciding upon a new sentence.”].)
+
+       Here, the record establishes that the trial court considered all relevant factors in
+
+refusing to recall defendant’s sentence and resentence him. At the time of the request to
+
+recall the sentence, the trial court was aware of the offenses, defendant’s extensive
+
+
+
+                                              8
+criminal history, his substance abuse history, his performance while in prison, and the
+
+secretary’s recommendation. As the court noted, defendant had made positive progress
+
+while in prison, but “[h]aving looked at everything on balance, the Court [was]
+
+disinclined to exercise its discretion pursuant to 1170(d) and resentence this defendant.”
+
+The court acknowledged that it would be required to strike the four prior prison term
+
+enhancements under Senate Bill 136, but “on the merits the Court indicated to the
+
+attorneys in chambers . . . that [it] was not inclined to exercise [its] discretion on this set
+
+of facts.”
+
+       Defendant does not challenge the court’s weighing of the relevant sentencing
+
+factors to determine if resentencing him was in the interest of justice. Rather, relying on
+
+the court’s comment in chambers that it would be required to strike defendant’s four prior
+
+prison term enhancements if it found his case appropriate for resentencing, he argues the
+
+court abused its discretion because the court’s primary reason it declined to recall the
+
+sentence was to avoid striking the prior prison term enhancements under Senate Bill 136.
+
+He further asserts that the court was unaware it had discretion to strike the prior prison
+
+term enhancements and impose a new sentence “that would increase other elements of
+
+the sentence to make up some or all of the difference.” The record belies these
+
+contentions. The record reveals the court expressly considered defendant’s positive
+
+postconviction behavior, but rationally concluded defendant’s violent and extensive
+
+criminal history outweighed his good behavior. And, therefore, the court declined to
+
+exercise its discretion under section 1170(d)(1).
+
+
+
+                                               9
+          Defendant relies on People v. Torres (2020) 48 Cal.App.5th 550, 560 (Torres) for
+
+the proposition that a trial court “abuses its discretion if it circumvents the Legislature’s
+
+intent and hinders its goals.” First, Torres was considering section 1170, subdivision (e),
+
+dealing with compassionate releases under statutorily established guidelines. That
+
+section is substantially different from section 1170(d)(1). Section 1170, subdivision (e),
+
+does not clearly identify which factors the court may consider in exercising its discretion
+
+to grant or deny a request for a compassionate release. Section 1170(d), however,
+
+expressly lists several factors that the court may consider. The trial court here
+
+appropriately considered those factors. The court’s comment concerning the prior prison
+
+term enhancements does not show that it circumvented or thwarted the Legislature’s
+
+intent.
+
+          Likewise, the court’s statements do not support defendant’s position that the court
+
+was unaware of the full scope of its discretion. “‘It is a basic presumption indulged in by
+
+reviewing courts that the trial court is presumed to have known and applied the correct
+
+statutory and case law in the exercise of its official duties. [Citations.]’ [Citation.]”
+
+(People v. Nance (1991) 1 Cal.App.4th 1453, 1456.) “These general rules concerning the
+
+presumption of regularity of judicial exercises of discretion apply to sentencing issues.
+
+[Citations.]” (People v. Mosley (1997) 53 Cal.App.4th 489, 496-497.) “From a silent
+
+record, we cannot determine the sentencing court misunderstood its authority or
+
+discretion.” (People v. White Eagle (1996) 48 Cal.App.4th 1511, 1523.)
+
+
+
+
+                                               10
+       Here, there is no indication in the record that the trial court believed it would not
+
+be able to resentence defendant to a sentence comparable to his 20-year sentence if it
+
+recalled his sentence and resentenced him. Rather, the court concluded it was not in the
+
+interest of justice to do so. The court weighed all the material before it and reached a
+
+reasoned decision under the proper criteria. It is apparent the court’s decision was made
+
+with awareness of its discretionary authority and the reasons for and against recall of the
+
+sentence. Undoubtedly, reasonable minds could differ on whether to grant or deny this
+
+request, which of course only illustrates it was a discretionary judgment, not simply an
+
+evaluation of legislatively established criteria. We cannot say the trial court’s decision
+
+was unreasonable, arbitrary, or a miscarriage of justice. (Sandoval, supra, 41 Cal.4th at
+
+p. 847; Carmony, supra, 33 Cal.4th at pp. 376-377.)
+
+                                    IV. DISPOSITION
+
+       The trial court’s postjudgment order denying the motion to recall and resentence
+
+defendant pursuant to section 1170, subdivision (d), is affirmed.
+
+       NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+                                                                 CODRINGTON
+                                                                                               J.
+We concur:
+
+
+RAMIREZ
+                        P. J.
+
+
+SLOUGH
+                           J.
+
+
+
+                                             11

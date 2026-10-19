@@ -1,0 +1,147 @@
+cl_opinion_id: 11171843
+cluster: 10705256
+docket: C102065
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re J.M. CA3
+----
+Filed 10/16/25 In re J.M. CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                  IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                        (Modoc)
+                                                            ----
+
+
+
+
+    In re J.M., a Person Coming Under the Juvenile Court                                       C102065
+    Law.
+
+    THE PEOPLE,                                                                   (Super. Ct. No. JL-21-032)
+
+                    Plaintiff and Respondent,
+
+             v.
+
+    J.M.,
+
+                    Defendant and Appellant.
+
+
+
+
+            After minor J.M. admitted to allegations of multiple sex offenses, the juvenile
+court ordered him to register as a sex offender pursuant to Penal Code1 section 290.008.
+On appeal, minor argues the court lacked the authority to require him to register. The
+People agree, as do we. We strike the registration requirement.
+
+
+
+1           Undesignated statutory references are to the Penal Code.
+
+                                                             1
+                     FACTUAL AND PROCEDURAL BACKGROUND
+       In 2021, the prosecution filed an amended juvenile wardship petition alleging that
+minor came within the jurisdiction of the juvenile court because he had committed
+forcible rape of a child under 14 years of age, a lewd and lascivious act upon a child
+under 14 years of age, and forcible oral copulation upon a child under 14 years of age.
+       Minor admitted the allegations. The juvenile court adjudged him a ward and
+committed him to the El Dorado County juvenile treatment center. The court ordered
+minor to register as a “Tier 2” sex offender for a period of 10 years pursuant to
+section 290.008.
+       In April 2022, the juvenile court ordered minor be released to the custody of his
+father under the supervision of a probation officer. The court again ordered minor to
+register as a sex offender.
+       In June 2022, the prosecution filed a subsequent juvenile wardship petition
+alleging that minor came within the jurisdiction of the juvenile court because he had
+committed assault by means of force likely to produce great bodily injury. The probation
+department also filed a petition alleging minor had violated the conditions of his
+wardship. Minor admitted the allegations in the prosecution’s petition and stipulated this
+admission was also an admission to the allegations in the probation department’s petition.
+The juvenile court committed minor to the Sonoma County secure youth treatment
+facility and ordered that, upon his release, he had to register as a sex offender pursuant to
+section “290.08.”2
+       In August 2024, over minor’s objection, the juvenile court again ordered that upon
+his release, minor register as a tier two sex offender for 10 years.
+       Minor appeals.
+
+
+
+2      Given the context, we assume the juvenile court was referring to section 290.008
+as section 290.08 concerns record retention policies.
+
+                                              2
+                                       DISCUSSION
+       Minor argues that, under the plain language of section 290.008, the juvenile court
+erred when it ordered him to register as a sex offender. The People agree with minor.
+The parties are correct.
+       As relevant here, Penal Code section 290.008, subdivision (a) provides that “[a]ny
+person who, on or after January 1, 1986, is discharged or paroled from the Department of
+Corrections and Rehabilitation to the custody of which they were committed after having
+been adjudicated a ward of the juvenile court pursuant to [s]ection 602 of the Welfare and
+Institutions Code because of the commission or attempted commission” of certain
+offenses “shall register in accordance with the [Sex Offender Registration] Act [(Pen.
+Code, § 290 et seq.)].” (Italics added.) Penal Code section 290.008, subdivision (d)(2)
+further provides that “[a] person is a tier two juvenile offender if the person is required to
+register after being adjudicated as a ward of the court and discharged or paroled from the
+Department of Corrections and Rehabilitation” for certain offenses. (Italics added.)
+       This statute has been interpreted to mean that registration of juvenile wards is
+required when they are discharged or paroled from the Department of Corrections and
+Rehabilitation (Department) or the Department’s Division of Juvenile Justice, but that
+registration is not required when juvenile wards are released from a secure county
+program. (In re T.O. (2022) 84 Cal.App.5th 252, 264-266; see id. at p. 265 [“mandatory
+sex offender registration may not be imposed on juveniles . . . who were committed as
+wards to a county-administered program . . . rather than to the [Division of Juvenile
+Justice]. The language of section 290.008 ‘is clear and lends itself to only one reasonable
+interpretation’ ”].)
+       Here, minor was never committed to nor discharged or paroled from the
+Department or its Division of Juvenile Justice, and thus was not required to register as a
+sex offender under section 290.008. Given that “the juvenile court does not have the
+authority to impose discretionary sex offender registration on juvenile offenders”
+
+                                              3
+(In re T.O., supra, 84 Cal.App.5th at p. 264), the juvenile court erred in ordering minor to
+register as a sex offender.
+          In his reply brief, minor asserts it is the “practice of Modoc County juvenile court”
+to “requir[e] minors to register as sex offenders if they are committed to [s]ecure [y]outh
+[t]reatment [f]acilities.” Minor requests that this court “order the juvenile court of Modoc
+County to recall those cases in which it is aware that it has ordered children to register as
+juvenile sex offenders under similar circumstances and to strike those previous
+registration orders.” We decline minor’s request. As an initial matter, there is inadequate
+factual support for minor’s assertion that this is a “practice” of the juvenile court.
+Further, we do not consider contentions asserted for the first time in a reply brief.
+(People v. Taylor (2020) 43 Cal.App.5th 1102, 1114; People v. Duff (2014) 58 Cal.4th
+527, 550, fn. 9.) Finally, minor points to no authority permitting us to grant such broad
+relief.
+                                         DISPOSITION
+          The sex offender registration portions of the juvenile court’s orders and
+dispositions are stricken. We direct the juvenile court to prepare amended orders and
+dispositions without the sex offender registration requirement.
+
+
+                                                    /s/
+                                                    ROBIE, J.
+
+We concur:
+
+
+
+/s/
+HULL, Acting P. J.
+
+
+
+/s/
+BOULWARE EURIE, J.
+
+                                                4

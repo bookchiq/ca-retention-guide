@@ -1,0 +1,907 @@
+cl_opinion_id: 11392803
+cluster: 10925266
+docket: B341942
+date: 2026-07-09
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Jones CA2/5
+----
+Filed 7/9/26 P. v. Jones CA2/5
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION FIVE
+
+
+THE PEOPLE,                                                   B341942
+
+         Plaintiff and Respondent,                            (Los Angeles County
+                                                              Super. Ct. No. A578017)
+         v.
+
+RONALD ANTHONY JONES,
+
+         Defendant and Appellant.
+
+
+      APPEAL from a judgment of the Superior Court of the
+County of Los Angeles, Eleanor J. Hunter, Judge. Affirmed.
+      Marilee Marshall, under appointment by the Court of
+Appeal, for Defendant and Appellant Ronald Anthony Jones.
+      Rob Bonta, Attorney General, Charles C. Ragland, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Senior
+Assistant Attorney General, Scott A. Taryle, and Blythe Leszkay,
+Deputy Attorneys General, for Plaintiff and Respondent.
+                    I.     INTRODUCTION
+
+       After his first murder conviction was vacated based on
+race-based discrimination during jury selection, defendant
+Ronald Jones was retried and again convicted of special
+circumstance murder and other crimes. On appeal, he argues the
+trial court erred by admitting his custodial statements and
+denied him the relief required by the California Racial Justice
+Act of 20201 (Pen. Code2, § 745; the Act) for the race-based
+discrimination during jury selection that occurred in his first
+trial. We affirm.
+
+
+
+
+1      “In 2020, the California Legislature enacted the Racial
+Justice Act [citation], which went into effect on January 1, 2021.
+Its declared intent is ‘to eliminate racial bias from California’s
+criminal justice system because racism in any form or amount, at
+any stage of a criminal trial, is intolerable, inimical to a fair
+criminal justice system, is a miscarriage of justice under Article
+VI of the California Constitution, and violates the laws and
+Constitution of the State of California. Implicit bias, although
+often unintentional and unconscious, may inject racism and
+unfairness into proceedings similar to intentional bias.’
+[Citation].” (People v. Singh (2024) 103 Cal.App.5th 76, 109.)
+2     All further statutory references are to the Penal Code
+unless otherwise indicated.
+
+
+
+
+                                 2
+                     II.    BACKGROUND
+
+A.    The Arrest3
+
+       On October 18, 1988, defendant and George Marvin Trone,
+Jr. (Trone) abducted Lois Haro from a shopping mall in
+Pasadena. While driving around the area in Haro’s car, they
+committed sexual offenses against her including three rapes and
+forced oral copulation. Defendant then shot Haro in the head and
+left her on the side of an isolated road. A police officer on patrol
+discovered Haro later that evening and she died on the way to the
+hospital.
+       Police apprehended defendant the morning after the crimes
+after an officer observed him driving Haro’s car. Inside
+defendant’s apartment, officers found Haro’s belongings,
+including her pocketbook, wallet photograph insert, her
+identification, and three keys. A live .38 caliber bullet was
+recovered from inside a jacket hanging in defendant’s closet.4
+Officers also found a pair of wet, rolled-up underwear in the sink
+that appeared to have been washed; they were ultimately
+determined to be unrelated to the case.
+      Investigators tested defendant’s hands for gunshot residue.
+They noticed a spot on defendant’s pants that could have been
+blood, so they booked him and took his pants for evidence.
+During the booking process, a packet fell out of the crotch area of
+
+3     The facts of the murder are taken from the testimony and
+evidence introduced at the second trial.
+
+4     The bullet fragments removed from Haro’s brain were
+consistent with the bullet recovered from defendant’s jacket. The
+gun was never recovered.
+
+
+
+
+                                 3
+defendant’s underwear which contained Haro’s identification and
+credit cards.5 Police recovered an automated teller machine
+(ATM) receipt from Haro’s bank account and a key to her
+husband’s truck from defendant’s pants pocket.
+      Police arrested defendant on Wednesday morning,
+October 19, 1988 and he was arraigned two days later on Friday,
+afternoon, October 21, 1988. During the two days he was in pre-
+arraignment custody, he confessed to the crimes.
+
+B.     The Statements
+
+       1.    First Day Statements
+
+      On the morning of defendant’s arrest, October 19,
+Pasadena Police Department detectives Brian Schirka and Don
+Gallon interviewed him at the station after he was advised of and
+waived his Miranda6 rights. They recorded the interview with a
+visible tape recorder. The initial interview, which lasted
+approximately an hour, was interrupted when Gallon noticed a
+spot of blood on defendant’s pants and decided to book him.
+       Prior to booking, defendant denied any involvement in the
+crimes. He told the police that he was with Trone at the
+Pasadena Mall between 8:10 and 8:45 p.m. the previous night,
+but at home by 10:30 p.m. where he remained until the police
+arrived in the morning. But when detectives disclosed that
+witnesses saw defendant driving Haro’s car early that morning,
+
+
+5      Defendant later said he found Haro’s credit cards in her
+car.
+
+6      Miranda v. Arizona (1966) 384 U.S. 436 (Miranda).
+
+
+
+
+                                 4
+defendant explained that a friend brought the car to his house
+that morning and he took it for a brief drive. Gallon asked, “And
+when did you take the license plate off?” Defendant denied
+touching the license plate, but then asked “Can y’all prove I did
+that?” Eventually, he admitted touching the plates, then said he
+removed the rear plate because his friend asked him to do so.
+       After defendant was booked, Schirka and Gallon reminded
+defendant of his Miranda rights and asked defendant if he was
+still willing to talk to them. Defendant waived his rights and the
+detectives resumed questioning. Before the break, Gallon told
+defendant his hands had tested positive for gunshot residue.
+Defendant explained that he had shot a BB gun earlier that
+week. But after the break, he admitted Trone had a gun which
+defendant handled earlier that day at defendant’s sister’s house.
+       Gallon next told defendant that investigators had used a
+“mass spectrometer” which showed defendant had physical
+contact with Haro.7 Defendant denied touching Haro and denied
+having sex with anyone that night. Gallon claimed he knew
+defendant killed Haro or was at least present; he encouraged
+defendant to “look out for number one” and tell the police if he
+was merely present for the murder. Gallon suggested defendant
+might have made a mistake, and it would benefit him to admit it.
+Defendant then admitted he was present but denied touching
+Haro. He said, “[Trone] touched her, I touched him.”
+
+
+7      This was a ruse. At the time of the interviews, detectives
+did not yet know if Haro had been sexually assaulted. They told
+defendant they had a light that could detect if a stain contained
+biological fluid, which was true. DNA reference samples were
+collected from Haro, defendant, and Trone, but at the time, DNA
+typing was not yet available.
+
+
+
+
+                                5
+       Defendant provided a new version of the night’s events in
+which Trone was with Haro driving her car when they came to
+the park and asked defendant if he wanted to go for a drive with
+them. Defendant thought everything was “normal” because
+Trone was a “gigolo” and Haro did not seem scared. Defendant
+drove and Haro sat in the front seat. He did not know Trone had
+a gun until Trone threatened Haro with it when she failed to
+comply with his commands to get in the back seat with him.
+Defendant said he pulled the car over on the freeway, and Haro
+got in the backseat with Trone. Defendant resumed driving
+while Trone forced Haro to orally copulate him and then raped
+her twice. At that point in the interview, defendant denied
+having sexual contact with Haro himself. Defendant said that
+Trone killed Haro after he told defendant to pull over near a
+bridge known as “suicide bridge” because Haro could identify
+them. Defendant then dropped Trone off at the park and took
+Haro’s car home.
+       Gallon thanked defendant for being honest, but falsely told
+him that investigators had “physical evidence” suggesting
+defendant touched Haro with his penis. In response, defendant
+admitted touching Haro with his penis, but said he did not touch
+her vaginal area because she had her hand in the way. When
+asked if he ejaculated, he said, “No. No—not really,” but then
+admitted “it just dripped.” Gallon pressed defendant to admit he
+had inserted his penis inside Haro, and defendant agreed he had
+inserted just “the tip.” But he claimed he withdrew before he was
+going to ejaculate.
+       Detectives also confronted defendant with the ATM
+transaction record they found in his pocket, which showed
+someone used Haro’s ATM card to withdraw $40 at 9:48 p.m.
+
+
+
+
+                                6
+from her bank account. Defendant denied using Haro’s ATM card
+and said he did not see Trone use it either. The detectives
+repeatedly asked defendant about the wet underwear found in
+his home, and he consistently denied knowing anything about it.
+      Toward the end of the morning interview, defendant asked
+Schirka “how much time” a person convicted of murder serves.
+Schirka replied that it depended on the degree. Gallon explained
+detectives had “no say” in punishment, adding, “I can’t make any
+promises to you” and “But as far as ... me getting you any
+leniency or anything like that, I can’t do that, but I can tell them
+you were truthful. And you and I both know that ... if you had a
+choice between two people, you would rather talk to somebody
+that was being truthful than to someone that was lying.”
+      At the end of the interview, Gallon asked, “[D]id we make
+you any promises that we were gonna give you an easy time or
+anything if you talk to us?” Defendant answered, “Nope. You
+just promised that you’ll go over and talk to the District Attorney
+about it.”
+
+      2.    Second Day Statements
+
+       The next day, October 20, Gallon received word that
+defendant wanted to talk to him, and they had another
+conversation. Defendant told Gallon he was worried about the
+positive result of the gunshot residue test and wanted to explain.
+At that point, the detective repeated the Miranda advisement,
+and defendant again waived his rights. Gallon transcribed
+defendant’s statements as follows: “October 20, 1988 [¶] 1240
+hrs[.] [¶] When [Trone] shot that lady I was close behind him
+and at an angle near his right shoulder. So if the gun test is
+positive for me, then the flash of the gun may have hit my hand[.]
+
+
+
+
+                                 7
+[¶] Right after [Trone] fired the gun within a few seconds he
+dropped the gun in the car and I picked it up right away and then
+gave it back to him.” Defendant signed the statement, indicating
+he agreed.
+      Around 7:50 p.m. that night, detectives Lionel Salgado and
+Schirka interviewed defendant at the police station. The
+interview was not recorded, but Schirka took notes. Schirka
+renewed the Miranda advisement, and defendant waived his
+rights. The detectives told defendant that they had just
+interviewed Trone and confronted defendant with Trone’s
+statements. They accused defendant of shooting Haro; he did not
+respond. Then, defendant admitted he and Trone abducted Haro
+from the Pasadena Mall parking lot near the escalators at JC
+Penney. They robbed Haro of $12 in cash, a watch, and some
+rings. Defendant claimed he did not get anything from the
+robbery.8 Defendant said that he did not know where the gun
+was, but guessed it might be at Trone’s girlfriend’s house.
+Detectives who followed up on that information recovered Haro’s
+watch from Trone’s girlfriend’s residence.
+
+
+
+
+8     As previously noted, defendant was arrested in possession
+of many of Haro’s belongings, including her pocketbook, her
+wallet photograph insert, her identification, her credit card, her
+car keys, and her car.
+
+
+
+
+                                 8
+      3.    October 21 Car Ride Statements
+
+      The next morning, October 21, as detectives Salgado and
+Richard Cassidy9 were transporting defendant to the hospital to
+have his biological samples collected, defendant asked what he
+was “going to get for this.” During the 10-minute drive from the
+police station to the hospital, Salgado, who was in the back seat
+with defendant, explained a judge and jury would “decide the
+outcome of what he was going to get.” Salgado further explained
+the job of a detective was “to figure out what happened and who
+did what and what went on, and that … Schirka was in charge of
+the investigation.” Defendant told Salgado that he remembered
+him from the interview with Schirka the previous night. Salgado
+then said he believed defendant shot Haro. Defendant replied, “‘I
+guess I’ll tell you the truth then.’” He said he and Trone were
+going “to get rid of her,” and initially it was Trone that got out of
+the car with Haro. Trone told Haro to sit down and he pointed
+the gun at her with the hammer cocked. Then defendant joined
+Trone and told Haro to get on her stomach. Defendant put his
+hand over the gun that Trone was holding, defendant’s “hand
+slipped into the trigger and ... the gun went off.”
+      According to Cassidy, the atmosphere in the car was “very
+low key, professional.” They did not raise their voices or pressure
+defendant, and the conversation never became contested or
+controversial. Salgado “had no intention” of interviewing
+defendant that morning. He did not have a notepad or recording
+device, so he took notes on an evidence envelope while he sat next
+
+9     Detective Richard Cassidy was unavailable to testify at the
+second trial. His testimony from the first trial was read into the
+record.
+
+
+
+
+                                 9
+to defendant in the back seat and defendant continued talking.
+Salgado did not ask defendant any questions. He was aware that
+defendant had been Mirandized several times before, including
+the night prior when he interviewed defendant with Schirka.
+
+
+      4.    October 21 Hospital Interview
+
+       When the detectives arrived at the hospital with defendant,
+they took him to an interview room within the emergency
+department. They renewed his Miranda advisement and he
+waived his rights. He repeated the story he had told the
+detectives in the car. Salgado told defendant he did not believe
+Trone was near the gun when it went off. Defendant put his
+head down and said, “‘Okay. I shot her.’”
+       Salgado stopped the conversation to borrow a tape recorder
+from hospital staff. Once recording, Salgado again reminded
+defendant of his Miranda rights and defendant waived them.
+Defendant stated that Trone made Haro sit down, and defendant
+“went over there by [Trone] and picked the gun [sic] and
+[defendant] shot her.” Defendant clarified that he told Haro to
+“‘lay on [her] stomach’” and “that’s when [he] took the gun” from
+Trone. Salgado asked, “And what did you do?” Defendant again
+said, “I shot her.” Defendant explained that Trone was worried
+Haro would report them to the police and said they needed to get
+rid of her. When Trone had the gun pointed at Haro, however, he
+was listening to her talk and he acted like he did not want to pull
+the trigger. Defendant “just went over there and like got [the
+gun] from him and did it within two seconds and left.” Defendant
+insisted he did not know what Trone did with the gun after the
+
+
+
+
+                                10
+shooting. Defendant confirmed that the detectives had not made
+any promises to him or threats.
+       On the way back to the police station, defendant
+“volunteered” to tell Trone that he had admitted shooting Haro
+and to suggest that Trone tell the police where he put the gun.
+Detectives brought Trone to defendant, and defendant said, “‘I
+told them I shot the girl so tell them where the gun is at.’”
+
+C.    Procedural History
+
+       In an information filed on April 28, 1989, the Los Angeles
+County District Attorney charged defendant with five counts.
+Count 1 charged murder (§ 187, subd. (a)), with special
+circumstances that the murder was committed during a robbery,
+a kidnapping, a rape, and an oral copulation (§ 190.2, subd.
+(a)(17)). It was further alleged that defendant personally used a
+firearm (§§ 1203.06, subd. (a)(1); 12022.5), and that a principal
+was armed with a firearm (§ 12022, subd. (a)). Count 2 charged
+kidnapping to commit robbery (§ 209, subd. (b)), with an
+allegation that a principal was armed (§ 12022, subd. (a)).
+Count 3 charged second degree robbery (§ 211) with an allegation
+that a principal was armed (§ 12022, subd. (a)). Count 4 charged
+forcible rape in concert (§ 264.1) and count 5 charged forcible oral
+copulation (§ 288a, subd. (c)).
+       On April 11, 1991, a jury found defendant guilty of all
+counts and found all the special circumstance and enhancement
+allegations to be true. After a penalty phase trial, on May 7,
+1991, the jury returned a verdict of death. The court sentenced
+defendant to death on count 1. The court also imposed the high
+term of five years for the firearm use enhancement plus one year
+for the armed principal enhancement, which was stayed. On the
+
+
+
+
+                                 11
+remaining counts, defendant was sentenced to life without the
+possibility of parole on count 2, plus the high term of nine years
+on count 4, plus the high term of eight years on count 5. A high-
+term sentence of five years was imposed and stayed on count 3.
+       On direct appeal to the California Supreme Court,
+defendant argued the trial court erred when it denied his motions
+to set aside the information (§ 995) and to exclude the defendant’s
+statements (Evid. Code, § 405) on the basis that his October 19
+statement to Gallon was coerced by promises of leniency and the
+use of deception, and the subsequent statements, as the product
+of the first, were therefore also illegally obtained. (People v.
+Jones (1998) 17 Cal.4th 279, 297–299 (Jones I).) The Supreme
+Court determined “the prosecution met its burden of proving that
+there was nothing improper about the interrogations on the day
+of defendant’s arrest” and “the initial interrogations did not
+produce any involuntary incriminating statements.” (Id. at
+pp. 298–299.)10 The Supreme Court affirmed defendant’s
+conviction and death sentence on January 29, 1998.11 (Id. at
+
+
+
+10     In his first direct appeal, defendant contended that his
+October 20 and 21 statements should be excluded on the
+additional grounds that they were procured after an
+unreasonably delayed arraignment in violation of the Fourth
+Amendment and the failure to readvise him of his rights under
+Miranda. The Supreme Court deemed these supplemental
+arguments forfeited by defendant’s failure to raise them in the
+trial court. (Jones I, supra, 17 Cal.4th at p. 299, fn.1.) He raised
+those arguments again before his retrial.
+
+11    The court modified the sentence on count 2 to life with the
+possibility of parole.
+
+
+
+
+                                 12
+p. 319.) The United States Supreme Court denied certiorari on
+October 13, 1998, in Case No. 98-5094.
+      On September 30, 2021, the district court granted
+defendant federal habeas relief on the ground that jury selection
+“was incurably tainted by race-based discrimination.” The court
+determined that the prosecutor’s use of four peremptory strikes
+to remove all the Black prospective jurors violated defendant’s
+equal protection rights under Batson v. Kentucky (1986) 476 U.S.
+79 (Batson). Accordingly, it vacated the conviction and ordered
+the prosecutor to either release or retry defendant.
+      On January 7, 2022, the District Attorney notified the Los
+Angeles Superior Court trial court that he intended to retry the
+defendant but would no longer pursue the death penalty.12
+      On September 18, 2024, just prior to retrial, defendant
+moved to exclude his custodial statements. He renewed the
+arguments rejected by the Supreme Court that his admissions
+were involuntary because the first statements were “a direct
+result of [the detective]’s promises of leniency and improper use
+of deception,” his arraignment was unreasonably delayed, and
+the police failed to renew his Miranda advisement before the
+October 21 car ride to the hospital. He also argued that his last
+confession at the hospital on October 21, although made after a
+Miranda advisement, was wrongfully elicited by a two-step
+interrogation technique prohibited by Missouri v. Seibert (2004)
+542 U.S. 600.13
+
+
+12    Defendant was retried on the original information.
+
+13    In Missouri v. Seibert, supra, 542 U.S. 600, a plurality of
+the court held that when an interrogating officer deliberately
+withholds Miranda warnings, a midstream recitation after
+
+
+
+
+                                 13
+       The trial court first determined that under the doctrine of
+the law of the case it was bound to follow the Supreme Court’s
+1991 decision that all of the statements were voluntary and
+admissible. “In the alternative,” the court said it would make an
+independent “determination with regard to the voluntariness, not
+just the first set of statements, but the second and third.”
+       The parties agreed that the motion to exclude the
+statements would be based on the record of the previous trial in
+lieu of live testimony. After hearing argument, the trial court
+ruled the custodial statements were voluntary and admissible.
+The court found that detectives advised defendant of his
+constitutional rights under Miranda immediately before each of
+his four custodial interrogations and defendant knowingly and
+intelligently waived his rights. With respect to the October 21
+car ride, the court found an advisement was not necessary
+because it was not an interrogation and, even if it were,
+“defendant was advised of these [Miranda] warnings ... in fact,
+just ten hours ... before, with the same detective.” The court
+found no indication that defendant’s statements were not of his
+free will and observed that “[defendant] didn’t come off as a naïve
+follower. [Defendant] is actually articulate, he’s pretty smart,
+and he was dodging and weaving throughout all of these
+statements, to kind of anticipate different things that might come
+up.”
+       The trial court rejected defendant’s two-step interrogation
+argument outright because not only had defendant been advised
+of his Miranda rights four times before defendant claimed he was
+
+
+interrogation and an unwarned confession do not comply with
+Miranda’s warning requirement. (Id. at p. 622 (conc. opn. of
+Kennedy, J.).)
+
+
+
+
+                                14
+lured into making an unwarned statement, but “the defendant
+was already talking. He was talking to everybody.” The court
+also rejected defendant’s contention that his arraignment was
+unreasonably delayed, stating first that the issue had already
+been litigated and adding that because defendant was arraigned
+within the two-day requirement of state law “[h]e was not denied
+[due process].” Based on the foregoing, the court denied
+defendant’s motion to exclude his custodial statements.
+       Before retrial began, defendant pled guilty “for tactical
+reasons” to counts 2 through 5 (all charged crimes other than
+murder), admitted the related firearm allegations, and admitted
+that he was a major participant who acted with reckless
+indifference to human life when committing those crimes. On
+October 1, 2024, a jury found defendant guilty of the remaining
+charge of first degree murder. The jury found the special
+circumstance allegations true and found that a principal was
+armed with a firearm. The jury was unable to make a
+unanimous finding on whether defendant personally used a
+firearm.
+       The trial court sentenced defendant as follows: life without
+the possibility of parole plus one year for the armed principal
+enhancement on count 1; a consecutive term of life plus one year
+for the armed principal allegation on count 2; two years and four
+months, stayed, on count 3; a consecutive low term of five years
+on count 4; and a consecutive two years on count 5.
+       Defendant filed a timely notice of appeal.
+
+
+
+
+                                15
+                      III.   DISCUSSION
+
+A.   Admissibility of Defendant’s Custodial Statements
+
+      On appeal, defendant contends the trial court erred by
+denying his motion to exclude his custodial statements and
+allowing the prosecutor to introduce them at trial. He argues
+that: (1) the law of the case does not apply; (2) his October 19
+statements were coerced by promises of leniency and the use of
+deception; (3) his October 20 and 21 statements were coerced by
+an unreasonable delay in arraignment; and (4) his October 21
+statements are inadmissible because he was not readvised of his
+Miranda rights before the car ride and his statement at the
+hospital was elicited as a result of a prohibited two-step
+interrogation.
+
+     1.    The law of the case
+
+       The Attorney General argues that under the doctrine of the
+law of the case, the Supreme Court’s previous ruling that
+defendant’s statements were voluntary and admissible controls
+the outcome. Defendant suggests the doctrine should not apply
+when a conviction is vacated by a federal court granting habeas
+relief, but admits he can find no authority to support that view.
+At minimum, according to defendant, the law of the case doctrine
+cannot apply to the arguments the Supreme Court deemed
+forfeited, namely failure to re-Mirandize defendant and the
+
+
+
+
+                                 16
+alleged delay in arraignment, because those issues were not
+decided.14
+       “Under the law of the case doctrine, when an appellate
+court ‘“states in its opinion a principle or rule of law necessary to
+the decision, that principle or rule becomes the law of the case
+and must be adhered to throughout [the case’s] subsequent
+progress, both in the lower court and upon subsequent appeal
+… .”’ [Citation.]” (People v. Barragan (2004) 32 Cal.4th 236, 246
+(Barragan).) The doctrine “‘prevents the parties from seeking
+appellate reconsideration of an already decided issue in the same
+case absent some significant change in circumstances.’
+[Citation.]” (People v. Boyer (2006) 38 Cal.4th 412, 441 (Boyer).)
+“‘Application of the rule is now subject to the qualifications that
+“the point of law involved must have been necessary to the prior
+decision, that the matter must have been actually presented and
+determined by the court, and that application of the doctrine will
+not result in an unjust decision.” [Citations.]’ [Citation.]”
+(People v. Ramos (1997) 15 Cal.4th 1133, 1161 (Ramos).)15
+
+
+
+14    In the interests of justice, defendant urges us not to apply
+the doctrine because the Supreme Court’s review was nearly 30
+years ago and standards of decency with respect to the
+interrogation of young people have evolved in the intervening
+period.
+
+15    “An ‘unjust decision’ may result when ‘the controlling rules
+of law have been altered or clarified by a decision intervening
+between the first and second determinations of the appellate
+courts. [Citations.]’ (DiGenova v. State Board of Education
+(1962) 57 Cal.2d 167, 179–180; People v. Stanley[(1995)] 10
+Cal.4th [764,] 787.)” (Ramos, supra, 15 Cal.4th at p. 1161.)
+
+
+
+
+                                 17
+       Defendant has shown no basis to treat this case differently
+because his conviction was overturned by a federal habeas court
+rather than a state court. Whether a judgment of conviction is
+reversed after direct appeal or vacated after a state or federal
+petition for writ of habeas corpus, the case is returned to a
+pretrial posture as if the defendant had never been tried and
+convicted. (People v. Mack (2002) 97 Cal.App.4th 1010, 1014–
+1015; People v. Cooper (2007) 149 Cal.App.4th 500, 523.)
+Accordingly, we conclude the law of the case doctrine does apply
+to give binding effect to the Supreme Court’s ruling on the issue
+of the voluntariness of defendant’s custodial statements.
+       In his direct appeal of the first conviction, defendant
+challenged the first trial court’s rulings denying his motions to
+suppress his confessions under sections 995 and 405. (Jones I,
+supra, 17 Cal.4th at p. 296.) The Supreme Court addressed the
+admissibility of all five of the defendant’s statements and found
+them all voluntary. (Id. at p. 299.) That is the law of the case
+and must be adhered to “‘whether . . . right or wrong.’”
+(Barragan, supra, 32 Cal.4th at p. 246.) Even if defendant has
+new challenges to the voluntariness of the statements, the court
+is bound by the law of the case, unless he presents new evidence
+or there has been an intervening change in the law. (Id. at
+pp. 246–247; Boyer, supra, 38 Cal.4th at p. 442; Ramos, supra, 15
+Cal.4th at p. 1161.) Accordingly, based on the law of the case
+doctrine, we reject defendant’s contentions that his statements
+were not voluntary. Because, however, the Supreme Court
+concluded that defendant had forfeited his argument that his
+statements should be excluded because the police failed to re-
+Mirandize him, and because of an alleged delay in his
+arraignment and defendant raised these arguments in the trial
+
+
+
+
+                                18
+court in advance of his second trial, we will consider the merits of
+his arguments below.
+
+      2.    Failure to renew Miranda advisement
+
+       Defendant contends that his statements to Salgado on
+October 21 were taken in violation of Miranda, supra, 384 U.S.
+436 because (1) he was not advised of his rights before the 10-
+minute car ride and (2) the confession made at the hospital after
+Salgado did renew the advisement was the product of two-step
+questioning prohibited in Missouri v. Seibert, supra, 542 U.S.
+600.
+       As a threshold matter, “if ‘custodial interrogation’ is
+lacking, Miranda rights are not implicated ... .” (People v. Mickey
+(1991) 54 Cal.3d 612, 648 (Mickey).) The trial court found that
+the conversation in the police car was not an interrogation for
+purposes of Miranda analysis, and we review that finding for
+substantial evidence or clear error. (People v. Clark (1993) 5
+Cal.4th 950, 985, disapproved on another ground in People v.
+Doolin (2009) 45 Cal.4th 390, 421.) As used in the context of
+Miranda, supra, 384 U.S. 436, interrogation includes any words
+or actions on the part of the police that they should know are
+reasonably likely to elicit an incriminating response from the
+suspect. (People v. Clark, supra, 5 Cal.4th at p. 985.) It does not
+include all conversation between an officer and a suspect where a
+defendant makes incriminating statements. (Mickey, supra, 54
+Cal.3d at p. 648 [no interrogation when police responded to
+defendant’s question regarding the burial of his victims, lost his
+composure and made incriminating statements].)
+
+
+
+
+                                 19
+       Salgado and Cassidy were responsible for taking defendant
+to the hospital to retrieve blood, saliva, and hair samples.
+Salgado testified that he “had no intention” of interviewing
+defendant, which testimony was corroborated by his lack of
+notepad or recording device. Salgado did not ask defendant any
+questions. When defendant started making admissions, Salgado
+improvised by taking notes on the evidence envelope he had
+brought for the biological samples. As Cassidy explained, the
+atmosphere in the car was “very low key, professional.” The
+detectives did not raise their voices or pressure defendant, and
+the conversation never became contested or controversial.
+Defendant initiated the conversation that morning by asking
+about his possible punishment. Defendant’s unsolicited
+admission was an unexpected response to Salgado answering his
+question and then offering an opinion about defendant’s role in
+the crime. Substantial evidence therefore supports the trial
+court’s finding that defendant was not interrogated during the
+car ride to the hospital.
+       In addition, we reject the assertion that the detectives were
+required to readvise defendant of his Miranda rights for the car
+ride. “[R]eadvisement is unnecessary where the subsequent
+interrogation is ‘reasonably contemporaneous’ with the prior
+knowing and intelligent waiver. [Citations.] The courts examine
+the totality of the circumstances, including the amount of time
+that has passed since the waiver, any change in the identity of
+the interrogator or the location of the interview, any official
+reminder of the prior advisement, the suspect’s sophistication or
+past experience with law enforcement, and any indicia that he
+subjectively understands and waives his rights.” (People v.
+Mickle (1991) 54 Cal.3d 140, 170 (Mickle).)
+
+
+
+
+                                20
+       Here, although the location of the conversation had
+changed to the car, it was clear from the circumstances that
+defendant was still in official custody. He was handcuffed in the
+back of a police car and headed to the hospital to fulfill the
+mandate of a search warrant. He could reasonably be expected to
+know that any statements made at this time might be used
+against him in the investigation and any subsequent trial. (See
+Mickle, supra, 54 Cal.3d at p. 171.) Further, defendant
+recognized Salgado from his earlier interactions with him and
+Salgado was the same detective who, with Gallon, gave defendant
+the Miranda advisement the night before. (See ibid.) Defendant
+was advised of and waived his right to remain silent four times
+within the previous 48 hours. (See ibid.) Under these
+circumstances, the trial court’s conclusion that “defendant was
+well aware with regard to his Miranda rights” was supported by
+substantial evidence. The police therefore were not required to
+renew the Miranda advisement prior to transporting defendant
+to the hospital. (See id. at p. 170 [defendant’s statements in
+fourth interview were voluntary where it was given 36 hours
+after last warning by the same two detectives who had previously
+admonished him]; People v. Thompson (1992) 7 Cal.App.4th 1966,
+1972–1973 [nine-hour interval between advisement and
+confession did not violate Miranda where the defendant
+confessed to the same officer who had previously advised him of
+his rights]; People v. Johnson (1973) 32 Cal.App.3d 988, 997
+[defendant’s statements were voluntary where he was given
+multiple warnings during seven interviews over nine days].)
+       Defendant additionally argues that the police engaged in
+an impermissible two-step interrogation on October 21, luring
+defendant into an unwarned confession in the car before advising
+
+
+
+
+                               21
+him of his Miranda rights at the hospital and resoliciting an
+admissible confession. We disagree. Defendant was advised of
+and waived his constitutional rights to silence and counsel four
+times before the car ride to the hospital on October 21.16 Because
+a Miranda advisement was not required, we reject defendant’s
+argument.
+
+      3.    Unreasonably delayed arraignment
+
+      Although he was arraigned within the two days required by
+statute17, defendant maintains that his confessions on October 21
+were the product of an unreasonable delay in arraignment in
+violation of the Fourth Amendment.
+       “Persons in custody must be arraigned without
+unnecessary delay. (Cal. Const., art. I, § 14; County of Riverside
+v. McLaughlin (1991) 500 U.S. 44, 56–57 [probable cause
+determination ordinarily should occur within 48 hours of a
+warrantless arrest]; see §§ 825 [arraignment ordinarily should
+occur within 48 hours, excluding Sundays and holidays], 859
+[appearance before a magistrate should occur without
+
+
+16    Defendant was first advised on the morning of his arrest
+and reminded when questioning resumed after he was booked
+that morning. The following day, defendant initiated a
+conversation with Gallon, who readvised him around noon. At
+7:51 p.m. that evening, defendant was interviewed by Salgado
+and Schirka, who readvised defendant of his rights, marking the
+fourth time in about 36 hours.
+
+17    As noted, the police arrested defendant on Wednesday
+morning, October 19, and defendant was arraigned on Friday
+afternoon, October 21.
+
+
+
+
+                                22
+unreasonable delay after charge by written complaint]; People v.
+Hughes (2002) 27 Cal.4th 287, 325.)” (People v. Williams (2010)
+49 Cal.4th 405, 446 (Williams).) But to justify exclusion of a
+statement based on delayed arraignment, a defendant “must
+show that the delay produced his admissions or that there was an
+essential connection between the illegal detention and admissions
+of guilt.” (People v. Turner (1994) 8 Cal.4th 137, 176 (Turner);
+accord, People v. Thompson (1980) 27 Cal.3d 303, 329–330
+(Thompson).)
+       As the trial court found, defendant was arraigned within
+two days of his arrest as required by section 825. Further,
+nothing in the record suggests that a two-day delay was
+unreasonable under the circumstances. The case against
+defendant involved potential charges of murder, kidnapping,
+rape, robbery, and the concomitant special circumstances. In
+view of the complexity of the charging decisions involved,
+including the discernment of two suspects’ levels of culpability,
+the delay was not unreasonable. (See, e.g., People v. Bonillas
+(1989) 48 Cal.3d 757, 787–788 [four days between arrest and
+arraignment was not unreasonable where case involved potential
+charges of murder and special circumstances and the charging
+decisions involved were complex]; Turner, supra, 8 Cal.4th at
+p. 175.)
+       In any event, even if defendant’s arraignment were
+unreasonably delayed, defendant cannot demonstrate the
+“‘“essential connection between the illegal detention and the
+confession”’” because he initiated the incriminating statement he
+made to Salgado in the police car on the way to the hospital on
+the second court day after his arrest. (See Williams, supra, 49
+Cal.4th at p. 446, quoting Thompson, supra, 27 Cal.3d at p. 330.)
+
+
+
+
+                               23
+B.    Violation of the Act
+
+       Defendant next contends that the trial court erred by
+ruling that the appropriate remedy for violation of the Act was a
+declaration that defendant was ineligible for the death penalty.
+He argues the court’s remedy was insufficient as a matter of law
+because ineligibility for the death penalty is a “categorical
+prohibition” under subdivision (l) of the Act, not a remedial
+option. As defendant reads the Act, the court was required to
+impose an additional remedy against the prosecutor as a
+sanction. (§ 745, subd. (l).)
+       As we describe above, the district court granted defendant
+federal habeas relief on the ground that the prosecutor used
+peremptory strikes to remove all the Black jurors. After his
+return to superior court, defendant filed a motion claiming the
+“government’s egregious conduct” in the first trial violated the
+Act and seeking, as a remedy, reduction of his murder charge or
+dismissal of the special circumstances or enhancements. The
+prosecutor conceded the Act was violated in the first trial, but
+argued the issue was moot because the federal court remedied
+the violation when it vacated the conviction. On June 4, 2024,
+the trial court ruled the appropriate remedy was ineligibility for
+the death penalty under former section 745, subdivision (e)(3).18
+       The Attorney General argues that the Act does not
+encompass racially discriminatory peremptory challenges
+because its plain language does not include jury selection and the
+legislative history reveals the Legislature’s express intent to
+exclude bias directed at potential jurors from the scope of section
+
+18     On August 16, 2024, the court denied the defense motion
+for reconsideration.
+
+
+
+
+                                24
+745 and instead address it through a separate statutory scheme.
+Defendant responds that the argument borders on “absurdity”
+but offers no further explanation.
+       Even if we were to assume, without deciding, that the Act
+applied to the discriminatory use of peremptory challenges, we
+would reject defendant’s argument. According to defendant, the
+trial court was required to impose a remedy for the prosecutor’s
+discriminatory use of peremptory challenges during the first trial.
+The federal district court, however, had already vacated the
+conviction that resulted from the proceedings in the first trial,
+the remedy set forth at section 745, subdivision (e)(2)(A), and
+defendant was thereafter retried on the information. The
+judgment on review in this appeal was based on the proceedings
+in the retrial, about which defendant raises no challenge under
+the Act. Thus, on this record, we conclude that defendant did not
+state a prima facie claim for relief under the Act.
+
+
+
+
+                                25
+                     IV.   DISPOSITION
+
+     The judgment is affirmed.
+
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+
+
+                                     KIM (D.), J.
+
+
+
+We concur:
+
+
+
+
+             HOFFSTADT, P. J.
+
+
+
+
+             MOOR, J.
+
+
+
+
+                                26

@@ -1,0 +1,820 @@
+cl_opinion_id: 11312362
+cluster: 10845002
+docket: G064798
+date: 2026-04-16
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Harzan
+----
+Filed 4/16/26
+
+
+
+
+                        CERTIFIED FOR PUBLICATION
+
+       IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                        FOURTH APPELLATE DISTRICT
+
+                                DIVISION THREE
+
+
+ THE PEOPLE,
+
+     Plaintiff and Respondent,                 G064798
+
+         v.                                    (Super. Ct. No. 20WF1838)
+
+ JAN CURTIS HARZAN,                            OPINION
+
+     Defendant and Appellant.
+
+
+
+                Appeal from a judgment of the Superior Court of Orange County,
+Terri K. Flynn-Peister, Judge. Reversed.
+                Quinn & Dworakowski and David Dworakowski for Defendant
+and Appellant.
+                Rob Bonta, Attorney General, Charles C. Ragland, Chief
+Assistant Attorney General, Robin Urbanski, Donald W. Ostertag and Flavio
+Nominati, Deputy Attorneys General, for Plaintiff and Appellant.
+            Over a nine-day period in 2020, defendant Jan Curtis Harzan,
+then age 65, exchanged sexually explicit electronic messages with an
+undercover police detective whom he believed was a 13-year-old girl named
+Brianna. At Harzan’s trial for communicating with and arranging to meet a
+minor with the intent to commit a sexual offense, the trial court ruled there
+was sufficient evidence to support jury instructions on the defense of
+entrapment. However, the court ruled that if Harzan decided to pursue that
+defense, it would allow the prosecution to introduce evidence Harzan had
+engaged in sexual misconduct nearly 50 years earlier, when he was in his
+teens. To prevent the jury from hearing that highly prejudicial evidence,
+Harzan surrendered his right to present an entrapment defense, and he
+ultimately was convicted as charged.
+            On appeal, Harzan contends: (1) the trial court should have
+excluded the prior misconduct evidence altogether, irrespective of the
+entrapment issue, and its failure to do so violated his constitutional right to
+present a defense; and (2) there is insufficient evidence to support his
+convictions. Although we find Harzan’s convictions are supported by
+substantial evidence, we conclude the trial court prejudicially violated
+Harzan’s constitutional rights by requiring him to give up his entrapment
+defense in order to keep his prior sexual misconduct out of evidence. We
+therefore reverse the judgment.
+                           STATEMENT OF FACTS
+            In May 2020, Harzan posted an ad on Craigslist under a category
+called “Missed Connections.” Entitled “Missing my young friend,” the ad
+stated: “GL older M here looking to find my young coed friend I use[d] to
+hang out with. We would have such good times together. Is that you?”
+
+
+
+                                        2
+            Harzan’s ad caught the attention of Huntington Beach Vice
+Detective Joseph Baugh, who specializes in internet-related crimes against
+children. Baugh believed the ad’s repeated use of the word “young” indicated
+the person posting it might be trying to contact minors for illicit purposes. So,
+on June 25, 2020, he responded to the post using an undercover email
+account.
+            Pretending to be a girl named “Brianna,” Baugh asked Harzan
+what “GL” meant and what he did for fun. Harzan replied: “GL means ‘Good
+Looking’ which is of course in the eye of the beholder. LOL I am looking for a
+fun little playmate and someone I can mentor. What are you looking for? Do
+you have a pic? Yours gets mine.” “Brianna” did not respond to that message.
+            The next day, Harzan emailed a photograph of himself to
+“Brianna,” along with the following message: “Would you like to talk? I can
+give you my cell number or we could meet somewhere and talk. A pic would
+be nice. Here’s mine. I’m available all afternoon today.” When “Brianna” did
+not reply, Harzan sent her several follow-up messages, saying he was
+generous and asking if she would like to meet. Still, she did not reply until
+four days later, on June 30, 2020.
+            That day, the following email exchange occurred between
+                        1
+“Brianna” and Harzan:
+            “[Brianna:] im only 13 so im pretty inexperienced...but wouldlike
+to get some from someone that knows what to do lol.
+            “[Harzan:] I am more than happy to talk with you, but honestly
+you are only 13 and therefore underage so sex is out of the question. I would
+
+            1
+               The exchanges between “Brianna” and Harzan are reproduced
+largely as is, with abbreviations and grammatical errors intact, to accurately
+reflect the nature of their conversations.
+
+                                        3
+focus on your school work and getting a good education at this point and
+forget about sex until you are at least 18. Always happy to talk with you
+about life, boys, school, careers, and anything else on your mind. You sound
+like a very sharp and intelligent young lady. Let me know if you would like
+this type of mentoring support.
+              “[Brianna:] ur so sweet,,,but I have enough friends to talk with,
+thk u tho
+              “[Harzan:] Would you be sweet enough to share a picture of
+yourself?
+              “[Brianna:] why would u want a pic of me,,,u basically just said u
+didnt want to do anything lol and how do I kno ur not gonna spread my pic
+everywhere??
+              “[Harzan:] I promise I would never do that.
+              “[Brianna:] but i dnt know that....im 13 but im not a dumb girl. id
+have to get to know you before sending pics...and u already said i was to
+young for u
+              “[Harzan:] Well, we better meet then. When are you avail.”
+              At that point, “Brianna” reiterated she already had enough
+friends. But she gave Harzan a phone number and told him he could text her
+if he wanted to.
+              A couple of minutes later, Harzan sent “Brianna” a text message,
+asking if she used Signal or WhatsApp, which are encrypted messaging apps
+that have heightened privacy protections. “Brianna” said she used to use
+WhatsApp, but her parents made her delete it. In response to Harzan’s
+inquiry about what she liked to do, she said she was into “all sorts of things”
+and wanted to “try some different stuff,” as well.
+
+
+
+                                         4
+             “Brianna” then asked Harzan what his initial post was about,
+which led to the following exchange:
+             “[Harzan:] I like teaching young ladies like yourself about life
+             “[Harzan:] Sex for sure.
+             “[Brianna:] like what
+             “[Brianna:] mmmm
+             “[Brianna:] im interested,,
+             “[Brianna:] how do uteach
+             “[Harzan:] But other things as well if you’re up for it.
+             “[Harzan:] We would need to meet and talk about it
+             “[Brianna:] id wanna kno what im getting myself into,,,,but im for
+sure down for stuff
+             “[Harzan:] I prefer hands on teaching to be honest
+             “[Brianna:] Ill be honest with u,,,ive never gone all the way with
+a guy
+             “[Harzan:] But nothing would happen without your consent
+             “[Brianna:] have done pretty muvh everything else
+             “[Brianna:] well if ur nice and not an asshle when we meet
+up,,,like I said
+             “[Brianna:] im down
+             “[Harzan:] I am very nice and respectful
+             “[Harzan:] Okay then. When would you like to get started”
+             The two then began discussing the logistics of getting together.
+When “Brianna” asked how long their first meeting would be, Harzan told
+her, “One hour maybe. Or two. Could be shorter if you like.” “Brianna”
+replied “an hour? that’s it......i don’t kno if id want my first time being a
+
+
+
+                                           5
+complete rush” “im not really sure how this woud go” “was hoping u would
+kno and show me lol.”
+            Harzan texted back: “How about I swing by tomorrow or
+Thursday and we meet face to face. If you like what you see we will set up
+time on Friday. Several hours for training and taking it slow.” “Or you tell me
+what your dream would be and I’ll make it come into being. It sounds like
+you’re ready to move to the next step.” When “Brianna” asked Harzan what
+they would do, he told her, “I have some ideas.” “Dream your vision tonight
+and let’s talk about it tomorrow.” He then encouraged “Brianna” to delete
+their conversation and said he would do the same.
+            The following morning, July 1, 2020, “Brianna” texted Harzan
+saying, “i was up all night thinking about u” “u r very handsome btw [smiling
+emoji]” She asked Harzan, “[I]f we were to have sex,,, would it be likein a
+hotel?” Harzan answered, “Yes or my office.” “Brianna” told Harzan she
+wanted to have sex but not get pregnant. When she asked Harzan about birth
+control, he said condoms used with foam were the best way to prevent
+pregnancy. That led to further discussions about their prospective encounter:
+            “[Brianna:] will u get whatever [birth control] u think is best if
+we decide today is the day??”
+            “[Brianna:] i dont thnk I can get that stuff without it looking
+sketchy
+            “[Harzan:] Yes
+            “[Harzan:] I’ll do that
+            “[Brianna:] last dumb question,,,[¶] . . . [¶] . . . because ur older
+than me,,,will it hurt more because urs is probably bigger than boys my age?
+            “[¶] . . . [¶]
+
+
+
+                                        6
+             “[Harzan:] It could. The trick is to go slow and work up from
+there
+             “[Harzan:] Stretch you out as it were
+             “[Brianna:] Wat do u mean as it were? [¶] . . . How do you stretch
+a vagina…that sounds terrible lol [¶] . . . or not....
+             “[Harzan:] Very slowly and carefully. It is built to stretch and
+expand. Where do you think babies arrive from?
+             “[Harzan:] It’s built to handle different sizes of penises
+             “[Harzan:] [Eggplant emoji]”
+             Harzan then asked “Brianna” about her prior sexual experiences
+and whether she had ever had an orgasm. She said she had a few sexual
+encounters with boys her age but had never gone “all the way” or had an
+orgasm. Harzan then told her, “I can make you orgasm by licking you, or by
+fingering you while I lick.” “There is the Gspot inside your vagina that gives
+you the best orgasms. One has to hit it.” “Brianna” responded, “gotcha” “ok
+now im excited” “lol.”
+             About half an hour later, “Brianna” messaged Harzan saying “if
+we are planning on doin this today lemme kno” because I “have to start tellin
+my parents something” as an excuse to get out of the house. Harzan
+suggested they meet in two days, on Friday July 3, 2020. He also asked
+“Brianna” if she would be willing to send him a picture of herself. She said
+she preferred not to, but if things went well when they met, he could have all
+the pictures he wanted.
+             Harzan later asked “Brianna” why she wanted to lose her
+virginity so badly. When she replied she wanted her first time to be with
+someone who knew what he was doing, Harzan said, “I can teach you alot.”
+“Brianna” told Harzan “im ready” and asked about his previous sexual
+
+                                         7
+encounters. Harzan said he had never had sex with someone as young as
+“Brianna,” and his first sexual encounter—with “an older married woman”
+when he was 17 years old—was not very good. He also told “Brianna” sex is
+more pleasurable when “you’re doing it with someone who” “you’re attracted
+to,” to which “Brianna” replied “well at least i got that going [kissing emoji].”
+When “Brianna” asked where they were going to “do it,” Harzan said he had a
+comfy blanket in his office that they could lay on, and she replied “ok.”
+            More texting ensued the following day, July 2, 2020. “Brianna”
+told Harzan her parents had given her permission to go to her friend’s house
+the next day, to which Harzan replied, “Great!” He then sent “Brianna” a long
+message that read:
+            “Brianna, I want to encourage you to consider 5 reasons NOT to
+have intercourse before you are over 16. Preferably 17 or 18. Here they are; 1.
+Boys will always want to sleep with you that is how they are genetically
+wired. Your not having sex (intercourse) with them only makes them want
+you more. You already know how to satisfy their desires without having
+intercourse. Trust me they will respect you more. 2. When you have
+intercourse with someone we are wired to want to bond with that person. The
+more partners one has the less and less the stickiness for bonding occurs.
+This can create potential problems when you get married and want to bond
+with your mate. It’s a chemical thing. You do not want to ‘lose’ your stickiness
+for bonding. 3. Once you begin sexual intercourse you turn on your biological
+internal clock and begin aging faster. Girls who hold off tend to blossom later
+and age at a slower rate. 4. Once you start you are going to want it all the
+time. You will live 100 years at your current age. What’s holding off 3 or 4
+more years? Thats 84 years of sex ahead of you. 5. Finally, the usual issues of
+
+
+
+                                        8
+pregnancy and or disease that can come with promiscuity. Please give these
+points careful consideration.”
+            That led to the following exchange:
+            “[Brianna:] i dont understand..
+            “[Brianna:] u could have just said u didnt want to meeet with me
+            “[Brianna:] im not forcing u to do anything
+            “[Harzan:] I do want to meet you
+            “[Brianna:] u didmnt have to be ,mean about it
+            “[Brianna:] Im not stupid and have thought about all that
+            “[Brianna:] Its MY choice
+            “[Brianna:] not urs or anyone elses
+            “[Harzan:] I’m not being mean. I just want to make sure you’ve
+thought it all the way through
+            “[Brianna:] so what are u saying?
+            “[Harzan:] You decision”
+            “Brianna” then told Harzan, “i truly feel like u dont really want
+to have sex with me anymore, which isn’t how I wanted to feel for my first
+time.” “[P]lease let me know if you still want to meet me, and if you are still
+good with having sex with me, i want to know that you WANT to, just let me
+kno either way.” Harzan replied, “I cannot because it is illegal for me to do so.
+Believe me I WANT to. Let’s talk tomorrow.” “Brianna” told Harzan she was
+confused and would talk to him later.
+            The next day, “Brianna” messaged Harzan saying she still
+wanted to have sex with him, but she wanted to know if the feeling was
+mutual. Harzan replied, “I really really really want to, but i also really really
+really don’t want to go to jail. [Frowning emoji] A call would be nice.”
+
+
+
+                                        9
+            At that point, Detective Baugh had a female undercover police
+officer call Harzan, pretending to be “Brianna.” During the call, the following
+exchange occurred:
+            “[Brianna]: So are we going to meet up or something? Because I
+told my mom I have soccer practice at 2:00.
+            “[Harzan]: Oh, gosh.
+            “[Brianna]: Because like, you know, it seems like you don’t really
+want to, and I thought this was like for sure.
+            “[Harzan]: Well, look. I really, really want to. The problem is I’m
+the one who takes the risk because if anyone finds out we did this, I am
+hosed, I’m screwed. That’s the thing I’m concerned about, so—
+            “[Brianna]: But, like, no one will know and it will just be us.
+            “[Harzan]: Yeah. And then what? If you tell a girlfriend or you
+tell a friend at school, I’m—and it gets back, then I’m the one who is going to
+be damaged. Not you. I mean, I’m going to be—look, I really, really want to
+do it. I mean, honestly. I mean, trust me. I want to help—I want to help you
+do this. I’m just nervous about—
+            “[Brianna]: Well, I don’t—well, I don’t have a lot of friends at
+school anyways so I wouldn’t tell anyone. And, like, I’ve been talking to you
+for a while now. I thought like—like—
+            “[Harzan]: Okay.
+            “[Brianna]: I thought we had something special here. And, like, I
+don’t even like the guys my age or anything so I thought this would be nice.
+            “[Harzan]: Why? Is this a one-time deal? Is that what we’re doing
+or were you thinking of something more?
+
+
+
+
+                                       10
+             “[Brianna]: I don’t—well, I don’t know. Whatever you want to do,
+but I just really want to lose my virginity already. It feels like all the girls in
+my class have already done it.
+             “[Harzan]: Wow. I doubt they have. They’re probably just talking
+big. Seriously. You think they all have? I don’t think so. I don’t think—
+             “[Brianna]: Well, yeah.
+             “[Harzan]: Is that—is that what’s driving you is you want to—you
+don’t want to—you want to be like the other girls that you’ve done it?
+             “[Brianna]: Well, kind of, but I want it to be like, I don’t know,
+better.
+             “[Harzan]: Uh-huh. How better?
+             “[Brianna]: Well, okay. Well, my mom is calling me. She wants to
+know if I’m actually going to go out or not. So I got to go. I’m going to text
+you. Okay?
+             “[Harzan]: Okay. Thanks, Brianna.”
+             Pretending to be “Brianna,” Detective Baugh then started texting
+with Harzan again:
+             “[Brianna:] are we doing this or not?
+             “[Brianna:] i dont know what else i can do to make u want to
+             “[Harzan:] How about we meet and talk and see where things go
+from there
+             “[Brianna:] i told u I don’t need friends
+             “[Brianna:] i wanted to have sex with u,,,,but its kinda ovbious u
+dont anymore
+             “[Harzan:] Tell me when and where and I’ll be there
+             “[Brianna:] u promise?
+             “[Harzan:] Y
+
+                                        11
+            “[Brianna:] [Smiling hearts emoji]”
+            Harzan and “Brianna” then made arrangements to meet at a fast
+food restaurant in Huntington Beach later that day. When Harzan arrived at
+the restaurant, the police arrested him and took him into custody. Harzan
+did not have any condoms in his possession, but he had already deleted about
+70 percent of his text messages with “Brianna” by that time.
+            Harzan was charged with one count of communicating with a
+minor with the intent to commit a sexual offense and one count of arranging
+to meet a minor with the intent to commit a sexual offense. (Pen. Code,
+                  2
+§§ 288.3 & 288.4.) Before trial, the prosecution moved to admit evidence that
+Harzan had sexually molested his younger sister and her friend when he was
+in his teens, back in the early 1970s. The trial court ruled the evidence could
+not be admitted in the prosecution’s case-in-chief, but if Harzan was going to
+raise the defense of entrapment, the prosecution could introduce the evidence
+to rebut that defense.
+            Harzan ended up foregoing an entrapment defense, and he did
+not present any evidence in his defense. In closing argument, defense counsel
+argued Harzan did not have the intent to have sex with “Brianna” when he
+was communicating with and arranging to meet her. However, the jury
+convicted Harzan as charged, and the trial court sentenced him to two years
+in prison for his crimes.
+
+
+
+            2
+              These crimes do not require the prosecution to prove the
+purported victim is a real person; they simply require proof the defendant
+believed the victim was real. (See Pen. Code, § 288.4, subd. (a)(1); People v.
+Korwin (2019) 36 Cal.App.5th 682 [it was no defense under Penal Code
+section 288.3 that the teenage girl the defendant thought he was
+communicating with was actually an adult undercover police officer].)
+
+                                       12
+                                 DISCUSSION
+                                        I.
+                  THE PRIOR SEXUAL MISCONDUCT EVIDENCE
+            Harzan contends the trial court erred in ruling the prosecution
+could admit evidence of his prior sexual misconduct if he raised an
+entrapment defense. Harzan argues the misconduct evidence should have
+been categorically excluded as unduly prejudicial and, by conditioning its
+exclusion on him giving up an entrapment defense, the court infringed his
+constitutional right to present a defense. The Attorney General asserts the
+court’s ruling is nonreviewable because the misconduct evidence was never
+admitted at trial and, in any event, the ruling was within the court’s
+discretion and constitutionally sound. For the reasons explained below, we
+conclude the court committed prejudicial error by allowing the prosecution to
+introduce evidence of Harzan’s prior sexual misconduct if he did not
+relinquish his right to assert the defense of entrapment.
+A. Factual Background
+            In their trial briefs, the parties laid out the communications
+between Harzan and “Brianna” and set forth their respective positions on the
+admissibility of Harzan’s prior sexual misconduct. According to the
+prosecutor, that misconduct came to light after the Huntington Beach Police
+Department posted about Harzan’s arrest on its Facebook page. In response
+to the post, Harzan’s sister (Jane Doe #1) reached out to the department and
+reported Harzan had molested her one time when she was about six years old
+and Harzan was about sixteen. She said the incident occurred in the garage
+of their family home. Harzan pulled down his pants, exposing his erect penis,
+and told her to put it in her mouth like “a lollipop.” She did as told, orally
+copulating Harzan for a brief period. Afterwards, she did not tell anyone
+
+                                        13
+about the incident, but she did bring it up to Harzan years later, when they
+were adults. Harzan told her he was sorry, wrote her an apology, and offered
+to go to therapy with her to help her work through it.
+            In addition to revealing her own abuse, Jane Doe #1 told the
+police Harzan may also have victimized her childhood friend, Jane Doe #2, so
+the police interviewed her, as well. Jane Doe #2 alleged Harzan molested her
+one day when she was about eight or nine years old and he was about 18. She
+had gone over to Harzan’s house to play with Jane Doe #1 that day, and when
+she went into Harzan’s room to retrieve a toy, he orally copulated her and
+offered her a dollar to lick his penis. When she refused, Harzan rubbed his
+erect penis against her vagina, but he did not penetrate her. At one point
+during the encounter, Jane Doe #1 opened the door, saw what was going on,
+and quickly ran away. After that, Harzan made a comment that made Jane
+Doe #2 think he might have molested Jane Doe #1, too.
+            The prosecutor contended this evidence was admissible under
+Evidence Code section 1108 to show Harzan’s propensity to commit the
+                 3
+charged offenses. Alternatively, the prosecutor argued the evidence was
+admissible under section 1101, subdivision (b) to show Harzan’s intent and
+absence of mistake.
+            Defense counsel objected to admitting the evidence of Harzan’s
+prior sexual misconduct, arguing, among other things, it was unduly
+prejudicial under section 352. Defense counsel also informed the trial court
+he would be seeking instructions on entrapment because, in communicating
+with Harzan, Detective Baugh (under the guise of “Brianna”) engaged in “a
+
+
+            3
+             Unless noted otherwise, all further statutory references are to
+the Evidence Code.
+
+                                      14
+pattern of persistent badgering, cajoling, and importuning . . . which was
+likely to induce a normally law-abiding person to commit” the charged
+offenses. (Capitalization omitted.)
+            The trial court conducted a lengthy hearing on these issues. At
+the outset, the court determined there was sufficient evidence to warrant
+instructions on the defense of entrapment, based on the transcripts of the
+messages between Harzan and “Brianna.”
+            The trial court then turned to the prosecution’s motion to
+introduce evidence of Harzan’s prior sexual misconduct. The court ruled the
+evidence was not admissible under section 1108 because Harzan was not
+charged with a sexual offense as defined in subdivision (d)(1) of that statute.
+It also ruled that, for purposes of section 1101, subdivision (b), the evidence
+was not admissible in the prosecution’s case-in-chief because it was unduly
+prejudicial under section 352. In fact, the court determined it would be
+fundamentally unfair to allow the prosecution to admit the evidence because
+Harzan’s prior sexual misconduct was “very, very old and very, very different
+than the conduct we’re looking at in this case.”
+            However, the trial court believed the calculus would change if
+Harzan raised an entrapment defense and requested instructions on that
+theory. In that event, said the court, “the People [would] then have the
+burden of proving the defendant was not entrapped.” And to meet that
+burden, the prosecution could admit the evidence of Harzan’s prior sexual
+misconduct to show he had the motive and intent to commit the charged
+offenses.
+            Defense counsel challenged the trial court’s reasoning by pointing
+to the wording of CALCRIM No. 3408, the standard jury instruction on
+entrapment. That instruction states, “The defendant has the burden of
+
+                                       15
+proving the defense [of entrapment] by a preponderance of the evidence.”
+(CALCRIM No. 3408.) The instruction also makes clear the test for
+determining whether a person has been entrapped is an objective one. That
+is, whether the police “engaged in conduct that would cause a normally law-
+abiding person to commit the [charged] crime” under the circumstances
+presented. (Ibid.) Therefore, CALCRIM No. 3408 specifically states the jury
+may not consider the defendant’s “particular intentions or character, or
+whether [he] had a predisposition to commit the crime.” (Ibid.) Because the
+focus of the entrapment defense is on the conduct of the police, defense
+counsel argued Harzan’s prior sexual misconduct was not relevant to whether
+he was entrapped by Detective Baugh.
+                The trial court disagreed. Although it stated it never liked “to put
+a defense attorney in a position where they can’t do their defense,” the court
+stood by its decision to allow the prosecution to introduce evidence of
+Harzan’s prior sexual misconduct if he raised the defense of entrapment.
+Faced with that prospect, defense counsel informed the court he would not be
+seeking instructions on that defense. Counsel explained, “I am not requesting
+the entrapment instruction in order to avoid the possibility of the
+introduction of these other actions as a bootstrap way to get into the prior
+            4
+conduct.”
+
+
+
+
+                4
+              In addition to allowing the prosecution to present evidence of
+Harzan’s prior sexual misconduct to prove his motive and intent if he raised
+an entrapment defense, the trial court separately ruled the prosecution could
+use that evidence to impeach Harzan’s credibility if he testified during the
+trial. Harzan’s appeal is limited to the first issue; he does not challenge the
+court’s ruling on the impeachment issue.
+
+                                          16
+B. The Trial Court’s Ruling Is Reviewable
+            As a preliminary matter, the Attorney General contends Harzan
+is procedurally barred from challenging the trial court’s decision to permit
+the prosecution to introduce evidence of his prior sexual misconduct if he
+raised an entrapment defense. Because Harzan did not raise the defense and
+the misconduct evidence was never admitted, the Attorney General argues
+Harzan failed to preserve the issue for appellate review.
+            In so arguing, the Attorney General relies on the rule that, to
+challenge a pretrial ruling allowing the prosecution to impeach the defendant
+with evidence of a prior conviction, the defendant must actually take the
+stand and suffer the impeachment. (Luce v. United States (1984) 469 U.S. 38;
+People v. Collins (1986) 42 Cal.3d 378). The rationale for the rule is threefold:
+            “First, in order to determine the admissibility of [the
+impeachment evidence], the court must balance its probative value against
+its prejudicial effect under . . . section 352, an analysis that cannot be
+performed unless the record discloses the content of the defendant’s
+testimony. [Citations.] Second, if the defendant does not testify, any possible
+harm from the trial court’s ruling is wholly speculative. The ruling might
+change in response to the actual content of the defendant’s testimony, or the
+prosecution might choose not to use the evidence at issue. [Citations.] Third,
+if the trial court erred in its ruling, the appellate court could not ‘intelligently
+weigh the prejudicial affect [sic] of that error.’” (People v. Ledesma (2006) 39
+Cal.4th 641, 731–732.)
+             These three points underscore the core concern when the
+defendant fails to testify and suffer impeachment by virtue of a prior
+conviction. In that situation, there is an insufficient factual record to
+determine whether the impeachment evidence was admissible and how it
+
+                                        17
+would have impacted the defendant’s case in terms of prejudice. (Luce v.
+United States, supra, 469 U.S. at p. 43 [the defendant’s testimony provides
+the necessary factual context to permit meaningful review]; People v. Collins,
+supra, 42 Cal.3d at p. 384 [same].)
+            But, in this case, Harzan is not arguing the trial court’s decision
+to allow the prosecution to use the evidence of his prior sexual misconduct
+infringed his constitutional right to testify. (See supra, p. 16, fn. 4.) Rather,
+he is arguing the ruling infringed his constitutional right to present a defense
+that the trial court had already deemed factually viable. Although we do not
+know what Harzan would have said had he taken the stand at trial, the facts
+pertaining to his entrapment defense are largely undisputed.
+            Those facts arose from the communications between Harzan and
+“Brianna,” which were set forth at length in the parties’ trial briefs. So was
+the evidence pertaining to Harzan’s alleged prior sexual misconduct. There
+was no secret what the victims of that misconduct were going to say at trial if
+Harzan had opted to raise the defense of entrapment. Under these
+circumstances, there is a sufficient factual basis to review the propriety and
+prejudicial effect of the trial court’s ruling regarding that evidence. Thus,
+Harzan’s challenge to that ruling is not procedurally barred.
+C. The Trial Court’s Ruling Was Erroneous and Prejudicially Violated
+Harzan’s Right to Present a Defense
+            Relying on section 1101, subdivision (b), the Attorney General
+asserts the trial court properly ruled the evidence of Harzan’s prior sexual
+
+
+
+
+                                        18
+                                                                          5
+misconduct would be admissible if he raised an entrapment defense. We
+disagree.
+             Under section 1101, evidence of a defendant’s prior uncharged
+misconduct generally is inadmissible to prove his conduct on a specific
+occasion or his propensity for criminal activity. (Id., subd. (a).) However, such
+evidence may be admitted to prove a material fact in the case, such as
+motive, intent, or absence of mistake. (Id., subd. (b).) Factors bearing on
+admissibility include the relevance of the particular fact to be proven and
+whether the evidence would be unduly prejudicial under section 352. (People
+v. Roldan (2005) 35 Cal.4th 646, 705, disapproved on another point in People
+v. Doolin (2009) 45 Cal.4th 390, 421, fn. 22.)
+             Courts must keep in mind that “[e]vidence of uncharged offenses
+‘is so prejudicial that its admission requires extremely careful analysis.
+[Citations.]’ [Citations.] ‘Since “substantial prejudicial effect [is] inherent in
+[such] evidence,” uncharged offenses are admissible only if they have
+substantial probative value.’” (People v. Ewoldt (1994) 7 Cal.4th 380, 404.)
+             Here, the trial court determined that for purposes of proving the
+charged offenses, the evidence of Harzan’s prior sexual misconduct was
+“highly prejudicial” and “unfair” because the misconduct occurred roughly
+half a century ago and was “very different” from what he was accused of
+doing in this case. Therefore, the prosecution could not use that evidence in
+its case-in-chief.
+             That evidence would not have become any less prejudicial if
+Harzan had raised an entrapment defense. Nevertheless, the trial court
+
+
+             5
+              The Attorney General does not dispute the trial court’s ruling
+that the evidence was inadmissible for purposes of section 1108.
+
+                                        19
+believed that with an entrapment defense in play, the probative value of the
+evidence would increase, thereby tipping the scales in favor of admission.
+This conclusion was informed by the court’s understanding that evidence of
+Harzan’s state of mind was relevant to rebut a claim of entrapment.
+            As defense counsel pointed out below, however, entrapment turns
+on whether the police conduct at issue would have caused a normally law-
+abiding person to commit the charged offenses; it does not depend on what
+the particular defendant was thinking when he committed the acts in
+question. The California Supreme Court made this clear many years ago, in
+People v. Barraza (1979) 23 Cal.3d 675 (Barraza).
+            Tracing the historical development of the law on entrapment,
+Barraza recognized the traditional test for entrapment is based on a
+subjective standard that focuses on the defendant’s state of mind: If the
+defendant had a preexisting intent or disposition to commit the charged
+offense, he may be found guilty even if the police overstepped the bounds of
+permissible investigative conduct. (Barraza, supra, 23 Cal.3d at pp. 686–689.)
+Barraza also acknowledged the subjective standard for entrapment is used in
+the federal courts and in the vast majority of states. (Id. at pp. 686–689 & p.
+692 (concur. and dissent. opn. of Richardson, J.); see also Roiphe, The Serpent
+Beguiled Me: A History of the Entrapment Defense (2003) 33 Seton Hall
+L.Rev. 257, 258.)
+            In Barraza, however, our Supreme Court took a different
+approach to the issue and adopted an objective standard for determining
+whether a defendant has been entrapped. As set forth in Barraza, “[T]he
+proper test of entrapment in California is [whether] the conduct of the law
+enforcement agent [was] likely to induce a normally law-abiding person to
+commit the offense[.] For the purposes of this test, we presume that such a
+
+                                       20
+person would normally resist the temptation to commit a crime presented by
+the simple opportunity to act unlawfully. Official conduct that does no more
+than offer that opportunity to the suspect—for example, a decoy program—is
+therefore permissible; but it is impermissible for the police or their agents to
+pressure the suspect by overbearing conduct such as badgering, cajoling,
+importuning, or other affirmative acts likely to induce a normally law-abiding
+person to commit the crime.” (Barraza, supra, 23 Cal.3d at pp. 689–690, fn.
+omitted.)
+            Under this standard, entrapment may be established if the police
+induce a normally law-abiding person to commit a crime “because of
+friendship or sympathy, instead of a desire for personal gain or other typical
+criminal purpose.” (Barraza, supra, 23 Cal.3d at p. 690.) Or entrapment may
+be established if the police make the crime unusually attractive to such a
+person by promising the act is not illegal or the offense will go undetected.
+(Ibid.)
+            “[W]hile the inquiry must focus primarily on the conduct of the
+law enforcement agent, that conduct is not to be viewed in a vacuum; it
+should also be judged by the effect it would have on a normally law-abiding
+person situated in the circumstances of the case at hand. Among the
+circumstances that may be relevant for this purpose, for example, are the
+transactions preceding the offense, the suspect’s response to the inducements
+of the officer, the gravity of the crime, and the difficulty of detecting instances
+of its commission. [Citation.] . . . [H]owever, . . . such matters as the character
+of the suspect, his predisposition to commit the offense, and his subjective
+intent are irrelevant.” (Barraza, supra, 23 Cal.3d at pp. 690–691, italics
+added.)
+
+
+
+                                        21
+            That being the case, the trial court’s conclusion that an
+entrapment defense would open the door to Harzan’s prior misconduct
+evidence bearing on his motive and intent was incorrect. Contrary to the trial
+court’s understanding, those issues regarding Harzan’s subjective state of
+mind were not relevant to whether Detective Baugh’s actions would cause a
+normally law-abiding person to commit the offenses at issue here.
+            In arguing otherwise, the Attorney General relies on People v.
+Foster (1974) 36 Cal.App.3d 594, which upheld the admission of the
+defendant’s prior criminal acts on the theory they were relevant to defeat his
+entrapment defense by showing his predisposition to commit the charged
+offense. (Id. at pp. 596–599.) In so doing, however, Foster applied the
+subjective standard of entrapment that was disapproved five years later in
+Barraza. (Foster at pp. 596–597.) Although evidence of the defendant’s prior
+criminal activity may be admitted to refute a claim of entrapment under the
+subjective standard, Barraza makes clear such evidence is inadmissible
+under the objective standard of entrapment the court articulated in that case.
+(Barraza, supra, 23 Cal.3d at pp. 688–691.) The Foster decision is thus of no
+                                    6
+aid to the Attorney General here.
+            Even so, the Attorney General contends the trial court’s ruling
+did not violate Harzan’s right to present a defense because he voluntarily
+chose to surrender his entrapment defense to avoid the introduction of the
+prior sexual misconduct evidence. According to the Attorney General, that
+choice was no different than any other strategic decision criminal defendants
+
+
+            6
+            The Attorney General also cites Foster for the proposition that
+the defendant must admit committing the charged crimes in order to raise an
+entrapment defense. That, too, is incorrect. (Barraza, supra, 23 Cal.3d at pp.
+691–692.)
+
+                                        22
+are called upon to make during the trial process, such as whether to present
+favorable evidence that might permit the introduction of unfavorable
+            7
+evidence.
+                As we explained above, however, the choice Harzan was
+presented here—to either abandon a factually-supported entrapment defense
+or suffer the introduction of highly prejudicial prior misconduct evidence—
+was based on the trial court’s legal misunderstanding of the entrapment
+defense. Because Harzan should never have been put to that choice, we reject
+the Attorney General’s claim that he voluntarily surrendered his right to
+present an entrapment defense. (See Holmes v. South Carolina (2006) 547
+U.S. 319 [absent a valid justification, the state cannot impede a defendant’s
+constitutional right to present a defense]; Crane v. Kentucky (1986) 476 U.S.
+683 [same].)
+                Having determined the trial court violated Harzan’s right to
+present a defense, we turn to the issue of prejudice. We must decide whether
+that violation was harmless beyond a reasonable doubt on the record before
+us. (See People v. Demetrulias (2006) 39 Cal.4th 1, 23 [assuming a violation of
+a criminal defendant’s right to present a defense is reviewed under the
+harmless-beyond-a-reasonable-doubt standard set forth in Chapman v.
+California (1967) 386 U.S. 18]; People v. Ahmed (2018) 25 Cal.App.5th 136,
+138 [applying the Chapman standard in deciding whether the trial court’s
+failure to instruct on an affirmative defense was prejudicial]; People v.
+Mulcrevy (2014) 233 Cal.App.4th 127, 131 [same].) That is a demanding
+standard: Reversal is required unless the failure to instruct on entrapment
+
+                7
+             For example, if the defense introduces evidence the defendant
+has a good character that is inconsistent with the charged crimes, the
+prosecution can introduce bad character evidence to rebut it. (§ 1102.)
+
+                                         23
+was so unimportant and insignificant to the case that there is no reasonable
+possibility it might have contributed to the jury’s guilty verdict. (Chapman,
+supra, 386 U.S. at p. 24; People v. Aranda (2012) 55 Cal.4th 342, 367.)
+            According to Harzan’s Craigslist ad, he was seeking a “young
+coed friend” to have “good times” with. And after “Brianna” contacted him, he
+made it clear he was interested in having sex with her, even though she told
+him she was only 13 years old. But Harzan also repeatedly told “Brianna”
+that, as much as he wanted to have sex with her, he could not do so because
+she was a minor. As defense counsel pointed out in closing argument, there is
+a difference between wanting to commit a crime and actually carrying it out.
+Our criminal law prohibits the latter but not the former.
+            More important, every time Harzan told “Brianna” he could not
+have sex with her, she expressed disappointment and tried to convince him to
+change his mind by using sympathy and guilt. In addition, “Brianna” assured
+Harzan he would not get caught because she would not tell anyone if they did
+have sex. These techniques were cited in Barraza as examples of possible
+police overreach. (Barraza, supra, 23 Cal.3d at p. 690.) Although there is no
+way of knowing whether an entrapment defense would have succeeded at
+Harzan’s trial, we cannot conclude the failure to instruct on that defense was
+harmless beyond a reasonable doubt. Therefore, Harzan’s convictions cannot
+stand.
+                                      II.
+                     THE SUFFICIENCY OF THE EVIDENCE
+            Although the judgment must be reversed due to the evidentiary
+error discussed above, we do not believe the evidence was insufficient to
+support the jury’s verdict, so as to preclude the prosecution from retrying
+Harzan, if it chooses to do so. Harzan maintains there is insufficient evidence
+
+                                      24
+he acted with the requisite intent to commit a sexual offense with “Brianna.”
+The record shows otherwise.
+A. Standard of Review
+              In assessing the sufficiency of the evidence to support a criminal
+conviction, we “review the entire record in the light most favorable to the
+judgment to determine whether it contains substantial evidence—that is,
+evidence that is reasonable, credible, and of solid value—from which a
+reasonable trier of fact could find the defendant guilty beyond a reasonable
+doubt.” (People v. Lindberg (2008) 45 Cal.4th 1, 27.) We do not reweigh the
+evidence or reevaluate the credibility of the trial witnesses; rather, “[w]e
+presume in support of the judgment the existence of every fact the trier of
+fact reasonably could infer from the evidence. [Citation.] If the circumstances
+reasonably justify the trier of fact’s findings, reversal of the judgment is not
+warranted simply because the circumstances might also reasonably be
+reconciled with a contrary finding.” (Ibid.) “The conviction shall stand ‘unless
+it appears “that upon no hypothesis whatever is there sufficient substantial
+evidence to support [it].”’” (People v. Cravens (2012) 53 Cal.4th 500, 508;
+accord, People v. Montanez (2023) 91 Cal.App.5th 245, 270.)
+B. Analysis
+              Under this deferential standard, it does not matter that Harzan
+sent “Brianna” mixed messages about his intentions. The facts that he
+repeatedly told her he wanted to have sex with her and then drove to the
+place he had arranged to meet her is sufficient to support his convictions.
+Based on that evidence alone, a reasonable jury could find Harzan harbored
+the intent to commit a sexual offense with “Brianna.”
+              In his defense, Harzan points out he did not have any condoms in
+his possession when he showed up to meet “Brianna.” However, that fact is
+
+                                        25
+not determinative because the mens rea required for the charged crimes is
+the intent to commit a sexual offense with a minor, which would include any
+lewd touching. The prosecution was not required to prove Harzan intended to
+have sexual intercourse with “Brianna.” (See Pen. Code, §§ 288.3, subd. (a)
+[prohibiting communicating with a minor with the intent to violate Penal
+Code section 288, which makes it a felony to commit a lewd act on a child
+under the age of 14] & 288.4, subd. (a)(1) [prohibiting arranging to meet a
+minor for the purpose of engaging in lewd behavior].)
+            All things considered, there is substantial evidence from which
+the jury could infer Harzan intended to commit a sexual offense with a minor
+when he was communicating with and arranging to meet “Brianna.” The fact
+there is sufficient evidence to justify a contrary conclusion does not change
+this result. (People v. Holt (1997) 15 Cal.4th 619, 669.) Because the evidence
+was legally sufficient to support the jury’s verdict, there is no bar to retrial.
+                                                  8
+(Lockhart v. Nelson (1988) 488 U.S. 33, 38–40.)
+
+
+
+
+            8
+               Harzan also contends Detective Baugh’s testimony exceeded the
+permissible scope of a pretrial ruling and expert testimony generally.
+Because we are reversing on other grounds, and because the testimony is
+likely to play out differently in the event the case is retried, we need not
+address these issues.
+
+                                        26
+                           DISPOSITION
+         The judgment is reversed.
+
+
+
+                                      GOODING, J.
+
+WE CONCUR:
+
+
+
+MOORE, ACTING P. J.
+
+
+
+SANCHEZ, J.
+
+
+
+
+                                 27

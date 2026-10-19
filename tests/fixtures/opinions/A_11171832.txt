@@ -1,0 +1,194 @@
+cl_opinion_id: 11171832
+cluster: 10705245
+docket: A171879
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Nunn CA1/5
+----
+Filed 10/16/25 P. v. Nunn CA1/5
+
+       NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on
+opinions not certified for publication or ordered published, except as specified by rule
+8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         FIRST APPELLATE DISTRICT
+
+                                    DIVISION FIVE
+
+
+ THE PEOPLE,
+          Plaintiff and Respondent,
+                                                                  A171879
+ v.
+                                                                  (San Mateo County Super. Ct. No.
+ JAMES PATRICK NUNN,                                              24-SF-005777-A)
+          Defendant and Appellant.
+
+
+      James Patrick Nunn filed this appeal after pleading nolo
+contendere to failing to register as a sex offender under Penal
+Code section 290.011, subdivision (b).1 His appointed appellate
+counsel has filed a brief raising no issues but seeking our review
+pursuant to People v. Wende (1979) 25 Cal.3d 436. Our
+independent review of the record reveals no arguable issues, so
+we affirm.
+
+                                      BACKGROUND
+
+                                               A.
+
+      Section 290.011, subdivision (a), requires that a person
+with a prior conviction for a sex offense who is living as a
+“transient” must register with law enforcement in the city or
+county where the person is present every 30 days. (See also §
+
+        1 Undesignated statutory references are to the Penal Code.
+
+                                                1
+290, subd. (c).) As relevant here, if such a transient person moves
+to a “residence,” the person must register with the chief of police
+of the city in which the person is residing within five working
+days. (§§ 290.011, subd. (b), 290, subd. (b).) A transient is “a
+person who has no residence.” (§ 290.011, subd. (g).) A residence
+is defined as “one or more addresses at which a person regularly
+resides, regardless of the number of days or nights spent there,
+such as a shelter or structure that can be located by a street
+address, including, but not limited to, houses, apartment
+buildings, motels, hotels, homeless shelters, and recreational and
+other vehicles.” (Ibid.) A person required to register based on a
+felony conviction who willfully violates the registration
+requirements is guilty of a felony. (§ 290.018, subd. (b).)
+
+                                B.
+
+      A felony information charged Nunn, a person required to
+register based on a prior felony sex offense conviction, with a
+single count of being a transient who failed to re-register after
+moving to a residence, in violation of section 290.011, subdivision
+(b). The information also alleged that Nunn had 14 prior felony
+convictions rendering him ineligible for probation under section
+1203, subdivision (e)(4). In addition, the information alleged that
+he had been convicted of seven prior serious and/or violent
+felonies, making harsher sentences applicable under section
+1170.12, subdivision (c)(1), and section 667, subdivisions (b)
+through (j).
+
+      At the preliminary hearing, the People put on evidence that
+Nunn had last registered on March 19, 2024 with the San Mateo
+County Sheriff’s Office. At that time, Nunn told the employee
+who took his registration report, Kelly Wong, that he had moved
+into a Navigation Center with an address in Redwood City.
+Nunn had moved to the Navigation Center in late February.
+Wong informed Nunn that “if he was going to be staying as [a]
+transient he had 30 days until his next registration; however,
+
+                                 2
+because he was moving to an address[,] he needed to register
+immediately.” Nunn did not register his residence at the
+Navigation Center with the Redwood City Police Department
+until late April.
+
+      Nunn moved to set aside the information under section 995,
+arguing that there was insufficient evidence to support probable
+cause that he knew that he had to register within five days of
+moving to the Navigation Center. Nunn asserted that he was
+used to registering every 30 days as a transient, that he complied
+with the registration requirement for transients, and that he was
+“confused” about what Wong had told him about needing to
+register after his move to the Navigation Center. In addition, he
+argued that it was unclear whether the Navigation Center
+qualified as a residence. The trial court denied the motion,
+concluding that there was sufficient evidence that Nunn’s failure
+to register was willful based on the instruction given by Wong
+and Nunn’s signing of the registration forms, which list the
+applicable requirements.
+
+      Subsequently, Nunn pled nolo contendere to a violation of
+section 290.011, subdivision (b). He signed a waiver of rights
+form indicating that he had discussed the charge with his
+attorney, his attorney had advised him of his constitutional
+rights, he understood that he was giving up those rights by
+pleading nolo contendere, and his plea was given freely and
+voluntarily. He also indicated that he understood that his nolo
+contendere plea was the equivalent to a guilty plea. Nunn’s
+agreement to the plea was based on the understanding that he
+would receive a sentence of two years of felony probation with 40
+days in jail and nine days of custody credit, along with a referral
+to an Alternative Sentencing Bureau program.
+
+      At the plea hearing, Nunn confirmed that he read,
+understood, and signed the waiver form and discussed it with his
+attorney. After the court advised him as to his constitutional
+
+                                 3
+rights, Nunn stated that he understood his rights and that by
+entering his nolo contendere plea, he was giving up those rights.
+Nunn affirmed that he was not threatened or forced into entering
+the plea. After Nunn pled no contest, his attorney concurred in
+the plea and stipulated to a factual basis for the plea based on his
+“[i]ndependent investigation.” The court found that Nunn’s
+waiver of his rights was “free, knowing, and intelligent” and
+found him guilty based on his plea and the stipulated facts. The
+court sentenced Nunn to the agreed upon sentence of two years of
+supervised felony probation with 40 days in jail and nine days of
+custody credit, and a referral to the Alternative Sentencing
+Bureau, plus a $300 restitution fee, a $70 court fee, and a $300
+probation revocation fee that was stayed pending successful
+completion of probation. The court then granted the People’s
+motion to dismiss the remaining allegations based on Nunn’s
+prior felony convictions.
+
+                           DISCUSSION
+
+      Nunn’s appellate counsel advised him of his right to file a
+supplemental brief to bring to this court’s attention any issue he
+believes deserves review, but Nunn has not filed any such brief.
+We have independently reviewed the record and have found no
+arguable issues.
+
+      Nunn voluntarily pled no contest to a violation of Penal
+Code section 290.011, subdivision (b), after being advised of his
+rights and acknowledging and waiving them. As a result of his
+plea, he is foreclosed from challenging the denial of his section
+995 motion. (See People v. Padfield (1982) 136 Cal.App.3d 218,
+227 [holding that a defendant’s nolo contendere plea precludes
+appellate review of denial of a section 995 motion because such a
+plea admits the sufficiency of the evidence]; see also People v.
+Truman (1992) 6 Cal.App.4th 1816, 1820-1821.) Further,
+without a certificate of probable cause, he may not appeal on any
+grounds that affect the validity of his plea. (Cal. Rules of Court,
+
+                                 4
+rule 8.304(b)(1)(A), (b)(3).) Although no certificate is required for
+challenges to the sentence (id., rule 8.304(b)(2)(B)), Nunn was
+sentenced by the same judicial officer who took his plea (see
+People v. Arbuckle (1978) 22 Cal.3d 749, 756-757) and he received
+the sentence to which he agreed. The fines and fees imposed by
+the court were authorized (Pen. Code, §§ 1202.4, subd. (b),
+1202.44, 1465.8; Gov. Code, § 70373), and Nunn asserted no
+challenges to them.
+
+                           DISPOSITION
+       The judgment is affirmed.
+
+
+                                                         BURNS, J.
+WE CONCUR:
+
+
+JACKSON, P. J.
+SIMONS, J.
+
+P. v. Nunn (A171879)
+
+
+
+
+                                   5

@@ -1,0 +1,662 @@
+cl_opinion_id: 11213456
+cluster: 10746871
+docket: B337660
+date: 2025-12-03
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Vindiola CA2/5
+----
+Filed 12/3/25 P. v. Vindiola CA2/5
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on
+opinions not certified for publication or ordered published, except as specified by rule
+8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                      SECOND APPELLATE DISTRICT
+
+                                    DIVISION FIVE
+
+
+ THE PEOPLE,                                                      B337660
+
+          Plaintiff and Respondent,                               (Los Angeles County
+                                                                  Super. Ct. No. KA083672)
+          v.
+
+ JEREMY MICHAEL VINDIOLA,
+
+          Defendant and Appellant.
+
+
+
+      APPEAL from orders of the Superior Court of Los Angeles
+County, Jacqueline Lewis, Judge. Affirmed in part, vacated in
+part, and remanded.
+      Corey J. Robins, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Senior
+Assistant Attorney General, Scott A. Taryle, Supervising Deputy
+Attorney General, and David A. Voet, Deputy Attorney General,
+for Plaintiff and Respondent.
+       In 2009, a jury convicted Jeremy Vindiola (defendant) of
+the first degree murder of Edward Galvan (Galvan). The trial
+court sentenced defendant to 77 years to life. More recently,
+defendant filed petitions for relief pursuant to Penal Code section
+1172.6 (former section 1170.95), which concerns changes to
+California’s murder statutes, and Penal Code section 1172.75,
+which invalidates one-year prior prison term enhancements and
+provides for resentencing.1 The trial court found defendant was
+ineligible for section 1172.6 relief as a matter of law because his
+trial jury was not instructed on any theory that would have
+avoided the need to find malice in convicting him of murder. As
+to the request for section 1172.75 relief, the court struck two
+previously imposed one-year enhancements and resentenced him
+without any additional changes to his original sentence. In this
+consolidated appeal, we consider (1) whether denial of
+defendant’s section 1172.6 petition was error because it is
+possible the jury could have imputed malice to him in the absence
+of instructions on felony murder or the natural and probable
+consequences doctrine, and (2) whether, as defendant contends
+for the first time, the trial court should have imposed a lower
+sentence at resentencing in light of his drug use at the time of the
+crime.
+
+                         I. BACKGROUND
+      A.      The Offense Conduct
+      On June 16, 2008, Galvan and Michael “Minor” Trejo
+(Trejo), a local drug dealer who used his Covina apartment as his
+
+
+1
+     Undesignated statutory references that follow are to the
+Penal Code.
+
+
+
+
+                                 2
+base of operations, attacked Christopher “Spooks” Saucedo
+(Saucedo) because they did not want him near Trejo’s apartment.
+      The following evening, at approximately 11:15 p.m., Trejo
+again saw Saucedo in the area of his (Trejo’s) apartment. Trejo
+also observed defendant’s automobile, a black Toyota Camry, and
+Wilson Omar Alfaro (Alfaro)’s vehicle, a white Nissan SUV,
+parked one behind the other. Moments earlier, Alfaro had come
+to Trejo’s apartment to complain about the poor quality of the
+methamphetamine he recently purchased from Trejo. Although
+he saw defendant’s vehicle, Trejo did not see defendant.
+      After spotting Saucedo, Trejo asked his brother to contact
+Galvan, who arrived shortly thereafter. Because both Trejo and
+Galvan considered Saucedo an “enemy,” they went outside and
+confronted him. As they moved across the street, Trejo thought
+Saucedo was “acting funny”—he was just holding a cell phone but
+not looking at or talking on it and the screen was not illuminated.
+      Because both Galvan and Trejo thought Saucedo might be
+“strapped” and have “something on him,” i.e., a firearm, the two
+men closed to within 10 feet and then “stood [their] distance.”
+The two men asked Saucedo if he was armed and he indicated he
+was not. The two men then began “yelling” and “talking shit” to
+Saucedo, who did not respond.
+      As Galvan and Trejo were yelling at Saucedo, Alfaro
+approached Galvan, said “I’ll smoke your bitch ass,” and opened
+fire. At the same time, defendant came out from crouching
+behind his car, and he too opened fire. Galvan was shot twice,
+once in the head, which was fatal, and once in his right buttock,
+which was not. Trejo fled and was not injured. Alfaro left the
+scene in his vehicle, and defendant and Saucedo left in
+defendant’s automobile.
+
+
+
+
+                                3
+      B.     Defendant’s Trial, Sentencing, and Direct Appeal
+      In a single-count amended information, the Los Angeles
+County District Attorney charged defendant and Alfaro with
+Galvan’s murder (§ 187, subd. (a)). The amended information
+alleged defendant and Alfaro each personally and intentionally
+used and discharged a handgun which caused great bodily injury
+and death (§ 12022.53, subds. (b)-(d)) and that defendant had
+suffered two prior prison terms (§ 667.5, subd. (b)).
+      Defendant and Alfaro were tried jointly. In addition to law
+enforcement officers and the medical examiner who performed an
+autopsy on Galvan’s body, the prosecution presented testimony
+from a number of residents of and visitors to the neighborhood on
+the night of the murder who witnessed by sight and/or sound
+Galvan’s murder and defendant and Alfaro’s escape thereafter.
+      After the presentation of evidence, the trial court
+instructed the jury on first and second degree murder. The only
+theory of murder presented in the instructions was malice
+murder; there were no instructions on felony murder or murder
+pursuant to the natural and probable consequences doctrine.2
+      The court also instructed the jury on accomplice liability,
+including aiding and abetting principles. The court gave CALJIC
+No. 3.00, which provided: “Persons who are involved in
+committing or attempting to commit crime are referred to as
+
+
+
+2
+       The prosecution maintained the shooting was a pre-
+planned first degree murder in which defendant and Alfaro used
+Saucedo to lure Galvan into a vulnerable position. The defense at
+trial was self-defense and/or defense of Saucedo. The court
+accordingly gave self-defense and voluntary manslaughter
+instructions.
+
+
+
+
+                                4
+principals in the crime. Each principal, regardless of the extent
+or manner of participation, is equally guilty. Principals
+include[ ]: [¶] 1. Those who directly and actively commit or
+attempt to commit the act constituting the crime; or [¶] 2. Those
+who aid and abet the commission or attempted commission of the
+crime.” The court also gave CALJIC No. 3.14, which provided:
+“Merely assenting to, aiding, or assisting in the commission of a
+crime without knowledge of the unlawful purpose of the
+perpetrator and without the intent or purpose of committing,
+encouraging, or facilitating the commission of the crime is not
+criminal. Thus, a person who assents to, or aids, or assists in, the
+commission of the crime without that knowledge and without the
+intent or purpose is not an accomplice to the commission of the
+crime.” The court additionally gave CALJIC No. 3.31, explaining
+that “there must exist a union or joint operation of act or conduct
+and a certain specific intent in the mind of the perpetrator.
+Unless this specific intent exists the crime or allegation to which
+it relates is not committed or is not true.”
+       Deliberating less than a day, the jury found defendant and
+Alfaro guilty of first degree murder and found true all of the
+firearm allegations. The trial court sentenced defendant to 77
+years to life (25 years to life for the murder, which was doubled
+for a prior “strike” conviction, plus 25 years to life for the section
+12022.53, subd. (d) firearm enhancement, plus two one-year prior
+prison term enhancements pursuant to section 667, subdivision
+(b)).3
+
+
+
+
+3
+      The trial court sentenced Alfaro to 50 years to life.
+
+
+
+
+                                  5
+      On direct appeal, a different panel of this court affirmed
+the judgment. (People v. Vindiola (Apr. 25, 2011, B220180)
+[nonpub. opn.].) Among other things, defendant had challenged
+the aiding and abetting instruction and its equally guilty
+language as inconsistent with authority (see, e.g., People v.
+McCoy (2001) 25 Cal.4th 1111) holding an aider and abettor must
+share the murderous intent of the perpetrator. This court held
+the argument was both forfeited and nonprejudicial in any event.
+Specifically, this court held, using the Chapman v. California
+(1967) 386 U.S. 18 standard, that “the evidence adduced at trial
+in support of a first degree murder conviction against each
+defendant was strong and showed that defendants and [Saucedo]
+lured Galvan and Trejo outside in order to kill them. There is no
+indication or suggestion that when defendants fired at Galvan
+and Trejo they harbored different mental states. Accordingly,
+even if the trial court had not instructed the jury with CALJIC
+No. 3.00, it is beyond a reasonable doubt that the jury would have
+convicted defendants of first degree murder.”
+
+      C.     Defendant’s Requests for Resentencing Relief
+             1.    Defendant’s section 1172.6 petition
+       In 2022, defendant filed a form section 1172.6 resentencing
+petition alleging he could not be convicted of murder because of
+intervening changes to sections 188 and 189, effective January 1,
+2019.4 The People opposed the petition and argued defendant
+
+
+
+
+4
+       In his section 1172.6 petition, defendant requested that the
+trial court appoint counsel to represent him. The court complied
+with the request and appointed defendant’s trial counsel to
+
+
+
+                                 6
+was ineligible for relief as a matter of law because he was
+convicted not pursuant to a theory of felony murder or as an aider
+and abettor under the natural and probable consequences
+doctrine, but as an “actual perpetrator.”
+       In his reply, defendant maintained he was eligible for
+resentencing relief “despite the fact there were no jury
+instructions allowing the jury to impute malice to [defendant]
+and the jury found [defendant] was an actual shooter in the
+incident.” Although the jury was not instructed on felony murder
+or the natural and probable consequences doctrine, defendant
+argued the instructions that were given nonetheless permitted
+the imputation of malice and urged the trial court to hold an
+evidentiary hearing. Defendant did not identify which
+instructions purportedly permitted the imputation of malice and
+cited to only one case in support of his jury instructions
+argument, People v. Langi (2022) 73 Cal.App.5th 972.
+       At an April 2024 hearing on defendant’s section 1172.6
+petition, the defense submitted on the filed briefs. The trial court
+interjected with a question, asking the defense to identify the
+jury instruction that allowed the jury to impute malice. The
+defense conceded there was no such instruction but maintained
+the request for relief should still be granted. The court followed
+up, highlighting the Langi case the defense cited and explaining
+that its reading of the jury instructions in this case, unlike Langi,
+identified no instruction that allowed the jury to impute malice.
+The defense agreed. The trial court then found defendant failed
+to make a prima facie showing and denied the section 1172.6
+
+
+represent him in both the section 1172.6 and 1172.75
+proceedings.
+
+
+
+
+                                 7
+resentencing petition without ordering an evidentiary hearing.
+The court explained: “There was no natural and probable
+consequences instruction given, no aiding and abetting
+instructions given, no jury instruction that I could find that
+allowed the jury to impute malice. [¶] In addition, it was found
+to be true that [defendant] personally discharged the firearm.”
+
+             2.      Defendant’s section 1172.75 motion
+       In 2023, the Department of Corrections and Rehabilitation
+notified the trial court that defendant was potentially eligible for
+re-sentencing pursuant to Senate Bill No. 483 (Senate Bill 483
+(2021-2022 Reg. Sess.)), which, among other things, retroactively
+invalidated certain former section 667.5, subdivision (b)
+enhancements.5 (§ 1172.75, subd. (a).)
+       In a brief filed after he was appointed counsel, defendant
+urged the trial court to vacate the two one-year section 667.5
+prior prison term enhancements and strike the 25-year
+enhancement for the section 12022.53, subdivision (d) firearm
+finding. Defendant argued this relief was justified because of his
+history of drug abuse, his relatively young age at the time of
+
+
+
+
+5
+      Senate Bill 483 added what is now section 1172.75 to the
+Penal Code. (Stats. 2021, ch. 728, § 3; Stats. 2022, ch. 58, § 12.)
+Section 1172.75 requires CDCR to inform trial courts of inmates
+serving sentences with one or more now-invalid prior prison term
+enhancements. (§ 1172.75, subd. (b).) Once a court receives this
+information and confirms that the inmate’s sentence includes an
+invalid enhancement, it “shall recall [their] sentence and
+resentence” them. (Id., subd. (c).)
+
+
+
+
+                                 8
+Galvan’s murder,6 and his efforts at rehabilitation while in
+prison, which included earning an AA degree.
+       In its opposition, the People conceded the two prior prison
+enhancements should be stricken but opposed any further
+reduction in defendant’s sentence because his criminal history
+and conduct while incarcerated for Galvan’s murder showed he
+remained a threat to public safety. The People related that in
+2012, defendant, with another inmate, physically attacked a third
+inmate, striking the victim in the head and torso and refusing to
+stop when ordered to do so, and that in 2014 defendant had been
+found guilty by prison officials of conspiracy to commit murder.
+The People related further that an investigation by prison
+officials revealed defendant was a member of EME, a Mexican
+prison gang, and that defendant held a position of authority
+within EME. In addition, in 2022, defendant was found in
+possession of manufactured alcohol.
+       On May 29, 2024, the trial court held a hearing on the
+section 1172.75 notification. Defendant addressed the court,
+stating that he was “no longer[ ] involved in [his] old lifestyle”
+and that he had changed his life in order to be a role model for
+his sons. The court observed that while obtaining an AA degree
+was “admirable,” defendant had not enrolled in any substance
+abuse rehabilitation programs while in prison and had not
+renounced his gang association or participated in any gang
+rehabilitation classes. In light of defendant’s participation in
+prison violence, the lack of any evidence showing a renunciation
+of his gang involvement, and the absence of any evidence he was
+
+
+
+6
+      At the time of Galvan’s death, defendant was 23 years old.
+
+
+
+
+                                9
+under the influence of drugs at the time of Galvan’s murder, the
+court found it was not in the interest of justice to reduce
+defendant’s sentence beyond vacating the one-year prior prison
+term enhancements. In holding the full resentencing section
+1172.75, subdivision (c) requires when legally invalid
+enhancements have been imposed, the court recalled defendant’s
+original sentence, vacated the two one-year prison term
+enhancements, and resentenced defendant to 75 years to life in
+prison.7
+
+                          II. DISCUSSION
+       Defendant contends the trial court erred in denying his
+section 1172.6 petition because certain ambiguities in the jury
+instructions “could have” allowed the jury to convict him of first
+degree murder under a theory by which malice was imputed to
+him based solely on his participation in the crime. Had the trial
+court given defendant an opportunity to present any new
+evidence beyond the record of the original trial at a section
+1172.6, subdivision (d)(3) hearing, the argument would be
+foreclosed by this court’s prior finding on direct appeal that the
+trial evidence demonstrated beyond a reasonable doubt that
+defendant and Alfaro shared the same mental state required for
+conviction of first degree murder. (People v. Curiel (2023) 15
+Cal.5th 433, 451-452 [discussing issue preclusion].) But the trial
+court denied the petition on the theory that defendant was
+
+
+7
+      Defendant noticed an appeal from the trial court’s ruling on
+his section 1172.75 motion. We granted defendant’s motion to
+consolidate both of his appeals for briefing, argument, and
+decision.
+
+
+
+
+                                10
+ineligible as a matter of law and did not ask defendant if he had
+any new evidence he could present. We therefore conclude a
+remand is required to clarify the state of the record. If the trial
+court confirms, at a hearing following issuance of an order to
+show cause or by way of seeking an advance proffer from
+defendant, that there is no new evidence materially bearing on
+the question of defendant’s mental state at the time of Galvan’s
+murder, denial of the petition will again be warranted. If the
+contrary is true, the trial court must re-adjudicate the petition in
+accordance with section 1172.6, subdivision (d)(3).
+       Defendant additionally contends the trial court abused its
+discretion under section 1172.75 when it declined to do more than
+vacate two one-year prior prison term enhancements because the
+court “failed to note that the shooting occurred in the context of a
+drug rip-off that occurred earlier that day.” According to
+defendant, the drug rip-off evidence “fairly implies that the
+shooting was related to [defendant’s] drug abuse since he was
+helping Alfaro try to obtain actual drugs rather than the bunk
+drugs Trejo originally sold Alfaro.” Defendant, however, never
+raised this argument in the trial court. We accordingly reject it
+as forfeited.
+
+      A.    A Remand Is Required to Determine Defendant’s
+            Eligibility for Section 1172.6 Relief
+      Section 1172.6, in relevant part, provides that “person[s]
+convicted of felony murder or murder under the natural and
+probable consequences doctrine or other theory under which
+malice is imputed to a person based solely on that person’s
+participation in a crime” may file a petition to have that
+conviction vacated under certain circumstances. (§ 1172.6, subd.
+
+
+
+
+                                11
+(a); People v. Antonelli (2025) 17 Cal.5th 719, 724; see also id. at
+731 [clarifying that the language in § 1172.6, subdivision (a)(3)
+referencing changes to murder and attempted murder law made
+effective January 1, 2019, “‘does not require a showing that a
+claim [for] relief . . . arises from no other cause’”; it means “‘only
+that the 2019 changes supply a basis for the claim and so are a
+cause’”].) If the petition contains all the required information,
+including a declaration by the petitioner that he or she is eligible
+for relief based on the requirements of subdivision (a), the
+sentencing court, after briefing by the parties, must hold a
+hearing to determine whether the petitioner has made a prima
+facie showing of entitlement to relief. (§ 1172.6, subd. (c); Curiel,
+supra, 15 Cal.5th at 450.) Importantly, at such a hearing, a
+defendant and the People have the right to “offer new or
+additional evidence to meet their respective burdens.” (§ 1172.6,
+subd. (d)(3).)
+       In deciding whether a petitioner has made a prima facie
+showing for relief, the sentencing court “looks beyond the face of
+the petition” to the record of conviction, which “‘necessarily
+inform[s] the trial court’s prima facie inquiry . . . , allowing the
+court to distinguish petitions with potential merit from those that
+are clearly meritless.’” (People v. Patton (2025) 17 Cal.5th 549,
+563, quoting People v. Lewis (2021) 11 Cal.5th 952, 971.) As part
+of the record of conviction, jury instructions “will generally
+inform the prima facie inquiry under section 1172.6.” (Antonelli,
+supra, 17 Cal.5th at 723; see also id. at 731 [“In assessing section
+1172.6 petitions from individuals convicted following jury trials,
+the jury instructions will be critical”].) Only where “the petition
+and record in the case establish conclusively that the defendant is
+ineligible for relief,” may the court deny the petition. (People v.
+
+
+
+
+                                 12
+Strong (2022) 13 Cal.5th 698, 708; accord, Curiel, supra, 15
+Cal.5th at 450.)
+       We review de novo the trial court’s denial of a petition for
+resentencing at the prima facie review stage, including its
+determination that the record of conviction establishes as a
+matter of law that the petitioner is not entitled to resentencing.
+(People v. Flores (2023) 96 Cal.App.5th 1164, 1170, disapproved
+on another ground in Patton, supra, 17 Cal.5th at 569 & fn. 12.)
+       Defendant contends the “equally guilty” language of
+CALJIC No. 3.00, when read with other instructions, such as
+CALJIC 17.31, could have allowed the jury to find him guilty of
+first degree murder “based on his intent to aid and abet a lesser
+crime than first[ ]degree murder, thus imputing Alfaro’s mens
+rea to [defendant].” In so arguing, defendant relies heavily on
+Langi, supra, 73 Cal.App.5th 972.
+       In Langi, the defendant was part of a group that beat and
+robbed the victim, who ultimately fell, hit his head, and died.
+(Langi, supra, 73 Cal.App.5th at 975.) Langi, who was tried
+separately, argued at trial that he did not throw the fatal punch,
+and his jury was instructed on aiding and abetting and second
+degree murder. (Id. at 977.) The jury convicted him of robbery,
+battery, and second degree murder, and his subsequent section
+1172.6 petition was summarily denied. (Ibid.)
+       The reviewing court assumed the jury had convicted Langi
+as an aider and abettor. (Langi, supra, 73 Cal.App.5th at 980.)
+It then found CALJIC Nos. 3.01 (aiding and abetting) and 8.31
+(second degree murder) were ambiguous and permitted the jury
+to find Langi guilty on a theory under which malice was imputed
+to him based solely on his participation in the crime. (Langi,
+supra, at 981-982.) The court observed that while the aiding and
+
+
+
+
+                                13
+abetting instruction stated a person aided and abetted a crime if
+the person acted with knowledge of the perpetrator’s unlawful
+purpose and with the intent to commit or encourage the crime,
+“the second-degree-murder instruction specified that the direct
+perpetrator of that crime need not act with the unlawful intent of
+causing death.” (Id. at 982.) The perpetrator’s unlawful purpose
+could instead have been “only to strike or to injure, or conceivably
+only to embarrass, the victim.” (Ibid.) “Since the perpetrator’s
+purpose need not have been to kill the victim, the aider and
+abettor’s knowledge of that purpose similarly need not have been
+knowledge that the perpetrator aimed to kill.” (Ibid.) Because
+the aiding and abetting instruction did not require the jury to
+find the defendant personally acted with malice, the appellate
+court concluded the jury could have convicted Langi as an aider
+and abettor merely because he intended to aid or assist in the
+beating of the victim. (Id. at 983.)
+       Defendant’s argument that the aiding and abetting
+instructions in this case include an ambiguity (or flaw) that is
+sufficiently akin to the problem in Langi focuses on the absence
+of a requirement that the jury find defendant personally
+harbored malice. Insofar as the Attorney General emphasizes
+defense counsel’s concessions at the section 1172.6 hearing and
+argues the point is forfeited, the argument has some force. But
+we hold the point was minimally preserved by the citation to
+Langi in the defense written submissions.
+       On the merits, it is impossible on the present record to
+accept defendant’s contention that the jury could have convicted
+him by imputing Alfaro’s malice to him (assuming Alfaro was the
+actual killer) without contradicting this court’s prior holding that
+any instructional error was harmless because the evidence
+
+
+
+
+                                14
+demonstrated beyond a reasonable doubt that defendant and
+Alfaro shared the same mental state—i.e., a premeditated intent
+to kill. Ordinarily, this would preclude defendant’s argument.
+(See, e.g., Curiel, supra, 15 Cal.5th at 451-452; see also People v.
+Barragan (2004) 32 Cal.4th 236, 246 [discussing the law of the
+case doctrine].) The twist here, however, is that section 1172.6
+permits a defendant to introduce new evidence at an evidentiary
+hearing and allows a court to deny a section 1172.6 petition
+before such a hearing only if the defendant is ineligible for relief
+as a matter of law. (See, e.g., Lewis, supra, 11 Cal.5th at 971-
+972.) Because—with the right new evidence—it is theoretically
+possible that a court could find defendant did not share the
+mental state required to be convicted of malice murder, we will
+vacate the trial court’s order and remand with directions to afford
+defendant an opportunity to come forward with any new evidence
+that could materially impact the conclusion about his mental
+state that this court previously drew. This opportunity may come
+either at a hearing following issuance of an order to show cause
+or in response to a request from the court for a proffer of any such
+evidence that would be presented should an order to show cause
+issue.
+
+      B.      Defendant Forfeited His Section 1172.75 Claim by
+              Failing to Raise It in the Trial Court
+       “‘In general, the forfeiture rule applies in the context of
+sentencing as in other areas of criminal law.’ [Citation.]” (People
+v. Trujillo (2015) 60 Cal.4th 850, 856.) “[In] People v. Scott (1994)
+9 Cal.4th 331 [ ], [our Supreme Court held that] a defendant
+forfeits on appeal any ‘claims involving the trial court’s failure to
+properly make or articulate its discretionary sentencing choices’
+
+
+
+
+                                 15
+in the absence of objection below. [Citations.]” (People v. Wall
+(2017) 3 Cal.5th 1048, 1075.) That is the case here. Defendant
+did not raise the “drug rip-off” evidence in his section 1172.75
+briefing in the trial court or in his statement to the court at the
+hearing. At the hearing, his attorney did not raise the drug rip-
+off evidence in his argument and did not object to the court’s
+omission of such evidence when it explained the reasons for its
+ruling. The absence of any objection or argument on the specific
+ground now advanced on appeal results in forfeiture. (See, e.g.,
+People v. Pearson (2013) 56 Cal.4th 393, 416 [a “defendant’s
+failure to make a timely and specific objection on the ground he
+now raises forfeits the claim on appeal”].)
+       Defendant alternatively suggests his attorney was
+constitutionally ineffective by failing to raise the forfeited
+argument. To establish ineffective assistance of counsel, “a
+defendant must demonstrate that (1) counsel's representation
+was deficient, i.e., it fell below an objective standard of
+reasonableness under prevailing professional norms; and (2)
+counsel’s representation subjected the defendant to prejudice, i.e.,
+there is a reasonable probability that, but for counsel’s failings,
+the result would have been more favorable to the defendant.”
+(People v. Samayoa (1997) 15 Cal.4th 795, 845; see also
+Strickland v. Washington (1984) 466 U.S. 668, 688.)
+       Defendant makes no serious attempt at either of these
+demonstrations. Instead, he raises his ineffective assistance
+claim in a subheading but offers no supporting argument in the
+text that follows. An argument like defendant’s that “does not
+even attempt to explain how counsel’s failure to object fell below
+an objective standard of reasonableness or how the failure to
+object resulted in prejudice” does not suffice, and “[w]e will not
+
+
+
+
+                                16
+address a claim that defendant has failed to develop.” (People v.
+Mitchell (2008) 164 Cal.App.4th 442, 467; see also People v. Bonin
+(1989) 47 Cal.3d 808, 857, fn. 6.)
+
+
+
+
+                            DISPOSITION
+       The trial court’s order denying defendant’s section 1172.6
+petition is vacated and the cause is remanded for further
+proceedings consistent with this opinion. In all other respects,
+the judgment is affirmed.
+
+
+    NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+
+
+
+                            BAKER, J.
+I concur:
+
+
+
+
+      KIM (D.), J.
+
+
+
+
+                                17
+People v. Vindiola, B337660 c/w B338387
+
+
+
+HOFFSTADT, P. J., Concurring in part and dissenting in part.
+
+       I agree with the majority’s disposition of the appeal
+regarding defendant’s section 1172.75 petition. However, I
+disagree with its disposition of the appeal of defendant’s section
+1172.6 petition. In my view, we need not reach the res judicata
+effect of our prior decision on appeal because the jury instructions
+themselves foreclose as a matter of law any possibility that the
+jury found defendant guilty of first degree murder without also
+finding that he personally harbored malice aforethought. The
+jury in this case was not explicitly instructed on any theory that
+would allow it to impute malice to defendant, such as the theories
+of felony-murder or natural and probable consequences liability.
+The jury was instructed that direct aiders and abettors are
+“equally” guilty as perpetrators, which People v. Langi (2022) 73
+Cal.App.5th 972, 983 deemed insufficient to foreclose the
+possibility that the jury might impute the perpetrator’s malice to
+the aider and abettor. But the jury in this case was also
+instructed that a person could not be a direct aider and abettor
+unless they acted with “the intent or purpose of committing,
+encouraging or facilitating the commission of the crime,” and a
+person could not be convicted of first degree murder unless they
+acted with a “clear, deliberate intent . . . to kill.” To me, these
+additional instructions ensured that the jury’s first degree
+murder verdict necessarily rested on its finding that defendant
+personally harbored malice. I would therefore affirm the
+summary denial of section 1172.6 relief, rather than remand for
+further proceedings.
+
+
+
+
+                                   ______________________, P. J.
+                                    HOFFSTADT
+
+
+
+
+                               2

@@ -1,0 +1,408 @@
+cl_opinion_id: 11211533
+cluster: 10744948
+docket: F088432
+date: 2025-11-26
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Martinez CA5
+----
+Filed 11/26/25 P. v. Martinez CA5
+
+
+
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+               IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                       FIFTH APPELLATE DISTRICT
+
+ THE PEOPLE,
+                                                                                             F088432
+           Plaintiff and Respondent,
+                                                                               (Super. Ct. No. BF196160A)
+                    v.
+
+ JORGE ALBERTO GUTIERREZ MARTINEZ,                                                        OPINION
+           Defendant and Appellant.
+
+
+
+         APPEAL from a judgment of the Superior Court of Kern County. David R. Zulfa,
+Judge.
+         Thomas Owen, under appointment by the Court of Appeal, for Defendant and
+Appellant.
+         Rob Bonta, Attorney General, Lance E. Winters, Chief Assistant Attorney General,
+Kimberley A. Donohue, Assistant Attorney General, Amanda D. Cary, Lewis A. Martinez
+and Ian Whitney, Deputy Attorneys General, for Plaintiff and Respondent.
+                                                        -ooOoo-
+       Defendant Jorge Alberto Gutierrez Martinez was found guilty of attempted
+murder, two counts of assault with a firearm, false imprisonment, and
+two felon-in-possession counts. Defendant now appeals his conviction, asserting the trial
+court prejudicially erred by failing to instruct the jury on accident. Defendant also
+contends remand is warranted to reconcile an incongruency in his sentence as well as
+correct clerical errors in the abstract of judgment. The People dispute defendant’s
+first contention and concede his second point.
+       Defendant’s sentence is vacated and the matter is remanded for full resentencing.
+In all other respects, the judgment is affirmed.
+                               PROCEDURAL HISTORY
+       On June 24, 2024, the Kern County District Attorney filed a second amended
+information charging defendant with attempted murder of K.M. (Pen. Code, §§ 187,
+subd. (a), 664;1 count 1), with special allegations that the attempted murder was
+premeditated and deliberate (§ 189), that defendant personally and intentionally
+discharged a firearm causing great bodily injury (§ 12022.53, subd. (d)), and that he
+personally inflicted great bodily injury on K.M. under circumstances involving domestic
+violence (§ 12022.7, subd. (e)); assault with a firearm on K.M. (§ 245, subd. (a)(2);
+count 2), with special allegations that defendant used a firearm during this offense
+(§ 12022.5, subd. (a)), and that he personally inflicted great bodily injury on K.M. under
+circumstances involving domestic violence (§ 12022.7, subd. (e)); kidnapping of B.G.
+(§ 207, subd. (a); count 3), with a special allegation that he personally used a firearm
+during the offense (§ 12022.53, subd. (b)); assault with a firearm on B.G. (§ 245,
+subd. (a)(2); count 4), with a special allegation that he personally used a firearm during
+the offense (§ 12022.5, subd. (a)); false imprisonment by violence of B.G. (§ 236;
+count 5), with a special allegation that defendant personally used a firearm during the
+
+1      Undesignated statutory references are to the Penal Code.
+
+
+                                             2.
+offense (§ 12022.5, subd. (a)); possession of a firearm by a felon (§ 29800, subd. (a)(1);
+count 6); and possession of ammunition by a felon (§ 30305, subd. (a)(1); count 7). The
+second amended information alleged as to all counts defendant had suffered a prior
+“strike” conviction within the meaning of the “Three Strikes” law (§§ 667, subds. (b)–(i),
+1170.12, subds. (a)–(d)), and as to counts 1 through 4, defendant suffered a prior serious
+felony conviction (§ 667, subd. (a)). It also alleged multiple aggravating circumstances
+under rule 4.421(a)(1) through (3) and (b)(1) through (5) of the California Rules of Court.
+The parties stipulated defendant had been previously convicted of a felony and was
+legally prohibited from owning or possessing a firearm at the time. At trial, the court
+dismissed count 5 on the prosecutor’s motion.
+       On July 3, 2024, a jury found defendant guilty of counts 1, 2, 4, 6, and 7; the jury
+found him not guilty of kidnapping on count 3 but found him guilty of the lesser included
+offense of false imprisonment (§ 237). The jury found the premeditation allegation
+(§ 189) not true on count 1 but otherwise found all firearm enhancements and domestic
+violence enhancements true. The trial court found all prior strike conviction, prior
+serious felony conviction, and aggravating circumstance allegations true.
+       At the sentencing hearing on August 1, 2024, the trial court imposed the
+upper term of nine years for the attempted murder, doubled to 18 years for the prior strike
+conviction, plus five years for the section 667, subdivision (a) prior serious felony
+conviction, plus 25 years to life for the section 12022.53, subdivision (d) firearm
+enhancement. The court imposed a term of two years (one-third the middle term,
+doubled due to the prior strike conviction) for the assault on B.G., plus three years,
+four months (which is reflected in the record as being one-third the middle term) for the
+firearm enhancement, to run consecutively. The court imposed a term of one year,
+four months (one-third the middle term) on the two felon-in-possession convictions, to
+run consecutively. The court also imposed and stayed the following sentences: five years
+for the section 12022.7, subdivision (e) enhancements on the attempted murder and
+
+                                             3.
+assault of K.M.; eight years for the assault of K.M.; six years for false imprisonment; and
+10 years for the section 12022.5, subdivision (a) enhancements on the assault of K.M.
+and false imprisonment. The court calculated the total sentence as 25 years to life plus
+31 years.
+       Defendant filed a notice of appeal on August 1, 2024.
+                                 FACTUAL SUMMARY
+       Defendant and K.M. started dating in April 2023 after defendant was released
+from prison. After about three months, defendant became violent with K.M. and started
+calling her names. On the morning of September 5, 2023, defendant was at K.M.’s house
+along with K.M. and her kids. K.M.’s friend B.G. arrived and met defendant for the
+first time. B.G. and K.M. went to K.M.’s bedroom to “hang[] out” and smoke
+methamphetamine. Defendant and K.M. began sporadically disagreeing over a magazine
+coupon and other things, but B.G. testified that they were not yelling and the argument
+was “[n]othing major” or too “confrontational.” K.M.’s twin sister, L.M., arrived,
+noticed defendant had a gun in his waistband, but did not voice any concerns. L.M.
+helped the kids get ready then took them to school.
+       After L.M. and the kids left, K.M. and defendant’s arguing continued. B.G.
+testified she saw defendant grow more frustrated, heard K.M. call defendant names, and
+at one point heard K.M. say to defendant, “ ‘Just leave then’ ” and “ ‘I don’t care.’ ” B.G.
+testified that at this time, the disagreement between K.M. and defendant was an ongoing
+conversation, that there was “definitely tension” and that although B.G. did not recall any
+yelling, they were disagreeing enough where K.M. had told defendant that he could just
+leave. B.G. estimated that 15 minutes had elapsed between the time when the kids left
+for school and the time that K.M told defendant to leave. L.M. testified that at some
+point around this time, K.M. called to see if L.M. would pick her and B.G. up so they
+could “get out of there.” L.M. testified she responded she would and hung up the call.
+L.M. testified that, “before I knew it, [K.M.] had called me back,” and she heard K.M.
+
+                                             4.
+shout, “ ‘Are you serious? You’re just going to pull out a gun on me.’ ” L.M. asked what
+was happening, K.M. responded, “I need you here now,” and then the phone went quiet.
+B.G. testified that, as she observed K.M. and defendant argue, she turned away to plug in
+her phone, then heard a gunshot. B.G. turned back around, saw K.M. slumped over on
+the bed with blood coming down her face, and saw defendant standing near the entrance
+to the room pointing a gun at K.M. L.M. then received a text from K.M.’s number with
+“911” and K.M.’s address. K.M. testified she did not recall many of the details from the
+morning, including whether defendant pointed a gun at her or made any threats to shoot
+her, or how far defendant was from her when the shot was fired.
+       At trial, B.G. did not have a clear memory of what happened next. At a
+preliminary hearing in November 2023, B.G. testified that after the shot was fired,
+defendant pointed a gun at her, grabbed her, told her to “get [her] sh[**],” and forced her
+to leave the house. B.G. stated she did not want to leave with defendant, but he pushed
+her into his truck, put the gun in the side of his door, and “took off at a rapid speed.”
+When defendant stopped at a stoplight a couple blocks away, B.G. jumped out of the
+truck, ran to a nearby convenience store, and called 911. B.G.’s report to the 911
+operator, played for the jury, reflected many of the same details of her escape.
+       L.M. arrived at the house shortly after the shooting to find defendant’s truck gone
+and the front door unlocked. She found K.M. sitting up on her bed in the back room
+gasping for air, with blood coming from her nose and eyes, and with tissue coming from
+her nose. K.M.’s phone was lying about five inches away from where K.M. was sitting.
+L.M. saw a gunshot wound on the left side of K.M.’s face and active bleeding. L.M.
+called 911, stating among other things that “ ‘[K.M.] called me. Her boyfriend had a gun
+to her head.’ ” L.M. then applied pressure to K.M.’s wound until paramedics arrived.
+Law enforcement found a .380-caliber shell casing in a blanket on K.M’s bed.
+       Defendant’s ankle monitor placed him at K.M.’s house on September 5, 2023,
+from 8:30 a.m. until 11:41 a.m. At 11:43 a.m., the monitor placed him near the
+
+                                              5.
+convenience store two blocks from K.M.’s house. At 11:45 a.m., the monitor registered a
+tamper alert. Defendant’s parole agent attempted to contact defendant, but defendant did
+not answer. The parole agent went to defendant’s last known location and found the GPS
+device in a nearby apartment complex; it had been cut. Law enforcement tracked
+defendant to the Lamont area, arrested him, and found .380-caliber bullets and an
+ammunition box in his truck.
+       K.M. suffered a single gunshot wound to the left side of her head, just next to the
+eye below the left temple; no exit wound for the bullet was readily observed. Surgeons
+removed a .380-caliber bullet from K.M.’s neck, and she required medical treatment over
+the next month. K.M. could not communicate for two weeks after the shooting, could not
+speak for almost a month, and was in a wheelchair until the end of 2023. A testifying
+physician opined that memory issues for months after the event would not be surprising.
+                                      DISCUSSION
+I.     Accident Instruction
+       Defendant argues his conviction for attempted murder and assault with a firearm
+should be reversed because he “was prejudiced by the trial court’s failure to give a
+CALCRIM No. 3404 accident instruction when the evidence demanded it.” We disagree.
+       A.     Additional Background
+       At the jury instruction conference, defense counsel requested a CALCRIM
+No. 3404 accident instruction as related to the attempted murder and assault with a
+firearm charges. The trial court denied the request “based on the state of the evidence.”
+However, the court indicated it would not be improper for defendant to argue in closing
+arguments the lack of evidence indicating a culpable mental state for these charges, and
+defense counsel confirmed he intended to do so.
+       At closing, defense counsel argued K.M. and B.G.’s testimony should be entirely
+disregarded because K.M. and B.G. had been using methamphetamine. Defense counsel
+
+
+
+                                             6.
+then emphasized how accidental discharge of the gun would negate the mental state
+element of both attempted murder and assault with a firearm, as follows:
+
+               “Maybe there was a fight over drugs or who owed what or
+       something like that. But when we have … people that demonstratively are
+       lying at least about some things clearly, this seems to make more sense to
+       me that there was some big argument that makes everyone involved look
+       bad. Maybe it resulted in some pushing and shoving. I don’t know. But
+       it’s entirely possible that there was a big argument that caused [defendant]
+       to pull out his gun in anger and then a struggle ensued and then the gun
+       went off. It’s also entirely reasonable to conclude that [defendant]
+       brandished the gun in anger, but due to lack of experience with guns didn’t
+       realize the safety was off and that was accidentally discharged. If it
+       accidentally discharged then that would be not guilty of the attempt murder.
+       If he was pointing it at her that would probably be enough for the assault
+       with a firearm if that’s what you believe happened that he was pointing it at
+       her on purpose as opposed to some struggle. Again, if there’s some sort of
+       struggle or just some sort of big argument that results in this happening
+       either by accident or otherwise unintentionally that’s not attempt murder. It
+       may be something else but not attempt murder. So, again, we will likely
+       never know what happened in the lead up to the shot[,] but it is a reasonable
+       conclusion that the gun went off accidently or unintentionally or even that
+       [defendant] intended to shoot her but not to kill her if he aimed it but then
+       she moved in some way or tried to charge him.”
+       B.     Standard of Review
+       On appeal, we review de novo the trial court’s denial of a requested jury
+instruction and examine whether the proponent’s theory was supported by substantial
+evidence. (People v. Cole (2004) 33 Cal.4th 1158, 1206.)
+       C.     Analysis
+       “ ‘[T]he trial court is required to instruct the jury on the general principles of law
+that are closely and openly connected with the evidence and that are necessary to the
+jury’s understanding of the case.’ ” (People v. Morales (2021) 69 Cal.App.5th 978, 990.)
+“ ‘ “[A] defendant has a right to an instruction that pinpoints the theory of the
+defense ….” ’ ” (People v. Bivert (2011) 52 Cal.4th 96, 120.) Even upon request by the
+defense, however, a court is only required to give a pinpoint instruction “if it is supported
+
+
+                                              7.
+by substantial evidence.” (People v. Ward (2005) 36 Cal.4th 186, 214.) “ ‘ “ ‘Substantial
+evidence is evidence sufficient to “deserve consideration by the jury,” that is, evidence
+that a reasonable jury could find persuasive.’ ” ’ ” (People v. Benavides (2005)
+35 Cal.4th 69, 102.) In determining whether the evidence is sufficient to warrant a jury
+instruction, the court does not weigh credibility. (People v. Thomas (1990)
+219 Cal.App.3d 134, 143 [“The court should not measure the substantiality of the
+evidence by undertaking to weigh the credibility of the witnesses, but if the evidence is
+minimal and insubstantial the court need not instruct.”].)
+       Here, the record lacks substantial evidence to support giving an accident
+instruction. The standard instruction on accident reads:
+
+          “The defendant is not guilty of [the charged crime] if (he/she) acted
+          [or failed to act] without the intent required for that crime, but acted
+          instead accidentally. You may not find the defendant guilty of [the
+          charged crime] unless you are convinced beyond a reasonable doubt
+          that (he/she) acted with the required intent.” (CALCRIM No. 3404.)
+Relevant here, for a charge of attempted murder, the prosecution must prove the
+defendant took a direct step toward killing another person and intended to kill that
+person. (CALCRIM No. 600.) For assault with a firearm, the prosecution must prove the
+defendant willfully committed an act that by its nature would directly and probably result
+in the application of force to another person. (CALCRIM No. 875.)
+       Defendant contends the trial court should have been required to give the requested
+accident instruction because: (1) there was no evidence of a heated argument or
+altercation between defendant and K.M. leading up to the shooting, and the disagreement
+about a coupon in a magazine appeared implausible as a motive for attempted murder;
+(2) K.M. did not remember seeing defendant point a gun at her, only that he showed it to
+her; (3) defendant only fired one shot, not multiple shots, so it is possible he did not
+intend to kill K.M.; and (4) the shooting occurred in close proximity in a closed space,
+meaning there could have been a struggle for the gun. Defendant also argues substantial
+
+
+
+                                              8.
+evidence exists because in closing, defense counsel posited alternate explanations for the
+shooting, such as defendant’s lack of experience with firearms. Defendant fails to
+persuade.
+       First, defendant is incorrect to argue there was no evidence of a heated argument
+or altercation between defendant and K.M. immediately preceding the shooting. True,
+neither B.G. nor L.M. noted anything tense in the argument in the earlier part of the
+morning. However, after L.M. and kids left the house, B.G. testified she saw defendant
+grow more frustrated, heard K.M. call defendant names, and at one point heard K.M. say
+to defendant, “ ‘Just leave then’ ” and “ ‘I don’t care.’ ” L.M. testified that at some point
+around this time, K.M. called to see if L.M. would pick her and B.G. up so they could
+“get out of there.” After that call ended, L.M. testified that, “before I knew it, [K.M.] had
+called me back,” and she heard K.M. yelling and shouting, “ ‘Are you serious? You’re
+just going to pull out a gun on me.’ ” L.M. asked what was happening, K.M. responded,
+“I need you here now,” and then the phone went quiet. L.M.’s 911 call reflected her
+memory that K.M. said defendant “ ‘had a gun to her head.’ ” Defendant’s argument that
+“there was no heated argument or altercation” prior to the shooting is belied by the
+record.
+       Second, and dispositive here, courts have long noted that “ ‘[a]n absence of
+evidence is not the equivalent of substantial evidence.’ ” (People v. Superior Court
+(Valenzuela) (2021) 73 Cal.App.5th 485, 498.) Similarly, an attorney’s speculations in
+closing argument are not evidence, let alone substantial evidence. (See People v. Soriano
+(2021) 65 Cal.App.5th 278, 286 [reminding that “ ‘ “ ‘ “[b]y definition, ‘substantial
+evidence’ requires evidence and not mere speculation.” ’ ” ’ ”].) Thus, defense counsel’s
+speculation about what could have happened—because defendant and K.M. were in close
+proximity, because of the absence of multiple gunshots, because of K.M.’s lack of
+memory, and because of defendant’s purported lack of experience with firearms—does
+not constitute substantial evidence. Defendant’s case differs from cases where, for
+
+                                              9.
+example, there was actual testimony supporting an accident theory during the events that
+formed the basis of the charged crime. (See, e.g., People v. Thurmond (1985)
+175 Cal.App.3d 865, 868, 873 [finding error in the failure to give an accident instruction
+where the defendant testified he attempted to let the hammer down but the gun fired
+anyway].) Here, there was no testimony or evidence introduced that the gun fired
+accidentally. Because the record is devoid of evidence supporting defendant’s accident
+theory, the trial court did not err in refusing to include CALCRIM No. 3404 in its
+instructions to the jury. (People v. Cole, supra, 33 Cal.4th at p. 1206; People v. Thomas,
+supra, 219 Cal.App.3d at p. 143.)
+II.    Errors in Sentencing and Corrections to the Abstract of Judgment
+       Defendant contends the trial court’s oral pronouncement at the sentencing hearing
+for count 4 is incongruent. The court purported to issue a sentence on a firearm
+enhancement attached to count 4 of “3 years, 4 months,” which the court stated was
+“one-third the midterm.” However, one-third the middle term for the firearm
+enhancement would be one year, four months; three years, four months would be
+one-third the upper term. Defendant also notes the abstract of judgment and record
+contain clerical errors. The People concede error.
+       “Where there is a discrepancy between the oral pronouncement of judgment and
+the minute order or the abstract of judgment, the oral pronouncement controls.” (People
+v. Zackery (2007) 147 Cal.App.4th 380, 385.) “Courts may correct clerical errors at any
+time, and appellate courts … that have properly assumed jurisdiction [can] order[]
+correction of abstracts of judgment that [do] not accurately reflect the oral judgments of
+sentencing courts.” (People v. Mitchell (2001) 26 Cal.4th 181, 185.) “ ‘Clerical error,
+however, is to be distinguished from judicial error which cannot be corrected by
+amendment. The distinction between clerical error and judicial error is “whether the
+error was made in rendering the judgment, or in recording the judgment rendered.” ’
+[Citation.] ‘An amendment that substantially modifies the original judgment or
+
+                                            10.
+materially alters the rights of the parties, may not be made by the court under its authority
+to correct clerical error, therefore, unless the record clearly demonstrates that the error
+was not the result of the exercise of judicial discretion.’ ” (People v. Codinha (2023)
+92 Cal.App.5th 976, 985.) An abuse of discretion occurs when the trial court “is unaware
+of its discretion ….” (In re White (2020) 9 Cal.5th 455, 470.)
+       A.     Count 4
+       At the sentencing hearing on August 1, 2024, the trial court imposed a sentence of
+two years under section 245, which the court stated was “one-third the midterm.” The
+court also stated it was sentencing defendant to “3 years, 4 months, which is one-third the
+midterm pursuant to [s]ection 12022.5[, subdivision] (a) of the Penal Code.” The
+minutes reflected the same pronouncement.
+       However, as defendant notes, section 12022.5, subdivision (a) sets the punishment
+range as being “for 3, 4, or 10 years.” One-third the middle term would be one year,
+four months, not three years, four months. It is not clear from the record whether the trial
+court intended for defendant to be sentenced to the middle term of one year, four months
+or the upper term of three years, four months, as the court used each phrase equally at the
+sentencing hearing. Further, the court stated it would be following the recommendations
+of the probation officer, and a review of the report reveals the same incongruity; on
+count 4, the probation officer recommends the sentence “be enhanced by three years,
+four months (one-third of the [midterm]) pursuant to [s]ection 12022.5[,
+subdivision] (a) .…” Further muddying the issue, earlier in the probation report, the
+officer recommends imposition of “three years, four months (one-third the selected
+term)” on the section 12022.5, subdivision (a) enhancement, but the recommendation was
+made with respect to count 2 which was stayed and on which the court imposed a 10-year
+firearm enhancement. In short, it is not clear on the record before us whether the trial
+court intended to impose one-third the middle term or one-third the upper term on the
+section 12022.5, subdivision (a) enhancement on count 4.
+
+                                             11.
+       Neither can we correct the issue on our own. Under the relevant statute, the trial
+court had discretion to impose one-third of either the upper or middle term for the firearm
+enhancement. (§ 1170.1, subd. (a) [providing no discretion for a consecutive term on a
+subordinate offense by prescribing “one-third of the middle term of imprisonment,” but
+granting discretion of “one-third of the term imposed for any specific enhancements
+applicable to those subordinate offenses” (emphasis added)]; People v. Hill (2004)
+119 Cal.App.4th 85, 92 [holding the unambiguous language of section 1170.1 grants the
+trial court discretion to impose one of three possible terms under a firearm
+enhancement].) Thus, remand is required for the trial court to clearly exercise its
+discretion. (People v. Codinha, supra, 92 Cal.App.5th at p. 985 [“ ‘An amendment that
+substantially modifies the original judgment or materially alters the rights of the parties,
+may not be made by the court under its authority to correct clerical error, therefore, unless
+the record clearly demonstrates that the error was not the result of the exercise of judicial
+discretion.’ ”]; see In re White, supra, 9 Cal.5th at p. 470.)
+       In addition, defendant identifies clerical errors in the abstract of judgment for
+count 4. First, the abstract of judgment reflected the total time sentenced, but did not list
+the section 12022.5, subdivision (a) enhancement attached to count 4. Second, the
+abstract fails to reflect the doubling (due to the prior strike) of the middle term sentence
+on the section 245, subdivision (a) conviction. The abstract of judgment issued after
+resentencing on remand shall correct these errors.
+       B.     Counts 2 and 3
+       Defendant notes other clerical errors in the abstract of judgment. First, the
+abstract fails to account for the fact that, on count 2, the section 12022.7, subdivision (e)
+enhancement was stayed under section 654, as pronounced by the trial court at the
+sentencing hearing. Instead, the abstract states a section 12022.7, subdivision (e)
+enhancement was attached to count 3, despite no such enhancement was alleged for that
+count. Second, the abstract fails to note that for count 3, the section 12022.5,
+
+                                              12.
+subdivision (a) enhancement was stayed by the court at the sentencing hearing under
+section 654. The abstract of judgment issued after resentencing on remand shall correct
+these errors.
+                                     DISPOSITION
+       Defendant’s sentence is vacated and the matter is remanded to the trial court to
+conduct a full resentencing. In all other respects, the judgment is affirmed.
+
+
+
+
+                                                                                GUERRA, J.†
+WE CONCUR:
+
+
+
+HILL, P. J.
+
+
+
+DETJEN, J.
+
+
+
+
+†       Judge of the Fresno Superior Court, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+
+                                            13.

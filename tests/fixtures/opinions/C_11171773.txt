@@ -1,0 +1,174 @@
+cl_opinion_id: 11171773
+cluster: 10705186
+docket: C101581
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Morris CA3
+----
+Filed 10/16/25 P. v. Morris CA3
+                                                 NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or
+ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for
+purposes of rule 8.1115.
+
+
+
+
+                 IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                            THIRD APPELLATE DISTRICT
+
+                                                           (San Joaquin)
+                                                                ----
+
+    THE PEOPLE,                                                                                             C101581
+
+                       Plaintiff and Respondent,                                            (Super. Ct. No. STK-CR-FE-
+                                                                                                   1999-0005829)
+            v.
+
+    ORVILLE MARCELL MORRIS,
+
+                       Defendant and Appellant.
+
+
+          In 1999, a jury found defendant Orville Marcell Morris guilty of attempted
+robbery. (Pen. Code,1 §§ 664, 211.) A jury also found true numerous enhancement
+allegations, including two one-year prior prison term enhancements (former § 667.5,
+subd. (b)) and two five-year prior serious felony enhancements (§ 667.5, subd. (a)). The
+trial court sentenced defendant to an aggregate term of 35 years to life in state prison.
+          In 2022, defendant was resentenced pursuant to Senate Bill No. 483 (2021-2022
+Reg. Sess.) (Senate Bill No. 483) (Stats. 2021. ch. 728) because his judgment included
+now invalid prior prison term enhancements. (§ 1172.75, subd. (a).) At resentencing, the
+trial court struck the prior prison term and prior serious felony enhancements but declined
+to dismiss his prior strike enhancements. Defendant was resentenced to 25 years to life.
+
+
+
+1         Undesignated statutory references are to the Penal Code.
+
+                                                                     1
+       On appeal, defendant argues, and the People agree, that the trial court failed to
+recalculate defendant’s custody credits at resentencing and specify the updated total in the
+amended abstract of judgment. The parties also stipulate that the balance of defendant’s
+restitution fine must be stricken pursuant to recently enacted section 1465.9, subdivision
+(d). We agree and will remand the matter to the trial court for the limited purpose of
+correcting the sentencing errors. In all other respects, we affirm.
+                                     BACKGROUND
+       We omit a discussion of the facts underlying defendant’s conviction because they
+are not relevant to the issues raised on appeal.
+       In 1999, a jury convicted appellant of attempted robbery (§§ 664, 211). In a
+bifurcated proceeding, the jury found true two prior strike allegations (§§ 667, subds. (b)-
+(i), 1170.12, subds. (a)-(d)), two prior serious felony enhancements (§ 667, subd. (a)), and
+two prior prison term enhancements (former § 667.5, subd. (b)). The trial court stayed
+the two prior prison term enhancements and sentenced defendant to 25 years to life, plus
+10 years. The court awarded defendant 446 days of custody credit: 297 days of actual
+credit and 149 days of conduct credit, and ordered him to pay a $2,000 restitution fine
+pursuant to section 1202.4, subdivision (b).
+       In 2022, the trial court issued an ex parte order indicating defendant was a person
+in the custody of the California Department of Corrections and Rehabilitation (CDCR)
+serving a prison term for a judgment that included now invalid prior prison term
+enhancements. The trial court appointed counsel and set the matter for a resentencing
+hearing.
+       Defendant filed a resentencing brief arguing that the trial court must dismiss his
+prior prison term enhancements because they are legally invalid. (See § 1172.75.)
+Defendant also asked the court to exercise its discretion under section 1385, to dismiss
+one of the prior strike convictions and the two prior serious felony enhancements.
+
+
+
+                                               2
+       At resentencing, the trial court dismissed the prior prison term and prior serious
+felony conviction enhancements; however, the court declined to dismiss either prior
+strike enhancement and resentenced defendant to 25 years to life in state prison.
+                                        DISCUSSION
+       A.      Custody Credits
+       Effective January 1, 2022, Senate Bill No. 483 added section 1171.1, later
+renumbered as section 1172.75, to the Penal Code. Subdivision (a) of that section
+provides that effectively any prior prison term enhancement “imposed prior to January 1,
+2020, . . . is legally invalid.” (§ 1172.5, subd. (a).)
+       Section 1172.75 also sets forth a procedure for defendants serving a sentence with
+a prior prison term enhancement to obtain relief. First, the CDCR must identify such
+defendants and notify the court that sentenced them. (§ 1172.75, subd. (b).) Next, the
+sentencing court must review the judgment of each identified defendant and determine
+whether it includes a qualifying prior prison term enhancement. (§ 1172.75, subd. (c).)
+If so, the sentencing court must recall the sentence and resentence the defendant. (Ibid.)
+       “By its plain terms, section 1172.75 requires a full resentencing, not merely that
+the trial court strike the newly ‘invalid’ enhancements.” (People v. Monroe (2022)
+85 Cal.App.5th 393, 402; see § 1172.75, subd. (d)(2).) Thus, section 1172.75 authorizes
+the resentencing court to “revisit all prior sentencing decisions.” (People v. Valenzuela
+(2019) 7 Cal.5th 415, 424-425.)
+       At defendant’s original sentencing, the trial court awarded defendant 446 days of
+custody credits, consisting of 297 days of actual custody credits and 149 days of conduct
+credits. At resentencing, the court did not address custody credits, and the “credit for
+time served” section of the amended abstract of judgment continues to reflect 446 days,
+with the notation “Date Sentence Pronounced 02[/]17[/]2000.”
+       We agree with the parties that the trial court was required to recalculate
+defendant’s custody credits at the time of resentencing. “Where a defendant has served
+
+                                                3
+any portion of his sentence under a commitment based upon a judgment which judgment
+is subsequently . . . modified during the term of imprisonment, such time shall be credited
+upon any subsequent sentence he may receive upon a new commitment for the same
+criminal act or acts.” (§ 2900.1; People v. Saibu (2011) 191 Cal.App.4th 1005, 1012; cf.
+People v. Buckhalter (2001) 26 Cal.4th 20, 23 [trial court must calculate time served and
+credit against subsequent sentence when remand results in modification of a felony
+sentence].)
+       Because the trial court failed to comply with this requirement, we remand for the
+limited purpose of allowing the court to recalculate defendant’s custody credits and to
+award such credits in an amended abstract of judgment. (See People v. Buckhalter, supra,
+26 Cal.4th at p. 41.)
+       B.     Restitution Fine
+       Effective January 1, 2025, Assembly Bill No. 1186 (2023-2024 Reg. Sess.) (Stats.
+2024, ch. 805, § 1) amended section 1465.9 to add subdivision (d), which provides:
+“Upon the expiration of 10 years after the date of imposition of a restitution fine pursuant
+to Section 1202.4, the balance, including any collection fees, shall be unenforceable and
+uncollectible and any portion of a judgment imposing those fines shall be vacated.”
+       The parties agree that any balance still owing on the restitution fine imposed at
+defendant’s original sentencing in 2000 is now unenforceable and uncollectable, and that
+portion of the judgment must be vacated. Here, however, the trial court did not impose
+any fines or fees at resentencing. The minute order does say the original sentence will
+remain “in full force and effect except as modified herein,” but the amended abstract of
+judgment reflects an order directing defendant to pay $2,000 in direct victim restitution
+(which was never ordered by the court).
+       Accordingly, neither the minute order nor the amended abstract reflects the
+judgment of the trial court. (People v. Delgado (2008) 43 Cal.4th 1059, 1070 [oral
+pronouncement of judgment prevails over a conflicting written description of it].) And
+
+                                             4
+the amended abstract of judgment conflicts with the court’s minute order. These errors
+must be corrected on remand, bearing in mind that any balance due on the previously
+imposed restitution fine is no longer enforceable or collectible.
+                                       DISPOSITION
+       The matter is remanded to the trial court for the limited purpose of allowing the
+trial court to recalculate the custody credits to which defendant is eligible on his
+resentencing and to correct the fines and fees portion of the judgment. The trial court
+shall prepare an amended abstract of judgment reflecting the updated award of custody
+credits and the correct amount of fines and fees, if any. The trial court shall then forward
+the amended abstract of judgment to the appropriate entities. In all other respects, the
+judgment is affirmed.
+
+
+
+                                                       \s\                     ,
+                                                  Krause, J.
+
+We concur:
+
+
+      \s\                    ,
+Hull, Acting P. J.
+
+
+      \s\                    ,
+Wiseman, J.*
+
+
+
+
+*      Retired Associate Justice of the Court of Appeal, Fifth Appellate District, assigned
+by the Chief Justice pursuant to article VI, section 6 of the California Constitution.
+
+                                              5

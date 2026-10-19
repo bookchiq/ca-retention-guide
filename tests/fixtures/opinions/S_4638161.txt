@@ -1,0 +1,1209 @@
+cl_opinion_id: 4638161
+cluster: 4834382
+docket: S249274
+date: 2020-11-30
+status: Published
+type: 010combined
+field: plain_text
+case: In re Long
+----
+IN THE SUPREME COURT OF
+               CALIFORNIA
+
+             In re KIMBERLY LOUISE LONG
+                     on Habeas Corpus.
+
+                           S249274
+
+           Fourth Appellate District, Division Two
+                         E066388
+
+               Riverside County Superior Court
+                          RIF113354
+
+
+
+                      November 30, 2020
+
+Justice Liu authored the opinion of the Court, in which Chief
+Justice Cantil-Sakauye and Justices Corrigan, Cuéllar,
+Kruger, Groban and Franson* concurred.
+
+
+
+
+*
+      Associate Justice of the Court of Appeal, Fifth Appellate
+District, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+                          In re LONG
+                            S249274
+
+
+                 Opinion of the Court by Liu, J.
+
+
+      Petitioner Kimberly Louise Long filed an original habeas
+corpus petition in this court seeking relief from a 2005
+conviction for second degree murder of her boyfriend, Oswaldo
+Conde, for which Long was sentenced to prison for 15 years to
+life. In 2015, upon finding that Long’s petition established a
+prima facie case for relief, we issued an order to show cause
+before the Riverside County Superior Court as to “why trial
+counsel was not ineffective in his failure to: consult a time of
+death expert, investigate DNA evidence, present evidence
+petitioner did not change her clothes, and present evidence of
+the victim’s application for a restraining order, and why
+petitioner is not actually innocent of the crime as petitioner
+claims in [various] grounds.”
+      Long was convicted by a jury after an earlier jury trial had
+ended in a mistrial. In adjudicating Long’s habeas corpus
+petition, Judge Patrick Magers, who had presided over both of
+Long’s trials, held an evidentiary hearing over several days,
+adjudicated factual disputes, and ultimately found that Long’s
+trial counsel rendered objectively deficient performance that
+prejudiced Long’s case. The court granted Long’s petition,
+vacated her conviction, ordered a new trial, and released her on
+a $50,000 bond. The Court of Appeal reversed and reinstated
+her conviction. We now reverse the judgment of the Court of
+Appeal on the ground that trial counsel’s failure to investigate
+
+
+
+                                1
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+the victim’s time of death was objectively unreasonable and
+prejudicial to Long’s defense.
+                                 I.
+      At the close of Long’s first trial, nine jurors favored
+acquittal and three favored guilt, and the court declared a
+mistrial. Long’s second trial took place in December 2005 and
+resulted in her conviction. The following facts were shown at
+the second trial.
+      On October 5, 2003, Long spent the day with Conde, their
+friend Jeffrey Dills, and others riding their motorcycles and
+drinking at various bars. Long had approximately 12 beers and
+10 shots of hard liquor that day. The others had also been
+drinking. At some point, an argument between Long and Conde
+escalated into a physical altercation when the two of them, along
+with Dills, returned to the couple’s home that evening in Corona.
+According to Dills, Long accused Conde of “not paying his share
+and being a loser and not having a job.”
+      Long and Dills left sometime between 11:00 p.m. and
+midnight and went to Dills’s home about 2.5 miles away. There,
+Dills and Long spent time in a jacuzzi, then moved to the
+bedroom and had oral sex. At some point, Long told Dills she
+had to return home because her ex-husband was supposed to
+drop off her child.
+     Dills informed police that he dropped Long off at her home
+around 1:20 or 1:25 a.m. Dills then returned to his own home;
+he recalled seeing his alarm clock by his bedside at 1:36 a.m.
+Long disputed this, testifying that she was dropped off by Dills
+around 2:00 a.m.
+     At 2:09 a.m., Long called 911 and said: “Oh my god
+something happened to my husband. . . . I just came home. He’s
+
+                                 2
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+bloody. I don’t know what’s going on. He’s still breathing.
+Something’s wrong.” She hung up and then called 911 again.
+During the second call, Long said she was an emergency room
+nurse but added, “I can’t give him medical attention.
+Something’s wrong with him.”
+      Police officers Jeffrey Glenn and Edward Hurtado were
+dispatched to the scene at 2:10 a.m. They arrived three to four
+minutes later and found Long waiting in the middle of the
+street, distraught. When they entered the home, they found
+Conde slumped over the couch with his feet on the floor, and
+they saw blood on the walls. Hurtado checked Conde’s body for
+a pulse and found none. When Hurtado touched Conde’s neck,
+a blood bubble burst in Conde’s mouth.
+      Paramedics arrived at 2:20 a.m. They confirmed Conde
+had no pulse and observed evidence of trauma to the right and
+back of Conde’s head. The paramedics noted that Conde’s
+wound was not actively bleeding and that his blood had already
+coagulated. They described Conde’s skin as “pale or ashen” and
+“cold” to the touch. Lividity, or skin discoloration resulting from
+internal pooling of blood, was present on the back of Conde’s
+arms and the left side of his face. They also observed rigidity,
+or rigor mortis, in Conde’s arms.
+      At 5:03 a.m., Deputy Coroner Richard Gomes arrived.
+Gomes inspected Conde’s body and noted in his report: “Rigor
+had not started. Lividity was almost fixed, with medium
+discoloration, and consistent with his position.” On the morning
+of October 7, Dr. Joseph Pestaner performed an autopsy and
+noted in his report that “[r]igor mortis is mild to moderate and
+symmetric. Livor mortis is fixed on the posterior aspect of the
+body.” The coroner ultimately determined the cause of death
+
+
+                                  3
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+was blunt force injuries to the head. Based on the autopsy
+report and photographs, a pathologist testified that Conde had
+been hit with a blunt weapon three to eight times and that an
+injury of that nature would have resulted in Conde’s death
+within 10 to 15 minutes.
+      A forensic technician observed blood evidence 360 degrees
+around Conde’s body, including castoff on all four walls. Police
+noticed broken glass in the kitchen and saw that the sliding
+glass door from the kitchen to the back yard was open. A
+shotgun and shotgun shells were missing from a closet, as were
+a bowl of change and a stereo from the living room.
+Investigators found no evidence of an attempt to clean up the
+house, no sign of the murder weapon, no blood anywhere else in
+the house, and nothing to suggest the sinks or showers had been
+recently used. Officers searched the area, but they did not
+recover the murder weapon, any bloody clothing, or other
+evidence linked to the crime.
+      Corona police officers interviewed Long at the station.
+According to Long, she stayed at Dills’s house for “an hour and
+a half, two hours” but could not recall exactly when she arrived
+home. When she arrived home, she noticed that the front door
+was unlocked. She walked into the home and saw Conde was on
+the couch in the living room. Given the blood, she initially
+thought he had gotten into a fight. Long said that Conde was
+“gurgling,” so she believed he was still alive and breathing. Only
+after he remained inert did Long realize something was wrong.
+She turned on the lights and saw he was gravely injured. She
+told the police that she called 911 less than 10 minutes after
+arriving home, ran around the house screaming, hung up on
+911, ran outside, and called 911 again. In a second interview on
+October 9, Long told officers that she suspected Conde’s ex-
+
+                                 4
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+girlfriend Shiana Lovejoy murdered Conde because Lovejoy had
+repeatedly threatened Long and Conde.
+      The victim’s brother told law enforcement that on the
+Monday before Conde was killed, Lovejoy had threatened to
+“slice their throats” (referring to Long and Conde) and that
+Lovejoy’s behavior had gotten “pretty bad” in the weeks before
+Conde’s murder. Two weeks before Conde’s death, Lovejoy sent
+a letter to Long claiming that she (Lovejoy) was still
+romantically involved with Conde and calling Long a “whore”
+and Conde a “broke mother fucker.” Lovejoy repeatedly called
+Long and Conde and left harassing voicemails. Long and Conde
+reported these calls to the police and changed their phone
+number in response. Lovejoy also defaced Conde’s white truck
+with the phrase “asshole & deadbeat” while it was parked at
+Long’s house and put glue in the keyhole of his truck so he could
+not open the door.
+      A week before his death, Conde sought a restraining order
+against Lovejoy and orders regarding custody and visitation of
+their son. In the application, Conde wrote that Lovejoy “called
+and said that my girlfriend [Long] is going to get it and for me
+to watch my back,” and that Lovejoy “hates my girlfriend, and
+she is going to ruin our lives.” His request for a temporary
+restraining order was denied, but the court set a hearing on
+Conde’s permanent restraining order application for October 20.
+On the same day Conde sought a restraining order against
+Lovejoy, Lovejoy filed a paternity suit against Conde. A few
+days before Conde’s murder, Lovejoy filed a competing child
+custody application. After Conde’s death, Lovejoy received
+Social Security payments on behalf of their son.
+
+
+
+
+                                 5
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+      Lovejoy told police that on the night of Conde’s murder,
+she had dinner at T.G.I. Friday’s with Oscar Castaneda, whom
+she was dating at the time, and then went to the Days Inn in
+Whittier where they paid cash for a room and stayed until
+around 1:30 a.m. Police confirmed Castaneda’s credit card was
+used at the restaurant at 10:24 p.m. The Days Inn manager on
+duty that night recognized a photo of Castaneda but had no
+recollection of Castaneda at the motel that evening, and there
+was no computer record of their stay. Lovejoy’s mother was
+babysitting that night and told officers that Lovejoy arrived
+home in Anaheim around 1:30 a.m.
+      In a police interview, Lovejoy said she had a great
+relationship with Conde until the last six months, when he
+moved in with Long. Lovejoy admitted that she lied to the police
+when they visited her house to investigate the vandalism of
+Conde’s truck.
+      Long’s ex-husband, Joe Bugarski, was also investigated as
+a potential suspect. Long and Bugarski married in 1999 or 2000
+and had a son. Bugarski described two incidents in which he
+said Long was physically violent with him. According to a police
+report, the second of those incidents, in June 2000, resulted in
+Bugarski’s arrest for domestic violence. During that incident,
+Bugarski held a butter knife to Long’s throat and threatened to
+kill her. In March 2003, Long kicked Bugarski out of the house
+and ended their marriage. On occasion, Long allowed Bugarski
+to stay at her home to watch their son when Long worked the
+graveyard shift. Bugarski installed a spy camera in Long’s
+bedroom and a voice-activated tape recorder under her bed
+because he suspected Long was intimately involved with Conde.
+Bugarski threatened to “kick [Conde’s] ass” and told Long’s
+mother he wanted to kill Conde. He occasionally stalked Long
+
+                                 6
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+“around town,” and about a month before Conde’s murder, he
+spied on Long and Conde at their home, which prompted a
+neighbor to call 911.
+      On the night of October 5, Bugarski was supposed to visit
+Long’s home around 9:00 p.m. to drop off their son, but he left a
+message on Long’s phone at 7:30 p.m. saying their son did not
+want to go and would stay with Bugarski that night. Long called
+back between 8:00 to 9:00 p.m. and told Bugarski that was fine
+because she could not be home that night. Bugarski said he and
+his son stayed at the home of Bugarski’s girlfriend, Chelsea
+Murray, that night and fell asleep on Murray’s bunkbed
+between 8:00 and 9:00 p.m. Murray told police she fell asleep
+around 10:00 p.m. and awoke at 5:00 a.m. to Bugarski’s cell
+phone vibrating.
+      On October 22, police officers interviewed Alejandro and
+Juanita Sandoval, who lived next door to Long and Conde, and
+Phillip Virga, who lived across the street.          Alejandro
+remembered waking up around 12:00 a.m. to the sound of a
+motorcycle engine revving multiple times from inside his
+neighbor’s garage. He told police he did not hear any voices at
+that time. Alejandro went back to sleep and woke up again
+briefly when he heard Long’s car alarm around 2:00 a.m.
+      Juanita believed she heard Conde attempting to start his
+motorcycle inside his garage at 1:30 a.m. The motorcycle stalled
+multiple times, and she recalled hearing someone yelling “fuck”
+and “shit” loudly at the motorcycle. Based on the engine’s
+noises, she believed Conde left home on his bike and returned
+around 1:45 a.m. Around 2:00 a.m., Juanita also heard Long’s
+car alarm for “a little while.”
+
+
+
+
+                                 7
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+      Virga told officers that he went out for dinner with his
+family and spotted two motorcycles parked in front of Long and
+Conde’s house around 8:00 p.m. on October 5. By the time Virga
+returned at 9:30 or 9:45 p.m., the motorcycles were gone. Virga
+was awakened around 11:50 p.m. to the sound of a motorcycle’s
+roaring engine from inside the couple’s garage. He thought he
+heard a muffled female’s voice inside the garage. Virga fell
+asleep and woke up again around 12:10 a.m. to the sound of a
+motorcycle engine and a female voice. Around 1:20 a.m., he
+heard the sound of a motorcycle driving past. Virga woke up
+again around 2:00 a.m. when he heard Long’s car alarm go off.
+      Dills died unexpectedly before trial, so his preliminary
+hearing testimony was admitted. Dills testified that he dropped
+off Long at her home at 1:20 to 1:25 a.m. and drove back to his
+own home by 1:36 a.m. on the night of Conde’s murder. Because
+Dills was the only person who saw Long after midnight, the
+prosecution at trial used his preliminary hearing testimony to
+establish a timeline for the crime, with Long arriving home
+around 1:20 a.m. and mortally wounding Conde some time
+before her call to 911 at 2:09 a.m.
+      During closing argument, the prosecutor argued that Long
+arrived home intoxicated around 1:20 a.m., killed Conde,
+disposed of the murder weapon, and cleaned herself and the
+scene before calling 911 at 2:09 a.m. No physical or other direct
+evidence connected Long to Conde’s killing. The jury found Long
+guilty of second degree murder. On February 24, 2006, Long
+was sentenced to a prison term of 15 years to life.
+      Long moved for a new trial. (Pen. Code, § 1181.) The trial
+court “reluctantly” denied Long’s motion, saying: “To make a
+perfectly clear record in this matter, if this was a court trial, if
+
+
+                                  8
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+the Court would have heard the evidence in this case, I would
+have found the defendant not guilty. I would have found that
+the evidence was insufficient to prove beyond a reasonable
+doubt.” In particular, the court found “troubling” that Dills’s
+preliminary hearing testimony featured so prominently in the
+prosecution’s case, despite the fact that the cross-examination of
+Dills “during the preliminary hearing was, as in most
+preliminary hearings, not extensive.” In particular, the court
+noted that “his level of intoxication was not fully addressed in
+the examination.” The Court of Appeal upheld Long’s conviction
+and denied her petition for rehearing. This court denied review.
+      In February 2010, Long filed a petition for a writ of habeas
+corpus in federal court. Reviewing Long’s conviction under the
+standards set forth in the Antiterrorism and Effective Death
+Penalty Act of 1996 (AEDPA; 28 U.S.C. § 2254), the district
+court denied her petition but noted it was “unfortunate that
+[Long’s] conviction largely hinged on [Dills’s] preliminary
+hearing testimony.”
+      Long appealed, claiming insufficient evidence supported
+her murder conviction. The United States Court of Appeals for
+the Ninth Circuit affirmed, explaining that “[w]ere we the jury,
+we might have entertained a reasonable doubt. Were we sitting
+as the reviewing court on direct appeal, we might have found
+the evidence to be insufficient. But under AEDPA, which
+demands double deference, we are limited to deciding whether
+the California courts unreasonably applied Jackson [v. Virginia
+(1979) 443 U.S. 307]. They did not.” (Long v. Johnson (9th Cir.
+2013) 736 F.3d 891, 897.) One judge said, “I have grave doubts
+about whether the State has convicted the right person in this
+case.” (Ibid. (conc. opn. of Watford, J.).)
+
+
+
+                                 9
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+      Long then sought habeas corpus relief in state court on the
+grounds of ineffective assistance of counsel and actual
+innocence. (Cal. Const., art. VI, § 10.) After the trial court and
+Court of Appeal summarily denied Long’s petitions, this court
+found that Long had stated a prima facie case for relief and
+issued an order to show cause why relief should not be granted.
+       The trial court took judicial notice of the prior proceedings
+in Long’s case and conducted an evidentiary hearing over
+several days. The court examined newly presented evidence and
+heard witness testimony proffered by both parties. Following
+the hearing, the court found by a preponderance of the evidence
+that Long’s trial counsel, Deputy Public Defender Eric Keen,
+had rendered objectively deficient performance by failing to
+consult and present testimony from a time of death expert and
+by failing to present supporting evidence about Long’s clothing.
+The court granted Long’s petition, vacated her conviction, set
+bail, and ordered a retrial.
+      The Court of Appeal reversed, finding that “Keen’s
+representation of defendant did not fall below an objective
+standard of reasonableness.” (People v. Long (May 3, 2018,
+E066388) [nonpub. opn.].) Because it found no deficient
+performance, the court did not examine prejudice. We granted
+review.
+                                 II.
+      The Sixth Amendment to the United States Constitution
+and article I, section 15 of the California Constitution guarantee
+a criminal defendant the “ ‘right to the effective assistance of
+counsel at trial.’ ” (In re Lucas (2004) 33 Cal.4th 682, 721; see
+ibid. [a defendant is “ ‘ “entitled to the reasonably competent
+assistance of an attorney acting as his diligent and conscientious
+
+
+                                  10
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+advocate” ’ ”]; Strickland v. Washington (1984) 466 U.S. 668, 687
+(Strickland).) “The ultimate purpose of this right is to protect
+the defendant’s fundamental right to a trial that is both fair in
+its conduct and reliable in its result.” (People v. Ledesma (1987)
+43 Cal.3d 171, 215 (Ledesma).)
+       We focus here on Long’s allegation that her trial counsel
+rendered ineffective assistance by failing to consult a time of
+death expert. To succeed, Long must show that this omission
+“fell below an objective standard of reasonableness”
+(Strickland, supra, 466 U.S. at p. 688; see In re Thomas (2006)
+37 Cal.4th 1249, 1257) in light of “the professional norms
+prevailing when the representation took place” (Bobby v. Van
+Hook (2009) 558 U.S. 4, 7). Long must also show “a reasonable
+probability that, but for counsel’s unprofessional errors, the
+result of the proceeding would have been different.” (Strickland,
+at p. 694.) Long “need not show that counsel’s deficient conduct
+more likely than not altered the outcome in the case.” (Id. at
+p. 693.) It is enough to show “a probability sufficient to
+undermine confidence in the outcome.” (Id. at p. 694.)
+      “[T]he standard for judging counsel’s representation is a
+most deferential one.” (Harrington v. Richter (2011) 562 U.S.
+86, 105 (Harrington).) We “must indulge a ‘strong presumption’
+that counsel’s conduct falls within the wide range of reasonable
+professional assistance because it is all too easy to conclude that
+a particular act or omission of counsel was unreasonable in the
+harsh light of hindsight.” (Bell v. Cone (2002) 535 U.S. 685, 702.)
+“Unlike a later reviewing court, the attorney observed the
+relevant proceedings, knew of materials outside the record, and
+interacted with the client, with opposing counsel, and with the
+judge.”    (Harrington, at p. 105.)        Accordingly, we must
+“reconstruct the circumstances of counsel’s challenged conduct,
+
+                                  11
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+and . . . evaluate the conduct from counsel’s perspective at the
+time.” (Strickland, supra, 466 U.S. at p. 689.)
+        Long prevailed on her habeas petition following an
+evidentiary hearing with several findings in her favor. In
+reviewing the trial court’s order granting relief, we apply “well
+settled” standards of review: “[W]e give great weight to those of
+the [trial court]’s findings that are supported by substantial
+evidence.      This is especially true for findings involving
+credibility determinations. The central reason for referring a
+habeas corpus claim for an evidentiary hearing is to obtain
+credibility determinations; consequently, we give special
+deference to the [trial court] on factual questions ‘requiring
+resolution of testimonial conflicts and assessment of witnesses’
+credibility, because the [trial court] has the opportunity to
+observe the witnesses’ demeanor and manner of testifying.’ [¶]
+. . . [I]n other areas we give no deference to the [trial court]’s
+findings. We independently review prior testimony, as well as
+all mixed questions of fact and law. Whether counsel’s
+performance was deficient, and whether any deficiency
+prejudiced the petitioner, are both mixed questions subject to
+independent review. Ultimately, the [trial court]’s findings are
+not binding on us; it is for this court to make the findings on
+which the resolution of [petitioner’s] habeas corpus claim will
+turn.” (In re Thomas, supra, 37 Cal.4th at pp. 1256–1257,
+citations omitted.)
+                                 A.
+      The crux of Long’s claim is that Keen, her trial counsel,
+failed to sufficiently investigate Conde’s time of death. At the
+evidentiary hearing, Keen testified that the only expert he
+consulted on time of death was Daniel Vomhof, an accident
+
+
+                                 12
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+reconstruction expert with no medical degree or experience in
+pathology. Keen had contacted Vomhof in an effort to establish
+that Long was not physically capable of causing Conde’s
+injuries. During that consultation, Keen learned that Vomhof
+“was also a time-of-death expert or purported to be.” Although
+Keen said he “spoke to [Vomhof] about that issue,” he could not
+recall if Vomhof had seen the paramedics’ report or coroner’s
+report, nor could he “remember specifically what each of us
+said.” Keen confirmed that he “didn’t contact an actual
+pathologist” or “anyone else besides Dr. Vomhof” to discuss time
+of death. Defense investigator William Sylvester confirmed that
+Keen never instructed him to seek out a time of death expert in
+Long’s case.
+       Keen further testified that his view at the time of Long’s
+trials was that no medical expert could offer a time of death that
+excluded the prosecution’s theory of Long’s window of
+opportunity for committing the crime. Keen based this opinion
+on “what Dr. Vomhof told [him]” and on his “own experience,”
+which “at the time” consisted of “nothing more than [mandatory
+continuing legal education] for attorneys, homicide seminars,
+stuff of that nature.” Keen said, “It’s my belief that anybody who
+testified regarding time of death would have to give a range, and
+that the times we were dealing with . . . were too small, and then
+necessarily that range would encompass both theories, the
+prosecution’s theory and our theory.” Keen testified that if he
+were trying the case today, he would “seek the opinion of a
+pathologist, somebody who had performed on the order to
+thousands of autopsies over their career to render testimony.”
+       The defense’s Strickland expert, Gary Gibson, provided
+additional context during the evidentiary hearing. Gibson was
+a law professor at California Western School of Law, teaching
+
+
+                                 13
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+California evidence, forensic evidence, advanced criminal
+litigation, and California sentencing. He had also been a public
+defender for over 20 years in San Diego County and worked on
+200 to 300 homicide cases. He testified that Vomhof’s résumé
+indicated he took a continuing education course on time of death
+in 1979 or 1980 but had no other training or expertise on time
+of death. Gibson said he would never seek a time of death
+opinion from “somebody who is not only not an M.D., but is [also]
+not a medical examiner.” He considered Keen’s reliance on
+Vomhof unreasonable because Vomhof is a biochemical engineer
+and not a medical doctor with expert knowledge of how to
+estimate time of death.
+       The trial court agreed, finding that Vomhof was “not a
+qualified expert to render an opinion regarding time of death”
+and that Keen made “no effort to contact or secure the testimony
+of such” an expert. The trial court reviewed Vomhof’s résumé
+and noted that he “holds a Ph.D. in biochemistry” but “is not a
+forensic pathologist or medical examiner” and “does not have a
+medical degree.” The court found that although Vomhof is an
+expert in biomechanics and accident reconstruction, “nothing”
+in Vomhof’s résumé showed he was qualified to provide an
+expert opinion on time of death.
+       In general, estimating time of death requires expert
+knowledge on how to measure and evaluate relevant
+postmortem bodily processes and indicators such as lividity,
+rigor mortis, body temperature, and decomposition. (See
+Henßge et al., Death Time Estimation in Case Work. II.
+Integration of Different Methods (1988) 39 Forensic Sci. Intl. 77,
+77–78 (hereafter Henßge); In re Richards (2016) 63 Cal.4th 291,
+303 [citing expert testimony that “time of death is a complex
+determination”].) In addition to Vomhof’s lack of medical
+
+
+                                 14
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+training or expertise to evaluate such indicators, Keen could not
+recall — and there is no indication in the record — that Vomhof
+was provided with the paramedics’ report, the coroner’s report,
+or other information necessary to reach an informed opinion as
+to Conde’s time of death. The trial court’s finding that Vomhof
+was not qualified to provide an expert opinion on time of death
+is supported by substantial evidence, and we adopt it.
+      The further question, to which we apply our independent
+judgment, is whether Keen’s failure to consult a time of death
+expert fell below an objective standard of reasonableness. In
+addressing this question, we focus not on whether Keen “should
+have presented” expert testimony on Conde’s time of death, but
+on “whether the investigation supporting [counsel’s] decision
+not to [consult a time of death expert] was itself reasonable.”
+(Wiggins v. Smith (2003) 539 U.S. 510, 523 (Wiggins).)
+      Not every homicide case presents a significant issue
+regarding the time of death. Gibson testified that he recalled
+only two instances in which time of death was at issue among
+the hundreds of murder cases he worked on as a public defender.
+But Conde’s time of death was a particularly important issue in
+this case and therefore gave rise to a duty of defense counsel to
+investigate. The core of the prosecution’s theory regarding
+Long’s opportunity to commit the crime rested on Dills’s
+preliminary hearing testimony that he dropped off Long at her
+home between 1:20 and 1:25 a.m. Long repeatedly insisted she
+arrived home around 2:00 a.m., placing her outside the window
+of opportunity to murder Conde, clean herself up, and dispose of
+the evidence. A reasonably competent defense attorney would
+have recognized the importance of investigating Conde’s time of
+death to examine whether it was inconsistent with the
+
+
+
+                                 15
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+prosecution’s timeline and could cause the jury to have a
+reasonable doubt about Long’s guilt.
+       We acknowledge that time of death often cannot be
+estimated with precision and that reliable estimates are
+commonly stated as a time range. Even so, Keen’s inquiry on
+this issue “did not reflect reasonable professional judgment.”
+(Wiggins, supra, 539 U.S. at p. 534.) Although Keen discussed
+Conde’s time of death with Vomhof, the discussion was
+serendipitous. Keen had contacted Vomhof to explore the level
+of force needed to fatally injure Conde; he did not contact
+Vomhof to discuss time of death, nor was he aware that Vomhof
+purported to have time of death expertise, nor is there any
+indication that he gave Vomhof the paramedics’ report, coroner’s
+report, or other information necessary to form a reliable opinion
+as to time of death. Under these circumstances, a competent
+attorney would have sought the opinion of a time of death expert
+on what the observations of lividity and rigor mortis in the
+paramedics’ and coroner’s reports implied for Conde’s time of
+death. At the time of Long’s trials, such observations had long
+been recognized in forensics literature and case law as
+indicators capable of informing time of death estimates. (See,
+e.g., Henßge, supra, 39 Forensic Sci. Intl. at pp. 78–81; People v.
+Noguera (1992) 4 Cal.4th 599, 614 [“routine examinations for
+lividity and rigor mortis” are “two crude measures used to
+approximate time of death”]; People v. Watson (1956) 46 Cal.2d
+818, 825 [medical experts estimated time of death based on rigor
+mortis]; People v. Adkins (2002) 103 Cal.App.4th 942, 948
+[forensic pathologist relied on observations of rigor mortis and
+lividity in estimating time of death]; People v. Culuko (2000) 78
+Cal.App.4th 307, 320 [pathologist estimated time of death based
+on rigor mortis].)
+
+
+                                  16
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+      Keen testified that he did not seek an expert opinion on
+time of death because he believed any estimate would
+encompass a range too broad to exclude the prosecution’s
+timeframe for the crime. But there is scant evidence to indicate
+he sought expert advice to confirm that belief. Even accepting
+that time of death estimates are inexact and are stated as a
+range, it is not clear what led Keen to believe that any range
+derived from the available evidence would necessarily
+encompass the prosecution’s timeframe — a timeframe that
+tended to rule out the possibility that someone other than Long
+committed the crime. When asked what “specifically” in his
+training led him not to inquire further into Conde’s time of
+death, Keen identified nothing specific. Although Keen said he
+had knowledge about lividity and rigidity, his testimony
+provides no indication as to whether or how that knowledge
+informed his judgment. Without further inquiry, Keen had no
+basis to write off the possibility that a time of death estimate
+would help exculpate Long.
+      The Court of Appeal believed it was reasonable that Keen
+did not consult a time of death expert and instead focused Long’s
+defense on third party culpability. But the two lines of defense
+were potentially complementary, not mutually exclusive; an
+expert opinion that Conde likely died before 1:20 a.m. would
+have tended to bolster Long’s defense that another party
+committed the crime. In any event, we see no reason why
+competent counsel would not have at least inquired. (See
+Strickland, supra, 466 U.S. at p. 691 [“counsel has a duty to
+make reasonable investigations or to make a reasonable
+decision that makes particular investigations unnecessary”];
+Ledesma, supra, 43 Cal.3d at p. 215 [counsel must “make a
+rational and informed decision on strategy and tactics founded
+
+
+                                 17
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+on adequate investigation and preparation”].) Without such
+investigation, Keen was not in a position to make a reasonable
+decision as to which defense or defenses to focus on at trial.
+      A reviewing court must apply “ ‘a heavy measure of
+deference to counsel’s judgments’ ” in assessing the
+reasonableness of a particular decision not to investigate.
+(Wiggins, supra, 539 U.S. at p. 522.) But “[i]n assessing the
+reasonableness of an attorney’s investigation, [we] must
+consider not only the quantum of evidence already known to
+counsel, but also whether the known evidence would lead a
+reasonable attorney to investigate further.” (Id. at p. 527.) The
+prosecution’s theory of the case put Long at the crime scene no
+earlier than 1:20 a.m., roughly 45 minutes before the police
+arrived. Time of death was not only a central issue to
+investigate; it was also a viable issue for investigation in light of
+the lividity and rigidity observations by the paramedics and
+coroner.     A reasonably competent attorney would have
+investigated further, and Keen had no reasonable basis for
+failing to do so. (See id. at p. 534.) We conclude that counsel’s
+failure to consult a time of death expert “was the result of
+inattention, not reasoned strategic judgment” (ibid.), and that
+counsel’s performance in this regard fell below an objective
+standard of reasonableness.
+                                  B.
+      We now consider whether counsel’s failure prejudiced
+Long’s defense. We examine what “evidence counsel failed to
+discover and present in this case” and whether there is “a
+reasonable probability that a competent attorney . . . would have
+introduced it” (Wiggins, supra, 539 U.S. at pp. 534–535), and
+then we address whether “there is a reasonable probability that
+
+
+                                  18
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+[the jury] would have returned” a different verdict if it “had
+. . . been confronted with [that] evidence” (id. at p. 536).
+                                 1.
+      The trial court found that “qualified medical opinions”
+concluding that Conde’s death occurred significantly earlier
+than 1:20 a.m. “were available at the time of trial” in 2005. This
+finding is supported by substantial evidence.
+      At the evidentiary hearing, Long presented the testimony
+of two pathology experts. Dr. Zhongxue Hua was a professor of
+pathology at the Albert Einstein College of Medicine and
+previously served as chief medical examiner for Union County
+in New Jersey. He testified that he has performed around 3,000
+autopsies and has reviewed “at least the same amount” of
+autopsy reports. He explained that the science undergirding
+time of death estimation is not precise down to minutes or
+seconds, but it can provide a meaningful range of possible times.
+      Upon reviewing the circumstances in this case, Dr. Hua
+opined that it was “remotely possible” but “extremely unlikely”
+that Conde died after 1:20 a.m. Based on “the known set of
+evidence,” Dr. Hua concluded that Conde’s “time of death
+occurred long before 1:20 a.m.” In providing this estimate, Dr.
+Hua assigned particular importance to the paramedics’
+observation of rigor in Conde’s arm around 2:20 a.m. He
+explained that although rigor may present as early as 30
+minutes to an hour after death in small muscles such as those
+in a person’s fingers or jaw, it would take “much, much later
+than 30 minutes” after a person’s death for rigor to present in
+the medium-sized muscles of the arms. Dr. Hua also considered
+the paramedics’ observations regarding the body’s lividity. He
+noted that some lividity could present as early as 30 minutes to
+
+
+                                 19
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+one hour following a person’s death, suggesting that Conde must
+have died at least 30 minutes before the paramedics’
+observation.
+       Dr. Hua placed less emphasis on the coroner’s report. As
+noted, the coroner arrived almost three hours after the
+paramedics; Dr. Hua said he generally finds earlier observations
+to be more helpful than subsequent observations. He testified
+that the coroner’s observation of “almost fixed” lividity was
+inconsistent with the coroner’s notation that rigor “had not
+started,” since lividity and rigor tend to present together.
+According to Dr. Hua, the coroner’s notation that rigor had not
+started was “impossible” as Conde had been dead for over two
+hours. Dr. Hua testified that any finding that rigor “had not
+started” by 5:03 a.m., when the deputy coroner arrived, was
+“extremely unlikely.” Further, Dr. Hua testified that there is no
+precise definition of “almost fixed” lividity, so he discounted fully
+fixed lividity by 50 percent in order to derive his “most
+conservative” time of death estimate. He opined that the
+earliest time when “almost fixed” lividity (so understood) could
+present is “minimum, minimum four hour[s]” after death, and
+he rejected the possibility that “almost fixed” lividity could occur
+within four hours after death. On cross-examination, Dr. Hua
+testified that even if the coroner had examined the body closer
+to 7:00 a.m., his time of death estimate would be “still before”
+1:20 a.m. given the paramedics’ observation of rigor in Conde’s
+arm at 2:20 a.m.
+      Long’s other expert was Dr. James Bonnell, who had
+previously served as the chief deputy medical examiner for San
+Diego County and had performed over 7,000 autopsies and had
+provided sworn testimony over 585 times at the time of the
+hearing. Dr. Bonnell estimated that Conde died “much closer to
+
+                                  20
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+11:00 [p.m.] than 1 [a.m.].” He placed “great reliability” on the
+paramedics’ observations, as they “were the first people to
+actually examine the body.” Dr. Bonnell considered but did not
+credit the coroner’s findings. In his view, the coroner’s
+observation that rigor “had not started” was “inaccurate.” Dr.
+Bonnell highlighted the paramedics’ contrary observation that
+rigor was present in Conde’s arms at 2:20 a.m. According to Dr.
+Bonnell, if “rigidity was not present” during the coroner’s
+examination between 5:03 and 7:13 a.m., it “can equally mean
+that [rigor] has passed,” not that rigor had not yet started. If
+Conde had died before midnight, Dr. Bonnell noted, “it wouldn’t
+surprise [him] that [rigor] has passed at 7 o’clock.” Like Dr.
+Hua, Dr. Bonnell testified that the presence of “almost fixed”
+lividity at the time of the coroner’s examination “totally
+contradicts” the coroner’s finding of absence of rigor. Especially
+in light of the paramedics’ observations, Dr. Bonnell
+characterized the prosecutor’s theory that Conde died at or after
+1:20 a.m. as “medically impossible.”
+       Dr. Bonnell also considered the testimony of a neighbor
+who thought she heard Conde in his garage at 12:30 a.m. He
+testified that given the strength of the evidence suggesting an
+earlier time of death, “I don’t place a whole lot of reliability on”
+the indicia that Conde was alive as late as 12:30 a.m. On cross-
+examination, Dr. Bonnell said he “wouldn’t rely . . . at all” on
+Long’s background as an emergency room nurse or her 911 call
+transcript in which she said Conde was “still breathing”
+because, “number one, she may have been in shock, and number
+two, I know she was intoxicated.”
+      The district attorney called Dr. Joseph Cohen, who was
+the chief forensic pathologist of the Riverside County Sheriff-
+Coroner’s Office and had performed over 7,000 autopsies. Dr.
+
+                                  21
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+Cohen disagreed with Dr. Hua’s assessment of the paramedics’
+observation of rigor in Conde’s arms. He testified that rigor may
+be observable “within minutes” of a person’s death, although he
+acknowledged that it generally takes “30 to 60 minutes” for rigor
+to appear. Dr. Cohen said he placed little weight on the
+paramedics’ report, as “the deputy coroner’s examination
+generally will trump the first responder’s impression — not
+always.” Even so, Dr. Cohen largely dismissed the observations
+of rigidity and lividity in the coroner’s report. Dr. Cohen
+doubted that rigor could be present at 2:20 a.m. but not at 6:00
+a.m., saying that such a finding “doesn’t make sense.” He also
+“disagree[d] that [lividity] would have been fixed or nearly fixed
+at the time of the coroner investigator’s examination,”
+describing the coroner’s finding of “almost fixed” lividity as
+“hard to believe” and an “impossibility.”
+      In estimating Conde’s time of death, Dr. Cohen said he
+would give “appropriate weight” to the testimony of Juanita
+Sandoval, who said she heard Conde attempting to start his
+motorcycle in his garage at 1:30 a.m., and to the 911 call in
+which Long said Conde was still breathing. Dr. Cohen also
+disagreed with Dr. Hua’s and Dr. Bonnell’s time of death
+estimates, describing them as “ludicrous,” “skewed,” “too
+inflexible,” and “too narrow of a range.” Ultimately, Dr. Cohen
+opined that Conde’s time of death was “as likely” before 1:20
+a.m. as after.
+      After hearing the testimony of all three experts, the trial
+court found that Dr. Hua and Dr. Bonnell “concluded to a
+reasonable degree of medical certainty that the postmortem
+changes observed in the victim’s body could not have occurred in
+less than an hour. Neither forensic pathologist could give an
+exact timing of the victim’s death. However, both forensic
+
+                                 22
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+pathologists testified in this court that the victim’s death
+occurred significantly earlier than 1:20 a.m., the earliest time
+the prosecution could place the petitioner at the scene. Their
+observations were based upon postmortem changes by the first
+responders as well as the deputy coroner’s report . . . .
+[¶] Hearing their testimony, this Court finds both opinions to be
+credible, convincing, and compelling. Their testimony indicates
+such qualified medical opinions were available at the time of
+trial and defense counsel failed to seek out medical experts to
+address the issue.” These findings, reflecting the trial court’s
+determination of the witnesses’ credibility, are supported by
+substantial evidence.
+                                  2.
+       The trial court further ruled that the testimony of a
+qualified time-of-death expert was evidence that a competent
+attorney would have presented at trial: “In making this ruling,
+I’m not saying that he should have contacted these two
+particular experts, but it’s apparent to the Court that these
+qualified opinions did exist in the medical field . . . . [¶] If such
+expert would have testified, it would have put the victim’s time
+of death at a time when petitioner could not have committed the
+crime, if believed by the jury. Obviously, it’s always a question
+of fact for the jury to either accept or reject the testimony of any
+witness that testifies, including an expert.”
+      The Court of Appeal “disagree[d] with the trial court’s
+conclusion that no reasonable attorney would have failed to
+present expert time of death evidence to the jury.” The Court of
+Appeal observed that “Hua estimated the victim died before 1:20
+a.m., but conceded that estimate could be effected [sic] by the
+timing of when Gomes [the coroner] observed the victim’s body;
+
+
+                                  23
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+the record fails to show at precisely what time Gomes examined
+the victim’s body.” The court also said Dr. Bonnell’s estimate
+that Conde died between 11:00 a.m. and 12:30 p.m. “was based
+upon not considering, or disregarding, all evidence of a later
+time period, such as [a neighbor’s] statement that she heard the
+victim at 1:30 a.m., defendant’s 2:09 a.m. observation that the
+victim was breathing, [the coroner’s] conclusion that rigor had
+not started by 5:03 a.m. on October 6, and Dr. Pestaner’s
+observation that the victim’s body was in a state of rigor on
+October 7.” Further, the court explained that Dr. Cohen’s
+inconclusive testimony “supports Keen’s reasoning” that a time
+of death estimate would be too broad to exclude the prosecution’s
+theory. In sum, the court said, “an attorney could reasonably
+conclude that reliance upon expert testimony, such as Bonnell’s,
+would have been a risky defense strategy because a jury could
+reasonably view such testimony with skepticism and therefore
+it would be unlikely to raise a reasonable doubt.”
+      In evaluating these competing views, we begin by noting
+that the Court of Appeal did not disagree with the trial court’s
+finding that “qualified medical opinions [that Conde died before
+1:20 a.m.] were available at the time of trial.” The Court of
+Appeal’s concern was that Dr. Hua’s and Dr. Bonnell’s opinions
+were not clear or not persuasive. However, the Court of Appeal
+appeared to ignore Dr. Hua’s testimony that he would place
+Conde’s time of death earlier than 1:20 a.m. even if the deputy
+coroner had not inspected the body until 7:00 a.m. And the court
+did not mention Dr. Bonnell’s testimony that he did not give
+weight to the coroner’s observation that rigor had not started
+because it “totally contradicts” the other time of death
+indicators, or to Long’s 2:09 a.m. observation that Conde was
+breathing in light of her shock and level of intoxication.
+
+
+                                 24
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+      More fundamentally, all the experts who testified were
+aware that the various pieces of evidence bearing on Conde’s
+time of death were potentially inconsistent, and they took those
+inconsistencies into account. In their responses to extensive
+questioning, Dr. Hua and Dr. Bonnell explained why they placed
+greater reliance on some indicators and not others, and both
+experts placed significant weight on the observations of the
+paramedics, the first responders on the scene. (Cf. In re
+Richards, supra, 63 Cal.4th at p. 303 [noting forensic
+pathologist’s testimony that “the closer to the time of death
+observations are made, the more accurate the findings will be”].)
+Notably, all three experts were critical of key findings in the
+coroner’s report. Further, the trial court acknowledged that Dr.
+Cohen “is a highly qualified medical examiner” and that Dr.
+Cohen “disagreed with the expert testimony of Dr. Bonnell and
+Dr. Hua and opined the time of death was just as likely . . .
+before 1:20 a.m. as after.” Nevertheless, the trial court, after
+hearing all three experts’ lengthy testimony over several days,
+found Dr. Hua’s and Dr. Bonnell’s opinions “to be credible,
+convincing, and compelling.” This is not to say that contrary
+time-of-death opinions were not also available, as evidenced by
+Dr. Cohen’s testimony. But our assessment of prejudice focuses
+on the availability of credible opinions favorable to Long
+because, in light of our determination that counsel did not
+properly investigate the victim’s time of death, we cannot rule
+out a reasonable likelihood that had he done so, he would have
+discovered an opinion helpful to Long’s defense.
+     The Court of Appeal was correct to focus its inquiry not
+simply on whether expert testimony that Conde died before 1:20
+a.m. was available, but on whether a reasonable attorney could
+have chosen not to present such testimony. It is true that such
+
+
+                                 25
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+testimony could have been challenged on various grounds, and
+the trial court recognized that “[a] jury hearing this case could
+accept [Dr. Cohen’s] testimony and disregard petitioner’s
+experts, whoever those qualified experts will be.”            But
+considering the totality of the experts’ testimony as well as the
+trial court’s findings, we conclude there is a reasonable
+probability that a competent attorney would have presented
+such evidence at trial.
+       As noted, a time of death defense would have potentially
+complemented defense counsel’s theory of third party
+culpability; evidence that Conde died before Long got home
+would have suggested that someone else committed the crime.
+Although such testimony would have been at odds with Long’s
+statements during her 911 call at 2:09 a.m. and her statements
+to investigators, a competent attorney could have argued she
+was mistaken due to her intoxication and the shock of
+discovering Conde. Indeed, Keen argued at trial that Long was
+“intoxicated” and “hysterical” when she came home “and saw
+[Conde] dead on the couch,” and Keen emphasized various
+aspects of the paramedics’ report to suggest Conde was dead
+before Long arrived. In other words, discounting Long’s 2:09
+a.m. statement that Conde was still breathing was in fact part
+of, not in tension with, the defense strategy. At the evidentiary
+hearing, Keen testified that expert testimony placing the time
+of death before Long’s arrival “would be consistent with our
+defense” and that he “would have fought to introduce that at
+trial” if he had known such testimony was available.
+      In sum, the record before us does not support the Court of
+Appeal’s conclusion that presenting a time of death expert
+“would have been a risky defense strategy.” As the trial court
+explained, such expert evidence, even if imperfect, would have
+
+                                 26
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+provided a potentially meritorious defense ruling out Long as
+the perpetrator. And even though a jury could have ultimately
+decided to reject it, such evidence would have had enough
+substance as to pose no serious risk of compromising the overall
+credibility of the defense. We conclude that there is “a
+reasonable probability that a competent attorney . . . would
+have introduced” expert testimony on the victim’s time of death
+in this case. (Wiggins, supra, 539 U.S. at p. 535.) Keen was “not
+in a position to make a reasonable strategic choice” as to
+whether to present such testimony because his investigation
+into Conde’s time of death was unreasonable. (Ibid.)
+                                  3.
+      We now consider whether “there is a reasonable
+probability that [the jury] would have returned with a different”
+verdict (Wiggins, supra, 539 U.S. at p. 536) if counsel had
+presented the testimony of a time of death expert. The trial
+court observed that “it’s always a question of fact for the jury to
+either accept or reject the testimony of any witness that testifies,
+including an expert.” And the court acknowledged that Dr.
+Cohen disagreed with the testimony of Dr. Bonnell and Dr. Hua,
+and “opined the time of death was just as likely . . . before 1:20
+a.m. as after.” Nevertheless, the court ruled that expert
+testimony estimating time of death before Long arrived home
+“could reasonably raise a reasonable doubt in the minds of the
+jurors” and “could be fatal to the People’s case.” Applying our
+independent judgment, we agree.
+      The prosecution’s evidence against Long was not
+particularly strong. The case rested on circumstantial evidence
+of Long’s motive and opportunity to commit the crime. As noted,
+in the hours leading up to Conde’s murder, Long and Conde had
+
+
+                                  27
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+been involved in a verbal and physical altercation. Long was
+cheating on Conde with Dills, and she was heavily intoxicated.
+Although no neighbors saw Long or Conde, they heard several
+noises from the direction of the couple’s house late at night.
+When Long called 911, she said Conde was still breathing, yet
+she did not render assistance despite being a vocational nurse.
+Several items were missing from Long’s house, though it did not
+appear to police that the house had been ransacked. And the
+prosecution had called into doubt Long’s uncorroborated
+testimony that she had not changed her clothes that night.
+      At the same time, the prosecutor offered no confession, no
+eyewitnesses, no murder weapon identified or recovered, and no
+bloody clothes or other physical or forensic evidence linking
+Long to the crime. Furthermore, the alibis of the other suspects,
+Bugarski and Lovejoy, were only weakly corroborated, if at all.
+In the months before Conde’s death, both Bugarski and Lovejoy
+had threatened the couple and had engaged in suspicious
+activity around Long’s house. Ultimately, the sole testimony
+placing Long at the scene of the crime came from Dills. As the
+trial court observed, “[O]bviously the People’s cornerstone to
+their prosecution was the reliability of Mr. Dills.” But Dills had
+also been drinking throughout that day; he was intimately
+involved with the victim’s girlfriend; he was a suspect in the
+crime when interviewed by the police; and because he died
+before trial, he never testified before a jury and was never cross-
+examined after full discovery.
+      The centerpiece of the prosecution’s case was its theory
+that Long arrived at the murder scene at 1:20 a.m. and called
+911 at 2:09 a.m. Under that scenario, she would have had
+approximately 50 minutes to arrive, secure a weapon, bludgeon
+the victim to death, and then clean up the scene as well as
+
+                                  28
+                             In re LONG
+                    Opinion of the Court by Liu, J.
+
+
+herself and dispose of the weapon. Under the timeframe offered
+by the defense, Long would have had only 10 minutes to
+accomplish all of those tasks.
+      Several facts stand against the prosecution’s theory.
+There were two other people with a potential motive to kill the
+victim, and their alibis were not firm. In addition, the front door
+was unlocked, the kitchen slider was open, and items were
+missing from the home. It was a bloody crime scene with a 360-
+degree blood splatter pattern. Yet there was no evidence that a
+sink or shower had been used to clean up. A search of the home,
+the car, and the neighborhood, including storm drains,
+uncovered no weapon, no bloody clothes, and no other evidence.
+      In addition, the prosecution expert opined at trial that the
+victim’s head injuries would have caused death within 10 to 15
+minutes. The prosecution’s own evidence showed Long was over
+two miles away between 11:00 p.m. and 1:20 a.m. Defense
+counsel did not present available evidence from which the jury
+could have concluded that the victim could have died much
+earlier, when Long was nowhere near the crime scene. That
+evidence would have effectively negated the linchpin of the
+prosecution’s case and, together with the third party culpability
+evidence and the evidence of a possible break-in and theft, would
+have significantly enhanced the probability of a jury having a
+reasonable doubt as to Long’s guilt.
+      A “verdict or conclusion only weakly supported by the
+record is more likely to have been affected by errors than one
+with overwhelming record support.” (Strickland, supra, 466
+U.S. at p. 696.) Given the totality of the trial evidence, there is
+a “substantial, not just conceivable,” likelihood that expert
+testimony that Conde died before 1:20 a.m. would have led to a
+
+
+                                  29
+                            In re LONG
+                   Opinion of the Court by Liu, J.
+
+
+more favorable result for Long. (Harrington, supra, 562 U.S. at
+p. 112.) We conclude it is reasonably probable that the
+presentation of expert testimony as to Conde’s time of death,
+along the lines of Dr. Hua’s and Dr. Bonnell’s testimony, would
+have led one or more jurors to harbor reasonable doubt about
+Long’s guilt. Counsel’s failure to investigate the time of death,
+in a case where the timeline was crucial, is an error “sufficient
+to undermine confidence in the outcome.” (Strickland, at
+p. 694.)
+                        CONCLUSION
+     We reverse the judgment of the Court of Appeal.
+
+
+                                             LIU, J.
+
+
+
+
+We Concur:
+CANTIL-SAKAUYE, C. J.
+CORRIGAN, J.
+CUÉLLAR, J.
+KRUGER, J.
+GROBAN, J.
+FRANSON, J.*
+
+
+
+
+*
+      Associate Justice of the Court of Appeal, Fifth Appellate
+District, assigned by the Chief Justice pursuant to article VI,
+section 6 of the California Constitution.
+
+
+                                 30
+See next page for addresses and telephone numbers for counsel who argued in Supreme Court.
+
+Name of Opinion In re Long
+__________________________________________________________________________________
+
+Unpublished Opinion XXX NP opn. filed 5/3/18 – 4th Dist., Div. 2
+Original Appeal
+Original Proceeding
+Review Granted
+Rehearing Granted
+
+__________________________________________________________________________________
+
+Opinion No. S249274
+Date Filed: November 30, 2020
+__________________________________________________________________________________
+
+Court: Superior
+County: Riverside
+Judge: Patrick F. Magers*
+__________________________________________________________________________________
+
+Counsel:
+
+Michelle Rogers, under appointment by the Supreme Court; and Alissa Bjerkhoel for Petitioner Kimberly Louise
+Long.
+
+Michael A. Hestrin, District Attorney, and Alan D. Tate, Deputy District Attorney, for Respondent the People.
+
+
+
+
+*Retired judge of the Riverside Superior Court assigned by the Chief Justice pursuant to article VI, section 6 of the
+California Constitution.
+Counsel who argued in Supreme Court (not intended for publication with opinion):
+
+Alan D. Tate
+Deputy District Attorney
+3960 Orange Street
+Riverside, CA 92501
+(951) 955-0126
+
+Michelle Rogers
+Appellate Defenders, Inc.
+555 West Beech St., Suite 300
+San Diego, CA 92101
+(619) 696-0282
+
+Alissa Bjerkhoel
+225 Cedar Street
+San Diego, CA 92101

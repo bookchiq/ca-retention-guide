@@ -1,0 +1,192 @@
+cl_opinion_id: 9326020
+cluster: 9330688
+docket: C095867
+date: 2022-12-14
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Spharler CA3
+----
+Filed 12/14/22 P. v. Spharler CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                       (Tehama)
+                                                            ----
+
+
+
+
+ THE PEOPLE,                                                                                   C095867
+
+                    Plaintiff and Respondent,                                   (Super. Ct. No. 21CR-002430)
+
+           v.
+
+ BRANDON LYLE SPHARLER,
+
+                    Defendant and Appellant.
+
+
+
+
+         Defendant Brandon Lyle Spharler pleaded guilty to vehicular manslaughter and
+driving under the influence; he also admitted a prior strike. The trial court sentenced him
+to 15 years in prison, including the 10-year upper term on the vehicular manslaughter
+conviction. On appeal, defendant contends the trial court abused its discretion by
+imposing the upper term and refusing to strike the five-year enhancement under Senate
+Bill No. 1393 (2017-2018 Reg. Sess.). We affirm.
+
+
+
+                                                             1
+                                    BACKGROUND1
+       While driving his vehicle, defendant struck two pedestrians, killing one and
+seriously injuring another. Defendant remained at the scene until law enforcement
+officers arrived. Defendant appeared to be under the influence and could not complete a
+field sobriety test. The responding officer retrieved a text message from defendant’s
+phone which asked for an individual to bring defendant additional drugs before he was
+sent to jail. Defendant confirmed he recently used methamphetamine and heroin; the
+responding officer arrested him.
+       Defendant pleaded guilty to vehicular manslaughter (Pen. Code, § 191.5, subd.
+(a))2 and driving under the influence. (Veh. Code, § 23153, subd. (f).) Defendant
+admitted a prior serious felony conviction and agreed to a lid of 15 years in state prison.
+       The probation report identified numerous prior convictions in aggravation, and
+satisfactory prior performance on probation in mitigation.
+       At sentencing, defendant argued for probation so he could return to a residential
+treatment program that would aid him in maintaining sobriety. Alternatively, if the court
+decided to impose a prison sentence, defendant argued the trial court should strike the
+prior serious felony enhancement and leave him with a 10-year prison term for the
+vehicular manslaughter count. Defendant specifically argued that he was remorseful and
+previously completed drug court, but he lacked access to residential treatment programs
+during COVID. The trial court asked whether defendant’s argument applied to
+sentencing as well and defendant answered affirmatively. After considering the
+arguments of both parties and reviewing the probation report, the court denied
+defendant’s requests.
+
+
+1      The parties stipulated that the California Highway Patrol report, detailed in the
+probation report, would serve as the factual basis for defendant’s plea.
+2      Undesignated statutory references are to the Penal Code.
+
+                                             2
+       The trial court denied probation because, if defendant was not incarcerated, he
+posed a “grave public safety risk.” In reaching its determination not to strike the prior
+serious felony enhancement, the court relied on a 2015 conviction, as well as two recent
+misdemeanor convictions. In response to defendant’s argument for striking the prior
+felony enhancement, the trial court explained that while defendant previously completed
+adult drug court and those programs may have been limited during COVID, other people
+managed to succeed during that same timeframe without “driving in such a condition[,]
+killing someone and injuring someone else.” Because defendant had completed drug
+court but suffered further convictions, the trial court concluded defendant’s ongoing
+danger to public safety, coupled with his recent criminal history, justified declining to
+strike the prior serious felony enhancement.
+       In imposing sentence, the trial court found the following aggravating factors:
+(1) defendant’s prior conviction history, including two misdemeanors; (2) the increasing
+seriousness of defendant’s criminal behavior; and (3) defendant’s culpability following
+the accident. The trial court did not find any factors in mitigation.
+       At sentencing, defendant did not argue any applicable mitigating factors justified a
+lower term prison sentence on the vehicular manslaughter count. Nor did he object to the
+court’s consideration of misdemeanors as prior convictions. Defendant also did not
+object when the trial court used the increasing seriousness and number of prior offenses,
+the danger defendant presented to society, or defendant’s culpability following the
+accident to aggravate the term, deny probation, or decline to strike the prior serious
+felony enhancement. Accordingly, the trial court imposed a 15-year sentence, including
+the aggravated 10-year term for vehicular manslaughter and the five-year enhancement
+for the prior strike.
+       After the trial court declared sentence, defendant waived formal reading of the
+sentence and asked to be heard on fines and fees. The court granted defendant’s request
+and he introduced evidence related to his ability to pay.
+
+                                               3
+       At the conclusion of the hearing, the court gave defendant the opportunity to be
+heard on anything further and he declined.
+                                       DISCUSSION
+       A.     Upper term
+       Defendant contends the trial court abused its discretion in imposing the upper term
+because it failed to consider factors in mitigation, erroneously considered defendant’s
+misdemeanors as prior convictions, and purportedly applied dual use of facts at
+sentencing. The People contend these issues are forfeited on appeal. We agree with the
+People.
+       “[T]he right to challenge a criminal sentence is not unrestricted. In order to
+encourage prompt detection and correction of error, and to reduce the number of
+unnecessary appellate claims, reviewing courts have required parties to raise certain
+issues at the time of sentencing. In such cases, lack of a timely and meaningful objection
+forfeits or waives the claim.” (People v. Scott (1994) 9 Cal.4th 331, 351, italics omitted.)
+The forfeiture doctrine applies to “claims involving the trial court’s failure to properly
+make . . . its discretionary sentencing choices,” including “cases in which the stated
+reasons allegedly do not apply to the particular case, and cases in which the court
+purportedly erred because it . . . misweighed the various factors.” (Id. at p. 353; accord,
+People v. Scott (2015) 61 Cal.4th 363, 406.) For the forfeiture doctrine to apply, the trial
+court must give the parties a meaningful opportunity to object or seek clarification of
+potential errors in a sentence. (People v. Gonzalez (2003) 31 Cal.4th 745, 752.)
+       At sentencing, the trial court stated its reasons for denying probation, declining to
+strike the prior serious conviction, and imposing sentence. After doing so, defendant
+asked the court if he could be heard on fines and fees and the trial court granted his
+request. After resolving fines and fees, the trial court asked whether there was “anything
+further,” but defendant did not speak up. Despite being given two opportunities—
+including time to introduce evidence regarding fines and fees—defendant did not object
+
+                                              4
+to the trial court’s consideration of defendant’s prior misdemeanors to impose the upper
+term. Defendant also did not argue the court should consider applicable mitigating
+factors to impose less than the 10-year upper term for the vehicular manslaughter count.
+Finally, defendant did not object to the trial court’s purported dual use of facts
+concerning the seriousness of the accident as an element of the offense, being used both
+to impose the upper term and to deny probation. Accordingly, each of defendant’s
+contentions are forfeited on appeal.
+       B.     Motion to strike prior conviction
+       Defendant also contends the trial court abused its discretion by refusing to strike
+the prior conviction enhancement. We disagree.
+       Trial courts have discretion to dismiss section 667, subdivision (a) enhancements.
+(People v. Scarano (2022) 74 Cal.App.5th 993, 1003, review granted June 1, 2022,
+S273830.) We review a trial court’s decision not to strike a prior serious felony
+enhancement for abuse of discretion. (People v. Shaw (2020) 56 Cal.App.5th 582, 586-
+587.) A trial court does not abuse its discretion if it evaluates the nature of the offense
+and the background of the offender. (Id. at p. 587.) A trial court’s ruling will not be
+disturbed, and reversal is not required, “ ‘ “ ‘ unless the trial court exercised its discretion
+in an arbitrary, capricious, or patently absurd manner that resulted in a manifest
+miscarriage of justice.’ ” ’ ” (People v. Rogers (2013) 57 Cal.4th 296, 326.)
+       In declining to strike defendant’s prior serious felony enhancement, the trial court
+relied on the parties’ arguments as well as the probation report. The court analyzed
+defendant’s 2015 prior conviction, and prior completion of drug court, as well as his
+more recent misdemeanor convictions. The court also considered the nature of the
+current offense, finding that despite defendant’s completion of drug court, he drove while
+under the influence, killing one and seriously injuring another. In evaluating the nature
+of the offense and defendant’s background, the court concluded defendant still presented
+an ongoing danger to public safety. The trial court reasoned defendant’s danger to
+
+                                               5
+society weighed against striking the enhancement. We find the rationale reaching this
+conclusion neither arbitrary nor capricious. The trial court did not abuse its discretion.
+                                      DISPOSITION
+       The judgment is affirmed.
+
+
+
+                                                        KRAUSE                 , J.
+
+
+
+We concur:
+
+
+
+     ROBIE                  , Acting P. J.
+
+
+
+
+     BOULWARE EURIE , J.
+
+
+
+
+                                              6

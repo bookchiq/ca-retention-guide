@@ -1,0 +1,160 @@
+cl_opinion_id: 9918859
+cluster: 9461034
+docket: C098381
+date: 2024-01-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Tolosa CA3
+----
+Filed 1/16/24 P. v. Tolosa CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                     (Sacramento)
+                                                            ----
+
+
+ THE PEOPLE,
+
+                    Plaintiff and Respondent,                                                  C098381
+
+           v.                                                                    (Super. Ct. No. 22FE019505)
+
+ LOPE ELWIN TOLOSA,
+
+                    Defendant and Appellant.
+
+
+
+         In March 2023, defendant Lope Elwin Tolosa pleaded no contest to second
+degree burglary (Pen. Code, § 459)1 and admitted a prior strike conviction (§§ 667,
+subds. (b)-(i), 1170.12). The trial court sentenced defendant to state prison for the low
+term of 16 months, doubled to 32 months for the strike, and indicated that at the
+conclusion of the prison term, defendant would be placed on parole for up to three years.
+Defense counsel noted that defendant was indigent and asked that all discretionary
+fines and fees be reduced to their minimum. The abstract of judgment reflects a
+$300 restitution fine (§ 1202.4, subd. (b)), a $300 parole revocation fine (§ 1202.45),
+a $40 court operations assessment (§ 1465.8, subd. (a)(1)), and a $30 criminal
+conviction assessment (Gov. Code, § 70373).
+
+
+
+1 Undesignated statutory references are to the Penal Code.
+
+
+                                                             1
+         Defendant now contends the trial court should have considered his ability to pay
+the fines and assessments, and if the issue is forfeited because it was not asserted in the
+trial court, his trial counsel was ineffective. He further contends that because the
+maximum period of parole is now two years under section 3000.01, the judgment must be
+clarified to reflect current law.
+         We will affirm the judgment.
+                                         DISCUSSION
+                                                I
+         Defendant contends the trial court should have considered his ability to pay the
+fines and assessments, and if the issue is forfeited because it was not asserted in the trial
+court, his trial counsel was ineffective.
+         Defendant’s trial counsel did not request an ability to pay hearing in the trial court.
+Rather, trial counsel asked that discretionary fines and fees be reduced to the minimum.
+Defendant’s challenges based on ability to pay, including his arguments based on People
+v. Dueñas (2019) 30 Cal.App.5th 1157, are forfeited.
+         Anticipating forfeiture, defendant argues his trial counsel was ineffective. On
+direct appeal, a judgment will be reversed for ineffective assistance “only if (1) the record
+affirmatively discloses counsel had no rational tactical purpose for the challenged act or
+omission, (2) counsel was asked for a reason and failed to provide one, or (3) there
+simply could be no satisfactory explanation.” (People v. Mai (2013) 57 Cal.4th 986,
+1009.)
+         The record does not establish that defendant lacked the ability to pay the fines and
+assessments. Defendant’s trial counsel generally stated that defendant was indigent but
+asked for minimum discretionary fines and fees. Defense counsel may have had
+information regarding defendant’s resources that does not appear in the record on appeal.
+The record does not affirmatively disclose that counsel had no tactical purpose in
+declining to request a hearing on ability to pay. “[I]t is inappropriate for an appellate
+
+                                                2
+court to speculate as to the existence or nonexistence of a tactical basis for a defense
+attorney’s course of conduct when the record on appeal does not illuminate the basis for
+the attorney’s challenged acts or omissions.” (People v. Wilson (1992) 3 Cal.4th 926,
+936.) We decline to find that trial counsel was deficient.
+                                              II
+       Defendant next contends that because the maximum period of parole is now two
+years under section 3000.01, the judgment must be clarified to reflect current law.
+       Parole is a statutorily mandated element of punishment, and the sentencing court
+lacks authority to alter the applicable period of parole established by statute and imposed
+by the Board of Prison Terms. (People v. Renfro (2004) 125 Cal.App.4th 223, 232.)
+Section 3000.01, subdivision (b)(1) (added by Stats. 2020, ch. 29, § 18), provides that
+any inmate sentenced to a determinate term and released from state prison on or after
+July 1, 2020, shall be released on parole for a period of two years.
+       Here, the trial court did not impose or alter defendant’s parole term. We
+interpret the trial court’s comments as an attempt to inform defendant of the additional
+consequences of his no contest plea, albeit with incorrect information. The comments are
+not part of the judgment and the judgment need not be clarified. Defendant’s contention
+lacks merit.
+                                      DISPOSITION
+       The judgment is affirmed.
+
+
+
+                                                      /S/
+                                                   MAURO, Acting P. J.
+
+I concur:
+
+
+    /S/
+DUARTE, J.
+
+
+                                              3
+MESIWALA, J., Concurring and Dissenting.
+       I concur in part II of the analysis but dissent to the analysis in part I. Defendant’s
+trial counsel properly preserved defendant’s Dueñas claim and therefore was not
+ineffective.
+       Dueñas was correctly decided. Under Dueñas, fines, fees, and assessments cannot
+be imposed on an indigent defendant, or must be stayed in the case of a mandatory
+restitution fine under Penal Code section 1202.4, unless there is a determination that the
+defendant has the ability to pay. (People v. Dueñas (2019) 30 Cal.App.5th 1157, 1168,
+1172.) A trial court must make that determination when the defendant contests ability to
+pay. (People v. Castellano (2019) 33 Cal.App.5th 485, 490.)
+       Here, after the trial court announced the imposition of mandatory restitution fines,
+defendant’s counsel requested that “all discretionary fines and fees be reduced to their
+minimum” because defendant was “indigent.” Under Dueñas, this was sufficient to
+contest defendant’s ability to pay and to require the court to “conduct an ability to pay
+hearing and ascertain . . . defendant’s ability to pay before it impose[d]” the fees, fines,
+and assessments. (People v. Kopp (2019) 38 Cal.App.5th 47, 95 [agreeing with Dueñas
+as to this requirement].)
+       Without requiring any showing of ability to pay or lack thereof, the trial court
+imposed a $300 restitution fine (Pen. Code § 1202.4, subd. (b)), imposed and suspended a
+$300 parole revocation fine (Pen. Code § 1202.45), imposed a $40 court operations
+assessment (Pen. Code § 1465.8, subd. (a)(1)), and imposed a $30 criminal conviction
+assessment (Gov. Code, § 70373). The court erred by not conducting the inquiry that
+Dueñas demands. And such an inquiry and finding cannot be implied because there is no
+evidence of ability to pay.
+       On appeal, the People must show that error was harmless beyond a reasonable
+doubt. (People v. Taylor (2019) 43 Cal.App.5th 390, 403.) The People have not met this
+burden. The record shows defendant was sentenced to two years and eight months in
+
+                                              1
+state prison and was 42 years old at the time of sentencing. His employment status,
+income sources, assets, and physical and mental health conditions are unknown. The
+People contend defendant could afford the fines and fees through his prison wages and
+future earnings. But without knowing defendant’s physical and mental health conditions,
+I cannot presume he would be able to work while in prison or after his release.
+       For these reasons, I would vacate the fines and assessments and remand for the
+trial court to determine defendant’s ability to pay based on evidence and arguments of the
+parties.
+
+
+
+                                                    /S/
+                                                MESIWALA, J.
+
+
+
+
+                                            2

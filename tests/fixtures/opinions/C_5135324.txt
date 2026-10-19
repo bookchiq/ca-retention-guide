@@ -1,0 +1,274 @@
+cl_opinion_id: 5135324
+cluster: 5306773
+docket: C092166
+date: 2021-12-15
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Robinson CA3
+----
+Filed 12/15/21 P. v. Robinson CA3
+                                           NOT TO BE PUBLISHED
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                      THIRD APPELLATE DISTRICT
+                                                         (Yolo)
+                                                            ----
+
+
+
+
+THE PEOPLE,                                                                                  C092166
+
+                   Plaintiff and Respondent,                                    (Super. Ct. No. CRF956265)
+
+         v.
+
+RUSLEY ROBINSON, JR.,
+
+                   Defendant and Appellant.
+
+
+
+
+         This appeal following the trial court’s resentencing of defendant Rusley Robinson,
+Jr., pursuant to Penal Code section 1170, subdivision (d)(1) (statutory section references
+that follow are to the Penal Code), comes to us ostensibly pursuant to People v. Wende
+(1979) 25 Cal.3d 436 (Wende).
+
+                             FACTS AND HISTORY OF THE PROCEEDINGS
+         We granted defendant’s request to incorporate the record on appeal in case
+No. C024067, and we take this summary directly from our previous opinion. (People v.
+Robinson (Apr. 22, 1997, C024067) [nonpub. opn.]).
+
+
+                                                             1
+       In 1996, a jury convicted defendant of seven counts of attempted murder (counts
+one through seven), seven counts of assault with a deadly weapon with a firearm (counts
+eight through fourteen), one count of shooting into an occupied vehicle (count fifteen),
+and two counts of being a convicted felon in possession of a firearm (counts sixteen and
+seventeen), and found true the enhancement allegations that defendant personally used a
+firearm in commission of the attempted murders and had a prior serious felony
+conviction. (People v. Robinson, supra, C024067 at pp. 1-2.) The trial court sentenced
+him to an aggregate term of 34 years and eight months. (Id. at p. 2.) We affirmed the
+convictions and special findings but concluded there was sentencing error. We vacated
+the sentence and remanded to the trial court to exercise its discretion as to whether to
+sentence the counts involving multiple victims concurrently or consecutively and to
+impose the required consecutive term on count sixteen. (Id. at pp. 4, 14-18.)
+       On remand in 1997, defendant was represented by counsel at the resentencing.
+The trial court sentenced defendant to the same aggregate term of 34 years and eight
+months, concluding it did not need to resentence on the counts involving multiple
+victims, as the sentence appropriately reflected defendant’s culpability, and again
+imposed a concurrent term on count sixteen.
+       In 2019, the California Department of Corrections and Rehabilitation (CDCR) sent
+the trial court a letter noting various errors and conflicts in the 1997 abstract of judgment
+and seeking correction. The letter also indicated that the resentencing had not complied
+with our directions on remand to impose a consecutive sentence on count sixteen.
+       Defendant was assigned counsel from the public defender’s office, who filed a
+motion to resentence and strike or modify the firearm enhancement under section 1170,
+subdivision (d)(1). The trial court subsequently granted defendant’s motion to represent
+himself under Faretta v. California (1975) 422 U.S. 806 [45 L.Ed.2d 562]. Defendant
+also filed a motion to vacate a void judgment.
+
+
+
+                                              2
+       Defendant moved the court to strike the public defender’s section 1170,
+subdivision (d)(1) motion. The trial court declined to strike the motion, but agreed to
+drop it from calendar. Defendant filed a number of additional motions. The trial court
+denied these motions, including the motion to vacate the judgment.
+       Defendant filed a motion to resentence and strike the firearm enhancements. The
+trial court requested a supplemental probation report and set the matter before the original
+trial judge.
+       As to resentencing, defendant argued his 34-year sentence had been too severe.
+He noted he had already served 25 years of his sentence, and his postconviction
+institutional conduct involved no rules violations. He informed the court he had a written
+document that delineated his postconviction conduct. The court stated it would consider
+that document in determining whether to reduce defendant’s sentence.
+       At the resentencing hearing, defendant indicated he was moving to strike the
+firearm enhancement associated with count three and the firearm enhancement associated
+with his prior strike conviction, under the new discretion granted the trial court under
+Senate Bill No. 620 and Senate Bill No. 1393, respectively. The court denied the motion
+as to defendant’s prior strike conviction.
+       As to the firearm enhancements, the court noted the CDCR letter reflected not
+merely clerical errors, but also judicial error in imposing a concurrent sentence for count
+sixteen. As such, the court concluded it was entitled to reconsider the entire sentencing
+scheme and reassess all of its sentencing choices. The court concluded it was in the
+interest of justice to strike the 10-year firearm enhancements, as defendant was now 60
+years old and had served 25 years of his sentence, had used a type of ammunition least
+likely to cause bodily injury, and the most serious injury sustained was as a result of
+conduct in a charge not associated with a firearm enhancement. Accordingly, the trial
+court resentenced defendant to an aggregate term of 26 years. The court imposed the
+upper term of nine years on counts one through seven, doubled pursuant to the strike, and
+
+                                             3
+stayed the 10-year firearm enhancement sentence and under section 654, the court stayed
+the sentences on counts one, two, four, five, six, and seven. On counts nine through
+fourteen, the court imposed and stayed the upper term of eight years on each count. The
+court imposed a consecutive term of three years and four months on count fifteen. And
+on counts sixteen and seventeen, the trial court imposed a consecutive term of 16 months
+each. The court reimposed the previous fines and fees.
+       Defendant appealed.
+
+                                       DISCUSSION
+       Appointed counsel for defendant asked this court independently to review the
+ record pursuant to Wende.
+       Defendant has filed a supplemental brief. He raises claims related solely to the
+ validity of the underlying judgments of conviction, including challenges to the
+ propriety of the information and complaint and lack of subject matter jurisdiction. He
+ raises no claims as to the resentencing. Defendant also states he was released from
+ custody in October 2020.
+       California’s “Wende procedure” does not apply to appeals such as this one which
+ is from a denial of post-conviction relief. (People v. Figueras (2021) 61 Cal.App.5th
+ 111, review granted May 12, 2021, S267870; People v. Flores (2020) 54 Cal.App.5th
+ 266; People v. Cole (2020) 52 Cal.App.5th 1023, review granted Oct. 14, 2020,
+ (S264278).) This is so because this is not the defendant’s first appeal as of right. (See,
+ In re Sade C. (1996) 13 Cal.4th 952, 986 [Wende/Anders review “mandated for only
+ one [situation]—the indigent criminal defendant in his first appeal as of right”].)
+        We thus have before us a “standard” appeal from an order denying post-
+ conviction relief in which the defendant, through counsel, has stated that there are no
+ issues that properly can be raised on appeal. Under these circumstances and for the
+ following reasons, we consider the appeal abandoned and order the appeal dismissed.
+
+
+                                             4
+       There is disagreement among the California courts of appeal regarding the
+proper disposition of non-Wende appeals where, as here, the defendant/appellant has
+chosen to raise issues in the appeal on his own and notwithstanding the fact that his
+appointed counsel has reported to the court that he or she cannot find any arguable
+appellate issues. Must or should the court review and resolve those issues, thus
+adopting the Wende procedure in a non-Wende appeal?
+     “The general rule that a defendant who is represented by an attorney of record will
+not be personally recognized by the court in the conduct of his case (People v.
+Merkouris(1956)[ ] 46 Cal.2d 540, 554) applies to the filing of pro se documents on
+appeal (ElectricUtilities Co. v. Small-page (1934), 137 Cal.App. 640, 641-642).”
+(People v. Mattson (1956) 51 Cal.2d 777, 798 (Mattson).)
+     “[T]here is no right – constitutional, statutory, or otherwise – to self-representation
+in a criminal appeal in California. (See People v. Stanworth (1969) 71 Cal.2d 820,
+834–835[ ] [no right to dismiss counsel in capital appeals]; People v.Scott[ (1998)]
+64 Cal.App.4th [550,] 569 573[ ] [noncapital appeals].) In particular, neither the Sixth
+Amendment nor the due process clause of the Fourteenth Amendment to the federal
+Constitution furnishes a basis for finding such a right. (Martinez[ (2000)] 528 U.S.
+[152,] 160–163 [145 L.Ed.2d 597 ] [(Martinez)].) As the United States Supreme Court
+recently explained, the sole constitutional right to self-representation derives from the
+Sixth Amendment, which pertains strictly to the basic rights that an accused enjoys in
+defending against a criminal prosecution and does not extend beyond the point of
+conviction. (Martinez, supra, 528 U.S. at pp. 154, 160–161.) Emphasizing that the
+change in one’s position from ‘defendant’ to ‘appellant’ is a significant one, the high
+court found that the balance between a criminal defendant’s interest in acting as his or
+her own lawyer and a state’s interest in ensuring the fair and efficient administration of
+justice ‘surely tips in favor of the [s]tate’ once the defendant is no longer presumed
+innocent but found guilty beyond a reasonable doubt. (Id. at p. 162.) Consequently, the
+
+                                            5
+court concluded, states may exercise broad discretion when considering what
+representation to allow and may require an indigent inmate ‘to accept against his will a
+state-appointed attorney’ for representation on a direct appeal without violating the
+federal Constitution. (Martinez, supra, 528 U.S. at p. 164.)
+      “As relevant here, represented capital inmates are not permitted to present their
+automatic appeals personally to this court. That is, such inmates have no right
+personally to supplement or supersede counsel’s briefs and arguments on the merits of
+their appeals. (Clark[ (1992)] 3 Cal.4th [41,] 173 [(Clark)]; Mattson, supra, 51 Cal.2d
+at p. 798.) As we explained in Mattson, pro se submissions pertaining to an appeal will
+not be filed or considered ‘[b]ecause of the undesirability of fruitlessly adding to the
+burdens of this court the time-consuming task of reading pro se documents which are
+not properly before us, and, if they be read, of consequently enlarging [the] opinion by
+a recountal and discussion of the contentions made in propria persona . . . .’ (Mattson,
+supra, 51 Cal.2dat p. 798.)
+      “Thus, all appellate motions and briefs must be prepared and filed by counsel
+and may not be submitted pro se. (Clark, supra, 3 Cal.4th at p. 173.) Although we
+will accept and consider pro se motions regarding representation (i.e., Marsden
+motions to substitute counsel), such motions ‘must be clearly labeled as such’ and
+‘must be limited to matters concerning representation.’ (Clark, supra, 3 Cal.4th at
+p. 173.) Any other pro se document offered in an appeal ‘will be returned unfiled’
+(ibid.), or, if mistakenly filed,will be stricken from the docket (Mattson, supra,
+51 Cal.2d at p. 798).” (In re Barnett (2003) 31 Cal.4th 466, 473-474 (Barnett),
+emphasis added; accord, Clark, supra, 3 Cal.4th at p. 173 [reiterating the rule that a
+defendant who is represented by an attorney will not be personally recognized by the
+court in the conduct of his case applies to a defendant’s filing of pro se documents on
+appeal].)
+       Thus, in a non-Wende appeal, the defendant, as an individual, does not have
+
+                                             6
+the right to submit his or her own arguments to the court for resolution.
+       Some appellate courts have adopted a procedure that allows them to consider
+and decide an appellant’s arguments raised in his or her own supplemental briefs by
+turning to the court’s supervisory power to control the proceedings before it. (See e.g.,
+People v. Cole, supra, 52 Cal.App.5th 1023, review granted.) We submit those courts
+simply do not have the authority to do so given the California Supreme Court’s
+holdings in Mattson, Clark, and Barnett.
+      The issues we here consider are pending before our Supreme Court and the
+court may in the future extend what have become known as “Wende procedures”
+to appeals such as this one from orders denying post-conviction relief. But it must
+be left up to that court to do so. Until it does, appeals such as the one presently
+before us must be considered abandoned and ordered dismissed.
+
+                                      DISPOSITION
+      The appeal is dismissed.
+
+
+
+
+                                                 HULL, Acting P. J.
+
+
+
+I concur in the result:
+
+
+
+
+MAURO, J.
+
+
+
+
+                                             7
+DUARTE, J., Dissenting.
+       I respectfully dissent from the disposition of dismissal in this case.
+       I disagree with the majority’s insistence that it has no authority to reach the merits
+of defendant’s claims on appeal (see maj. opn., ante, at p. 7 [holding “courts simply do
+not have the authority” to consider defendant’s pro per claims in this circumstance]).
+Because defendant was informed by his attorney that he could properly file a
+supplemental brief and did so, I would review his briefing and decide his appeal on the
+merits rather than dismiss it as moot.
+       In my view, given that counsel has asked for Wende review and defendant has
+filed a supplemental brief raising substantive claims, we can and should exercise our
+discretion to review his claims for error. (See People v. Figueras (2021) 61 Cal.App.5th
+108, 113 [suggesting that even assuming no right to Wende protections, dismissal of
+appeal as abandoned not appropriate where defendant has filed a supplemental brief],
+review granted May 12, 2021, S267870); People v. Flores (2020) 54 Cal.App.5th 266,
+274 [although Wende review is not legally compelled on appeal from an order denying a
+§ 1170.95 petition, an appellate court “can and should” independently review the record
+on appeal].)
+       I do not agree that we should ignore the supplemental brief timely filed by
+defendant in this case, utilizing the procedure that he was advised to follow by his
+lawyer. This is not merely a pro per brief filed by a represented litigant as illustrated by
+the cases the majority describes (maj. opn., ante, at pp. 5-7). Rather, this is a pro per
+brief filed by a litigant whose representative has informed him that he is now on his own
+and has 30 days to brief his own case as he sees fit.
+       Although I have reviewed the claims in defendant’s supplemental brief and find
+them devoid of merit, I disagree with the majority’s conclusion that it has no authority to
+review these claims. I would decline to deem this appeal abandoned under these specific
+
+
+
+                                              1
+circumstances, as I have described, and instead would affirm the judgment.
+      Consequently, I must dissent from the disposition of dismissal.
+
+
+
+
+DUARTE, J.
+
+
+
+
+                                           2

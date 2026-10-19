@@ -1,0 +1,409 @@
+cl_opinion_id: 4670203
+cluster: 4866424
+docket: B307600
+date: 2021-03-22
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re D.L. CA2/6
+----
+Filed 3/22/21 In re D.L. CA2/6
+     NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                         DIVISION SIX
+
+
+In re D.L., a Person Coming                                    2d Juv. No. B307600
+Under the Juvenile Court Law.                              (Super. Ct. No. 18JV00473)
+                                                             (Santa Barbara County)
+
+SANTA BARBARA COUNTY
+DEPARTMENT OF SOCIAL
+SERVICES,
+
+     Plaintiff and Respondent,
+
+v.
+
+E.T.,
+
+     Defendant and Appellant.
+
+
+     E.T. (Father) appeals order denying his petition under
+Welfare and Institutions Code1 section 388 and terminating his
+parental rights (§ 366.26). We affirm.
+
+
+        All statutory references are to the Welfare and
+         1
+
+Institutions Code unless otherwise stated.
+                               FACTS
+       On November 29, 2018, D.L., then seven years old, was
+detained, along with her two sisters, by Child Welfare Services
+(CWS). CWS received a referral because D.L. had missed a lot of
+school, and when school officials went to D.L.’s home, they found
+Mother groggy and unresponsive. The children had been sleeping
+on blankets on the floor, the home was littered with dirty diapers,
+and numerous safety hazards were within reach of the children.
+CWS filed a juvenile dependency petition on December 3, 2018,
+involving all three children. Because D.L.’s siblings have
+different fathers, only the petition as it relates to D.L. is subject
+to this appeal.
+                         Detention Hearing
+       Mother provided the correct name of D.L.’s father (Father)
+to CWS. Mother stated that Father did not have a relationship
+with D.L., and that she had no contact with him.
+       The juvenile court found that the children came within
+section 300; there is a substantial risk of physical and emotional
+damage; and there is no reasonable means to protect them
+without removing them from their parents’ custody.
+                    Jurisdiction and Disposition
+       Mother appeared at the jurisdiction and disposition hearing
+in January 2019. Father did not appear. CWS submitted a due
+diligence declaration showing CWS’s attempts to contact Father.
+The attempts were unsuccessful. According to Mother, the last
+time Father saw D.L. was about four years ago.
+       The juvenile court found the allegations of the petition to be
+true, and ordered Mother to participate in family reunification
+services.
+
+
+
+
+                                 2
+                          Six-Month Review
+       A six-month review hearing was held in July 2019. CWS
+filed another due diligence declaration showing Father could not
+be located. The juvenile court ordered another six months of
+services for Mother.
+                      First Contact with Father
+       On December 10, 2019, Father contacted CWS by
+telephone. He told the social worker that Mother would not tell
+him what was happening with the case. He wanted an update
+and was interested in getting D.L. into his care. The social
+worker gave him information on the upcoming 12-month review
+and on contacting the juvenile court. The social worker took
+Father’s phone number and address.
+                          12-Month Review
+       A 12-month review hearing was held in January 2020.
+Father was notified of the hearing by telephone, but did not
+appear. CWS incorrectly reported that it could not locate Father.
+The juvenile court terminated Mother’s services and set the
+matter for a section 366.26 hearing in May 2020.
+                  Father’s First Court Appearance
+       In early April 2020, Mother was speaking on the telephone
+with a CWS worker. Mother said that Father was with her.
+Father told the social worker that he had returned to the United
+States from Mexico and wanted to see D.L.
+       CWS arranged for a hearing for an appointment of an
+attorney for Father. At the hearing the court appointed counsel
+for Father, but stated it would not rule on whether Father was a
+presumed father at that time. The court invited Father to
+schedule a hearing for that purpose prior to the section 366.26
+hearing.
+
+
+
+
+                                3
+                          Section 388 Request
+       In August 2020, Father filed a request pursuant to section
+388 to be elevated to presumed father status and to be provided
+reunification services. CWS and D.L.’s attorney objected to
+Father’s presumed status and requested a contested hearing.
+       On August 12, 2020, the juvenile court held a hearing on
+Father’s section 388 motion. The parties submitted on Father’s
+presumed status, and the court found him to be the presumed
+father.
+       The juvenile court postponed its decision on reunification
+services for Father. The court asked the parties for briefing on
+the standard it must use in determining whether Father is
+entitled to services. The court wanted to know whether the best
+interest of the child is the standard.
+                         Hearing on Standard
+       The parties agreed that the standard was the best interest
+of the child. At the hearing Father’s counsel reiterated that “it
+comes down to whether or not it is in the best interest of the
+child.”
+       The juvenile court found that Father had minimal contacts
+with the child and, given the late state of the proceedings,
+services would not be in the child’s best interest.
+                        Section 366.26 Hearing
+       At the section 366.26 hearing, Father again asserted that
+he had a beneficial relationship with D.L. The juvenile court
+terminated both parents’ parental rights, and ordered a
+permanent plan of adoption.
+
+
+
+
+                                4
+                           DISCUSSION
+                                  I
+                       Detriment to the Child
+       Father contends he was denied due process when the
+juvenile court terminated his parental rights without a finding of
+detriment to the child or parental unfitness.
+       Due process requires that a court may not terminate
+parental rights unless it makes a finding of parental unfitness or
+detriment to the child by clear and convincing evidence.
+(Santosky v. Kramer (1981) 455 U.S. 745, 769 [71 L.Ed.2d 599];
+Cynthia D. v. Superior Court (1993) 5 Cal.4th 242, 249.) Here the
+juvenile court made no such express finding.
+       CWS argues Father waived the argument. Father did not
+raise the issue in the juvenile court, and when the court asked for
+briefing on the correct standard, he told the court it was the best
+interest of the child.
+       Father cites Hale v. Morgan (1978) 22 Cal.3d 388, 394, for
+the proposition that application of the waiver rule must not be
+applied where due process forbids it. But that is not what Hale
+says. Instead, our Supreme Court said, “We find at least
+arguable merit in defendant’s assertion that constitutional issues
+were . . . adequately raised below.” (Ibid.) Here it is not even
+arguable that the issue was adequately raised below.
+       Father argues that we should exercise our discretion and
+consider the issue on appeal notwithstanding his failure to raise
+the issue in the juvenile court. But the matter goes beyond
+waiver; it was invited error. The juvenile court followed Father’s
+assertion that the correct standard was the best interest of the
+child. A party cannot complain on appeal that the juvenile court
+
+
+
+
+                                5
+erred in doing what the party invited it to do. (Jentick v. Pacific
+Gas & Electric Co. (1941) 18 Cal.2d 117, 121.)
+       We decline to exercise our discretion in this case. The issue
+does not involve a pure question of law that we can finally resolve
+on appeal. At best, we could remand the matter to the juvenile
+court for further hearings. The case has been pending now for
+over two years. Childhood is short and stability is essential. D.L.
+has the prospect of being adopted along with her siblings, who
+are not related to Father. A remand for further hearings would
+delay the stability that D.L. needs.
+       Moreover, Father has no substantial relationship with D.L.
+The juvenile court found Father has had “minimal contact with
+the child.” During D.L.’s short life, Father has been in prison and
+has been deported to Mexico. Father’s contact has been limited
+to telephone calls. There is no evidence Father has made any
+effort to support D.L. financially. At this point it would be cruel
+to delay D.L.’s prospect of being adopted with her siblings in
+favor of a Father whom she does not know.
+       In any event, the error was harmless by any standard.
+Whether the juvenile court’s finding is couched in terms of the
+best interest of the child or detriment to the child, the result is
+the same. It would be detrimental to the child to deny or delay
+D.L.’s opportunity to be adopted with her siblings to place her
+with a father she does not know.
+                                   II
+                         Notice Requirements
+       Father contends the order terminating parental rights
+must be set aside because CWS failed to perform basic noticing
+requirements.
+
+
+
+
+                                 6
+               (a) Notice of Right to Seek Writ Review
+       When the court orders a hearing under section 366.26, the
+court must advise all parties that if a party wishes to preserve
+the right to review the order setting the hearing, the party is
+required to seek an extraordinary writ. (Cal. Rules of Court, rule
+5.590(b).) If a party is not present when the court orders the
+hearing, the clerk of the court must advise the party by mail
+within 24 hours. (Id. at rule 5.590(b)(1).)
+       Father points out that his address was known to CWS by
+December 10, 2019, and the section 366.26 hearing was set on
+January 18, 2020.
+       But the clerk is only required to give notice to a party.
+CWS cites In re Emily R. (2000) 80 Cal.App.4th 1344, 1358, and
+In re Joseph G. (2000) 83 Cal.App.4th 712, 715, for the
+proposition that an alleged father is not a party to the
+dependency proceedings. CWS points out Father did not become
+a presumed father until August 12, 2020, at which point he
+became a party.
+       Father counters that CWS’s argument was implicitly
+rejected in In re J.W.-P. (2020) 54 Cal.App.5th 298. But in
+J.W.-P., the question was whether an alleged father had standing
+to appeal because he did not appear in the juvenile court in
+person. The court held that his appearance through his attorneys
+was sufficient. (Id. at p. 304.) The court simply assumed that an
+alleged father who appeared in the proceedings below was a
+party with standing to appeal. The court did not discuss the
+matter. A case is not authority for propositions not considered
+therein. (State Farm Fire & Casualty Co. v. Pietak (2001) 90
+Cal.App.4th 600, 614.)
+
+
+
+
+                                7
+       In any event, the penalty for the failure to seek review by
+writ is waiver of any issue that could have been raised. (§ 366.26,
+subd. (l)(1)(A).) Because Father had no standing to seek review
+by writ, CWS is not claiming he waived any issues.
+              (b) Section 316.2, Subdivision (b) Notice
+       Section 316.2, subdivision (b) states that when a man is
+identified as an alleged father, he must be provided notice by
+mail that he is or could be the father of the child; that the child is
+subject to the dependency proceedings; and that the proceedings
+could result in the termination of parental rights and the
+adoption of the child. The notice must also include Judicial
+Council form JV-505. The form tells the alleged father what he
+must do to establish paternity, including his right to appointment
+of counsel.
+       On December 10, 2019, Father notified CWS by telephone
+of his claim to be D.L.’s father and gave CWS his address.
+Inexplicably CWS failed to send him the required notice and
+form.
+       CWS acknowledges the error. But it claims waiver. Father
+failed to raise the matter in the juvenile court and is raising it
+now for the first time on appeal. Ordinarily we will not consider
+matters raised for the first time on appeal. (Algeri v. Tonini
+(1958) 159 Cal.App.2d 828, 832.) For reasons previously stated,
+we decline to exercise our discretion to consider the matter.
+       In any event, the error was harmless. Father has the
+burden of showing prejudice from the error. (Scheenstra v.
+California Dairies, Inc. (2013) 213 Cal.App.4th 370, 403.) He
+must show that it is reasonably probable he would have obtained
+a more favorable result but for the error. (In re Celine R. (2003)
+31 Cal.4th 45, 60-61.) Father concedes that errors in providing
+
+
+
+
+                                  8
+notice are subject to this harmless error analysis. (Citing In re
+A.D. (2011) 196 Cal.App.4th 1319, 1325-1326.)
+       Father claims the error was prejudicial because with
+proper notice he could have elevated his paternity status to
+presumed father and petitioned for reunification services during
+the reunification period. A man is not entitled to reunification
+services if he does not obtain presumed father status during the
+reunification period. (In re Zacharia D. (1993) 6 Cal.4th 435,
+453.)
+       Here Father first contacted CWS on December 10, 2019.
+Mother’s services were terminated on January 28, 2020.
+Assuming notice had been sent to Father on December 10, 2019,
+Father makes no effort to show it is reasonably probable he
+would have been elevated to presumed father in the short period
+prior to the termination of services. That CWS and D.L.’s
+attorney initially objected to Father’s status being elevated to
+presumed father and requested a contested hearing adds to the
+improbability.2
+       The dissent reads more into the majority opinion than is
+there. We do not speculate on how the trial court might rule on
+remand. Instead we point out that Father advanced no argument
+concerning any probability he could possibly prevail on remand.
+Nor did our opinion rely on section 361.5 subdivision (b)(12)
+because neither party raised the issue concerning Father’s prison
+sentence which he admitted.
+
+      2 Neither CWS nor D.L.’s attorney raised the issue of
+Father’s prior robbery conviction as it related to his request for
+services. Father has admitted his prior robbery conviction.
+Reunification services need not be provided to a parent who has
+been convicted of a violent felony, including robbery. (§ 361.5,
+subd. (b)(12); Pen. Code, § 667.5, subd. (c)(9).)
+
+
+                                 9
+      The judgment is affirmed.
+      NOT TO BE PUBLISHED.
+
+
+
+
+                                  GILBERT, P. J.
+I concur:
+
+
+
+      PERREN, J.
+
+
+
+
+                             10
+TANGEMAN, J.:
+       I respectfully dissent. Where a dependency appeal presents
+the purely legal question of whether the juvenile court applied
+the proper standards when terminating parental rights, appellate
+courts routinely decline to invoke the forfeiture rule. (See, e.g.,
+In re D.H. (2017) 14 Cal.App.5th 719, 728 (D.H.); In re
+T.G. (2013) 215 Cal.App.4th 1, 13-14.) Application of the rule is
+“‘not automatic.’” (T.G., at p. 14.) “When a party raises an
+important constitutional argument like the one [F]ather raises
+here regarding his due process interest in the care and custody of
+his [daughter], we exercise our discretion to consider the
+argument on its merits.” (D.H., at p. 728.) I would exercise that
+discretion here.
+       All parties agree that the juvenile court employed the
+wrong standard when terminating Father’s parental rights. (See
+D.H., supra, 14 Cal.App.5th at pp. 730-731 [discussing proper
+standard].) And at no point during the proceedings below did the
+court make any findings regarding Father’s unfitness as a
+parent. Unlike the majority, I do not think it proper for this
+court to act as a factfinder and cull the record for facts that would
+support such a finding. (Maj. opn. ante, at p. 6; see D.H., at pp.
+732-733.) While I agree that prompt resolution of this case is in
+the best interest of all involved—especially D.L.—remanding for
+further proceedings “is the only way to safeguard [Father’s]
+rights as [D.L.’s] presumed father and ensure that he is afforded
+due process.” (In re Gladys L. (2006) 141 Cal.App.4th 845, 849.)
+       I would reach the same conclusion regarding Father’s
+challenge to the order setting the Welfare and Institutions Code
+section 366.261 hearing. Child Welfare Services (CWS) did not
+advise Father of the setting hearing, preventing him from
+seeking presumed father status and reunification services before
+Mother’s services were terminated. And unlike the majority, I do
+not believe it is a foregone conclusion that the juvenile court
+would necessarily have denied a request for reunification services
+based on Father’s robbery conviction. (Maj. opn. ante, at p. 9, fn.
+2.) Section 361.5, subdivision (b)(12), says that services may be
+denied to a parent convicted of a violent felony such as robbery,
+not that they must be denied. As Father notes in his briefing, he
+suffered his conviction years before D.L.’s birth, and CWS showed
+no connection between it and any risk of harm to her. I would
+thus permit the court below to decide whether to grant or deny
+Father’s request for reunification services in the first instance.
+(In re Frank R. (2011) 192 Cal.App.4th 532, 539 [courts should be
+“reluctant to enforce the [forfeiture] rule when it conflicts with
+due process”].)
+       NOT TO BE PUBLISHED.
+
+
+
+
+                                         TANGEMAN, J.
+
+
+
+
+        1   Statutory references are to the Welfare and Institutions
+Code.
+
+
+                                     2
+                   Arthur A. Garcia, Judge
+
+            Superior Court County of Santa Barbara
+
+                ______________________________
+
+     Jesse McGowan, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+     Michael C. Ghizzoni, County Counsel, Lisa A. Rothstein,
+Deputy, for Plaintiff and Respondent.

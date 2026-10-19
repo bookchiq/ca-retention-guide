@@ -1,0 +1,523 @@
+cl_opinion_id: 6344493
+cluster: 6472382
+docket: A161904
+date: 2022-05-26
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Carrillo CA1/1
+----
+Filed 5/26/22 P. v. Carrillo CA1/1
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+          IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                   DIVISION ONE
+
+
+ THE PEOPLE,
+             Plaintiff and Respondent,
+                                                                        A161904
+ v.
+ DONALD WAYNE CARRILLO,                                                 (Napa County
+                                                                        Super. Ct. No. 19CR003531)
+             Defendant and Appellant.
+
+
+         Defendant Donald Wayne Carrillo pled no contest to two counts of
+forcible lewd acts upon four-year-old Jane Doe with substantial sexual
+conduct, and one count of oral copulation. The trial court sentenced Carrillo
+to 22 years in prison and ordered a total of $231,554.96 in direct restitution:
+$31,554.96 for economic losses to Doe’s parents; $150,000 in noneconomic
+losses to Doe; and $50,000 in noneconomic losses to Doe’s parents. The trial
+court also issued a 10-year criminal protective order that included both Doe
+and her parents.
+         On appeal, Carrillo challenges the restitution and protective order by
+arguing (1) Penal Code1 section 1202.4 does not authorize noneconomic
+restitution to Doe’s parents; (2) the noneconomic restitution to both Doe and
+
+
+       All statutory references are to the Penal Code unless otherwise
+         1
+
+indicated.
+her parents was not supported by a rational basis; and (3) section 136.2 does
+not authorize the issuance of a criminal protective order as to Doe’s parents.
+We affirm.
+                                        I.
+             FACTUAL AND PROCEDURAL BACKGROUND
+      Carrillo was charged by first amended felony complaint with three
+counts of oral copulation with a child under age 10 (§ 288.7, subd. (b)); two
+counts of forcible lewd acts (§ 288, subd. (b)(1)) with a special allegation of
+substantial sexual conduct (§ 1203.066, subd. (a)(8)); and one count of oral
+copulation of a person under age 14 (§ 287, subd. (c)(1)).
+      Pursuant to a plea agreement, Carrillo pled no contest to the two
+counts of forcible lewd acts, admitting the special allegation, as well as the
+count of oral copulation of a person under age 14. The remaining counts were
+dismissed subject to a waiver under People v. Harvey (1979) 25 Cal.3d 754 for
+sentencing and restitution. The plea bargain expressly contemplated victim
+restitution, waiver of appeal, and a “10-year Stay-Away/No Contact CLETS
+Order.”
+      According to the probation department’s presentence report, Carrillo
+was a childhood friend of Doe’s father and had been babysitting Doe since she
+was four months old. When Doe was four years old, she reported that
+Carrillo would lick her private parts and bottom with his mouth and that it
+happened “ ‘a lot of times.’ ” Doe’s mother stated that Doe was potty trained
+at that time but had regressed to having more accidents, and had two recent
+urinary tract infections. During a pretext telephone call between Doe’s father
+and Carrillo recorded by police, Carrillo admitted to licking Doe three times
+over the past few months. Carrillo was arrested shortly thereafter.
+
+
+
+
+                                         2
+      Doe’s parents submitted a request for $31,554.96 in restitution for
+economic losses. That amount included $20,000 in loss of income for Doe’s
+father as an owner of two small businesses; $6,000 in lost wages for Doe’s
+mother; $3,054.96 for a home security system; and $2,500 in wages paid to
+Carrillo for babysitting Doe.
+      At the sentencing hearing, Doe’s mother read a prepared statement.2
+She stated that Doe, then five years old, was not yet capable of
+understanding the gravity of the sexual abuse committed against her but
+knew what Carrillo had done and that it was wrong. Carrillo had preyed on
+her family and betrayed the trust that she and her husband had bestowed
+upon him. She continued: “What we do know is you have inflicted
+unimaginable pain and suffering on our family and yours.”
+      The prosecution sought direct restitution to Doe’s parents for $31,544
+in economic damages, plus $324 in restitution to the California Victim
+Compensation Board for a claim paid on mental health services provided to
+Doe’s father. It also sought $150,000 in noneconomic damages to Doe and
+$50,000 in noneconomic damages to Doe’s parents. The trial court sentenced
+Carrillo to 22 years in prison pursuant to the plea agreement. After
+considering the probation report and the parents’ statements, the trial court
+ordered restitution to Doe and her parents in the amounts requested. It also
+issued a 10-year criminal protective order against Carrillo that included both
+Doe and her parents. This appeal followed.
+
+
+
+
+      2Due to an apparent misunderstanding that Doe’s father would also be
+reading from a written statement, his comments at the hearing were not
+transcribed and thus are not in the record.
+
+
+                                       3
+                                       II.
+                                 DISCUSSION
+A.    Section 1202.4 Noneconomic Restitution to Doe’s Parents
+      Carrillo argues that the $50,000 in noneconomic restitution awarded to
+Doe’s parents should be reversed because it is not authorized by
+section 1202.4. We review this restitution award de novo, as the issue before
+us is a question of statutory construction. (People v. Saint-Amans (2005)
+131 Cal.App.4th 1076, 1084.) In answering this question, our primary task is
+to construe the statute “ ‘to ascertain the intent of the Legislature’ ” and
+“ ‘ “to promote its purpose, render it reasonable, and avoid absurd
+consequences.” ’ ” (Quintano v. Mercury Casualty Co. (1995) 11 Cal.4th 1049,
+1055.)
+      “The process of interpreting the statute to ascertain that intent may
+involve up to three steps.” (MacIsaac v. Waste Management Collection &
+Recycling, Inc. (2005) 134 Cal.App.4th 1076, 1082 (MacIsaac).) First, we look
+to the words of the statute themselves as “[t]he Legislature’s chosen language
+is the most reliable indicator of its intent.” (Ibid.) “If the statutory language
+is clear and unambiguous, our task is at an end, for there is no need for
+judicial construction.” (Id. at p. 1083.) When the plain meaning of the
+statutory text does not resolve the question, we proceed to the second step
+and turn to maxims of construction and extrinsic aids, including the statute’s
+legislative history. (Ibid.) If ambiguity remains, we “must cautiously take
+the third and final step” and “apply ‘reason, practicality, and common sense
+to the language at hand.’ ” (Id. at p. 1084.) With these principles in mind, we
+turn to section 1202.4.
+      Section 1202.4, subdivision (a)(1) declares, “It is the intent of the
+Legislature that a victim of crime who incurs an economic loss as a result of
+
+
+
+                                        4
+the commission of a crime shall receive restitution directly from a defendant
+convicted of that crime.” Section 1202.4, subdivision (f) (section 1202.4(f))
+provides, with certain exceptions not applicable here, that “in every case in
+which a victim has suffered economic loss as a result of the defendant’s
+conduct, the court shall require that the defendant make restitution to the
+victim or victims in an amount established by court order, based on the
+amount of loss claimed by the victim or victims or any other showing to the
+court.” Section 1202.4, subdivision (k) defines “ ‘victim’ ” for the purposes of
+the section. It includes a person who “has sustained economic loss as the
+result of a crime” and was the parent of the victim at the time of the crime.
+(§ 1202.4, subd. (k)(3)(A) (section 1202.4(k)(3)(A).)
+      Section 1202.4, subdivision (f)(3) requires, to the extent possible, that
+the restitution order constitute “a dollar amount that is sufficient to fully
+reimburse the victim or victims for every determined economic loss incurred
+as the result of the defendant’s criminal conduct.” Section 1202.4,
+subdivision (f)(3)(A)–(L) provides a nonexhaustive list of the losses to be
+included in that amount. It includes mental health counseling expenses, as
+well as lost wages or profits by parents while caring for an injured minor or
+assisting in the investigation or prosecution of the matter. (§ 1202.4,
+subds. (f)(3)(C)–(E).) For felony violations of section 288, 288.5, or 288.7, that
+amount also includes “[n]oneconomic losses, including, but not limited to,
+psychological harm.” (Id., subd. (f)(3)(F) (section 1202.4(f)(3)(F).)
+      Based on this plain language, we conclude that section 1202.4
+authorizes the restitution award for noneconomic losses to Doe’s parents.
+Doe’s parents fall squarely within the definition of “victim” provided by
+section 1202.4(k)(3)(A): they sustained $31,554.96 in economic losses as the
+result of Carrillo’s crime, including money paid to Carrillo for babysitting
+
+
+
+                                        5
+Doe, as well as lost wages and profits. Carrillo ignores this critical fact. As
+for the noneconomic losses, Carrillo pled no contest to two felony counts of
+forcible lewd acts under section 288, subdivision (b)(1). Those violations
+trigger the provision of restitution for noneconomic losses under
+section 1202.4(f)(3)(F). Accordingly, Doe’s parents were entitled to a
+restitution order that included both their economic and noneconomic losses.
+      Carrillo’s arguments to the contrary do not alter our conclusion. He
+cites People v. Runyan (2012) 54 Cal.4th 849, 859, 864 for (1) its conclusion
+that section 1202.4 provides for recovery of losses “personally incurred by that
+victim,” and (2) its reference to section 1202.4(f)’s restriction on restitution for
+“a victim’s ‘economic loss.’ ” First, the restitution awarded here is entirely
+consistent with the conclusion in Runyan, as Doe’s parents personally
+incurred both economic and noneconomic losses as the result of Carrillo’s
+crime. Second, Runyan correctly identified section 1202.4(f)’s general
+limitation to economic restitution. (Runyan, at p. 864.) Given that Runyan
+involved a conviction for gross vehicular manslaughter (id. at p. 854),
+however, it had no occasion to discuss section 1202.4(f)(3)(F)’s exception to
+this general limitation: the provision of noneconomic restitution for
+violations of specific child sexual-abuse statutes.
+      Carrillo also argues that a “plain language reading” of
+section 1202.4(f)(3)(F) compels the conclusion that noneconomic restitution is
+limited only to the child victim and never available to the child’s parents. We
+are not persuaded. Despite Carrillo’s suggestion to the contrary,
+section 1202.4(f)(3)(F) offers no alternative definition of “victim” for the
+recovery of noneconomic losses. Instead, it states only that a victim may
+recover noneconomic losses for violations of certain child sexual-abuse
+statutes. We thus interpret the statute in accordance with its definition of
+
+
+
+                                         6
+“ ‘victim’ ” as specified in section 1202.4, subdivision (k) and, for the reasons
+described above, conclude that Doe’s parents satisfy the definition. (Curle v.
+Superior Court (2001) 24 Cal.4th 1057, 1063 [“If the Legislature has provided
+an express definition of a term, that definition ordinarily is binding on the
+courts.”].)
+      Carrillo turns next to rules of statutory construction and legislative
+history to argue that noneconomic restitution under section 1202.4(f)(3)(F)
+was intended only for the child victim. Given our conclusion that the plain
+language of the statute is unambiguous and authorizes restitution for the
+noneconomic losses incurred by Doe’s parents, we need not reach these
+arguments. (MacIsaac, supra, 134 Cal.App.4th at p. 1083.) Even if the
+language were read to be ambiguous, however, we would nonetheless reject
+each argument.
+      First, Carrillo points to the economic nature of the other categories of
+losses recoverable under section 1202.4(f) and argues that noneconomic losses
+were not meant to be included under this framework. What this argument
+overlooks, in our view, is that this list is explicitly nonexclusive and
+section 1202.4(f)(3)(F) has been widely recognized as an exception to the
+general limitation of restitution to economic losses. (§ 1202.4,
+subdivision (f)(3) [losses “including, but not limited to” the following
+categories]; e.g., People v. Smith (2011) 198 Cal.App.4th 415, 431 [“With one
+exception, restitution orders are limited to the victim’s economic damages.
+The exception is for ‘[n]oneconomic losses, including, but not limited to,
+psychological harm, for felony violations of Section 288.’ ”].)
+      Second, Carrillo contends that an interpretation of the statute
+authorizing noneconomic losses to Doe’s parents would render superfluous
+the express requirement of economic loss in section 1202.4, subdivision (k)(3)
+
+
+
+                                        7
+(section 1202.4(k)(3)). Not so. Doe’s parents sustained $31,554.96 in
+economic loss as a result of Carrillo’s crime, and thus clearly satisfied the
+definition of “ ‘victim’ ” under section 1202.4(k)(3).
+      Third, Carrillo argues that section 1202.4(f)(3)(F) does not explicitly
+identify parents in its provision for noneconomic losses, unlike preceding
+subdivisions (D) and (E) that provide for lost wages or profits from either the
+victim or the minor’s parent(s) or guardian(s). Again, section 1202.4(f)(3)(F)
+contains no specific definition regarding the victims who are eligible for
+noneconomic losses. Instead, the only definition is found in section 1202.4,
+subdivision (k), and nothing in the plain language of 1202.4(f)(3)(F) evidences
+an intent to preclude persons who satisfy that definition from recovery of
+noneconomic losses. (Khajavi v. Feather River Anesthesia Medical Group
+(2000) 84 Cal.App.4th 32, 51 [“Indeed, when the Legislature has made a
+deliberate choice by selecting broad and unambiguous statutory language, ‘it
+is unimportant that the particular application may not have been
+contemplated.’ ”].) Our interpretation is also consistent with other principles
+of statutory construction applicable here: namely, “that restitution statutes
+should be interpreted broadly and liberally” and “that the term ‘victim’ has a
+broad and flexible meaning.” (People v. Saint-Amans, supra, 131 Cal.App.4th
+at p. 1084.)
+      Fourth, Carrillo points to the legislative history of section 1202.4(k)(3)
+as evidence that the Legislature intended noneconomic losses to be
+recoverable only by the minor victim. According to Carrillo, this legislative
+history suggests that its definition of “victim” was replicated from the
+definition of “derivative victim” for the state’s Victim Compensation Board:
+“an individual who sustains pecuniary loss as a result of injury or death to a
+victim.” (Gov. Code, § 13951, subd. (c).) He argues that section 1202.4(k)(3)
+
+
+
+                                         8
+thus includes a “threshold requirement” defining “victim” as someone who
+sustains economic loss. The provision of noneconomic restitution to Doe’s
+parents here is entirely consistent with that interpretation because, as
+explained above, they suffered economic losses from Carrillo’s crime.
+      Carrillo also cites to the text of the original amendment adding
+noneconomic restitution to section 1202.4, which stated: “If the conviction is
+for felony violation of Section 288, restitution may be ordered pursuant to
+subdivision (f) regardless of whether or not the defendant is denied probation
+and the court may order that the restitution be paid to the victim to cover
+noneconomic losses, including, but not limited to, psychological harm.”
+(Stats. 1994, ch. 1106, § 3, p. 6550.) Again, nothing in this original language
+evidences an intent to limit recovery of noneconomic losses to only the minor
+victim, or preclude others who satisfy the definition of “victim” under
+section 1202.4(k)(3).
+      Finally, Carrillo asks us to reconsider our conclusion in People v.
+Montiel (2019) 35 Cal.App.5th 312, 321 that “parents of children who are
+sexually abused may be awarded restitution for noneconomic losses.” In
+Montiel, the defendant was found guilty of sexual penetration and lewd or
+lascivious acts with a child. (Id. at p. 317.) The trial court ordered $50,000 in
+restitution to the minor child and $20,000 to her mother for the psychological
+harm they had experienced. (Id. at p. 318.) The relevant question before us
+in Montiel was whether the mother satisfied the definition of “ ‘victim’ ”
+under section 1202.4(k)(3) given her psychological harm. (Montiel, at p. 321.)
+Based on the plain language of section 1202.4(f)(3)(F) and its inclusion within
+the section 1202.4, subdivision (f)(3) statutory framework for economic losses,
+we determined that the mother satisfied the definition. (Montiel, at p. 321.)
+Our ultimate conclusion in Montiel, however, applies with even greater force
+
+
+
+                                       9
+here because Doe’s parents satisfied section 1202.4(k)(3)’s definition of
+“ ‘victim’ ” by sustaining $31,554.96 in economic losses as the result of
+Carrillo’s crime.
+      In sum, we conclude that the trial court did not err in awarding
+noneconomic restitution to Doe’s parents.
+B.    Rational Basis for Noneconomic Restitution
+      Even if section 1202.4 authorizes noneconomic restitution to both Doe
+and her parents, Carrillo argues that the awards should still be reversed
+because they were not supported by a rational basis. Specifically, he
+contends that there was no indication of physical or psychological harm to
+Doe or her parents.
+      “In evaluating awards of restitution for noneconomic losses, courts have
+looked to civil law for guidance.” (People v. Lehman (2016) 247 Cal.App.4th
+795, 801 (Lehman).) “The Civil Code provides noneconomic damages are for
+‘subjective, non-monetary losses including, but not limited to, pain, suffering,
+inconvenience, mental suffering, emotional distress, loss of society and
+companionship, loss of consortium, injury to reputation and humiliation.’ ”
+(Ibid., quoting Civ. Code, § 1431.2, subd. (b)(2).)
+      We review a restitution order for abuse of discretion and it “will not be
+reversed unless it is arbitrary or capricious.” (People v. Gemelli (2008)
+161 Cal.App.4th 1539, 1542.) “No abuse of discretion will be found where
+there is a rational and factual basis for the amount of restitution ordered.”
+(Ibid.) Importantly, section 1202.4 “does not require any particular kind of
+proof to establish a victim’s losses.” (Lehman, supra, 247 Cal.App.4th at
+p. 803.) Courts have thus found no abuse of discretion where a restitution
+award is based on evidence from the probation presentence report and victim
+statements at the sentencing hearing. (Id. at pp. 803–804.)
+
+
+
+                                        10
+      Here, Carrillo relies on People v. Valenti (2016) 243 Cal.App.4th 1140
+and Lehman to support his position that there was no rational basis to
+support the restitution awards. Such reliance is misplaced. In Valenti, the
+trial court ordered $150,000 in total noneconomic restitution to three child
+victims after the defendant was found guilty of touching them with lewd
+intent. (Valenti, at pp. 1149–1150.) In the probation presentence report, the
+mother of the first victim stated that she “ ‘thanked God her son (victim) did
+not sustain actual child abuse’ ” and that her son “had not expressed his true
+feelings or discussed them with [her].” (Id. at p. 1182.) The mother of the
+second victim reported that he was “ ‘doing fine’ ” and she “ ‘believe[d] he has
+moved on from this.’ ” (Id. at pp. 1182–1183.) At the sentencing hearing, the
+mother of the third victim stated that her son was “ ‘excellent’ ” and that the
+defendant “had not succeeded in destroying him or their family.” (Id. at
+p. 1183.) Valenti thus reversed the restitution order, concluding that the trial
+court “did not find facts, cite reliable evidence, or even explain how it arrived
+at the amount of restitution awarded to each victim.” (Ibid.) Here, unlike
+Valenti, the trial court was explicit that it had considered the probation
+presentence report and statements by Doe’s parents in reaching its
+restitution order. The report indicated that, during the period of abuse, Doe
+had had two urinary tract infections and increased episodes of incontinence.
+It also noted that Doe’s father had received mental health services after the
+abuse was discovered. At the sentencing hearing, Doe’s mother stated that
+Carrillo had “inflicted unimaginable pain and suffering on our family and
+yours.” Although Doe was only five years old, she understood that the abuse
+was wrong. Doe’s mother and father felt betrayed after welcoming Carrillo
+into their family and trusting him to care for their child. The probation
+
+
+
+
+                                       11
+report and statements at the sentencing hearing evidenced both physical and
+psychological harm to Doe, as well as psychological harm to Doe’s parents.
+       In Lehman, the trial court ordered $1 million in total noneconomic
+restitution to two child victims after the defendant was found guilty of
+committing dozens of sex crimes. (Lehman, supra, 247 Cal.App.4th at
+pp. 798–800.) The first victim was an adult when she testified at trial and
+made a statement at the sentencing hearing, describing the emotional pain
+she suffered because of the defendant and the impact on her life. (Id. at
+pp. 798, 802.) The second victim was 12 years old and “visibly distraught”
+when she testified at trial that the defendant’s actions had “ ‘felt weird.’ ”
+(Id. at pp. 803, 798.) Lehman affirmed the restitution award. (Id. at p. 806.)
+It explained: “We agree that more evidence could have been provided
+concerning the victims’ noneconomic losses. Nevertheless, we cannot
+conclude the trial court abused its discretion or that the noneconomic
+restitution awarded in this case shocks the conscience. . . . Here, the trial
+court’s restitution award was evidently based on Jane Doe 1’s and Jane
+Doe 2’s testimony at trial, Jane Doe 1’s statements at the sentencing hearing,
+and a probation report. This evidence constituted sufficient support for the
+restitution award, and there is no indication the trial court considered
+restitution awards from other cases in reaching its decision.” (Id. at pp. 803–
+804.) So too here. As described above, the probation report and statements
+by Doe’s parents provided a rational basis for the restitution ordered and the
+trial court was explicit that it considered this evidence in reaching the order.
+      In sum, we conclude that the trial court did not abuse its discretion in
+awarding noneconomic restitution to either Doe or her parents.
+
+
+
+
+                                        12
+C.    Section 136.2 Criminal Protective Order as to Doe’s Parents
+      Carrillo does not challenge the trial court’s issuance of the criminal
+protective order as to Doe. Instead, he seeks to strike the inclusion of Doe’s
+parents in the order by arguing that it is unauthorized by section 136.2. As
+the argument raises an issue of statutory construction, we review it de novo.
+(People v. Race (2017) 18 Cal.App.5th 211, 217 (Race).)
+      Before turning to the merits, we reject the Attorney General’s
+preliminary response that (1) the claim is forfeited for failure to object below;
+and (2) the claim constitutes an improper challenge to the elements of
+Carrillo’s plea agreement, which included waiver of appeal and issuance of a
+protective order. First, while an appellant generally waives issues on appeal
+that he or she did not raise in the trial court, “there are exceptions to this
+rule for unauthorized sentences and sentencing decisions that are in excess of
+the trial court’s jurisdiction.” (People v. Ponce (2009) 173 Cal.App.4th 378,
+381.) Carrillo’s claim that the trial court lacked authority to issue the
+protective order as to Doe’s parents falls within such exceptions. (Ibid.)
+Second, nothing in the record shows the plea agreement contemplated the
+inclusion of Doe’s parents in the protective order. Indeed, the protective
+order in place before Carrillo entered his plea included only Jane Doe. “[A]
+defendant’s general waiver of the right to appeal, given as part of a
+negotiated plea agreement, will not be construed to bar the appeal of
+sentencing errors occurring subsequent to the plea,” where the defendant is
+“attempting to appeal sentencing issues that were left unresolved by the
+particular plea agreements involved.” (People v. Panizzon (1996) 13 Cal.4th
+68, 86, fn. omitted.) Without any evidence that the plea agreement here
+specified the scope of the protective order, we cannot conclude that the claim
+is barred.
+
+
+
+                                        13
+      Turning to the merits, however, we are unpersuaded that the trial
+court lacked statutory authority to include Doe’s parents in the protective
+order. Section 136.2, subdivision (i)(1) (section 136.2(i)(1)) provides, in
+relevant part, that when a criminal defendant has been convicted of a crime
+requiring him or her to register “pursuant to subdivision (c) of Section 290,
+the court, at the time of sentencing, shall consider issuing an order
+restraining the defendant from any contact with the victim of the crime.” It
+declares: “It is the intent of the Legislature in enacting this subdivision that
+the duration of a restraining order issued by the court be based upon the
+seriousness of the facts before the court, the probability of future violations,
+and the safety of a victim and the victim’s immediate family.” (§ 136.2,
+subd. (i)(1).) Section 136 defines various terms as used in the chapter. It
+defines “ ‘Victim’ ” to mean “any natural person with respect to whom there is
+reason to believe that any crime as defined under the laws of this state or any
+other state or of the United States is being or has been perpetrated or
+attempted to be perpetrated.” (§ 136, subd. (3).)
+      Several courts have addressed the question of whether a named
+victim’s immediate family are “victims” within the meaning of section 136.2.
+In People v. Delarosarauda (2014) 227 Cal.App.4th 205 (Delarosarauda), for
+example, the defendant was convicted of corporal injury to a spouse or
+cohabitant, assault by means likely to produce great bodily injury, assault
+with a deadly weapon, and vandalism. (Id. at p. 208.) The trial court issued
+a criminal protective order as to the victim and her two children. (Id. at
+p. 209.) Delarosarauda concluded that the court lacked authority under
+section 136.2(i)(1) to issue the protective order as to the children.
+(Delarosarauda, at p. 212.) It reasoned: “On the record before the trial court,
+there was no reason to believe that any crime was being or had been
+
+
+
+                                        14
+perpetrated or attempted to be perpetrated against [the children].
+[Appellant’s wife] testified that appellant ‘never touched’ the children, and no
+evidence suggests that appellant ever attempted to harm them.” (Id. at
+p. 211.)
+      In Race, supra, 18 Cal.App.5th 211, the defendant pled no contest to
+attempted lewd and lascivious acts on his minor niece. (Id. at pp. 213–215.)
+The trial court issued a criminal protective order as to the defendant’s niece
+as well as his 12-year-old daughter. (Id. at pp. 213–214.) Race concluded
+that the court had properly issued the protective order with respect to the
+defendant’s daughter. (Id. at p. 220.) Having surveyed cases interpreting
+section 136.2(i)(1), including Delarosarauda, the Race court explained: “We
+distill from the cases discussed ante, the rule that the term ‘victim’ pursuant
+to section 136.2 criminal protective orders must be construed broadly to
+include any individual against whom there is ‘some evidence’ from which the
+court could find the defendant had committed or attempted to commit some
+harm within the household.” (Race, at p. 219.)
+      Like Race, the trial court here had a sufficient basis to conclude that
+Carrillo had committed harm against Doe’s parents. The probation report
+and statements from Doe’s parents evidenced their economic and
+noneconomic harm. We thus conclude that the trial court did not err in
+issuing the protective order as to Doe’s parents.
+                                      III.
+                               DISPOSITION
+      The judgment is affirmed.
+
+
+
+
+                                       15
+                                          EAST, J.
+
+
+
+
+I CONCUR:
+
+
+
+MARGULIES, ACTING P. J.
+
+
+
+
+A161904
+People v. Carrillo
+
+
+
+
+      
+       Judge of the San Francisco Superior Court, assigned by the Chief
+Justice pursuant to article VI, section 6 of the California Constitution.
+
+
+                                     16
+                  DISSENTING OPINION OF BANKE, J.
+
+
+      For the reasons stated in my dissent in People v. Montiel (2019)
+35 Cal.App.5th 312, 327–361 (dis. opn. of Banke, J.), I remain of the view
+that in amending Penal Code section 1202.4, the Legislature intended that
+the child victims of specified child sex crimes recover restitution for their
+noneconomic losses, but that it did not otherwise depart from the long-
+established rule, applicable in all other contexts, that statutory restitution is
+limited to economic losses.
+
+
+
+
+                                            _________________________
+                                            Banke, J.

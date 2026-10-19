@@ -1,0 +1,544 @@
+cl_opinion_id: 9365330
+cluster: 9369854
+docket: B320707
+date: 2023-01-23
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re B.C. CA2/2
+----
+Filed 1/23/23 In re B.C. CA2/2
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION TWO
+
+
+ In re B.C., a Person Coming                                  B320707, B319134
+ Under the Juvenile Court Law.                                (Los Angeles County
+                                                              Super. Ct. No.
+                                                              19LJJP00100B)
+
+
+ LOS ANGELES COUNTY
+ DEPARTMENT OF
+ CHILDREN AND FAMILY
+ SERVICES,
+
+           Plaintiff and Respondent,
+
+           v.
+
+ J.C.,
+
+           Defendant and Appellant.
+
+
+     APPEAL from orders of the Superior Court of Los Angeles
+County, Stephanie Davis, Judge. Affirmed.
+      Jack A. Love, under appointment by the Court of Appeal,
+for Defendant and Appellant.
+      Dawyn Harrison, Interim County Counsel, Kim Nemoy,
+Assistant County Counsel, and Melania Vartanian, Deputy
+County Counsel, for Plaintiff and Appellant.
+
+            ______________________________________
+
+       B.C. was removed from parental custody shortly after birth.
+His father, appellant J.C. (Father), engaged in domestic violence;
+his mother, A.T. (Mother), abuses drugs. Reunification services
+ended after the parents ignored court orders. The court denied
+Father’s petitions for modification and terminated parental
+rights. (Welf. & Inst. Code, §§ 388, 366.26.)1
+       The court did not abuse its discretion by denying requests
+for modification without a hearing. Father did not bond with
+B.C. during the first year of the child’s life. By the time Father
+started to visit B.C. regularly and participate in programs, it was
+too late: B.C. was fully bonded with his prospective adoptive
+parents and cried inconsolably when he was separated from them
+to visit Father. Father failed to make a prima facie showing that
+modification would serve B.C.’s best interests. We affirm.
+            FACTS AND PROCEDURAL HISTORY
+       Soon after his birth in August 2020, B.C. was detained by
+respondent Los Angeles County Department of Children and
+
+      1 Unlabeled statutory references are to the Welfare and
+Institutions Code. We consolidated Father’s appeals from orders
+denying modification and terminating parental rights. Father
+did not brief the merits of the order terminating parental rights.
+Mother is not a party to the appeal.
+
+
+
+                                 2
+Family Services (DCFS). He was at high risk for abuse or
+neglect. Mother is a chronic drug user who failed to reunify with
+her son A.O., born in 2012. Mother told DCFS that Father
+provided her with drugs.
+       Mother sustained visible neck injuries when Father choked
+her in December 2019. He was arrested for domestic violence,
+but Mother refused to participate in a criminal case against him.
+Father is on probation for a 2019 accessory to a drive-by shooting
+conviction. Mother and the maternal grandmother (MGM) said
+that Father has “anger issues.”
+       DCFS’s petition alleged that B.C.’s parents have a history
+of violent altercations in which Mother scratched and hit Father,
+and Father was arrested for choking Mother; Mother is unable to
+care for a newborn because she has a history of using cocaine and
+hydrocodone and currently abuses opiates. The parents denied
+Indian ancestry. At the detention hearing, the court found no
+reason to know that B.C. is an Indian child. It found that Father
+is B.C.’s presumed father. It removed B.C. from both parents,
+placed him with his maternal grandparents (MGP’s), and
+authorized monitored visits.
+       In the jurisdiction report, Mother said she scratched Father
+but denied that he choked her; they argue about her drug use.
+Father claimed he has never seen Mother under the influence
+and learned of her drug abuse when DCFS opened a case for A.O.
+He denied using drugs but failed to show up for testing.
+       Mother admittedly uses unprescribed Norco three to four
+times weekly. She began using drugs in middle school, trying
+“cocaine, ecstasy, Meth.” She underwent a 14-day “detox” but
+never participated in a full treatment program. In 2019, during
+A.O.’s dependency case, Mother tested positive for cocaine and
+
+
+
+
+                                 3
+hydrocodone, and failed to test 30 times. In 2020, she failed to
+test 18 times (while pregnant with B.C.) and tested positive for
+hydrocodone the only time she appeared.
+       MGM knows Mother’s history “and believes [she] continues
+to take ‘pills.’ ” MGM suspects that B.C. was “prenatally exposed
+to substances as she noticed possible signs of withdrawal” such as
+shaking, crying, and sleeplessness.
+       Father denied domestic violence, saying, “We do have
+history, not violent, but to others it might seem violent but I
+think it’s like any other relationship.” MGM said Father “ ‘is
+aggressive and violent.’ ” She fears for Mother’s safety after
+seeing her with marks and bruises. Mother and Father live with
+the paternal grandparents.
+       On January 13, 2021, the court sustained allegations that
+Mother has a history of substance abuse and currently abuses
+opiates, limiting her ability to care for a young child; her son A.O.
+is a dependent of the court; Mother and Father have a history of
+violent altercations, resulting in Father’s arrest; Mother failed to
+protect B.C. by allowing Father to reside with the child.
+       At disposition, B.C. was declared a dependent of the court
+and removed from parental custody. The parents were given
+monitored visits with B.C. for a minimum of nine hours weekly.
+Mother was ordered to participate in a drug program; drug
+testing; parenting education; and counseling. Father was ordered
+to participate in on-demand drug testing, on suspicion of drug
+use; a drug program if any test is missed; an anger management
+program; parenting education; and counseling to address
+domestic violence, anger, and substance abuse.
+       In July 2021, DCFS reported that B.C. is well-integrated
+into MGP’s household. He has no bond with Father. The parents
+
+
+
+
+                                 4
+did not inquire about B.C.’s progress or provide evidence of
+enrollment in any court-ordered program. Mother missed 20
+consecutive drug tests. MGM reported that “the parents attend
+visits rarely”; Father “can’t handle the baby”; and B.C. “does not
+know [Father].” MGM witnessed a parental altercation outside
+her home; a doorbell camera filmed Father striking Mother.
+When MGM told them to leave, Father pleaded with her not to
+call police because he is on probation. Parental visits last 30 to
+45 minutes, not the allotted time of three hours. They have not
+visited B.C. recently.
+       The risks to 11-month-old B.C. remained high. The parents
+did not communicate with DCFS; participate in services; or visit
+B.C. consistently. MGM wishes to provide B.C. with permanency
+and stability through adoption. In August 2021, MGM told the
+social worker (CSW) she has not seen Mother “ ‘in a while.’ ”
+Mother called MGM, crying because she is in a violent
+relationship with Father. MGM heard Father’s family yelling at
+Mother in the background.
+       A review hearing was held on September 13, 2021. Father
+complained that DCFS kept assigning new CSW’s who did not
+call or e-mail him; he was given “false information”; “barely got to
+see” B.C.; was willing to drug test; was trying to sign up for
+classes; and felt he was being treated unfairly. B.C.’s attorney
+said that Father is “in total noncompliance.” DCFS noted that
+the parents still cohabit, though this is a domestic violence case.
+Despite CSW’s “continuous efforts” to text, e-mail and visit the
+parents, they did not respond. They were given referrals for
+programs, then evaded every effort to reach them to set up drug
+testing. Mother has a history of not engaging in services since
+A.O. was first detained.
+
+
+
+
+                                 5
+       The court concluded that DCFS “made reasonable efforts to
+engage both [ ] Mother and Father in services, and they have, for
+whatever reason, chosen not to engage in the services.” Father’s
+effort to blame DCFS fails: He was not abandoned. The parents
+recently engaged in domestic violence at MGP’s home. The court
+found that returning B.C. to the parents would pose a substantial
+risk of harm; the parents have made no progress to alleviate the
+causes leading to B.C.’s removal; and they have not regularly or
+consistently visited B.C. There is no substantial probability that
+B.C. can return to either parent within the statutory period. The
+court terminated reunification services and set a permanent plan
+hearing. The court identified the likely plan as adoption.
+       CSW personally served Father with notice of the
+permanent plan hearing; Mother was inside the home but refused
+to be served. By November 2021, Mother was incarcerated.
+       In a January 2022 permanent plan report, DCFS wrote
+that Father began an anger management program in July 2021;
+the service provider recommended his continued attendance. He
+enrolled in a parenting class and planned to start counseling but
+missed many drug and alcohol tests. At visits, Father does not
+feed B.C., change his diaper, or ask about his progress. B.C.
+recently began to recognize Father, who he sees as a playmate.
+Father does not speak to anyone at MGM’s home during visits,
+but texted MGM that he hates her. MGM was uncomfortable and
+asked CSW to find another monitor for Father. Since
+November 29, 2021, Father has visited B.C. two or three times
+per week, for one to three hours.
+       B.C. is meeting his developmental milestones in a stable
+environment with MGP’s and two cousins. He eats well, is
+integrated into the household, and is strongly bonded with MGM
+
+
+
+
+                                6
+and others in the home. He calls MGM “mama.” B.C. has lived
+with MGP’s since he was a month old, and they are committed to
+raising him to adulthood.
+       Father filed a petition for modification (388 petition) in
+January 2022. He asked to reinstate services or return B.C. to
+his care because he “is nearly done with the court ordered case
+plan.” He is in counseling and takes anger management and
+parenting classes. Father claimed to have no problem testing for
+drugs and alcohol but said his work schedule interfered. Father
+said he “is bonded to the child” and has visited consistently since
+November 2021.
+       In March 2022, DCFS reported that CSW monitored one of
+Father’s visits. He took no initiative to change B.C.’s diaper but
+watched MGM do so. He attended 22 of 26 anger management
+classes; further participation was recommended. He completed
+three of 12 parenting classes and six counseling sessions. He has
+yet to appear for drug and alcohol tests. Father visits B.C. two to
+three times weekly, staying for one and a half hours, not for the
+full three hours. He is engaged during visits, but still does not
+feed or change B.C. or undertake any parental tasks relating to
+the child’s needs. He sent MGM an angry text after she refused a
+visit when he arrived late; MGM said she no longer wished to
+monitor visits because of Father’s aggression.
+       Father told CSW that he needs to spend more time with
+B.C. CSW opined that Father has not demonstrated what he is
+being taught in parenting classes. Until recently, he did not visit
+B.C. consistently. He stays for half of the allotted time. He is
+attentive and playful, which B.C. enjoys. B.C. does not fully
+engage with Father if MGM is not present.
+
+
+
+
+                                 7
+       After receiving reunification services in 2020, Father
+refused to meet with CSW to discuss the case plan, did not
+answer phone calls, text messages or e-mails, and canceled
+scheduled meetings with CSW. He was instructed to drug test
+but never did. His visits were sporadic; for months at a time, he
+had no contact with B.C. As an infrequent and unreliable visitor,
+Father has no bond with B.C., who cries when left with Father
+without MGM. He does not plan and prepare nutritious meals or
+snacks. He has never changed B.C.’s diaper. He cannot reunify
+with B.C. because he is in a volatile relationship with Mother,
+who never addressed her drug addiction. The court ended
+reunification services in September 2021.
+       Before the hearing, DCFS updated the court. A sign-in
+sheet showed that Father attended parenting classes since
+November 2021. He completed his anger management program.
+He attended eight counseling sessions since December 2021.
+Though he is making progress, his relationship with Mother
+creates a risk to B.C. Mother told MGM that Father and his
+family will provide for her when she is released from jail; Father
+puts money into her jail account; visits her; and he misses
+programs to attend Mother’s criminal hearings. He does not
+attend all visits with B.C. and leaves early.
+       Father sought to establish a prima facie case at the hearing
+on March 14, 2022. There are changed circumstances because he
+has essentially completed the case plan and is no longer in a
+relationship with Mother. He sees B.C. as much as he can and
+there are no issues during visits. B.C.’s attorney joined with
+Father, saying he has “done a lot” while admitting that Father “is
+not helping” care for B.C. during visits, thereby avoiding
+“unpleasant tasks.”
+
+
+
+
+                                 8
+       DCFS asserted that Father has not shown a prima facie
+case. He began services a year after the dependency case began.
+It is questionable if the parents have ended their relationship, as
+Father continues to support Mother. Father did not drug test on
+demand; after missing multiple tests, he is required to complete a
+substance abuse program, per the case plan, but has not enrolled
+in one. Despite parenting classes, he still cannot change a
+diaper. There is no showing that his counselor is addressing
+domestic violence, anger management, and substance abuse with
+him. There is no showing that modification is in B.C.’s best
+interests, after spending his life with MGM. Father arrives
+briefly for play dates with B.C. Permanency should not be
+delayed while waiting for Father to become fit.
+       The court found it “more likely than not that the Father
+remains in a relationship with the Mother.” It deemed
+“incredible” their claim to have suddenly ended the relationship,
+when Father continues to support Mother financially and
+emotionally. Father began court-ordered programs in 2021, “but
+his actions indicate that he has not gained any insight into his
+dysfunctional relationship with the Mother,” preventing him from
+reunifying or showing a change in circumstances. As for B.C.’s
+best interest, Father cuts his visits short “and engages only in
+playing at the visitation. Clearly, he has not gained any insight
+[from] his participating in a parenting program and the minor is
+not benefitting from the Father’s visits if the Father refuses to
+participate in [his] care . . . . No bond is able to develop between
+the minor and Father, and he’s acting as a mere playmate for the
+minor.” The court concluded that Father has not shown a prima
+facie case and denied the 388 petition. Father appealed the order
+on March 15, 2022.
+
+
+
+
+                                 9
+       DCFS reported in May 2022 that “[t]his case is adoption
+ready.” B.C. follows MGM around and calls her “mama.” The
+family has a strong bond. Mother has not seen B.C. since her
+incarceration in November 2021. Father spends more time with
+B.C. In visits monitored by DCFS, B.C. cried and screamed for
+MGM; tried to flee the visitation site; and cried and refused to
+leave MGM’s car when he saw Father at a public location. Visits
+had to be cut short, due to B.C.’s distress. Father completed a
+parenting program. He fed B.C. and changed his diaper.
+       Father filed a second 388 petition on May 9, 2022, citing his
+completion of the case plan; continued counseling; a negative
+drug test; and active role during visits. He visits consistently, for
+longer, since the court denied his first petition in March. He
+brings snacks, changes diapers, and provided MGM with wipes,
+diapers, formula, clothing, and toys. He “maintained consistent,
+loving contact with his child and Father believes he and his child
+have a bond.” He has ended communication with Mother.
+       At the hearing on May 11, 2022, Father argued that he
+made a prima facie case of changed circumstances. DCFS
+responded that its position is unchanged in the two months since
+the first 388 petition. Father cannot derail permanency for a
+child who was detained weeks after birth and is almost two years
+old. Father is only now starting to stay for three-hour visits,
+which were granted in 2020. B.C. cries inconsolably during the
+visits, showing his best interests are not served. Father missed
+numerous drug tests and must complete a full drug program.
+       The court stated that though Father now changes diapers
+and feeds B.C., the problem is that he never tried to establish a
+bond during B.C.’s first year. It said, “This is not about him
+asserting himself as the child’s parent. It is about . . . whether or
+
+
+
+
+                                 10
+not there is a bond and whether or not it would be in the child’s
+best interest to try and further that relationship.”
+       The court referenced its findings from the first 388 petition
+in deciding if new evidence supports a hearing. It found “there is
+no connection between the minor and the father.” As to B.C.’s
+best interest, the court emphasized “the length of time the child
+has been in the placement, the bond that is established with the
+caregiver, the lack of bond that is established with the father, the
+fact that he has not [in two years] parented the child . . . for a
+significant period of time to establish any kind of relationship or
+bond.” It denied the petition without a hearing.
+       The court moved to the permanent plan hearing. The
+parents objected to the termination of their rights and requested
+a less drastic plan. B.C.’s counsel supported termination of
+parental rights. The court found that B.C. is adoptable and no
+exception to adoption applies. It terminated parental rights.
+Father appealed.
+                            DISCUSSION
+       Father challenges summary denials of his section 388
+petitions. The orders are appealable and reviewed for abuse of
+discretion. (§ 395; In re Jasmon O. (1994) 8 Cal.4th 398, 415
+(Jasmon); In re Anthony W. (2001) 87 Cal.App.4th 246, 250
+[summary denial of 388 petition].) “ ‘ “The appropriate test for
+abuse of discretion is whether the trial court exceeded the bounds
+of reason.” ’ ” (In re Stephanie M. (1994) 7 Cal.4th 295, 318–319.)
+       “[T]he welfare of a child is a compelling state interest that
+a state has not only a right, but a duty, to protect.” (In re
+Marilyn H. (1993) 5 Cal.4th 295, 307 (Marilyn).) Reunification
+services are limited to reduce “the length of time a child has to
+wait for a parent to become adequate.” (Id. at p. 308.) When, as
+
+
+
+
+                                11
+here, a newborn is removed from custody, a parent presumptively
+receives six months of services “but no longer than 12 months
+from the date the child entered foster care.” (§ 361.5, subd.
+(a)(1)(B).) Services may be extended only if there are reasons to
+believe that the child can be safely returned to parental custody
+within the extended period. Services are “first presumed, then
+possible, then disfavored.” (Tonya M. v. Superior Court (2007) 42
+Cal.4th 836, 845.)
+       B.C. entered foster care December 29, 2020.2 The court
+instituted reunification services in January 2021 and ended them
+in September 2021. In that time, Father made no progress to
+resolve the problems that led to this proceeding. He did not
+regularly visit B.C. or enroll in court-ordered programs. There
+was no substantial probability that B.C. could safely return to
+Father’s custody.
+       Once reunification services end, the primary focus is on the
+child’s need for permanency; a parent’s interest in the custody,
+care, and companionship of the child is not paramount. (Marilyn,
+supra, 5 Cal.4th at pp. 309–310; In re Angel B. (2002) 97
+Cal.App.4th 454, 464.) Children have a fundamental right to a
+placement that is stable and permanent. (Jasmon, supra, 8
+Cal.4th at p. 419.) Termination of services “ordinarily constitutes
+a sufficient basis for terminating parental rights.” (In re K.C.
+(2011) 52 Cal.4th 231, 236–237.)
+       A 388 petition must demonstrate “a substantial change in
+circumstances” such that modification will promote the child’s
+
+      2 A child enters foster care on the date of the jurisdictional
+hearing or 60 days after his or her initial removal, whichever is
+earlier. (§ 361.49.) Sixty days from B.C.’s detention hearing is
+December 29, 2020.
+
+
+
+                                 12
+best interests. (In re Heraclio A. (1996) 42 Cal.App.4th 569, 577.)
+“ ‘A petition which alleges merely changing circumstances and
+would mean delaying the selection of a permanent home for a
+child to see if a parent . . . might be able to reunify at some future
+point, does not promote stability for the child or the child’s best
+interests.’ ” (In re Mary G. (2007) 151 Cal. App.4th 184, 206.) To
+decide a 388 petition, the court may consider the entire history of
+the case. (In re Jackson W. (2010) 184 Cal.App.4th 247, 258; In
+re Justice P. (2004) 123 Cal.App.4th 181, 189.) No hearing is
+required if a petition fails to show (1) changed circumstances and
+that (2) a modification will promote the child’s best interests. (In
+re Christopher L. (2022) 12 Cal.5th 1063, 1080; Cal. Rules of
+Court, rule 5.570(d).)
+       From September 2020 to September 2021, Father did little
+except avoid contact with DCFS. He seldom visited B.C. The
+classes he took, once services ended, had no measurable effect.
+Despite a parenting program, Father did not parent B.C. Their
+relationship was shallow and discomfiting to B.C.
+       Apart from Father’s lack of progress throughout the
+proceeding, he “did not state he was currently able to provide
+[B.C.] a stable, safe, permanent placement. He sought only to
+continue the dependency proceedings, which had been initiated
+[over a year] earlier. ‘Childhood does not wait for the parent to
+become adequate.’ [Citation.] This showing of changing
+circumstances is not sufficient.” (In re A.S. (2009) 180
+Cal.App.4th 351, 358.) Absent a showing that Father could
+presently provide B.C. with a safe, permanent home, an
+extension of the proceeding was unwarranted.
+       Father’s petitions state that he is bonded with B.C., or
+believes they have a bond, and has consistently visited since
+
+
+
+
+                                 13
+November 2021. Notably, he did not disclose why additional
+services would be in B.C.’s best interests. In determining a
+child’s best interest, the court considers (1) the seriousness of the
+reason for dependency jurisdiction; (2) the strength of the bonds
+between the child, the parent, and the caretakers; and
+(3) whether the problems leading to dependency may be easily
+removed or ameliorated. (In re Kimberly F. (1997) 56
+Cal.App.4th 519, 530–532.)
+       B.C. was removed from Father for serious reasons. He
+engaged in domestic violence and was arrested for choking
+Mother, who had visible injuries. Mother and MGM said he has
+“anger issues.” MGM said Father is “aggressive and violent.”
+Father acknowledged that his relationship with Mother “might
+seem violent” to others, though he thought it is normal.
+       The record shows that Father’s behavior is not easily
+ameliorated. In 2021, during this proceeding, MGM witnessed a
+parental altercation at her home, in which Father struck Mother;
+he begged MGM not to report him and endanger his probationary
+status for his drive-by shooting conviction. After that incident,
+Mother called MGM crying because of Father’s violence. MGM
+twice asked to be relieved of monitoring Father’s visits because
+he sent her hostile, angry messages that unnerved her, despite
+his participation in an anger management program.
+       B.C. does not have a bond with Father. He is bonded with
+MGP’s, where he has lived since he was a month old; they are the
+only parents he knows. Father’s visits, for the first year of B.C.’s
+life, were inconsistent. Months passed without a visit. As late as
+July 2021, B.C. did not even know who Father is. Even when
+Father began to visit regularly, he cut visits short, squandering
+time he could have used to deepen the relationship. During
+
+
+
+
+                                 14
+visits, the two are playmates. Father never attended B.C.’s
+medical appointments or asked MGM about B.C.’s needs. He has
+not progressed to unmonitored visitation, let alone demonstrated
+ability to take custody. B.C. feels unsafe with Father and cries
+when they visit without MGM’s comforting presence.
+       B.C.’s interest in permanency and stability outweighs the
+remote possibility of future reunification with Father. Though
+reunification is favored at the beginning of the dependency
+process, the opposite is true at the end of the process, when the
+child deserves a stable, permanent home. (Jasmon O., supra, 8
+Cal.4th at p. 420.) The court did not err by denying, without a
+hearing, Father’s petitions to have custody of B.C. or receive
+additional services. The court’s subsequent order terminating
+parental rights was not premature. Father does not deny that
+the legislative preference for adoption applies here.
+
+
+
+
+                               15
+                         DISPOSITION
+     The orders are affirmed.
+     NOT TO BE PUBLISHED.
+
+
+
+
+                                       LUI, P. J.
+We concur;
+
+
+
+
+     ASHMANN-GERST, J.
+
+
+
+
+     CHAVEZ, J.
+
+
+
+
+                           16

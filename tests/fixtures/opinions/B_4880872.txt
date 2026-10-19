@@ -1,0 +1,295 @@
+cl_opinion_id: 4880872
+cluster: 5065491
+docket: B307657
+date: 2021-09-01
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Schaefer CA2/8
+----
+Filed 9/1/21 P. v. Schaefer CA2/8
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                      DIVISION EIGHT
+
+THE PEOPLE,                                                     B307657
+
+         Plaintiff and Respondent,                              (Los Angeles County
+                                                                Super. Ct. No. BA223640)
+         v.
+
+DANIEL SCHAEFER,
+
+         Defendant and Appellant.
+
+
+     APPEAL from a judgment of the Superior Court of Los
+Angeles County, Kathleen Kennedy, Judge. Reversed and
+remanded.
+
+     Brett Harding Duxbury, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+
+      Matthew Rodriguez, Acting Attorney General, Lance E.
+Winters, Chief Assistant Attorney General, Susan Sullivan
+Pithey, Assistant Attorney General, Idan Ivri and Wyatt E.
+Bloomfield, Deputy Attorneys General, for Plaintiff and
+Respondent.
+
+                               _________________________
+       In 2003, a jury convicted appellant Daniel Schaefer of
+second degree felony murder in addition to other offenses related
+to manufacturing methamphetamine and possessing firearms.
+This court affirmed the judgment of conviction. (People v.
+Schaefer (May 17, 2004, B166733) [nonpub. opn.].) In 2019,
+appellant filed a petition pursuant to Penal Code1 section 1170.95
+requesting that his murder conviction be vacated. After issuing
+an order to show cause and holding an evidentiary hearing, the
+trial court denied the petition. The trial court found that the jury
+could have convicted appellant of second degree murder on a
+theory of implied malice. Appellant contends the trial court
+employed the wrong standard in denying his petition. We agree
+and remand the case to the trial court to conduct a new hearing.
+
+                          BACKGROUND
+      The facts underlying the murder conviction are not
+complicated. Appellant and Monica Reynoso got together at
+Reynoso’s apartment to manufacture methamphetamine. An
+explosion occurred and both were serious burned. Reynoso died
+one month later from her injuries. At trial, the prosecutor
+proceeded, and the jury was instructed, on a theory of felony
+murder only. The jury convicted appellant, who was sentenced to
+15 years to life on the second degree murder conviction.
+      In 2019, appellant filed a petition pursuant to
+section 1170.95. He alleged he was entitled to relief because he
+was convicted under the felony murder doctrine, which Senate
+Bill No. 1437 (2017–2018 Reg. Sess.) (Senate Bill 1437) had
+abrogated with certain exceptions not raised by the parties here.
+
+1       Further undesignated statutory references are to the Penal
+Code.
+
+
+
+
+                                 2
+The trial court appointed counsel for appellant and found he had
+made a prima facie case of eligibility for relief. On August 27,
+2020, the trial court held an evidentiary hearing where the
+People introduced the trial record into evidence and appellant
+testified on his own behalf.
+       After entertaining argument, the trial court concluded
+appellant was not entitled to relief and denied his petition. The
+trial court stated its reasons: “I do think on the basis of the
+record and—even though the prosecution didn’t rely on the
+implied malice theory at the time of the trial, I think that they
+nonetheless presented the evidence during the course of the trial
+through the expert testimony and through the testimony of Miss
+Escarra and others, that they could have; there was enough there
+to do it. And I think that the jury certainly could have convicted
+him beyond a reasonable doubt on that theory, and still can. [¶]
+The only thing that really bothers me and still bothers me a bit is
+the idea that they made that election—the People made that
+election at the time. But again, the defense has used the motive
+that the D.A. assessed that she could not obtain a conviction on
+that theory. And I say that we don’t know why she did it,
+whether that was her assessment or whether she just decided to
+keep it simple for the jury. And I tend to think the latter. [¶]
+But either way, I think on the basis of what actually was
+presented, that she could have relied on that theory, and the jury
+could have convicted beyond a reasonable doubt. [¶] . . . And my
+ruling is that I’m denying the petition at this time.”
+       This appeal followed.
+
+
+
+
+                                 3
+                          DISCUSSION
+A.     Relevant Law
+       The Legislature passed Senate Bill 1437 in 2018 to “amend
+the felony murder rule and the natural and probable
+consequences doctrine, as it relates to murder, to ensure that
+murder liability is not imposed on a person who is not the actual
+killer, did not act with the intent to kill, or was not a major
+participant in the underlying felony who acted with reckless
+indifference to human life.” (Stats. 2018, ch. 1015, § 1, subd. (f).)
+Senate Bill 1437 amended section 188 to require that a principal
+“shall act with malice aforethought. Malice shall not be imputed
+to a person based solely on his or her participation in a crime.”
+(§ 188, subd. (a)(3).)
+       Senate Bill 1437 also added section 1170.95, which sets
+forth the procedure by which a “person convicted of felony murder
+or murder under a natural and probable consequences theory
+may file a petition with the court that sentenced the petitioner to
+have the petitioner’s murder conviction vacated and to be
+resentenced on any remaining counts . . . .” (§ 1170.95, subd. (a).)
+The petition must include a declaration stating the petitioner
+meets all the requirements for resentencing, including that the
+petitioner “could not be convicted of first or second degree murder
+because of changes to Section 188 or 189 made effective January
+1, 2019.” (§ 1170.95, subds. (a)(3), (b)(1)(A).)
+       Once a complete petition is filed, the court determines
+whether “the petitioner has made a prima facie showing that the
+petitioner falls within the provisions of this section. If the
+petitioner has requested counsel, the court shall appoint counsel
+to represent the petitioner. . . . If the petitioner makes a prima
+
+
+
+
+                                 4
+facie showing that he or she is entitled to relief, the court shall
+issue an order to show cause.” (§ 1170.95, subd. (c).)
+       After the court issues an order to show cause, a hearing is
+held to determine whether to vacate the murder conviction, recall
+the sentence, and resentence the petitioner on any remaining
+counts. (§ 1170.95, subd. (d)(1).) At the hearing, “the burden of
+proof shall be on the prosecution to prove, beyond a reasonable
+doubt, that the petitioner is ineligible for resentencing. If the
+prosecution fails to sustain its burden of proof, the prior
+conviction, and any allegations and enhancements attached to
+the conviction, shall be vacated and the petitioner shall be
+resentenced on the remaining charges. The prosecutor and the
+petitioner may rely on the record of conviction or offer new or
+additional evidence to meet their respective burdens.” (Id.,
+subd. (d)(3).)
+
+B.     Analysis
+       Appellant and the People each posit two different
+standards of proof at the evidentiary stage of the section 1170.95
+procedure, which we discuss in turn.
+       The first standard offered by appellant, which we reject, is
+that a trial court may deny a section 1170.95 petition only if it
+finds, beyond a reasonable doubt, that the jury actually convicted
+petitioner of murder under a still valid theory. This is the same
+standard applied when a trial court instructs a jury on
+alternative theories of guilt, one of which is legally invalid. (See
+People v. Chiu (2014) 59 Cal.4th 155, 167, superseded on other
+grounds by statute as stated in People v. Lewis (2021) 11 Cal.5th
+952.) As applied to this case, it would require the People to prove
+that the jury in the underlying trial convicted appellant under an
+implied malice theory rather than under a felony murder theory.
+
+
+
+
+                                 5
+       Appellant’s proposed standard is inconsistent with the
+statutory scheme in at least two ways. Section 1170.95,
+subdivision (a)(3) requires as a necessary condition for
+resentencing that the petitioner “could not be convicted of first or
+second degree murder because of changes to Section 188 or 189
+made effective January 1, 2019.” (§ 1170.95, subd. (a)(1).)
+Subdivision (d)(3) places the burden on the prosecution to “prove,
+beyond a reasonable doubt, that the petitioner is ineligible for
+resentencing.” (Id., subd. (d)(4).) Read together, these provisions
+lead to the conclusion that a trial court must deny a petition if
+the People prove, beyond a reasonable doubt, that the petitioner
+could be convicted of first or second degree murder under the law
+as of January 1, 2019. The standard appellant proposes would
+require the People to prove something different: that petitioner
+was convicted previously under a still valid theory.
+       Further, the provision in section 1170.95, subdivision (d)(3)
+permitting the parties to present new evidence to establish their
+respective burdens would be superfluous if, as appellant
+contends, the determinative issue is whether the petitioner was
+convicted under a still valid theory. It would be nonsensical for a
+court to consider evidence never presented to the jury to
+determine the basis on which the jury convicted a petitioner. For
+these reasons, we reject appellant’s contention that a trial court
+may deny a petition only if it finds the jury actually convicted
+petitioner under a still valid theory of murder.
+       The second standard originally posited by the People,
+which we also reject, is the substantial evidence standard set out
+in People v. Duke (2020) 55 Cal.App.5th 113, review granted
+January 13, 2021, S265309 (Duke). The Duke court stated the
+standard: the prosecution need only prove “that the defendant
+
+
+
+
+                                 6
+could still have been convicted of murder under the new law—in
+other words that a reasonable jury could find the defendant
+guilty of murder with the requisite mental state for that degree of
+murder [under current law]. This is essentially identical to the
+standard of substantial evidence, in which the reviewing courts
+asks ‘whether, on the entire record, a rational trier of fact could
+find the defendant guilty beyond a reasonable doubt.” (Id. at
+p. 123.)
+        There is currently a split of authority as to whether the
+substantial evidence standard of review comports with the
+language of the statute. Contrary to Duke, People v. Lopez (2020)
+56 Cal.App.5th 936, review granted February 10, 2021, S265974
+(Lopez), People v. Rodriguez (2020) 58 Cal.App.5th 227, review
+granted March 10, 2021, S266652 (Rodriguez), and People v.
+Clements (2021) 60 Cal.App.5th 597, reviewed granted April 28,
+2021, S267624 (Clements) each conclude that after an evidentiary
+hearing, the trial court is required to act as an independent fact
+finder and determine whether the People have proven the
+petitioner guilty of murder beyond a reasonable doubt under the
+law as of January 1, 2019. This is the standard the People now
+urge in their supplemental briefing. In this context, the trial
+court does not analyze what the previous jury could have found or
+what a jury could or would find now on retrial. No, the trial court
+itself, in effect, renders a verdict by finding the petitioner either
+guilty or not guilty of murder based on the evidence presented at
+the evidentiary hearing. (See also Couzens, Accomplice Liability
+for Murder (SB 1437) (June 2021), at p. 49 [it is “the burden of
+the prosecution to show, beyond a reasonable doubt, the
+petitioner could be found guilty of murder under a valid theory of
+the law effective January 1, 2019”].)
+
+
+
+
+                                 7
+       We do not repeat here the well-reasoned analyses of Lopez,
+Rodriguez, and Clements. Suffice it to say that we find their
+reasoning persuasive and agree with their conclusion that the
+trial court must act as an independent factfinder, not simply
+review the evidence and determine what a jury could or would
+decide. In this case, based on the trial court’s frequent allusions
+and references to what the jury could have decided based on the
+evidence, we find the trial court used the substantial evidence
+standard of review instead of acting as an independent factfinder.
+We remand to the trial court to conduct a new hearing and state
+its own findings on the record as to whether the People have
+carried their burden of proving appellant guilty of second degree
+murder beyond a reasonable doubt under current law.
+
+                          DISPOSITION
+       The judgment is reversed. The case is remanded for the
+trial court to conduct a new hearing under section 1170.95,
+subdivision (d).
+
+      NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+
+
+                                     STRATTON, Acting, P. J.
+
+We concur:
+
+
+
+      WILEY, J.                      OHTA, J.*
+
+*     Judge of the Los Angeles Superior Court, assigned by the
+Chief Justice pursuant to article VI, section 6 of the California
+Constitution.
+
+
+
+
+                                 8

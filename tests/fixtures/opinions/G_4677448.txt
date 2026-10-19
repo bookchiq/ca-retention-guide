@@ -1,0 +1,259 @@
+cl_opinion_id: 4677448
+cluster: 4873669
+docket: G058448
+date: 2021-04-14
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Natividad CA4/3
+----
+Filed 4/14/21 P. v. Natividad CA4/3
+
+
+
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+                IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                     FOURTH APPELLATE DISTRICT
+
+                                                DIVISION THREE
+
+
+ THE PEOPLE,
+
+      Plaintiff and Respondent,                                          G058448
+
+           v.                                                            (Super. Ct. No. 15CF1637)
+
+ RYAN PATRICK NATIVIDAD,                                                 OPINION
+
+      Defendant and Appellant.
+
+
+
+                   Appeal from a postjudgment order of the Superior Court of Orange County,
+Hugh Michael Brenner, Judge. (Retired judge of the Orange Super. Ct. assigned by the
+Chief Justice pursuant to art. VI, § 6 of the Cal. Const.) Affirmed.
+                   Heather E. Shallenberger, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+                   Xavier Becerra, Attorney General, Lance E. Winters, Chief Assistant
+Attorney General, Julie L. Garland, Senior Assistant Attorney General, Michael Pulos
+and Britton B. Lacy, Deputy Attorneys General, for Plaintiff and Respondent.
+
+                                                             1
+              Ryan Patrick Natividad appeals from a postjudgment order after the trial
+court ordered him to pay over $75,000 in restitution. Natividad argues the trial court
+abused its discretion by ordering he pay restitution. We disagree and affirm the
+postjudgment order.
+                                          FACTS
+              A complete recitation of the facts can be found in People v. Natividad
+(Nov. 8, 2019, G055248) [nonpub. opn.]. Suffice it to say, Natividad, a police officer,
+claimed he injured his right hand while on duty, but camera footage proved he didn’t. A
+jury convicted him of insurance fraud (Pen. Code, § 550, subd. (a)(1), all further statutory
+references are to the Penal Code, unless otherwise indicated), and making a fraudulent
+statement (Ins. Code, § 1871.4, subd. (a)(1)).
+              The trial court suspended imposition of sentence and placed Natividad on
+formal probation for three years. The court ordered him to serve 180 days in jail on
+electronic supervision. As a condition of probation, the court ordered he pay restitution
+in an amount determined by the probation department.
+              Natividad requested a restitution hearing on the amount of restitution. At
+the hearing, the prosecution offered five exhibits and the testimony of a Costa Mesa
+(City) human resource analyst (Employee). Natividad did not dispute the City’s
+restitution request for medical expenses, attorney’s expenses, and investigation costs
+related to the workers’ compensation claim for his hand injury and he submitted on
+exhibit Nos. 2 and 3; exhibit No. 1 was a summary sheet. Natividad, however,
+challenged exhibit No. 4, the City’s payment of insurance premiums, and exhibit No. 5,
+the City’s payment of salary, benefits, and insurance.
+              Employee testified the City placed Natividad on administrative leave with
+pay in January 2015 because it was investigating his workers’ compensation claim for
+fraud. She stated that in July 2015, the City learned he was not available as required by
+the administrative leave process and it stopped paying him. She said that same month the
+
+                                             2
+City received a doctor’s note from a neurosurgery facility that indicated he had been
+under medical care since May 2015, but he never notified the City of an illness as
+required by the memorandum of understanding. As relevant here, Employee explained
+that when an employee was absent without pay, he was responsible for paying insurance
+premiums. She added Natividad exhausted his accrued leave in September 2015 and he
+was required to personally pay for his insurance. Employee stated the City continued to
+provide him, and his wife and son, insurance coverage as was the City’s practice, and it
+invoiced him directly for October, November, and December 2015, and January 2016.
+Employee did not believe Natividad repaid the City the $7,782.56 for these four months.
+She stated the City received a doctor’s note clearing him for work in January 2016, and
+he went back on administrative leave with pay until the City terminated him in June
+2016. On cross-examination, Employee acknowledged Natividad was on medical leave
+from October 2015 to January 2016 for a reason unrelated to his right hand injury. She
+also agreed he did not ask the City to pay the insurance premiums during that time, but
+the City did so in good faith.
+              Natividad called his mother to testify. She explained that after he hit his
+head on the bottom of a pool in May 2015, he got a medical scan that revealed a brain
+tumor. She said he had brain surgery a couple weeks later, and he convalesced at her
+home until November 2015. She also testified about receiving the City’s notice
+Natividad had to pay the invoices or risk cancellation of the policy, but he had obtained
+other health insurance. On cross-examination, Mother admitted she was not involved in
+the purchase of the other health insurance, and she did not have documents to
+demonstrate Natividad had other insurance.
+              After the close of evidence, the trial court mused the City’s loss was not
+“really” a result of Natividad’s criminal act, but he would not have been on
+administrative leave if not for the criminal act. The prosecutor argued that but for
+Natividad’s criminal act, the City would not have paid him salary and his benefits. The
+
+                                             3
+prosecutor acknowledged Natividad’s position the City could recover the overpayment
+via another remedy, but the City suffered the loss “because of what he started.”
+Natividad’s counsel argued the brain tumor treatment and recovery, and not his criminal
+act, were the substantial factors in the City’s loss. Counsel stated the City had civil
+remedies and the amount should not be a condition of probation.
+              After expressing sympathy for Natividad’s health condition, the trial court
+concluded “the first cause of all this was the alleged and now established workers’
+comp[ensation] fraud, and I don’t think the [C]ity should be compelled to pursue other
+remedies.” The court added the evidence demonstrated the City provided Natividad and
+his wife and child health coverage even though he was not entitled to it because he had a
+brain tumor and he probably could not get other health coverage. Thus, the court ruled
+that all the requested amounts should be included in the restitution order.
+                                       DISCUSSION
+              Natividad argues the trial court abused its discretion by ordering him to pay
+restitution of $7,782.56 for insurance premiums that were not related to or resulting from
+                1
+his criminal act. We disagree.
+              Section 1203.1, subdivision (a)(3), authorizes a trial court to impose
+restitution as a condition of probation. Section 1203.1, subdivision (j), states the
+following: “The court may impose and require . . . [such] reasonable conditions[ ] as it
+may determine are fitting and proper to the end that justice may be done, that amends
+may be made to society for the breach of the law, for any injury done to any person
+resulting from that breach, and generally and specifically for the reformation and
+rehabilitation of the probationer.”
+
+1
+                In his opening brief, Natividad also contends the court erred by imposing
+restitution in the amount of $5,880.78 for insurance premiums because exhibit No. 4 and
+exhibit No. 5 covered the same time period. After the Attorney General explained the
+exhibits cover different time periods, Natividad, in his reply brief, states the Attorney
+General is correct and no error occurred. We treat this argument as withdrawn.
+
+                                              4
+              In People v. Anderson (2010) 50 Cal.4th 19, 27 (Anderson), our Supreme
+Court stated, “While restitution under section 1203.1 may serve to compensate the victim
+of a crime, it also addresses the broader probationary goal of rehabilitating the defendant.
+‘“Restitution is an effective rehabilitative penalty because it forces the defendant to
+confront, in concrete terms, the harm his actions have caused.”’ [Citation.] Restitution
+‘impresses upon the offender the gravity of the harm he has inflicted upon another, and
+provides an opportunity to make amends.’ [Citation.]” (Anderson, supra, 50 Cal.4th at
+p. 27.) The court added the following: “‘California courts have long interpreted the trial
+courts’ discretion to encompass the ordering of restitution as a condition of probation
+even when the loss was not necessarily caused by the criminal conduct underlying the
+conviction.’ . . . There is no requirement the restitution order be limited to the exact
+amount of the loss in which the defendant is actually found culpable, nor is there any
+requirement the order reflect the amount of damages that might be recoverable in a civil
+action. [Citation.]’ [Citation.]” (Ibid.) Where the loss was not the result of the
+defendant’s criminal act, a trial court may impose restitution if it will serve one of section
+1203.1, subdivision (j)’s purposes. (People v. Carbajal (1995) 10 Cal.4th 1114, 1122.)
+              On appeal, and below, Natividad’s contention is this is a contractual dispute
+and the City should pursue a civil remedy, instead of the court conditioning probation on
+payment of that sum. The trial court did not abuse its discretion by making the disputed
+amount a condition of probation.
+              The trial court recognized Natividad’s criminal act was not the direct cause
+of the City paying $7,782.56 for insurance premiums, a point the Attorney General agrees
+with. However, the court reasoned his criminal act was “the first cause of all this.” The
+court concluded that on balance, the amount should be made part of the restitution order.
+Although the court did not mention section 1203.1, subdivision (j), the court’s comments
+establish it reasonably concluded justice required Natividad to repay the City because his
+breach of the law triggered the events that resulted in the City’s loss. The court’s
+
+                                              5
+comments refute Natividad’s claim the court ordered he pay the amount in question
+“merely because it believed that the City should not ‘be compelled to pursue other
+remedies.’”
+              Natividad cites to People v. Miller (1967) 256 Cal.App.2d 348, 353, for the
+proposition the restitution amount “should be related to or because of the criminal act.”
+But Anderson teaches the criminal conduct does not necessarily have to cause the loss.
+(Anderson, supra, 50 Cal.4th at p. 27.) He also asserts that if he had filed a truthful
+workers’ compensation claim and been on unpaid medical leave, the City would have
+continued to pay his health insurance premiums. Employee’s testimony supports his
+assertion. But the trial court’s conclusion that based on the facts in this case, Natividad’s
+conduct was “the first cause” did not exceed the bounds of reason. The court did not
+abuse its discretion.
+                                      DISPOSITION
+              We affirm the postjudgment order.
+
+
+
+
+                                                  O’LEARY, P. J.
+
+I CONCUR:
+
+
+
+GOETHALS, J.
+
+
+
+
+                                              6
+ARONSON, J., Concurring and Dissenting.
+       I respectfully disagree with the majority’s conclusion the trial court properly
+imposed $7,782.56 in restitution for health insurance premiums the City of Costa Mesa
+(City) paid for defendant Ryan Natividad while he was recovering from surgery to
+remove a brain tumor. Natividad was convicted of insurance fraud for falsely claiming
+he injured his hand while escorting an arrestee into the city jail. The restitution order for
+these insurance payments bore no relationship to Natividad’s crime or furthered the broad
+purposes of rehabilitating a defendant on probation.
+       The City placed Natividad on paid administrative leave in January 2015 while it
+investigated his workers compensation claim. Paid administrative leave requires the
+employee to be available for work. The City terminated his paid administrative leave
+when it received notice that Natividad was unavailable because he was recovering from
+surgery to remove a brain tumor. Under the memorandum of understanding (MOU), an
+absent employee without pay is responsible for paying insurance premiums out of pocket.
+Nevertheless, the City paid his health insurance premiums from October 2015 to January
+2016, an amount totaling $7,782.56, and included it in the trial court’s order to pay
+$75,427.67 in restitution.
+       The majority correctly relies on People v. Anderson (2010) 50 Cal.4th 19
+(Anderson) to observe that a trial court has the discretion to impose restitution if it
+advances one of the goals in granting probation under Penal Code section 1203.1,
+subdivision (j), even if the restitution covers losses not proximately caused by the
+defendant’s criminal conduct. (Id. at pp. 26-27.) Those goals include the imposition of
+probation conditions that “foster rehabilitation” and protect public safety. (Id. at p. 26.)
+       A trial court, however, does not have carte blanche to order restitution for losses
+unrelated to a defendant’s crime. As the Supreme Court in Anderson explained, a
+probation condition is invalid if it “‘“(1) has no relationship to the crime of which the
+offender was convicted, (2) relates to conduct which is not in itself criminal, and
+
+                                              1
+(3) requires or forbids conduct which is not reasonably related to future criminality.”‘“
+(Anderson, supra, 50 Cal.4th at p. 32.)
+       Here, the City terminated Natividad’s paid administrative leave because his brain
+surgery meant he was unavailable for work, as required under the MOU. The City’s
+Human Resource Analyst acknowledged the decision to pay Natividad’s insurance
+premiums while he was on unpaid leave “had nothing to do with the worker’s
+compensation fraud investigation.” An order to pay “restitution” for costs that “had
+nothing to do” with a defendant’s crime is not restitution; it is an arbitrary order that
+undermines the rehabilitative aspects a proper restitution order fosters. The order here
+bore no relationship to Natividad’s conviction for filing a false claim, his conduct in not
+paying the insurance payments from October 2005 to January 2006 was not criminal
+conduct, and therefore restitution of this amount is not reasonably related to future
+criminality.
+       The discretion to order restitution as a probation conviction when the victim’s loss
+was not necessarily caused by the defendant’s criminal conduct underlying the conviction
+must still bear some relationship to the crime. For example, “restitution has been found
+proper where the loss was caused by related conduct not resulting in a conviction
+[citation], by conduct underlying dismissed and uncharged counts [citation] and by
+conduct resulting in an acquittal [citation].” (People v. Carbajal (1995) 10 Cal.4th 1114,
+1121.) But Natividad’s nonpayment of insurance premiums was unrelated to his crime.
+If this restitution order passes muster it is difficult to discern a limiting principle to a trial
+court’s ability to impose restitution as a probation condition.
+Consequently, I would modify the restitution order by striking $7,782.56 from the total
+imposed, which would leave $67,645.11 in restitution.
+
+
+
+                                             ARONSON, J.
+
+
+                                                2

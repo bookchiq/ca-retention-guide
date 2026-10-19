@@ -1,0 +1,854 @@
+cl_opinion_id: 4557316
+cluster: 4776969
+docket: A156234A
+date: 2020-08-20
+status: Published
+type: 010combined
+field: plain_text
+case: Davis v. Kozak
+----
+Filed 8/19/20; Reposting final version
+                           CERTIFIED FOR PUBLICATION
+
+        IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                              FIRST APPELLATE DISTRICT
+
+                                         DIVISION THREE
+
+ SCOTT DAVIS,
+         Plaintiff and Respondent,                 A156234
+
+ v.                                                (Alameda County
+ STEFAN KOZAK et al.,                              Super. Ct. No. RG18907104)
+         Defendants and Appellants.
+ SCOTT DAVIS,
+         Plaintiff and Respondent,
+                                                   A156238
+ v.
+                                                   (Alameda County
+ RED BULL NORTH AMERICA,
+                                                   Super. Ct. No. RG18918491)
+ INC.,
+         Defendant and Appellant.
+
+
+       This consolidated appeal arises out of plaintiff Scott Davis’s lawsuit
+against executives of Red Bull North America, Inc. (Red Bull) for age and sex
+harassment in violation of the Fair Employment and Housing Act (FEHA,
+Gov. Code § 12900 et seq.) and related tort claims. Red Bull and its
+executives appeal from the trial court’s orders denying their motions to
+compel arbitration of Davis’s claims. We conclude that the arbitration
+agreement between Davis and Red Bull was unconscionable and
+unenforceable, and that the trial court properly refused enforcement of the
+entire agreement. Accordingly, we affirm.
+
+
+
+
+                                               1
+                 FACTUAL AND PROCEDURAL BACKGROUND
+      In June 2018, Davis filed a complaint against individual defendants
+Stefan Kozak, Ryan Conway, Edward Hayden, Christopher Trombetta, and
+Mark Russ for age and sex harassment and hostile work environment in
+violation of the FEHA, and for intentional and negligent infliction of
+emotional distress. Davis alleged he was 56 years old, had been employed by
+Red Bull for 15 years, and was in a mid-level managerial sales position from
+2007 until he was wrongfully terminated in April 2018. In the first cause of
+action for harassment and hostile work environment based on age, Davis
+alleged that the individual defendants—all high-ranking executives within
+the company—consistently made derogatory comments and subjected Davis
+to harassing conduct related to his age, and passed him over for promotions
+and terminated his employment due to his age. In the second cause of action
+for harassment and hostile work environment based on sex, Davis alleged he
+was subjected to a hostile and abusive work environment because the
+individual defendants sexually harassed and permitted sexual harassment of
+women in the workplace, and his complaints and assistance to others in
+making complaints about the hostile work environment led to further
+harassment against him. Davis’s emotional distress claims derived from the
+same allegations of age and sex harassment.1
+      Shortly after Davis filed his complaint, Red Bull notified Davis of the
+company’s decision to initiate arbitration and seek a declaration that the
+claims alleged in Davis’s DFEH complaint were without merit. When Davis
+
+
+
+
+1     The civil complaint attached a copy of Davis’s administrative complaint
+with the Department of Fair Employment and Housing (DFEH) and the
+DFEH’s right-to-sue letter issued to Davis in May 2018.
+
+                                       2
+refused to submit to arbitration, Red Bull filed a demand for arbitration with
+the American Arbitration Association (AAA).
+      In July 2018, the individual defendants moved to compel Davis to
+submit his claims to arbitration.
+      Davis then filed a separate lawsuit against Red Bull seeking a
+declaratory judgment that the claims set forth in his DFEH complaint were
+not subject to the arbitration agreement and that the arbitration agreement
+was not binding on him. He further sought temporary and permanent
+injunctive relief staying Red Bull’s arbitration until the final adjudication of
+his civil action against the individual defendants. In response, Red Bull filed
+its own motion to compel arbitration of Davis’s claims.
+      The Arbitration Agreement
+      In seeking arbitration of the dispute, appellants relied on the “Red Bull
+North America, Inc. Binding Arbitration Agreement” signed by Davis on
+September 29, 2003 (hereafter, the arbitration agreement or agreement).
+      The arbitration agreement is printed on Red Bull letterhead and
+consists of 18 paragraphs over three pages. It states in relevant part that
+Davis, “in consideration of [his] employment with [Red Bull]” agreed that
+“[a]ny and all disputes which involve or relate in any way to [his]
+employment (or termination of employment) with Red Bull, except for
+obligations under the Employee Confidentiality Agreement with Red Bull,
+shall be submitted to and resolved by final and binding arbitration.”
+      The arbitration agreement further specifies it is “intended to cover all
+civil claims which involve or relate in any way to [Davis’s] employment (or
+termination of employment) with Red Bull, including, but not limited to,
+claims of employment discrimination or harassment on the basis of . . . sex,
+
+
+
+
+                                        3
+age, . . . claims based on violation of public policy or statue [sic], claims for
+wrongful discharge, [and] claims for emotional distress . . . .”
+      Under its procedures for initiating arbitration, the agreement provides
+that within 30 days of receipt of a notice of arbitration, “Red Bull and I will
+attempt to agree upon a mutually acceptable arbitrator. If Red Bull and I are
+unable to agree upon [an] arbitrator, we will submit the dispute to the
+[AAA].” The agreement further states that “arbitration shall be conducted in
+accordance with the laws of the state in which the arbitration is conducted
+and the rules and requirements of the arbitration service being utilized,
+specifically any rules applicable to employment disputes, to the extent that
+such rules and requirements do not conflict with the terms of this
+Agreement.”
+      Regarding arbitral discovery, the agreement states: “Either party shall
+be entitled to conduct a limited amount of discovery prior to the arbitration
+hearing. Either party may take a maximum of two (2) depositions. Either
+party may apply to the arbitrator for further discovery. Such further
+discovery may, in the discretion of the arbitrator, be awarded upon a showing
+of sufficient cause.”2
+      Hearing, Decision, and Appeal
+      In a detailed tentative opinion, the trial court was prepared to grant
+appellants’ motions to compel. After finding that appellants had met their
+burden of showing Davis was a party to a written agreement requiring him to
+
+
+2     At paragraph 7, the arbitration agreement allows each party to make a
+written demand for “a list of witnesses, including experts, to be called and/or
+copies of documents to be introduced at the hearing.” The demand must be
+served at least 40 days prior to the hearing, and the list and copies of
+documents must be delivered within 25 days of service of the demand.
+“Neither party may call any witness or introduce any document omitted from
+a response to such a demand.”
+
+                                         4
+submit the controversy alleged in his complaint to arbitration, the court
+determined that Davis had failed to show the agreement was unenforceable
+under principles of unconscionability, with the exception of the discovery
+limitation, which the court found to be severable. The court also found that
+the individual defendants had standing as nonsignatories to enforce the
+arbitration agreement under agency and estoppel principles.
+      After the hearing, however, the trial court reversed course. The court
+not only concluded the individual defendants could not enforce the arbitration
+agreement, but it also determined the agreement itself is unconscionable and
+unenforceable. On the latter point, the court found the agreement
+procedurally unconscionable because it involves an “added level of ‘surprise’ ”
+by failing to specify which arbitration service would be utilized or which set of
+arbitration rules would apply to the arbitration. The court further found the
+agreement substantively unconscionable because (1) its language pertains
+only to the employee, not Red Bull, and therefore, the agreement to arbitrate
+is not mutual; (2) non-mutuality is further demonstrated by the “substantial
+‘carve-out’ for the types of claims [Red Bull] would be likely to bring against
+Plaintiff” for disputes relating to obligations under the Employee
+Confidentiality Agreement; and (3) the arbitral discovery process is limited
+and does not guarantee adequate discovery for vindication of Davis’s FEHA
+claims. The trial court denied both motions to compel.
+      Appellants timely appealed. (Code Civ. Proc., § 1294, subd. (a).)
+                                  DISCUSSION
+      “California law, like federal law, favors enforcement of valid arbitration
+agreements,” allowing that they “may only be invalidated for the same
+reasons as other contracts.” (Armendariz v. Foundation Health Psychcare
+Services, Inc. (2000) 24 Cal.4th 83, 97–98 (Armendariz).) Generally
+
+
+
+                                        5
+applicable contract defenses such as unconscionability remain applicable to
+invalidate arbitration agreements. (OTO, L.L.C. v. Kho (2019) 8 Cal.5th 111,
+125 (OTO).)
+      The unconscionability doctrine has both procedural and substantive
+elements, “the former focusing on oppression or surprise due to unequal
+bargaining power, the latter on overly harsh or one-sided results.” (Sonic-
+Calabasas A, Inc. v. Moreno (2013) 57 Cal.4th 1109, 1133 (Sonic).) Both must
+be shown for the defense to be established, but not necessarily in the same
+degree. (OTO, supra, 8 Cal.5th at p. 125.) We evaluate unconscionability on
+a sliding scale, so that the more substantively one-sided the contract term,
+the less evidence of procedural unconscionability is required to conclude that
+the term is unenforceable, and vice versa. (Id. at pp. 125–126.) “The
+ultimate issue in every case is whether the terms of the contract are
+sufficiently unfair, in view of all relevant circumstances, that a court should
+withhold enforcement.” (Sanchez v. Valencia Holding Co., LLC (2015) 61
+Cal.4th 899, 912 (Sanchez).) When unconscionability is shown, the trial court
+has discretion either to refuse to enforce the contract or to strike the
+unconscionable provision and enforce the remainder of the contract. (Civ.
+Code, § 1670.5, subd. (a); Armendariz, supra, 24 Cal.4th at p. 122.)
+      “On appeal from the denial of a motion to compel arbitration,
+‘[u]nconscionability findings are reviewed de novo if they are based on
+declarations that raise “no meaningful factual disputes.” [Citation.]
+However, where an unconscionability determination “is based upon the trial
+court’s resolution of conflicts in the evidence, or on the factual inferences
+which may be drawn therefrom, we consider the evidence in the light most
+favorable to the court’s determination and review those aspects of the
+
+
+
+
+                                        6
+determination for substantial evidence.” ’ ” (Lhotka v. Geographic
+Expeditions, Inc. (2010) 181 Cal.App.4th 816, 820–821 (Lhotka).)
+      The principal questions posed in this appeal are whether the
+arbitration agreement is unconscionable, and if so, whether the trial court
+should have severed the offending provisions rather than refuse enforcement
+of the agreement as a whole. An additional question is whether the trial
+court erred in finding that the individual defendants, as nonsignatories, lack
+standing to enforce the agreement. We address these questions in order, as
+resolution of the first two may obviate the need to reach the third.
+      A.    Procedural Unconscionability
+      “Procedural unconscionability focuses on ‘ “ ‘oppression’ ” ’ or
+‘ “ ‘surprise’ ” ’ due to unequal bargaining power. [Citation.] ‘Oppression
+arises from an inequality of bargaining power that results in no real
+negotiation and an absence of meaningful choice. Surprise involves the
+extent to which the supposedly agreed-upon terms are hidden in a prolix
+printed form drafted by the party seeking to enforce them.’ ” (Baxter v.
+Genworth North America Corp. (2017) 16 Cal.App.5th 713, 722 (Baxter).)
+      “Unconscionability analysis begins with an inquiry into whether the
+contract is one of adhesion. [Citation.] ‘The term [contract of adhesion]
+signifies a standardized contract, which, imposed and drafted by the party of
+superior bargaining strength, relegates to the subscribing party only the
+opportunity to adhere to the contract or reject it.’ ” (Armendariz, supra, 24
+Cal.4th at p. 113.) “Arbitration contracts imposed as a condition of
+employment are typically adhesive.” (OTO, supra, 8 Cal.5th at p. 126.)
+      The arbitration agreement here is a form contract on Red Bull
+letterhead with spaces for the employee’s name and signature. It states at
+the outset that Davis’s agreement to its terms is “in consideration of” his
+
+
+
+                                       7
+employment with Red Bull. In his declaration in opposition to the motions to
+compel, Davis attested that the agreement was presented to him “as a
+condition of employment along with a stack of other documents, and on a
+‘take-it-or-leave-it’ basis.” He further attested on information and belief that
+the agreement “was provided to all employees and its terms were never
+altered based on a negotiation with an employee,” and that he “had no
+opportunity to negotiate over the terms of this Agreement. Were I to attempt
+to do so, Red Bull likely would have ceased considering me for the position.”
+      Though appellants are correct that Davis’s declaration is speculative in
+some respects, the record sufficiently demonstrates that the arbitration
+agreement was presented as a standardized, non-negotiable term of Davis’s
+employment. Appellants do not contend that Davis could have opted out of
+the arbitration agreement or negotiated his employment contract without
+one. (Sanchez, supra, 61 Cal.4th at p. 914; Serpa v. California Surety
+Investigations, Inc. (2013) 215 Cal.App.4th 695, 704 (Serpa).) Although
+appellants seize on Davis’s acknowledgment that he did not actually attempt
+to negotiate the arbitration terms, a complaining party need not show it tried
+to negotiate standardized contract terms to establish procedural
+unconscionability. (OTO, supra, 8 Cal.5th at p. 127; Carbajal v. CWPSC, Inc.
+(2016) 245 Cal.App.4th 227, 244 (Carbajal).)
+      The record also sufficiently demonstrates the parties’ unequal
+bargaining positions. There is no dispute that Red Bull was, at all relevant
+times, a large and prominent multinational corporation, a point reinforced by
+the declaration of Red Bull’s human resources director describing the size
+and scope of Red Bull’s business in the beverage industry. Davis, in
+comparison, was hired by the company in 2003 to a middle manager position.
+On this record, the unequal bargaining power between Red Bull and Davis
+
+
+
+                                       8
+was reasonably apparent from the parties’ relationship. (Carbajal, supra,
+245 Cal.App.4th at p. 244.) Indeed, “few employees are in a position to refuse
+a job because of an arbitration requirement.” (Armendariz, supra, 24 Cal.4th
+at p. 115.) Furthermore, because Red Bull presented the arbitration
+agreement in the context of hiring Davis as a new employee, we must be
+“particularly attuned” to the danger of oppression and overreaching in this
+setting. (OTO, supra, 8 Cal.5th at p. 127.) Accordingly, we conclude Davis
+carried his burden to show the arbitration agreement was a contract of
+adhesion.
+      By itself, however, adhesion establishes only a “low” degree of
+procedural unconscionability. (Serpa, supra, 215 Cal.App.4th at p. 704.)
+Davis did not attempt to show other sharp practices on the part of Red Bull,
+such as lying, manipulating, or placing him under duress. (Baltazar v.
+Forever 21 (2016) 62 Cal.4th 1237, 1245 (Baltazar).) And we disagree with
+Davis’s characterization of the arbitration agreement as unreasonably prolix
+or complex. The agreement is set forth in a standalone three-page document,
+clearly labeled “Binding Arbitration Agreement,” with standard-sized and
+readable text. With the exception of a few paragraphs, the agreement does
+not contain overly long or complicated sentences or use statutory references
+and legal jargon. (Cf. OTO, supra, 8 Cal.5th at p. 128 [sentences were
+“complex, filled with statutory references and legal jargon”].)
+      Nor do we find, as the trial court did, an element of surprise in the
+agreement’s failure to identify a specific arbitration provider. The agreement
+clearly spells out that the parties will attempt to mutually agree on an
+arbitrator, and if that fails, the parties will utilize the services of AAA.
+Reasonably construed, the provision affords Davis the opportunity to request
+
+
+
+
+                                         9
+a preferred arbitrator, with AAA as the fallback if the parties cannot agree.
+There is nothing surprising or hidden in this regard.
+      The trial court also found an element of surprise in the arbitration
+agreement’s failure to identify the particular arbitral rules that would apply.
+But the primary option under the agreement is for the parties to mutually
+agree upon an arbitrator, and for arbitration to be conducted in accordance
+with the provider’s “rules applicable to employment disputes” to the extent
+they do not conflict with the agreement. Consequently, the applicable rules
+could not be precisely identified at the time of contracting.
+      Appellants insist there is no potential for surprise because, in the event
+the parties could not agree on an arbitrator, then the “rules applicable to
+employment disputes” can only refer to the AAA Employment Arbitration
+Rules and Mediation Procedures, which are currently accessible on the AAA
+website. Appellants emphasize that both the 2002 version (in effect when
+Davis was hired) and the 2009 current version of the AAA rules state that the
+rules applicable to a given dispute are those in effect “at the time the demand
+for arbitration . . . is received by the AAA.” Citing Evans v. Centerstone
+Development Co. (2005) 134 Cal.App.4th 151, 158 (Evans) and Lucas v. Gund,
+Inc. (C.D.Cal. 2006) 450 F.Supp.2d 1125, 1131–1132 (Lucas), appellants
+maintain that when an agreement does not specify which version of the
+arbitral rules applies to a particular dispute but references rules that do,
+those rules control. Davis counters that the agreement remains unclear
+because it does not identify which version of the rules would apply, and the
+current 2009 version of the AAA employment rules was not in effect at the
+time of contracting.
+      The precise question before us is not determining which version of the
+AAA rules applies, but whether the arbitration agreement’s failure in the
+
+
+
+                                       10
+first place to identify the applicable version heightens the degree of
+procedural unconscionability. (See Carbajal, supra, 245 Cal.App.4th at
+pp. 244–245 [oppression is increased when employer not only fails to provide
+rules “but also fails to clearly identify which rules will govern so the
+employee could locate and review them”].) Carbajal distinguished both
+Evans and Lucas as cases relying on “similar provisions in other alternative
+dispute rules to resolve conflicts over which version of a particular set of rules
+applied, for example, the 2000 or the 2002 version of the same rules.”
+(Carbajal, at p. 247.) As Carbajal observed, “[n]either case was called upon
+to determine whether the underlying arbitration provision was procedurally
+unconscionable for failing to designate the governing rules.” (Ibid.)
+      That said, the full scope of Carbajal’s procedural unconscionability
+rationale is in question after the Supreme Court issued its decision in
+Baltazar, supra, 62 Cal.4th 1237, shortly after Carbajal was published. (See
+Nguyen v. Applied Medical Resources Corp. (2016) 4 Cal.App.5th 232, 248–
+249.) In Baltazar, the Supreme Court held that the failure to provide a copy
+of the arbitral rules, standing alone, does not heighten the degree of
+procedural unconscionability. Baltazar noted that in the cases where the
+failure to provide the arbitral rules supported a finding of procedural
+unconscionability, the “claim depended in some manner on the arbitration
+rules in question. [Citations.] These cases thus stand for the proposition
+that courts will more closely scrutinize the substantive unconscionability of
+terms that were ‘artfully hidden’ by the simple expedient of incorporating
+them by reference rather than including them in or attaching them to the
+arbitration agreement.” (Baltazar, at p. 1246.)
+      It logically follows from Baltazar that a viable claim of procedural
+unconscionability for failure to identify the particular version of the
+
+
+
+                                        11
+applicable arbitral rules—like a claim for failure to attach the rules
+themselves—depends in some manner on the substantive unfairness of a
+term or terms contained within the unidentified version of the rules
+applicable to the dispute. (See Peng v. First Republic Bank (2013) 219
+Cal.App.4th 1462, 1470–1472 (Peng) [no heightened procedural
+unconscionability due to failure to attach arbitral rules or identify them with
+clarity].) That is, if the unidentified rules are not themselves substantively
+unfair, then the employer cannot be faulted for vaguely referring to such
+rules. Notably, Davis does not contend that either the 2002 or the 2009
+version of the AAA employment rules contained substantively unconscionable
+terms.
+      Furthermore, to the extent Carbajal remains viable with regard to
+Davis’s theory of procedural unconscionability, the case is factually
+distinguishable. In Carbajal, the plaintiff was asked to sign an arbitration
+agreement during her interview, and the employer’s most knowledgeable
+person conceded that even he did not know which AAA rules applied under
+the arbitration provision. (Carbajal, supra, 245 Cal.App.4th at p. 244.)
+Davis does not similarly claim that he was given insufficient time to consider
+the arbitration agreement before signing it or that he was otherwise unable
+to access the AAA rules at the time of contracting.
+      In sum, we conclude Davis has not adequately shown a heightened
+degree of procedural unconscionability with regard to the agreement’s non-
+identification of a specific arbitration provider or the version of the arbitral
+rules that would apply in a given dispute. Davis has, however, demonstrated
+a low degree of procedural unconscionability based on the agreement’s
+adhesive nature. (Serpa, supra, 215 Cal.App.4th at p. 704.)
+
+
+
+
+                                        12
+      B.     Substantive Unconscionability
+      In assessing substantive unconscionability, we look to the terms of the
+parties’ agreement to “ensure[] that contracts, particularly contracts of
+adhesion, do not impose terms that have been variously described as
+‘ “ ‘overly harsh’ ” ’ [citation], ‘ “unduly oppressive” ’ [citation], ‘ “so one-sided
+as to ‘shock the conscience’ ” ’ [citation], or ‘unfairly one-sided.’ ” (Sonic,
+supra, 57 Cal.4th at p. 1145.) These formulations “all mean the same thing.”
+(Sanchez, supra, 61 Cal.4th at p. 911.) Substantive unconscionability “ ‘is
+concerned not with “a simple old-fashioned bad bargain” [citation], but with
+terms that are “unreasonably favorable to the more powerful party.” ’ ”
+(Ibid.) “[T]he paramount consideration in assessing [substantive]
+conscionability is mutuality.” (Abramson v. Juniper Networks, Inc. (2004)
+115 Cal.App.4th 638, 657 (Abramson).) “Agreements to arbitrate must
+contain at least ‘ “a modicum of bilaterality” ’ to avoid unconscionability.”
+(Id., citing Armendariz, supra, 24 Cal.4th at p. 119.)
+      In making this determination, courts often look to whether the
+agreement meets a minimum level of fairness based on the factors set forth in
+Armendariz. (Wherry v. Award, Inc. (2011) 192 Cal.App.4th 1242, 1248.)
+Among these factors is the requirement that there must be discovery
+sufficient to adequately arbitrate a party’s claims. (Armendariz, supra, 24
+Cal.4th at pp. 102–106.)
+           1. Discovery
+      A limitation on discovery is an important way in which arbitration can
+provide a simplified and streamlined procedure for the resolution of disputes.
+(Dotson v. Amgen (2010) 181 Cal.App.4th 975, 983 (Dotson); Armendariz,
+supra, 24 Cal.4th at p. 106, fn. 11.) At the same time, “[a]dequate discovery
+is indispensable for the vindication of statutory claims” (Fitz v. NCR Corp.
+
+
+
+                                          13
+(2004) 118 Cal.App.4th 702, 715), and “[t]he denial of adequate discovery in
+arbitration proceedings leads to the de facto frustration of” statutory rights
+(Armendariz, supra, 24 Cal.4th at p. 104). In this context, “adequate” does
+not mean “unfettered.” (Mercuro v. Superior Court (2002) 96 Cal.App.4th
+167, 184 (Mercuro).) In striking the appropriate balance between the desired
+simplicity of limited discovery and an employee’s statutory rights, courts
+assess the amount of default discovery permitted under the arbitration
+agreement, the standard for obtaining additional discovery, and whether the
+plaintiffs have demonstrated that the discovery limitations will prevent them
+from adequately arbitrating their statutory claims. (Poublon v. C.H.
+Robinson Co. (9th Cir. 2017) 846 F.3d 1251, 1270 (Poublon).)
+      The arbitration agreement here permits each party to take a maximum
+of two depositions. It contains no express provisions entitling the parties to
+propound interrogatories, requests for admission, or demands for production
+of all relevant documents.3 Appellants emphasize that despite these
+limitations, the arbitrator retains the authority to order additional discovery
+on a showing of “sufficient cause.” According to appellants, this standard is
+equivalent to “good cause,” which was approved by the courts in Mercuro and
+Poublon, and is “not different in substance from the standards approved in
+Roman [v. Superior Court (2009) 172 Cal.App.4th 1462 (Roman)] or Dotson,
+supra.” Appellants’ reliance on these authorities is misplaced.
+
+
+
+
+3     At oral argument, appellants suggested that paragraph 7 of the
+agreement provides for document discovery by permitting each party to make
+a written demand for documents. (See ante, fn. 2.) Paragraph 7 is not the
+equivalent of a discovery provision since, by its terms, the responding party is
+not required to produce documents that it does not intend to introduce at the
+arbitration hearing.
+
+                                       14
+      As this court previously observed in Baxter, the discovery provision in
+Dotson permitted additional discovery by the arbitrator on “a simple ‘showing
+of need.’ ” (Baxter, supra, 16 Cal.App.5th at p. 729, citing Dotson, supra, 181
+Cal.App.4th at pp. 978, 984.) Baxter agreed with Dotson that such a showing
+“did not impose an unreasonable limitation on the arbitrator’s authority to
+increase discovery” and held that the “showing of need” standard was less
+onerous than a “good and sufficient cause” standard. (Baxter, at p. 729.) And
+as relevant here, the arbitration clause in Dotson explicitly permitted more
+discovery than the agreement before us. (Dotson, at p. 982 [parties allowed
+at least two depositions (of an individual and any expert) and also to make
+document demands to any party in arbitration].)
+      Roman also involved a substantively different standard for discovery.
+There, the arbitration agreement incorporated the 1997 AAA rules, which
+stated the arbitrator had authority to order “such discovery, by way of
+deposition, interrogatory, document production, or otherwise, as the
+arbitrator considers necessary to a full and fair exploration of the issues in
+dispute, consistent with the expedited nature of arbitration.”4 (Roman,
+supra, 172 Cal.App.4th at p. 1475.) But rather than adopting AAA discovery
+procedures, Red Bull’s arbitration agreement provides instead for default
+discovery that makes no mention of written discovery or document
+production, that limits depositions to two per party, and that uses a less-
+defined “sufficient cause” standard for obtaining additional discovery.
+Indeed, the arbitration agreement effectively makes clear that AAA
+procedures would not apply to the extent they conflict with those of the
+agreement.
+
+
+4     The current version of the AAA employment rules contains the same
+discovery provision.
+
+                                       15
+      Even assuming the “sufficient cause” standard here is equivalent to the
+“good cause” standard approved in Mercuro and Poublon, both Mercuro and
+Poublon emphasized that the plaintiffs before them had made no showing
+whatsoever of an inability to vindicate their statutory rights under the
+discovery standards provided in the subject arbitration agreements.
+(Mercuro, supra, 96 Cal.App.4th at p. 183; Poublon, supra, 846 F.3d at
+p. 1271; cf. Ontiveros v. DHL Express (USA), Inc. (2008) 164 Cal.App.4th 494,
+513 [employee estimated need to take at least 15 to 20 depositions].)
+      Here, in contrast, the record amply supports Davis’s contention that he
+would be unable to vindicate his statutory rights under the discovery
+limitations of the arbitration agreement. Davis had a 15-year work history
+with Red Bull, and he offered facts tending to show that the alleged age and
+sex harassment “dramatically increas[ed]” since 2010 and continued until his
+termination in 2018. At the root of Davis’s complaint is the theory that Red
+Bull executives promoted a risky youth-centered culture that glorified
+partying and substance abuse and looked the other way at reports of sexual
+harassment and battery. As a result, Davis claims, he was often subjected to
+ageist slurs directed at him in the presence of multiple witnesses, and was
+harassed by having to witness the sexual harassment and abuse of multiple
+women, including Red Bull employees. Davis’s claims are also based on
+retaliatory harassment resulting from his reports of harassment of himself
+and others and his participation in formal investigations of these reports.
+Finally, he claims that he and other similarly-situated older employees were
+passed up for promotions despite their superior qualifications, and that he
+was terminated because of his age. Relevant documents would include, at
+minimum, those relating to Davis’s work performance, discipline and
+termination, the reports of age and sex harassment by Davis and others, and
+
+
+
+                                      16
+the company’s internal investigations. In short, Davis has demonstrated that
+he has a factually complex case involving numerous percipient witnesses,
+executives, and investigators5 and that the arbitration agreement’s default
+limitations on discovery are almost certainly inadequate to permit his fair
+pursuit of these claims. (See Armendariz, supra, 24 Cal.4th at p. 104 [denial
+of adequate discovery in arbitration leads to de facto frustration of statutory
+rights]; Dougherty v. Roseville Heritage Partners (2020) 47 Cal.App.5th 93,
+106 (Dougherty) [discovery limitations permitting depositions only in
+exceptional cases and providing for no interrogatories or requests for
+admission “[ran] the risk of frustrating plaintiffs’ statutory rights”].)
+      In so concluding, we take our cue from Baxter, supra, 16 Cal.App.5th
+732, which reached a similar conclusion where an arbitral discovery process
+featured default limitations that inhibited the plaintiff’s ability to fairly
+pursue her claims against a former employer for discrimination and
+retaliation in violation of the FEHA. (Baxter, at p. 729.) In Baxter, the
+plaintiff had a 12-year employment history with the defendant, and she made
+a factual showing that the outcome of her claims would depend upon several
+
+
+5     As a sample of the potential evidentiary scope of this case, the
+complaint alleges there were multiple witnesses to Russ’s ageist slurs against
+Davis at Red Bull events and meetings. Davis also names a former Red Bull
+employee who was purportedly known to routinely sexually harass women at
+the company and was accused by a Red Bull employee of sexual
+assault/battery. Davis further names various supervisors to whom reports
+about sexual assault and battery were made. He also identifies several
+members of Red Bull’s human resources department who investigated his
+and others’ allegations of sex harassment, including human resources
+employees who purportedly made comments suggestive of pretextual and
+sham investigations. Finally, Davis names at least two similarly-situated
+individuals who purportedly experienced age bias at the company. Notably,
+appellants do not dispute the potential relevance of these anticipated
+witnesses and their testimony to Davis’s claims.
+
+                                        17
+percipient witnesses, six of whom were identified by name in the complaint,
+and the relevant documents would include those relating to the defendant’s
+family leave practices, evaluation policies, reorganization, prior complaints
+similar to the plaintiff’s, communications concerning her discipline and
+termination, and the defendant’s internal investigation. (Baxter, at pp. 728–
+729.) The parties’ arbitration agreement, however, contained the following
+default discovery limitations: the defendant’s employees would receive
+documents from their personnel and medical files, and each party would be
+permitted to propound up to 10 interrogatories and five written requests for
+documents to the other party, and to depose two individuals for a total of no
+more than eight hours. (Id. at p. 727.) The arbitrator was authorized to
+order further discovery “ ‘for good and sufficient cause shown.’ ” (Ibid.)
+      As Baxter explained, the default discovery allowed under the foregoing
+provisions was “low,” the burden placed on the plaintiff “to justify additional
+discovery is somewhat greater than a simple showing of need or good cause,”
+and the plaintiff had “established as a factual matter that she will likely need
+to conduct at least three to five times the number of depositions allowed”
+under the default limitations. (Baxter, supra, 16 Cal.App.5th at p. 730.)
+Under the circumstances, Baxter determined that the default levels of
+discovery would be inadequate to vindicate the plaintiff’s FEHA rights
+(Baxter, at pp. 728–729 [distinguishing Mercuro]), and that it was
+“reasonable to conclude that her ability to prove her claims would be
+frustrated” (Baxter, at p. 730).
+      In concluding the arbitral discovery limitations would frustrate the
+plaintiff’s ability to prove her claims, Baxter made the observation—equally
+relevant here—that “[e]mployment disputes are factually complex, and their
+outcomes ‘are often determined by the testimony of multiple percipient
+
+
+
+                                       18
+witnesses, as well as written information about the disputed employment
+practice.’ [Citation.] Seemingly neutral limitations on discovery in
+employment disputes may be nonmutual in effect. ‘ “This is because the
+employer already has in its possession many of the documents relevant to an
+employment discrimination case as well as having in its employ many of the
+relevant witnesses.” ’ ” (Baxter, supra, 16 Cal.App.5th at p. 727.)6
+      We assume, as we must, that any selected arbitrator will operate in a
+reasonable manner in conformity with the law. (Dotson, supra, 181
+Cal.App.4th at p. 984.) But under the circumstances presented here, it is
+reasonable to conclude that the particular terms of the arbitration agreement
+appear to constrain an arbitrator’s efforts to expand discovery to the extent
+necessary to vindicate Davis’s statutory rights. (See Baxter, supra, 16
+Cal.App.5th at p. 730; Dougherty, supra, 47 Cal.App.5th at p. 106.)
+Accordingly, we agree with the trial court that the discovery limitations in
+the subject arbitration agreement are substantively unconscionable.
+
+
+
+
+6     After the conclusion of briefing, appellants filed a notice of new
+authority citing Torrecillas v. Fitness Internat., LLC (2020) 52 Cal.App.5th
+485 (Torrecillas). There, the appellate court held that Baxter required an
+evidentiary showing, not merely argument, that arbitral discovery would be
+inadequate. (Torrecillas, at p. 497.) In Baxter, the factual complexity of the
+plaintiff’s case was established by the complaint, which named at least six
+percipient witnesses that would have to be deposed. (Baxter, supra, 16
+Cal.App.5th at pp. 727–728.) Likewise, the factual complexity of Davis’s
+matter is established by facts appearing on the face of his complaint, and
+appellants do not contend that these witnesses are not relevant or necessary
+to establishing his claims. Furthermore, Torrecillas is materially
+distinguishable by the amount of default arbitral discovery available in that
+case. (Torrecillas, at p. 497 [requiring initial production of relevant
+documents and allowing five depositions, 30 interrogatories, and requests for
+documents used to support interrogatory responses].)
+
+
+                                       19
+         2. Mutuality
+      We next review the arbitration agreement for “the paramount
+consideration” of mutuality. (Abramson, supra, 115 Cal.App.4th at p. 657.)
+Courts have found a lack of sufficient mutuality where the agreement
+exempts from arbitration the types of claims an employer is likely to bring
+against an employee. (Carlson v. Home Team Pest Defense, Inc. (2015) 239
+Cal.App.4th 619, 634–635 [excluding employer’s “most likely claims” to
+enforce anticompetitive covenants and confidentiality provisions while
+employee “was required to relinquish her access to the courts for all of her
+nonstatutory claims”]; Stirlen v. Supercuts (1997) 51 Cal.App.4th 1519, 1536–
+1542 (Stirlen) [excluding claims pertaining to patent infringement and
+improper use of confidential information and competition].)
+      We initially reject Davis’s broad contention that the entire arbitration
+agreement lacks mutuality because of the repeated phrasing “I agree” and
+the absence of a signature line for Red Bull. (Roman, supra, 172 Cal.App.4th
+at p. 1466 [use of “I agree” language in arbitration clause that expressly
+covers “all disputes” creates mutual agreement to arbitrate].) That the
+agreement was drafted on Red Bull letterhead is an indication the company
+intended to be bound by the agreement. (Serafin v. Balco Properties Ltd.,
+LLC (2015) 235 Cal.App.4th 165, 176–177; Cruise v. Kroger Co. (2015) 233
+Cal.App.4th 390, 398.) Furthermore, the agreement specifically discusses
+what “Red Bull or I” must do in order to “initiate” arbitration. As a whole,
+the agreement is thus reasonably construed as both parties consenting to
+arbitration of any disputes either party brings involving or relating to Davis’s
+employment, with the one notable exception discussed below. (Bigler v.
+Harker School (2013) 213 Cal.App.4th 727, 737–738.)
+
+
+
+
+                                      20
+      The sole exception to arbitration under the agreement is for disputes
+that involve “obligations under the Employee Confidentiality Agreement with
+Red Bull.”7 Appellants contend this provision is mutual because Davis can
+sue in court for any claims he has against Red Bull relating to inventions or
+intellectual property belonging solely to him. We disagree, as such disputes
+would not involve any “obligations” under the Employee Confidentiality
+Agreement.8
+      The opening recitals of the Employee Confidentiality Agreement make
+clear its provisions protect only “Confidential Information,” which is
+specifically defined as the “proprietary and confidential information relating
+to, owned by and regularly used by the Company, or its parent and other
+affiliated companies, including but not limited to financial information,
+
+7     We note here that under the arbitration agreement, Davis does not
+waive the right to file claims or complaints with administrative agencies such
+as the United States Equal Opportunity Commission. But in assessing
+mutuality, the relevant concern is whether the agreement allows the stronger
+party to file civil actions.
+8     Appellants contend it is improper to consider the language of the
+Employee Confidentiality Agreement in interpreting the scope of the
+arbitration agreement. The law is otherwise. (See Shaw v. Regents of
+University of California (1997) 58 Cal.App.4th 44, 54 [arbitration agreement
+may expressly incorporate by reference another document]; Civ. Code, § 1642
+[several contracts relating to same matters between same parties and made
+as parts of substantially one transaction are to be taken together].)
+Appellants’ reliance on Lara v. Onsite Health, Inc. (N.D. Cal. 2012) 896
+F.Supp.2d 831 is unavailing because the arbitration agreement there did not
+expressly incorporate by reference, let alone expressly exempt from
+arbitration disputes relating to, the separate proprietary information
+agreement. (Id. at p. 842.) So is their reliance on Bruni v. Didion (2008) 160
+Cal.App.4th 1272 and Cotchett, Pitre & McCarthy v. Universal Paragon Corp.
+(2010) 187 Cal.App.4th 1405. Those decisions simply stand for the general
+proposition that if the court concludes the arbitration clause is not
+unconscionable, it must compel arbitration and leave it to up to the arbitrator
+to determine whether the contract as a whole is unconscionable.
+
+                                      21
+proprietary information relating to formulas, developmental or experimental
+work, trade secrets, techniques, know-how, discoveries, inventions,
+marketing information including statistical analyses, pricing structures,
+business strategies, plans for market expansion, information regarding
+customers, supplies and distributors, address/contacts lists (collectively,
+Confidential Information).” (Italics added.) The employee then agrees to
+“maintain the confidentiality of all Confidential Information” as so defined.
+There is no corresponding obligation of the company relating to any
+proprietary information of the employee. The agreement’s section on
+remedies states: “In the event of a breach or threatened breach of this
+Agreement by the Employee, the Company shall be entitled to all remedies
+available at law and equity, including injunctive relief and recovery from the
+Employee.” (Italics added.) Elsewhere, the Employee Confidentiality
+Agreement requires employees to assign to Red Bull any work product they
+develop during their employment, but in delineating the scope of this
+assignment, states “this Agreement shall not apply to any invention the
+Employee develops entirely on his/her own time without the use of the
+Company’s equipment, supplies, facilities or trade secrets” unless the
+invention relates to the company’s business or to the employee’s work for the
+company. (Italics added.)
+      In short, the Employee Confidentiality Agreement only obligates Red
+Bull’s employees to protect the company’s confidential and proprietary
+information, not vice versa. The confidentiality agreement expressly states it
+“shall not apply”—and identifies no obligations on the company’s part—with
+regard to any inventions or information belonging solely to its employees.
+Accordingly, the exemption from arbitration for disputes involving
+“obligations under the Employee Confidentiality Agreement” lacks mutuality
+
+
+
+                                       22
+in two ways. First, any theoretical claim that Davis may have against Red
+Bull for wrongfully using his inventions or intellectual property is not a
+dispute involving the breach of any “obligations” under the confidentiality
+agreement and would therefore fall within the scope of the parties’
+arbitration agreement. Second, and in a broader sense, the arbitration
+agreement effectively exempts from arbitration the types of claims Red Bull
+is most likely to bring against an employee such as Davis. (Carlson v. Home
+Team Pest Defense, Inc., supra, 239 Cal.App.4th at pp. 634–635; Stirlen,
+supra, 51 Cal.App.4th at pp. 1536–1542.)
+      Substantive unconscionability “turns not only on a ‘one-sided’ result,
+but also on an absence of ‘justification’ for it.” (Stirlen, supra, 51 Cal.App.4th
+at p. 1532.) As our Supreme Court has recognized, a contract can provide a
+“ ‘margin of safety’ that provides the party with superior bargaining strength
+a type of extra protection for which it has a legitimate commercial need
+without being unconscionable.” (Baltazar, supra, 62 Cal.4th at p. 1250.) Red
+Bull, however, makes no attempt to justify the differential treatment created
+by the carve-out provision for disputes arising out of the Employee
+Confidential Agreement. Indeed, the record includes a revised Red Bull
+arbitration agreement that, while not applicable here, no longer contains an
+exemption for such disputes.9
+      To recap, we are presented here with only a minimal showing of
+procedural unconscionability based on adhesion. Accordingly, a “high” degree
+of substantive unconscionability is required to find the agreement
+unenforceable (Peng, supra, 219 Cal.App.4th at p. 1470), and we conclude
+that threshold is met. Due to the carve-out provision for the Employee
+
+
+9    Appellants do not dispute Davis’s attestation that he was never
+presented with and did not sign this revised agreement.
+
+                                        23
+Confidentiality Agreement, the “paramount” concern of mutuality
+(Abramson, supra, 115 Cal.App.4th at p. 650) is lacking, and Red Bull, as the
+party with superior bargaining strength, fails to articulate any legitimate
+business reason for the exemption. When considered in combination with the
+discovery limitations discussed in part B.1., ante, the carve-out provision
+allows Red Bull to litigate the types of claims it would most likely bring
+against employees in civil court with the full panoply of discovery at its
+disposal, while employees like Davis have no choice but to arbitrate even the
+most factually complex statutory claims subject to a discovery process that is
+far more restrictive and does not impact Red Bull in the same way for
+company-initiated claims. On this record, we conclude Davis has a made a
+sufficiently strong combined showing of procedural and substantive
+unconscionability to render the arbitration agreement unenforceable.
+      C.    Severance
+      The decision to sever rests in the trial court’s discretion and is reviewed
+for abuse of discretion. (Armendariz, supra, 24 Cal.4th at pp. 121–125;
+Lhotka, supra, 181 Cal.App.4th at p. 821.)
+      In Armendariz, the Supreme Court held that Civil Code section 1670.5,
+subdivision (a), authorizes a court to refuse enforcement of a contract that is
+“permeated” by unconscionability. (Armendariz, supra, 24 Cal.4th at
+pp. 121–122.) In declining to enforce the subject arbitration agreement due
+to its “unlawful damages provision and an unconscionably unilateral
+arbitration clause,” Armendariz observed that these “multiple defects
+indicate a systematic effort to impose arbitration on an employee not simply
+as an alternative to litigation, but as an inferior forum that works to the
+employer’s advantage.” (Id. at p. 124.)
+
+
+
+
+                                       24
+      As explained in parts B.1. and B.2., ante, the arbitration agreement
+here suffers from multiple defects that work to Red Bull’s distinct advantage,
+namely, a restrictive arbitral discovery process that appears inadequate to
+protect vindication of Davis’s statutory rights, plus an unjustified, non-
+mutual provision that exempts Red Bull’s most likely claims against
+employees from arbitration and allows it to pursue such claims in court with
+full discovery, trial, and appeal rights. Because these unconscionable
+provisions together indicate Red Bull’s self-interested effort to impose an
+inferior forum on its employees, the trial court was within its discretion to
+conclude the agreement was permeated by unconscionability and should not
+be enforced.
+      Because the trial court did not explicitly address severance in its final
+orders, Red Bull contends that the court completely failed to exercise its
+discretion with regard to severance, and that this by itself requires reversal.
+This contention is belied by the record. There is nothing in the record
+indicating the trial court disregarded the parties’ briefing of the severance
+issue, and the court’s awareness of its discretion is demonstrated by its initial
+ruling tentatively ordering severance, which the court evidently abandoned
+when finalizing its orders denying appellants’ motions to compel.10
+                                   DISPOSITION
+      The orders denying the motions to compel are affirmed. Davis is
+entitled to his costs on appeal.
+
+
+
+
+10   Having concluded that the arbitration agreement is unconscionable and
+unenforceable in its entirety, we need not address whether the individual
+defendants have standing to enforce it.
+
+                                       25
+                          FUJISAKI, J.
+
+
+
+
+We concur.
+
+
+
+
+SIGGINS, P.J.
+
+
+
+
+JACKSON, J.
+
+
+
+
+(A156234, A156238)
+
+
+
+
+                     26
+Superior Court of Alameda County
+
+Robert D. McGuiness, Judge.
+
+Mitchell Silberberg & Knupp, Adam Levin, Stephen A. Rossi, and Elana
+Moses; for Defendants and Appellants.
+
+Peretz & Associates, Yosef Peretz, and Ruth L. Israely for Plaintiff and
+Respondent.
+
+
+
+
+                                      27

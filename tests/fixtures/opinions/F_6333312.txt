@@ -1,0 +1,172 @@
+cl_opinion_id: 6333312
+cluster: 6461201
+docket: F076836
+date: 2022-04-20
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Tirado CA5
+----
+Filed 4/20/22 P. v. Tirado CA5
+
+
+
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                       FIFTH APPELLATE DISTRICT
+
+ THE PEOPLE,
+                                                                                             F076836
+           Plaintiff and Respondent,
+                                                                               (Super. Ct. No. BF163811A)
+                    v.
+
+ JOSE GUADALUPE TIRADO,                                                                   OPINION
+           Defendant and Appellant.
+
+
+
+         APPEAL from a judgment of the Superior Court of Kern County. John D.
+Oglesby, Judge.
+         John L. Staley, under appointment by the Court of Appeal, for Defendant and
+Appellant.
+         Xavier Becerra and Rob Bonta, Attorneys General, Gerald A. Engler and Lance E.
+Winters, Chief Assistant Attorneys General, Michael P. Farrell, Assistant Attorney
+General, Catherine Chatman, Julie A. Hokans, and Dina Petrushenko, Deputy Attorneys
+General, for Plaintiff and Respondent.
+                                                        -ooOoo-
+                                     INTRODUCTION
+       In People v. Tirado (2019) 38 Cal.App.5th 637 (Tirado I), we concluded the trial
+court did not have discretion under Penal Code1 sections 1385 and 12022.53, subdivision
+(h) (§ 12022.53(h)) to substitute a section 12022.53, subdivision (d) (§ 12022.53(d))
+enhancement for a different enhancement. (Tirado I, at p. 640.) In People v. Tirado
+(2022) 12 Cal.5th 688, the Supreme Court reversed our judgment, holding that “the
+statutory framework permits a court to strike the section 12022.53(d) enhancement found
+true by the jury and to impose a lesser uncharged statutory enhancement instead.” (Id. at
+p. 692.) The Supreme Court remanded the matter to this court “to address the People’s
+unresolved forfeiture argument . . . and for any further proceedings not inconsistent with
+this opinion.” (Id. at p. 702.)
+       Following remand, we granted defendant Jose Guadalupe Tirado’s request to file
+supplemental briefing. Defendant contends the matter should be remanded to the trial
+court for resentencing consistent with Assembly Bill No. 124 (2021-2022 Reg. Sess.)
+(Assembly Bill No. 124). The People concede defendant is entitled to remand and
+resentencing and, because of that, their forfeiture issue is moot. We accept the People’s
+concession and remand the matter to the trial court for resentencing.
+                   FACTUAL AND PROCEDURAL BACKGROUND
+       A jury convicted defendant of the following offenses and enhancements: count 2
+– robbery (§ 212.5, subd. (c)), with an enhancement for personal discharge of a firearm
+causing great bodily injury (§ 12022.53(d)); count 5 – misdemeanor driving under the
+influence (Veh. Code, § 23152, subd. (a)); and count 6 – assault with a semiautomatic
+firearm (§ 245, subd. (b)), with enhancements for personal infliction of great bodily
+injury (§ 12022.7, subd. (a)) and personal use of a firearm (§ 12022.5, subd. (a)).
+
+
+
+       1   All further statutory references are to the Penal Code unless otherwise indicated.
+
+
+                                               2.
+       At sentencing on January 8, 2018, the trial court denied defendant’s motion to
+strike the section 12022.53(d) enhancement in the interests of justice pursuant to sections
+1385 and 12022.53(h). The court then sentenced defendant as follows. On count 2, the
+court imposed the middle term of three years for robbery (§ 212.5, subd. (c)), plus 25
+years to life for the firearm enhancement (§ 12022.53(d)). On count 6, the court imposed
+the middle term of six years for assault with a semiautomatic firearm (§ 245, subd. (b)),
+plus the middle term of three years for the use of a firearm enhancement (§12022.7, subd.
+(a)), plus four years for the great bodily injury enhancement (§ 12022.5, subd. (a)), all to
+be served concurrently with count 2. On count 5, the court imposed a sentence of 90
+days to be served concurrently with count 6.2
+                                      DISCUSSION
+
+       I.     Defendant is entitled to remand and resentencing consistent with
+              Assembly Bill No. 124.
+       Effective January 1, 2022, Assembly Bill No. 1243 amended section 1170 by
+adding paragraph (6) to subdivision (b), which provides: “Notwithstanding paragraph
+(1), and unless the court finds that the aggravating circumstances outweigh the mitigating
+
+
+       2We omit the facts of defendant’s offenses as irrelevant to the resolution of this
+appeal following remand from the Supreme Court.
+       3 During the 2021-2022 legislative term, three bills proposing changes to section
+1170 in a variety of ways were introduced. They were Assembly Bill No. 124 (Stats.
+2021, ch. 695, § 5), Assembly Bill No. 1540 (Stats. 2021, ch. 719, § 2), and Senate Bill
+No. 567 (Stats. 2021, ch. 731, § 1.3). All three bills were passed by the Legislature in
+September 2021, and approved by the Governor and filed with the Secretary of State on
+October 8, 2021. Senate Bill No. 567 bears the highest chapter number and is presumed
+to be the last of the three approved by the Governor. (Gov. Code, § 9510.) As such,
+Senate Bill No. 567 prevails over Assembly Bill No. 124. (Gov. Code, § 9605, subd.
+(b).) To the extent there are conflicts between the three bills, Senate Bill No. 567 takes
+precedence. (In re Thierry S. (1977) 19 Cal.3d 727, 738-739.) As to subdivision
+(b)(6)(A) and (B) of section 1170, however, the substantive language in Assembly Bill
+No. 124, Senate Bill No. 1540, and Senate Bill No. 567 are not in conflict. For ease of
+discussion, we refer to Assembly Bill No. 124 rather than Senate Bill No. 567.
+
+
+                                             3.
+circumstances that imposition of the lower term would be contrary to the interests of
+justice, the court shall order imposition of the lower term if any of the following was a
+contributing factor in the commission of the offense: [¶] (A) The person has experienced
+psychological, physical, or childhood trauma, including, but not limited to, abuse,
+neglect, exploitation, or sexual violence. [¶] (B) The person is a youth, or was a youth as
+defined under subdivision (b) of Section 1016.7 at the time of the commission of the
+offense. [¶] (C) Prior to the instant offense, or at the time of the commission of the
+offense, the person is or was a victim of intimate partner violence or human trafficking.”
+(§ 1170, subd. (b)(6).) Section 1016.7,4 subdivision (b), defines a “ ‘youth’ ” as “any
+person under 26 years of age on the date the offense was committed.”
+       The People concede Assembly Bill No. 124 applies to defendant retroactively and
+that remand is required. We accept that concession. We express no view on how the trial
+court should exercise its discretion on remand.
+
+       II.      The People’s forfeiture claim is moot because defendant must be
+                resentenced.
+       When this matter was previously before this court, the People argued defendant
+forfeited his claim the trial court was unaware of its discretion to impose a lesser
+statutory enhancement because he only asked the trial court to strike the section
+12022.53(d) enhancement outright. We did not address forfeiture because we rejected
+defendant’s claim of error on the merits. (Tirado I, supra, 38 Cal.App.5th at pp. 641-642,
+fn. 5.) The Supreme Court has instructed us to address the forfeiture argument on
+remand.
+       The People concede their forfeiture argument is now moot because the matter
+must be remanded for resentencing in accordance with Assembly Bill No. 124. We
+agree. When this matter is remanded, “ ‘a full resentencing as to all counts is
+
+
+       4   Assembly Bill No. 124 (Stats. 2021, ch. 695, § 4) added section 1016.7.
+
+
+                                              4.
+appropriate, so the trial court can exercise its sentencing discretion in light of the changed
+circumstances.’ ” (People v. Buycks (2018) 5 Cal.5th 857, 893.)
+                                      DISPOSITION
+       The matter is remanded for the trial court to resentence defendant in light of
+changes effected by Assembly Bill No. 124, and to exercise its discretion pursuant to
+section 12022.53(h) in accordance with People v. Tirado, supra, 12 Cal.5th 688. In all
+other respects, the judgment is affirmed.
+
+
+
+
+                                                                       DETJEN, Acting P. J.
+WE CONCUR:
+
+
+
+SMITH, J.
+
+
+
+DE SANTOS, J.
+
+
+
+
+                                              5.

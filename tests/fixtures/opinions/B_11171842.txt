@@ -1,0 +1,374 @@
+cl_opinion_id: 11171842
+cluster: 10705255
+docket: B332149
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re Jo. T. CA2/3
+----
+Filed 10/16/25 In re Jo. T. CA2/3
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                      DIVISION THREE
+
+
+                                                                  B332149
+ In re Jo. T. et al., Persons Coming
+ Under the Juvenile Court Law.                                    (Los Angeles County
+                                                                  Super. Ct. No. 20LJJP00374D–E)
+
+ LOS ANGELES COUNTY
+ DEPARTMENT OF CHILDREN
+ AND FAMILY SERVICES,
+
+           Plaintiff and Respondent,
+
+           v.
+
+ C.M.,
+
+           Defendant and Appellant.
+
+
+      APPEAL from an order of the Superior Court of
+Los Angeles County, Jennifer W. Baronoff, Juvenile Court
+Referee. Dismissed.
+      Paul A. Swiller, under appointment by the Court of Appeal,
+for Defendant and Appellant.
+      Dawyn R. Harrison, County Counsel, Kim Nemoy,
+Assistant County Counsel, and Kelly G. Emling, Deputy County
+Counsel, for Plaintiff and Respondent.
+                  ‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗
+
+       Alleged father C.M. appeals the juvenile court’s jurisdiction
+finding that he knew of mother’s mental and emotional problems
+and failed to protect the children, Jo. and Je. (See Welf. & Inst.
+Code, § 300, subd. (b)(1).) C.M. does not challenge the juvenile
+court’s jurisdictional findings with respect to mother or the
+dispositional orders. The Los Angeles County Department of
+Children and Family Services (DCFS) contends that C.M.’s
+appeal is nonjusticiable and there is no basis to exercise
+discretionary review. We agree and dismiss the appeal.
+       FACTUAL AND PROCEDURAL BACKGROUND
+       Mother has three children: twins Jo. and Je., born
+November 2011, and J.B., born May 2017. According to mother,
+C.M. is the biological father of Jo. and Je. E.B. is the biological
+father of J.B. and presumed father of Jo. and Je., whom he has
+raised since they were two years old. Mother and E.B. are not
+parties to this appeal.
+       In a prior dependency proceeding in September 2020, the
+juvenile court found C.M. to be the alleged father of Jo. and Je.
+and sustained a petition as to Jo. The petition alleged that
+mother failed to provide appropriate medical care for Jo. and
+abused marijuana. In October 2021, the court terminated
+jurisdiction, awarded mother sole legal and physical custody of
+Jo., and ordered no visitation for C.M.
+       In July 2023, mother was arrested after she repeatedly
+struck Jo. with her fists and a belt. She bit the child on his arm
+and multiple times on his back. Jo. later reported that mother
+
+
+
+
+                                 2
+grabbed him and bit him on the face, arm, and back. The minor
+daughter of a family friend who was present during the incident
+stated that mother took Jo. into a bedroom and she could hear Jo.
+crying and asking mother to stop. Mother exited the room and
+said: “ ‘I’m glad you’re the only one here so no one can judge me.
+You don’t want to go in there. I just fucked him up pretty bad.’ ”
+The minor saw blood on Jo.’s shirt and observed that his face was
+swollen. E.B. and his sister also saw Jo. after the attack. They
+observed that Jo.’s face was swollen, his shirt was bloody, and he
+had abrasions and bite marks.
+       DCFS filed a dependency petition alleging that mother
+physically abused Jo. and Je., she failed to protect the children,
+and her physical abuse of Jo. and Je. endangered each child and
+their siblings. The petition further alleged that mother had
+mental and emotional problems and fathers E.B. and C.M. knew
+of these problems and failed to protect the children.
+       C.M. told DCFS that he had not had contact with Jo. and
+Je. “in several years.” He claimed mother kept the children away
+from him. According to C.M., “mother would get mad at him for
+any reason and then flee with the children out of state.” He
+stated that mother “has a history of mental health [sic] and will
+act ‘crazy’ when she does not take her medication.”
+       In July 2023, C.M. filed a statement regarding parentage.
+He stated he believed he was the father of Jo. and Je., he told
+“[t]he world at large” the children were his, and he talked to the
+children on the phone and via video calls. C.M. stated that his
+father had provided money for the children and his sister had
+spent time with them.
+
+
+
+
+                                3
+       At the initial hearing, the juvenile court detained Jo. and
+Je. from mother and C.M. The court found C.M. to be the alleged
+father of Jo. and Je.
+       DCFS interviewed the family further in connection with an
+August 2023 jurisdiction and disposition report. Mother reported
+that C.M. was “non-existent” in Jo. and Je.’s lives, he had
+provided no support, he had no relationship with the children,
+and he had only seen them once when they were born. Jo.
+provided minimal statements related to paternity. Je. believed
+C.M. was Jo.’s father, but not hers, and she said she knew
+nothing about C.M.
+       C.M. also expressed uncertainty as to whether Je. was his
+child. C.M. found out about the children only after his
+relationship with mother had ended. He told a social worker: “ ‘I
+don’t think [Je.] is mine. The mom would always say that [Je.]
+wasn’t mine but [Jo.] was.’ ” When asked whether he believed
+the twins had different fathers, he stated he did not know and
+had “ ‘wanted a DNA test but, in [his] heart, they are [his] kids.’ ”
+He then stated he was not interested in taking a DNA test. C.M.
+expressed interest in obtaining custody of the children, but he
+had minimal contact with them and had not seen them in nine
+years.
+       C.M. claimed that mother was “ ‘always abusing the kids’ ”;
+she had previously broken Je.’s arm, although C.M. could not
+remember when this occurred; and mother “ ‘screams, yells, hits,
+and bites people.’ ” However, C.M. also reported that he had
+lived in Nevada from 2013 to 2023 and had only moved back to
+California a few months earlier.
+       In August 2023, C.M. filed a second parentage
+questionnaire. C.M. stated that he was not present at the
+
+
+
+
+                                  4
+children’s birth, was not married to or living with mother at the
+time of the children’s conception and birth, had not raised the
+children jointly with another adult, had not received the children
+into his home, and had not completed a parentage test. However,
+C.M. stated he held himself out openly as Jo. and Je.’s father.
+       At the August 2023 jurisdiction and disposition hearing,
+the juvenile court found E.B. to be the presumed father of Jo. and
+Je. The court found C.M. remained an alleged father only.
+C.M.’s counsel argued the failure to protect allegation against
+C.M. should be stricken because he had not seen the children in
+years and there was no evidence that C.M. knew of mother’s
+mental and emotional problems.
+       The juvenile court amended the petition to remove
+allegations that E.B. failed to protect the children and sustained
+the petition as amended. The juvenile court stated: “I’m going to
+leave [C.M.] in . . . as a failure to protect in that he should have
+known.” However, the amended petition did not reflect this
+change. The court ordered family reunification services for C.M.,
+including individual counseling, parenting courses, and
+monitored phone visitation.
+       C.M. timely appealed.
+                             DISCUSSION
+       C.M. contends there is insufficient evidence to support the
+court’s jurisdictional findings that he knew that mother posed a
+danger to Jo. and Je. and that he failed to protect them, citing his
+limited contact with the children and his lack of custody or
+visitation rights. DCFS argues that the appeal is nonjusticiable
+
+
+
+
+                                 5
+and we should not exercise our discretion to reach the merits. We
+agree with DCFS.
+I.     The Appeal is Moot
+       “It is a fundamental principle of appellate practice that an
+appeal will not be entertained unless it presents a justiciable
+issue.” (In re I.A. (2011) 201 Cal.App.4th 1484, 1489 (I.A.),
+overruled on another ground in In re D.P. (2023) 14 Cal.5th 266,
+283 (D.P.).) “An important requirement for justiciability is the
+availability of ‘effective’ relief—that is, the prospect of a remedy
+that can have a practical, tangible impact on the parties’ conduct
+or legal status.” (I.A., at p. 1490.)
+       It is further well established that “ ‘[w]hen a dependency
+petition alleges multiple grounds for its assertion that a minor
+comes within the dependency court’s jurisdiction, a reviewing
+court can affirm the juvenile court’s finding of jurisdiction over
+the minor if any one of the statutory bases for jurisdiction that
+are enumerated in the petition is supported by substantial
+evidence. In such a case, the reviewing court need not consider
+whether any or all of the other alleged statutory grounds for
+jurisdiction are supported by the evidence.’ [Citation.]” (In re I.J.
+(2013) 56 Cal.4th 766, 773.) “Thus, where jurisdictional findings
+have been made as to both parents but only one parent brings a
+challenge, the appeal may be rendered moot. [Citation.]” (D.P.,
+supra, 14 Cal.5th at p. 283.)
+       C.M. does not challenge the jurisdictional findings as to
+mother. Thus, even if he were to prevail on appeal, Jo. and Je.
+would remain dependents of the juvenile court. (D.P., supra, 14
+Cal.5th at pp. 283–284; I.A., supra, 201 Cal.App.4th at pp. 1492–
+1493.)
+
+
+
+
+                                 6
+       C.M. nevertheless argues that the appeal is not moot
+because the determination that he is an offending parent “may
+play a significant role” in future custody proceedings in the
+juvenile court or family court. A determination that a parent is
+offending, standing alone, is insufficient to establish that the case
+is not moot. (See D.P., supra, 14 Cal.5th at p. 277 [stigma alone
+is insufficient to sustain an appeal; stigma must be paired with
+effect on plaintiff’s legal status]; see also In re Destiny D. (2017)
+15 Cal.App.5th 197, 209 [whether parent is offending or non-
+offending is “not necessarily outcome determinative” and does not
+limit juvenile court’s ability to issue custody and visitation orders
+to further child’s best interests].) Rather, “a case is not moot
+where a jurisdictional finding affects parental custody rights
+[citation], curtails a parent’s contact with his or her child
+[citation], or ‘has resulted in [dispositional] orders which continue
+to adversely affect’ a parent [citation].” (D.P., at pp. 277–278.)
+       As an alleged father, C.M. was “ ‘ “not entitled to custody,
+reunification services, or visitation.” ’ [Citation.]” (In re A.H.
+(2022) 84 Cal.App.5th 340, 350.) And, as C.M. acknowledged in
+his opening brief, he had neither custody of Jo. and Je. nor
+visitation with the children prior to these proceedings. Here,
+instead of restoring rights to C.M., reversal of the juvenile court’s
+jurisdiction finding and resulting disposition orders would result
+in the loss of visitation rights. (Cf. In re J.K. (2009) 174
+Cal.App.4th 1426, 1431–1432 [despite termination of jurisdiction,
+findings that presumed father forcibly raped and physically
+
+
+
+
+                                 7
+abused daughter were not moot because of adverse effect on
+custody rights].)1
+       Because C.M. fails to identify any adverse legal effect of the
+court’s jurisdictional finding or effective relief this court could
+provide to him, the appeal is moot.
+II.    We Decline To Decide the Merits of This Appeal
+       Even if a case is moot, “courts may exercise their ‘inherent
+discretion’ to reach the merits of the dispute.” (D.P., supra, 14
+Cal.5th at p. 282.) That discretion is generally exercised “when
+‘the case presents an issue of broad public interest that is likely
+to recur,’ ‘when there may be a recurrence of the controversy
+between the parties,’ or ‘when a material question remains for
+the court’s determination.’ [Citations.]” (Ibid.) Because
+dependency proceeding appeals are “particularly prone to
+mootness problems” (id. at p. 284), our high court has identified a
+non-exhaustive list of factors for assessing whether a court
+should exercise discretionary review of a moot appeal in a
+dependency proceeding. (Id. at pp. 285–286.) A court ultimately
+“should be guided by the overarching goals of the dependency
+system” in deciding whether to exercise that discretion on a case-
+by-case basis. (Id. at p. 286.)
+       Among the factors we may consider is “whether the
+challenged jurisdictional finding ‘could be prejudicial to the
+appellant or could potentially impact the current or future
+
+1      C.M. did not challenge the court’s disposition orders in his
+opening brief. On reply, he contends the appeal is not moot
+because the disposition orders “affected Father’s custodial and
+visitation rights.” This argument is forfeited. In any event, as
+discussed, C.M. did not have custodial or visitation rights and
+fails to establish that the disposition orders adversely affected
+him.
+
+
+
+
+                                  8
+dependency proceedings,’ or ‘ “could have other consequences for
+[the appellant], beyond jurisdiction.” ’ [Citations.]” (D.P., supra,
+14 Cal.5th at p. 285.) As discussed, C.M. contends that his status
+as an offending parent could play a “significant role” in potential
+future custody determinations. However, at the time of the
+court’s orders, C.M. had not seen the children for nine years. He
+is currently an alleged father only and he declined a DNA test to
+determine whether he is Jo. and Je.’s biological father. He has
+not challenged the juvenile court’s paternity finding determining
+he is an alleged father and rejecting his request to be deemed the
+children’s presumed father. His failure to establish parentage is
+more likely to prejudice him with respect to a future custody
+determination than the juvenile court’s jurisdictional findings.
+       Our high court has also indicated that we may consider
+“whether the jurisdictional finding is based on particularly
+pernicious or stigmatizing conduct” when deciding whether
+discretionary review is proper. (D.P., supra, 14 Cal.5th at
+pp. 285–286.) “The more egregious the findings against the
+parent, the greater the parent’s interest in challenging such
+findings.” (Id. at p. 286.) Here, the conduct, or lack thereof,
+forming the basis of the findings against C.M. is not so egregious
+that it warrants the review of an otherwise nonjusticiable appeal.
+       We “may also consider why the appeal became moot.
+Where a case is moot because one parent appealed and not the
+other, but the findings against the parent who has appealed are
+based on more serious conduct, it may serve the interest of justice
+to review the parent’s appeal.” (D.P., supra, 14 Cal.5th at p. 286.)
+The opposite is true here. The unchallenged findings concerning
+mother are based on far more serious and disturbing conduct
+than the findings made with respect to C.M.
+
+
+
+
+                                 9
+     Considering these factors and the overarching goals of the
+dependency system, we decline to exercise our discretion to
+address the moot issues raised in this appeal.2
+
+
+
+
+2      Even if we were to reach the merits of the appeal, we would
+conclude that substantial evidence supports the juvenile court’s
+jurisdictional findings. Welfare and Institutions Code
+section 300, subdivision (b)(1), “requires no more than the
+parent’s ‘failure or inability . . . to adequately supervise or protect
+the child.’ [Citations.]” (In re R.T. (2017) 3 Cal.5th 622, 629.)
+Although C.M.’s involvement with Jo. and Je. was limited, C.M.
+claimed to be in contact with the children and was, by his own
+admission, aware of mother’s mental health struggles and her
+past physical abuse of the children. Indeed, he understood this
+abuse to be severe, as he believed mother had previously broken
+Je.’s arm. Thus, there is evidence to support a finding that he
+knew the children were at risk from mother’s abuse, yet he failed
+to take any steps to protect them.
+
+
+
+
+                                  10
+                      DISPOSITION
+    The appeal is dismissed.
+    NOT TO BE PUBLISHED IN THE OFFICIAL
+REPORTS
+
+
+
+
+                             ADAMS, J.
+
+
+
+We concur:
+
+
+
+
+             EDMON, P. J.
+
+
+
+
+             EGERTON, J.
+
+
+
+
+                        11

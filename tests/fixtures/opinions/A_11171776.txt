@@ -1,0 +1,197 @@
+cl_opinion_id: 11171776
+cluster: 10705189
+docket: A167782A
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Curry CA1/4
+----
+Filed 10/16/25 P. v. Curry CA1/4
+Opinion following transfer from Supreme Court
+                  NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or
+ordered published for purposes of rule 8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                      FIRST APPELLATE DISTRICT
+
+                                                  DIVISION FOUR
+
+
+ THE PEOPLE,
+      Plaintiff and Respondent,                                          A167782
+      v.
+ RENARD RICKY CURRY,                                                     (Contra Costa County
+      Defendant and Appellant.                                           Super. Ct. No. 05001407857)
+
+
+           This case comes before us on remand from the Supreme Court with
+directions to vacate our decision reversing the denial of Renard Ricky Curry’s
+Penal Code section1172.61 resentencing petition and to reconsider the cause
+in light of the recently decided People v. Patton (2025) 17 Cal.5th 549
+(Patton). Patton disapproved case law limiting the trial court’s ability to
+consider preliminary hearing testimony in determining whether a petitioner
+has made a prima facie showing of entitlement to resentencing. (Id. at
+pp. 568–569 & fn.12.) In view of this, we now affirm the trial court’s order.
+
+
+
+
+           1 Originally codified as section 1770.95 and renumbered effective
+
+June 30, 2022, with no change in the text. (Stats. 2022, ch. 58, §10.) For ease
+of reference, we use the current citation throughout.
+Unless otherwise noted, further undesignated statutory citations are to the
+Penal Code
+                                BACKGROUND
+1. Legal Principles
+      Effective 2019, the Legislature amended our state’s felony murder law
+“ ‘to ensure that murder liability is not imposed on a person who is not the
+actual killer, did not act with the intent to kill, or was not a major participant
+in the underlying felony who acted with reckless indifference to human life.’ ”
+(People v. Lewis (2021) 11 Cal.5th 952, 959 (Lewis).) Subsequent legislation
+clarified that relief under section 1172.6 extends to manslaughter and
+attempted murder under the natural and probable consequences doctrine.
+(People v. Glass (2025) 110 Cal.App.5th 922, 926; Patton, supra, 17 Cal.5th at
+p. 558.) As a consequence, malice may no longer be imputed to a homicide
+defendant solely because they participated in another crime. (Patton, at
+p. 558.)
+      A defendant seeking relief from a murder conviction under a theory
+disallowed by these amendments may petition the trial court to vacate the
+conviction and for resentencing on any remaining counts. (§1172.6,
+subd. (a).) To do so, the petitioner must first file a facially sufficient petition
+stating that, among other allegations, he or she could not presently be
+convicted of murder or attempted murder due to the 2019 amendments.
+(§1172.6, subds. (a), (b)(1)(A); Patton, supra, 17 Cal.5th at pp. 558–559.)
+      If the court finds the petition facially sufficient, the petitioner is
+appointed counsel; the prosecution must, and the petitioner may, submit
+briefing; and the court holds a hearing to determine whether the petition
+establishes a prima facie case for relief. (§1176.2, subd. (c); Patton, supra,
+17 Cal.5th at p. 559.) At this stage the court may not reject the petition’s
+factual allegations on credibility grounds unless they are refuted by facts in
+the underlying record of conviction. (Patton, at p. 563; Lewis, supra,
+
+                                         2
+11 Cal.5th at pp. 970–971.) If they are not, the court proceeds to an
+evidentiary hearing at which the People have the burden of proving beyond a
+reasonable doubt that the petitioner is guilty under the amended law.
+(§1172.6, subds. (c), (d); Patton, at p. 559.)
+2. Factual and Procedural History
+      This factual summary is taken from the transcript of the preliminary
+hearing preceding Curry’s plea.2
+      Curry believed Timothy Smith, Jr., had robbed him and his brother of a
+gun. Several months later a sole assailant approached Smith, shot him once
+in the head, then fled to a waiting car and told passengers Demetria T. and
+Brian F. that he had “handled his business.” Both passengers identified
+Curry as the shooter. The person depicted in video surveillance footage of the
+shooting was of similar height, build, and complexion to Curry.
+      Brian F.’s brother tentatively identified the assailant in the footage as
+Brian F., who bears some resemblance to Curry but, he testified, had a large
+beard at the time of the shooting. The person depicted on the surveillance
+footage did not. A bystander who witnessed the shooting eliminated Brian F.
+as the culprit from a photographic lineup.
+      Curry pleaded no contest to voluntary manslaughter and four related
+felonies and admitted personally using a firearm and committing
+manslaughter while on bail. He stipulated as the factual basis of his plea
+
+
+      2 We denied the People’s motion to judicially notice this transcript
+
+when we originally considered Curry’s appeal. (See Mangini v. R.J. Reynolds
+Tobacco Co. (1994) 7 Cal.4th 1057, 1063 [only relevant matters are subject to
+judicial notice], overruled on another point in In re Tobacco Cases II (2007)
+41 Cal.4th 1257, 1276.) In view of Patton, supra, 17 Cal.5th 549, we now
+grant the motion pursuant to Evidence Code sections 452, subdivision (d),
+and 459.
+
+                                          3
+that a finder of fact who heard the evidence against him could find him
+guilty. The court sentenced him to an aggregate prison term of 25 years and
+8 months.
+      In 2022, Curry petitioned the trial court for resentencing under
+section 1172.6. He alleged by checking boxes on a preprinted form that he
+was entitled to relief because, as relevant here, he could not presently be
+convicted of murder due to the 2019 changes to the Penal Code. Neither the
+form petition nor Curry’s supporting brief raised factual allegations about the
+shooting, and he submitted on the pleadings at the prima facie hearing.
+      At that hearing, the court expressly declined to consider the
+preliminary hearing transcript but determined from the remainder of the
+underlying record that Curry was the actual killer. It explained Curry was
+the only person charged with malice aforethought murder with personal and
+intentional discharge of a firearm causing great bodily injury or death; that
+he pled to voluntary manslaughter with gun use, false imprisonment by
+violence of the same victim, carrying a loaded firearm, and other crimes all
+occurring on the same day; and that he stipulated to the factual basis of his
+plea. “Just looking at the record of conviction, not even considering the
+transcript from the preliminary hearing, just looking at that, there’s no
+possibility that anybody but Mr. Curry was the actual killer.”
+      Curry appealed, asserting the record of conviction failed to foreclose the
+possibility that he could presently be convicted under a now-invalid theory of
+murder liability. The Attorney General responded that the record including
+the preliminary hearing transcript conclusively established Curry was the
+actual killer, and invited this court to reconsider our conclusion in People v.
+Davenport (2021) 71 Cal.App.5th 476 (Davenport), later disapproved in
+Patton, supra, 17 Cal.5th at p. 569 & fn. 12, that courts may not rely on
+
+                                        4
+preliminary hearing testimony to deny a petition at the prima facie stage
+unless–as was not the case here–the petitioner had stipulated to it as a
+factual basis for the plea. (See Davenport, at p. 481; but see, contra, People v.
+Pickett (2023) 93 Cal.App.5th 982, 992, review dism. July 9, 2025
+[disagreeing with Davenport]); People v. Muhammad (2024) 107 Cal.App.5th
+268, 279–281, review dism. July 9, 2025 [petition properly denied where
+preliminary hearing transcript established petitioner was convicted on theory
+he was the actual perpetrator].)
+      We declined that invitation, noting the issue was then pending in the
+Supreme Court. Finding the record insufficient to refute Curry’s allegations
+without the preliminary hearing evidence, we reversed.
+      The Court subsequently issued its opinion in Patton, supra, 17 Cal.5th
+549, and remanded to this court with directions to vacate our decision and
+reconsider the cause in light of its holding. (People v. Curry (July 16, 2025,
+S287780).) We do so now.
+                                   ANALYSIS
+      We agree with the Attorney General that, on the full record, Curry is as
+a matter of law ineligible for section 1172.6 relief. Expressly disapproving
+Davenport, supra, 71 Cal.App.5th 476, Patton holds the trial court may
+properly rely on unchallenged facts in a preliminary hearing transcript to
+refute conclusory allegations in a form petition regardless of whether the
+petitioner stipulated to the transcript as the factual basis of their plea.
+(Patton, supra, 17 Cal.5th at p. 564.) Here, the preliminary hearing
+testimony supports only the theory that Curry was the shooter. Moreover,
+that he alone was charged and admitted to personally using a handgun in
+committing manslaughter further indicate he was the sole, direct
+perpetrator.
+
+                                        5
+      Confronted with a record containing “unchallenged, relief foreclosing
+facts” (Patton, supra, 17 Cal.5th at p. 569), Curry proffered only conclusory
+allegations and speculation that some unidentified culprit, not he, could have
+been the direct perpetrator. “[A] section 1172.6 petitioner who, despite
+having access to counsel upon submission of a facially sufficient petition,
+offers only conclusory allegations of entitlement to relief, in response to a
+record of conviction that demonstrates the petitioner’s conviction was under a
+still-valid theory, has not, thereby, made a prima facie showing.” (Patton, at
+p. 565.) That is the case here.
+                                  DISPOSITION
+      Our original opinion in this matter is vacated. The trial court’s order
+denying Curry’s resentencing petition is affirmed.
+
+                                            CLAY, J.*
+
+WE CONCUR:
+
+BROWN, P. J.
+GOLDMAN, J.
+
+
+
+
+*Judge of the Alameda Superior Court, assigned by the Chief Justice
+
+pursuant to article VI, section 6 of the California Constitution.
+
+                                        6

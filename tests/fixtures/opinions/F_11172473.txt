@@ -1,0 +1,556 @@
+cl_opinion_id: 11172473
+cluster: 10705886
+docket: F089050
+date: 2025-10-17
+status: Unpublished
+type: 010combined
+field: plain_text
+case: Perez v. City of Bakersfield CA5
+----
+Filed 10/17/25 Perez v. City of Bakersfield CA5
+
+
+
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+
+
+              IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                       FIFTH APPELLATE DISTRICT
+
+ ADOLPH PEREZ, JR., et al.,
+                                                                                             F089050
+           Plaintiffs and Appellants,
+                                                                            (Super. Ct. No. BCV-23-102754)
+                    v.
+
+ CITY OF BAKERSFIELD,                                                                     OPINION
+           Defendant and Respondent.
+
+
+
+         APPEAL from an order of the Superior Court of Kern County. Gregory A.
+Pulskamp, Judge.
+         Loeb & Loeb, Bernard R. Given II and Jennifer G. Kahn, for Plaintiffs and
+Appellants.
+         Virginia A. Gennaro, City Attorney, and Ashley E. Zambrano, Deputy City
+Attorney, for Defendant and Respondent.
+                                                        -ooOoo-
+         This is a property damage dispute between appellants Adolph Perez, Jr. (Perez)
+and Champion Property and Investment, Inc. (Champion) (collectively appellants) and
+respondent the City of Bakersfield (the City). The trial court sustained the City’s third
+demurrer and dismissed appellants’ complaint without leave to amend. In this appeal,
+appellants contend that the court erred by: (1) implicitly finding that Perez lacked
+standing to bring suit; (2) finding that Champion’s claims were barred by the California
+Government Claims Act’s (Government Code section 810 et seq.)1 (GCA) six-month
+limitations period to bring suit; and (3) sustaining the demurrer without leave to amend.
+We conclude that the trial court correctly found that Perez lacked standing to bring suit,
+but erred by finding that Champion failed to meet the GCA’s limitation period and that
+the complaint failed to plead a sufficient claim. Accordingly, we affirm in part, reverse
+in part, and remand for further proceedings.
+                            FACTUAL BACKGROUND
+       General Background
+       Champion owns a building located at 2011 Chester Avenue in Bakersfield (the
+Property). Perez operates and manages the Property. Perez is also Champion’s CEO,
+CFO, Secretary, Director and agent for service of process.
+       In December 2020, a fire broke out near the Property, as well as near the building
+next door at 2010 Chester Avenue. The Property and 2010 Chester Avenue sustained
+some fire damage. The City did not require the owner of 2010 Chester Avenue to
+demolish the building but allowed him to board up the building instead.
+       On September 8, 2022,2 appellants received a notice from the City addressed to
+Champion. The notice was a 48-hour notice of summary abatement of a public nuisance
+pertaining to the Property. The notice explained that the City had determined the
+Property was an immediate hazard and danger to the public and that the City could abate
+the danger within 48 hours. The City also placed a lien on the Property, which prevented
+the Property from being sold.
+
+
+
+       1 All further statutory references are to the Government Code.
+
+       2 All references to dates are to dates in 2022 unless otherwise stated.
+
+
+
+                                               2.
+       On September 23, the City demolished the Property’s support walls. The City
+never provided appellants with an engineering inspection and report. Because of this
+failure, appellants were not given a sufficient opportunity to have support beams installed
+on the Property.
+       Sometime around October 19, the City entered into an independent contractor’s
+agreement with Gilliam & Sons, Inc. (Gilliam) to demolish the Property. The City’s
+agreement with Gilliam estimated that demolition/work was to begin on the Property on
+September 25, and be completed by November 24. However, Gilliam abandoned work
+on the Property, which led to the Property becoming a dangerous condition to public
+safety. The nature of Gilliam’s work was inherently dangerous and was likely to create a
+peculiar risk of harm unless special precautions were taken. Appellants allege that
+Gilliam was negligent in the performance of its duties and that the City is liable for
+Gilliam’s negligence. Appellants allege this negligence rendered the Property completely
+unusable and that approximately $1.3 million is needed for redevelopment.
+       GCA Claim
+       On February 7, 2023, Perez “on behalf of [Champion]” filed a GCA claim with the
+City. The GCA claim identifies the date of the incident in question as September 23,
+2022. The GCA claim identifies the circumstances of the incident as follows: “The
+[C]ity committed waste by destroying the building’s support walls as well as trespassing
+and violation of due process and disparate treatment in failing to allow time for support
+beams to be erected. The [C]ity failed to provide [an] engineer report to claimant and did
+not allow me time to have support beams installed on the [P]roperty similar to the support
+beams with [2010 Chester Avenue] on the same block.” The GCA claim identified
+$800,000 in damages.
+       On February 28, 2023, the City denied in writing Champion’s GCA claim.
+
+
+
+
+                                             3.
+                            PROCEDURAL BACKGROUND
+       On August 18, 2023, Perez filed an original complaint (OC) in the Kern County
+Superior Court against the City for damage done to the Property. The OC identified
+Perez individually as the sole plaintiff. The OC alleged in part that the City destroyed the
+building’s support walls without giving Perez sufficient time to stabilize the building.
+The OC alleged two claims against the City, one for “damages” and one for “release of
+lien.” The OC sought $800,000 in damages.
+       On September 29, 2023, Perez filed a first amended complaint (FAC). Like the
+OC, the FAC alleged that the City destroyed the Property’s support walls and included a
+claim for “damages” and a claim for “release of lien.” The FAC sought $1.3 million in
+damages.
+       On January 10, 2024, the trial court sustained the City’s demurrer and dismissed
+the FAC with leave to amend.
+       On January 25, 2024, Perez filed a second amended complaint (SAC). The SAC
+added Champion as a plaintiff and alleged that Champion owns the Property and Perez
+manages the Property. The SAC also identified Gilliam as the City’s contractor who
+abandoned the abatement efforts at the Property. The SAC again alleged that the
+Property’s support walls were destroyed without providing appellants sufficient time to
+erect support beams. The SAC also included two causes of action, one for “waste”
+(based in part on damage done to the Property) and one for “release of lien.” The SAC
+sought $1.3 million in damages, but did not differentiate any rights, injuries, or damages
+as between Perez and Champion.
+       On May 20, 2024, the trial court sustained the City’s demurrer and dismissed the
+SAC with leave to amend.
+       On May 30, 2024, appellants filed the third amended complaint (TAC). The TAC
+included Perez and Champion as plaintiffs and requested the same $1.3 million in
+damages. The TAC alleged that the City failed to provide sufficient time to erect support
+
+                                             4.
+beams on the Property and that Gilliam abandoned the abatement project. The TAC
+dropped the prior claims for “damages” and “release of lien.” Instead, the TAC alleged
+two negligence claims against the City, the first one for vicarious liability for the acts of
+Gilliam. The TAC sought $1.3 million in damages and did not differentiate the injuries,
+rights, and damages of Perez and Champion.
+       On August 27, 2024, the City filed a demurrer to the TAC. The demurrer argued
+in part that: Perez lacked standing, Champion’s claims were barred by the six-month
+GCA limitation period for filing suit, and the TAC failed to sufficiently allege any causes
+of action.
+       On October 30, 2024, the trial court sustained the City’s demurrer and dismissed
+the TAC without leave to amend. The court’s order in relevant part stated: “The Court
+sustains [the City’s] demurrer to the [TAC], finding each ground raised by [the City]
+meritorious. The pleadings continue to fail to allege full compliance with [the section]
+945.4 prefiling requirements as to the separate and distinct claims of [Perez] and
+[Champion]. The Court also finds that [Champion]’s claims are barred by the statute of
+limitations.”
+                                     DISCUSSION
+I.     Standing of Perez
+       A.       Parties’ Arguments
+       Perez argues the trial court’s implicit ruling that he did not have standing was
+erroneous. Perez argues that he has standing because he was acting on behalf of
+Champion and has incurred expenses on behalf of Champion due to the City’s abatement
+efforts. Perez also argues that he is the legal owner of the Property because he is the sole
+owner and officer of Champion, and Champion owns the Property.
+       The City argues in part that Perez has failed to establish standing. The City argues
+that Perez is improperly attempting to assert Champion’s damages as his own and is
+blurring the distinction between himself as an individual and Champion as a corporation.
+
+                                              5.
+Because Champion is the owner of the Property, the City argues that Perez does not have
+standing to bring claims for damage to the Property.
+       B.     Legal Standard
+       Our Supreme Court has explained that, “in order to have standing, the plaintiff
+must be able to allege injury – that is, some ‘invasion of the plaintiff’s legally protected
+interests.’ ” (Angelucci v. Century Supper Club (2007) 41 Cal.4th 160, 175.) By statute,
+“[e]very action must be prosecuted in the name of the real party in interest[.]” (Code Civ.
+Proc., § 367.) “ ‘[T]he real party in interest is the party who has title to the cause of
+action, i.e. the one who as the right to maintain the cause of action’ – ‘the owner of the
+cause of action.’ ” (Lazar v. Bishop (2024) 107 Cal.App.5th 668, 677.) If a plaintiff
+lacks standing because he is not the real party in interest, the complaint is subject to a
+demurrer. (Cloud v. Northrop Grumman Corp. (1998) 67 Cal.App.4th 995, 1004
+(Cloud).) The plaintiff has the burden to allege sufficient facts that establish standing.
+(Mendoza v. JPMorgan Chase Bank, N.A. (2016) 6 Cal.App.5th 802, 809.)
+       C.     Analysis
+        It is well established that, “ ‘[g]enerally, “a corporation is a distinct legal entity,
+separate from its shareholders and officers.” ’ ” (Twenty-Nine Palms Enterprises Corp. v.
+Bardos (2012) 210 Cal.App.4th 1435, 1450 (Twenty-Nine Palms); Gottlieb v. Kest (2006)
+141 Cal.App.4th 110, 150.) As a distinct legal entity, a corporation has separate and
+distinct liabilities and obligations from its officers and shareholders. (Turman v. Superior
+Court (2017) 17 Cal.App.5th 969, 980 (Turman); Sonora Diamond Corp. v. Superior
+Court (2000) 83 Cal.App.4th 523, 528.) Further, because a corporation is its own distinct
+legal entity, “ ‘when a corporation has suffered an injury to its property the corporation is
+the party that possesses the right to sue for redress.’ ” (Denevi v. LGCC, LC (2004)
+121 Cal.App.4th 1211, 1216, fn. 3; Desaigoudar v. Meyercord (2003) 108 Cal.App.4th
+173, 183.) In this case, these principles establish that Champion as the owner of the
+Property, and not Perez who is merely a shareholder and an officer of Champion, is the
+
+                                               6.
+real party in interest for claims regarding damage to the Property. Perez’s arguments to
+the contrary run afoul of these principles because they conflate Perez with Champion.
+       First, Perez argues that he has standing because he has incurred significant
+expenses on behalf of Champion to repair damage to the Property. However, if the
+expenses were on behalf of Champion as represented by Perez, then the expenses were
+actually those of Champion. That is, if Champion obtained the funds to pay the expenses
+from Perez, then Champion owes a debt to Perez. Simply because Champion utilized
+Perez to pay its expenses does not mean that the expenses then became those of Perez or
+even Champion and Perez. Champion as a corporation remains a distinct legal entity
+from Perez, and the obligations of Champion, including the obligation to pay repair
+expenses, are its own and not those of Perez as an individual. (See Turman, supra,
+17 Cal.5th at p. 980; Twenty-Nine Palms, supra, 210 Cal.App.4th at p. 1450.)
+       Second, Perez argues that he has standing to sue as a representative of Champion.
+However, Champion does not require a representative to sue on its behalf. Champion is
+its own legal entity, has its own legal counsel, and is a plaintiff in this matter. Thus,
+Champion is already acting on its own behalf and protecting its own interests. Moreover,
+Perez’s briefing establishes that he contends that Champion’s harm and his own harm are
+identical and not separate or distinct. That is, Perez does not contend that he suffered
+damages in relation to the Property that are distinct from Champion’s damages. Under
+these circumstances, Perez’s presence as a “dual plaintiff” in this case is redundant and
+serves no discernable purpose, particularly not one that is sufficient to establish Perez’s
+individual standing.3 (Stanford v. Unemployment Ins. Appeal Bd. (1983) 147 Cal.App.3d
+
+
+       3 We hasten to add that Perez, who holds multiple officer positions within
+Champion, can act and make decisions on Champion’s behalf. (Burdette v. Carrier
+Corp. (2008) 158 Cal.App.4th 1668, 1689 [“ ‘[A] corporation … may act only through its
+officers, agents, and employees.’ ”].) However, simply because Perez as an officer can
+act on behalf of Champion does not mean that Perez may act as a “dual plaintiff” on
+behalf of Champion in the same litigation. (Twenty-Nine Palms, supra, 210 Cal.App.4th
+
+                                              7.
+98, 104–105 [holding that a union was an unnecessary party that failed to state a claim
+because the union was not pursuing claims different from its member who was already a
+plaintiff in the action]; cf. (Twenty-Nine Palms, supra, 210 Cal.App.4th at p. 1450 [“The
+fact that Bardos is the responsible managing officer for BCI does not dissolve BCI’s
+corporate status—BCI is its own legal entity.”].).)
+       Third, Perez argues that he is a legal owner of the property because he is the sole
+owner of Champion and also occupies all of Champion’s officer positions. Again, this
+argument ignores the nature of Champion. As a corporation, Champion is a distinct legal
+entity that is separate from Perez in his capacities as an individual, as an officer of
+Champion, and as Champion’s sole shareholder. (Twenty-Nine Palms, supra, 210
+Cal.App.4th at p. 1450.) Perez cites no authority that would allow him to “dissolve” the
+separate legal status of Champion in order to treat Champion and himself as one and the
+same or to treat Champion’s assets as his own personal assets. Perez is essentially
+attempting to utilize a form of offensive veil piercing or alter ego theory. In other words,
+he wishes us to disregard Champion’s separate corporate form for a perceived benefit to
+himself in this litigation. However, the alter ego doctrine is designed to allow a plaintiff
+to obtain assets from an individual, even though the debt or wrong is that of a defendant
+corporation, because there is a unity of interests in the corporation and the individual and
+an inequitable result will otherwise occur. (Turman, supra, 17 Cal.App.5th at pp. 980–
+981; Bellerue v. Business Files Institute, Inc. (1963) 215 Cal.App.2d 383, 398–399.) The
+circumstances of this case in no way resemble when the alter ego doctrine is applied. We
+will not sanction Perez’s novel theory or disregard Champion’s separate corporate
+existence. (See Twenty-Nine Palms, supra, 210 Cal.App.4th at p. 1450.)
+
+
+
+
+at p. 1450 [“The fact that Bardos is the responsible managing officer for BCI does not
+dissolve BCI’s corporate status—BCI is its own legal entity.”].)
+
+
+                                              8.
+       In sum, Perez has failed to establish his standing, and the trial court properly
+dismissed him from the lawsuit.
+II.    Champion’s Compliance with the GCA
+       A.     Parties’ Arguments
+       Champion argues that the trial court erred by dismissing its claims as untimely
+under the GCA. Champion contends that its claims meet the requirements of the relation
+back doctrine because they rest on the same general set of facts as the OC and the same
+rights and remedies are at issue. Champion argues that since the relation back doctrine
+applies, his claims relate back to the OC and are considered timely filed.
+       The City argues the trial court correctly held that Champion’s claims were barred
+by the GCA’s six-month limitations period for filing a lawsuit. The City argues that the
+relation back doctrine does not apply because Champion is a distinct legal entity that is
+seeking to enforce an independent right as the owner of the Property, which is different
+from the claims pursued by Perez.
+       B.     Legal Standards
+              1.     GCA
+       Under the GCA, a claimant seeking money damages against a public entity must
+file an initial claim with the public entity. (§ 905; DiCampli-Mintz v. County of Santa
+Clara (2012) 55 Cal.4th 983, 989—990.) The claim must include the date, place, and
+circumstances of the occurrence giving rise to the claim. (§ 910; City of Stockton v.
+Superior Court (2007) 42 Cal.4th 730, 738.) If the public entity sends a written rejection
+of the claim, the claimant must file a lawsuit within six months of the notice of rejection.
+(§ 945.6, subd. (a)(1); Jimenez v. Chavez (2023) 97 Cal.App.5th 50, 62.) Because the
+six-month limitation period is a true statute of limitations (Shirk v. Vista Unified School
+District (2007) 42 Cal.4th 201, 209), the failure to file suit within the six-month
+limitations period bars the claimant’s claims against the public entity. (Feliz v. County of
+
+
+
+                                             9.
+Orange (2023) 91 Cal.App.5th 927, 933; see also Paniagua v. Orange County Fire
+Authority (2007) 149 Cal.App.4th 83, 89–90.)
+              2.     Relation Back Doctrine
+       Under the relation back doctrine, “a court deems an amended complaint to have
+been filed at the time of an earlier complaint.” (Hutcheson v. Superior Court (2022)
+74 Cal.App.5th 932, 940 (Hutcheson).) Thus, an amended complaint that relates back to
+the filing of a timely original complaint will avoid the bar of the statute of limitations.
+(Smeltzley v. Nicholson Mfg. Co. (1977) 18 Cal.3d 932, 934 (Smeltzley); River’s Side at
+Washington Square Homeowners Assn. v. Superior Court (2023) 88 Cal.App.5th 1209,
+1241 (River’s Side).) In order for the relation back doctrine to apply, the proposed
+amended complaint must rest on the same general set of facts, involve the same injury,
+and refer to the same instrumentality, as the original complaint. (Branick v. Downey
+Savings & Loan Assn. (2006) 39 Cal.4th 235, 244 (Branick); Engel v. Pech (2023)
+95 Cal.App.5th 1227, 1236 (Engel).) The relation back doctrine may encompass adding
+a new plaintiff as long as the new plaintiff seeks to enforce the same right as the
+previously named plaintiff. (Engel, at pp. 1236–1237.) “An amended complaint relates
+back to the original complaint even if the plaintiff alleges a new legal theory or cause of
+action, so long as the amended complaint is based on the same general set of facts.”
+(Hutcheson, at p. 940.)
+       C.     Analysis
+       There is no dispute that Champion was not a party to this matter until the SAC was
+filed in January 2024, which was beyond section 945.6, subdivision (a)(1)’s six-month
+limitations period for filing a lawsuit. The dispute is whether Champion has shown that
+the relation back doctrine applies. We conclude that Champion has done so.
+       Because Champion was first added to this case as a plaintiff through the SAC, we
+compare the allegations in the OC with the allegations in the SAC. The OC and the SAC
+both complain about damage done to the Property by the City and particularly complain
+
+                                             10.
+that the City destroyed the Property’s support walls without giving appellants sufficient
+time or information to stabilize the Property with support beams. Admittedly, there are
+some differences between the OC and the SAC. In particular, the SAC identifies Gilliam
+as the contractor who was responsible for the City’s abatement efforts on the Property
+and alleges a claim for “waste” instead of a claim for “damages.” However, adding
+further detail about how the City chose to go about its abatement efforts, and changing
+the name of a cause of action from “damages” to “waste,” do not change the fact that
+both the OC and SAC rely on the City causing the support walls to be destroyed without
+affording appellants an adequate opportunity to stabilize the Property. (Hutcheson,
+supra, 74 Cal.App.5th at p. 940.) Accordingly, the claims in the OC and the claims in the
+SAC both rest on the same general set of facts. Further, the allegations in the SAC make
+no distinction between the rights and injuries of Perez and the rights and injuries of
+Champion. That is, the SAC indicates that Champion and Perez suffered the same
+injuries and are pursuing the same rights with respect to damage done to the Property.
+The FAC confirms this conclusion because the FAC and SAC both seek $1.3 million in
+monetary damages and the FAC did not include Champion as a party. The briefing also
+confirms this conclusion. Appellants’ briefing clarifies that the rights and injuries
+pursued by Perez and Champion are identical because Perez and Champion view each
+other as essentially the same entity.
+       From the above, the same general set of facts (the Property’s support beams were
+demolished at the City’s direction), the same injury (property damage), and the same
+instrumentality (personnel who answered to or acted at the City’s behest) are at issue in
+the OC and SAC. This satisfies the elements of the relation back doctrine. (Branick,
+supra, 39 Cal.4th at p. 244; Engel, supra, 95 Cal.App.5th at p. 1236; Hutcheson, supra,
+74 Cal.App.5th at p. 940.) Therefore, the SAC relates back to the timely filed OC,
+(Smeltzley, supra, 18 Cal.3d at p. 934; River’s Side, supra, 88 Cal.App.5th at p. 1241;
+
+
+
+                                            11.
+Hutcheson, at p. 940), and the trial court erred in finding that section 945.6 barred
+Champion’s claims.
+       Even if we compared the TAC with the OC, our conclusion would not change. The
+TAC does not differentiate between the rights and injuries of either Perez or Champion
+with respect to the damage done to the Property, and the briefing confirms that Perez and
+Champion believe and contend their claims are identical and not separate. Further,
+although the TAC added additional detail that the City damaged the Property through the
+acts of Gilliam, the TAC and OC still complain that the City damaged the Property in the
+demolition/abatement process and failed to give appellants time to erect support beams.
+Therefore, the same general set of facts (the Property’s support beams were demolished
+at the City’s direction), the same injury (property damage), and the same instrumentality
+(personnel who somehow answer to or acted at the City’s behest) are at issue in the OC
+and the TAC. (Branick, supra, 39 Cal.4th at p. 244; Engel, supra, 95 Cal.App.5th at p.
+1236; Hutcheson, supra, 74 Cal.App.5th at p. 940.)
+       Additionally, case law has recognized that the general rule is to liberally allow
+amendments and apply the relation back doctrine when the original plaintiff lacks
+standing or authority to sue and the proposed amendment substitutes the real party in
+interest as the plaintiff. (See Engel, supra, 95 Cal.App.5th at pp. 1237-1238; CashCall,
+Inc. v. Superior Court (2008) 159 Cal.App.4th 273, 287–288; Cloud, supra,
+67 Cal.App.4th at pp. 1005–1007; Garrison v. Board of Directors (1995) 36 Cal.App.4th
+1670, 1678.) As discussed above, the trial court correctly found that Perez lacked
+standing to bring claims for damage to the Property. Because Champion is the real party
+in interest as the owner of the Property, permitting Champion to continue to maintain the
+lawsuit as a plaintiff corrects Perez’s lack of standing. Although a true substitution of
+parties did not occur because appellants attempted to pursue this lawsuit together, the
+corrective effect would remain the same because the claims for damage to the Property
+would continue to be pursued by the proper plaintiff and would be decided on the merits.
+
+                                             12.
+(Engel, supra, 95 Cal.App.5th at p. 1238; Garrison, at p. 1678.) Therefore, given
+Champion’s standing and Perez’s lack of standing, permitting Champion to continue the
+lawsuit without Perez is consistent with the liberal policy of substituting the real party in
+interest into a case.
+       In sum, because Champion has established that the relation back doctrine applies,
+the trial court erred by dismissing Champion for failing to comply with the section 945.6
+six-month limitations period.
+III.   Sufficiency of the TAC’s Allegations
+       A.      Parties’ Arguments
+       Appellants argue that the TAC’s first cause of action alleges a vicarious liability
+negligence claim through section 815.4 for the damage done to the Property by Gilliam.
+Appellants contend that, under the peculiar risk doctrine, an employer may be liable for
+the negligent acts of an independent contractor if the independent contractor damages
+land. Because the TAC alleges that the Property was damaged while Gilliam was
+undertaking a peculiar risk, appellants argue that the TAC is sufficient.
+       The City argues that the TAC is uncertain and ambiguous because the claims and
+damages are blended as one and it cannot be determined which plaintiffs are pursuing
+which claims. The City also argues that the claims are barred by the GCA because they
+are outside the scope of Champion’s GCA claim. Specifically, the City contends that
+Gilliam and Gilliam’s actions were not identified as a source of liability. Finally, the
+City argues that the TAC is deficient because it never expressly alleges that Gilliam
+caused harm or damages to the Property.
+       B.      Additional Background
+       The trial court’s order did not make any express findings regarding the sufficiency
+of the TAC’s allegations. However, the order did state that the City’s arguments were
+meritorious. With respect to the sufficiency of the first cause of action under section
+815.4, the City’s demurrer argued the TAC did not establish that the City owed appellants
+
+                                             13.
+a specific duty of care because there were no allegations that the actions of Gilliam
+caused anyone physical harm.
+       C.     Legal Standard
+       In reviewing a demurrer, appellate courts make a de novo determination of
+whether the complaint alleges facts that are sufficient to state a cause of action.
+(Martinez v. City of Clovis (2023) 90 Cal.App.5th 193, 253 (Martinez); Galeotti v.
+International Union of Operating Engineers Local No. 3 (2020) 48 Cal.App.5th 850,
+856.) “ ‘ “ ‘[A] plaintiff is required only to set forth the essential facts of his case with
+reasonable precision and with particularity sufficient to acquaint a defendant with the
+nature, source and extent of his cause of action.’ ” ’ ” (Doe v. City of Los Angeles (2007)
+42 Cal.4th 531, 550.) Less particularity is required when a matter is presumptively
+within the defendant’s knowledge, such as the defendant’s intent. (Thomas v. Regents of
+University of California (2023) 97 Cal.App.5th 587, 611.) The reviewing court gives “
+‘the complaint a reasonable interpretation, reading it as a whole and its parts in their
+context.’ ” (County of Santa Clara v. Superior Court (2023) 14 Cal.5th 1034, 1041;
+Martinez, at p. 253.) The complaint’s factual allegations are assumed to be true, as are
+the reasonable inferences that may be drawn from those facts. (Miklosy v. Regents of
+University of California (2008) 44 Cal.4th 876, 883 (Miklosy); Galeotti, at p. 856.)
+Complaints that allege ultimate facts rather than evidentiary facts are generally sufficient.
+(See Skopp v. Weaver (1976) 16 Cal.3d 432, 438–439; Thomas, supra, 97 Cal.App.5th at
+p. 610; Foster v. Sexton (2021) 61 Cal.App.5th 998, 1019.) Appellate courts “ ‘treat the
+demurrer as admitting all material facts properly pleaded, but do not assume the truth of
+contentions, deductions or conclusions of law.’ ” (County of Santa Clara, at p. 1041;
+Martinez, at p. 253.)
+
+
+
+
+                                              14.
+       D.     Analysis
+              1.     Uncertainty
+       The City argues that the TAC is too uncertain because it blends Perez and
+Champion’s claims and damages. However, any uncertainty in this regard has been
+resolved as a result of this opinion. Because Perez lacks standing, he is no longer a party
+to this action. All claims and damages in the TAC belong only to Champion as the real
+party in interest. Therefore, there is no longer uncertainty.
+              2.     First Cause of Action – Negligence Through Section 815.4
+       Section 815.4 makes a public entity liable for the acts of its independent
+contractors to the same extent that a private person would be liable. (§ 815.4; Stanford v.
+Ontario (1972) 6 Cal.3d 870, 879.) One way that an employer may be liable for the
+negligent acts of an independent contractor is through the peculiar risk doctrine.
+(SeaBright Ins. Co. v. US Airways, Inc. (2011) 52 Cal.4th 590, 598; Henderson Brothers
+Stores, Inc. v. Smiley (1981) 120 Cal.App.3d 903, 910–911 (Henderson Brothers).) “The
+peculiar risk [doctrine] allows lawsuits against those who hire contractors, if the work is
+‘likely to create … a peculiar risk of physical harm to others unless special precautions
+are taken[.]’ ” (SeaBright, at p. 598.)
+       In its demurrer, the City argued that the TAC failed to plead a negligence cause of
+action under section 815.4 because there were no allegations that anyone suffered
+physical harm. We agree that there are no such allegations. However, despite the
+peculiar risk doctrine’s focus on “physical harm to others,” the doctrine has been
+extended to encompass physical harm to land. (Henderson Brothers, supra,
+120 Cal.App.3d at p. 912, fn. 5.) The TAC clearly alleges that the Property has suffered
+physical damage because the building’s support walls were demolished as part of the
+City’s abandoned abatement effort. At this point in the proceedings, we are satisfied that
+the TAC adequately alleges physical harm to the Property. (Ibid.) Therefore, the fact
+that the TAC does not allege that a person suffered physical harm is of no consequence.
+
+                                             15.
+       The City also argues that there are no allegations that Gilliam actually caused the
+damage complained of. It is true that there is not an express allegation that Gilliam
+caused any particular harm. However, we read the TAC as a whole and accept as true all
+facts alleged and the reasonable inferences that are derived from those facts. (Miklosy,
+supra, 44 Cal.4th at p. 883; Martinez, supra, 90 Cal.App.5th at p. 253.) Reading the
+TAC as a whole, it is alleged that Gilliam was engaged to demolish the Property in order
+to abate a public danger. It was estimated that this work would begin around
+September 25, and the Property’s support walls were actually demolished very near that
+date on September 23. No other conduct towards or damage to the Property is identified,
+but it is alleged that Gilliam abandoned the project. The reasonable factual inference
+from these allegations is that Gilliam demolished the support walls on September 23 and
+then abandoned the project, leaving the Property in a worse condition than before the
+demolition. So viewing the TAC, we are satisfied that Gilliam is the party who actually
+demolished the support beams. Therefore, because of the reasonable inferences that flow
+from the facts alleged, the TAC sufficiently shows that Gilliam demolished the support
+beams, damaged the Property, and abandoned the abatement project.
+       The City argues that Gilliam was not identified in Champion’s GCA claim to the
+City. We agree. However, a fatal variance exists between a lawsuit’s complaint and a
+GCA claim when the complaint premises liability on an entirely different factual basis
+than that identified in the GCA claim. (Hernandez v. City of Stockton (2023)
+90 Cal.App.5th 1222, 1232.) This often occurs when a complaint bases liability on acts
+committed at different times or by different people from the acts identified in a GCA
+claim. (Stockett v. Association of Cal. Water Agencies Joint Powers Ins. Authority
+(2004) 34 Cal.4th 441, 447 (Stockett).) Such variances are fatal “because they subvert
+the purpose of the [GCA], which is intended to give the public entity an opportunity to
+investigate and evaluate its potential liability and, where appropriate, avoid litigation by
+settling meritorious claims.” (Hernandez, at p. 1232.) Nevertheless, because a GCA
+
+                                             16.
+claim need not identify each particular act or omission that is later proven to have caused
+the injury, a complaint may elaborate or add further detail to a claim so long as the claim
+is predicated on the same fundamental acts or omissions as those identified in the GCA
+claim. (Stockett, at p. 447.)
+       Here, the general facts identified in the GCA claim are that the City caused
+damage to the Property by destroying the support walls. This key fact has never changed.
+What has changed is that the TAC now provides further detail about how that damage
+occurred. That is, the TAC inferentially shows that the damage was done by Gilliam at
+the City’s direction. Consequently, the TAC alleges that the City is vicariously liable for
+the damage to the Property through section 815.4. The TAC does not shift away from the
+key fact that the City was responsible for damaging the Property by causing the
+destruction of the support beams. Therefore, the fact that the TAC adds further
+elaboration and detail about the cause of the damage, but without premising liability on
+an entirely new set of facts, does not create a fatal variance. (Stockett, supra, 34 Cal.4th
+at p. 447; White v. Superior Court (1990) 225 Cal.App.3d 1505, 1511 [“Both plaintiff’s
+complaint and her [GCA] claim were predicated on the same set fundamental set of acts –
+Officer Sanford’s alleged mistreatment of plaintiff. The causes of action for negligent
+hiring, training, and retention and for failure to train, supervise, and discipline merely
+sought to show direct responsibility of San Francisco for Officer Sanford’s conduct.”].)
+       In sum, because the TAC sufficiently alleges a vicarious liability cause of action
+under section 815.4, the trial court erred in dismissing the first cause of action.4
+
+       4 The City’s responding brief points out that appellants did not make arguments in
+support of the TAC’s second cause of action (which deals with municipal liability under
+section 815.2). Appellants did not raise the second cause of action in their opening brief
+or respond to the City’s point in their reply brief. Moreover, during oral argument before
+us, the City again noted that appellants were making no arguments regarding the second
+cause of action, and appellants said nothing in response. Accordingly, we view this
+appeal as involving only the sufficiency of the TAC’s first cause of action. We express
+no opinions regarding the TAC’s second cause of action.
+
+
+                                             17.
+                                    DISPOSITION
+       The trial court’s order dismissing Perez for lack of standing is affirmed. The
+court’s order dismissing Champion is reversed. This matter is remanded to the Kern
+County Superior Court for further proceedings consistent with this order. Champion is
+awarded its costs on appeal.
+
+
+
+                                                                                 FAIN, J.*
+WE CONCUR:
+
+
+
+LEVY, Acting P. J.
+
+
+
+DETJEN, J.
+
+
+
+
+       *Judge of the Fresno Superior Court, assigned by the Chief Justice pursuant to
+article VI, section 6 of the California Constitution.
+
+
+                                             18.

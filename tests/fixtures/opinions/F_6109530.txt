@@ -1,0 +1,261 @@
+cl_opinion_id: 6109530
+cluster: 6242451
+docket: F080186
+date: 2022-01-21
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Lee CA5
+----
+Filed 1/21/22 P. v. Lee CA5
+
+
+
+
+                  NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+             IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+                                     FIFTH APPELLATE DISTRICT
+
+ THE PEOPLE,
+                                                                                             F080186
+             Plaintiff and Respondent,
+                                                                         (Fresno Super. Ct. No. CF02907322)
+                    v.
+
+ STEPHEN LEE,                                                                             OPINION
+             Defendant and Appellant.
+
+
+
+                                                   THE COURT*
+         APPEAL from a judgment of the Superior Court of Fresno County. Alan M.
+Simpson, Judge.
+         Michelle T. LiVecchi-Raufi, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+         Office of the Attorney General, Sacramento, California, for Plaintiff and
+Respondent.
+                                                        -ooOoo-
+
+
+
+
+         *   Before Levy, Acting P. J., Franson, J. and Meehan, J.
+                                    INTRODUCTION
+       Appellant Stephen Lee pleaded no contest to voluntary manslaughter and
+attempted murder, and he was sentenced to 25 years four months in prison pursuant to a
+negotiated disposition. Thereafter, he filed numerous motions in the superior court and
+asserted he should be resentenced based on subsequent legislative enactments, initiatives,
+and court rulings. These motions were denied, and he filed the instant notice of appeal
+after the denial of his most recent motion for resentencing.
+       On appeal, his appellate counsel has filed a brief that summarizes the facts with
+citations to the record, raises no issues, and asks this court to independently review the
+record. (People v. Wende (1979) 25 Cal.3d 436.) We affirm.
+                              PROCEDURAL HISTORY1
+Plea Proceedings
+       On August 12, 2003, appellant entered into a negotiated disposition in the Superior
+Court of Fresno County and pleaded no contest to count 1, voluntary manslaughter (Pen.
+Code, § 192, subd. (a)),2 and admitted enhancements for personal use of a firearm
+(§ 12022.5, subd. (a)(1)) and that the offense was committed for the benefit of a criminal
+street gang (§ 186.22, subd. (b)(1)(C)). He also pleaded no contest to count 2, attempted
+murder (§§ 664, 187) and admitted a great bodily injury enhancement (§ 12022.7,
+subd. (a)).
+       As part of the negotiated disposition, the court gave an indicated sentence of 25
+years four months in prison. The parties stipulated to a factual basis based on People v.
+West (1970) 3 Cal.3d 595.
+
+
+
+
+       1 The instant record does not include any facts or charging documents that resulted
+in appellant’s convictions. The record of this appeal is limited to the following
+information.
+       2 All further statutory citations are to the Penal Code unless otherwise indicated.
+
+
+
+                                             2.
+Sentence
+       On September 9, 2003, the court held the sentencing hearing and imposed the
+aggregate term of 25 years four months in prison, consistent with the plea agreement:
+count 1, voluntary manslaughter, the lower term of three years, plus consecutive terms of
+10 years for the firearm enhancement3 and 10 years for the gang enhancement4; and
+count 2, attempted murder, a consecutive term of two years four months (one-third the
+midterm of seven years) and stayed the term for the great bodily injury enhancement
+pursuant to section 654.
+                             POSTJUDGMENT MOTIONS
+First Motion for Resentencing
+       On or about April 24, 2016, appellant filed, in pro. per., an ex parte motion for the
+superior court to modify his sentence and argued newly amended sections 1170 and
+1170.1 required imposition of midterms for both the firearm and gang enhancements
+attached to count 1.
+       On May 18, 2016, the court issued an order denying appellant’s motion, and held
+it did not have jurisdiction to rule on the merits of his postjudgment motion “other than to
+
+       3  Former section 12022.5, subdivision (a)(1) stated the enhancement for personal
+use of a firearm was three, four, or 10 years.
+        4 Section 186.22 “provides different levels of enhancement for the base felony if
+that felony is ‘committed for the benefit of, at the direction of, or in association with any
+criminal street gang, with the specific intent to promote, further, or assist in any criminal
+conduct by gang members ....’ [Citation.] If the base felony qualifies as a violent felony
+under the list of felony crimes contained in section 667.5, then ‘the person shall be
+punished by an additional term of 10 years.’ (§ 186.22, subd. (b)(1)(C).) If the base
+felony qualifies as a serious felony under the list of felony crimes contained in section
+1192.7, then ‘the person shall be punished by an additional term of five years.’
+(§ 186.22, subd. (b)(1)(B)). If the base felony qualifies as neither serious nor violent,
+then ‘the person shall be punished by an additional term of two, three, or four years at the
+court’s discretion.’ (§ 186.22, subd. (b)(1)(A).)” (People v. Le (2015) 61 Cal.4th 416,
+422–423 (Le).)
+        Voluntary manslaughter is defined as both a violent felony (§ 667.5, subd. (c)(1))
+and a serious felony (§ 1192.7, subd. (c)(1)).
+
+
+                                             3.
+deny it for lack of jurisdiction.” The court further held that even if it reached the merits,
+appellant was not entitled to relief because he pleaded guilty in return for a specified
+sentence.
+Second Motion for Resentencing
+       On or about February 26, 2017, appellant filed, in pro. per., another ex parte
+motion for the court to modify his sentence and argued the gang enhancement must be
+stricken because of the enactment of Proposition 57.
+       On March 20, 2017, the superior court denied appellant’s motion. 5
+
+
+
+       5   Proposition 57 became effective on November 9, 2016, and applies retroactively
+“to all juveniles charged directly in adult court whose judgment was not final at the time
+it was enacted.” (People v. Superior Court (Lara) (2018) 4 Cal.5th 299, 303–304
+(Lara).) After the enactment of Proposition 47, “ ‘ “[c]ertain categories of minors … can
+still be tried in criminal court, but only after a juvenile court judge conducts a transfer
+hearing to consider various factors such as the minor’s maturity, degree of criminal
+sophistication, prior delinquent history, and whether the minor can be rehabilitated.” ’
+[Citation.] For minors 16 or older, prosecutors can seek transfer to criminal court for any
+felony offense. [Citation.] For 14 and 15 year olds, prosecutors could seek transfer to
+criminal court only for specified serious or violent offenses. [Citations.]” (O.G. v.
+Superior Court (2021) 11 Cal.5th 82, 88–89.)
+        Senate Bill 1391 was enacted in September 2018, became effective on January 1,
+2019, and amended Proposition 57 “by eliminating the transfer of juveniles accused of
+committing crimes when they are 14 or 15 years old, unless they are first apprehended
+after the end of juvenile court jurisdiction. [Citations.] In this way, Senate Bill 1391
+marked a return to the rule in place beginning in 1961 and for close to 34 years thereafter
+– 16 again became the minimum age for transferring a minor to criminal court.
+[Citations.]” (O.G. v. Superior Court, supra, 11 Cal.5th at p. 89.) Senate Bill 1391 is
+retroactive to cases where the judgments were not final before the law went into effect.
+(Lara, supra, 4 Cal.5th at p. 304.)
+        Appellant was not entitled to relief under either Proposition 57 or Senate Bill 1391
+because his 2003 convictions were final when both provisions became effective in,
+respectively, in 2016 and 2019. In addition, the abstract of judgment states appellant,
+born in 1983, committed count 1, voluntary manslaughter, in 2002, and committed
+count 2, attempted murder, in 2003. Appellant was, thus, at least 18 years old, and likely
+19 and 20 years old, when he committed the two offenses and no longer a minor. (Lara,
+supra, 4 Cal.5th at p. 305.)
+
+                                              4.
+The Motion Challenged in the Instant Appeal
+       On July 31, 2019, appellant filed in pro. per., another ex parte motion for
+resentencing, which is the subject of the instant appeal. Appellant stated the district
+attorney must recall his sentence, and the court must resentence him on the firearm and
+gang enhancements attached to count 1, voluntary manslaughter, based on the enactment
+of provisions of section 1170, subdivision (f), “SB 2942,” 6 and People v. Le, supra,
+61 Cal.4th 416. Appellant argued the enhancements were improperly imposed as part of
+his sentence for count 1.
+       On August 13, 2019, the court filed an order denying appellant’s request.
+
+       “This is not [appellant’s] first attempt to extricate himself from the plea
+       bargain by seeking a reduction in his sentence …. Here, [appellant] claims
+       that the Court improperly imposed both the gun and gang enhancements for
+       his conviction for voluntary manslaughter. [Appellant] claims that
+       imposition of both enhancements is contrary to … section 1170.1,
+       subdivision (f). [Appellant] further alleges he ‘meets the 10 year
+       requirement stipulated in SB. [sic] 2942 as it relates to the District
+       Attorney.’ [Appellant] offers no analysis on this point. It appears
+       [appellant] is referencing Senate Bill 2942, enacted in 2018, and which
+       amended provision of … section 1170, subdivision (d)(1) to permit the
+       District Attorney to request a recall of a … felony sentence at any time.
+       Contrary to what is apparently [appellant’s] argument, that amendment,
+       which took effect on January 1, 2019, did not confer on any defendant the
+       ability to seek a recall of their sentence beyond the 120[-day] time limit in
+       which the Court may, on its own motion, recall a sentence it has imposed.
+       To the extent [appellant] is relying on … section 1170, subdivision (d)(1) in
+       seeking a ‘modification’ of his sentence, the motion is denied, as this Court
+       has no jurisdiction to recall the sentence. (People v. Loper (2015) 60
+       Cal.4th 1155, 1165, citing People v. Roe (1983) 148 Cal.App.3d 112, 118.)
+
+               “With respect to [appellant’s] other claim, that imposition of both
+       the gun and gang enhancements violated … section 1170.1, subdivision (f),
+       it too is denied as [appellant] is mistaken about the law.
+
+       6 Assembly Bill No. 2942 was effective January 1, 2019 (Stats. 2018, ch. 1001,
+§ 1), and amended section 1170 to provide the court and/or district attorney may recall
+the matter for resentencing under certain circumstances, none of which apply in this case.
+
+
+                                             5.
+               “In People v. Rodriguez (2009) 47 Cal.4th 501 (hereinafter
+       Rodriguez), the California Supreme Court concluded that … section
+       1170.1, subdivision (f) precluded imposition of both a gun enhancement
+       [citation] and a gang-enhancement [citation], where the underlying felony
+       became a violent felony due solely to the use of the firearm. (Rodriguez,
+       supra, 47 Cal.4th 501, 509.) In People v. Le[, supra,] 61 Cal.4th 416, the
+       California Supreme Court extended its holding in Rodriguez to imposition
+       of a gun and gang enhancement for serious felonies, where the underlying
+       felony became serious solely due to the use of the firearm. (People v. Le,
+       supra, 61 Cal.4th [at p.] 425.)
+
+              “Here [appellant’s] voluntary manslaughter conviction was, and is, a
+       violent felony, irrespective of his use of a firearm. [Citation.]
+       Consequently, … section 1170.1, subdivision (f) did not, and does not,
+       preclude imposition of both the gun [citation] and gang [citation]
+       enhancements. (People v. Vega (2013) 214 Cal.App.4th 1387, 1395.)
+
+              “[Appellant] persists in his efforts to trifle with the Courts in the
+       hopes he can better his bargain with the People, and escape punishment for
+       his offenses. (People v. Hester (2000) 22 Cal.4th 290, 295.)”
+       On October 18, 2019, appellant filed a notice of appeal from the court’s order that
+denied his most recent motion for modification of his sentence.
+                                      DISCUSSION
+       As noted above, appellant’s counsel has filed a Wende brief with this court. The
+brief also includes the declaration of appellate counsel indicating that appellant was
+advised he could file his own brief with this court. By letter on February 28, 2020, we
+invited appellant to submit additional briefing. To date, he has not done so.
+       After independent review of the record, we find that no reasonably arguable
+factual or legal issues exist. 7
+
+       7 The superior court correctly summarized the holdings in Rodriguez and Le and
+denied relief. Rodriguez “held that a defendant’s single act of personally using a gun
+during the commission of a felony could not be used to support both a sentence
+enhancement for personal use of a firearm under … section 12022.5, former
+subdivision (a)(1), and to elevate the punishment for a criminal street gang allegation to a
+‘violent felony’ under section 186.22, subdivision (b)(1)(C). We explained that the
+application of both enhancements in that case depended on the defendant’s use of a
+firearm, and that subdivision (f) of section 1170.1 prohibits imposing two sentence
+
+                                             6.
+                                     DISPOSITION
+       The court’s order of August 13, 2019, denying appellant’s motion for
+resentencing, is affirmed.
+
+
+
+
+enhancements when both enhancements are ‘ “for being armed with or using a dangerous
+or deadly weapon or a firearm in the commission of a single offense” ’ [Citation.]”
+(People v. Le, supra, 61 Cal.4th at p. 419.)
+        Le reached the same conclusion where the defendant’s use of a firearm was the
+sole reason to elevate the underlying offense to a serious felony under section 1192.7 and
+held the defendant’s gang enhancement on the underlying offense, “regardless of whether
+it qualified as a serious or violent felony under subdivision (b)(1)(B) or (b)(1)(C), is an
+enhancement ‘imposed for being armed with or using … a firearm.’ (§ 1170.1, subd. (f).)
+Under section 1170.1, subdivision (f), the underlying felony … could not be enhanced for
+use of a firearm both under section 12022.5, subdivision (a), and section 186.22,
+subdivision (b)(1).” (People v. Le, supra, 61 Cal.4th at p. 425.)
+        As previously explained, appellant was convicted in count 1 of voluntary
+manslaughter, an offense expressly defined as both a violent felony (§ 667.5,
+subd. (c)(1)) and a serious felony (§ 1192.7, subd. (c)(1)), regardless of whether a firearm
+was used, and appellant was not entitled to resentencing under either Rodriguez or Le.
+
+                                            7.

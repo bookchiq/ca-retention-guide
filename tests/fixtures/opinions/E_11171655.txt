@@ -1,0 +1,988 @@
+cl_opinion_id: 11171655
+cluster: 10705068
+docket: E086388
+date: 2025-10-16
+status: Unpublished
+type: 010combined
+field: plain_text
+case: D.O. v. Superior Court CA4/2
+----
+Filed 10/15/25 D.O. v. Superior Court CA4/2
+
+
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+ California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+                                     or ordered published for purposes of rule 8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                   FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION TWO
+
+
+
+ D.O. et al.,
+
+          Petitioners,                                                   E086388
+
+ v.                                                                      (Super.Ct.Nos. J293829,
+                                                                         J293830, J293831 & J293832)
+ THE SUPERIOR COURT OF SAN
+ BERNARDINO COUNTY,                                                      OPINION
+
+          Respondent;
+
+ SAN BERNARDINO COUNTY
+ CHILDREN & FAMILY SERVICES,
+
+          Real Party in Interest.
+
+
+
+
+         ORIGINAL PROCEEDINGS; petitions for extraordinary writs. Annemarie G.
+
+Pace, Judge. Petitions denied.
+
+         Vincent W. Davis for Petitioner D.O.
+
+         Valerie Ross for Petitioner R.H.
+
+         No appearance for Respondent.
+
+
+                                                             1
+       Tom Bunton, County Counsel, and Helena C. Rho, Deputy County Counsel, for
+
+Real Party in Interest
+
+       D.O. (father, to distinguish from the child with the same initials) and R.H.
+
+(mother) each filed a petition for an extraordinary writ after the juvenile court terminated
+
+family reunification services and set a Welfare and Institutions Code section 366.26
+
+hearing.1 Father contests the placement of the minors, the jurisdictional findings against
+
+him, that he was provided reasonable reunification services, and that the caregiver
+
+received de facto parent status. Mother disputes the court’s finding that returning the
+
+children to her would be detrimental to them. We deny the petitions.
+
+                                     BACKGROUND
+
+       A. Initial Proceedings
+
+       Mother and father share four male children who are the subjects of the dependency
+
+proceedings underlying these writ petitions: D.O. (born 2015), G.O. (born 2017), S.O.
+
+(born 2018) and T.O. (born 2019).
+
+       In June 2022 the children’s younger half sister was hospitalized for severe
+
+malnutrition. All the children were living with mother at the time. In July, San
+
+Bernardino County Children & Family Services (the department) removed the four boys
+
+from mother’s care and placed them with father. That same month the department filed a
+
+petition under section 300, subdivision (j), as to each of the four boys, alleging abuse of
+
+their sibling. In its jurisdictional/dispositional report the department recommended the
+
+
+       1 Unlabeled statutory citations refer to the Welfare and Institutions Code.
+
+
+
+                                              2
+petition be sustained, the children remain with father, that father receive family
+
+maintenance services, and that mother receive family reunification services. Father lived
+
+with his now wife (stepmother) and the children’s older stepsiblings.
+
+       At the jurisdiction/disposition hearing in October 2022, the juvenile court
+
+followed the department’s recommendations.
+
+       In a status review report filed in March 2023, before the six-month review hearing,
+
+the department recommended the children be jointly maintained between the parents, and
+
+the dependency continued. However, there was some friction between father and mother,
+
+as well as between father and the department. Father expressed frustration that mother
+
+was allowed unsupervised visits, and that “he does all the work for the children; the
+
+mother has no responsibilities.” He also drove by mother’s home while the children were
+
+at her home for overnight visits, and the department received a number of anonymous
+
+calls concerning both this behavior and father allegedly approaching neighbors to ask
+
+them to “spy” on mother. Father was also late for dropoffs and often tried to argue with
+
+mother, though mother remained silent.
+
+       The children expressed some concerns about their placement with father. They
+
+disliked sharing a room with their stepsiblings, and reported that “some of their big
+
+brothers are mean to them, [and] hit them.” They told their stepmother, but not father,
+
+because he “has lots of jobs [and] is always at work or . . . is gone some where far with”
+
+their stepmother.
+
+
+
+
+                                             3
+       At the six-month status review hearing in April 2023 the court ordered the parents
+
+share parenting time and ordered family maintenance services for both.
+
+       In August 2024, mother sought a restraining order against father. She alleged
+
+father was harassing and stalking her. She alleged he drove around her neighborhood
+
+during her visits, talked to her neighbors, tried to harass her during exchanges, and
+
+followed her after exchanges. The inciting incident for seeking the restraining order was
+
+finding an Apple AirTag in one of her son’s shoes, which she believed father placed there
+
+to track the child. Mother also alleged exchanges were not peaceful despite happening at
+
+a police station, and that father frequently brought stepmother, who would also harass
+
+mother. Mother further alleged that much of this harassment occurs while the children
+
+are present. The court denied the request for a temporary restraining order on the basis
+
+that nobody’s physical safety was under immediate threat, but set the request for a
+
+restraining order for hearing. At the hearing the court denied the request for a restraining
+
+order, but ordered the parents and stepmother not to discuss the case with the children or
+
+disparage each other, nor use any tracking devices.
+
+       In October 2023 the department filed a status review report in which it
+
+recommended the matter be continued. The parents had participated in coparenting
+
+couple’s therapy, but had difficulty behaving amicably. For instance, the department
+
+reported sometimes children would be left without “proper clothing or shoes” after
+
+leaving a parent’s house, because the parent was “being petty,” and that when one of the
+
+children was sick, the parents would refuse to share the necessary medication. The
+
+
+
+                                             4
+children also reported that they did not like it when the parents said “yucky” things about
+
+each other.
+
+       The court held a review hearing that same month, where it ordered continuing
+
+family maintenance services and additional individual counseling. It also reiterated its
+
+prior orders forbidding disparaging remarks about the other parents and told the parents
+
+“I want to warn you both: This isn’t family law court. The difference is I can remove
+
+these kids from both of you, and I will if I have to . . . . [¶] So you need to work
+
+together.”
+
+       B. Subsequent and Supplemental Dependency Petitions
+
+       A social worker observed the children on January 7, 2024. The social worker
+
+noted that S.O. had a swollen cheek and jaw, but that he was not bruised. S.O. did not
+
+report anything about mother hitting him.
+
+       Two days later the department received a referral alleging mother physically
+
+abused S.O. because he had a swollen cheek and jaw when father took over custody of
+
+him. Mother said she was aware of the issue, had already taken S.O. to urgent care, and
+
+that urgent care said it was a tooth abscess. However, S.O. told the reporting party that
+
+he got in trouble for stealing candy, and that mother took him into the garage, punched
+
+him in the face, and locked him in for an indeterminate period of time. The other
+
+children reported they saw mother take S.O. into the garage but did not see her hit him.
+
+Father alleged that mother provided him with a doctor’s note and told him to follow up
+
+with a dentist, but when he did the dentist did not discover any signs of a tooth infection.
+
+
+
+                                              5
+He said he then took S.O. to the emergency room, where they reported he did not have
+
+any fractures but did have “soft tissue damage” consistent with being hit in the face.
+
+Father did not have any medical records of this visit at the time, but had pictures of S.O.’s
+
+cheek and jaw. Father refused to turn the children back over to mother.
+
+       On January 12, the same social worker who observed the children on January 7
+
+saw them again, and reported they “were cold and looked terrified,” whereas they are
+
+normally “hyperactive and warm.” D.O. reported unprompted that mother “ ‘spanked my
+
+brother and punched him in the face, and they were in the garage,’ ” which the social
+
+worker found odd. The social worker believed the children were being coached and did
+
+not believe mother hit S.O. The social worker also reported that father insists the
+
+children call mother by her first name when at his house, that both father and stepmother
+
+disparage mother, and that the children sometimes make disparaging remarks about
+
+mother unprompted and without being able to explain what they mean. The social
+
+worker said she felt the children needed to be removed because the parents could not
+
+coparent, and the referrals would continue until they were removed.
+
+       The department spoke to the children on January 16. All of the children, save
+
+S.O., said mother punishes them with timeouts and denied any physical discipline. S.O.
+
+told them mother hit him in the face, and that his mother sometimes puts him in the
+
+garage when he breaks rules. He denied any other instances of physical discipline, and
+
+insisted that he told “ ‘dad’s doctor’ ” the truth about mother hitting him despite not
+
+saying anything to the first doctor he saw. D.O. said that S.O. complained of cheek and
+
+
+
+                                              6
+tooth pain before the alleged incident, and that mother and maternal grandmother (MGM)
+
+told him it was something wrong with S.O.’s tooth. All the children, save S.O., denied
+
+seeing mother hit S.O. D.O., S.O., and G.O. confirmed they must call mother by her first
+
+name at father’s house.
+
+       The department asked father to send photos of S.O.’s alleged injuries, and noted
+
+that they appeared altered. According to the department, father also accidentally sent the
+
+unaltered picture as well, and the metadata for the photos indicated the allegedly altered
+
+photo was a screenshot while the allegedly unaltered one was taken by a camera, further
+
+indicating manipulation. Father provided a dental note corroborating that there was no
+
+tooth abscess. Finally, father sent a video to a social worker where he was asking S.O.
+
+leading questions and S.O. was repeating what he said.
+
+       The next day, the department removed the children from both parents due to
+
+concerns about physical abuse by mother and emotional abuse—including coaching—by
+
+father. The children were placed with MGM. The department then filed a petition under
+
+sections 342 and 387 alleging the children came under section 300, subdivisions (b), (c),
+
+and (j). The new petition alleged the children were at substantial risk of abuse or neglect
+
+and were “suffering serious emotional damage,” because they had been “exposed to an
+
+unrelenting struggle between the parents.” The petition with respect to S.O. also included
+
+an allegation under subdivision (a), that mother “utilize[d] inappropriate and excessive
+
+discipline[] techniques including . . . punching the child in the face.” Finally, the
+
+supplemental petition alleged family maintenance was no longer appropriate because
+
+
+
+                                              7
+mother used inappropriate physical discipline and both mother and father placed the
+
+children “in the middle of a custody dispute causing emotional stress.”
+
+       1. Jurisdiction/Disposition
+
+       The department filed a jurisdictional/dispositional report in February 2024 before
+
+the hearing on these new petitions. The department reported that father was highly
+
+critical of mother and believed all of the allegations against her were true, and he was
+
+also critical of the department and court for permitting unsupervised visits. He said the
+
+department was only involved in his life because of mother, and that he was going to
+
+request a new social worker. The department prepared an addendum to this report in
+
+March 2024, and reported that the children said father and stepmother do not like mother
+
+and the feeling is mutual. They said when at father’s house he and stepmother “ask them
+
+questions about [their] mom all day long,” that they do not like answering these
+
+questions, and that they do not like that their parents do not get along. Finally, in April
+
+the department filed an additional information where MGM reported three incidents
+
+where she claimed father harassed her after visits. The first involved father allegedly
+
+blocking her car in and recording her while he and stepmother yelled at her while the
+
+second, which a social worker observed, involved father waiting outside for MGM,
+
+making MGM fearful to leave and compelling the social worker to offer her an escort to
+
+her car. Finally, MGM claimed father waited for her to leave with the children and
+
+followed her out of the parking lot. Father denied any of these incidents happened or that
+
+he was harassing MGM.
+
+
+
+                                              8
+       The court held a jurisdiction/disposition hearing in April 2024. The parents
+
+agreed to admit certain of the allegations in the petitions in exchange for dismissing
+
+other. Specifically, mother admitted using inappropriate physical punishment on the
+
+children, while both mother and father admitted they caused the children emotional
+
+distress by putting them in the middle of their custody dispute. The court ordered
+
+reunification services for both parents.
+
+       Father appealed, arguing substantial evidence did not support the removal order.
+
+(In re T.O. (Mar. 28, 2025, E084173) [nonpub. opn.] (T.O.).) We affirmed, finding there
+
+was “substantial evidence father engaged in behavior that either caused emotional harm
+
+or risked emotional harm to the children.” (Ibid.) That, combined with his “lack of
+
+insight” regarding “his part in creating and maintaining the parents’ animus toward each
+
+other,” “provided an ample basis for the juvenile court’s order removing the children
+
+from his care.” (Ibid.)
+
+       2. Six-Month Status Review
+
+       In October 2024 the department prepared a report before the six-month status
+
+review hearing where it recommended continuing reunification services. The department
+
+reported that recent efforts to contact father had been unsuccessful. Mother, on the other
+
+hand, showed “a degree of compliance,” but tended to minimize her substance use issues.
+
+The parents both tended to “focus on their individual challenges, rather than prioritizing
+
+the well-being of their children.”
+
+
+
+
+                                             9
+       During the reporting period the children showed signs of severe emotional
+
+distress. D.O. “struggle[ed] with managing his emotions and ha[d] difficulty processing
+
+feelings effectively.” G.O. “constantly worrie[d] about being perceived as good and
+
+tend[ed] to prioritize pleasing others,” and also showed “difficulty in articulating his
+
+feelings.” S.O. was physically aggressive towards caregivers and at school, lacked
+
+appropriate boundaries, and struggled to focus. T.O. was throwing tantrums, hitting,
+
+biting, and had difficulty being redirected. Though things improved in MGM’s care,
+
+there was still underlying emotional turmoil. The children believed their behavior caused
+
+the removal, and were concerned about the relationship between mother and father.
+
+       Visitation also continued to be fraught. Father brought stepmother to a visit and
+
+insisted the children call her mom, even though all the children said they did not want her
+
+present and all but S.O. said they did not want to call her mom. On another occasion the
+
+father repeatedly asked the children about school in a way that distressed them, and
+
+continued to do so even after D.O. told father he did not want to talk about it. Both father
+
+and stepmother struggled to redirect the children, but father tended to perform better
+
+when stepmother was present “as she interacts with the children and helps facilitate
+
+engagement.” Father was observed making disparaging remarks and commenting about
+
+mother and grandmother’s caregiving choices, which the department believed harmed the
+
+children’s well-being. The children also showed significant distress both before and after
+
+visits with either parent.
+
+
+
+
+                                             10
+       At the status review hearing the court ordered stepmother not to be present for
+
+visits and clarified that father was supposed to participate in random drug testing. It also
+
+ordered father to participate in additional individual counseling to address coparenting
+
+and anger management issues. It otherwise continued reunification services.
+
+       3. 12-Month Status Review
+
+       In February 2025 the department filed a status review report that recommended the
+
+court terminate father’s reunification services, but give mother an extended visit to see if
+
+she could transition to family maintenance services. Father had continued to act in ways
+
+detrimental to the children’s emotional well-being. For example, at visits he showed
+
+videos of the children’s stepsiblings encouraging them to “come home soon” and
+
+confusing and distressing the children. Father was encouraged to work with a parent
+
+partner to address these concerns, but did not do so.
+
+       The children continued to show significant emotional distress, especially around
+
+visits. They said they feared father speaking negatively about mother, and mother and
+
+father continuing to not get along. D.O. was anxious, distressed, and frequently asked
+
+when visits would end G.O. showed anxiety—manifesting in physical symptoms like
+
+stomachaches—and exhibited negative behaviors like fighting with his siblings. S.O.
+
+exhibited aggressive, deceitful, destructive, and even self-harming behaviors. T.O. had
+
+frequent tantrums. All four children’s behavior was particularly concerning before and
+
+after visits with father.
+
+
+
+
+                                             11
+       The department did not have updated information about father’s participation in
+
+services, but mother made significant progress in hers. Father missed five drug tests but
+
+tested negative on seven, while mother only missed one and tested negative on all of
+
+them. Both participated in parenting classes and additional individual therapy. While
+
+mother reported benefiting from these services, father did not report at all.
+
+       At a hearing held in March 2023 the court ordered both parents to participate in
+
+conjoint therapy.
+
+       4. 18-Month Status Review
+
+       The department in April 2025 updated its recommendation to also terminate
+
+reunification services for mother. Father did not participate in family therapy, and
+
+mother’s therapist reported that though she presented well “she appears to be ‘checking
+
+off boxes’ and has not demonstrated full honesty or accountability.” Meanwhile, the
+
+children’s behavior was getting worse, with G.O. experiencing his first panic attack, and
+
+all of the children becoming increasingly dysregulated and aggressive. The children’s
+
+mental health services were also becoming decreasingly effective, and a member of their
+
+mental health services team “emphasized that the children are unlikely to benefit from
+
+continued services without addressing the underlying emotional distress linked to
+
+ongoing contact with their parents.” The department thus recommended discontinuing
+
+family therapy—which seemed to make the children’s issues worse—and “assessed [that]
+
+continued contact with the parents [was] detrimental to the children’s emotional well-
+
+
+
+
+                                             12
+being.” The department opined that “[t]he severity and persistence of the behavioral
+
+issues strongly indicate that reunification is not in their best interest.”
+
+       At the next hearing, the court suspended visits and set a contested review hearing.
+
+       After the court terminated visits with the parents the children’s behavior seemed to
+
+improve. Father expressed his view that their behavioral issues did not begin until
+
+placement with the MGM. Both parents continued to participate in services.
+
+       On June 3, 2025, MGM filed a request to be designated a de facto parent. The
+
+court eventually granted this request.
+
+       The court held a contested review hearing on June 11, 2025. The children testified
+
+via out-of-court answers to pre-prepared questions. Each of them said they loved mother
+
+and wanted to live with her. All of the children except T.O. said they loved father and
+
+wanted to live with him. However, T.O. said he did not want to live with father, and
+
+T.O., G.O., and D.O. reported that they did not feel safe living with father—though G.O.
+
+and D.O. specified this was only because of their stepsiblings, and that they felt safe with
+
+just father. The children had universally positive things to say about MGM.
+
+       The social worker testified father completed his case plan, but that he did not
+
+benefit from services, “show[ed] no accountability [for] his actions,” and deflected blame
+
+on to the department and MGM She also testified that father disparaged MGM to the
+
+children and spoke to the children about their stepsiblings, neither of which was
+
+permitted. With regards to mother, the social worker said mother had not benefited from
+
+services, as she struggled with alcohol, resisted treatment, and insisted she did not have a
+
+
+
+                                               13
+problem. Family therapy sessions with mother did not go well, and mother did not use
+
+any of the parenting skills she was supposed to have learned during visits.
+
+       Father testified but was evasive in his answers. For instance, when asked whether
+
+one of the issues of concern to the court was emotional harm to the children he responded
+
+“that was stated” and when asked whether his conduct caused that emotional harm he
+
+responded “the emotional harm that was stated in this case is based a lot on the
+
+interaction between myself and the children’s mother.” He claimed that though he and
+
+mother had issues he “was never mad at her, never upset with her,” and “always tried to
+
+work with her.” When asked what he did wrong, father responded “I believe it was a
+
+lack of communication and the wrong type of communication.” He also denied doing
+
+anything wrong regarding the doctored pictures of S.O. he provided to the department.
+
+Finally, when asked whether he believed the children were removed because of
+
+something he did, father answered “[n]o. I mean, every action has a consequence.”
+
+       Mother testified that she did benefit from services, and that her therapist may have
+
+concluded otherwise only because she was not good at expressing herself. She also
+
+denied physically disciplining her children.
+
+       After hearing evidence and argument, the court stated its concern that mother’s
+
+therapist reported she was just checking boxes as “that’s the time to really demonstrate
+
+that you are able to communicate with your children.” It also felt that her alcohol use
+
+issues were not resolved, and therefore she had not “fully benefitted from services.” For
+
+father, the court stated that “it is not enough to say ‘I’m accountable.’ You have to
+
+
+
+                                               14
+describe how you are accountable.” The court also said father’s numerous
+
+communication issues with the children demonstrated that he failed to recognize the
+
+emotional impact he was having on them, and that he was being “extremely emotionally
+
+damaging and manipulative.” The court found father, too, had not benefited from
+
+services.
+
+       Accordingly, the court terminated reunifications services for both parents and set a
+
+permanency planning hearing under section 366.26.
+
+                                      DISCUSSION
+
+       Father argues (1) that the trial court erred when it determined not to return the
+
+children based on father’s alleged substance abuse, (2) that he was a nonoffending parent
+
+and the children should have been placed with him, (3) the court erred by granting
+
+MGM’s request to be designated a de facto parent, and (4) that he was not provided
+
+reasonable reunification services. Mother argues only that the court’s findings that she
+
+caused the children emotional distress were unsupported by substantial evidence. We
+
+reject each of these arguments.
+
+       A.     Father’s Petition
+
+              1. The Court Did Not Find Father Abused Substances
+
+       First, the court did not terminate reunification services due to father’s substance
+
+abuse but due to his failure to benefit from services. The court stated it was concerned
+
+that father showed little understanding of the harm he caused his children and no
+
+accountability. The court did not raise substance abuse concerns with regard to father,
+
+
+
+                                             15
+only mother. Indeed, the petitions never even alleged substance abuse by father. This
+
+argument is therefore inapposite.
+
+              2. Father has Already Litigated and Lost his Placement Challenge
+
+       Father’s argument that the children should have been placed with him as the
+
+nonoffending parent is similarly unavailing. We rejected this argument in his first
+
+appeal, and we have no reason to reconsider our analysis whether because collateral
+
+estoppel applies—as the department argues—or because our previous analysis remains
+
+correct. (See In re T.O., supra, E084173.)
+
+              3. The Trial Court Did Not Err Granting MGM De Facto Parent Status
+
+       We turn next to father’s challenge to the designation of MGM as a de facto parent.
+
+The department argues parents lack standing to challenge another person’s designation as
+
+a de facto parent, citing In re Crystal J. (2001) 92 Cal.App.4th 186, 190 and In re Daniel
+
+D. (1994) 24 Cal.App.4th 1823, 1835-1836. However, both cases involved parties
+
+appealing an order denying de facto parent status to a third party. Parents may challenge
+
+decisions to grant de facto parent status. (See, e.g., In re Giovanni F. (2010) 184
+
+Cal.App.4th 594, 597, 601-602.) We therefore address father’s arguments on the merits.
+
+       De facto parent status “merely provides a way for the de facto parent to stay
+
+involved in the dependency process and provide information to the court.” (In re Bryan
+
+D. (2011) 199 Cal.App.4th 127, 146 (Bryan D.); see In re Brianna S. (2021) 60
+
+Cal.App.5th 303, 314 [“Designating a person as a de facto parent gives that person
+
+‘procedural rights’ in the ongoing dependency proceedings, such as the right to be
+
+
+
+                                             16
+present at hearings, to be heard and to retain counsel, but de facto parent status does not
+
+grant the person any substantive rights to ‘reunification services, . . . custody, [or]
+
+continued placement of the child.’ ”].) “A person requesting de facto parent status has
+
+the burden to show by a preponderance of the evidence he or she qualifies for that
+
+status.” (In re Abigail L. (2022) 75 Cal.App.5th 169, 178.) “[F]actors relevant to the
+
+decision . . . include whether (1) the child is ‘psychologically bonded’ to the adult; (2) the
+
+adult has assumed the role of a parent on a day-to[-]day basis for a substantial period of
+
+time; (3) the adult possesses information about the child unique from the other
+
+participants in the process; (4) the adult has regularly attended juvenile court hearings;
+
+and (5) a future proceeding may result in an order permanently foreclosing any future
+
+contact with the adult.” (In re Patricia L. (1992) 9 Cal.App.4th 61, 66-67.)
+
+       We review a juvenile court’s decision on a request for de facto parent status for
+
+abuse of discretion. (In re Michael R. (1998) 67 Cal.App.4th 150, 156.) But “[d]e facto
+
+parent status is ordinarily liberally granted on the theory that a court only benefits from
+
+having all relevant information on the best interests of the child.” (Bryan D., supra, 199
+
+Cal.App.4th at p. 141.)
+
+       The court did not abuse its discretion in designating MGM as a de facto parent.
+
+MGM has been the children’s caregiver since they were removed from father. She has
+
+had day-to-day caregiving duties, and the children appear psychologically bonded to her.
+
+They saw significant emotional benefits after visits with their parents were terminated
+
+and while in MGM’s care. She has kept apprised of the proceedings and attended many
+
+
+
+                                              17
+of them. MGM easily meets the threshold for being designated a de facto parent, and the
+
+court did not abuse its discretion by granting her that status.
+
+              4. Father Received Reasonable Reunification Services
+
+       Finally, father argues he was not given reasonable reunification services. When a
+
+court orders reunification services, the department must ensure the provided services are
+
+reasonable. (§ 361.5, subd. (a); Earl L. v. Superior Court (2011) 199 Cal.App.4th 1490,
+
+1501.) Whether reunification services offered were reasonable is judged according to the
+
+circumstances of the particular case. (Earl L., at p. 1501.) “The standard is not whether
+
+the services provided were the best that might be provided in an ideal world, but whether
+
+the services were reasonable under the circumstances.” (In re Misako R. (1991) 2
+
+Cal.App.4th 538, 547.) Any reunification plan “must be specifically tailored to fit the
+
+circumstances of each family [citation], and must be designed to eliminate those
+
+conditions which led to the juvenile court’s jurisdictional finding.” (In re Dino E. (1992)
+
+6 Cal.App.4th 1768, 1777.)
+
+       The court’s reasonable services finding “must be made by clear and convincing
+
+evidence in the trial court.” (T.J. v. Superior Court (2018) 21 Cal.App.5th 1229, 1238.)
+
+We review a finding that reasonable services were provided or offered for substantial
+
+evidence. (Katie V. v. Superior Court (2005) 130 Cal.App.4th 586, 598.) “In general,
+
+when presented with a challenge to the sufficiency of the evidence associated with a
+
+finding requiring clear and convincing evidence, the court must determine whether the
+
+record, viewed as a whole, contains substantial evidence from which a reasonable trier of
+
+
+
+                                              18
+fact could have made the finding of high probability demanded by this standard of
+
+proof.” (Conservatorship of O.B. (2020) 9 Cal.5th 989, 1005.) In other words, “the
+
+question before a court reviewing a finding that a fact has been proved by clear and
+
+convincing evidence is not whether the appellate court itself regards the evidence as clear
+
+and convincing; it is whether a reasonable trier of fact could have regarded the evidence
+
+as satisfying this standard of proof.” (Id. at 1009.)
+
+       Father does not argue how the department failed to provide reasonable
+
+reunification services, nor why the court’s finding it did was not supported by substantial
+
+evidence. Instead, he asserts generally that, “[a]s shown above, the Juvenile Court erred
+
+when it found that reasonable services were offered,” to him and that “[d]espite the
+
+minimal referrals” he completed his case plan. (See In re J.M. (2023) 89 Cal.App.5th 95,
+
+114-115 [declining to consider a point which appellant failed to support with reasoned
+
+argument.].) Moreover, we find nothing in the record suggesting the department failed to
+
+provide reasonable services. (See Mansell v. Board of Administration (1994) 30
+
+Cal.App.4th 539, 545-546 [“We are not required to search the record to ascertain whether
+
+it contains support for [a party’s] contentions.].) The primary barrier to reunification was
+
+father and mother’s inability to co-parent, including father’s emotional abuse of his
+
+children to fuel his ongoing feud with mother. Thus, the department provided parenting
+
+classes and individual and joint counseling. This is exactly what the department should
+
+have done, and father fails to identify anything more he wishes it would have done.
+
+
+
+
+                                             19
+Accordingly, we conclude sufficient evidence supported the court’s finding that the
+
+department provided reasonable reunification services.
+
+       We therefore deny father’s writ petition.
+
+       B.     Mother’s Petition
+
+       Mother argues the court’s finding she contributed to the emotional harm to her
+
+children was not supported by substantial evidence. We understand her to contest the
+
+sufficiency of the evidence underlying the court’s finding that returning the children to
+
+her would be detrimental. The argument lacks merit.
+
+       At the 18-month permanency review hearing “the court shall order the return of
+
+the child to the physical custody of [his or her] parent or legal guardian unless the court
+
+finds, by a preponderance of the evidence, that the return of the child to [his or her]
+
+parent or legal guardian would create a substantial risk of detriment to the safety,
+
+protection, or physical or emotional well-being of the child.” (§ 366.22, subd. (a)(1).)
+
+“The failure of the parent or legal guardian to participate regularly and make substantive
+
+progress in court-ordered treatment programs shall be prima facie evidence that return
+
+would be detrimental.” (Ibid.) However, “ ‘simply complying with the reunification plan
+
+by attending the required therapy sessions and visiting the children is to be considered by
+
+the court; but it is not determinative. The court must also consider the parents’ progress
+
+and their capacity to meet the objectives of the plan; otherwise the reasons for removing
+
+the children out-of-home will not have been ameliorated.’ ” (Georgeanne G. v. Superior
+
+Court of Los Angeles County (2020) 53 Cal.App.5th 856, 867 (Georgeanne G.).)
+
+
+
+                                             20
+       “When the sufficiency of the evidence to support a juvenile court’s finding or
+
+order is challenged on appeal, the reviewing court must determine if there is substantial
+
+evidence, contradicted or uncontradicted, that supports it.” (In re Albert T. (2006) 144
+
+Cal.App.4th 207, 216.) “Under that standard we inquire whether the evidence,
+
+contradicted or uncontradicted, supports the court’s determination. We resolve all
+
+conflicts in support of the determination, indulge in all legitimate inferences to uphold the
+
+findings and may not substitute our deductions for those of the juvenile court.
+
+[Citations.] However, ‘[s]ubstantial evidence is not synonymous with any evidence.
+
+[Citation.] To be substantial, the evidence must be of ponderable legal significance and
+
+must be reasonable in nature, credible, and of solid value.’ ” (Georgeanna G., supra, 53
+
+Cal.App.5th at p. 865.) We review the juvenile court judge’s finding there is no
+
+substantial probability of return and decision to terminate reunification services for
+
+substantial evidence. (Kevin R. v. Superior Court (2010) 191 Cal.App.4th 676, 688.)
+
+The same is true for the finding of detriment. (Georgeanne G., at p. 864.)
+
+       Here, substantial evidence showed that returning the children to mother’s care
+
+would be detrimental. After the department recommended returning the children to
+
+mother, their emotional health deteriorated. The children’s therapists opined that this was
+
+caused by their continuing contact with both parents and their parents’ ongoing conflict,
+
+and it would not be resolved without ceasing contact with the parents. Indeed, the
+
+children’s emotional well-being improved after visitation ended. Mother’s participation
+
+in family therapy with the children only made things worse. Her therapist believed she
+
+
+
+                                             21
+lacked insight into her role in the children’s emotional turmoil, suggesting she failed to
+
+appreciate how she contributed to the conflict. Finally, the social worker testified that at
+
+visits mother “does not redirect the children or use any of the parenting skills that she’s
+
+learned,” and mother’s therapist felt she was merely going through the motions.
+
+       There was ample evidence for the court to conclude that mother has not benefited
+
+from services, and that returning the children to her care would be to their detriment.
+
+Accordingly, we will deny mother’s writ petition.
+
+                                      DISPOSITION
+
+       Mother and father’s petitions for extraordinary writs are both denied.
+
+       NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+                                                                 RAPHAEL
+                                                                                              J.
+We concur:
+
+
+McKINSTER
+                Acting P. J.
+
+
+FIELDS
+                           J.
+
+
+
+
+                                             22

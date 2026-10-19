@@ -1,0 +1,293 @@
+cl_opinion_id: 11264490
+cluster: 10797816
+docket: B333875A
+date: 2026-02-23
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Moreno CA2/1
+----
+Filed 2/23/26 P. v. Moreno CA2/1
+Opinion following transfer from Supreme Court
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION ONE
+
+ THE PEOPLE,                                                    B333875
+
+           Plaintiff and Respondent,                            (Los Angeles County
+                                                                Super. Ct. No. LA039438)
+           v.
+
+ EDDIE FERNANDO MORENO,
+
+           Defendant and Appellant.
+
+
+      APPEAL from an order of the Superior Court of Los
+Angeles County, Gregory A. Dohi, Judge. Remanded with
+directions.
+      James Koester, under appointment by the Court of Appeal,
+for Defendant and Appellant.
+      Rob Bonta, Attorney General, Lance E. Winters and
+Charles C. Ragland, Chief Assistant Attorneys General, Susan
+Sullivan Pithey, Assistant Attorney General, Jason Tran, Kristen
+J. Inberg, Seth P. MCutcheon and Charles Chung, Deputy
+Attorneys General, for Plaintiff and Respondent.
+                     ______________________
+                       INTRODUCTION
+     In 2003, the trial court sentenced defendant Eddie
+Fernando Moreno to an aggregate term of 80 years to life
+imprisonment. The sentence included indeterminate third strike
+terms under the original “Three Strikes” law (Pen. Code, §§ 667,
+subds. (b)-(i), 1170.12, subds. (a)-(d))1 as well as three one-year
+prior-prison-term enhancements under section 667.5, former
+subdivision (b).
+      In 2023, the superior court resentenced Moreno pursuant to
+section 1172.75 to an aggregate term of 51 years to life. The
+court struck the now-invalid prior-prison-term enhancements and
+made other changes from the original sentence, including which
+terms ran consecutively or concurrently, but left intact Moreno’s
+indeterminate third strike sentences.
+      Moreno appealed from his resentencing and we affirmed.
+(People v. Moreno (Sept. 16, 2024, B333875) [nonpub. opn.].)
+Moreno petitioned for review; our Supreme Court granted that
+request and deferred Moreno’s appeal pending the disposition of
+People v. Superior Court (Guevara) 18 Cal.5th 838 (Guevara).
+After issuing Guevara, the Supreme Court remanded Moreno’s
+appeal to this court with directions to vacate our prior decision
+and reconsider the cause in light of Guevara.
+      Having now done so, we remand for a new resentencing
+hearing.
+
+
+
+
+      1 Unspecified statutory references are to the Penal Code.
+
+
+
+
+                                2
+      FACTUAL AND PROCEDURAL BACKGROUND
+A.     Offense Conduct, Conviction, and Initial Sentence
+       In November 2001, while Elena Hiller was packing her
+belongings into her truck, Moreno approached her with a knife
+and demanded she hand over her wallet. When Hiller told him
+she only had one dollar, Moreno demanded the keys to her truck,
+made her get into the vehicle with him, and drove away with her
+in the truck. After driving a few blocks, Moreno took Hiller’s
+wallet, forced her out of the truck, and drove away. About a week
+later, officers observed Moreno driving the truck. They tried to
+initiate a traffic stop but Moreno sped away and evaded the
+pursuing police vehicle for five or six miles before the chase
+ended. When Moreno was arrested the police found a knife and
+cocaine on his person.
+       In 2003, a jury convicted Moreno of carjacking (§ 215,
+subd. (a); count 1), robbery (§ 211; count 2), unlawful driving or
+taking of a vehicle (Veh. Code, § 10851, subd. (a); count 3),
+evading an officer (id., § 2800.2, subd. (a); count 4), and
+possession of a controlled substance (Health & Saf. Code,
+§ 11350, subd. (a); count 5). As to counts 1 and 2, the jury also
+found that Moreno used a knife (§ 12022, subd. (b)(1)-(2)).
+       The trial court found true the allegations that Moreno had
+suffered two prior serious or violent felony juvenile adjudications
+for robbery with the use of a firearm and robbery with the use of
+a deadly weapon, which both qualified as strikes within the
+meaning of the Three Strikes law, and that he had served three
+prior prison terms (§ 667.5, former subd. (b)). The court
+sentenced Moreno to an aggregate prison term of 80 years to life,
+composed of third-strike terms of 26 years to life on count 1, 26
+
+
+
+
+                                3
+years to life on count 2, and 25 years to life on count 4, as well as
+three years for the three prior-prison-term enhancements.2
+B.     The Reform Act and Moreno’s Section 1170.126
+       Petition
+       The “voters enacted the [Three Strikes] Reform Act [of 2012
+(Reform Act)], which amended state law to authorize
+indeterminate third strike life sentences only when the third
+felony conviction is ‘serious or violent,’ subject to enumerated
+disqualifying factors. (§ 1170.12, subd. (c)(1), (2)(C).) Instead of
+receiving an indeterminate term for a subsequent nonserious,
+nonviolent felony, the Reform Act provides that, under current
+law, defendants will be sentenced to ‘twice the term otherwise
+provided as punishment for the current felony conviction.’ ([Id.],
+subd. (c)(1).)” (Guevara, supra, 18 Cal.5th at p. 851.) The Reform
+Act also established a retrospective resentencing procedure,
+codified at section 1170.126, for defendants presently serving an
+indeterminate term of imprisonment whose sentence under
+current law would no longer be an indeterminate life sentence.
+(Guevara, at pp. 851-852.) Eligible defendants “shall be
+resentenced . . . unless the court, in its discretion, determines
+that resentencing . . . would pose an unreasonable risk of danger
+to public safety.” (§ 1170.126, subd. (f).)
+       In March 2014, Moreno petitioned for relief under section
+1170.126. The court denied the petition. The court construed
+language in section 1170.126 which states that “[a]n inmate is
+eligible for resentencing if[] [¶] . . . [¶] . . . [t]he inmate’s current
+sentence was not imposed for any of the offenses” included in the
+
+
+      2 Moreno received a stayed term of 25 years to life on
+count 3 and a concurrent term of 25 years to life on count 5.
+
+
+
+
+                                   4
+list of violent and serious felonies (id., subd. (e)(2), italics added)
+to mean that Moreno was eligible for relief only if all his current
+commitment offenses were nonserious and nonviolent. Because
+Moreno’s current counts of conviction included serious and
+violent felonies, namely his carjacking and robbery convictions,
+the court found him ineligible for relief.3
+C.     Section 1172.5 and Resentencing
+       “Effective January 1, 2020, the Legislature eliminated . . .
+one-year prior-prison-term enhancements [under section 667.5,
+former subdivision (b)] except in cases involving prior terms for
+sexually violent offenses. [Citation.] Two years later, the
+Legislature made the change retroactive. (Stats. 2021, ch. 728,
+§§ 1, 3.)” (People v. Rhodius (2025) 17 Cal.5th 1050, 1053-1054.)
+Section 1172.75 provides a resentencing process for inmates
+serving a term that includes a one-year prior-prison-term
+enhancement that is no longer valid.
+       In 2022, Moreno moved for resentencing under section
+1172.75 following a referral by the Department of Corrections
+
+
+
+      3 In 2015, our Supreme Court rejected the notion that
+section 1170.126, subdivision (e)(2) disqualifies an inmate from
+resentencing relief under the Reform Act unless all of the
+prisoner’s current commitment offenses are nonserious and
+nonviolent. (People v. Johnson (2015) 61 Cal.4th 674, 688-695.)
+After acknowledging the statute’s ambiguity, the court held
+“resentencing is allowed with respect to a count that is neither
+serious nor violent, despite the presence of another count that is
+serious or violent.” (Id. at p. 695.) The record does not indicate
+that Moreno sought to challenge the trial court’s prior ruling
+regarding his eligibility for resentencing under section 1170.126
+either before or after the Supreme Court decided Johnson.
+
+
+
+
+                                   5
+and Rehabilitation. Moreno requested dismissal of the three one-
+year prior-prison-term enhancements imposed as part of his
+sentence, reduction of count 5 to a misdemeanor pursuant to
+Proposition 47, and dismissal of one or more of his prior strikes
+pursuant to section 1385. He also requested “a full resentencing”
+where he would receive the benefit of any other ameliorative
+sentencing provisions enacted after his prior sentence became
+final.
+       The superior court recalled Moreno’s sentence and, on
+August 28, 2023, resentenced him. The court struck the three
+one-year prior-prison-term enhancements, reduced count 5 to a
+misdemeanor, and stayed the sentence on count 2 pursuant to
+section 654. The court denied Moreno’s motion to dismiss his
+prior strikes pursuant to section 1385. The court effectively left
+the remainder of Moreno’s previous sentence in place, imposing a
+new sentence of 51 years to life.
+                         DISCUSSION
+      Moreno does not contend the trial court erred in
+resentencing him on either count 1 or count 2, as carjacking and
+robbery are both serious (§ 667.5, subd. (c)(9) & (c)(17)) and
+violent (§ 1192.7, subd. (c)(19) & (c)(27)) felonies and therefore
+not subject to the Reform Act provisions regarding nonserious,
+nonviolent third strike convictions. Moreno instead argues that
+the superior court erred in failing to reduce his sentence for
+evading an officer (count 4), which is not a serious or violent
+felony, to a second-strike determinate term. Moreno argues that
+we should remand the matter to the superior court for
+consideration of the Reform Act to the calculation of his sentence.
+      In light of Guevara, we agree. Following remand, the court
+must determine whether resentencing Moreno on count 4 to a
+
+
+
+
+                                 6
+determinate term would pose an unreasonable risk of danger to
+public safety as set forth in section 1170.126.
+       Prior to Guevara, we had held that, by permitting recall
+and resentencing of indeterminate third strike sentences, section
+1172.75 unconstitutionally amended section 1170.126. Guevera
+concluded otherwise, holding that, “as a matter of constitutional
+avoidance, section 1172.75 incorporates section 1170.126’s
+discretionary public safety override as a condition for nonserious,
+nonviolent third strike offenders to obtain resentencing under the
+revised penalty provisions of the Reform Act.” (Guevara, supra,
+18 Cal.5th at p. 850.) The high court remanded for the superior
+court to determine whether sentencing the defendant in Guevara
+under the revised penalty provisions of the Reform Act would
+“ ‘pose an unreasonable risk of danger to public safety.’ ” (Id. at
+p. 878.) If it so determined, the superior court was to reimpose
+the indeterminate term. (Ibid.) “If the superior court does not
+determine that resentencing [the defendant] would ‘pose an
+unreasonable risk of danger to public safety,’ and [the defendant]
+is otherwise eligible under the Reform Act, the court shall
+resentence [the defendant] pursuant to the revised penalty
+provisions of the Reform Act.” (Ibid.)
+       The superior court did not have the benefit of Guevara,
+meaning that it was not fully aware of the scope of its
+discretionary powers when it resentenced Moreno. We remand
+for resentencing because “ ‘the record [does not] “clearly
+indicate[]” that the trial court would have reached the same
+conclusion “even if it had been aware that it had such
+discretion.” ’ ” (People v. Salazar (2023) 15 Cal.5th 416, 425.)
+The superior court made no finding about whether imposing a
+determinate term under the Reform Act on count 4 would pose an
+
+
+
+
+                                7
+unreasonable risk of danger to public safety as set forth in section
+1170.126. We thus cannot tell whether the court would have
+resentenced Moreno on count 4 pursuant to the revised penalty
+provisions of the Reform Act if it had been aware of its discretion
+to do so.
+                         DISPOSITION
+      Moreno’s sentence is vacated, and the matter is remanded
+for the superior court to conduct a resentencing consistent with
+Guevara. If the superior court determines when resentencing
+Moreno that sentencing him on count 4 under the revised penalty
+provisions of the Reform Act would pose an unreasonable risk of
+danger to public safety, the superior court is to reimpose the
+indeterminate term. If the superior court does not determine
+that Moreno would pose an unreasonable risk of danger to public
+safety, and Moreno is otherwise eligible under the Reform Act,
+the court shall resentence Moreno on count 4 pursuant to the
+revised penalty provisions of the Reform Act.
+      NOT TO BE PUBLISHED
+
+
+
+
+                                           WEINGART, J.
+
+
+We concur:
+
+
+
+
+             BENDIX, Acting P. J.          M. KIM, J.
+
+
+
+
+                                 8

@@ -1,0 +1,794 @@
+cl_opinion_id: 10473754
+cluster: 10007153
+docket: B326637
+date: 2024-07-18
+status: Unpublished
+type: 010combined
+field: plain_text
+case: In re Royal G. CA2/2
+----
+Filed 7/18/24 In re Royal G. CA2/2
+   NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions
+not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion
+has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                         SECOND APPELLATE DISTRICT
+
+                                        DIVISION TWO
+
+
+In re ROYAL G., a Person                                     B326637
+Coming Under the Juvenile                                    (Los Angeles County
+Court Law.                                                   Super. Ct. No.
+                                                             22CCJP04876A)
+
+
+LOS ANGELES COUNTY
+DEPARTMENT OF
+CHILDREN AND FAMILY
+SERVICES,
+
+         Plaintiff and Respondent,
+
+         v.
+
+TIMOTHY G.,
+
+         Defendant and Appellant.
+
+
+      APPEAL from findings and orders of the Superior Court of
+Los Angeles County. Marguerite D. Downing, Judge. Affirmed
+in part, vacated in part, and remanded in part with directions.
+     Benjamin Ekenes, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+
+      Dawyn R. Harrison, County Counsel, Kim Nemoy,
+Assistant County Counsel, and Aileen Wong, Deputy County
+Counsel, for Plaintiff and Respondent.
+
+                       _________________________
+
+
+
+       Timothy G. (father) appeals from the juvenile court’s
+jurisdictional findings and dispositional orders regarding his
+youngest child, Royal G. (born Sept. 2022).1 He contends that one
+of the jurisdictional findings against him is not supported by
+substantial evidence, and that the orders removing Royal from
+his custody, limiting his educational rights, and requiring
+monitored visitation were improper. He also alleges error under
+the Indian Child Welfare Act of 1978 (ICWA) (25 U.S.C. § 1901
+et seq.).
+       We vacate the juvenile court’s finding that ICWA does not
+apply and remand the matter for further proceedings. The
+jurisdictional findings and dispositional orders are affirmed.
+          FACTS AND PROCEDURAL BACKGROUND
+I.     Initial Referral and Investigation
+       On or around September 17, 2022, the Los Angeles County
+Department of Children and Family Services (DCFS) received a
+report that both Royal and his mother, J.S. (mother), tested
+positive for cocaine and marijuana at the child’s birth. When
+
+
+1     Royal has a full sibling, M.G., and a half-sibling, D.R.,
+neither of whom are involved in this case.
+
+
+
+
+                                 2
+hospital staff tried to talk to father, he “act[ed] very abrasive[,]”
+refused to provide any information, and unsuccessfully tried to
+physically remove mother from the hospital. When father
+became aware that the hospital would contact DCFS, he asked
+“Man you don’t have to report it, do you?”
+       That same day, a social worker interviewed mother at the
+hospital. Father left the hospital before he could be interviewed.
+A few days later, father called DCFS and asserted that he “has
+nothing to do with th[is] . . . case and that he did nothing wrong.”
+       The social worker met father for an in-person interview
+later that week. Father denied using cocaine (or any drug other
+than marijuana), ever seeing mother use cocaine, and being
+aggressive with hospital staff.
+       On September 27, 2022, father tested positive for cocaine
+and marijuana. When a social worker asked him about these
+results, father continued to deny cocaine usage. When pressed
+for an explanation, “father stated that he touches a lot of money,
+and maybe the money had cocaine on it.” Father agreed to drug
+test again on October 17, 2022, but then failed to show. The day
+after the no-show, father told the social worker that he had been
+unable to test “due to being busy.”
+       On October 31, 2022, both parents participated in a routine
+interview. Then they stopped answering or returning the social
+worker’s calls for a month.
+       On November 30, 2022, the social worker received a
+voicemail from father in which he said “She’s on cocaine sir, she
+got the baby out here, she don’t care.” (Bolding omitted.) The
+following day, father denied leaving the voicemail. When
+pressed, father said that he had unintentionally left the message;
+while fighting with mother, he threatened to call the social
+
+
+
+
+                                  3
+worker and actually dialed the number, but had intended to hang
+up before recording a message. He denied that mother had been
+using cocaine.
+         On December 2, 2022, DCFS scheduled a drug test for both
+parents. Father called a social worker and angrily said, “Don’t be
+hitting my phone talking [a]bout I need to go test. You ain’t my
+PO. I don’t have to test for y’[a]ll.” Father refused to test, and
+told the social worker to stop calling him. Later, he called back to
+apologize. Father ultimately tested positive for ethanol.
+II.      Removal
+         On December 4, 2022, DCFS received a call from Royal’s
+maternal grandmother (maternal grandmother), who was in
+Las Vegas caring for his two siblings. Among other things,
+maternal grandmother reported that Royal’s siblings had
+recently stayed with mother and father for two weeks; during
+that time, the eldest sibling told maternal grandmother that both
+parents “were out all night and sleep all day,” and that “there
+was . . . minimal food in the house.” Maternal grandmother
+expressed concern about Royal’s safety.
+         Subsequently, DCFS obtained an emergency removal order.
+When social workers arrived to remove Royal, “[i]t appeared that
+. . . father was still sleeping, despite the time being around
+12:30[]pm” in the afternoon.
+         On December 19, 2022, the juvenile court detained Royal
+from his parents. It also ordered random drug testing and
+monitored visitation for both parents.
+
+
+
+
+                                 4
+III.   Jurisdiction Petition
+       On December 16, 2022, DCFS filed a petition pursuant to
+Welfare and Institutions Code section 300, subdivision (b)(1),2
+seeking the exercise of juvenile dependency jurisdiction over
+Royal. As relevant here, the petition contained two allegations
+against father: Count b-2 alleged that father failed to protect the
+child from mother’s substance abuse, and count b-3 alleged that
+father currently abused drugs, including cocaine. Both counts
+alleged that father’s conduct “place[d] [Royal] at risk of serious
+physical harm[.]”
+IV. Subsequent Developments
+       In late December 2022, Royal was placed with his paternal
+aunt. She expressed concern because Royal constantly cried,
+shook, and resisted any attempts to soothe him. Since Royal had
+been exposed to drugs during gestation, DCFS recommended that
+Royal be assessed by the Regional Center for developmental
+delays.
+       The jurisdiction report disclosed that both father and
+mother had been arrested for possession of a controlled substance
+earlier that year; father had been convicted of the same crime in
+2004.
+       As of January 10, 2023, father had not responded to
+multiple requests for additional interviews.
+V.     Jurisdiction/Disposition Hearing
+       In January 2023, the juvenile court held a combined
+jurisdiction and disposition hearing. Father denied the
+allegations against him and objected to removal.
+
+
+
+2     All further statutory references are to the Welfare and
+Institutions Code unless otherwise indicated.
+
+
+
+
+                                 5
+       The juvenile court sustained counts b-2 and b-3 with minor
+amendments. It also found that removal from father was
+warranted because “he has at least two prior . . . arrests[]” for
+substance abuse issues, with one resulting in a conviction, and
+had tested positive for “various drugs[,]” failing to “provide a
+clean test.” The court concluded that returning Royal to father
+would be “detrimental to [the] newborn.”
+       The juvenile court maintained monitored visitation for the
+parents and, over father’s objections, limited father’s educational
+rights by allowing paternal aunt to “hold educational and
+regional center authority.” The court explained that the
+limitation was needed because of the “issues” Royal continued to
+experience following prenatal drug exposure.
+       Father timely appealed.
+                           DISCUSSION
+I.     Jurisdictional Findings
+       A.    Father’s Jurisdictional Challenge Is Justiciable
+       DCFS argues that we should dismiss father’s jurisdictional
+challenge as moot because father challenges only one of the two
+jurisdictional findings against him.
+       The “principle that ‘[d]ependency jurisdiction attaches to a
+child, not to his or her parent’ [citation], means that “‘[a]s long as
+there is one unassailable jurisdictional finding, it is immaterial
+that another might be inappropriate’” [citation]. Thus, . . . the
+appeal may be rendered moot . . . where there are multiple
+findings against one parent; the validity of one finding may
+render moot the parent’s attempt to challenge the others.” (In re
+D.P. (2023) 14 Cal.5th 266, 283–284.) However, “‘where a
+jurisdictional finding “serves as the basis for dispositional orders
+
+
+
+
+                                  6
+that are also challenged on appeal” [citation], the appeal is not
+moot.’” (Id. at p. 283.)
+       On appeal, father only challenges count b-3, which alleges
+that his substance abuse posed a substantial risk to Royal. He
+argues that his challenge is justiciable because count b-3 was the
+basis for the juvenile court’s removal order. We agree; at
+disposition, the juvenile court stated that its factual basis for
+removing Royal from father was his current and historic
+substance abuse.
+       Urging us to conclude otherwise, DCFS counters that the
+removal order “would not . . . change[]” if count b-3 is struck,
+since “[t]he juvenile court could have made the same dispositional
+orders that it did because of the unchallenged jurisdictional
+finding that father failed to protect Royal from mother’s
+substance abuse.” This argument is entirely speculative. While
+the juvenile court theoretically “could have” found that father’s
+failure to protect Royal justified his removal, it did not actually
+do so. When “stat[ing] the facts on which [its] decision to remove
+[Royal from father] [was] based” (§ 361, subd. (e)), the court did
+not mention any facts relevant to the failure to protect allegation;
+it only focused on father’s past and present drug use.
+       Contrary to DCFS’s suggestion, we cannot simply infer that
+the juvenile court would have issued the removal order based on
+its jurisdictional finding that father failed to protect Royal.
+Evidence that supports a jurisdictional finding does not
+necessarily provide sufficient grounds for removal. (See In re
+Dakota J. (2015) 242 Cal.App.4th 619, 631 [the clear and
+convincing evidence standard needed to remove a child from his
+parent “is a heightened standard of proof, as compared to the
+preponderance of the evidence standard necessary to find
+
+
+
+
+                                 7
+jurisdiction over a child”].) Absent any suggestion from the
+juvenile court that father’s failure to protect Royal met the
+heightened standard required for removal, we cannot conclude
+that the court would have issued its order on this alternate basis.
+       Because count b-3 formed the sole basis for the disposition
+order removing Royal, father’s jurisdictional challenge is not
+moot.
+       B.    Substantial Evidence Supports Count b-3
+             1.     Applicable law and standard of review
+       Under section 300, subdivision (b)(1), the juvenile court has
+jurisdiction over and may adjudge to be a dependent of the court
+a “child [who] has suffered, or there is a substantial risk that the
+child will suffer, serious physical harm or illness, as a result of”—
+as relevant here—“[t]he inability of the parent . . . to provide
+regular care for the child due to the parent’s . . . substance abuse”
+(§ 300, subd. (b)(1)(D)).
+       Our Supreme Court recently held that “under section
+300(b)(1)(D), ‘substance abuse’ bears its ordinary meaning of
+excessive use of drugs or alcohol[.]” (In re N.R. (2023) 15 Cal.5th
+520, 555.) In addition, “[d]ependency jurisdiction . . . requires
+more than just the identification of substance abuse . . . . A court
+must also find that the parent . . . is unable to provide regular
+care for a child and that as a result, the child has suffered serious
+physical harm or illness or is at significant risk of suffering
+serious physical harm or illness.” (Id. at p. 556.)
+       Jurisdictional findings must be made by a preponderance of
+the evidence. (§ 355, subd. (a); Cynthia D. v. Superior Court
+(1993) 5 Cal.4th 242, 248.) We review those findings for
+substantial evidence—“evidence that is reasonable, credible and
+of solid value. [Citations.] We do not evaluate the credibility of
+
+
+
+
+                                 8
+witnesses, attempt to resolve conflicts in the evidence or
+determine the weight of the evidence. Instead, we draw all
+reasonable inferences in support of the findings, view the record
+favorably to the juvenile court’s order and affirm the order even if
+there is other evidence supporting a contrary finding.” (In re R.V.
+(2012) 208 Cal.App.4th 837, 843.) “Substantial evidence may
+include inferences, so long as any such inferences are based on
+logic and reason and rest on the evidence.” (In re Madison S.
+(2017) 15 Cal.App.5th 308, 318.)
+             2.    Analysis
+       Father insists that the only evidence of his drug use is a
+single positive cocaine test, which he argues is insufficient to
+establish substance abuse. We disagree; the record amply
+supports the juvenile court’s jurisdictional finding regarding
+father’s substance abuse.
+       DCFS requested three drug tests from father in the four-
+month period between the initial referral and the jurisdiction
+hearing. The first test was positive for, inter alia, cocaine, and
+the third was positive for ethanol. Father failed to show for the
+second test; his only explanation was that he was “busy.” (In re
+Christopher R. (2014) 225 Cal.App.4th 1210, 1217 [without an
+adequate explanation, a missed drug test may be “properly
+considered the equivalent of a positive test result”], disapproved
+on another ground in In re N.R., supra, 15 Cal.5th at p. 560,
+fn. 18].)3 Thus, two out of father’s three drug tests either are or
+
+
+3     In his reply brief, father urges that because “the juvenile
+court could not compel father to drug test” before taking
+jurisdiction, “it is improper to hold father’s [earlier] failure to
+participate in voluntary drug testing against him at the
+jurisdiction hearing.” But courts often construe voluntary,
+
+
+
+
+                                  9
+may be considered positive for illicit drugs. And as the juvenile
+court noted, father did not provide one “clean” negative test
+indicating sobriety.
+        Despite this record, father consistently denied using any
+drugs other than marijuana. (See In re K.B. (2021)
+59 Cal.App.5th 593, 601 [juvenile court could reasonably infer
+from a parent’s “dissembling about . . . drug use” that he was
+“trying to hide [an] ongoing drug addiction”], disapproved on
+another ground in In re N.R., supra, 15 Cal.5th at p. 560, fn. 18.)
+Father also evaded DCFS’s efforts to interview him, objected to
+drug testing, and insisted that he had done nothing wrong and
+did not need to “be involved with DCFS.” (See In re E.E. (2020)
+49 Cal.App.5th 195, 213 [a parent’s dishonesty about the extent
+of his drug use, missed drug tests, and failure to take any steps to
+address his drug use supports a finding that his substance abuse
+places his child at risk].)
+        Finally, father’s erratic conduct leading up to the
+jurisdictional hearing supports the juvenile court’s finding. As
+noted in DCFS’s reports, “[c]ocaine . . . is known to cause
+. . . [among other things,] sleep deprivation, intense anger,
+volatile mood swings, agitation, . . . [and] impulsivity[.]” Despite
+appearing sober during scheduled in-person interviews with
+social workers, father displayed each of these problematic
+behaviors: After Royal’s oldest sibling reported that mother and
+
+prejurisdiction drug tests as positive when missed. (See, e.g., In
+re J.M. (2019) 40 Cal.App.5th 913, 923; In re Lana S. (2012)
+207 Cal.App.4th 94, 104, fn. 5.) The cases father cites to the
+contrary are inapposite. (See, e.g., In re Ma.V. (2021)
+64 Cal.App.5th 11, 24 [mother’s failure to comply with voluntary
+mental health services did not justify removal, particularly where
+DCFS failed to adequately interview her service providers].)
+
+
+
+
+                                10
+father were staying up late at night and then sleeping all day,
+social workers found father sleeping into the afternoon; father
+had been combative with hospital staff trying to investigate and
+report on mother’s drug use; one day after agreeing to cooperate
+with DCFS, father angrily refused to drug test and told a social
+worker not to contact him further; and during a fight with
+mother, father impulsively left an accusatory message on a social
+worker’s phone, which he regretted the next day.
+       None of these incidents on their own necessarily indicate
+substance abuse. But taken together with father’s positive drug
+tests, his dishonesty about his drug use, and his failure to
+cooperate with DCFS, they support a reasonable inference that
+father had a substance abuse problem that endangered Royal.
+       Father insists that there was no evidence of his inability to
+provide regular care to Royal, and thus no evidence that his
+substance abuse put the child at risk. Not so. The record amply
+supports an inference that father was abusing substances and
+behaving unpredictably when Royal, a newborn, needed constant
+care and supervision. (See In re N.R., supra, 15 Cal.5th at p. 559
+[“a child’s youth and maturity level can bear upon the care that
+the child may require and whether a parent’s . . . substance abuse
+places the child at substantial risk of serious physical harm”].)
+Father’s repeated denials that he used drugs only increased the
+risk of harm to Royal. (See In re A.F. (2016) 3 Cal.App.5th 283,
+293 [“‘[D]enial is a factor often relevant to determining whether
+persons are likely to modify their behavior in the future without
+court supervision’”].)
+       Father also points to various pieces of evidence that could
+contradict a finding of substance abuse. But under substantial
+evidence review, we must affirm “even if there is other evidence
+
+
+
+
+                                11
+supporting a contrary finding.” (In re R.V., supra,
+208 Cal.App.4th at p. 843.)
+II.    Dispositional Orders
+       Father appeals the dispositional orders removing Royal
+from his custody, limiting educational rights, and requiring
+monitored visitation. We examine each of these in turn.
+       A.    Removal
+             1.    Applicable law and standard of review
+       The juvenile court may remove a child from his parent
+upon finding that “there is a substantial risk of injury to the
+child’s physical health, safety, protection or emotional well-being
+if he or she were returned home, and there are no reasonable
+means to protect the child. (§ 361, subd. (c)(1).) “‘Clear and
+convincing” evidence requires a finding of high probability. The
+evidence must be so clear as to leave no substantial doubt. It
+must be sufficiently strong to command the unhesitating assent
+of every reasonable mind. [Citations.]’ [Citation.]” (In re V.L.
+(2020) 54 Cal.App.5th 147, 154.)
+       We review removal orders for substantial evidence. (In re
+V.L., supra, 54 Cal.App.5th at p. 154.) Because the juvenile court
+must make its finding that a ground for removal exists under the
+clear and convincing evidence standard of proof (§ 361, subd. (c)),
+“the question before the appellate court is whether the record as
+a whole contains substantial evidence from which a reasonable
+fact finder could have found it highly probable that the fact was
+true.” (Conservatorship of O.B. (2020) 9 Cal.5th 989, 1011.)
+             2.    Analysis
+       As described above, father’s substance abuse resulted in
+unpredictable behavior, posing a substantial risk of injury to
+Royal, who required even more consistent care and attention
+
+
+
+
+                                12
+than a typical four-month-old, given his lingering health
+complications from prenatal drug exposure. The juvenile court
+reasonably could have concluded that returning Royal to father’s
+custody would pose an ongoing serious risk to his physical health,
+considering Royal’s special needs and father’s insistence that he
+“ha[d] nothing to do with th[is] . . . case and that he did nothing
+wrong.” (See In re T.V. (2013) 217 Cal.App.4th 126, 133 [“A
+parent’s past conduct is a good predictor of future behavior”]; In
+re Gabriel K. (2012) 203 Cal.App.4th 188, 197 [“One cannot
+correct a problem one fails to acknowledge”].)
+       Moreover, the juvenile court was justified in finding that
+there were no reasonable alternatives to removal. Father had a
+history of noncooperation with DCFS. He failed to communicate
+at all with DCFS for two of the four months between Royal’s birth
+and the dispositional hearing, despite the agency’s numerous
+attempts to contact him. When confronted with troubling
+information, father provided DCFS with implausible
+explanations, as when he attempted to explain his positive
+cocaine test by saying that he had recently handled potentially
+contaminated cash. And, from the inception of the case, father
+was abrasive and aggressive with service providers, social
+workers, and other persons who challenged his authority or his
+version of events, including the hospital staff attending Royal’s
+birth. This record amply supports an inference that less
+restrictive protective means such as participation in maintenance
+services or supervised custody would not be able to adequately
+protect Royal.
+       Father advances three counterarguments against this
+conclusion. First, he argues that removal was not warranted
+because “there was no substantial evidence Royal had ever
+
+
+
+
+                                13
+suffered physical harm.” But “[a]ctual harm . . . is not necessary
+before a child can be removed. ‘Reasonable apprehension stands
+as an accepted basis for the exercise of state power.’” (In re V.L.,
+supra, 54 Cal.App.5th at p. 154.) Nor can a child only be
+removed, as father argues, “in extreme cases of parental abuse or
+neglect.” Rather, removal is warranted where, as here, “a
+reasonable trier of fact could have found it highly probable that
+placement of [Royal] with father would pose a substantial risk of
+[the child] being harmed by [father’s substance abuse], and that
+there were no reasonable means to protect [Royal] without
+removal from father’s physical custody.”4 (In re V.L., supra, at
+pp. 156–157.)
+       Second, father asserts that the juvenile court failed to
+consider “reasonable alternative[s] to removal.” Specifically,
+father urges us to find that the “assertion of jurisdiction over
+Royal was, itself, a reasonable alternative to removal[.]” Father
+also argues that the juvenile court could have imposed “a plan of
+strict supervision” including conditions such as “father’s
+participation in services . . . [and] testing negative for cocaine.”
+       We reject both arguments. Father cites no binding
+authority for the proposition that jurisdiction, without more, can
+serve as a reasonable alternative to removal.5 But even
+
+4      In reaching this conclusion, we do not, as father implies in
+his reply brief, construe “the jurisdictional finding[]” as “prima
+facie evidence that [Royal] c[ould] not be safely left in [father’s]
+physical custody.” Instead, we determine that the same evidence
+warranting jurisdiction independently meets the heightened
+standard required for removal.
+
+5      For these reasons, the dissenting opinion on which father
+relies is factually distinguishable. (See In re G.C. (2020)
+
+
+
+
+                                 14
+assuming arguendo that jurisdiction itself could adequately
+protect a dependent child in some circumstances, as discussed
+above, neither jurisdiction nor a plan of strict supervision would
+be a reasonable alternative to removal in this case. Father’s
+history of failing to cooperate and/or communicate with DCFS
+shows that no amount of supervision could assure Royal’s safety
+in father’s custody. Court orders mandating random drug tests
+or participation in services could not sufficiently protect Royal
+when father had a history of failing to show for drug testing and
+failing to respond to DCFS check-ins, often for weeks at a time.
+And father had not addressed or acknowledged his substance
+abuse or the concerning behaviors fueled by it; as the juvenile
+court recognized, Royal could not be protected from behavior that
+father denied ever occurred.
+       Lastly, father claims that DCFS erred by not “includ[ing] in
+its [reports] a discussion of the reasonable efforts made to
+prevent or eliminate removal.” (See Cal. Rules of Court, rule
+5.690(a)(1)(B)(i).) We agree with DCFS that father forfeited this
+argument on appeal by failing to object to the adequacy of these
+reports below. (See In re M.V. (2014) 225 Cal.App.4th 1495, 1508
+[“courts have repeatedly held that a party’s failure to object
+forfeits appellate review of the adequacy of—or the failure to
+prepare—mandatory assessment reports in juvenile
+proceedings”].) Accordingly, we need not consider father’s
+arguments.
+
+48 Cal.App.5th 257, 273–274 [dis. opn. of Menetrez, J.] [opining
+that jurisdiction could be a reasonable alternative to removal
+where “all of the immediate [safety] risks had been addressed” by
+the time of the removal hearing and “[t]here [wa]s no evidence
+that those risks were likely to recur overnight and without
+warning”].)
+
+
+
+
+                                15
+       Regardless, even assuming DCFS’s report was insufficient,
+the only alternatives to removal father identifies could not have
+adequately protected Royal. Under these circumstances, any
+failure to comply with California Rules of Court, rule
+5.690(a)(1)(B)(i) was harmless.6
+       B.    Limiting Father’s Educational Rights Was Not
+             an Abuse of Discretion
+             1.    Applicable law and standard of review
+       “Parents have a constitutionally protected liberty interest
+in directing their child[]’s education. [Citations.] However, when
+a child is a dependent child, a court may limit a parent’s ability to
+make educational decisions on the child’s behalf by appointing a
+responsible adult to make educational decisions.” (In re R.W.
+(2009) 172 Cal.App.4th 1268, 1276; § 361, subd. (a)(1).) “A court-
+imposed limitation on a parent’s educational rights ‘may not
+exceed those necessary to protect the child.’” (In re R.W., supra,
+at p. 1276; § 361, subd. (a)(1).) An order limiting a parent’s
+educational rights is reviewed for abuse of discretion, “bearing in
+mind ‘[t]he focus of dependency proceedings is on the child, not
+the parent.’” (In re R.W., supra, at p. 1277.)
+
+
+
+
+6     Father’s reliance on In re Ashly F. (2014) 225 Cal.App.4th
+803 does not assist him, as that case involved the potential
+alternative of removing one parent from the home while allowing
+the children to remain with the other parent. (Id. at pp. 810–
+811.) That alternative was not a possibility here. Additionally,
+unlike Royal, the children in In re Ashly F. were not infants who
+were especially vulnerable to injury in the absence of careful, full-
+time supervision. (Ibid.)
+
+
+
+
+                                 16
+             2.    Analysis
+      Father argues that the juvenile court abused its discretion
+in limiting his educational rights. Because substantial evidence
+supports the order, we disagree. (In re Daniel C. H. (1990)
+220 Cal.App.3d 814, 839 [no abuse of discretion where
+substantial evidence supports an order, even if other evidence
+could support a contrary conclusion].)
+      A few weeks before the dispositional hearing, Royal faced
+unique developmental challenges. At four months old, Royal was
+constantly crying and shaking and could not be soothed, raising
+concerns about developmental delays caused by prenatal drug
+exposure. And father displayed an “unwilling[ness]” to provide
+timely, responsive input to various authorities about Royal’s
+needs. (In re Samuel G. (2009) 174 Cal.App.4th 502, 510.)
+Father refused to provide the hospital with requested
+information when Royal was born. He also stopped
+communicating with DCFS at multiple points, sometimes
+disappearing for up to a month. This behavior supports a
+reasonable inference that father would not always be available or
+willing to make the timely developmental decisions that Royal
+needed.
+      C.     Ordering Monitored Visitation Was Not an
+             Abuse of Discretion
+             1.    Applicable law and standard of review
+      Fashioning a visitation order “necessarily involves a
+balancing of the interests of the parent in visitation with the best
+interests of the child.” (In re Jennifer G. (1990) 221 Cal.App.3d
+752, 757.) We will not disturb a visitation order on appeal
+“unless the [juvenile] court made an arbitrary, capricious, or
+
+
+
+
+                                 17
+patently absurd determination. [Citation.]” (In re Brittany C.
+(2011) 191 Cal.App.4th 1343, 1356.)
+             2.     Analysis
+      Considering father’s unresolved substance abuse issues, his
+dishonesty about and denials of drug use, and his history of
+noncooperation with DCFS, we conclude that the juvenile court’s
+order for monitored visitation was well within its discretion. (See
+In re R.R. (2010) 187 Cal.App.4th 1264, 1284 [“Given father’s
+recent drug use and his efforts to keep that information from
+DCFS and the court, we cannot say the juvenile court abused its
+discretion in requiring monitored visits”].)
+      Father argues that the juvenile court erred because it did
+not articulate a reason for restricting his visitation rights. But
+he cites no authority for the proposition that the court was
+required to do so, or that failing to expressly state the factual
+basis for a visitation order constitutes an abuse of discretion.
+(Landry v. Berryessa Union School Dist. (1995) 39 Cal.App.4th
+691, 699–700 [“When an issue is unsupported by pertinent or
+cognizable legal argument it may be deemed abandoned and
+discussion by the reviewing court is unnecessary”].) And in any
+event, the basis for the order is readily inferable; father’s drug
+use, duplicitousness, and failure to cooperate with authorities
+suggests that periods of unsupervised visitation would not
+necessarily be safe for Royal, especially given his special care
+needs. Thus, a monitoring restriction was in Royal’s best
+interests.
+III. ICWA
+      A.     Additional Relevant Background
+      In December 2022, mother and father each filed an ICWA-
+020 form denying any Indian American ancestry. On the basis of
+
+
+
+
+                                18
+these forms, the juvenile court found that it “has no reason to
+know that Royal is an Indian child or that the [ICWA] applies.”
+       B.     Applicable Law
+       “ICWA was enacted to curtail ‘the separation of large
+numbers of Indian children from their families and tribes
+through adoption or foster care placement’ [citation], and ‘to
+promote the stability and security of Indian tribes and families by
+establishing . . . standards that a state court . . . must follow
+before removing an Indian child from his or her family’
+[citations].” (In re Dezi C. (2022) 79 Cal.App.5th 769, 780, review
+granted Sept. 21, 2022, S275578.)
+       Under California law enacted to implement ICWA, DCFS
+and the juvenile court have “three distinct duties . . . in
+dependency proceedings.” (In re D.S. (2020) 46 Cal.App.5th 1041,
+1052.) The first is the initial duty of inquiry, which DCFS
+“discharges . . . chiefly by ‘asking’ family members ‘whether the
+child is, or may be, an Indian child.’ ([§ 224.2], subd. (b).) This
+includes inquiring of not only the child’s parents, but also others,
+including but not limited to, ‘extended family members.’ (Ibid.)
+For its part, the juvenile court is required, ‘[a]t the first
+appearance’ in a dependency case, to ‘ask each participant’
+‘present’ ‘whether the participant knows or has reason to know
+that the child is an Indian child.’ (Id., subd. (c).)” (In re Dezi C.,
+supra, 79 Cal.App.5th at p. 780; see also Cal. Rules of Court, rule
+5.481(a)(1)-(2).) The second duty—the duty of further inquiry—is
+triggered if there is “reason to believe that an Indian child is
+involved” (§ 224.2, subd. (e)), while the third duty—to notify the
+relevant tribes—is triggered if there is “reason to know . . . that
+an Indian child is involved” (§ 224.3, subd. (a)).
+
+
+
+
+                                 19
+       Numerous appellate courts have weighed in on the
+consequence of a failure to satisfy the duty of initial ICWA
+inquiry on appeal from an order prior to termination of parental
+rights. At least five different types of dispositions have emerged.
+(See In re Dominick D. (2022) 82 Cal.App.5th 560, 563–564, 567–
+568 [affirming the juvenile court’s jurisdictional and dispositional
+findings and orders, vacating the finding that ICWA did not
+apply, and remanding for ICWA compliance]; In re S.H. (2022)
+82 Cal.App.5th 166, 171 [“hold[ing] that when a social services
+agency accepts its obligation to satisfy its inquiry obligations
+under ICWA, a reversal of an early dependency order is not
+warranted simply because a parent has shown that these ongoing
+obligations had not yet been satisfied as of the time the parent
+appealed” and affirming findings and orders in their entirety]; In
+re Baby Girl M. (2022) 83 Cal.App.5th 635, 638–639 [dismissing
+appeal as moot on the theory that no effective relief could be
+provided]; J.J. v. Superior Court (2022) 81 Cal.App.5th 447, 461
+[finding that ICWA issue was unripe for review as “any perceived
+deficiencies with ICWA inquiry and noticing may still be resolved
+during the normal course of the ongoing dependency
+proceedings”]; D.S. v. Superior Court (2023) 88 Cal.App.5th 383,
+387–389, 391–392 [construing appeal as a writ petition seeking
+order directing compliance with ICWA duties and, upon
+consideration of the merits, granting the requested relief].)
+       C.    Standard of Review
+       “On appeal, we review the juvenile court’s ICWA findings
+for substantial evidence. [Citations.] But where the facts are
+undisputed, we independently determine whether ICWA’s
+requirements have been satisfied. [Citation.]” (In re D.S., supra,
+46 Cal.App.5th at p. 1051.)
+
+
+
+
+                                20
+       D.    Analysis
+       Father argues that DCFS erred by failing to ask either
+maternal grandmother or paternal aunt about Royal’s potential
+Indian ancestry. We agree. DCFS failed to discharge its initial
+duty of inquiry by failing to make inquiries with these relatives,
+who were known and available to the agency.7 (See § 224.2, subd.
+(b) [requiring DCFS to question “‘extended family members’”
+about possible Indian ancestry]; In re Dezi C., supra, 79
+Cal.App.5th at pp. 776–777.)
+       Having found ICWA error, we must determine the remedy.
+Without conceding error, DCFS urges us to either dismiss
+father’s ICWA challenge as moot or affirm. We instead elect to
+follow In re Dominick D., supra, 82 Cal.App.5th 560 and vacate
+the juvenile court’s finding that ICWA does not apply, remand for
+compliance with ICWA and related California law, and otherwise
+affirm the jurisdictional findings and dispositional orders.
+       In so doing, we recognize that the juvenile court and DCFS
+“have an affirmative and continuing duty to inquire” into Royal’s
+Indian status as these dependency proceedings continue.
+(§ 224.2, subd. (a); see also In re Isaiah W. (2016) 1 Cal.5th 1, 14.)
+DCFS “has a duty ‘on an ongoing basis’ to report ‘a detailed
+description of all inquiries, and further inquiries it has
+undertaken, and all information received pertaining to the child’s
+Indian status.’ ([Cal. Rules of Court, r]ule 5.481(a)(5).) And the
+juvenile court, even after it concludes that ICWA does not apply,
+retains the power (and duty) to reverse that determination ‘if it
+
+
+7     We also note that the juvenile court failed to ask the
+parents about any potential Indian heritage, even though they
+were both present at the detention hearing. (§ 224.2, subd. (c); In
+re Dezi C., supra, 79 Cal.App.5th at p. 780.)
+
+
+
+
+                                 21
+subsequently receives information providing reason to believe
+that the child is an Indian child.’ (§ 224.2, subd. (i)(2); see also
+[Cal. Rules of Court,] rule 5.482(c)(2).)” (In re S.H., supra,
+82 Cal.App.5th at p. 176.) Thus, while in some respects, there
+may be no reason to remand this case at all, we also recognize
+that we should not allow an erroneous finding to stand when it
+can be corrected.
+                          DISPOSITION
+       The juvenile court’s finding that ICWA does not apply is
+vacated. The matter is remanded for further proceedings in
+which (1) DCFS shall make reasonable efforts to ask all known
+and available family members, including maternal grandmother
+and paternal aunt, whether Royal is or may be an Indian child;
+(2) DCFS shall document these efforts to the juvenile court;
+(3) the juvenile court shall make the same inquiry of each parent
+at their next appearance; (4) the juvenile court shall then make a
+finding regarding ICWA’s applicability; and (5) depending upon
+that finding, the juvenile court and DCFS shall proceed in
+accordance with sections 224.2 and 224.4. The jurisdictional
+findings and dispositional orders are otherwise affirmed.
+       NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS.
+
+
+
+                               _____________________, Acting P. J.
+                               ASHMANN-GERST
+
+We concur:
+
+
+____________________, J.       ____________________, J.
+CHAVEZ                         HOFFSTADT
+
+
+
+
+                                 22

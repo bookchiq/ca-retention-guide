@@ -1,0 +1,101 @@
+cl_opinion_id,sample,at_issue,notes
+4364369,precision,1,capital; motion to suppress five search warrants/probable cause
+4555337,precision,1,capital; suppression of detention/arrest/vehicle search
+4563239,precision,1,suppression; probable cause to seize backpack
+4570732,precision,1,suppression; arrest without probable cause at motel
+4579150,precision,1,suppression; private search doctrine (Google hash)
+4579394,precision,1,suppression; protective sweep reversed
+4584593,precision,1,suppression; patdown of passenger
+4587648,precision,1,"suppression; patsearch, automobile exception, inevitable discovery"
+4650529,precision,1,People's appeal; school patdown suppression affirmed
+4652064,precision,1,"suppression; consensual encounter, search incident to arrest"
+4653413,precision,1,suppression; detention without reasonable suspicion
+4662255,precision,1,suppression; PRCS search forfeiture and merits
+4671491,precision,1,suppression; knock-and-talk curtilage (Jardines)
+4672050,precision,1,"suppression; unlawful detention, parole attenuation"
+4680654,precision,1,IAC for not renewing suppression motion; Bailey detention analyzed
+4689551,precision,1,suppression; prolonged traffic stop/dog sniff (Rodriguez)
+4692262,precision,1,suppression claim not cognizable (Lilienthal); appeal dismissed
+4693351,precision,1,suppression; protective sweep of residence reversed
+4879041,precision,1,capital; suppression of gun from traffic stop patdown
+5141802,precision,1,suppression; vehicle stop reasonable suspicion
+6226919,precision,1,CalECPA/4A exigency suppression of phone ping
+6330981,precision,1,People's appeal; patdown during traffic stop suppression affirmed
+6349554,precision,1,suppression; third-party consent/private agent home entry
+6497091,precision,1,suppression; traffic stop for tinted windows
+6498282,precision,1,suppression; unlawfully prolonged traffic stop
+7799638,precision,1,suppression; patdown during traffic stop
+8210842,precision,1,suppression; unlawful detention attenuated by assault on officer
+9247540,precision,1,suppression; warrantless vehicle/backpack search reversed
+9380251,precision,1,"suppression; vehicle search, Lopez, good faith"
+9400901,precision,1,suppression; consensual encounter vs detention
+9895525,precision,1,writ; involuntary consent to vehicle search
+9906709,precision,1,Facebook search warrant probable cause/good faith
+10777094,precision,1,civil expulsion writ; Fourth Amendment car search claim rejected (consent/exclusionary rule)
+11084427,precision,1,suppression; reasonable suspicion for vehicle stop
+11100028,precision,1,suppression; no expectation of privacy in tent
+11139069,precision,1,suppression; traffic stop for missing plates
+11175554,precision,1,suppression; exigent entry and search warrants
+11199867,precision,1,suppression; consent to home entry by ruse
+11230695,precision,0,UNSURE: Faretta claim; suppression reconsideration noted only as 1538.5 relitigation bar
+11230700,precision,1,suppression; license plate reader standing
+11262984,precision,1,suppression; prolonged traffic stop
+11275411,precision,1,CalECPA suppression; good faith consent phone search
+11293764,precision,1,suppression; reasonable suspicion for traffic stop (911 tip)
+11307789,precision,1,"suppression; probable cause vehicle search, prolonged stop"
+11345691,precision,1,suppression; prolonged traffic stop reversed
+11354587,precision,1,suppression; patdown of purse
+11402453,precision,1,suppression; prolonged traffic stop
+11421849,precision,1,suppression; patdown during traffic stop
+11450805,precision,1,UNSURE: Wende; suppression arguments held not cognizable (no ruling before plea)
+11484874,precision,1,Franks traverse/search warrant probable cause
+4524138,demoted,0,bail bond forfeiture/Humphrey
+4556551,demoted,0,Wende plea; warrant only in facts
+4561584,demoted,0,"UNSURE: Wende; suppression orders reviewed generically, no analysis"
+4567018,demoted,0,cell phone search probation condition invalid (Lent)
+4642187,demoted,0,attempted murder sufficiency/late evidence
+4644394,demoted,0,heat of passion instruction/sufficiency
+4667420,demoted,0,electronic search probation condition
+4669184,demoted,0,electronic search probation condition forfeited; AB 1950
+4681393,demoted,0,electronic search probation condition
+4689185,demoted,0,child molestation sufficiency
+4702499,demoted,0,juror/evidence/IAC issues
+4709717,demoted,0,probation revocation sufficiency
+4710304,demoted,0,trust dispute
+4880418,demoted,1,UNSURE: Wende; briefly holds traverse of search warrant properly denied
+4910249,demoted,0,Pitchess/Faretta/Marsden; suppression only in background
+4910852,demoted,0,"UNSURE: Wende; suppression ruling recounted, no analysis"
+4994943,demoted,0,sufficiency/excessive force instructions for resisting officer
+5121883,demoted,0,jail possession sufficiency/evidence
+5132130,demoted,0,civil CMIA/negligence data theft
+6350212,demoted,0,stalking/extortion sufficiency; warrant only in facts
+8482850,demoted,0,electronic search probation condition; speedy trial
+9350108,demoted,0,civil rights dependency fabrication; not search/seizure
+9350325,demoted,1,civil 1983 Fourth Amendment seizure claim (speed trap stops) rejected
+9384366,demoted,0,anti-SLAPP retaliatory inspections; 4A argument not reached
+9387462,demoted,0,Facebook authentication/instructions; warrant only in facts
+9393977,demoted,0,probation/sex offense issue; warrant only in facts
+9656874,demoted,0,"UNSURE: Wende; suppression ruling recounted, no analysis"
+9688100,demoted,0,consolidation/ghost gun testimony
+9865392,demoted,0,"electronic search probation condition (Lent/IAC), not search claim"
+9930410,demoted,0,sufficiency/sentencing
+9945619,demoted,0,probation revocation hearsay
+9949185,demoted,0,tattoo evidence/confrontation/sentencing
+9973443,demoted,0,custody credits/equal protection
+10499544,demoted,1,UNSURE: footnote rejects hospital-room 4A privacy claim as abandoned/meritless; main issue Miranda
+10609956,demoted,0,evidentiary/instructional issues; warrant only in facts
+10612345,demoted,0,civil power theft damages
+10759388,demoted,0,Evid. Code 1108/352; sentencing
+10785114,demoted,0,1172.6 resentencing
+10817123,demoted,0,"UNSURE: Wende; suppression hearing only recounted, no analysis"
+10838073,demoted,0,dependency disposition
+11132866,demoted,0,prosecutorial misconduct re search warrant mention
+11143484,demoted,0,theft by false pretenses sufficiency
+11148480,demoted,0,1172.6 resentencing
+11208861,demoted,0,dependency jurisdiction
+11230701,demoted,0,evidentiary issues/cruel punishment; warrant only in facts
+11248688,demoted,0,civil negligence re handling of warrant-seized phone data
+11280531,demoted,0,CPRA police records disclosure
+11327590,demoted,0,evidentiary/instructional; warrants only in facts
+11337164,demoted,0,gang expert hearsay/special circumstance
+11450720,demoted,1,"UNSURE: civil writ; ballot seizure under search warrants held unlawful under Elections Code, not 4A"

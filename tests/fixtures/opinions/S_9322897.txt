@@ -1,0 +1,1431 @@
+cl_opinion_id: 9322897
+cluster: 9327585
+docket: S262010
+date: 2022-12-05
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Ramirez
+----
+IN THE SUPREME COURT OF
+                CALIFORNIA
+
+                        THE PEOPLE,
+                   Plaintiff and Respondent,
+                            v.
+               MARCOS ANTONIO RAMIREZ,
+                 Defendant and Appellant.
+
+                            S262010
+
+                    Fifth Appellate District
+                           F076126
+
+               Tuolumne County Superior Court
+                         CRF50964
+
+
+
+                       December 5, 2022
+
+Chief Justice Cantil-Sakauye authored the opinion of the Court,
+in which Justices Corrigan, Groban, Jenkins, and Guerrero
+concurred.
+
+Justices Liu filed a dissenting opinion.
+
+Justice Kruger filed a dissenting opinion.
+                    PEOPLE v. RAMIREZ
+                            S262010
+
+
+         Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+     A criminal defendant has a constitutional right to be
+present at trial. Yet, once trial has commenced in the
+defendant’s presence in a noncapital felony case, the trial court
+may continue the trial in the defendant’s absence under Penal
+Code section 1043, subdivision (b)(2) (hereafter section
+1043(b)(2)), provided that the absence is voluntary. 1 We granted
+review in this matter to decide whether the Court of Appeal
+erred when it upheld the trial court’s finding that defendant
+Marcos Antonio Ramirez was voluntarily absent under section
+1043(b)(2).
+       Defendant failed to appear in court on the second day of
+trial. Earlier that morning, emergency medical personnel and
+police officers had been dispatched to defendant’s home after a
+possible drug overdose was reported. According to a police
+officer who responded to the home, defendant had initially
+declined medical care, but ultimately decided to be taken by his
+mother to a hospital rather than to court. The trial court ruled
+that defendant was voluntarily absent under the circumstances,
+and it continued trial without him in accordance with section
+1043(b)(2).
+      On appeal, defendant claimed the trial court violated his
+constitutional rights by finding him to be voluntarily absent
+
+
+1
+     Subsequent statutory references are to the Penal Code.
+
+
+                                1
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+without conducting an evidentiary hearing regarding the
+circumstances of his absence. A divided Court of Appeal ruled
+that substantial evidence supported the trial court’s finding that
+defendant voluntarily absented himself from trial. It further
+ruled that the court’s decision to proceed with trial, rather than
+grant defense counsel’s motion for a one-day continuance,
+constituted harmless error. (People v. Ramirez (Mar. 5, 2020,
+F076126) [nonpub. opn.].)
+      A trial court must assess the totality of facts when
+determining whether a defendant is voluntarily absent under
+section 1043(b)(2). A defendant’s absence from trial due to drug
+use is not per se voluntary for purposes of section 1043(b)(2).
+Rather, it is among the relevant circumstances that a trial court
+must consider when it decides whether a defendant has
+voluntarily absented himself or herself from trial. To the extent
+the trial court’s ruling or the Court of Appeal’s decision suggests
+that a defendant who ingests illicit drugs and subsequently
+seeks medical attention is voluntarily absent as a matter of law,
+we disagree with this proposition.
+     Nevertheless, we hold that substantial evidence supports
+the trial court’s finding of voluntary absence under the
+circumstances. In Conservatorship of O.B. (2020) 9 Cal.5th 989,
+995–996, we explained that when an appellate court reviews a
+finding that a fact has been proved by clear and convincing
+evidence, an intermediate standard of proof, the reviewing court
+evaluates “whether the record as a whole contains substantial
+evidence from which a reasonable fact finder could have found
+it highly probable that the fact was true.” Assuming without
+deciding that we employ this heightened review to the trial
+court’s determination that defendant’s voluntary absence was
+clearly established, we conclude that the record as a whole
+
+                                  2
+                         PEOPLE v. RAMIREZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+contains substantial evidence from which a reasonable fact
+finder could have found it highly probable that defendant was
+voluntarily absent. Because the Court of Appeal upheld the trial
+court’s determination that defendant had voluntarily absented
+himself from trial under section 1043(b)(2), we affirm the
+judgment of the Court of Appeal.
+        I. FACTUAL AND PROCEDURAL BACKGROUND
+    Defendant was charged with first degree residential
+burglary. (§ 459.) He pleaded not guilty to the charge and a jury
+trial was set for April 12, 2017, but he failed to appear on that
+date. Defense counsel informed the court that defendant’s
+mother had called his office and notified him that defendant was
+ill. The trial court vacated the jury trial and ordered defendant
+to appear for trial setting the next day. It also issued a bench
+warrant but stayed execution of the warrant until the following
+day. On April 13, after the trial court received a doctor’s note
+regarding defendant’s prior illness, it rescheduled trial for
+July 5, 2017.
+      Defendant was present with counsel at the start of trial on
+July 5, at which time the jury was selected and sworn in.
+Following preliminary instructions to the jury, the trial court
+released the jurors for the day and ordered them to return the
+next day at 8:30 a.m. Defendant was released on his previously
+sworn promise to appear.
+      On the morning of July 6, defendant failed to appear in
+court. At 9:30 a.m., outside the presence of the jury, the court
+called the matter with the prosecutor, defense counsel, and
+Sonora Police Officer John Bowly present to recap an earlier in
+camera discussion regarding defendant’s absence. The court
+summarized:
+
+
+                                   3
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      “THE COURT: It appears this morning [defendant]
+injected or ingested heroin and methamphetamine — at least
+the report to the Court indicated he overdosed and medical
+personnel were sent to his home. . . . [T]he first alert to this
+condition was given to [defense counsel] by [defendant’s]
+mother, and [defense counsel] then notified [the prosecutor] by
+e-mail of a problem. When . . . counsel arrived today to court,
+I had been in chambers.        We discussed the situation.
+My understanding was that — again, that emergency personnel
+were at the scene and examined [defendant,] who refused
+medical treatment.
+      “It’s my understanding that Officer Norris, who was
+present at the scene, had observed the defendant at the time
+medical treatment was refused. The Court had Officer Bowly
+contact Officer Norris to explain the situation, and . . . I asked
+Officer Norris to go to the defendant’s home and advise him that
+we were expecting him to show up for trial. And the first
+response from the defendant was that he would be here — he
+will be here for trial. And I advised him that if he failed to
+appear in 15 minutes, which is a reasonable time to arrive in
+court given the distance of his home from the courthouse, that
+I would proceed to try him in his absence. [Defense counsel] . . .
+then asked if he was going to go to the hospital, and the
+defendant then claimed he wanted to go to the hospital. And at
+that point I don’t know if he’s gone to the hospital or not.”
+      Defense counsel then received a call from defendant’s
+mother, and reported that she stated she was with defendant at
+the emergency room waiting to see a physician. The following
+colloquy occurred:
+
+
+
+
+                                  4
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      “THE COURT: All right. It’s also my understanding . . .
+that this is the second time that [defendant] has been sick on
+the day of trial. The first time, which I believe was back in April
+when this case was set for trial, on the day of trial he requested
+his mother report to the Court that he was sick with the flu.
+Court continued his trial and issued a bench warrant and
+ordered him to appear the next day. The next day his mother
+appeared, not the defendant, and she had a note from a doctor
+that said he was seen at the Sonora Regional Medical Center. [2]
+[¶] Any other facts, [c]ounsel, that should be on the record
+regarding this incident?
+      “[Prosecutor]: Yes, your Honor. . . . The Court mentioned
+in the beginning that the information was he had ingested drugs
+this morning. I think that the information was the mom
+believed he had gone out with another individual. She thinks
+he came back home around 2:00 a.m. It was my understanding
+that he ingested it sometime in the night.
+      “I received a text message from Officer Bowly . . . at
+7:00 a.m. in the morning indicating that at 7:00 a.m. [the]
+Sonora Police Department had responded to [defendant’s] home
+
+
+2
+      The minute order indicates that defendant failed to
+appear in court on April 12, 2017, but was present in court on
+April 13.    However, in its recitation of facts concerning
+defendant’s second absence from trial on July 6, the trial court
+stated twice that defendant’s mother, and not defendant, was
+present in court on April 13. Neither the prosecutor nor defense
+counsel voiced that the court was mistaken or otherwise
+indicated that defendant had personally appeared on April 13.
+In any event, it is undisputed that defendant did not appear on
+April 12, the date when his trial was initially set, and the trial
+court did not assign significant weight to defendant’s asserted
+presence (or failure to appear) in court the following day.
+
+
+                                  5
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+for the mother reporting that there was a potential overdose on
+heroin. When the officers arrived medical was there, and at
+7:24 a.m. I got a message that the defendant declined medical
+attention and refused to go in an ambulance to the hospital.
+That was 7:24 a.m. Our court hearing today was at 8:30 a.m.
+He did not show up at 8:30.
+        “When we met with the judge and the phone call was
+placed and Officer Norris responded back to the house, it was at
+. . . approximately 9:25. The defendant originally indicated over
+the phone — which we can all hear Officer Norris, that he was
+going to come at about 9:30 this morning. When the Court
+indicated that Officer Norris should give him a ride, he was then
+asked if he was going to the hospital. At that point, he switched,
+instead of coming to court, that he would rather go to the
+hospital.
+      “Apparently, he is waiting to see the doctor. It doesn’t
+appear that he’s not conscious. We also have information that
+he appeared to Officer Norris to be coherent when answering the
+questions to medical. He was able to walk unassisted. He was
+conscious and apparently still appears to be that way.
+     “As the Court mentioned, this is the second time, I believe,
+the defendant is voluntarily trying to avoid the process of the
+Court.
+     “Those [are] additional facts I wanted to put on the record,
+he declined medical and then chooses to go to the hospital
+some — now almost getting to way over an hour after when he
+was suppose[d] to be here and two hours after medical first
+contacted him.
+      “THE COURT: [Defense counsel], would you like to put
+any other facts on the record?
+
+
+                                  6
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      “[Defense counsel]: Yes, your Honor. When we spoke to
+Officer Norris, Officer Norris clearly indicated that defendant
+was . . . under the influence of drugs. [¶] In speaking to the
+mother, she said that [defendant] was nodding out and being
+conscious and nonresponsive, and she said she was going to try
+to take him to the hospital. Then on the last call [defendant’s
+mother] said she was taking him out to the car to take him to
+the hospital. This latest phone call says that she was successful
+in getting him to the car.
+      “[Defendant] is 19 years old. He does have some learning
+disabilities. So a lot of things he says on the phone, your Honor,
+cannot be taken at face value. [¶] And also if [defendant is]
+under the influence of drugs, I think he is likely to say anything
+to the policeman that was at his home. Therefore, I will suggest
+we continue the case until tomorrow 8:30 or declare a mistrial.
+     “[Prosecutor]: And, your Honor, I have plans to be out of
+town tomorrow afternoon that have been in place for some time
+now.
+      “THE COURT: All right. . . . [Section 1043(b)(2)] . . .
+provides that the absence of a defendant in a criminal felony
+case shouldn’t prevent the . . . continuing with the trial that’s
+already been commenced, the record will reflect [defendant] was
+present during jury selection process and when the jury was
+sworn. And so, again, his absence should not necessarily
+prevent the continuance of the trial all the way through verdict
+if the defendant is voluntarily absent from trial.
+      “So the issue before the Court is whether or not
+[defendant] is voluntarily absent from the trial. And clearly the
+obvious cases — some case law supports this where the
+defendant escapes or absents himself from the trial or when
+
+
+                                  7
+                           PEOPLE v. RAMIREZ
+                Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+there is disruptive behavior, and the defendant is warned he will
+be removed from the courtroom because of disruptive behavior.
+     “But I think it’s clear that in any case, criminal or civil,
+the law doesn’t allow him to take advantage of his own
+wrongdoing to delay the process of the court. [Defendant]
+voluntarily ingested controlled substances to the extent that it
+required emergency response by police and emergency medical
+care, emergency medical personnel. Apparently, he was not as
+seriously — in such a serious condition that he cannot refuse
+treatment and which he in fact did. And it was only when he
+was asked if he was going to the hospital after I advised him to
+be in court in 15 minutes, that Officer Norris will give him a
+ride, that he decides to go to the hospital.
+       “This is the second time on the day of trial or the first time
+on the day of trial before it commenced that he — his mother,
+again, reported that he had a medical condition, specifically the
+flu, I believe, and he could not be present; he was vomiting and
+could not be present. It wasn’t until the next day she came in
+with a doctor’s note that he was in fact seen at the hospital. We
+have no idea of the nature of his condition or what he was seen
+for or what the diagnosis was, just that he went to the hospital
+the next day.
+      “In this case the trial commenced. We get a call in the
+morning of the trial or the Court was advised the morning of the
+trial that he has engaged in some conduct voluntarily which
+made it — prevented him from attending the trial. Given these
+circumstances, I think [defendant] voluntarily engaged in
+conduct that resulted in him being absent from his own trial,
+and I am going to proceed with this trial in his absence, and
+[defense counsel’s] request for a mistrial is denied, request for a
+
+
+                                     8
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+continuance is denied, but I think there’s an adequate record
+here to preserve any issues that might arise on appeal.
+      “Anything else, Counsel?
+      “[Prosecutor]: No, your Honor, thank you.
+      “[Defense counsel]: Just one, he may have voluntarily
+used some drugs. I think the court is making a big assumption
+that he continued to voluntarily use drugs to the extent that he
+needed medical treatment. That portion we really don’t know.
+       “[Prosecutor]: Well, except that he did not go. The initial
+call for medical came at 7:00 a.m. They responded. He refused
+medical. He was conscious and coherent, according to Officer
+Norris. [¶] It’s now at 9:25 when he is told he needed to be in
+court or the judge was going to continue with the trial, did he
+then decide he wanted to go to the hospital some two and a half
+hours after the first call for medical.
+      “THE COURT:         All right.     There’s no evidence that
+somebody forcibly injected or caused [defendant] to consume
+controlled substances — to use controlled substances to put him
+in the condition he was in this morning when his mother made
+the phone call to [defense counsel’s] office . . . . His voluntary
+use — intentional use of controlled substances is a voluntary act
+which caused this circumstance. And I consider that an
+intentional act which caused him to be absent from the court.
+I think he waived his right to be present at his trial based on
+these circumstances, and we will proceed with the trial.”
+     The court then directed defense counsel to contact
+defendant’s mother to inform her the court planned to proceed
+with the trial without defendant. Defense counsel confirmed
+that he had notified defendant’s mother as instructed, and
+proceedings resumed in front of the jury at 9:55 a.m. The court
+
+                                  9
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+informed the jurors that trial would be proceeding in
+defendant’s absence and instructed them not to consider the
+reason for his absence or the fact that he was absent for part of
+the trial in their deliberations.
+      The prosecution rested its           case at      approximately
+11:00 a.m., following testimony from its two witnesses. Defense
+counsel stated that he had no witness “at this time.” The trial
+court then called the attorneys for a sidebar conversation and
+told defense counsel that it was willing to take a recess if the
+defense wanted to bring defendant’s mother to court. Defense
+counsel replied, “My thinking was to move things along.” He
+suggested, “We can break, go over jury instructions, come back
+at 1:15 or 1:30, and then if they’re not here, then I will rest and
+then we will do closing.” He also advised the court that he had
+asked defendant’s mother to bring defendant to the courtroom if
+they were done at the hospital. The court released the jury until
+1:15 p.m.
+      The trial court discussed the proposed jury instructions
+with counsel during the break in proceedings. The court
+indicated that it would refrain from giving certain jury
+instructions until defense counsel confirmed whether defendant
+or his mother would testify in the afternoon. The prosecutor
+then inquired whether defense counsel had heard from
+defendant. Defense counsel responded that he had “been
+texting” with defendant’s mother and kept her updated about
+the proceedings. According to defense counsel, defendant’s
+mother indicated that she was not sure whether defendant could
+return to court at 1:30 p.m. to testify, but that they would
+“definitely try.” The court asked defense counsel to inform the
+prosecutor once he received confirmation regarding whether
+defendant would testify.
+
+                                  10
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Just before 2:00 p.m., defense counsel renewed his motion
+for a mistrial on the ground that defendant had gone to the
+emergency room that morning and was still not present. The
+court denied the renewed motion without further comment. The
+court then asked defense counsel whether defendant was still in
+the hospital. Defense counsel confirmed that defendant was not
+in the hospital, adding, “I think he went back home with mom.”
+The court inquired whether that information was reflected in a
+text message from defendant’s mother, and defense counsel
+responded that it was. The court subsequently noted on the
+record that defendant was no longer in the hospital and that it
+had given defendant an opportunity to appear at trial and put
+on any testimony or defense that he may have had. Defense
+counsel noted that defendant’s mother had told him defendant
+was “in no state to come to court and take the witness stand,”
+adding, “whatever that means.” The defense then rested
+without presenting any witnesses. Following court instructions
+and closing arguments, the jury began deliberating. The jury
+was released for the evening and ordered to reappear the
+following day.
+     On July 7, the jury resumed deliberations and the court
+reconvened to address jury questions. Defendant was present
+in court after the morning session began. The jury found
+defendant not guilty of first degree residential burglary but
+found him guilty of the lesser included offense of attempted first
+degree burglary.
+      Following the jury’s verdict, the prosecutor requested that
+defendant be remanded into custody prior to sentencing based
+on his prior serious felony conviction and multiple court
+absences. Defense counsel objected, stating: “Aside from last
+April when he had the stomach flu, [defendant] has made all
+
+                                  11
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+court appearances except for yesterday, which might have been
+a moment of panic.”
+      The trial court ordered defendant to be remanded to the
+custody of the sheriff until sentencing.         It explained:
+“[Defendant’s] prior failure to appear from illness, the Court
+accommodated. [The] Court established a record in this case as
+to why it continued in defendant’s absence. He voluntarily
+ingested controlled substances too, which is voluntary conduct
+that caused him to absen[t] himself from this trial, whether he’s
+able to be here or not, he could have appeared yesterday because
+he was home according to the text message you received . . . and
+could have been in court. In any event, I think his conduct
+suggests he may not appear.”
+      At the sentencing hearing approximately three weeks
+later, the court sentenced defendant to five months in jail,
+suspended imposition of the sentence, and placed defendant on
+probation for five years. As a condition of probation, defendant
+was required to complete a residential drug treatment program.
+     Defendant appealed his conviction, arguing that the trial
+court violated his constitutional rights by finding him
+voluntarily absent and proceeding with trial in his absence.
+A divided Court of Appeal affirmed the judgment in an
+unpublished decision. The majority held that the record at the
+time of the trial court’s ruling clearly supported its implied
+findings that defendant was aware of the processes taking place
+and knew he had a right and obligation to be present, as well as
+the court’s express finding that defendant voluntarily absented
+himself from trial. The majority found defendant’s claim that
+the trial court should have granted his request for a one-day
+continuance to be “a much closer question,” but declined to
+
+
+                                  12
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+address the question on the merits by assuming error but
+finding it harmless. (People v. Ramirez, supra, F076126.)
+     The dissenting justice perceived the trial court as having
+misapplied the applicable law in finding that defendant was
+voluntarily absent from trial, and further concluded that,
+without an evidentiary hearing, the record was insufficient for
+the trial court to find that defendant intended to waive his
+fundamental constitutional right to be present at trial. The
+dissenting justice also regarded the trial court’s rejection of the
+defense request for an overnight continuance as prejudicial
+error.
+      We granted review to decide whether the Court of Appeal
+erred in affirming the trial court’s finding that defendant was
+voluntarily absent on the second day of trial.
+                         II. DISCUSSION
+      A criminal defendant’s right to be present at trial is
+protected under both the federal and state Constitutions. (U.S.
+Const., 6th & 14th Amends.; Cal. Const., art. I, § 15; People v.
+Espinoza (2016) 1 Cal.5th 61, 72 (Espinoza).) Yet that right is
+not absolute; it may be expressly or impliedly waived.
+(Espinoza, at p. 72.) As the United States Supreme Court
+explained more than a century ago, “[W]here the offense is not
+capital and the accused is not in custody, the prevailing rule has
+been, that if, after the trial has begun in his presence, he
+voluntarily absents himself, this does not nullify what has been
+done or prevent the completion of trial, but, on the contrary,
+operates as a waiver of his right to be present and leaves the
+court free to proceed with the trial in like manner and with like
+effect as if he were present.” (Diaz v. United States (1912)
+223 U.S. 442, 455.) California has codified this rule as section
+
+
+                                  13
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+1043(b)(2). (Espinoza, at p. 72, citing People v. Gutierrez (2003)
+29 Cal.4th 1196, 1204 (Gutierrez).)
+     “ ‘In determining whether a defendant is absent
+voluntarily, a court must look at the “totality of the facts.” ’ ”
+(Espinoza, supra, 1 Cal.5th at p. 72.) We have often cited the
+high court’s decision in Taylor v. United States (1973) 414
+U.S. 17 (Taylor) as instructive when evaluating whether, under
+section 1043(b)(2), a defendant is voluntarily absent after trial
+has commenced. (Espinoza, at p. 73; People v. Concepcion (2008)
+45 Cal.4th 77, 84 (Concepcion); Gutierrez, supra, 29 Cal.4th at
+p. 1204.) In Taylor, the court confirmed that “ ‘[i]f a defendant
+at liberty remains away during his trial the court may proceed
+provided it is clearly established that his absence is voluntary.
+He must be aware of the processes taking place, of his right and
+of his obligation to be present, and he must have no sound
+reason for staying away.’ ” (Taylor, at pp. 19–20, fn. 3, quoting
+Cureton v. U.S. (D.C. Cir. 1968) 396 F.2d 671, 676.) We have
+affirmed that a trial court must adhere to Taylor’s three-part
+test when evaluating whether a defendant is voluntarily absent
+under section 1043(b)(2). (Espinoza, at p. 74.)
+      We have previously recognized that “[t]he role of an
+appellate court in reviewing a finding of voluntary absence is a
+limited one. Review is restricted to determining whether the
+finding is supported by substantial evidence.” (Espinoza, supra,
+1 Cal.5th at p. 74, citing Concepcion, supra, 45 Cal.4th at p. 84.)
+But we have not yet had occasion to explore how the substantial
+evidence standard of review applies in the context of a trial
+court’s factual finding that must be “ ‘clearly established.’ ”
+(Taylor, supra, 414 U.S. at p. 19, fn. 3.)
+
+
+
+
+                                  14
+                         PEOPLE v. RAMIREZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+      Our trial courts typically apply one of three standards of
+proof depending on the particular determination of fact: the
+“preponderance of the evidence” standard, the “clear and
+convincing evidence” standard, or the “beyond a reasonable
+doubt” standard. (See Conservatorship of O.B., supra, 9 Cal.5th
+at p. 998.) The preponderance of the evidence standard, the
+lowest standard of proof, “ ‘ “simply requires the trier of fact ‘to
+believe that the existence of a fact is more probable than its
+nonexistence.’ ” ’ ” (Ibid.) The clear and convincing evidence
+standard, the intermediate standard, “ ‘requires a finding of
+high probability’ ” that a fact is true. (Ibid.) The beyond a
+reasonable doubt standard, the most rigorous standard of proof,
+applies to findings of guilt in criminal matters and requires the
+trier of fact to hold “an abiding conviction that the charge is
+true” although it “need not eliminate all possible doubt.”
+(CALCRIM No. 220; see Conservatorship of O.B., at p. 998,
+quoting § 1096.)
+       The parties did not brief the question of what standard of
+proof applies when a trial court determines it is “clearly
+established” a defendant has voluntarily absented himself from
+trial.3 We note that Taylor’s “clearly established” requirement
+could arguably convey a heightened standard of proof designed
+to protect a defendant’s fundamental constitutional right to be
+present, which might suggest the intermediate clear and
+convincing standard. (See Gutierrez, supra, 29 Cal.4th at
+p. 1209 [explaining that a defendant’s right to presence is
+
+3
+      When asked at oral argument what the “clearly
+established” standard requires, the parties provided slightly
+different interpretations but agreed that the standard was no
+more stringent than the “clear and convincing evidence”
+standard.
+
+
+                                   15
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+fundamental in our system of justice and guaranteed by our
+Constitution]; Conservatorship of O.B., supra, 9 Cal.5th at
+p. 999 [clear and convincing standard “applies to various
+determinations ‘ “where particularly important individual
+interests or rights are at stake” ’ ”].) Nevertheless, we need not
+decide this issue. Assuming for our limited purposes that the
+trial court’s finding of a clearly established voluntary absence
+was akin to a finding by clear and convincing evidence, that
+finding is supported even reviewing it under this more
+demanding standard applicable to such findings.4
+       In Conservatorship of O.B., supra, 9 Cal.5th 989, we
+clarified how an appellate court is to review the sufficiency of
+the evidence associated with a finding made by the trier of fact
+pursuant to the clear and convincing standard. Explaining that
+“appellate review of the sufficiency of the evidence in support of
+a finding requiring clear and convincing proof must account for
+the level of confidence this standard demands” (id. at p. 995), we
+
+
+4
+       The dissenting opinion would prefer to address what
+standard of proof must be met to “clearly establish” that a
+defendant’s absence is voluntary, despite neither party having
+briefed the issue, because “[n]either party here questions that
+‘clearly established’ means something more than proof by a
+preponderance of the evidence.” (Dis. opn. of Liu, J., post, at
+pp. 3–4.) We are not prepared to agree with this assumption in
+light of the parties’ statements at oral argument described ante,
+footnote 3, and the holdings of numerous courts to the contrary.
+(See, e.g., State v. Moore (Iowa 1979) 276 N.W.2d 437, 440
+[voluntary absence must be proved by a preponderance of the
+evidence]; State v. Lister (N.H. 1979) 406 A.2d 967, 969 [same];
+People v. Anderson (N.Y.App.Div. 2003) 762 N.Y.S.2d 551, 551
+[same]; Dorsey v. State (Md.Ct.App. 1998) 709 A.2d 1244, 1253
+[same]; Commonwealth v. Carusone (Pa.Super. 1986) 506 A.2d
+475, 478 [same].)
+
+
+                                  16
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+concluded that “when reviewing a finding that a fact has been
+proved by clear and convincing evidence, the question before the
+appellate court is whether the record as a whole contains
+substantial evidence from which a reasonable fact finder could
+have found it highly probable that the fact was true” (id. at
+pp. 995–996).
+       Thus, assuming the clear and convincing evidence
+standard of proof applies to the trial court’s voluntary absence
+determination, the question on review is whether the record as
+a whole contains substantial evidence from which a reasonable
+fact finder could have found it highly probable that defendant’s
+absence was voluntary. Put differently, we review the entire
+record to determine whether there is substantial evidence from
+which a reasonable fact finder could have found it highly
+probable that defendant was “ ‘ “aware of the processes taking
+place,’ ” that he knew of ‘ “his right and of his obligation to be
+present,” ’ and that he had ‘ “no sound reason for remaining
+away.” ’ ” (Espinoza, supra, 1 Cal.5th at p. 74, quoting Taylor,
+supra, 414 U.S. at p. 19, fn. 3.) We apply this standard of review
+to the present case, keeping in mind that an appellate court
+“must view the record in the light most favorable to the [trier of
+fact’s finding] and give due deference to how the trier of fact may
+have evaluated the credibility of witnesses, resolved conflicts in
+the evidence, and drawn reasonable inferences from the
+evidence.” (Conservatorship of O.B., supra, 9 Cal.5th at p. 996.)
+     We conclude that the record as a whole contains
+substantial evidence from which a reasonable fact finder could
+have found it highly probable that defendant was voluntarily
+absent. Having been present in court on the first day of trial
+and been ordered by the court to return the following day, it is
+obvious that defendant was aware of the processes taking place
+
+                                  17
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+and knew of his right and obligation to be present the next day.
+(See Espinoza, supra, 1 Cal.5th at p. 74.) Defendant does not
+dispute this. The only question, then, is whether defendant had
+no sound reason for remaining away.
+    Viewed in the light most favorable to the trial court’s
+finding of voluntary absence and giving due deference to how
+the court may have evaluated the credibility of those present at
+defendant’s home, resolved conflicts in the evidence, and drawn
+reasonable inferences from the evidence, the record supports the
+trial court’s implicit determination that defendant had no sound
+basis for failing to appear on the second day of trial. After
+learning that defendant was not present in court and had
+ingested illicit drugs to the extent that it prompted an
+emergency response, the trial court sent an officer to defendant’s
+home to confirm his condition and to arrange for defendant to
+come to court. In making its voluntary absence ruling, the court
+emphasized that defendant was sufficiently lucid to assess
+whether he needed medical treatment, which he initially
+refused.5 The court pointed out that it was only after it advised
+
+5
+      As the prosecutor emphasized at the time of the voluntary
+absence ruling, emergency medical services personnel
+dispatched to defendant’s home accepted defendant’s refusal of
+medical treatment. We take judicial notice on our own motion
+of Tuolumne County Emergency Medical Services Agency’s
+policy regarding patient refusal of emergency medical services,
+which provides that a patient may refuse emergency care only if
+emergency medical services personnel determines that the
+patient is “competent,” meaning “a patient who is alert and
+oriented with the capacity to understand the circumstances
+surrounding their illness or impairment and the risks associated
+with refusing treatment or transport.” (Tuolumne County
+Emergency Medical Services Agency, Patient Refusal of
+
+
+
+                                  18
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+defendant to be in court in 15 minutes that defendant decided to
+go to the hospital. The court also noted that this was the second
+time that defendant had failed to appear on the day of trial, and
+although defendant’s mother had reported on the trial date
+scheduled in April that defendant was ill with the flu, the court
+had “no idea of the nature of his condition or what he was seen
+for or what the diagnosis was.” Defense counsel did not
+contradict these observations even after the court invited him to
+add to the record.
+     Indeed, to the extent we may consider information provided
+to the trial court after it found defendant to be voluntarily
+absent, we note that no subsequent evidence undermined the
+court’s determination. (Cf. Concepcion, supra, 45 Cal.4th at
+p. 85, citing People v. Connolly (1973) 36 Cal.App.3d 379, 384–
+385 [noting that “defendant did not move for reconsideration of
+the determination of voluntary absence, and he did not seek to
+bring to the trial court’s attention any new evidence that
+purportedly      undermined       that     determination”].) At
+approximately 11:00 a.m., after the prosecution put on its
+witnesses, the court and counsel agreed to a recess of more than
+two hours in order to give defendant a chance to appear and
+
+
+Treatment or Transport Against Medical Advice AMA
+<https://tuolumnecounty.ca.gov/DocumentCenter/View/20633/
+Policy-41000-Patient-Refusal-of-Treatment-or-Against-
+Medical-Advice> [as of November 30, 2022]. All internet
+citations in this opinion are archived by year, docket number,
+and case name at <http://courts.ca.gov/38324.htm>.) Although
+the policy is not of substantial consequence to the determination
+of this action (see Evid. Code, § 459), it provides useful context
+regarding the trial court’s consideration of defendant’s refusal
+to accept medical treatment in making its voluntary absence
+finding.
+
+
+                                  19
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+testify, and defense counsel informed defendant’s mother of this
+plan. Yet defendant and his mother returned home instead of
+coming to court that afternoon. It appears that defendant
+himself never contacted his counsel or the court at all during the
+entire day to update them regarding his condition — the court
+received only uncorroborated information from defendant’s
+mother via defense counsel. And when defendant was present
+at court the following day, he offered no additional information
+regarding the hospital visit, such as the seriousness of his
+condition, when he was discharged, and why he could not attend
+court the previous afternoon. Nor did defendant move for
+reconsideration of the trial court’s ruling. (Concepcion, supra,
+45 Cal.4th at pp. 84–85 [“We reject defendant’s contention that
+the trial court had a sua sponte duty to reconsider its ruling once
+he was recaptured. It was up to defendant to move for
+reconsideration, which he failed to do. Even now he has failed
+to identify any new information that would have tended to
+undermine the trial court’s determination of voluntary
+absence.”].) Finally, in opposing the prosecution’s request to
+remand      defendant   for   sentencing,   defense    counsel
+acknowledged that defendant’s absence on the second day of
+trial “might have been a moment of panic.”
+    Defendant asserts the trial court erroneously found that he
+was voluntarily absent merely because the absence was “self-
+induced” based on his drug use. As a general proposition, we
+agree with defendant that a defendant who ingests illicit drugs
+and subsequently requires medical assistance after trial has
+commenced has not, invariably, voluntarily absented himself or
+herself. We reaffirm that “[i]n determining whether a defendant
+is absent voluntarily, a court must look at the ‘totality of the
+facts.’ ” (Gutierrez, supra, 29 Cal.4th at p. 1205; see Espinoza,
+
+
+                                  20
+                         PEOPLE v. RAMIREZ
+              Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+supra, 1 Cal.5th at p. 72.) And it is true that the trial court here
+did at times place heavy reliance on defendant’s drug use. But
+the record as a whole demonstrates that the trial court did
+consider all of the information available and made a factual
+finding that, notwithstanding the effects of his drug use,
+defendant could have come to court and voluntarily chose not to
+do so. Substantial evidence supports that finding.
+     From the court’s references to defendant’s only partly
+explained absence from court at the first trial date in April, his
+initial refusal to receive medical attention after medical
+personnel were dispatched to his home on the morning of July 6,
+and his decision to go to the hospital only after the court advised
+him to be in court in 15 minutes, we understand the court to
+have been unconvinced that defendant, especially by
+9:30 a.m. — more than two hours after medical personnel had
+been dispatched to defendant’s home — was truly debilitated
+and unable to come to court. That disbelief seems to have played
+an important part in the court’s determination that defendant
+was voluntarily absent. The circumstance that defendant’s
+condition, whatever it was, stemmed from voluntary drug use
+certainly also played a significant role. But the record does not
+support defendant’s characterization of the trial court’s finding
+as resting on an asserted rule that an absence stemming from
+drug use is per se voluntary. Indeed if this were so, the court’s
+inquiries to and colloquies with counsel, its unsuccessful
+advisement to defendant that he be in court in 15 minutes, and
+its later spontaneous willingness to recess for nearly three hours
+after the prosecution rested its case would likely not have
+occurred. Rather, the record as a whole reflects that the trial
+court tried to ascertain whether defendant was absent
+voluntarily. Put differently, the trial court does appear to have
+
+
+                                   21
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+considered all the circumstances shown by the evidence before
+it, even though it placed substantial emphasis on the apparently
+intentional nature of defendant’s drug use.
+     In sum, viewing the record in the light most favorable to the
+trial court’s finding, we conclude that substantial evidence
+supports the trial court’s ruling that defendant was voluntarily
+absent. Our review of the record as a whole reveals substantial
+evidence from which a reasonable fact finder could have found
+it highly probable that defendant was aware of the processes
+taking place, of his right and obligation to be present, and that
+he had no sound reason for staying away.6 Accordingly, we
+conclude that the Court of Appeal did not err when it affirmed
+the trial court’s finding that defendant was voluntarily absent. 7
+
+
+
+
+6
+      To the extent the dissent suggests that additional
+information might have cast a different light on defendant’s
+absence, the responsibility to present such evidence lay with
+defense counsel.
+7
+      Defendant’s petition for review did not adequately raise
+the additional question of whether the trial court abused its
+discretion when it denied defense counsel’s motion for a
+continuance. (Cal. Rules of Court, rule 8.516(b)(1); Scottsdale
+Ins. Co. v. MV Transportation (2005) 36 Cal.4th 643, 654, fn. 2.)
+Even if the secondary issue were adequately raised, we are not
+compelled to address it and decline to do so here. (Cal. Rules of
+Court, rule 8.516(b)(3) [“court need not decide every issue the
+parties raise”]; Coast Community College Dist. v. Commission on
+State Mandates (2022) 13 Cal.5th 800, 814, fn. 4.)
+
+
+                                  22
+                        PEOPLE v. RAMIREZ
+             Opinion of the Court by Cantil-Sakauye, C. J.
+
+
+                        III. DISPOSITION
+    We affirm the judgment of the Court of Appeal.
+
+
+                                       CANTIL-SAKAUYE, C. J.
+We Concur:
+CORRIGAN, J.
+GROBAN, J.
+JENKINS, J.
+GUERRERO, J.
+
+
+
+
+                                  23
+                     PEOPLE v. RAMIREZ
+                            S262010
+
+
+               Dissenting Opinion by Justice Liu
+
+
+      Defendant Marcos Antonio Ramirez was 19 years old and
+had been using heroin for almost a year when he overdosed on
+the night before the presentation of evidence was scheduled to
+begin in his burglary trial. Police and medical personnel were
+dispatched to his home in the morning. After initially declining
+medical treatment and telling an officer he would make it to
+court, Ramirez instead decided to go to the hospital and received
+care at the emergency room.
+     The trial court concluded that Ramirez was voluntarily
+absent from trial that day. Observing that “Ramirez voluntarily
+engaged in conduct that resulted in him being absent from his
+own trial,” the court decided it would “proceed with this trial in
+his absence,” and it denied defense counsel’s request for a
+one-day continuance so that Ramirez could be present. The
+presentation of evidence began and ended that day without
+Ramirez, and the jury convicted him of attempted burglary the
+next day.
+      A criminal defendant has a right to be present at his own
+trial under the Fifth and Sixth Amendments to the United
+States Constitution. These rights are waived by a defendant’s
+absence only if “ ‘it is clearly established that his absence is
+voluntary.’ ” (Taylor v. United States (1973) 414 U.S. 17, 19,
+fn. 3 (Taylor).) Even if a court finds a defendant voluntarily
+absent, it must grant a continuance of trial to allow the
+
+                                1
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+defendant to return unless “ ‘the public interest clearly
+outweighs that of the voluntarily absent defendant.’ ” (U.S. v.
+Latham (1st Cir. 1989) 874 F.2d 852, 857.) To weigh those
+interests, the court should assess “ ‘the likelihood that the trial
+could soon take place with the defendant present,’ ” “ ‘the
+difficulty of rescheduling,’ ” and “ ‘the burden on the
+Government.’ ” (Ibid., quoting U.S. v. Tortora (2d Cir. 1972) 464
+F.2d 1202, 1210 (Tortora).)
+      I agree with today’s opinion that the trial court should not
+have found that Ramirez’s voluntary drug use necessarily
+rendered him voluntarily absent from trial. But I cannot agree
+that the sparse record before us contains sufficient evidence by
+which the trial court could have found it clearly established that
+Ramirez voluntarily absented himself from trial under the
+correct standard. Nor can I agree that Ramirez has forfeited his
+challenge to the denial of his motion for a one-day continuance.
+Ramirez raised that argument in the trial court, in the Court of
+Appeal, and in his petition and briefing before us, and the
+Attorney General has never disputed that Ramirez properly
+preserved the issue for our review. Because the trial court erred
+by finding Ramirez’s absence voluntary and by denying the
+continuance request, and because holding trial in Ramirez’s
+absence was prejudicial, I would reverse the judgment.
+                                 I.
+      I agree with today’s opinion that a defendant’s voluntary
+ingestion of drugs and subsequent absence from trial as a result
+of that drug use are alone insufficient to establish that the
+defendant voluntarily waived the right to be present at trial.
+(See maj. opn., ante, at pp. 20‒21; see also People v. Bell (2019)
+7 Cal.5th 70, 114 [a defendant’s waiver of the right to be present
+
+
+                                 2
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+must be “knowing, intelligent, and voluntary”].) I do not agree,
+however, that the record before us contains substantial evidence
+by which the trial court reasonably could have found such a
+waiver.
+      “There can be no waiver of a constitutional right absent
+‘an intentional relinquishment of a known right or privilege.’ ”
+(People v. Taylor (1982) 31 Cal.3d 488, 497.) Courts must
+“ ‘indulge every reasonable presumption against waiver’ of
+fundamental constitutional rights.” (Johnson v. Zerbst (1938)
+304 U.S. 458, 464.) In certain circumstances, defendants may
+impliedly waive their rights to be present at trial by voluntarily
+absenting themselves. (People v. Concepcion (2008) 45 Cal.4th
+77, 82–83.) We look to a defendant’s “purpose in failing to
+appear” to determine whether an absence constitutes a
+voluntary waiver. (People v. Espinoza (2016) 1 Cal.5th 61, 74
+(Espinoza).) For a court to find that a defendant has waived the
+right to be present, “ ‘it [must be] clearly established that his
+absence is voluntary.’ ” (Taylor, supra, 414 U.S. at p. 19, fn. 3.)
+      Today’s opinion does not address what standard of proof
+must be met for the voluntariness of a defendant’s absence to be
+“clearly established.” (Taylor, supra, 414 U.S. at p. 19, fn. 3.)
+Instead, it declines to opine on the question given the parties’
+statements at oral argument and “the holdings of numerous
+courts” that voluntary absence must be proved by a
+preponderance of the evidence. (Maj. opn., ante, at p. 16, fn. 4.)
+      I see no reason to avoid the question. Future courts
+deciding whether to proceed in a defendant’s absence would
+benefit from our guidance, and there seems to be little dispute
+about the standard. Neither party here questions that “clearly
+established” means something more than proof by a
+
+
+                                 3
+                        PEOPLE v. RAMIREZ
+                          Liu, J., dissenting
+
+
+preponderance of the evidence, and no one claims it requires
+proof beyond a reasonable doubt. Ramirez’s counsel suggested
+during oral argument that voluntariness must be “clearly and
+affirmatively demonstrated.” The Attorney General agreed that
+the standard is “something more akin to clear and convincing
+[evidence],” and not merely that “the standard was no more
+stringent than the ‘clear and convincing evidence’ standard”
+(maj. opn., ante, at p. 15, fn. 3). As for the out-of-state cases
+applying a preponderance of the evidence standard (maj. opn.,
+ante, at p. 16, fn. 4), none of them appear in the briefing before
+us, and none discuss the requirement stated in Taylor that the
+voluntariness of a defendant’s absence be “clearly established.”
+(Taylor, supra, 414 U.S. at p. 19, fn. 3.)
+      Proof by clear and convincing evidence “ ‘requires a finding
+of high probability.’ ” (Conservatorship of O.B. (2020) 9 Cal.5th
+989, 998.) The evidence before the factfinder must be “ ‘ “ ‘so
+clear as to leave no substantial doubt’ ” ’ ” and “ ‘ “ ‘sufficiently
+strong to command the unhesitating assent of every reasonable
+mind.’ ” ’ ” (Id. at p. 998, fn. 2.) We recently concluded that “an
+appellate court evaluating the sufficiency of the evidence in
+support of a finding must make an appropriate adjustment to its
+analysis when the clear and convincing standard of proof
+applied before the trial court.” (Id. at p. 1005.) On appeal, we
+“must determine whether the record, viewed as a whole,
+contains substantial evidence from which a reasonable trier of
+fact could have made the finding of high probability demanded
+by this standard of proof.” (Ibid.) “Substantial evidence is
+evidence that is ‘of ponderable legal significance,’ ‘reasonable in
+nature, credible, and of solid value,’ and ‘ “substantial” proof of
+the essentials which the law requires in a particular case.’ ” (Id.
+at p. 1006.)
+
+
+                                  4
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+      The record in this case does not contain substantial
+evidence by which the court could have found it highly probable
+that Ramirez overdosed and went to the hospital for the purpose
+of avoiding his trial. As Justice Smith explained in his dissent
+from the Court of Appeal’s decision, “[t]here was no evidence
+before the trial court as to why, for what purpose, and under
+what circumstances, Ramirez ingested the drugs. Ramirez
+could very well have taken the drugs to calm himself or to fortify
+himself, so as to enable him to attend the proceedings, rather
+than in a bid to avoid the trial . . . .” Justice Smith was correct
+to observe that because the trial court “did not consider the
+question whether, in ingesting the drugs, Ramirez had intended
+to waive his constitutional rights to be present at trial and to
+testify in his own defense,” and because it did not “hold[] a
+hearing to further develop the record,” it “simply did not have
+sufficient information to determine whether Ramirez took the
+drugs to thwart the judicial proceedings that were underway,
+thereby waiving his right to be present, or whether he took the
+drugs for other reasons.” (People v. Ramirez (Mar. 5, 2020,
+F076126) (dis. opn. of Smith, J.) [nonpub. opn.].)
+      The trial court was aware that Ramirez’s mother had
+called police and medical services that morning to report her
+son’s overdose. The court emphasized in its ruling that Ramirez
+refused treatment offered by the medical responders. However,
+as Justice Smith noted, it is unclear “whether Ramirez refused
+all forms of assistance from paramedics or merely refused
+transport to the hospital by ambulance.” The court also had no
+information about “what, and how much, assistance the
+paramedics actually rendered.” To the extent today’s opinion
+relies on the Tuolumne County Emergency Medical Services
+Agency’s policy on a patient’s refusal of treatment or transport
+
+
+                                 5
+                        PEOPLE v. RAMIREZ
+                          Liu, J., dissenting
+
+
+(maj. opn., ante, at pp. 18‒19, fn. 5), I note that neither party
+cites that policy and the record contains no indication that any
+such policy was followed here.
+    The trial court instructed an officer at the scene to inform
+Ramirez that the trial would proceed without him if he was not
+at court in fifteen minutes. Ramirez’s initial response was that
+he would come. His counsel then asked him over the phone if he
+was going to go to the hospital, and he said he wanted to go.
+Shortly after that conversation, his mother called defense
+counsel to let him know that Ramirez “was nodding out and
+being [un]conscious and nonresponsive,” and that “she was
+going to try to take him to the hospital.” Ramirez was 19 years
+old, had learning disabilities, and was in the midst of a heroin
+overdose. The court had no information that indicated whether
+Ramirez understood the officer’s warning that he needed to
+come to court or whether he was well enough to follow through
+on his initial agreement to do so.
+       Finally, the court noted that Ramirez had missed a day of
+trial once before. Several months earlier, when the case was
+initially set for trial, Ramirez’s mother reported to the court that
+he could not make the first day of trial because he was sick with
+the flu. The court continued the trial, and Ramirez’s mother
+came the next day with a note from a doctor that said he had
+been seen at a local medical center. There was no evidence to
+discredit the mother’s report; the record provides no information
+from which the trial court reasonably could have concluded that
+Ramirez was absent in April because he sought to evade the
+proceedings rather than because he simply had the flu.
+      The totality of the evidence considered by the trial court is
+not sufficient to support a finding that it was clearly established
+
+
+                                  6
+                        PEOPLE v. RAMIREZ
+                          Liu, J., dissenting
+
+
+Ramirez voluntarily waived his right to be present when he
+went to the hospital to be treated for an overdose. As today’s
+opinion acknowledges, if Ramirez went to the hospital instead
+of court because he “was truly debilitated” (maj. opn., ante, at
+p. 21), then he was not voluntarily absent, and his trial could
+not lawfully proceed without him. To find him voluntarily
+absent under the proper legal standard, the court would have to
+have been persuaded that Ramirez was malingering. It would
+have to have concluded that Ramirez did not need hospital
+treatment and knew as much, but that he chose to go with his
+mother anyway for the purpose of evading that day’s
+proceedings. The thin record before us does not contain
+“ ‘ “substantial” proof’ ” that it was “ ‘highly probable’ ” Ramirez
+sought medical care in an effort to avoid his trial.
+(Conservatorship of O.B., supra, 9 Cal.5th at pp. 1006, 998,
+italics omitted.) Finding Ramirez voluntarily absent was error.
+                                 II.
+      Even if the court were right to affirm the finding of
+voluntary waiver, that would not “end our inquiry regarding the
+propriety of the trial court’s decision to proceed with the trial”
+in his absence. (Espinoza, supra, 1 Cal.5th at p. 75.) “[T]he
+decision whether to continue with a trial in absentia . . . rests
+within the discretion of the trial court” and is subject to review
+for abuse of discretion. (Ibid.) Before deciding to try a defendant
+in absentia, “[t]he court must consider the likelihood that the
+trial could take place with the defendant present, the difficulty
+of rescheduling, the inconvenience to jurors, and the burden on
+the government and others.” (U.S. v. Benabe (7th Cir. 2011) 654
+F.3d 753, 769.) A trial court “may exercise its discretion to
+proceed ‘only when the public interest clearly outweighs that of
+the voluntarily absent defendant.’ ” (U.S. v. Bradford (11th
+
+                                  7
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+Cir. 2001) 237 F.3d 1306, 1313, quoting Tortora, supra, 464 F.2d
+at p. 1210.) Given the importance of the constitutional rights at
+stake, a trial court that decides to try the defendant in absentia
+must make a record adequate to enable review.
+      The trial court here undertook no such analysis and made
+no such record. After finding Ramirez voluntarily absent, the
+court declared without further discussion that it was “going to
+proceed with this trial in his absence,” and it denied his motion
+for a one-day continuance.
+      I agree with Justice Smith that “[a] continuance was
+clearly warranted here.” Nothing in the record supports the
+conclusion that the public interest in proceeding that day
+outweighed Ramirez’s interest in being present for his trial. The
+Attorney General notes that the jurors and witnesses were
+present, but there is nothing to suggest that any witness or
+evidence would have become unavailable if the trial had been
+continued by one day or that a one-day continuance would have
+posed a specific hardship to the court, the witnesses, or the jury.
+The Attorney General also says the court could not be sure
+Ramirez would show up the next day if it granted a continuance.
+But no court faced with an absent defendant can be certain the
+defendant will return if it grants a continuance. The court here
+had no particular reason to believe Ramirez would not be
+present the next day, and in fact he did return then.
+      The only circumstance specific to this case that the
+Attorney General has cited for why the public interest favored
+proceeding with trial on the day of Ramirez’s absence was that
+the prosecutor had plans to be out of town the following
+afternoon.    But the trial court did not inquire into the
+prosecutor’s reason for being out of town and had no evidence
+
+
+                                 8
+                        PEOPLE v. RAMIREZ
+                          Liu, J., dissenting
+
+
+from which it could reasonably conclude that the prosecutor’s
+interest in being out of town outweighed Ramirez’s interest in
+being present for his trial, having the opportunity to testify in
+his defense, and confronting the witnesses against him.
+      Today’s opinion declines to reach this issue on the ground
+that Ramirez forfeited his argument that the denial of his
+continuance motion was error. (Maj. opn., ante, at p. 22, fn. 7.)
+Ramirez sought a continuance in the trial court and later moved
+for a mistrial after the court proceeded in his absence. He
+argued in the Court of Appeal that the denial of his continuance
+request was error, and he pressed the claim as well in his
+petition and briefing before us. The Attorney General has never
+argued that Ramirez forfeited his continuance claim; instead,
+the Attorney General contests the claim on the merits in his
+briefing and agreed at oral argument that the claim is not
+forfeited.
+      In concluding the issue has been forfeited, the court says
+Ramirez did not adequately raise the continuance issue in his
+petition for review. While it is true that Ramirez might have
+referred to the continuance issue more clearly in his formulation
+of the issues presented for review, it is referenced in the two
+issues presented by his petition (Cal. Rules of Court,
+rule 8.516(b)(1)), and he argues it repeatedly in the petition
+elsewhere. Issue No. 1 of Ramirez’s petition for review asks
+whether the Court of Appeal erred in affirming the trial court’s
+decision to find him voluntarily absent “without conducting an
+evidentiary hearing regarding the circumstances of [his]
+absence.” One of the reasons his counsel asked for a continuance
+was to allow time for that evidentiary hearing. Issue No. 2 asks
+whether the violation of Ramirez’s “constitutional right to be
+present for trial” was prejudicial error, and the issue of prejudice
+
+                                  9
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+is informed by whether the trial court properly denied a
+continuance.
+      In any event, Ramirez’s substantive arguments fairly
+indicated he was challenging the trial court’s denial of a short
+continuance, not just the trial court’s determination that he was
+voluntarily absent. Specifically, Ramirez argued in his petition
+that the trial court erred by “refus[ing] to continue trial to the
+following day” when he did not appear in court. He claimed he
+was “deprived of his constitutional right to be present at trial”
+when the trial court “determine[ed] that petitioner was
+voluntarily absent, without continuing the matter for one day.”
+Citing our decision in People v. Gutierrez (2003) 29 Cal.4th 1196,
+he argued that “a trial court should not ‘summarily plung[e]
+ahead’ with trial in a defendant’s absence.” (Id. at p. 1209.)
+      Forfeiture doctrine serves to prevent unfair surprise to the
+other party and to promote the orderly presentation of issues to
+the court. (See People v. Gibson (1994) 27 Cal.App.4th 1466,
+1468 [“The rule that contentions not raised in the trial court will
+not be considered on appeal is founded on considerations of
+fairness to the court and opposing party, and on the practical
+need for an orderly and efficient administration of the law.”].)
+Neither concern is present here.
+       In sum, the continuance issue has been fully briefed, and
+I see no sound basis for declining to address it. I would address
+the issues properly raised and briefed by the parties, and I
+would hold that the trial court abused its discretion by
+proceeding in Ramirez’s absence rather than granting his
+motion for a one-day continuance so that he could return to
+court.
+
+
+
+
+                                 10
+                        PEOPLE v. RAMIREZ
+                          Liu, J., dissenting
+
+
+                                 III.
+      An erroneous denial of a federal constitutional right that
+does not require automatic reversal is harmless only if we can
+conclude beyond a reasonable doubt that it did not affect the
+verdict. (Chapman v. California (1967) 386 U.S. 18, 24.) An
+error of state law is harmless if it is not “reasonably probable
+that a result more favorable to the appealing party would have
+been reached in the absence of the error.” (People v. Watson
+(1956) 46 Cal.2d 818, 836.) On the record before us, I would
+conclude that the trial court’s decision to try Ramirez in
+absentia was prejudicial under either standard.
+      The most substantial pieces of evidence linking Ramirez
+to the attempted burglary were a blurry video from a
+surveillance camera at the victim’s home in which the burglar’s
+face is not visible and the fact that when Ramirez was arrested
+five weeks after the crime, he was wearing an Oakland Raiders
+hat that appeared similar to one worn by the burglar on the
+surveillance tape. Ramirez’s defense consisted largely of the
+argument that he was not the person on the surveillance video.
+Defense counsel told the jury he would “invite you to look at that
+video of the person that’s removing this window screen. I would
+submit to you that it’s not my client, doesn’t look like him at all.”
+Because the court erroneously proceeded with trial in Ramirez’s
+absence, defense counsel had to argue to the jury that Ramirez
+was not the burglar on the surveillance video at a time when
+Ramirez was not present for the jury to compare his features to
+those of the person on the tape.
+     “ ‘[I]t is only the most extraordinary of trials in which a
+denial of the defendant’s right to testify can be said to be
+harmless beyond a reasonable doubt.’ ” (People v. Allen (2008)
+
+
+                                  11
+                       PEOPLE v. RAMIREZ
+                         Liu, J., dissenting
+
+
+44 Cal.4th 843, 872.) This trial was not extraordinary in that
+way. In total, the prosecutor called two witnesses, and the
+entire presentation of evidence took just over an hour and
+occupied roughly 30 pages of the reporter’s transcript. Aside
+from the blurry surveillance video and the fact that Ramirez was
+wearing a hat five weeks after the burglary with the same
+coloring as the one worn by the burglar and the logo of a local
+football team, the only evidence presented against him was a
+short video of his conversation with police officers when they
+arrested him. But, as Justice Smith explained, “Ramirez never
+directly admitted he had burgled [the victim’s] house on the
+night in question. Initially, Ramirez denied any knowledge of
+the incident. . . . After a significant amount of pressing from
+[Officer] Bowly, Ramirez said he was probably just looking.
+Later, Ramirez said he did not remember the incident. . . .
+During the questioning, Bowly never showed Ramirez a picture
+of [the victim’s] house or the surveillance tape; nor did he take
+Ramirez by the house. Bowly also acknowledged he was not
+positive Ramirez knew which incident Bowly was talking
+about.” (Italics omitted.) If Ramirez had been able to testify, he
+could have explained his equivocal statements to the arresting
+officer.
+      Because Ramirez was absent, the jury had no opportunity
+to evaluate the credibility of any argument he might have made
+that he was not the person on the surveillance video. Instead,
+the defense called no witnesses, and after about six hours of
+deliberations, the jury found Ramirez guilty of attempted
+burglary. That the jury’s deliberations took four times as long
+as the prosecutor’s presentation of evidence further suggests
+this was not an easy case. And Ramirez’s testimony would likely
+have been significant in light of the limited evidence against
+
+
+                                 12
+                      PEOPLE v. RAMIREZ
+                        Liu, J., dissenting
+
+
+him. In sum, there was a reasonable probability of a different
+outcome if the trial court had not decided to try Ramirez in
+absentia, and the judgment must be reversed.
+     I respectfully dissent.
+
+
+                                              LIU, J.
+
+
+
+
+                                13
+                     PEOPLE v. RAMIREZ
+                            S262010
+
+
+             Dissenting Opinion by Justice Kruger
+
+
+        I agree with the majority opinion, as far as it goes. A
+defendant who fails to appear at trial after voluntarily ingesting
+illicit drugs is not necessarily voluntarily absent. But as the
+majority says, in this particular case there was substantial
+evidence to support the trial court’s finding of voluntary absence
+under the circumstances.
+      The majority, however, declines to consider the natural
+follow-on question: Whether the trial court should have granted
+a short continuance rather than conducting the one-day trial
+entirely in the defendant’s absence. I would reach that issue
+and I would reverse for the reasons given in parts II and III of
+Justice Liu’s dissent.
+                                                   KRUGER, J.
+
+
+
+
+                                1
+See next page for addresses and telephone numbers for counsel who
+argued in Supreme Court.
+
+Name of Opinion People v. Ramirez
+__________________________________________________________
+
+Procedural Posture (see XX below)
+Original Appeal
+Original Proceeding
+Review Granted (published)
+Review Granted (unpublished) XX NP opn. filed 3/5/20 – 5th Dist.
+Rehearing Granted
+__________________________________________________________
+
+Opinion No. S262010
+Date Filed: December 5, 2022
+__________________________________________________________
+
+Court: Superior
+County: Tuolumne
+Judge: James A. Boscoe
+__________________________________________________________
+
+Counsel:
+
+Jacquelyn Larson, under appointment by the Supreme Court, and
+Jennifer Mouzis, under appointment by the Court of Appeal, for
+Defendant and Appellant.
+
+Xavier Becerra and Rob Bonta, Attorneys General, Lance E. Winters
+and Gerald A. Engler, Chief Assistant Attorneys General, Michael P.
+Farrell, Assistant Attorney General, Michael A. Canzoneri, Louis M.
+Vasquez, Amanda D. Cary, F. Matt Chen and Rachelle A. Newcomb,
+Deputy Attorneys General, for Plaintiff and Respondent.
+Counsel who argued in Supreme Court (not intended for
+publication with opinion):
+
+Jacquelyn Larson
+Central California Appellate Program
+2150 River Plaza Drive, Suite 300
+Sacramento, CA 95833
+(916) 441-3792
+
+Amanda D. Cary
+Deputy Attorney General
+2550 Mariposa Mall, Room 5090
+Fresno, CA 93721
+(559) 705-2305

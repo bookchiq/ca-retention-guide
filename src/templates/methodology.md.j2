@@ -1,0 +1,128 @@
+# Methodology
+
+This is the detailed version, for readers who want to check how the guide was made. The [front page](index.md) has the short version.
+
+{% if credit %}
+{{ credit }}. Everything here, including the rules, the code, the validation samples, and each reviewer's notes, is public in the [GitHub repository](https://github.com/bookchiq/ca-retention-guide), so you can decide for yourself whether the method holds up.
+
+{% endif %}
+Last updated: {{ updated }}.
+
+## Ground rules
+
+- **Describe, don't grade.** No scores, rankings, grades, recommendations, or ideological labels. The guide reports counts and cases.
+- **Every claim links to a source.** Case summaries link to the opinion; background facts link to official bios, appointment releases, or election records.
+- **Mechanical selection.** Which cases are listed is decided by fixed rules applied identically to every justice (below), including cases that cut against any apparent pattern.
+- **Accuracy over coverage.** Anything not verified is not published; pages say "not yet reviewed" instead.
+- **Base rates.** Every rate is shown next to the same rate for the justice's court over the same period.
+- **No contact** with judges, courts, or campaigns.
+
+## How the guide was made, step by step
+
+1. **Ballot list.** The 64 justices, their courts, and their ballot wording come from the Secretary of State's list of judicial candidates, re-checked name by name.
+2. **Background facts.** Appointment dates, appointing governor, prior career, earlier retention results, and public discipline were collected from official sources, one source link per fact ([justices.csv](data/justices.csv)).
+3. **Opinions.** Every Supreme Court and Court of Appeal opinion in the window was loaded from CourtListener (see [Sources](#sources) and [Coverage](#coverage)).
+4. **Who wrote what.** CourtListener does not record authors or panels for these courts, so software reads each opinion's signature lines to find the author, the other panel members, and any dissent or concurrence. Its accuracy was measured against hand-labeled samples before any count was published (see [Validation](#validation)).
+5. **Counts.** Opinions written, publication rate, dissents, and concurrences were computed for each justice and for their court as a whole, which gives each rate its baseline ([metrics.csv](data/metrics.csv)).
+6. **Topics.** Keyword rules flag opinions on each topic. Only the search-and-seizure rule has been checked by hand (see [Topics](#topics)).
+7. **Case review.** For San Diego-ballot justices, every opinion that might touch search and seizure was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)).
+8. **Pages.** The pages are generated from the data by a program, and the same data always produces the same pages. A word filter blocks a fixed list of loaded or ideological terms (listed in the review guide) from every page.
+
+## Sources
+
+- Opinions: [CourtListener](https://www.courtlistener.com/), a project of the Free Law Project. The quarterly bulk snapshot of {{ bulk_snapshot }} supplies opinions through that date; the CourtListener API supplies opinions filed since. Opinion data courtesy of the Free Law Project.
+- Ballot: California Secretary of State, List of Judicial Candidates (Nov. 3, 2026 General Election).
+- Background: official court biographies, Governor's appointment releases, Commission on Judicial Appointments releases, Secretary of State Statements of Vote, and the Commission on Judicial Performance public decisions index.
+- Supreme Court dissents from denial of review: David S. Ettinger, *At the Lectern* (Horvitz & Levy), quoted with attribution.
+
+## Coverage
+
+Opinions are counted from {{ window_start }}.{% if window_start <= "2020-12-31" %} CourtListener's 2020 Court of Appeal data is incomplete: it holds about 2,750 unpublished opinions for 2020, against about 6,000 a year for 2021–2025, so 2020 counts are low for every justice.{% endif %} Per-year counts by court and publication status are in [the coverage report](https://github.com/bookchiq/ca-retention-guide/blob/main/data/validation/coverage.md).
+
+## Validation
+
+Author, panel, and separate opinions were read from each opinion's signature blocks by software, because CourtListener does not record them for these courts. Names are matched by surname, court, district, division, and date of service, never by surname alone.
+
+Accuracy was measured against hand-labeled samples of 200 opinions, stratified so the Fourth District (which covers San Diego) and the Supreme Court were each scored on their own. The labels came from separate reviewing sessions that saw only the opinion text, not the software's answer. When a sample exposed a parser error, the error was fixed and then a **fresh** sample was drawn, so the published accuracy was never measured on opinions used to fix the parser. No count was published until every district passed.
+
+{{ validation_summary }}
+
+## Topics
+
+Topics are found by keyword matching, a first-pass filter rather than a classification. The search-and-seizure keywords' precision was checked by hand: an opinion counts only if it addresses a search or seizure claim on the merits or rules it forfeited. {{ tag_summary }}
+
+The guide also tracks other topics, such as right to counsel, resentencing, and anti-SLAPP. Their keywords have **not** been checked by hand, so their counts are **not shown on the pages**. The first, unchecked version of the search-and-seizure keywords turned out to be right only 28% of the time, and unchecked counts could mislead in the same way. The raw counts are in [metrics.csv](data/metrics.csv), marked "unvalidated keywords" in the note column, for anyone who wants them. Each topic will appear on the pages once its keywords pass the same hand check.
+
+## Which cases are listed
+
+For each San Diego-ballot justice, the guide lists every search-and-seizure case where the justice:
+
+1. wrote a dissent, concurrence, or concurrence-and-dissent;
+2. wrote a published majority opinion;
+3. wrote a majority opinion that reversed, vacated, modified, or granted writ relief on the issue, in either direction;
+4. was in the majority over another justice's dissent on the issue.
+
+For the Supreme Court, every majority opinion the justice wrote on the topic is listed. Candidates are drawn generously by keyword and then decided by reading; every exclusion is recorded with its reason and published in the [case data](data/case_notes.csv).
+
+A case counts as being about search and seizure only if the court actually decided a search or seizure claim, or ruled it forfeited or improperly raised. A warrant mentioned only in the facts does not count. Neither do Miranda-only issues, probation conditions, bail rulings, or "probable cause" to hold a defendant for trial. The full reviewer instructions are in the [review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md).
+
+## Verification
+
+Each case went through these steps, with the reading, verification, and second check done by **separate** AI sessions:
+
+1. **Reading.** A reviewer read the opinion, decided whether search and seizure was actually at issue, applied the listing rules, and wrote the record and summary.
+2. **Verification.** A different reviewer re-opened the opinion and confirmed the case name and docket against the opinion's own caption, the author and panel from the signature lines, the disposition, the listing rule, the vote, and that the summary matches the holding.
+3. **Second check.** A third, fresh reviewer re-read a random 15% of each justice's records (at least one per justice), both listed and excluded. Any substantive error would have sent that justice's whole set back to verification.
+4. **Consistency.** A case that appears for several justices must get the same decision about whether search and seizure was at issue for each of them.
+5. **Author spot check.** Sarah Lewis read 10 randomly drawn summaries against their opinions before publication. She found them accurate, though a few leave out some context.
+
+{% if stats.records %}
+Results so far: {{ stats.records }} records for {{ stats.justices }} justices were reviewed. {{ stats.listed }} cases are listed and {{ stats.excluded }} were excluded, for these reasons:
+
+| Reason for exclusion | Records |
+|---|---|
+{% for reason, n in stats.reasons %}| `{{ reason }}` | {{ n }} |
+{% endfor %}
+
+The second check re-read {{ stats.sampled }} records; {{ stats.failed }} had a substantive error.
+
+{% endif %}
+The [case data](data/case_notes.csv) includes every record, listed or excluded, with each reviewer's notes on what they checked.
+
+## Known weaknesses
+
+- **Summaries are short.** Each is at most 50 words. They were checked for accuracy, but some leave out context a lawyer would want, so read the opinion before relying on one.
+- **Judgment calls.** Deciding whether a search issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
+- **Source errors.** CourtListener occasionally files an opinion under the wrong case name. Reviewers check each case name against the opinion's own caption; the errors found are listed in the decisions log.
+- **Keyword counts undercount.** The search-and-seizure topic counts miss about one in five qualifying opinions (see [Topics](#topics)). The case lists are not affected, because review started from a much broader match.
+
+## Limitations
+
+1. **California courts follow federal search-and-seizure rules.** Under the Truth-in-Evidence provision (Cal. Const., art. I, § 28(f)(2); *In re Lance W.* (1985) 37 Cal.3d 873), state courts may exclude evidence only where the U.S. Constitution requires it. Differences between justices appear mostly in how they apply precedent to close facts.
+2. **Panels.** Three justices decide each Court of Appeal case. Outcomes reflect the panel; authored and separate opinions are the clearest individual signals.
+3. **Selection effects.** Which cases are appealed, and which justice writes, are not random. Many criminal appeals are affirmed, which says little about the justice.
+4. **Unpublished opinions** are public but generally cannot be cited as precedent (Cal. Rules of Court, rule 8.1115). They are included because they are most of the record.
+5. **Coverage and errors.** Data comes from CourtListener and is limited to the stated window. Measured parsing and tagging error rates are published above.
+6. **Supreme Court docket.** The Supreme Court chooses its cases, so its record looks different. Dissents from denial of review come from a third-party compilation.
+7. **Short tenures.** Some justices have little or no appellate record; their pages say so.
+8. **Not advice or endorsement.** The guide does not recommend a vote.
+
+## AI assistance
+
+The data was collected and analyzed with AI tools (Claude). AI sessions wrote the parsing code, labeled the validation samples, and read, verified, and second-checked every case. The author wrote the specification the listing rules come from, made the scope decisions, and read a random sample of summaries against the opinions. Clarifications to the rules came up during review and were made within that process, not by the author case by case; each one is dated and explained in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
+
+## Check the work yourself
+
+- [Source code](https://github.com/bookchiq/ca-retention-guide) for every step, with its tests.
+- [Validation reports](https://github.com/bookchiq/ca-retention-guide/tree/main/data/validation): the samples, the labels, and the scores.
+- [Review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md): the instructions every reviewer followed.
+- [Decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md): every change to scope, rules, or method, with the date and reason.
+- Data files: [justices.csv](data/justices.csv), [metrics.csv](data/metrics.csv), [case_notes.csv](data/case_notes.csv).
+
+## Corrections
+
+{{ correction_contact }}
+
+## Changelog
+
+See [DECISIONS.md](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).

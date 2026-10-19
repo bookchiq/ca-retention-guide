@@ -1,0 +1,448 @@
+cl_opinion_id: 4641269
+cluster: 4837490
+docket: E075159
+date: 2020-12-09
+status: Unpublished
+type: 010combined
+field: plain_text
+case: People v. Sims CA4/2
+----
+Filed 12/9/20 P. v. Sims CA4/2
+See Dissenting Opinion
+
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+ California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+                                     or ordered published for purposes of rule 8.1115.
+
+
+           IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                                   FOURTH APPELLATE DISTRICT
+
+                                                 DIVISION TWO
+
+
+
+ THE PEOPLE,
+
+          Plaintiff and Respondent,                                      E075159
+
+ v.                                                                      (Super.Ct.No. FSB17003182)
+
+ MARSHALL ALLEN SIMS IV,                                                 OPINION
+
+          Defendant and Appellant.
+
+
+
+
+         APPEAL from the Superior Court of San Bernardino County. Dwight W. Moore,
+
+Judge. Affirmed.
+
+         Lisa A. Kopelman, under appointment by the Court of Appeal, for Defendant and
+
+Appellant.
+
+         No appearance for Plaintiff and Respondent.
+
+
+
+
+                                                             1
+                                               I
+
+                                      INTRODUCTION
+
+       In October 2017, defendant and appellant Marshall Allen Sims IV pleaded guilty
+
+to assault by means of force likely to produce great bodily injury (Pen. Code,1 § 245,
+
+subd. (a)(4)). Defendant was thereafter placed on formal probation for a period of three
+
+years on various terms and conditions of probation. During the three-year period,
+
+defendant violated his probation several times. Ultimately, in March 2020, following a
+
+contested violation of probation hearing, the trial court found true that defendant violated
+
+the terms of his probation. Thereafter, pursuant to an agreement, the court reinstated
+
+defendant’s probation and sentenced him to 365 days in county jail. Defendant appeals
+
+from the trial court’s judgment finding he violated his probation. Based on our
+
+independent review of the record, we find no arguable issue and affirm the judgment.
+
+                                              II
+
+                    FACTUAL AND PROCEDURAL BACKGROUND
+
+       In August 2017, during a verbal argument, defendant choked his wife to the point
+
+where she became unconscious. He then threw his wife on the floor and threatened to
+
+kill her. Defendant’s wife was afraid for her life and believed defendant would kill her.
+
+Defendant was subsequently arrested and denied choking or assaulting his wife.
+
+       On August 22, 2017, a felony complaint was filed charging defendant with
+
+willfully inflicting corporal injury on a spouse (§ 273.5; subd. (a); count 1) and making
+
+
+       1   All future statutory references are to the Penal Code unless otherwise stated.
+
+                                               2
+criminal threats (§ 422, subd. (a); count 2). The complaint also alleged that in the
+
+commission of count 1, defendant personally inflicted great bodily injury upon Jane Doe
+
+(§ 12022.7, subd. (e)).
+
+       On October 23, 2017, defendant pleaded guilty to the added count of assault by
+
+means of force likely to produce great bodily injury (§ 245, subd. (a)(4)). In return, the
+
+remaining charges and allegations were dismissed and defendant was placed on formal
+
+probation for a period of three years on various terms and conditions of probation.
+
+       On April 20, 2018, a petition to revoke defendant’s probation was filed. The
+
+petition alleged that defendant failed to keep his probation officer informed of his place
+
+of residence and that defendant failed to report to his probation officer as directed. On
+
+this same day, the trial court revoked defendant’s probation and issued a no bail bench
+
+warrant for defendant’s arrest. Defendant was arrested on the warrant on May 18, 2018.
+
+       On June 20, 2018, defendant admitted to violating his probation by failing to
+
+report to probation as directed. The trial court thereafter reinstated defendant on
+
+probation to expire December 22, 2020, with modified terms and conditions, including
+
+serving 270 days in county jail with credit for time served.
+
+       On September 10, 2018, another petition to revoke defendant’s probation was
+
+filed. The petition alleged that defendant failed to (1) cooperate with his probation
+
+officer and follow all reasonable directives of his probation officer; (2) keep his probation
+
+officer informed of his place of residence; and (3) report to his probation officer as
+
+directed. The probation officer noted that this was the second time defendant had
+
+
+
+                                              3
+absconded from the probation department, his current whereabouts were unknown, and
+
+he had an extensive criminal history. On this same date, the trial court revoked
+
+defendant’s probation and issued a no bail bench warrant for defendant’s arrest.
+
+Defendant remained a fugitive until his arrest on the warrant on December 23, 2018.
+
+       On February 22, 2019, defendant admitted to violating his probation. In exchange,
+
+the trial court suspended imposition of a four-year prison sentence and reinstated
+
+defendant on probation to expire June 5, 2021, with modified terms and conditions,
+
+including serving 365 days in county jail with credit for time served.
+
+       On October 18, 2019, a third petition to revoke defendant’s probation was filed,
+
+again alleging defendant failed to cooperate with his probation officer, keep his probation
+
+officer informed of his place of residence, and report to probation as directed. On this
+
+same day, the trial court revoked defendant’s probation and issued a no bail bench
+
+warrant for defendant’s arrest. Defendant remained a fugitive until December 6, 2019.
+
+       A formal probation revocation hearing was held on March 13, 2020. At that time,
+
+the trial court heard testimony from defendant’s probation officer Brenda Campabasso,
+
+defendant, and defendant’s wife. In pertinent part, Campabasso testified that she was
+
+defendant’s assigned probation officer, that she had personally met defendant, and that
+
+she was familiar with defendant’s probation file. Campabasso stated that defendant had
+
+reported to the probation department on May 21, 2019, at which time he was directed to
+
+report back to probation on August 13, 2019, for an office visit. However, defendant did
+
+not appear at the probation department on that date.
+
+
+
+                                             4
+       On June 6, 2019, Campabasso conducted a home compliance check at an address
+
+on West 28th Street provided by defendant. Defendant was not present at the West 28th
+
+Street address. While at the address, Campabasso spoke with a man named “Leroy,” who
+
+stated defendant did not live at the address. Campabasso thereafter contacted defendant
+
+to inquire about his place of residence. Defendant informed Campabasso that he lived at
+
+the West 28th Street address “in the back part of the residence” with his wife, and that he
+
+rented a room from a lady named “LaTanya Bailey.” Campabasso also testified that a
+
+review of defendant’s probation records showed that other probation officers had
+
+attempted a home visit at the West 28th Street address on July 31, 2019, and that they had
+
+spoken with someone named “Sylvia” at the address who reported defendant had never
+
+lived at the address but occasionally visited. Campabasso further testified that defendant
+
+reported to probation on August 30, 2019, and at that time was advised to report back to
+
+probation on November 13, 2019. Defendant, however, failed to report on November 13,
+
+2019. During an interview with Campabasso after his most recent arrest on the bench
+
+warrant, defendant admitted that he did not report to probation as directed.
+
+       Defendant testified that when he was placed on probation in February 2019, he
+
+met with a probation officer and was directed to report to probation, in person, every 90
+
+days. He did not remember meeting with Campabasso, but recalled meeting with an
+
+Asian man who had asked him questions about his residence and that he had informed the
+
+man of his address on West 28th Street. Defendant also stated that the Asian probation
+
+officer told him to report back in May 2019 and that he reported to probation on that date.
+
+
+
+                                             5
+When he reported in May 2019, he met with a male probation officer who asked him if he
+
+was still living at the same address, if there was anything new going on with him, and
+
+who he was living with. He gave him the names, LaTanya Bailey, Victor Bailey, and
+
+Bernard Bailey, and also told him he lived in a side house. Defendant explained that the
+
+house was one structure with three separate entrances and that he received mail at that
+
+address. He also stated that there is one mailbox in the front, that his house is off the
+
+kitchen in what used to be the garage, and that access to his house is through the
+
+backyard.
+
+       Defendant further testified that on May 21, 2019, he saw a probation officer who
+
+gave him a card to report on August 13, 2019. On August 13, 2019, he called the
+
+probation office and left a message for Campabasso telling her that he had an opportunity
+
+to get extra hours at his work study job and promised to report to probation by August 30,
+
+2019. He reported on August 30, 2019, and saw the officer of the day (O.D.). He told
+
+the O.D. that he was supposed to report on August 13, 2019, and was not sure if
+
+Campabasso received his message. Defendant claimed that the O.D. told him not to
+
+worry, it was the month of August, so, “‘[y]ou are still good.’” He also explained that
+
+when he spoke to Campabasso while in custody and admitted to not reporting, he was
+
+referring to the August 13, 2019 report date.
+
+       Defendant claimed that he did not know a male named “Leroy” at the address, but
+
+acknowledged knowing a person named “Sylvia,” who lived at the address in a side
+
+house. Defendant believed that Sylvia was covering for him when she told the officers
+
+
+
+                                                6
+defendant did not live at the address. He also stated that he rented a room from LaTanya
+
+Bailey, who owned the property, and did not know why the probation officers did not
+
+speak with her but instead spoke with Sylvia.
+
+       Defendant’s wife testified that in February 2019, she lived at the West 28th Street
+
+address and that she had lived there since March 2017. She explained that the house was
+
+not divided into apartments or units but is one big house with three separate entrances,
+
+that there is no separation between the individual units, and that 15 people, including
+
+herself and defendant, lived at that address. On June 6 and July 31, 2019, she was home
+
+and did not remember probation visiting. She explained that she lived in the bedroom
+
+closest to the front door of the residence and could hear if anyone knocked on the door
+
+,and that she did not live in the back of the house. She also stated that she did not know a
+
+person named Leroy that lived at the house.
+
+       Following argument, the trial court found defendant in violation of his probation
+
+and found true the allegations in the third petition to revoke probation, specifically failure
+
+to cooperate, failure to keep probation informed, and failure to report as directed. As to
+
+disposition, pursuant to an agreement whereby defendant agreed to waive credits, the trial
+
+court reinstated defendant on probation to expire November 22, 2021, and ordered
+
+defendant to serve 365 days in county jail with no credit for time served.
+
+       On June 1, 2020, defendant filed a timely notice of appeal.
+
+
+
+
+                                              7
+                                            III
+
+                                      DISCUSSION
+
+       After defendant appealed, upon his request, this court appointed counsel to
+
+represent him on appeal. Counsel has filed a brief under the authority of People v. Wende
+
+(1979) 25 Cal.3d 436 and Anders v. California (1967) 386 U.S. 738, setting forth a
+
+statement of the case, a summary of the facts and potential arguable issues, and
+
+requesting this court to conduct an independent review of the record.
+
+       We offered defendant an opportunity to file a personal supplemental brief, and he
+
+has not done so.
+
+       An appellate court conducts a review of the entire record to determine whether the
+
+record reveals any issues which, if resolved favorably to defendant, would result in
+
+reversal or modification of the judgment. (People v. Wende, supra, 25 Cal.3d at pp. 441-
+
+442; People v. Feggans (1967) 67 Cal.2d 444, 447-448; Anders v. California, supra, 386
+
+U.S. at p. 744; see People v. Johnson (1981) 123 Cal.App.3d 106, 109-112.)
+
+       Pursuant to the mandate of People v. Kelly (2006) 40 Cal.4th 106, we have
+
+independently reviewed the entire record for potential error and find no arguable error
+
+that would result in a disposition more favorable to defendant.
+
+
+
+
+                                            8
+                                      IV
+
+                                  DISPOSITION
+
+      The judgment is affirmed.
+
+      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+                                                CODRINGTON
+                                                             J.
+I concur:
+
+
+
+MILLER
+              Acting P. J.
+
+
+
+
+                                       9
+[P. v. SIMS, E075159]
+
+MENETREZ, J., Dissenting.
+
+       The appellate review procedures under People v. Wende (1979) 25 Cal.3d 436
+
+(Wende) and Anders v. California (1967) 386 U.S. 738 (Anders), in which we read the
+
+entire record ourselves to search for arguable grounds for reversal, apply “only to a
+
+defendant’s first appeal as of right.” (People v. Thurman (2007) 157 Cal.App.4th 36, 45;
+
+People v. Serrano (2012) 211 Cal.App.4th 496, 498 (Serrano); People v. Cole (2020) 52
+
+Cal.App.5th 1023, 1032 (Cole).) Wende/Anders review is highly unusual and rooted in
+
+the constitutional right to effective assistance of counsel, and courts have repeatedly
+
+declined to apply it in other contexts. (Pennsylvania v. Finley (1987) 481 U.S. 551, 554-
+
+555; Conservatorship of Ben C. (2007) 40 Cal.4th 529, 535; In re Sade C. (1996) 13
+
+Cal.4th 952, 959; People v. Kisling (2015) 239 Cal.App.4th 288, 290; People v. Dobson
+
+(2008) 161 Cal.App.4th 1422, 1425; People v. Taylor (2008) 160 Cal.App.4th 304, 307-
+
+308; Glen C. v. Superior Court (2000) 78 Cal.App.4th 570; 579.)
+
+       Because this appeal concerns a postjudgment proceeding in which there is no
+
+constitutional right to effective assistance of counsel, appellant has no right to
+
+Wende/Anders review. “[A]lthough we are not required to conduct such a review, we
+
+also are not prohibited from conducting it. [Citations.] We have discretion to read the
+
+entire record and look for arguable grounds for reversal. We have that discretion in every
+
+appeal, both criminal and civil—we are always allowed to read the whole record,
+
+searching for issues and requesting supplemental briefing on anything we find.” (People
+
+
+
+                                              1
+v. Gallo (Nov. 19, 2020, E074674) __ Cal.App.5th __ [2020 Cal.App. Lexis 1095, *8-*9]
+
+(dis. opn. of Menetrez, J.).) But in the absence of a valid case-specific reason for
+
+conducting such a review, doing so would constitute a misuse of judicial resources and an
+
+abuse of discretion. (Id. at pp. *9-*14 (dis. opn. of Menetrez, J.).)
+
+       Appellant’s counsel filed an opening brief raising no issues, and appellant was
+
+notified but did not file a supplemental brief. There is no case-specific reason for us to
+
+read the whole record to look for grounds for reversal. We consequently should not
+
+affirm but rather should dismiss the appeal as abandoned. (Serrano, 211 Cal.App.4th at
+
+pp. 503-504; Cole, 52 Cal.App.5th at pp. 1039-1040.) I therefore respectfully dissent.
+
+                                                                 MENETREZ
+                                                                                             J.
+
+
+
+
+                                              2

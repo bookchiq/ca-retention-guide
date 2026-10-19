@@ -1,0 +1,650 @@
+cl_opinion_id: 5175669
+cluster: 5343007
+docket: B308926
+date: 2022-01-03
+status: Published
+type: 010combined
+field: plain_text
+case: People v. Mejorado
+----
+Filed 1/3/22
+               CERTIFIED FOR PUBLICATION
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+                SECOND APPELLATE DISTRICT
+
+                        DIVISION EIGHT
+
+THE PEOPLE,                          B308926
+
+       Plaintiff and Respondent,     (Los Angeles County
+                                     Super. Ct. No. TA079230)
+       v.
+
+ERNESTO MEJORADO,
+
+       Defendant and Appellant.
+
+
+     APPEAL from an order of the Superior Court for the
+County of Los Angeles. Ronald S. Coen, Judge. Reversed and
+remanded with directions.
+
+     Jean Ballantine, under appointment by the Court of
+Appeal, for Defendant and Appellant.
+
+      Rob Bonta, Attorney General, Lance E. Winters, Chief
+Assistant Attorney General, Susan Sullivan Pithey, Assistant
+Attorney General, Idan Ivri and Thomas C. Hsieh, Deputy
+Attorneys General, for Plaintiff and Respondent.
+
+                _______________________________
+                             SUMMARY
+       Defendant Ernesto Mejorado is serving three terms of life
+without parole, plus more for various enhancements, after a jury
+convicted him in 2009 of the first degree murder of Raymundo
+Flores, and of the later first degree murders of two other victims.
+Only the Flores murder conviction is at issue in this appeal.
+       The jury found true the special circumstance allegation
+that defendant committed the Flores murder while engaged in a
+robbery. The jury could not determine whether defendant or his
+companion was the actual killer, but necessarily found defendant
+either acted with intent to kill or acted with reckless indifference
+to human life and was a major participant in the robbery. We
+affirmed the judgment on appeal. (People v. Arceo (2011)
+195 Cal.App.4th 556 (Arceo).)
+       In 2020, defendant petitioned for resentencing under Penal
+Code section 1170.95. (Unidentified section references are to the
+Penal Code.) The trial court denied defendant’s petition without
+appointing counsel for defendant, relying on cases holding the
+jury’s special circumstance finding barred resentencing relief.
+       People v. Lewis (2021) 11 Cal.5th 952 (Lewis), decided after
+the denial of resentencing in this case, established the trial
+court’s failure to appoint counsel under the circumstances of this
+case was state law error. The question before us is whether that
+error was prejudicial. (Id. at pp. 973–974.) We conclude it was.
+Accordingly, we reverse the trial court’s order denying
+defendant’s petition and remand with directions to appoint
+counsel, issue an order to show cause, and hold the hearing
+described in section 1170.95, subdivision (d).
+                     LEGAL BACKGROUND
+       In 2015 and 2016, the Supreme Court decided two cases
+construing the terms “major participant” and “reckless
+indifference to human life” for purposes of a special
+
+
+
+                                 2
+circumstances finding. (People v. Banks (2015) 61 Cal.4th 788
+(Banks) and People v. Clark (2016) 63 Cal.4th 522 (Clark).) Many
+cases have given extensive descriptions of Banks and Clark, as
+well as the United States Supreme Court cases on which they
+relied. (See, e.g., People v. Wilson (2021) 69 Cal.App.5th 665,
+678–685 (Wilson).) Both Banks and Clark involved armed
+robberies and found the evidence legally insufficient to support
+the jury’s special circumstance finding under section 190.2,
+subdivision (d).
+       In Banks, the defendant was not a major participant, but
+rather a “minor actor”—the getaway driver who did not see the
+shooting, had no reason to know it would happen, and could not
+do anything to stop it or render assistance. (Banks, supra,
+61 Cal.4th at p. 807.) “[A] defendant’s personal involvement
+must be substantial, greater than the actions of an ordinary aider
+and abettor to an ordinary felony murder.” (Id. at p. 802.) As for
+the defendant’s mental state, while he knew he was participating
+in an armed robbery, no evidence at trial “supported the
+conclusion beyond a reasonable doubt that [the defendant] knew
+his own actions would involve a grave risk of death.” (Id. at
+p. 807.) “Awareness of no more than the foreseeable risk of death
+inherent in any armed crime is insufficient; only knowingly
+creating a ‘grave risk of death’ satisfies the constitutional
+minimum.” (Id. at p. 808.)
+       In Clark, the court did not decide whether the defendant
+was a major participant (he had a prominent role in planning the
+criminal enterprise) but decided only that the evidence was
+insufficient to support a finding the defendant exhibited “reckless
+indifference to human life.” (Clark, supra, 63 Cal.4th at pp. 613–
+615.) Among other things, there was only one gun, which
+belonged to the shooter and had only one bullet in it; the
+defendant was not at the scene when the murder occurred and
+
+
+
+                                3
+planned the robbery for a time most employees would be gone;
+and there was no evidence the defendant was aware the shooter
+had a propensity for violence. (Id. at pp. 618–622.)
+       Banks and Clark provided guidance for determining
+whether a defendant was a major participant (Banks) and
+exhibited a reckless indifference to human life (Clark),
+identifying several considerations, “[n]o one of [which] is
+necessary, nor is any one of them necessarily sufficient.” (Banks,
+supra, 61 Cal.4th at p. 803; Clark, supra, 63 Cal.4th at p. 618.)
+       In Banks, the considerations were: “What role did the
+defendant have in planning the criminal enterprise that led to
+one or more deaths? What role did the defendant have in
+supplying or using lethal weapons? What awareness did the
+defendant have of particular dangers posed by the nature of the
+crime, weapons used, or past experience or conduct of the other
+participants? Was the defendant present at the scene of the
+killing, in a position to facilitate or prevent the actual murder,
+and did his or her own actions or inaction play a particular role in
+the death?” (Banks, supra, 61 Cal.4th at p. 803.) The
+considerations identified in Clark are similar. 1
+       After Banks and Clark, the Legislature enacted Senate Bill
+No. 1437 (2017–2018 Reg. Sess.), effective January 1, 2019,
+amending the felony-murder rule and the natural and probable
+consequences doctrine for murder. The bill’s purpose was “to
+
+
+1      The considerations identified in Clark in determining
+reckless indifference to human life are: (1) knowledge of
+weapons, and use and number of weapons; (2) physical presence
+at the crime and opportunities to restrain the crime and/or aid
+the victim; (3) duration of the felony; (4) the defendant’s
+knowledge of cohort’s likelihood of killing; and (5) the defendant’s
+efforts to minimize the risks of the violence during the felony.
+(Clark, supra, 63 Cal.4th at pp. 618–622.)
+
+
+                                 4
+ensure that murder liability is not imposed on a person who is
+not the actual killer, did not act with the intent to kill, or was not
+a major participant in the underlying felony who acted with
+reckless indifference to human life.” (Stats. 2018, ch. 1015, § 1,
+subd. (f).) The new law amended the definition of malice in
+section 188, and narrowed the class of persons liable for felony
+murder in section 189. (Stats. 2018, ch. 1015, §§ 2 & 3.)
+       Now, “[a] participant in the perpetration or attempted
+perpetration of a felony listed in subdivision (a) [including
+robbery] in which a death occurs is liable for murder only if one of
+the following is proven: [¶] (1) The person was the actual killer.
+[¶] (2) The person was not the actual killer, but, with the intent
+to kill, aided, abetted, counseled, commanded, induced, solicited,
+requested, or assisted the actual killer in the commission of
+murder in the first degree. [¶] (3) The person was a major
+participant in the underlying felony and acted with reckless
+indifference to human life, as described in subdivision (d) of
+Section 190.2.” (§ 189, subd. (e).)
+       Senate Bill No. 1437 also added section 1170.95, which
+specifies a procedure under which a person “convicted of felony
+murder or murder under a natural and probable consequences
+theory” may petition the sentencing court “to have the
+petitioner’s murder conviction vacated” and to be resentenced on
+any remaining counts. (Stats. 2018, ch. 1015, § 4; § 1170.95,
+subd. (a).) Among the conditions that apply to such a petition is
+that the petitioner “could not be convicted of first or second
+degree murder because of changes to Section 188 or 189 made
+effective January 1, 2019.” (§ 1170.95, subd. (a)(3).) 2
+
+
+2
+     Section 1170.95 has been amended by Senate Bill No. 775
+(2021–2022 Reg. Sess.), effective January 1, 2022, to clarify that
+persons who were convicted of attempted murder or
+
+
+                                  5
+                               FACTS
+1.     The Murders in This Case
+       We take the facts from our opinion in 2011 affirming
+defendant’s convictions. (Arceo, supra, 195 Cal.App.4th at
+pp. 560–561.)
+       “Defendants Arceo and Mejorado were members of a gang,
+the Krazy Ass Mexicans, as was Francisco Ramirez. Sergio
+Mejorado, defendant Mejorado’s half brother, was a member of a
+different gang. These four gang members were participants in
+some or all of the three murders in this case. . . .
+       “Mejorado and Ramirez, who were good friends, lived in a
+converted garage adjacent to a house (the Lopez house) owned by
+Mejorado’s grandmother, Maria Lopez. Maria Lopez lived there
+with her sons Adan and Ramon Lopez, and Ramon’s son David
+Lopez. Another grandson, Tommy Lopez, also a gang member,
+lived elsewhere with his then girlfriend, Jessika Merrill.
+Defendant Arceo and codefendant’s half brother, Sergio, also
+lived elsewhere. . . . (To avoid confusion, we refer to all of the
+Lopezes as well as to Sergio Mejorado by their first names.)
+Jennifer Sanchez and America (or Erica) San Miguel, two young
+women described as ‘druggies,’ spent a lot of time at the garage of
+the Lopez house with Mejorado and Ramirez.
+
+
+
+manslaughter under a theory of felony murder and the natural
+and probable consequences doctrine may obtain the same relief
+as persons convicted of murder under those theories.
+(Stats. 2021, ch. 551, § 1, subd. (a).) The amendment also codifies
+certain holdings in Lewis, supra, 11 Cal.5th 952; reaffirms the
+burden of proof at a resentencing hearing; and addresses the
+evidence a court may consider at a resentencing hearing.
+(Stats. 2021, ch. 551, § 1, subds. (b)–(d).)
+
+
+
+
+                                 6
+       “The first murder victim was Raymundo Flores. Flores
+drove a green Impala with special chrome rims and electronic
+equipment, and there was evidence suggesting he had recently
+come into possession of $18,000 and that this was known to
+Ramirez and Mejorado. In the early morning hours of April 12,
+2005, Flores was shot in the back of the head with a .380-caliber
+round from a semiautomatic handgun. He was found in an alley
+near the Lopez house and later died. That same morning,
+Mejorado knocked on the door of the Lopez house and, in an
+excited state, told his cousin, David, who had been sleeping in the
+living room, that ‘they [(he and Ramirez)] had murdered some
+guy’ in the alley.[3] David went back to sleep. A few hours later,
+when he got up to go to work, David saw a green car with
+expensive rims in the driveway, covered with blankets.
+       “The next day, Ramirez and Mejorado took the rims off the
+car, replaced the tires with spare tires, and took televisions and
+other electronic equipment from the car and put them in the
+house. Sanchez, one of the ‘druggies,’ was present, as were
+Tommy and his girlfriend Merrill.
+       “Ramirez drove away in the stripped car with Sanchez,
+taking the car a couple of streets away from the Lopez house.
+Mejorado followed with Tommy and Merrill. When Tommy and
+Merrill drove up, the others ‘had gas on the car,’ and Mejorado
+
+
+3     David testified defendant and Ramirez were “ ‘kind of
+panicking,’ ‘[k]ind of like a freak mode, like they were in a rush to
+do things.’ Mejorado told him ‘they had murdered some guy.’
+David told the police that Mejorado asked David if he had heard
+a gunshot, and said, ‘Man, we murdered somebody, we murdered
+somebody, hurry up,’ and ‘[w]e just murdered somebody.’
+Mejorado grabbed some clothing and ran back out.” (Arceo,
+supra, 195 Cal.App.4th at p. 565.)
+
+
+
+                                 7
+then set it on fire.” (Arceo, supra, 95 Cal.App.4th at pp. 560–
+561.) 4
+        Defendant’s jury found him guilty of the first degree
+murder of Flores; found true the allegations that a principal
+personally and intentionally discharged a firearm proximately
+causing the death of Flores (as well as the lesser firearm
+allegations); and found true the special circumstance allegation
+that defendant committed the Flores murder while engaged in a
+robbery. The jury could not reach a verdict on the gang
+allegation attached to the Flores murder count, and the court
+declared a mistrial on that allegation. (Arceo, supra,
+195 Cal.App.4th at pp. 569–570.) The jury also convicted
+defendant of the Sanchez and San Miguel murders and of
+conspiracy to commit those murders. 5 (Ibid.)
+        Defendant was sentenced to three terms of life without
+parole, plus 50 years to life for firearm enhancements with
+
+
+
+
+4     Our opinion goes on to recite the circumstances
+surrounding the murder of the next two victims, Sanchez and
+San Miguel, the two young women who were frequently at the
+garage of the Lopez house with defendant and Ramirez. In brief,
+12 days after the Flores murder, Sergio and Arceo killed Sanchez
+and San Miguel. Defendant and Ramirez loaded the bodies into
+the trunk of David’s car, and Ramirez left in the car with the
+bodies, which were found the next day in Tulare County, burned
+and unrecognizable. (Arceo, supra, 195 Cal.App.4th at p. 561.)
+
+5     In addition to those convictions and attached firearm and
+gang allegations that were found true, the jury found true special
+circumstance allegations that San Miguel was intentionally killed
+because she was a witness to a crime, and that defendant
+committed more than one offense of murder. (Arceo, supra,
+195 Cal.App.4th at pp. 569–570.)
+
+
+                                8
+respect to the San Miguel and Sanchez murders. (Arceo, supra,
+195 Cal.App.4th at p. 570.)
+2.     The Resentencing Petition
+       In July 2020, defendant filed a resentencing petition,
+stating he was convicted of the first degree felony murder of
+Flores and could not now be so convicted because of changes to
+section 189. He stated he was not the actual killer; he “did not,
+with the intent to kill, aid, abet, counsel, commend, induce,
+solicit, request, or assist the actual killer in the commission of
+murder in the first degree”; and he “was not a major participant
+in the felony or [he] did not act with reckless indifference to
+human life during the course of the crime or felony.” He
+requested the court appoint counsel for him.
+       On September 3, 2020, the trial court denied the petition,
+without appointing counsel or receiving briefs. The court’s
+minute order states that, although the jury was instructed before
+Banks and Clark were decided, “the felony murder special
+circumstance instructions utilized did require the jury to find the
+petitioner was either the actual killer, an aider and abettor who
+had the intent to kill, or an aider and abettor who was a major
+participant in the underlying felony who acted with reckless
+indifference to human life.” Further, “the jury was properly
+instructed as to aider and abettor liability for felony murder. In
+such instance, the petitioner could still be convicted of murder
+under newly enacted Penal Code section 189(e). As such,
+petitioner is not eligible for relief as a matter of law and the
+petition may be summarily denied.”
+       Defendant filed a timely appeal from the denial of his
+resentencing petition.
+                             DISCUSSION
+       This case presents, first, a question that has produced a
+split of authority in the Courts of Appeal: Does a pre-Banks and
+
+
+
+                                 9
+Clark felony-murder special circumstance finding preclude a
+defendant from making a prima facie showing of eligibility for
+resentencing relief under section 1170.95? The Supreme Court
+has granted review of that issue. (People v. Strong (Dec. 18,
+2020, C091162) [nonpub. opn.], review granted Mar. 10, 2021,
+S266606.)
+       The trial court here relied on two cases holding a felony-
+murder special circumstance finding categorically bars relief
+under section 1170.95: People v. Galvan (2020) 52 Cal.App.5th
+1134 (Galvan), review granted October 14, 2020, S264284 and
+People v. Gomez (2020) 52 Cal.App.5th 1 (Gomez), review granted
+October 14, 2020, S264033. While their reasoning differed, both
+Galvan and Gomez concluded “the proper remedy for challenging
+a special circumstance finding is by a petition for habeas corpus,
+not a petition for resentencing under section 1170.95.” (Galvan,
+at p. 1137; see Gomez, at p. 17; see also People v. Murillo (2020)
+54 Cal.App.5th 160, 168, review granted Nov. 18, 2020, S264978;
+People v. Allison (2020) 55 Cal.App.5th 449, 458 [Banks and
+Clark merely clarified the law; the phrases “major participant”
+and “reckless indifference to human life” are interpreted as they
+are used in common parlance; and “[j]ury instructions regarding
+the mental state required for a felony-murder special
+circumstance are not defective if they do not include the Banks
+and Clark factors”].)
+       Other cases have disagreed. These cases generally say that
+because the special circumstance finding was made prior to the
+Banks and Clark opinions, and because Banks and Clark
+construed the meaning of “major participant” and “reckless
+indifference to human life” in a significantly different, narrower
+manner than previously, “the factual issues that the jury was
+asked to resolve in [cases pre-dating Banks] are not the same
+factual issues our Supreme Court has since identified as
+
+
+
+                               10
+controlling.” (People v. Smith (2020) 49 Cal.App.5th 85, 93,
+review granted July 22, 2020, S262835; People v. Torres (2020)
+46 Cal.App.5th 1168, 1179, review granted June 24, 2020,
+S262011; see Wilson, supra, 69 Cal.App.5th at pp. 677–678; id. at
+p. 678 [“Our examination . . . of the evolving meaning of the
+terms ‘major participant’ and ‘reckless indifference to human life’
+convinces us that a special circumstance finding predating Banks
+and Clark cannot categorically bar resentencing relief under
+section 1170.95.”]; People v. Secrease (2021) 63 Cal.App.5th 231,
+254, review granted June 30, 2021, S268862 [Banks and Clark
+“placed new limits” on the meaning of “major participant” and
+“reckless indifference to human life”].)
+       We see no point in adding to the extensive analyses
+provided in these two lines of cases. We decide only to follow the
+views expressed in the Smith and Torres line, concluding only
+that the special circumstance finding is not a categorical bar to
+resentencing relief in every case as a matter of law. In resolving
+this case, we are guided first by Lewis, which resolved other
+issues debated in the Courts of Appeal relating to the
+appointment of counsel, the record of conviction, and the
+defendant’s prima facie case. Several points are relevant.
+       “While the trial court may look at the record of conviction
+after the appointment of counsel to determine whether a
+petitioner has made a prima facie case for section 1170.95 relief,
+the prima facie inquiry under subdivision (c) is limited. Like the
+analogous prima facie inquiry in habeas corpus
+proceedings, ‘ “the court takes petitioner’s factual allegations as
+true and makes a preliminary assessment regarding whether the
+petitioner would be entitled to relief if his or her factual
+allegations were proved. If so, the court must issue an order to
+show cause.” ’ [Citation.] ‘[A] court should not reject the
+petitioner’s factual allegations on credibility grounds without
+
+
+
+                                11
+first conducting an evidentiary hearing.’ [Citation.] ‘However, if
+the record, including the court’s own documents, “contain[s] facts
+refuting the allegations made in the petition,” then “the court is
+justified in making a credibility determination adverse to the
+petitioner.” ’ [Citation.]” (Lewis, supra, 11 Cal.5th at p. 971.)
+       Lewis also tells us that appellate opinions are generally
+considered part of the record of conviction but cautions that “the
+probative value of an appellate opinion is case specific, and ‘it is
+certainly correct that an appellate opinion might not supply all
+answers.’ [Citation.] In reviewing any part of the record of
+conviction at this preliminary juncture, a trial court should not
+engage in ‘factfinding involving the weighing of evidence or the
+exercise of discretion.’ [Citation.] As the People emphasize, the
+‘prima facie bar was intentionally and correctly set very low.’ ”
+(Lewis, supra, 11 Cal.5th at p. 972.)
+       Lewis found the failure to appoint counsel—as happened in
+this case—was state law error only, and repeated that the
+petitioner’s allegations should be accepted as true and “the court
+should not make credibility determinations or engage in
+‘factfinding involving the weighing of evidence or the exercise of
+discretion.’ [Citation.] [The petitioner] must therefore
+‘demonstrate there is a reasonable probability that in the absence
+of the error he . . . would have obtained a more favorable result.’
+[Citations.] More specifically, a petitioner ‘whose petition is
+denied before an order to show cause issues has the burden of
+showing “it is reasonably probable that if [he or she] had been
+afforded assistance of counsel his [or her] petition would not have
+been summarily denied without an evidentiary hearing.” ’
+[Citation.]” (Lewis, supra, 11 Cal.5th at p. 974.)
+       We conclude from these principles in Lewis that the error
+in failing to appoint counsel is harmless only if we can determine
+that the record of conviction “ ‘ “contain[s] facts refuting the
+
+
+
+                                12
+allegations made in the petition.” ’ ” (Lewis, supra, 11 Cal.5th at
+p. 971.) On that point, we cannot say that the facts recited in our
+2011 opinion establish, as a matter of law, that defendant acted
+with reckless indifference to human life during the course of the
+Flores robbery and murder, as that term has been construed in
+Banks and Clark, and again more recently in In re Scoggins
+(2020) 9 Cal.5th 667 (Scoggins). 6
+       The facts described in our opinion establish defendant and
+Ramirez were close friends who lived together and were members
+of the same gang; defendant knew Flores had $18,000; and
+defendant was at the crime scene, because he later said to David
+Lopez, in an excited state, that “ ‘[w]e just murdered somebody.’ ”
+There is no evidence of whether or not defendant did anything to
+help Flores after Flores was shot in the back of the head; we only
+know Flores “later died.” There is a great deal of evidence about
+defendant’s actions the morning after Flores was killed and in
+the days that followed, to remove valuables from the car and
+cover up the crimes. From all this, we may be justified in
+concluding defendant was a major participant in the robbery
+under Banks. But we are uncertain at this stage that our
+appellate opinion establishes as a matter of law that defendant
+acted with reckless indifference to human life during the course
+of the robbery.
+       The People contend we may infer from the evidence recited
+in our opinion that defendant and Ramirez “together planned the
+robbery and murder of Flores” (italics added). The People argue
+
+6     Scoggins addressed whether the defendant’s conduct
+supported a robbery-murder special-circumstance finding under
+Banks and Clark, and held the defendant did not act with
+reckless indifference to human life. (Scoggins, supra, 9 Cal.5th at
+p. 671.)
+
+
+
+                                13
+we may infer, from the evidence they stripped Flores’s car, “that
+they had the tools and materials necessary to strip the car
+because they had planned and prepared to kill Flores and strip
+his car prior to the robbery”; and we may infer, from the fact
+Flores was shot in the back of the head, that defendant “knew
+that a firearm would be used in the robbery of Flores and
+[defendant] was aware of the dangers posed by the nature of that
+robbery.” We are not persuaded these inferences are sufficient to
+establish as a matter of law that defendant intended to murder
+Flores or acted with reckless indifference to his life.
+       The People add that gang evidence supported the inference
+“that [defendant] was at a minimum aware of the potential
+danger that Flores would be killed during the robbery,” and also
+that defendant “knew Ramirez had a propensity for violence.”
+The People cite no basis in the record for the latter inference. As
+for the former, Scoggins tells us that “[n]otably, ‘the fact a
+participant [or planner of] an armed robbery could anticipate
+lethal force might be used’ is not sufficient to establish reckless
+indifference to human life.” (Scoggins, supra, 9 Cal.5th at
+p. 677.) The People cite expert evidence that the murder of
+Flores benefitted defendant and the gang, but the jury could not
+reach a verdict on the gang allegation attached to the Flores
+murder count.
+       We do not know whether defendant “use[d] or [knew] that a
+gun would be used during the felony.” (Scoggins, supra, 9 Cal.5th
+at p. 677.) So far as we know, only one weapon was used. (See
+ibid.) We do not know if defendant had “the opportunity to
+restrain the crime or aid the victim” (ibid.)—we only know there
+is no evidence on the point. We do not know “the duration of the
+interaction between the perpetrators of the felony and [Flores].”
+(Ibid.) We do not know defendant’s “knowledge of [Ramirez’s]
+propensity for violence or likelihood of using lethal force.” (Ibid.)
+
+
+
+                                 14
+We do not know whether defendant tried “to minimize the risks
+of violence during the felony.” (Ibid.)
+       In short, it may be that the record of conviction contains
+other evidence bearing on the issue, but our opinion reveals little
+about defendant’s mental state during the course of the robbery.
+(See Banks, supra, 61 Cal.4th at p. 801 [“The defendant must be
+aware of and willingly involved in the violent manner in which
+the particular offense is committed, demonstrating reckless
+indifference to the significant risk of death his or her actions
+create.”]; Clark, supra, 63 Cal.4th at p. 617 [the mere fact that a
+robbery involves a gun, “on its own and with nothing more
+presented, is not sufficient to support a finding of reckless
+indifference to human life for the felony-murder aider and abettor
+special circumstance”].) 7
+
+
+
+7     The People also cite our opinion in the direct appeal, where
+we found (in the nonpublished portion) that any error in
+excluding Adan Lopez’s testimony—that defendant said Ramirez
+had shot Flores—was harmless beyond a reasonable doubt.
+(People v. Arceo (Apr. 13, 2011, B218758) [nonpub. opn.].)
+According to the People, we said there was overwhelming
+evidence “that [defendant] was at least liable as a direct aider
+and abettor in Flores’s murder.” (Italics added.) We did not use
+the term “direct aider and abettor,” and of course the opinion
+predated the change in the law requiring intent to kill. (The trial
+court stated defendant’s jury “was instructed re aiding and
+abetting, natural and probable consequences doctrine, malice
+murder and felony murder.”) The People go on to imply we
+meant that “the evidence of [defendant’s] participation in the
+robbery and murder of Flores was so strong that it not only
+showed he was a major participant in the robbery who acted with
+reckless indifference to life, but that he had the intent to kill
+Flores.” That conclusion cannot properly be drawn.
+
+
+
+                                15
+       Defendant has alleged he “did not act with reckless
+indifference to human life during the course of the crime or
+felony,” and contends it is “not enough to prove two perpetrators
+committed a robbery, the victim was killed, and the perpetrators
+then acted to cover up the crime.” Lewis tells us the court, “[i]n
+reviewing any part of the record of conviction at this preliminary
+juncture, . . . should not engage in ‘factfinding involving the
+weighing of evidence or the exercise of discretion.’ ” (Lewis,
+supra, 11 Cal.5th at p. 972.) Acknowledging Lewis’s caution that
+“ ‘an appellate opinion might not supply all answers’ ” (ibid.), we
+are not prepared to conclude the facts described in our opinion
+conclusively refute defendant’s allegations as a matter of law.
+Accordingly, the trial court must issue an order to show cause
+and hold a hearing, in accordance with the provisions of
+section 1170.95, subdivision (d) then in effect.
+                           DISPOSITION
+       The order is reversed, and the cause is remanded to the
+trial court with instructions to appoint counsel for defendant,
+issue an order to show cause and hold a hearing as described in
+section 1170.95, subdivision (d).
+
+
+
+
+                        GRIMES, Acting P. J.
+      WE CONCUR:
+
+
+
+                        STRATTON, J.
+
+
+
+
+                        WILEY, J.
+
+
+
+                                16
+STRATTON, J., and WILEY, J., Concurring.
+       We write separately to explain that we have reconsidered
+the position we took in People v. Rangel (Dec. 17, 2021, B311083)
+[nonpub. opn.]. That opinion held that a defendant challenging
+the sufficiency of a jury’s special circumstance finding may do so
+only by filing a petition for writ of habeas corpus rather than
+raising the challenge in a petition filed pursuant to Penal Code
+section 1170.95. 1 We reasoned that such a defendant is not
+relying on changes in sections 188 and 189 brought about by
+Senate Bill No. 1437 (2017–2018 Reg. Sess.); instead such a
+defendant is relying on changes created by People v. Banks (2015)
+61 Cal.4th 788 and People v. Clark (2016) 63 Cal.4th 522.
+       We have since been persuaded that such a challenge via a
+petition brought under section 1170.95, as amended by Statutes
+2021, chapter 551, section 2 (eff. Jan. 1, 2022), falls within the
+legislative intent of Senate Bill No. 1437. We concur that
+Mejorado is not ineligible as a matter of law to have his murder
+conviction vacated just because he has not already had his special
+circumstance findings overturned by way of habeas corpus.
+Sections 188 and 189 now engraft new elements onto felony
+murder—proof beyond a reasonable doubt that a defendant acted
+with reckless indifference to human life and was a major
+participant in the felony offense. The elements happen to be
+framed in the same language used to describe the special
+circumstance of section 190.2, but they are applied under
+narrower definitions put in place by Banks and Clark after
+Mejorado’s conviction. Based on the record before us, it is not
+possible to say as a matter of law that Mejorado’s murder
+conviction satisfies the additional elements added by sections 188
+and 189 as interpreted by Banks and Clark. Mejorado is entitled
+
+1     All further statutory references are to the Penal Code.
+
+
+                                1
+to the issuance of an order to show cause, an evidentiary hearing,
+and a determination by the trial court as to whether he is guilty
+of the murder of Raymundo Flores beyond a reasonable doubt
+notwithstanding the changes wrought to sections 188 and 189.
+
+
+
+
+                              STRATTON, J.
+
+
+
+
+                              WILEY, J.
+
+
+
+
+                                2
