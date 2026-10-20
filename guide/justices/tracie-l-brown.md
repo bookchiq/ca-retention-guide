@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 0 | 9 | 0 / 0 | 0 |
-| [Right to counsel](#right-to-counsel) (floor) | 9 | 26 | 1 / 1 | — |
+| [Right to counsel](#right-to-counsel) | 20 | 57 | 1 / 1 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 3 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 1 | 4 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 3 | 6 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 1 | 4 | 0 / 0 | 1 |
+| [Jury selection](#jury-selection) | 3 | 6 | 0 / 0 | 1 |
 | [Police records](#police-records) | 0 | 3 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 2 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 2 | 2 | 0 / 0 | 2 |
 | [Resentencing](#resentencing) | 18 | 60 | 1 / 1 | — |
 | [Anti-SLAPP](#anti-slapp) | 8 | 20 | 0 / 1 | — |
-| [Arbitration](#arbitration) (floor) | 2 | 14 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 4 | 22 | 1 / 0 | — |
 | [Consumer protection](#consumer-protection) | 2 | 6 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 9 | 30 | 0 / 1 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 4 | 11 | 0 / 0 | — |
@@ -64,11 +64,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 9 | 26 | 1 | 1 |
+| 20 | 57 | 1 | 1 |
 
 ### Immigration consequences of pleas
 
@@ -84,11 +82,19 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 1 | 4 | 0 | 0 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the defendant's statements were obtained in violation of Miranda and Edwards because an officer kept questioning him after he asked for an attorney, and his later statements were a product of that questioning; found the error not harmless and reversed. *People v. Nwuzi* (A159805, 2022-02-01; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/6247345/people-v-nwuzi-ca14/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 6 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding, for the reasons given in the court's decision for a codefendant, that the trial court erred in denying the defendant's Batson/Wheeler motion, and rejecting the Attorney General's new argument that the record supported the prosecution's stated reason that the prospective juror was vague; reversed. *People v. Topete* (A162466, 2024-01-30; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9470260/people-v-topete-ca14/)
 
 ### Police records
 
@@ -101,6 +107,11 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 2 | 2 | 0 | 0 |
+
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion declining to consider a Racial Justice Act claim raised for the first time on appeal by amici curiae and joined by the defendant, because it was not raised in the trial court; conditionally reversed on a separate diversion issue. *People v. K.D.* (A168538, 2025-04-21; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10382136/people-v-kd/)
+- Wrote the opinion holding that, in deciding whether a Racial Justice Act motion states a prima facie case, a trial court may not weigh evidence or make credibility determinations except in rare cases; granted the writ and ordered a new hearing. *Finley v. Superior Court* (A167311, 2023-08-31; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9423946/finley-v-superior-court/)
 
 ### Resentencing
 
@@ -116,11 +127,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 2 | 14 | 0 | 0 |
+| 4 | 22 | 1 | 0 |
 
 ### Consumer protection
 

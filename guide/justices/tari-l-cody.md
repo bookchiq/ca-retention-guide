@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 2 | 14 | 0 / 0 | 0 |
-| [Right to counsel](#right-to-counsel) (floor) | 5 | 31 | 0 / 2 | — |
+| [Right to counsel](#right-to-counsel) | 18 | 67 | 0 / 2 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 4 | 2 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 0 | 5 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 0 | 4 | 1 / 1 | — |
+| [Interrogation](#interrogation) (floor) | 0 | 5 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 0 | 4 | 1 / 1 | 3 |
 | [Police records](#police-records) | 2 | 8 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 6 | 0 / 1 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 6 | 0 / 1 | 1 |
 | [Resentencing](#resentencing) | 26 | 79 | 5 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 4 | 5 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 3 | 7 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 5 | 13 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 0 | 3 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 3 | 10 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 4 | 0 / 0 | — |
@@ -64,11 +64,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 5 | 31 | 0 | 2 |
+| 18 | 67 | 0 | 2 |
 
 ### Immigration consequences of pleas
 
@@ -84,11 +82,19 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 0 | 5 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 4 | 1 | 1 |
+
+**Listed cases** (3). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote a concurrence agreeing the prosecution's peremptory challenge did not violate Code of Civil Procedure section 231.7 because the only presumptively invalid reason was rebutted, and stating that an earlier decision of the division was distinguishable and should not have been disapproved; affirmed. *People v. Garcia* (B330884, 2025-10-06; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10691459/people-v-garcia/)
+- Concurred in part and dissented from the 2–1 decision upholding the denial of the defendant's Code of Civil Procedure section 231.7 objection; would have held the prosecution never explained why the prospective juror's demeanor mattered to the case, so those presumptively invalid reasons were not rebutted, and would have reversed. *People v. SanMiguel* (B328160, 2024-10-08; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/10131934/people-v-sanmiguel-ca26/)
+- Joined the 2–1 majority holding the trial court erred in denying the defendant's Code of Civil Procedure section 231.7 objection because the prosecution's 'lack of life experience' reason rested partly on a presumptively invalid ground, lack of employment, without the required showing and findings; reversed for a new trial. *People v. Uriostegui* (B325200, 2024-04-05; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/9502465/people-v-uriostegui/)
 
 ### Police records
 
@@ -101,6 +107,10 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 6 | 0 | 1 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Concurred in part and dissented in part from a 2–1 decision, writing that the prosecutor's repeated 'gorilla pimp' remark violated the Racial Justice Act, that counsel was ineffective for not objecting, and that the judgment should have been reversed and remanded. *People v. Wilson* (B323666, 2025-06-09; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/10601233/people-v-wilson/)
 
 ### Resentencing
 
@@ -116,11 +126,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 3 | 7 | 0 | 0 |
+| 5 | 13 | 0 | 0 |
 
 ### Consumer protection
 

@@ -69,3 +69,34 @@ def test_apply_overrides_tags_for_read_topics_only(tmp_path):
     assert tr.apply(conn, {"emp": {"method": "read"}}, tmp_path) == {"emp": 1}
     tagged = dict(conn.execute("SELECT cl_opinion_id, tagged FROM topic_tags").fetchall())
     assert tagged == {1: 0, 2: 1}
+
+
+def test_near_miss_pool_skips_tagged_and_off_ballot_opinions():
+    conn = db.connect(":memory:")
+    seed(conn, 1, "dato", anchors=3)          # tagged by the keyword rule
+    seed(conn, 2, "dato", anchors=1)          # below the rule
+    seed(conn, 3, "not-on-ballot", anchors=1)
+    conn.execute("UPDATE topic_tags SET tagged = 0 WHERE cl_opinion_id IN (2, 3)")
+    for oid, text in ((4, "The waiver of counsel was invalid."), (5, "Nothing here.")):
+        seed(conn, oid, "dato", anchors=0)
+        conn.execute("DELETE FROM topic_tags WHERE cl_opinion_id = ?", (oid,))
+        conn.execute("UPDATE opinions SET text = ? WHERE cl_opinion_id = ?", (text, oid))
+    assert tr.near_miss_pool(conn, "emp", ["waiver of counsel"], "2020-01-01", {"dato"}) == [2, 4]
+
+
+def test_near_miss_decisions_add_to_keyword_tags(tmp_path):
+    conn = db.connect(":memory:")
+    seed(conn, 1, "dato", anchors=3)          # keyword-tagged, never read
+    seed(conn, 2, "dato", anchors=1)
+    conn.execute("UPDATE topic_tags SET tagged = 0 WHERE cl_opinion_id = 2")
+    seed(conn, 3, "dato", anchors=0)
+    conn.execute("DELETE FROM topic_tags WHERE cl_opinion_id = 3")  # probe-only: no row
+    with open(tmp_path / "emp.csv", "w", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=tr.FIELDS)
+        w.writeheader()
+        for oid in (2, 3):
+            w.writerow(dict.fromkeys(tr.FIELDS, "") | {"cl_opinion_id": oid, "final": "1"})
+    assert tr.apply(conn, {"emp": {"near_miss_read": True}}, tmp_path) == {"emp": 2}
+    tagged = dict(conn.execute("SELECT cl_opinion_id, tagged FROM topic_tags").fetchall())
+    assert tagged == {1: 1, 2: 1, 3: 1}
+    assert tr.apply(conn, {"emp": {"near_miss_read": True}}, tmp_path) == {"emp": 2}  # idempotent

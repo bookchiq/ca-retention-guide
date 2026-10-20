@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 9 | 1 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 4 | 6 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 6 | 25 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 7 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 1 | 2 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 6 | 1 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 1 | 2 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 1 | 6 | 1 / 0 | 1 |
 | [Police records](#police-records) | 1 | 5 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 45 | 124 | 3 / 1 | — |
 | [Anti-SLAPP](#anti-slapp) | 11 | 29 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 12 | 23 | 1 / 0 | — |
+| [Arbitration](#arbitration) | 15 | 34 | 1 / 0 | — |
 | [Consumer protection](#consumer-protection) | 3 | 10 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 7 | 15 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 1 | 1 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 4 | 6 | 0 | 0 |
+| 6 | 25 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 6 | 1 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the trial court erred in overruling a section 231.7 objection because neither of the prosecution's stated reasons for striking a Hispanic prospective juror was supported by the record; reversed for a new trial. A third justice agreed on reversal for different reasons. *People v. Bieser* (G062491, 2025-05-22; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10590074/people-v-bieser-ca43/)
 
 ### Police records
 
@@ -103,6 +107,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Resentencing
 
@@ -118,11 +124,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 12 | 23 | 1 | 0 |
+| 15 | 34 | 1 | 0 |
 
 ### Consumer protection
 

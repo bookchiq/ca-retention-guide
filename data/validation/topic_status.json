@@ -30,6 +30,17 @@
     ]
   },
   "arbitration": {
+    "near_miss": {
+      "addresses_topic": 271,
+      "agreement": 0.993006993006993,
+      "agreement_pass": true,
+      "disagreements": 1,
+      "method": "near_miss_read",
+      "pool": 954,
+      "read": 954,
+      "second_n": 143,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 99,
@@ -88,6 +99,17 @@
     ]
   },
   "counsel_fair_trial": {
+    "near_miss": {
+      "addresses_topic": 1167,
+      "agreement": 0.9925233644859813,
+      "agreement_pass": true,
+      "disagreements": 4,
+      "method": "near_miss_read",
+      "pool": 3564,
+      "read": 3564,
+      "second_n": 535,
+      "unresolved": 0
+    },
     "rounds": [
       {
         "est_missed": 86,

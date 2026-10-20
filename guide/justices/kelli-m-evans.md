@@ -35,15 +35,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 0 | 8 | 1 / 3 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 1 | 16 | 1 / 5 | — |
+| [Right to counsel](#right-to-counsel) | 1 | 18 | 1 / 5 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 2 | 1 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 0 | 6 | 0 / 3 | — |
-| [Jury selection](#jury-selection) | 0 | 9 | 1 / 3 | — |
+| [Interrogation](#interrogation) (floor) | 0 | 6 | 0 / 3 | 0 |
+| [Jury selection](#jury-selection) | 0 | 9 | 1 / 3 | 3 |
 | [Police records](#police-records) | 0 | 0 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 0 | 7 | 1 / 5 | — |
+| [Racial Justice Act](#racial-justice-act) | 0 | 7 | 1 / 5 | 6 |
 | [Resentencing](#resentencing) | 4 | 19 | 2 / 4 | — |
 | [Anti-SLAPP](#anti-slapp) | 0 | 1 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 0 | 8 | 2 / 0 | — |
+| [Arbitration](#arbitration) | 0 | 9 | 2 / 0 | — |
 | [Consumer protection](#consumer-protection) | 1 | 5 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 1 | 7 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 3 | 0 / 0 | — |
@@ -65,11 +65,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 1 | 16 | 1 | 5 |
+| 1 | 18 | 1 | 5 |
 
 ### Immigration consequences of pleas
 
@@ -85,11 +83,19 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 0 | 6 | 0 | 3 |
 
+**Listed cases:** none. No case in the window met the listing rules (8 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 9 | 1 | 3 |
+
+**Listed cases** (3). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Dissented from the 5–2 decision holding the defendant made no prima facie Batson/Wheeler case when the prosecution struck the only Black prospective juror remaining; would have found a prima facie case and reversed, and would have held the Racial Justice Act reaches peremptory challenges. The majority affirmed the death judgment. *People v. Hazlett* (S126387, 2026-08-27; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10960432/people-v-hazlett/)
+- Dissented from the 5–2 decision upholding the denial of the defendant's Batson/Wheeler motion over the prosecution's strikes of Black prospective jurors; would have held the trial court never completed the required third-stage evaluation and would have reversed. The majority affirmed the conviction and death sentence. *People v. Shove* (S161909, 2026-08-13; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10947287/people-v-shove/)
+- Dissented from the 5–2 holding that the trial court properly denied the defendant's Batson/Wheeler motion over the prosecution's strike of a Black prospective juror; argued the ruling deserved no deference, citing prosecutor training materials, and would have reversed the entire judgment. The court reversed the death judgment on other grounds. *People v. Aguirre* (S175660, 2025-08-28; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10662622/people-v-aguirre/)
 
 ### Police records
 
@@ -102,6 +108,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 7 | 1 | 5 |
+
+**Listed cases** (6). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Dissented from the 5–2 decision affirming a death judgment, arguing the Racial Justice Act covers discriminatory peremptory challenges; would have reversed under Batson/Wheeler because the only Black prospective juror was struck without the prosecutor stating reasons. Also joined a dissent finding the O.J. Simpson references violated the Act. *People v. Hazlett* (S126387, 2026-08-27; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10960432/people-v-hazlett/)
+- Concurred in the unanimous judgment reversing a death sentence for Racial Justice Act violations at the penalty phase, writing separately that the Act requires no separate harmless-error inquiry when a prosecutor appeals to racial bias in a nonfinal case. *People v. Bankston* (S044739, 2026-06-01; published; vote 7-0). [Opinion](https://www.courtlistener.com/opinion/10868063/people-v-bankston/)
+- Dissented from the 6–1 decision affirming a death judgment, arguing the majority construed the Racial Justice Act too narrowly, that language used at trial violated the Act, and that the conviction and sentence should be reversed. *People v. Barrera* (S103358, 2026-06-01; published; vote 6-1). [Opinion](https://www.courtlistener.com/opinion/10868062/people-v-barrera/)
+- Concurred in part and dissented from the 5–2 decision upholding a death sentence, arguing the prosecutor's comparison of the defendant to a predatory wolf appealed to racial bias in violation of the Racial Justice Act and required reversal of the death judgment. *People v. Demolle* (S159120, 2026-06-01; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10868060/people-v-demolle/)
+- Dissented from the 5–2 decision denying a capital defendant's motion to stay his appeal and remand so he could pursue a Racial Justice Act claim based on racial disparities in capital sentencing; would have granted the stay and remand. *People v. Frazier* (S148863, 2024-08-05; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10031441/people-v-frazier/)
+- Dissented from the 5–2 decision denying a capital defendant's motion to stay his appeal and remand for Racial Justice Act claims, arguing the habeas route the majority required is not grounded in the Act and would delay relief; would have granted the motion. *People v. Wilson* (S118775, 2024-08-05; published; vote 5-2). [Opinion](https://www.courtlistener.com/opinion/10031440/people-v-wilson/)
 
 ### Resentencing
 
@@ -117,11 +132,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 0 | 8 | 2 | 0 |
+| 0 | 9 | 2 | 0 |
 
 ### Consumer protection
 

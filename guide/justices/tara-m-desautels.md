@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 6 | 0 / 0 | 0 |
-| [Right to counsel](#right-to-counsel) (floor) | 5 | 12 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 8 | 25 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 0 | 1 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 1 | 2 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 0 | 0 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 1 | 2 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 0 | 0 | 0 / 0 | 0 |
 | [Police records](#police-records) | 1 | 1 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | 1 |
 | [Resentencing](#resentencing) | 6 | 18 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 1 | 5 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 2 | 4 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 3 | 6 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 2 | 4 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 1 | 6 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 1 | 5 | 0 / 0 | — |
@@ -64,11 +64,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 5 | 12 | 0 | 0 |
+| 8 | 25 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -84,11 +82,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (2 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 0 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
 
 ### Police records
 
@@ -101,6 +103,10 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that Racial Justice Act claims based on defense counsel's own tactical animal comparisons were barred as invited error and a claim based on the judge's sentencing remark was forfeited; rejected the related ineffective-assistance claim and affirmed. *People v. Midell* (A168758, 2025-08-28; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10662750/people-v-midell/)
 
 ### Resentencing
 
@@ -116,11 +122,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 2 | 4 | 0 | 0 |
+| 3 | 6 | 0 | 0 |
 
 ### Consumer protection
 

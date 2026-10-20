@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 22 | 0 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 33 | 138 | 3 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 48 | 190 | 4 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 10 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 6 | 20 | 0 / 1 | — |
-| [Jury selection](#jury-selection) | 3 | 7 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 6 | 20 | 0 / 1 | 2 |
+| [Jury selection](#jury-selection) | 3 | 7 | 0 / 0 | 1 |
 | [Police records](#police-records) | 4 | 17 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 2 | 6 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 2 | 6 | 0 / 0 | 2 |
 | [Resentencing](#resentencing) | 32 | 184 | 3 / 1 | — |
 | [Anti-SLAPP](#anti-slapp) | 3 | 9 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 2 | 9 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 2 | 14 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 1 | 3 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 3 | 14 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 1 | 7 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 33 | 138 | 3 | 0 |
+| 48 | 190 | 4 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,20 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 6 | 20 | 0 | 1 |
 
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the published opinion holding that Miranda warnings translated into Punjabi reasonably conveyed the defendant's rights, including that his statements could be used in court, and that he impliedly waived them by continuing to answer questions; upheld admission of his statement and affirmed. *People v. Singh* (F084642, 2024-06-27; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9968824/people-v-singh/)
+- Wrote the opinion holding that a detective did not honor the defendant's repeated invocation of his right to silence, that a mid-interrogation Miranda warning was ineffective, and that no valid waiver followed; found admission of his confessions not harmless and reversed the judgment. *People v. Redick CA5* (F078711, 2021-04-27; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4877551/people-v-redick-ca5/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 7 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the trial court erred in overruling the defendant's Code of Civil Procedure section 231.7 objection because the prosecution did not overcome, by clear and convincing evidence, the presumptive invalidity of its reasons for striking a Hispanic prospective juror; reversed for a new trial. *People v. Herrera CA5* (F087295, 2026-02-20; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10796992/people-v-herrera-ca5/)
 
 ### Police records
 
@@ -103,6 +110,11 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 2 | 6 | 0 | 0 |
+
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that a Racial Justice Act motion challenging a long-final judgment was filed prematurely under the Act's phased-in retroactivity provisions, so the trial court lacked jurisdiction; vacated the denial order and dismissed the appeal. *People v. Vigil* (F085762, 2024-08-28; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10090749/people-v-vigil/)
+- Wrote the opinion holding the defendant forfeited a Racial Justice Act claim about a detective's interview question by not raising it at trial, and that counsel was not ineffective for failing to object under the Act; affirmed the murder conviction. *People v. Singh* (F084642, 2024-06-27; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9968824/people-v-singh/)
 
 ### Resentencing
 
@@ -118,11 +130,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 2 | 9 | 0 | 0 |
+| 2 | 14 | 0 | 0 |
 
 ### Consumer protection
 

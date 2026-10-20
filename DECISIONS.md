@@ -75,6 +75,31 @@ All 13 queued San Diego-ballot justices were read, verified by a separate sessio
 
 **Data window.** Keep 2020-01-01 onward. 2020 is thinner than later years (see `data/validation/coverage.md`); the methodology page's coverage section now says so.
 
+## 2026-10-20: Near misses read for right to counsel and arbitration; case lists for three more topics
+
+**Near-miss reading** (owner decision 2026-10-19: arbitration and right to counsel; taxes and fees left as is). Both topics passed the keyword precision check, but round 1 estimated that the keywords missed about half of the qualifying opinions. Every near miss with a ballot justice on the panel was read: an opinion the keyword rule does not tag that contains one of the topic's probe terms or a below-rule keyword hit (`near_miss_read: true` in `data/keywords.yaml`; `src/topic_reads.py`). The pool was frozen when the batches were written. The same blind 15% second read and tiebreak applied, and the near misses read as addressing the topic were added to the keyword tags.
+
+| Topic | Near misses read | Added | Second-read agreement |
+|---|---|---|---|
+| Right to counsel | 3,564 | 1,167 | 99% (531 of 535) |
+| Arbitration | 954 | 271 | 99% (142 of 143) |
+
+The pages drop the "floor" caveat for these two topics; the methodology table reports the reading instead of a keyword undercount estimate.
+
+**Right-to-counsel definition clarified while reading** (given to every later reader; earlier rows reconciled). Denial of counsel counts whether the right is constitutional or statutory. A Wende or other no-issues remark that counsel was adequate, with no claim raised, does not count, and neither does a Marsden or Faretta motion that appears only in the procedural history. A denied continuance to obtain counsel counts in civil cases too. A § 1473.7 plea motion counts only when the court rules on an ineffective-assistance claim as such. In a no-issues review, a counsel issue that counsel or the defendant raised counts when the court says it considered it. The civil-continuance and § 1473.7 rules came after 14 of the 45 batches had been read, and the no-issues rule after 42 (running readers were told; finished batches were not). A separate reconciliation pass therefore re-decided the 268 earlier rows whose notes touched them; 11 changed. That pass came before the second-read sample was drawn, so the agreement figure measures the final rules.
+
+**Case lists for three more topics** (owner decision 2026-10-19: jury selection, the Racial Justice Act, interrogation). The listing rules (L1–L4, SC), the generous keyword queue, the reading, separate verification, 15% second check, and consistency check are the same as for search and seizure. Topic definitions and value lists are in `docs/review-guide.md` §7.
+
+| Topic | Justices with candidates | Records | Listed |
+|---|---|---|---|
+| Jury selection | 44 | 174 | 35 |
+| Racial Justice Act | 36 | 101 | 36 |
+| Interrogation | 47 | 258 | 17 |
+
+The second check re-read 126 records, drawn only from these topics, and found no substantive error. All 42 cases shared between justices within a topic got the same at-issue call, and every listed record's docket and a party name appear in its opinion text. Rulings made during review: *Doyle*/*Griffin* claims about the use of a defendant's silence are not interrogation issues (one listed record was removed on verification). A separate statement dissenting only from a publication order is not a dissent on the issue. Of two versions of the same decision, the operative one is decided and the other is excluded as a duplicate. Verifiers corrected case names to the opinion's caption: CourtListener files cl 9940655 as "In re H.D." (it is Bonds v. Superior Court) and cl 4531440 as "People v. Torres" (People v. Flores). They also dropped docket suffixes the captions do not show.
+
+Tooling changes: `review queue --topic T` builds one topic's queues without overwriting any existing queue. The second-check draw samples only records not yet checked. `review check --topic` disambiguates an opinion that is a record under several topics.
+
 ## 2026-10-19: Seven topics counted by reading each opinion
 
 Owner decision: cover the seven topics no keyword rule could count (jury selection, employment, consumer protection, landlord and tenant, public records and open meetings, land use and housing, taxes and fees) by reading every candidate opinion, limited to opinions with a ballot justice on the panel (the only opinions any page counts). Pool: 3,347 opinions with at least one of the topic's keywords, read in 47 batches by independent AI sessions that saw only the opinion text and the definition (`src/topic_reads.py`). A random 15% per topic (502 opinions) was read again blind; a third reader decided each of the 14 disagreements.

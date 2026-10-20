@@ -233,3 +233,35 @@ def test_mark_sample_sets_drawn_pending_and_finish_sets_not_sampled(workspace):
               for r in review.load_drafts(workspace, "dato")}
     assert {states[i] for i in drawn} == {"passed"}
     assert {s for i, s in states.items() if i not in drawn} == {"not_sampled"}
+
+
+def test_second_topic_sample_draws_only_unchecked_records(workspace):
+    old = [listed(cl_opinion_id=i, verified=True, second_check="not_sampled")
+           for i in range(1, 30)]
+    new = [listed(cl_opinion_id=i, topic="jury_selection", verified=True, second_check=None)
+           for i in range(100, 107)]
+    write_drafts(workspace, "dato", "search_seizure", old)
+    write_drafts(workspace, "dato", "jury_selection", new)
+    drawn = review.draw_sample(workspace, "dato", seed=3)
+    assert len(drawn) == review.sample_size(7) and set(drawn) <= set(range(100, 107))
+    states = {r["cl_opinion_id"]: r["second_check"]
+              for r in review.load_drafts(workspace, "dato")}
+    assert all(states[i] == "not_sampled" for i in range(1, 30))
+
+
+def test_check_targets_the_pending_record_when_an_opinion_has_several_topics(workspace):
+    write_drafts(workspace, "dato", "search_seizure",
+                 [listed(cl_opinion_id=5, verified=True, second_check="passed")])
+    write_drafts(workspace, "dato", "jury_selection",
+                 [listed(cl_opinion_id=5, topic="jury_selection", verified=True,
+                         second_check="pending")])
+    write_drafts(workspace, "dato", "interrogation",
+                 [listed(cl_opinion_id=5, topic="interrogation", verified=True,
+                         second_check="pending")])
+    with pytest.raises(ValueError, match="several topics"):
+        review.record_check(workspace, "dato", 5, passed=True, note="", by="s2")
+    review.record_check(workspace, "dato", 5, passed=True, note="ok", by="s2",
+                        topic="interrogation")
+    states = {r["topic"]: r["second_check"] for r in review.load_drafts(workspace, "dato")}
+    assert states == {"search_seizure": "passed", "jury_selection": "pending",
+                      "interrogation": "passed"}

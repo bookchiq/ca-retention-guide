@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 5 | 7 | 1 / 0 | 3 |
-| [Right to counsel](#right-to-counsel) (floor) | 7 | 42 | 0 / 1 | — |
+| [Right to counsel](#right-to-counsel) | 21 | 99 | 2 / 2 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 5 | 18 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 1 | 9 | 0 / 2 | — |
-| [Jury selection](#jury-selection) | 1 | 2 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 1 | 9 | 0 / 2 | 1 |
+| [Jury selection](#jury-selection) | 1 | 2 | 0 / 0 | 0 |
 | [Police records](#police-records) | 3 | 7 | 0 / 1 | — |
-| [Racial Justice Act](#racial-justice-act) | 0 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 0 | 2 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 51 | 225 | 13 / 19 | — |
 | [Anti-SLAPP](#anti-slapp) | 12 | 16 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 2 | 7 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 3 | 13 | 1 / 0 | — |
 | [Consumer protection](#consumer-protection) | 1 | 6 | 1 / 0 | — |
 | [Employment](#employment) (floor) | 3 | 15 | 1 / 1 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 1 | 0 / 0 | — |
@@ -68,11 +68,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 7 | 42 | 0 | 1 |
+| 21 | 99 | 2 | 2 |
 
 ### Immigration consequences of pleas
 
@@ -88,11 +86,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 1 | 9 | 0 | 2 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Dissented from the 2–1 opinion holding the defendant's confession involuntary because a detective threatened to charge his sons with murder unless he confessed, which reversed the murder conviction. Wrote that the claim was forfeited by the lack of a trial objection and that the record showed the confession was voluntary. *People v. Jimenez* (E074849, 2021-12-14; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/5306633/people-v-jimenez/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (6 candidates reviewed).
 
 ### Police records
 
@@ -105,6 +109,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Resentencing
 
@@ -120,11 +126,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 2 | 7 | 0 | 0 |
+| 3 | 13 | 1 | 0 |
 
 ### Consumer protection
 

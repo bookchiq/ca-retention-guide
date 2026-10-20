@@ -22,8 +22,8 @@ Last updated: 2026-10-19.
 3. **Opinions.** Every Supreme Court and Court of Appeal opinion in the window was loaded from CourtListener (see [Sources](#sources) and [Coverage](#coverage)).
 4. **Who wrote what.** CourtListener does not record authors or panels for these courts, so software reads each opinion's signature lines to find the author, the other panel members, and any dissent or concurrence. Its accuracy was measured against hand-labeled samples before any count was published (see [Validation](#validation)).
 5. **Counts.** Opinions written, publication rate, dissents, and concurrences were computed for each justice and for their court as a whole, which gives each rate its baseline ([metrics.csv](data/metrics.csv)).
-6. **Topics.** Keyword rules flag opinions on each topic. Only the search-and-seizure rule has been checked by hand (see [Topics](#topics)).
-7. **Case review.** For every justice (first the 17 on San Diego County ballots, then statewide), every opinion that might touch search and seizure was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)).
+6. **Topics.** Each topic is counted either by a keyword rule that passed a hand check, or by reading every candidate opinion (see [Topics](#topics)).
+7. **Case review.** For every justice, every opinion that might touch one of four topics (search and seizure, interrogation, jury selection, and the Racial Justice Act) was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)). Search and seizure was reviewed first, starting with the 17 justices on San Diego County ballots; the other three topics were added on 2026-10-19.
 8. **Pages.** The pages are generated from the data by a program, and the same data always produces the same pages. A word filter blocks a fixed list of loaded or ideological terms (listed in the review guide) from every page.
 
 ## Sources
@@ -66,17 +66,19 @@ Every other topic goes through the same check before its counts appear on the pa
 
 Some topics cannot be counted by keywords at all, because whether an opinion qualifies turns on who is suing or whether an issue was actually decided. For those, every opinion with a ballot justice on the panel that uses any of the topic's keywords was **read** against the topic's definition, and the count comes from those decisions instead of keywords. A random 15% was read again by a separate session that did not see the first decision; the table reports how often the two agreed, and a third reader decided every disagreement. A topic counted this way is shown only if the two readers agreed at least 90% of the time. Each decision, with the reader's note, is published in [data/topic_reads](https://github.com/bookchiq/ca-retention-guide/tree/main/data/topic_reads). Opinions that never use the keywords were not read, so these counts can still miss some qualifying opinions.
 
+Two keyword topics, right to counsel and arbitration, passed the precision check but missed many opinions. For those, every **near miss** with a ballot justice on the panel was also read: opinions the keyword rule skips that use one of the topic's keywords or a related term. The same second read and tiebreak apply, and the near misses that address the topic are added to the keyword count. The table reports the readers' agreement and how many were added.
+
 | Topic | What counts | Accuracy check | Est. missed | On the pages |
 |---|---|---|---|---|
 | Search and seizure | The court decides a search or seizure claim: Fourth Amendment claims, motions to suppress (Pen. Code § 1538.5), warrant sufficiency, warrantless searches and their exceptions, detentions and stops, the lawfulness of an arrest, or CalECPA suppression. | 98% (N = 50) | 19% | yes |
 | Interrogation | The court decides whether a defendant's statements to police or other government agents were admissible: Miranda warnings, waiver, or invocation; custody; or whether a confession or admission was voluntary. An ineffective-assistance claim for failing to move to suppress the defendant's own statements counts when the court decides it; rulings about a third party's statements do not. | 92% (N = 50) | 34% | yes |
-| Right to counsel | The court decides a right-to-counsel claim: ineffective assistance of counsel, a Marsden motion to substitute appointed counsel, a Faretta request for self-representation, a conflict of interest, or a denial of counsel or of a continuance to obtain counsel. Other Sixth Amendment issues, such as confrontation or jury-trial rights, do not count. An ineffective-assistance claim counts when the court decides it, even as an alternative to another claim; a civil motion to disqualify opposing counsel does not. | 90% (N = 50) | 58% | yes |
+| Right to counsel | The court decides a right-to-counsel claim: ineffective assistance of counsel, a Marsden motion to substitute appointed counsel, a Faretta request for self-representation, a conflict of interest, or a denial of counsel or of a continuance to obtain counsel. Other Sixth Amendment issues, such as confrontation or jury-trial rights, do not count. An ineffective-assistance claim counts when the court decides it, even as an alternative to another claim; a civil motion to disqualify opposing counsel does not. A claim of denial of counsel counts whether the right is constitutional or statutory (for example, appointed counsel on a resentencing petition or in a dependency case). A Wende or other no-issues review that only remarks that counsel was adequate, with no claim raised, does not count; nor does a Marsden or Faretta motion that appears only in the procedural history. A denial of a continuance to obtain counsel counts in civil cases too. A motion to vacate a plea under Penal Code section 1473.7 counts only when the court rules on an ineffective-assistance claim as such, not when it applies the statute's own prejudicial-error test to counsel's advice. In a Wende, Anders or Delgadillo review, a counsel issue that appellate counsel or the defendant raised counts when the court says it considered that issue; a generic finding of no arguable issues, with no counsel issue raised, does not. | 90% (N = 50); near misses read, second readers agreed on 99% (N = 535) | near misses read: 1,167 of 3,564 added | yes |
 | Jury selection | The court decides a jury-selection claim: a Batson/Wheeler objection to a peremptory challenge, an objection under Code of Civil Procedure section 231.7, or a challenge to excusing a prospective juror for cause. Peremptory challenges to a judge (Code Civ. Proc. § 170.6) and peremptory writs are not jury selection. A for-cause claim includes refusing to excuse a juror for cause and Witherspoon/Witt death-qualification excusals. Discovery of a prosecutor's jury-selection notes, juror misconduct found after selection, and discharging a sworn juror are not this topic. | each opinion read; second readers agreed on 99% (N = 99) | none found in sample | yes |
 | Racial Justice Act | The court decides a claim under the California Racial Justice Act (Pen. Code § 745), including whether a claim was properly raised, a hearing was required, or the Act applies to the case. A § 745 reference only inside a quotation of another statute does not count. | 94% (N = 50) | 22% | yes |
 | Police records | The court decides a dispute over access to law-enforcement personnel or misconduct records: a Pitchess motion, Penal Code section 832.7 (including SB 1421 disclosures), or a Brady claim about officer records. A request to review the sealed transcript of a Pitchess in-camera hearing counts, because the court decides it. The Pitchess Detention Center and citations to Blair v. Pitchess are not this topic. | 92% (N = 50) | 12% | yes |
 | Immigration consequences of pleas | The court decides whether a criminal conviction or plea must be vacated, or whether counsel erred, because of its immigration consequences (Pen. Code § 1473.7, Padilla claims, or related advisements under § 1016.5). A § 1473.7(a)(2) motion based on newly discovered evidence of innocence is not this topic. | 92% (N = 50) | 7% | yes |
 | Resentencing | The court decides a resentencing claim under recent sentencing-reform statutes: petitions under Penal Code § 1172.6 (formerly § 1170.95, SB 1437/SB 775), recall and resentencing under §§ 1172.1 or 1172.75, or youth-offender parole and Franklin proceedings under § 3051. Former § 1170(d)(1) and § 1170.03 recalls (predecessors of § 1172.1) count. Ordinary sentencing errors, remands for resentencing on other grounds, and other resentencing statutes (Prop 47, Prop 36, § 1170.91, Prop 64, juvenile LWOP recall) do not. | 96% (N = 50) | 18% | yes |
-| Arbitration | The court decides an arbitration issue: a motion to compel or stay arbitration, the enforceability or unconscionability of an arbitration agreement, waiver of the right to arbitrate, or a petition to confirm, correct, or vacate an arbitration award. Dismissing an appeal of such an order as premature or nonappealable counts. | 92% (N = 50) | 51% | yes |
+| Arbitration | The court decides an arbitration issue: a motion to compel or stay arbitration, the enforceability or unconscionability of an arbitration agreement, waiver of the right to arbitrate, or a petition to confirm, correct, or vacate an arbitration award. Dismissing an appeal of such an order as premature or nonappealable counts. | 92% (N = 50); near misses read, second readers agreed on 99% (N = 143) | near misses read: 271 of 954 added | yes |
 | Employment | The court decides a claim between an employee (or job applicant) and an employer: discrimination, harassment, or retaliation (including FEHA), wrongful termination, wage and hour or PAGA claims, or other employment-law claims. Public-employee discipline and benefits claims count. An arbitration ruling in an employment case counts only if the court also decides an employment-law issue; claims against an employer's lawyers, or by a business against a union, do not. A ruling that a PAGA, FEHA, or wage right cannot be waived by an arbitration agreement (Iskanian, Armendariz, Gentry) is an employment-law issue and counts. | each opinion read; second readers agreed on 95% (N = 146) | 30% | yes |
 | Consumer protection | The court decides a consumer-protection claim: Song-Beverly (lemon law) or other warranty claims, the Consumers Legal Remedies Act, the Unfair Competition Law, false advertising, or similar claims by consumers against businesses. Consumers include buyers, borrowers, and tenants suing a business. An Unfair Competition Law claim brought by a competitor, an employee over wages, or a taxpayer does not count, and neither does an arbitration ruling unless a consumer-protection issue is also decided. A ruling that a consumer's public-injunction claim cannot be waived by an arbitration agreement (McGill) is a consumer-protection issue and counts. | each opinion read; second readers agreed on 98% (N = 99) | none found in sample | yes |
 | Landlord and tenant | The court decides a dispute between a landlord and a residential or commercial tenant: unlawful detainer (eviction), just-cause or rent-control rules, habitability, security deposits, or lease terms. An eviction after a foreclosure sale with no landlord-tenant relationship does not count, nor does a ruling in a landlord-tenant suit on an unrelated issue (for example, only an anti-SLAPP or attorney-disqualification ruling). | each opinion read; second readers agreed on 97% (N = 62) | 27% | yes |
@@ -89,7 +91,7 @@ Some topics cannot be counted by keywords at all, because whether an opinion qua
 
 ## Which cases are listed
 
-For each justice, the guide lists every search-and-seizure case where the justice:
+For each justice, the guide lists every case on four topics (search and seizure, interrogation, jury selection, and the Racial Justice Act) where the justice:
 
 1. wrote a dissent, concurrence, or concurrence-and-dissent;
 2. wrote a published majority opinion;
@@ -98,40 +100,40 @@ For each justice, the guide lists every search-and-seizure case where the justic
 
 For the Supreme Court, every majority opinion the justice wrote on the topic is listed. Candidates are drawn generously by keyword and then decided by reading; every exclusion is recorded with its reason and published in the [case data](data/case_notes.csv).
 
-A case counts as being about search and seizure only if the court actually decided a search or seizure claim, or ruled it forfeited or improperly raised. A warrant mentioned only in the facts does not count. Neither do Miranda-only issues, probation conditions, bail rulings, or "probable cause" to hold a defendant for trial. The full reviewer instructions are in the [review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md).
+A case counts as being about a topic only if the court actually decided a claim on it, or ruled the claim forfeited or improperly raised. For search and seizure, a warrant mentioned only in the facts does not count; neither do Miranda-only issues, probation conditions, bail rulings, or "probable cause" to hold a defendant for trial. Interrogation means whether the defendant's own statements to police were admissible (Miranda, custody, voluntariness). Jury selection means a Batson/Wheeler or section 231.7 objection to a peremptory challenge, or excusing a juror for cause. The Racial Justice Act means a claim under Penal Code section 745. The full reviewer instructions, with each topic's definition, are in the [review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md).
 
 ## Verification
 
 Each case went through these steps, with the reading, verification, and second check done by **separate** AI sessions:
 
-1. **Reading.** A reviewer read the opinion, decided whether search and seizure was actually at issue, applied the listing rules, and wrote the record and summary.
+1. **Reading.** A reviewer read the opinion, decided whether the topic was actually at issue, applied the listing rules, and wrote the record and summary.
 2. **Verification.** A different reviewer re-opened the opinion and confirmed the case name and docket against the opinion's own caption, the author and panel from the signature lines, the disposition, the listing rule, the vote, and that the summary matches the holding.
 3. **Second check.** A third, fresh reviewer re-read a random 15% of each justice's records (at least one per justice), both listed and excluded. Any substantive error would have sent that justice's whole set back to verification.
-4. **Consistency.** A case that appears for several justices must get the same decision about whether search and seizure was at issue for each of them.
-5. **Author spot check.** Sarah Lewis read 10 randomly drawn summaries against their opinions before publication. She found them accurate, though a few leave out some context.
+4. **Consistency.** A case that appears for several justices must get the same decision about whether the topic was at issue for each of them.
+5. **Author spot check.** Sarah Lewis read 10 randomly drawn search-and-seizure summaries against their opinions before publication. She found them accurate, though a few leave out some context.
 
-Results so far: 1223 records for 53 justices were reviewed. 70 cases are listed and 1153 were excluded, for these reasons:
+Results so far: 1756 records for 54 justices were reviewed. 158 cases are listed and 1598 were excluded, for these reasons:
 
 | Reason for exclusion | Records |
 |---|---|
-| `topic_not_at_issue` | 1109 |
-| `topic_issue_affirmed` | 30 |
-| `dissent_on_other_issue` | 7 |
-| `no_rule_applies` | 6 |
-| `duplicate` | 1 |
+| `topic_not_at_issue` | 1459 |
+| `topic_issue_affirmed` | 73 |
+| `no_rule_applies` | 28 |
+| `dissent_on_other_issue` | 27 |
+| `duplicate` | 11 |
 
-The second check re-read 204 records; 0 had a substantive error.
+The second check re-read 330 records; 0 had a substantive error.
 
 The [case data](data/case_notes.csv) includes every record, listed or excluded, with each reviewer's notes on what they checked.
 
 ## Known weaknesses
 
 - **Summaries are short.** Each is at most 50 words. They were checked for accuracy, but some leave out context a lawyer would want, so read the opinion before relying on one.
-- **Judgment calls.** Deciding whether a search issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
+- **Judgment calls.** Deciding whether an issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
 - **Source errors.** CourtListener occasionally files an opinion under the wrong case name. Reviewers check each case name against the opinion's own caption; the errors found are listed in the decisions log.
 - **Filing dates.** Dates come from CourtListener, which sometimes records an opinion one to three days after the "Filed" date printed on it. Reviewers noted these differences but did not change the dates.
-- **Keyword counts undercount.** Every topic's counts are a floor: the keywords miss some qualifying opinions, from about one in five (search and seizure) to more than half (right to counsel, arbitration). The table under [Topics](#topics) gives each estimate. The search-and-seizure case lists are not affected, because review started from a much broader match.
-- **Two ways of counting.** Nine topics are counted by keyword rules that passed a hand check; seven (jury selection and six civil topics) are counted from AI readers' decisions on each candidate opinion, because no keyword rule could count them accurately. Read-based counts are more precise, but they cover only opinions with a ballot justice on the panel that use the topic's keywords, and the readers' close calls are judgment calls; every decision and its note is public so it can be checked.
+- **Keyword counts undercount.** Counts from keywords are a floor: the keywords miss some qualifying opinions, from about one in five (search and seizure) to more than half for some topics. The table under [Topics](#topics) gives each estimate. For right to counsel and arbitration the near misses were read and added, so the remaining gap there is opinions that use none of the topic's terms. The case lists are not affected, because review started from a broader match.
+- **Two ways of counting.** Nine topics are counted by keyword rules that passed a hand check (two of them, right to counsel and arbitration, with their near misses read and added); seven (jury selection and six civil topics) are counted from AI readers' decisions on each candidate opinion, because no keyword rule could count them accurately. Read-based counts are more precise, but they cover only opinions with a ballot justice on the panel that use the topic's keywords, and the readers' close calls are judgment calls; every decision and its note is public so it can be checked.
 
 ## Limitations
 

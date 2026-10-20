@@ -1,10 +1,12 @@
 """Review queue, draft case records, verification, second check, promotion (U9).
 
     python -m src.review queue --set sd17 --tier 1      # build the KTD7 superset queue
+    python -m src.review queue --topic T                # one case-list topic, every justice
     python -m src.review new --justice SLUG --topic T   # scaffold draft stubs to fill in
     python -m src.review verify --justice SLUG --topic T --by SESSION [--ids 1,2 | --all]
     python -m src.review sample --justice SLUG --seed N # draw the KTD8 second-check sample
     python -m src.review check --justice SLUG --id N --pass|--fail --by SESSION [--note TEXT]
+                                  [--topic T]   # when N is drawn under several topics
     python -m src.review finish-check --justice SLUG
     python -m src.review promote --justice SLUG --topic T
     python -m src.review status
@@ -266,18 +268,21 @@ def sample_size(decided: int) -> int:
 
 
 def draw_sample(ws: Workspace, slug: str, seed: int) -> list[int]:
+    """Draw 15% of the decided records not yet covered by a second check (records from an
+    earlier topic's finished check are not drawn again)."""
     records = load_drafts(ws, slug)
-    decided = sorted(r["cl_opinion_id"] for r in records if r.get("listing_decision"))
+    decided = sorted(r["cl_opinion_id"] for r in records
+                     if r.get("listing_decision") and r.get("second_check") is None)
     drawn = sorted(random.Random(seed).sample(decided, sample_size(len(decided))))
     for rec in records:
-        if rec["cl_opinion_id"] in drawn:
+        if rec["cl_opinion_id"] in drawn and rec.get("second_check") is None:
             rec["second_check"] = "pending"
     save_drafts(ws, slug, records)
     ws.checks.mkdir(parents=True, exist_ok=True)
     lines = [f"# Second check: {slug}", "", f"Seed: {seed}. Drawn {len(drawn)} of "
              f"{len(decided)} decided records (listed and excluded).", ""]
     for rec in records:
-        if rec["cl_opinion_id"] in drawn:
+        if rec["cl_opinion_id"] in drawn and rec.get("second_check") == "pending":
             lines.append(f"- [ ] {rec['cl_opinion_id']} {rec.get('case_name')} "
                          f"({rec.get('listing_decision')}) {rec.get('opinion_url')}")
     (ws.checks / f"{slug}.md").write_text("\n".join(lines) + "\n")
@@ -285,18 +290,23 @@ def draw_sample(ws: Workspace, slug: str, seed: int) -> list[int]:
 
 
 def record_check(ws: Workspace, slug: str, opinion_id: int, passed: bool, note: str,
-                 by: str, today: str | None = None) -> None:
+                 by: str, today: str | None = None, topic: str | None = None) -> None:
+    """Record the second check of one drawn record. The same opinion can be a record under
+    several topics, so `topic` picks one when more than one is pending."""
     records = load_drafts(ws, slug)
-    for rec in records:
-        if rec["cl_opinion_id"] == opinion_id:
-            if rec.get("second_check") != "pending":
-                raise ValueError(f"{opinion_id} was not drawn for the second check")
-            rec.update(second_check="passed" if passed else "failed",
-                       second_check_note=note, second_check_by=by,
-                       second_check_date=today or date.today().isoformat())
-            save_drafts(ws, slug, records)
-            return
-    raise KeyError(opinion_id)
+    matches = [r for r in records if r["cl_opinion_id"] == opinion_id
+               and (topic is None or r.get("topic") == topic)]
+    if not matches:
+        raise KeyError(opinion_id)
+    pending = [r for r in matches if r.get("second_check") == "pending"]
+    if not pending:
+        raise ValueError(f"{opinion_id} was not drawn for the second check")
+    if len(pending) > 1:
+        raise ValueError(f"{opinion_id} is drawn under several topics; pass --topic")
+    pending[0].update(second_check="passed" if passed else "failed",
+                      second_check_note=note, second_check_by=by,
+                      second_check_date=today or date.today().isoformat())
+    save_drafts(ws, slug, records)
 
 
 def finish_check(ws: Workspace, slug: str) -> None:
@@ -383,6 +393,7 @@ def main(argv: list[str] | None = None) -> int:
     q = sub.add_parser("queue")
     q.add_argument("--set", default="sd17")
     q.add_argument("--tier", type=int, default=1)
+    q.add_argument("--topic", help="one topic for every justice; never overwrites a queue")
     for name in ("new", "promote"):
         p = sub.add_parser(name)
         p.add_argument("--justice", required=True)
@@ -401,6 +412,7 @@ def main(argv: list[str] | None = None) -> int:
     c.add_argument("--id", type=int, required=True)
     c.add_argument("--by", required=True)
     c.add_argument("--note", default="")
+    c.add_argument("--topic", help="needed when the opinion is drawn under several topics")
     g = c.add_mutually_exclusive_group(required=True)
     g.add_argument("--pass", dest="passed", action="store_true")
     g.add_argument("--fail", dest="passed", action="store_false")
@@ -417,14 +429,23 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.cmd == "queue":
         conn = db.connect(settings.path("database"))
-        roster = [j for j in justices.load_justices() if str(j.get("sd_ballot")).lower()
-                  in ("true", "1")] if args.set == "sd17" else justices.load_justices()
-        wanted = [t for t, spec in topics.items() if spec.get("tier") == args.tier]
+        if args.topic:
+            if not topics.get(args.topic, {}).get("case_lists"):
+                parser.error(f"{args.topic} has no case_lists: true in keywords.yaml")
+            roster, wanted = justices.load_justices(), [args.topic]
+        else:
+            roster = [j for j in justices.load_justices() if str(j.get("sd_ballot")).lower()
+                      in ("true", "1")] if args.set == "sd17" else justices.load_justices()
+            wanted = [t for t, spec in topics.items() if spec.get("tier") == args.tier]
         ws.queue.mkdir(parents=True, exist_ok=True)
         for j in roster:
             court = "cal" if j["court"] == "supreme" else "calctapp"
             start = _start_date(j.get("appellate_start_date", ""), settings.raw["window"]["start"])
             for topic in wanted:
+                path = ws.queue / f"{j['slug']}__{topic}.jsonl"
+                if args.topic and path.exists():
+                    print(f"{j['slug']:<24} {topic:<16} kept existing queue")
+                    continue
                 entries = build_queue(conn, j["slug"], topic, start, court)
                 _write_jsonl(ws.queue / f"{j['slug']}__{topic}.jsonl", entries)
                 print(f"{j['slug']:<24} {topic:<16} {len(entries):>4} queued")
@@ -442,7 +463,8 @@ def main(argv: list[str] | None = None) -> int:
     elif args.cmd == "sample":
         print(f"drawn: {draw_sample(ws, args.justice, args.seed)}")
     elif args.cmd == "check":
-        record_check(ws, args.justice, args.id, args.passed, args.note, args.by, today)
+        record_check(ws, args.justice, args.id, args.passed, args.note, args.by, today,
+                     topic=args.topic)
     elif args.cmd == "finish-check":
         finish_check(ws, args.justice)
     elif args.cmd == "promote":

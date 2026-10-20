@@ -24,8 +24,8 @@ Last updated: {{ updated }}.
 3. **Opinions.** Every Supreme Court and Court of Appeal opinion in the window was loaded from CourtListener (see [Sources](#sources) and [Coverage](#coverage)).
 4. **Who wrote what.** CourtListener does not record authors or panels for these courts, so software reads each opinion's signature lines to find the author, the other panel members, and any dissent or concurrence. Its accuracy was measured against hand-labeled samples before any count was published (see [Validation](#validation)).
 5. **Counts.** Opinions written, publication rate, dissents, and concurrences were computed for each justice and for their court as a whole, which gives each rate its baseline ([metrics.csv](data/metrics.csv)).
-6. **Topics.** Keyword rules flag opinions on each topic. Only the search-and-seizure rule has been checked by hand (see [Topics](#topics)).
-7. **Case review.** For every justice (first the 17 on San Diego County ballots, then statewide), every opinion that might touch search and seizure was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)).
+6. **Topics.** Each topic is counted either by a keyword rule that passed a hand check, or by reading every candidate opinion (see [Topics](#topics)).
+7. **Case review.** For every justice, every opinion that might touch one of four topics (search and seizure, interrogation, jury selection, and the Racial Justice Act) was read, and fixed rules decided which to list (see [Which cases are listed](#which-cases-are-listed) and [Verification](#verification)). Search and seizure was reviewed first, starting with the 17 justices on San Diego County ballots; the other three topics were added on 2026-10-19.
 8. **Pages.** The pages are generated from the data by a program, and the same data always produces the same pages. A word filter blocks a fixed list of loaded or ideological terms (listed in the review guide) from every page.
 
 ## Sources
@@ -55,6 +55,8 @@ Every other topic goes through the same check before its counts appear on the pa
 
 Some topics cannot be counted by keywords at all, because whether an opinion qualifies turns on who is suing or whether an issue was actually decided. For those, every opinion with a ballot justice on the panel that uses any of the topic's keywords was **read** against the topic's definition, and the count comes from those decisions instead of keywords. A random 15% was read again by a separate session that did not see the first decision; the table reports how often the two agreed, and a third reader decided every disagreement. A topic counted this way is shown only if the two readers agreed at least 90% of the time. Each decision, with the reader's note, is published in [data/topic_reads](https://github.com/bookchiq/ca-retention-guide/tree/main/data/topic_reads). Opinions that never use the keywords were not read, so these counts can still miss some qualifying opinions.
 
+Two keyword topics, right to counsel and arbitration, passed the precision check but missed many opinions. For those, every **near miss** with a ballot justice on the panel was also read: opinions the keyword rule skips that use one of the topic's keywords or a related term. The same second read and tiebreak apply, and the near misses that address the topic are added to the keyword count. The table reports the readers' agreement and how many were added.
+
 | Topic | What counts | Accuracy check | Est. missed | On the pages |
 |---|---|---|---|---|
 {% for t in topic_rows %}| {{ t.title }} | {{ t.definition }} | {{ t.precision }} | {{ t.undercount }} | {{ t.shown }} |
@@ -64,7 +66,7 @@ Some topics cannot be counted by keywords at all, because whether an opinion qua
 
 ## Which cases are listed
 
-For each justice, the guide lists every search-and-seizure case where the justice:
+For each justice, the guide lists every case on four topics (search and seizure, interrogation, jury selection, and the Racial Justice Act) where the justice:
 
 1. wrote a dissent, concurrence, or concurrence-and-dissent;
 2. wrote a published majority opinion;
@@ -73,17 +75,17 @@ For each justice, the guide lists every search-and-seizure case where the justic
 
 For the Supreme Court, every majority opinion the justice wrote on the topic is listed. Candidates are drawn generously by keyword and then decided by reading; every exclusion is recorded with its reason and published in the [case data](data/case_notes.csv).
 
-A case counts as being about search and seizure only if the court actually decided a search or seizure claim, or ruled it forfeited or improperly raised. A warrant mentioned only in the facts does not count. Neither do Miranda-only issues, probation conditions, bail rulings, or "probable cause" to hold a defendant for trial. The full reviewer instructions are in the [review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md).
+A case counts as being about a topic only if the court actually decided a claim on it, or ruled the claim forfeited or improperly raised. For search and seizure, a warrant mentioned only in the facts does not count; neither do Miranda-only issues, probation conditions, bail rulings, or "probable cause" to hold a defendant for trial. Interrogation means whether the defendant's own statements to police were admissible (Miranda, custody, voluntariness). Jury selection means a Batson/Wheeler or section 231.7 objection to a peremptory challenge, or excusing a juror for cause. The Racial Justice Act means a claim under Penal Code section 745. The full reviewer instructions, with each topic's definition, are in the [review guide](https://github.com/bookchiq/ca-retention-guide/blob/main/docs/review-guide.md).
 
 ## Verification
 
 Each case went through these steps, with the reading, verification, and second check done by **separate** AI sessions:
 
-1. **Reading.** A reviewer read the opinion, decided whether search and seizure was actually at issue, applied the listing rules, and wrote the record and summary.
+1. **Reading.** A reviewer read the opinion, decided whether the topic was actually at issue, applied the listing rules, and wrote the record and summary.
 2. **Verification.** A different reviewer re-opened the opinion and confirmed the case name and docket against the opinion's own caption, the author and panel from the signature lines, the disposition, the listing rule, the vote, and that the summary matches the holding.
 3. **Second check.** A third, fresh reviewer re-read a random 15% of each justice's records (at least one per justice), both listed and excluded. Any substantive error would have sent that justice's whole set back to verification.
-4. **Consistency.** A case that appears for several justices must get the same decision about whether search and seizure was at issue for each of them.
-5. **Author spot check.** Sarah Lewis read 10 randomly drawn summaries against their opinions before publication. She found them accurate, though a few leave out some context.
+4. **Consistency.** A case that appears for several justices must get the same decision about whether the topic was at issue for each of them.
+5. **Author spot check.** Sarah Lewis read 10 randomly drawn search-and-seizure summaries against their opinions before publication. She found them accurate, though a few leave out some context.
 
 {% if stats.records %}
 Results so far: {{ stats.records }} records for {{ stats.justices }} justices were reviewed. {{ stats.listed }} cases are listed and {{ stats.excluded }} were excluded, for these reasons:
@@ -101,11 +103,11 @@ The [case data](data/case_notes.csv) includes every record, listed or excluded, 
 ## Known weaknesses
 
 - **Summaries are short.** Each is at most 50 words. They were checked for accuracy, but some leave out context a lawyer would want, so read the opinion before relying on one.
-- **Judgment calls.** Deciding whether a search issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
+- **Judgment calls.** Deciding whether an issue was "at issue" is sometimes close. Each such call, and every rule clarification made during review, is in the [decisions log](https://github.com/bookchiq/ca-retention-guide/blob/main/DECISIONS.md).
 - **Source errors.** CourtListener occasionally files an opinion under the wrong case name. Reviewers check each case name against the opinion's own caption; the errors found are listed in the decisions log.
 - **Filing dates.** Dates come from CourtListener, which sometimes records an opinion one to three days after the "Filed" date printed on it. Reviewers noted these differences but did not change the dates.
-- **Keyword counts undercount.** Every topic's counts are a floor: the keywords miss some qualifying opinions, from about one in five (search and seizure) to more than half (right to counsel, arbitration). The table under [Topics](#topics) gives each estimate. The search-and-seizure case lists are not affected, because review started from a much broader match.
-- **Two ways of counting.** Nine topics are counted by keyword rules that passed a hand check; seven (jury selection and six civil topics) are counted from AI readers' decisions on each candidate opinion, because no keyword rule could count them accurately. Read-based counts are more precise, but they cover only opinions with a ballot justice on the panel that use the topic's keywords, and the readers' close calls are judgment calls; every decision and its note is public so it can be checked.
+- **Keyword counts undercount.** Counts from keywords are a floor: the keywords miss some qualifying opinions, from about one in five (search and seizure) to more than half for some topics. The table under [Topics](#topics) gives each estimate. For right to counsel and arbitration the near misses were read and added, so the remaining gap there is opinions that use none of the topic's terms. The case lists are not affected, because review started from a broader match.
+- **Two ways of counting.** Nine topics are counted by keyword rules that passed a hand check (two of them, right to counsel and arbitration, with their near misses read and added); seven (jury selection and six civil topics) are counted from AI readers' decisions on each candidate opinion, because no keyword rule could count them accurately. Read-based counts are more precise, but they cover only opinions with a ballot justice on the panel that use the topic's keywords, and the readers' close calls are judgment calls; every decision and its note is public so it can be checked.
 
 ## Limitations
 

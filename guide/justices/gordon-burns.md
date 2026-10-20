@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 6 | 12 | 0 / 0 | 2 |
-| [Right to counsel](#right-to-counsel) (floor) | 12 | 35 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 20 | 74 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 1 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 0 | 3 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 6 | 8 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 0 | 3 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 6 | 8 | 0 / 0 | 1 |
 | [Police records](#police-records) | 0 | 0 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 5 | 10 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 5 | 10 | 0 / 0 | 1 |
 | [Resentencing](#resentencing) | 25 | 71 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 4 | 14 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 4 | 17 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 9 | 31 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 3 | 9 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 3 | 25 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 5 | 5 | 0 / 0 | — |
@@ -67,11 +67,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 12 | 35 | 0 | 0 |
+| 20 | 74 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -87,11 +85,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 0 | 3 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (3 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 6 | 8 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the trial court erred under Code of Civil Procedure section 231.7 by overruling an objection to the prosecution's peremptory challenge, based on a presumptively invalid reason, without explaining its ruling on the record; reversed and remanded for a new trial. *People v. Alston* (A169256, 2026-02-13; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10793896/people-v-alston/)
 
 ### Police records
 
@@ -104,6 +108,10 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 5 | 10 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that a minor established the plausible justification needed for discovery under the Racial Justice Act; reversed the juvenile court's denial of the discovery motion and remanded to determine the scope of discovery. *In re J.S.* (A162419, 2022-10-17; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/8347626/in-re-js-ca15/)
 
 ### Resentencing
 
@@ -119,11 +127,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 4 | 17 | 0 | 0 |
+| 9 | 31 | 0 | 0 |
 
 ### Consumer protection
 

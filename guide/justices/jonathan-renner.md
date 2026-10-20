@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 14 | 35 | 0 / 1 | 5 |
-| [Right to counsel](#right-to-counsel) (floor) | 38 | 125 | 2 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 78 | 237 | 4 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 5 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 3 | 12 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 4 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 3 | 12 | 0 / 0 | 1 |
+| [Jury selection](#jury-selection) | 1 | 4 | 0 / 0 | 0 |
 | [Police records](#police-records) | 3 | 10 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 3 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 3 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 84 | 274 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 5 | 18 | 1 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 3 | 9 | 0 / 1 | — |
+| [Arbitration](#arbitration) | 6 | 16 | 0 / 1 | — |
 | [Consumer protection](#consumer-protection) | 1 | 5 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 5 | 19 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 3 | 9 | 0 / 0 | — |
@@ -70,11 +70,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 38 | 125 | 2 | 0 |
+| 78 | 237 | 4 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -90,11 +88,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 3 | 12 | 0 | 0 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that an officer's remarks that the defendant could earn 'possibly some consideration' and that admitting involvement 'sometimes' helps were not coercive promises of leniency, so the confession was voluntary and admissible; affirmed the conviction and vacated the sentence on other grounds. *People v. Zabelle* (C093173, 2022-07-11; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/6622857/people-v-zabelle/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 4 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (3 candidates reviewed).
 
 ### Police records
 
@@ -107,6 +111,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 3 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
 
 ### Resentencing
 
@@ -122,11 +128,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 3 | 9 | 0 | 1 |
+| 6 | 16 | 0 | 1 |
 
 ### Consumer protection
 
