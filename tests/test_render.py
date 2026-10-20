@@ -290,6 +290,23 @@ def test_large_undercount_gets_a_caveat_on_the_page(tmp_path):
     assert "miss about 58% of opinions" in text
 
 
+def test_topic_summary_table_links_each_section_and_flags_floors(tmp_path):
+    topics = dict(TOPICS, interrogation={"tier": 2, "validated": True})
+    status = {"interrogation": {"rounds": [{"precision": 0.9, "precision_n": 50,
+                                            "undercount_share": 0.58}]}}
+    reviewed = {("dato", "search_seizure"): {"queued": 1, "listed": 1, "excluded": 0}}
+    render.render(make_inputs(topics=topics, topic_validation=status,
+                              case_notes=[note("dato", 1, "2024-01-01")], reviewed=reviewed),
+                  tmp_path)
+    text = page(tmp_path, "dato")
+    assert "| [Search and seizure](#search-and-seizure) | 3 | 9 | 1 / 0 | 1 |" in text
+    assert "| [Interrogation](#interrogation) (floor) | 3 | 9 | 1 / 0 | — |" in text
+    assert "### Search and seizure" in text and "### Interrogation" in text
+    assert '"Floor" means' in text
+    assert "Arbitration](#" not in text  # hidden topics stay out of the summary too
+    assert render._anchor("Anti-SLAPP") == "anti-slapp"
+
+
 def test_read_topics_report_reader_agreement_not_keyword_precision(tmp_path):
     topics = dict(TOPICS, arbitration={"tier": 3, "validated": True, "method": "read",
                                        "definition": "Decides arbitration."})

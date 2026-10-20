@@ -38,7 +38,14 @@ Opinions from {{ j.window_start }} through {{ window_end }}. Each rate is shown 
 {% if j.validated %}
 ## Topics
 
-Counts are opinions that address the topic, found by keyword matching (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+Counts are opinions that address the topic, found by keyword matching or by reading each opinion (see the [methodology](../methodology.md#topics)). "Contested" means another justice on the panel wrote a dissent.
+
+| Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
+|---|---|---|---|---|
+{% for t in j.topics %}| [{{ t.title }}](#{{ t.anchor }}){% if t.undercount_pct %} (floor){% endif %} | {{ t.authored }} | {{ t.panels }} | {{ t.contested_majority }} / {{ t.contested_dissent }} | {% if not t.listing %}—{% elif t.listing.status == "not_reviewed" %}not yet reviewed{% elif t.listing.status == "none" %}0{% else %}{{ t.listing.total }}{% endif %} |
+{% endfor %}
+
+{% if j.topics|selectattr("undercount_pct")|list %}"Floor" means the keywords likely miss a quarter or more of the opinions on that topic. {% endif %}Each topic's section below has the details.
 
 {% for t in j.topics %}
 ### {{ t.title }}
