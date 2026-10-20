@@ -11,7 +11,7 @@ On November 3, California voters decide whether each Supreme Court and Court of 
 - **Background:** who appointed them, what they did before, how earlier retention votes went, and any public discipline. Each fact links to its source.
 - **Record at a glance:** how many opinions they wrote, how often those were published, and how often they wrote dissents or concurrences. Each rate is shown next to the same rate for their court.
 - **Other topics:** counts for 15 more topics, from interrogation and resentencing to employment, consumer protection, and land use. Each topic's count was checked for accuracy before it was shown.
-- **Search-and-seizure cases**, for every justice with an appellate record: the cases chosen by the same fixed rules for every justice, each with a short summary and a link to the opinion. AI reviewers did the reading. Each case was read, then re-checked against the opinion text by a separate reviewer, a random 15% were checked a third time, and the author checked a random sample of the summaries.
+- **Case lists on four topics** (search and seizure, interrogation, jury selection, and the Racial Justice Act), for every justice with an appellate record: the cases chosen by the same fixed rules for every justice, each with a short summary and a link to the opinion. AI reviewers did the reading. Each case was read, then re-checked against the opinion text by a separate reviewer, a random 15% were checked a third time, and the author checked a random sample of the summaries.
 
 ## Before you draw conclusions
 
@@ -28,7 +28,7 @@ On November 3, California voters decide whether each Supreme Court and Court of 
 
 Listed in ballot order. Last updated: {{ updated }}.
 
-| Justice | Court | Appointed | Prior career | Opinions written | Separate opinions | Search-and-seizure cases listed | Record status |
+| Justice | Court | Appointed | Prior career | Opinions written | Separate opinions | Cases listed (four topics) | Record status |
 |---|---|---|---|---|---|---|---|
 {% for j in justices %}| [{{ j.display_name }}](justices/{{ j.slug }}.md) | {{ j.court_label }} | {{ j.appointed_text }} | {{ j.career_text or "—" }} | {{ j.index_authored }} | {{ j.index_separate }} | {{ j.index_listed }} | {{ j.record_status }} |
 {% endfor %}

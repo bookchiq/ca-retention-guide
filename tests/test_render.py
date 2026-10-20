@@ -307,6 +307,26 @@ def test_topic_summary_table_links_each_section_and_flags_floors(tmp_path):
     assert render._anchor("Anti-SLAPP") == "anti-slapp"
 
 
+def test_read_near_misses_replace_the_floor_caveat(tmp_path):
+    topics = dict(TOPICS, interrogation={"tier": 2, "validated": True, "near_miss_read": True,
+                                         "definition": "Decides interrogation."})
+    nm = {"method": "near_miss_read", "read": 900, "second_n": 135, "agreement": 0.93,
+          "addresses_topic": 240, "agreement_pass": True}
+    status = {"interrogation": {"rounds": [{"precision": 0.92, "precision_n": 50,
+                                            "probe_n": 30, "probe_hits": 9,
+                                            "undercount_share": 0.58}], "near_miss": nm}}
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path)
+    assert "These counts are a floor" not in page(tmp_path, "dato")
+    assert "(floor)" not in page(tmp_path, "dato")
+    text = (tmp_path / "methodology.md").read_text()
+    assert ("| Interrogation | Decides interrogation. | 92% (N = 50); near misses read, second "
+            "readers agreed on 93% (N = 135) | near misses read: 240 of 900 added | yes |") in text
+    # A run that has not passed its agreement check changes nothing.
+    status["interrogation"]["near_miss"] = dict(nm, agreement_pass=False)
+    render.render(make_inputs(topics=topics, topic_validation=status), tmp_path / "b")
+    assert "These counts are a floor" in page(tmp_path / "b", "dato")
+
+
 def test_read_topics_report_reader_agreement_not_keyword_precision(tmp_path):
     topics = dict(TOPICS, arbitration={"tier": 3, "validated": True, "method": "read",
                                        "definition": "Decides arbitration."})

@@ -251,9 +251,12 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
 
         # Case lists cover every justice whose queue has been reviewed (statewide since
         # 2026-10-18); a reviewable topic without reviewed records says "not yet reviewed".
-        listing = _listing(slug, topic, inputs) if spec["tier"] in review_tiers else None
+        has_lists = spec.get("case_lists") or spec["tier"] in review_tiers
+        listing = _listing(slug, topic, inputs) if has_lists else None
         rounds = inputs.topic_validation.get(topic, {}).get("rounds", [])
         missed = rounds[-1].get("undercount_share") if rounds else None
+        if _near_miss_read(inputs, topic):
+            missed = None  # the measured near misses were all read and added
         topics.append({
             "topic": topic, "title": TOPIC_TITLES.get(topic, topic),
             "anchor": _anchor(TOPIC_TITLES.get(topic, topic)),
@@ -279,14 +282,14 @@ def _justice_context(j: dict, inputs: Inputs, metrics: dict) -> dict:
     else:
         ctx["denial_dissents"] = None
 
-    tier1 = [t for t in topics if inputs.topics[t["topic"]]["tier"] == 1]
+    listed_topics = [t for t in topics if t["listing"]]
     if limited:
         ctx["record_status"] = "limited appellate record"
         ctx["index_listed"] = "—"
-    elif tier1 and all(
-            t["listing"]["status"] != "not_reviewed" for t in tier1):
+    elif listed_topics and all(
+            t["listing"]["status"] != "not_reviewed" for t in listed_topics):
         ctx["record_status"] = "verified"
-        ctx["index_listed"] = str(sum(t["listing"].get("total", 0) for t in tier1))
+        ctx["index_listed"] = str(sum(t["listing"].get("total", 0) for t in listed_topics))
     else:
         ctx["record_status"] = "metrics only"
         ctx["index_listed"] = "not yet reviewed"
@@ -353,6 +356,15 @@ def _review_stats(notes: list[dict]) -> dict:
     }
 
 
+def _near_miss_read(inputs: Inputs, topic: str) -> dict | None:
+    """The near-miss reading summary, when it is complete and passed its agreement check."""
+    nm = inputs.topic_validation.get(topic, {}).get("near_miss")
+    spec = inputs.topics.get(topic, {})
+    if spec.get("near_miss_read") and nm and nm.get("agreement_pass"):
+        return nm
+    return None
+
+
 def _topic_rows(inputs: Inputs) -> list[dict]:
     """One row per topic for the methodology page: definition and latest validation round."""
     def pct(x):
@@ -373,11 +385,18 @@ def _topic_rows(inputs: Inputs) -> list[dict]:
             precision = f"{pct(last['precision'])} (N = {last['precision_n']})"
         else:
             precision = "not yet checked"
+        undercount = topic_validate.undercount_text(last) if last else "—"
+        nm = _near_miss_read(inputs, topic)
+        if nm:
+            precision += (f"; near misses read, second readers agreed on "
+                          f"{pct(nm['agreement'])} (N = {nm['second_n']})")
+            undercount = (f"near misses read: {nm['addresses_topic']:,} of "
+                          f"{nm['read']:,} added")
         rows.append({
             "title": TOPIC_TITLES.get(topic, topic),
             "definition": " ".join((spec.get("definition") or "").split()),
             "precision": precision,
-            "undercount": topic_validate.undercount_text(last) if last else "—",
+            "undercount": undercount,
             "shown": "yes" if spec.get("validated") else "no",
         })
     return rows
