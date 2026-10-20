@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 6 | 14 | 0 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 14 | 38 | 0 / 1 | — |
+| [Right to counsel](#right-to-counsel) | 22 | 66 | 0 / 1 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 5 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 3 | 8 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 3 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 3 | 8 | 0 / 0 | 1 |
+| [Jury selection](#jury-selection) | 1 | 3 | 0 / 0 | 0 |
 | [Police records](#police-records) | 0 | 4 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 1 | 1 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 1 | 1 / 0 | 1 |
 | [Resentencing](#resentencing) | 20 | 78 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 2 | 18 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 5 | 15 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 11 | 24 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 1 | 6 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 6 | 21 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 3 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 14 | 38 | 0 | 1 |
+| 22 | 66 | 0 | 1 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 3 | 8 | 0 | 0 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that the defendant's statements to an undercover agent in a jail cell, made after he asked for a lawyer, were admissible because the known officers did nothing to prompt further conversation after his request; affirmed the murder conviction. *People v. Ramadhan* (D084475, 2026-05-27; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10865194/people-v-ramadhan/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 3 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (5 candidates reviewed).
 
 ### Police records
 
@@ -103,6 +107,10 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 1 | 1 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion accepting the People's concession that the defendant showed good cause for Racial Justice Act discovery; reversed the denial and directed reassignment to a different trial judge to set the scope of discovery. One justice dissented on reassignment only. *People v. Lopez* (D084046, 2026-01-20; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10776925/people-v-lopez-ca41/)
 
 ### Resentencing
 
@@ -118,11 +126,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 5 | 15 | 0 | 0 |
+| 11 | 24 | 0 | 0 |
 
 ### Consumer protection
 

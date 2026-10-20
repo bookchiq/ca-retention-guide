@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 2 | 6 | 0 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 1 | 5 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 3 | 10 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 2 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 2 | 5 | 1 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 3 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 2 | 5 | 1 / 0 | 2 |
+| [Jury selection](#jury-selection) | 1 | 3 | 0 / 0 | 0 |
 | [Police records](#police-records) | 0 | 1 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 2 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 11 | 56 | 1 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 5 | 16 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 4 | 9 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 6 | 11 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 3 | 7 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 5 | 8 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 2 | 2 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 1 | 5 | 0 | 0 |
+| 3 | 10 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,18 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 2 | 5 | 1 | 0 |
 
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that detectives' questioning of the defendant in an office on a church campus became custodial interrogation, so his confession, obtained without Miranda warnings, should have been suppressed; found the error not harmless and reversed. *People v. Cruz-Araujo* (G064614, 2026-06-22; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10878166/people-v-cruz-araujo-ca43/)
+- Wrote the opinion holding that officers continued a custodial interrogation after the defendant clearly invoked his right to counsel, and that his confession was also involuntary because threats, including references to the death penalty, coerced it; found the error prejudicial and reversed the convictions. *People v. Velasquez* (G062811, 2025-11-05; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10731408/people-v-velasquez-ca43/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 3 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
 
 ### Police records
 
@@ -103,6 +108,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (2 candidates reviewed).
 
 ### Resentencing
 
@@ -118,11 +125,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 4 | 9 | 0 | 0 |
+| 6 | 11 | 0 | 0 |
 
 ### Consumer protection
 

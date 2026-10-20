@@ -13,6 +13,7 @@
 
 search_seizure:
   tier: 1
+  case_lists: true    # hand-checked case lists on every justice page (docs/review-guide.md)
   validated: true    # report_tags.md round 2: 98% precision (2026-10-18)
   definition: >-
     The court decides a search or seizure claim: Fourth Amendment claims, motions to
@@ -76,10 +77,17 @@ interrogation:
   broad: []
   probe: [confession, interrogat, admonition, statements to police, invoked his right,
           invoked her right]
+  # Case lists added 2026-10-19 (owner decision); see docs/review-guide.md.
+  case_lists: true
+  issue_types: [miranda_warnings, miranda_waiver, invocation, custody, voluntariness, other]
+  outcomes: [statements_held_inadmissible, statements_held_admissible, mixed, not_reached]
 
 counsel_fair_trial:
   tier: 2
   validated: true    # report_topics.md round 2: 90% precision (2026-10-18)
+  # Owner decision 2026-10-19: read every near miss on a ballot panel and add those that
+  # address the topic (src/topic_reads.py), so the published undercount no longer applies.
+  near_miss_read: true
   # Round-1 candidate (2026-10-18): fit on labels_topic_counsel_fair_trial_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:
@@ -93,6 +101,17 @@ counsel_fair_trial:
     jury-trial rights, do not count.
     An ineffective-assistance claim counts when the court decides it, even as an
     alternative to another claim; a civil motion to disqualify opposing counsel does not.
+    A claim of denial of counsel counts whether the right is constitutional or statutory
+    (for example, appointed counsel on a resentencing petition or in a dependency case). A
+    Wende or other no-issues review that only remarks that counsel was adequate, with no
+    claim raised, does not count; nor does a Marsden or Faretta motion that appears only in
+    the procedural history. A denial of a continuance to obtain counsel counts in civil
+    cases too. A motion to vacate a plea under Penal Code section 1473.7 counts only when
+    the court rules on an ineffective-assistance claim as such, not when it applies the
+    statute's own prejudicial-error test to counsel's advice. In a Wende, Anders or
+    Delgadillo review, a counsel issue that appellate counsel or the defendant raised
+    counts when the court says it considered that issue; a generic finding of no arguable
+    issues, with no counsel issue raised, does not.
   anchors: [ineffective assistance, strickland, marsden, faretta, sixth amendment]
   broad: []
   probe: [right to counsel, substitute counsel, self-representation, represent himself,
@@ -119,6 +138,10 @@ jury_selection:
   anchors: [batson, wheeler, section 231.7]
   broad: []
   probe: [peremptory, prospective juror, voir dire, excused for cause, jury venire]
+  # Case lists added 2026-10-19 (owner decision); see docs/review-guide.md.
+  case_lists: true
+  issue_types: [batson_wheeler, section_231_7, for_cause, other]
+  outcomes: [selection_error_found, selection_ruling_upheld, mixed, not_reached]
 
 racial_justice_act:
   tier: 2
@@ -136,6 +159,11 @@ racial_justice_act:
   anchors: [racial justice act, section 745]
   broad: []
   probe: [racial bias, racial animus, implicit bias, racially discriminatory, race-based]
+  # Case lists added 2026-10-19 (owner decision); see docs/review-guide.md.
+  case_lists: true
+  issue_types: [hearing_or_prima_facie, merits, applicability_or_retroactivity, procedure_or_forfeiture,
+                other]
+  outcomes: [violation_found_or_hearing_ordered, claim_rejected, mixed, not_reached]
 
 police_records:
   tier: 2
@@ -199,6 +227,9 @@ resentencing:
 arbitration:
   tier: 3
   validated: true    # report_topics.md round 2: 92% precision (2026-10-18)
+  # Owner decision 2026-10-19: read every near miss on a ballot panel and add those that
+  # address the topic (src/topic_reads.py), so the published undercount no longer applies.
+  near_miss_read: true
   # Round-1 candidate (2026-10-18): fit on labels_topic_arbitration_r1.csv; must pass a
   # fresh round-2 sample before the topic is shown.
   tag_rule:

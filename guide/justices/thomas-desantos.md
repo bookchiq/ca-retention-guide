@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 19 | 0 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 22 | 107 | 1 / 1 | — |
+| [Right to counsel](#right-to-counsel) | 27 | 158 | 2 / 1 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 0 | 7 | 0 / 1 | — |
-| [Interrogation](#interrogation) (floor) | 4 | 15 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 2 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 4 | 15 | 0 / 0 | 2 |
+| [Jury selection](#jury-selection) | 1 | 2 | 0 / 0 | 0 |
 | [Police records](#police-records) | 4 | 8 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 0 | 5 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 0 | 5 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 7 | 144 | 1 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 3 | 11 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 3 | 9 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 4 | 11 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 0 | 1 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 4 | 14 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 1 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 22 | 107 | 1 | 1 |
+| 27 | 158 | 2 | 1 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,18 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 4 | 15 | 0 | 0 |
 
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the defendant was in custody during a police-station interview conducted without Miranda warnings, so his statements were inadmissible; held the error not harmless and reversed the judgment for a new trial. *People v. Pettit CA5* (F082379, 2022-10-19; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/8404161/people-v-pettit-ca5/)
+- Wrote the opinion holding the defendant was in custody during an unwarned police interview, and that his later warned statements were also inadmissible because of the question-first approach; held the error not harmless and reversed two convictions for a new trial. *People v. Trujillo CA5* (F077583, 2022-02-22; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/6444273/people-v-trujillo-ca5/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (3 candidates reviewed).
 
 ### Police records
 
@@ -103,6 +108,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 5 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
 
 ### Resentencing
 
@@ -118,11 +125,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 3 | 9 | 0 | 0 |
+| 4 | 11 | 0 | 0 |
 
 ### Consumer protection
 

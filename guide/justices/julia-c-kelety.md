@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 4 | 11 | 1 / 0 | 2 |
-| [Right to counsel](#right-to-counsel) (floor) | 9 | 46 | 1 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 16 | 75 | 1 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 2 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 4 | 9 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 3 | 7 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 4 | 9 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 3 | 7 | 0 / 0 | 2 |
 | [Police records](#police-records) | 0 | 1 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 3 | 12 | 0 / 1 | — |
+| [Racial Justice Act](#racial-justice-act) | 3 | 12 | 0 / 1 | 2 |
 | [Resentencing](#resentencing) | 27 | 91 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 8 | 25 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 4 | 17 | 1 / 0 | — |
+| [Arbitration](#arbitration) | 5 | 22 | 1 / 0 | — |
 | [Consumer protection](#consumer-protection) | 4 | 6 | 1 / 0 | — |
 | [Employment](#employment) (floor) | 6 | 19 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 3 | 11 | 0 / 0 | — |
@@ -67,11 +67,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 9 | 46 | 1 | 0 |
+| 16 | 75 | 1 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -87,11 +85,18 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 4 | 9 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (2 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 7 | 0 | 0 |
+
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding the trial court erred in overruling a section 231.7 objection: the prosecution's reasons for striking a prospective juror were presumptively invalid and not rebutted, and the court made no required finding on asserted demeanor. Reversed for a new trial; the Attorney General conceded error. *People v. Archie* (D085919, 2025-11-20; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10739773/people-v-archie-ca41/)
+- Wrote the opinion holding the trial court properly overruled a section 231.7 objection: the prosecution overcame the presumption against its reason for striking a Latina prospective juror, and there was no substantial likelihood her group membership was a factor. Also rejected a Batson/Wheeler claim; reversed one count on other grounds. *People v. Jimenez* (D081267, 2024-02-06; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9472686/people-v-jimenez/)
 
 ### Police records
 
@@ -104,6 +109,11 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 12 | 0 | 1 |
+
+**Listed cases** (2). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that the defendant forfeited a Racial Justice Act claim about both attorneys' use of a dog analogy to explain circumstantial evidence, and that the analogy was not racially discriminatory language in any event; remanded for resentencing on other issues. *People v. Gomez* (D086608, 2026-02-04; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10784097/people-v-gomez/)
+- Concurred in the result dismissing an appeal from the denial of a Racial Justice Act discovery motion as nonappealable, writing separately that section 745, subdivision (d) lets a defendant with a pending habeas petition seek discovery without first making a prima facie showing. *In re Montgomery* (D083970, 2024-09-06; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10106501/in-re-montgomery/)
 
 ### Resentencing
 
@@ -119,11 +129,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 4 | 17 | 1 | 0 |
+| 5 | 22 | 1 | 0 |
 
 ### Consumer protection
 

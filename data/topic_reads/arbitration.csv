@@ -1,0 +1,955 @@
+cl_opinion_id,at_issue,note,second_at_issue,second_note,tiebreak_at_issue,tiebreak_note,final
+4494199,0,construction; arbitration case cited only,0,out-of-state case quote only,,,0
+4505378,1,reverses judgment confirming award dismissing arbitration for lack of member vote; award violates public policy,,,,,1
+4505456,0,cites arbitration case Garcia v. Pexco as inapposite; no arbitration issue,,,,,0
+4508771,0,only 'arbitrary'; no arbitration,,,,,0
+4515584,0,PAGA standing after settlement; arbitration only in procedural history,,,,,0
+4518765,0,arbitration only in background history,0,prior arbitration in background only,,,0
+4521868,1,CLOSE: Supreme Court upholds service of petition to confirm arbitration award under CCP 1290.4/1293; Hague Convention inapplicable,,,,,1
+4526745,0,payment bond; arbitration cases cited only,,,,,0
+4527624,0,attorney fees; MFAA mentioned in quotation only,,,,,0
+4532121,0,Rent Stabilization and Arbitration Board name only,,,,,0
+4535149,0,arbitrators in cited article title only,,,,,0
+4536698,0,CLOSE: anti-SLAPP; malicious prosecution cannot rest on MFAA fee arbitration; no motion to compel/confirm/vacate,,,,,0
+4537890,0,Rent Board case name only,,,,,0
+4539086,0,statute of limitations estoppel based on arbitration demand; no arbitration ruling,,,,,0
+4540070,1,reverses order dismissing class claims and compelling individual arbitration (no collateral estoppel from decertification),,,,,1
+4540512,0,personal jurisdiction; contract arbitration clause mentioned only as contact,,,,,0
+4540811,1,affirms order vacating first arbitration award and confirming second,,,,,1
+4542857,0,no mention of arbitration,,,,,0
+4542895,1,affirms denial of petition to compel; agreement excludes PAGA actions,,,,,1
+4542939,0,legal malpractice; arbitration only in cited case and fee notice,,,,,0
+4544691,0,CLOSE: review of grievance arbitrator's decision by administrative mandamus (CCP 1094.5) on substantial evidence; not a petition under arbitration statutes; issue is MOU past practice,1,"CLOSE: affirms 1094.5 writ vacating grievance arbitrator's decision (arbitrator's findings unsupported); administrative mandamus, not CCP 1286.2",1,"CLOSE: affirms writ (CCP 1094.5, per MOU) vacating labor grievance arbitrator's award; court reviews and sets aside the award for lack of substantial evidence. Vehicle is admin mandamus, not CAA petition to vacate, but it decides whether an arbitration award stands.",1
+4545009,0,arbitration mentioned as example only,,,,,0
+4546111,1,which ruling is the arbitral 'award'; arbitrator could modify interim ruling; directs correction/confirmation of final award,,,,,1
+4548413,0,ALRB unfair labor practice/MMC bargaining; interest arbitration only context,,,,,0
+4551797,0,no mention of arbitration,,,,,0
+4552818,0,no mention of arbitration,,,,,0
+4556454,1,affirms judgment confirming arbitration award (Warriors arena license),,,,,1
+4556583,0,appealability; arbitration rule mentioned as irrelevant,,,,,0
+4557919,1,rejects contention fee dispute must be arbitrated: no written agreement to arbitrate,1,rejects Bottini firm's claim that fee dispute must be arbitrated: no written arbitration agreement,,,1
+4558304,1,affirms denial of motion to compel; arbitration clause in residential lease void (Civ. Code 1953),,,,,1
+4561383,1,appeal from order denying in part motion to compel arbitration/appraisal; appraisers lack authority to interpret lease,,,,,1
+4566251,0,arbitration case cited in parenthetical only,,,,,0
+4566544,1,affirms confirmation of arbitration award; employer estopped to challenge agreement to arbitrate,,,,,1
+4567801,0,preemption; arbitration only in cited cases,,,,,0
+4568946,0,Rent Ordinance/Board name only,,,,,0
+4568970,0,arbitration only in quoted fee clause,,,,,0
+4570408,1,"judgment confirming award; rejects fraud ground, vacates sanctions portion as exceeding arbitrator's powers",,,,,1
+4570708,0,no mention of arbitration,,,,,0
+4571605,1,"affirms confirmation of fee arbitration award; rejects vacatur grounds (excess of powers, disclosure)",1,affirms confirmation of fee arbitration award; vacatur grounds rejected,,,1
+4579149,0,arbitration mentioned hypothetically only,,,,,0
+4579388,0,arbitration only in quoted fee clause,,,,,0
+4581586,0,forum selection statute; arbitration mention only in legislative history/footnote,,,,,0
+4582057,1,affirms denial of petition to compel arbitration of PAGA claims (Iskanian survives Epic),1,affirms denial of petition to compel arbitration of PAGA claims (Iskanian),,,1
+4582083,0,no mention of arbitration,0,no arbitration mention,,,0
+4582550,0,Rent Board case name only,,,,,0
+4583025,1,CLOSE: sanctions appeal; holds court retained jurisdiction during 1281.4 stay and could not lift stay for alleged arbitration default/waiver,,,,,1
+4583313,0,claims stayed pending arbitration only in history; severance pay issues,,,,,0
+4583825,0,no mention of arbitration,,,,,0
+4585272,1,affirms confirmation of award; denial of motion to vacate for arbitrator partiality,,,,,1
+4587152,0,only 'arbitrarily' (fee statute); no arbitration,0,no arbitration mention (arbitrary only),,,0
+4587912,0,characterization of arbitration settlement proceeds in dissolution; no arbitration issue,,,,,0
+4635474,0,motions to compel arbitration and stay described in footnote only (trial court deferred); not decided,,,,,0
+4639690,1,affirms denial of petition to compel arbitration; inconspicuous clause invalid,,,,,1
+4639830,1,reverses confirmation as to nonsignatory Koettings; arbitrator exceeded powers on alter ego; remedy within limits,,,,,1
+4640564,0,arbitration case cited for statutory prerequisite analogy only,,,,,0
+4641048,1,affirms denial of petition to compel arbitration of PAGA claims (Iskanian),,,,,1
+4641711,0,no mention of arbitration,,,,,0
+4642715,1,affirms denial of petition to confirm MFAA fee arbitration award (timely rejection),,,,,1
+4643066,1,affirms confirmation of award; petition to vacate untimely,,,,,1
+4644278,1,reverses denial of petition to vacate grievance arbitration award as violating public policy,,,,,1
+4645648,0,Rent Board party/case name only,,,,,0
+4646347,1,affirms denial of motion to compel arbitration; tenant waived right to arbitrate,,,,,1
+4650818,0,arbitration only in quoted statute,,,,,0
+4652858,0,anti-SLAPP malicious prosecution of PUC proceeding; rent control arbitration only background,,,,,0
+4655135,0,arbitration only in quoted regulation,,,,,0
+4655141,0,no mention of arbitration,,,,,0
+4655637,0,attorney fees; MFAA mentioned in quotation only,0,statute citation only,,,0
+4656368,0,fraudulent transfer; underlying arbitration award only background,,,,,0
+4656421,1,affirms denial of petition to compel arbitration of PAGA claims,,,,,1
+4657987,0,no mention of arbitration,,,,,0
+4659362,1,affirms orders compelling arbitration and confirming award (dealer termination); rejects vacatur grounds,,,,,1
+4660956,1,CLOSE: decides Instacart's CCP 1281.4 stay-pending-motion-to-compel argument (stay request not before court); injunction reversed on Prop 22,1,CLOSE: rejects Instacart's claim that pending 1281.4 stay request (motion to compel arbitration) barred preliminary injunction,,,1
+4662407,1,affirms denial of petition to compel arbitration of PAGA claims (Iskanian),,,,,1
+4663350,0,rent arbitration program stamp only,,,,,0
+4663457,0,no mention of arbitration,,,,,0
+4664987,1,affirms confirmation of fee arbitration award; denial of petition to vacate,,,,,1
+4666937,0,attorney fees on settlement enforcement; arbitrator mentioned only in recounting prior issues,,,,,0
+4667447,0,judicial arbitration and trial de novo only in history; appeal of nonsuit,,,,,0
+4667715,1,"affirms denial of petition to compel; nonsignatory hospital, claim on different contract",,,,,1
+4668340,1,affirms confirmation; rejects petition to vacate for excess of powers and misconduct,1,"affirms confirmation; rejects petition to vacate (exceeded powers, misconduct)",,,1
+4668502,0,Arbitrator mentioned only in quoted case,0,quote 'arbitrator and judge' only,,,0
+4668521,0,Police discipline administrative arbitration settled; only background,,,,,0
+4668976,0,Prior arbitration award only in background,0,judicial arbitration award in history only,,,0
+4672468,0,CLOSE: reverses attorney fee award for prevailing on motion to vacate (1284.2); does not decide the vacate motion itself,,,,,0
+4676480,0,No arbitration issue ('arbitrary' only),,,,,0
+4676986,0,Prevailing party on prior settlement appeal; mediator-arbitrator only in issue list,,,,,0
+4678944,0,Sister-state judgment entry; arbitration/confirmation only in Nevada background,,,,,0
+4679103,0,FINRA arbitration only in background/evidence,,,,,0
+4679215,0,Arbitration only in cited case,,,,,0
+4681463,0,Arbitration only in citation,,,,,0
+4682001,0,Arbitration waiver only in citation parenthetical,,,,,0
+4682891,0,Bylaws arbitration clause noted in footnote; no arbitration ruling,,,,,0
+4682982,0,Anti-SLAPP; arbitration only in cited cases,,,,,0
+4683806,0,Prior arbitration with County only in background/damages facts,0,prior arbitration with county in facts/damages only,,,0
+4683938,0,No arbitration mention,,,,,0
+4684319,0,No arbitration mention,,,,,0
+4685455,1,Reverses dismissal of petition to vacate; award vacated for arbitrator nondisclosure,,,,,1
+4686712,0,No arbitration issue ('arbitrary' only),,,,,0
+4686735,0,Admin mandamus of hearing officer decision; arbitration mentions incidental,,,,,0
+4688376,1,Reverses denial of petition to compel UIM arbitration,,,,,1
+4688773,0,Prelitigation vote requirement; arbitration only in discussion of precedent,0,member-vote statute; arbitration cases discussed only,,,0
+4690459,1,Affirms order confirming MFAA fee arbitration award,,,,,1
+4690785,0,Fee clause mentions arbitration; not decided,,,,,0
+4694051,0,Judicial estoppel argument cites earlier motion to compel arbitration; no arbitration ruling,,,,,0
+4696610,1,Affirms judgment confirming arbitration award; rejects exceeded-powers claims,,,,,1
+4697316,0,Attorney fees for defeating alter ego motions; arbitration only background,,,,,0
+4698795,0,No arbitration mention,,,,,0
+4700010,0,No arbitration mention,,,,,0
+4700196,1,Affirms denial of motion to compel arbitration (lease permits unlawful detainer),,,,,1
+4700525,0,Fee clause mentions arbitration; not decided,0,fee clause quote only,,,0
+4700966,1,Affirms judgment confirming attorney fee arbitration award,1,affirms judgment confirming fee arbitration award,,,1
+4701531,1,Affirms confirmation of trust arbitration award; rejects arbitrability and exceeded-powers claims,,,,,1
+4705398,1,"CLOSE: appraisal award treated as arbitration; affirms denial of petition to vacate under 1286.2, orders confirmation",,,,,1
+4707705,0,No arbitration mention,,,,,0
+4707772,1,Affirms denial of injunction to halt arbitrations; interprets arbitration agreement small-claims election,,,,,1
+4708527,0,Contract forum clause mentions arbitration; not decided,,,,,0
+4708791,0,Fee clause mentions arbitration; not decided,,,,,0
+4736685,0,Peer review hearing officer bias; arbitrators mentioned only as statutory option/analogy,,,,,0
+4766358,0,Arbitration only in statutory/rule text,,,,,0
+4777888,0,Arbitration only in cited case,,,,,0
+4792047,1,Request to vacate untimely; reverses and orders award confirmed,,,,,1
+4792049,1,"Affirms denial of motion to compel arbitration (fraud in execution, no agreement)",,,,,1
+4879580,1,Affirms denial of petition to compel arbitration on waiver ground,,,,,1
+4880174,0,Third-party claim on levy; confirmed arbitration award only background,0,confirmed award in background only,,,0
+4880804,0,Rent Arbitration Ordinance name only,,,,,0
+4910316,0,Arbitration only in a citation parenthetical,,,,,0
+4911896,0,Fee arbitration only in procedural history,,,,,0
+4912341,0,Arbitrations mentioned only in background,,,,,0
+4912432,0,Judicial estoppel from positions in ICANN arbitration; no arbitration ruling,,,,,0
+4912650,0,Costs award; prior confirmation of award only background,,,,,0
+4924499,0,Tree-claim ordinance arbitration option only background,,,,,0
+4924517,0,Mootness; arbitration only in discussion of Panoche precedent,,,,,0
+4995785,0,Appeals of sanctions/post-judgment orders dismissed under disentitlement; prior compel-arbitration rulings only background,,,,,0
+5116162,0,Civ. Code 2860 fee arbitration mentioned only in passing,,,,,0
+5116167,0,No arbitration issue ('arbitrary' only),,,,,0
+5116457,0,Rent Arbitration Ordinance name only,,,,,0
+5116589,1,Affirms denial of petition to compel arbitration on waiver ground,,,,,1
+5118844,0,CLOSE: 1094.5 mandate review of statutory (Ed. Code) arbitrator's teacher-discipline decision; not CAA confirm/vacate; CAA point only in separate opinion,,,,,0
+5119417,0,"PAGA judgment; arbitrator's ruling's effect assumed, not decided",,,,,0
+5119731,0,Fee clause mentions arbitration; not decided,0,fee clause quotes only,,,0
+5120183,0,PERB unfair practice; labor arbitration award only background/evidence,,,,,0
+5120714,0,Indemnity clause mentions arbitration; not decided,0,fee clause quote only,,,0
+5122192,0,CLOSE: attorney fees for confirm/vacate proceedings under lease fee clauses; does not itself decide confirm/vacate,,,,,0
+5123555,0,Judicial estoppel from positions taken in prior arbitration; no arbitration ruling,,,,,0
+5125109,0,Judicial arbitration cost statute only via precedent; no arbitration ruling,,,,,0
+5128536,0,No arbitration issue ('arbitrary' only),,,,,0
+5129486,0,Prior arbitration award only in background,,,,,0
+5129829,1,Affirms judgment confirming arbitration award; rejects exceeded-powers claim,,,,,1
+5130359,0,PAGA settlement; Iskanian arbitration agreements only discussed as precedent,,,,,0
+5130679,0,Grievance arbitration only in quoted case,,,,,0
+5131205,0,Footnote mention of unrelated arbitration,,,,,0
+5134194,0,No arbitration mention,,,,,0
+5134533,0,No arbitration mention,0,no arbitration mention,,,0
+5135715,0,Arbitration only in cited case and contract wording,,,,,0
+5135734,0,Prior arbitration only in background,,,,,0
+5135997,0,No arbitration issue ('arbitrary' only),,,,,0
+5141808,0,Fee clause interpretation; 'arbitration' only as contract wording,,,,,0
+5141871,1,Affirms denial of petition to compel arbitration (sign-in wrap notice insufficient),,,,,1
+5175872,0,No arbitration mention,,,,,0
+5176402,1,"Reverses vacatur, orders award confirmed; arbitrator disqualification forfeited",,,,,1
+5270655,1,Affirms order confirming arbitration award; arbitrator did not exceed powers,,,,,1
+5550812,0,Arbitration only in a cited case,,,,,0
+5656914,0,Coordination statute; Judicial Arbitration Act only in a cited case,,,,,0
+6099809,0,Arbitration not mentioned,,,,,0
+6104933,0,Prevailing party fees; arbitration only in a cited case (Karton),,,,,0
+6104956,0,Arbitration only in a cited case (Rosenthal),0,Rosenthal discussed for delayed discovery only,,,0
+6111935,0,Arbitration only in a cited case,,,,,0
+6112148,0,Arbitration board named only in a citation,,,,,0
+6113041,0,Mediation lis pendens exception for fees; arbitration statutes rejected as inapplicable analogy,0,mediation clause; holds arbitration statutes inapplicable to mediation fee issue,,,0
+6220267,1,Modifies and affirms judgment confirming arbitration award; rejects vacatur for exceeding powers,,,,,1
+6226387,0,Arbitration only in quoted statute,,,,,0
+6316540,0,Arbitration only in quoted partnership statute,,,,,0
+6316557,1,Affirms order confirming UM arbitration award; rejects timeliness and premature-confirmation challenges,,,,,1
+6316791,0,Anti-SLAPP; statutory arbitration only in cited cases,,,,,0
+6317386,0,Arbitration only in quoted argument about referees,,,,,0
+6317715,1,Reverses denial of petition to compel arbitration; equitable estoppel binds nonsignatory,,,,,1
+6318212,0,Criminal conviction appeal; arbitration not mentioned,,,,,0
+6318669,0,Arbitration only in quoted Labor Code 925 text,,,,,0
+6322044,0,Alter ego amendment of judgment; prior arbitration and confirmation only in background,,,,,0
+6323152,1,Affirms judgment confirming UM arbitration award; rejects challenge based on deemed admissions,,,,,1
+6324429,0,Section 1717 fees; arbitration only in a cited case (Frog Creek),,,,,0
+6325199,1,Affirms confirmation of arbitration award; arbitrator did not exceed powers,,,,,1
+6325665,0,Bail forfeiture; section 1287 is Penal Code,,,,,0
+6326106,0,Prior action to compel arbitration mentioned only in background,,,,,0
+6326633,1,"Affirms denial of petition to compel arbitration (res judicata, scope, arbitrator conflict)",,,,,1
+6326693,0,City compensation initiative; binding arbitration only in discussion of Bagley,,,,,0
+6327499,1,Affirms denial of motion to vacate arbitration award for arbitrator nondisclosure; award confirmed,,,,,1
+6328309,0,Arbitration only in quoted fee clause,,,,,0
+6330288,0,Arbitration only in email facts,,,,,0
+6334246,0,Arbitration only in a cited case,0,cited case description only,,,0
+6334625,0,Arbitration only in a cited case,,,,,0
+6335222,0,Arbitration not mentioned,0,no arbitration mention,,,0
+6337540,0,Probate/premarital agreement; arbitration not mentioned,,,,,0
+6338133,0,Settlement enforcement; arbitration only in a cited case,,,,,0
+6338521,0,Arbitration only in a cited case,,,,,0
+6338608,0,Partition; arbitration not mentioned,0,no arbitration mention (arbitrary only),,,0
+6338857,0,Equitable estoppel on limitations; arbitration only in a cited case (Platt),,,,,0
+6339635,0,Class certification; arbitration agreements only as evidence of employer disparity,,,,,0
+6339850,0,Good faith settlement appealability; motions to compel arbitration only in background,,,,,0
+6341695,0,Arbitration only in a cited case,,,,,0
+6342370,0,Arbitration not at issue; section 1285 is Health and Safety Code,,,,,0
+6342405,0,Arbitration only in cited cases,0,citation parenthetical only,,,0
+6343187,0,Arbitration only in a cited case,,,,,0
+6345552,0,Arbitration not mentioned,,,,,0
+6345619,0,Arbitration matter mentioned only regarding evidence,,,,,0
+6345799,0,Arbitration not mentioned,,,,,0
+6345959,1,Affirms denial of petition to vacate arbitration award and confirmation,,,,,1
+6348442,0,Anti-SLAPP/abuse of process; prior motions to compel arbitration only as protected litigation activity,,,,,0
+6349806,0,Arbitration only in quoted settlement language,,,,,0
+6350484,1,"CLOSE: judicial arbitration; reverses denial of motion to set aside judgment on award, finding substantial compliance with trial de novo request",,,,,1
+6351237,1,Affirms confirmation of UM arbitration award; rejects request to correct award to policy limit,,,,,1
+6352552,1,Reverses denial of motion to compel arbitration under MOA grievance procedure,,,,,1
+6352754,1,CLOSE: sister-state judgment enforcement; court holds defendants waived contractual right to arbitrate by defaulting,,,,,1
+6353266,0,Arbitration only in a cited case about a ballot measure,,,,,0
+6354381,1,Affirms judgment confirming award; rejects request to vacate/correct remedial provision,,,,,1
+6495447,0,Fixtures/foreclosure; order compelling arbitration with Wells Fargo only in background,,,,,0
+6495937,0,Arbitration not mentioned,,,,,0
+6495964,0,Personal jurisdiction; arbitration clause mentioned only as evidence of expectations,0,arbitration clause cited as personal jurisdiction evidence only,,,0
+6496587,0,Arbitration only in a cited case (Ribas),,,,,0
+6498545,0,PAGA motion to vacate judgment; prior arbitration stay ruling only in background,0,prior arbitration stay appeal in history only,,,0
+6499430,0,Demurrer/amendment; filing of arbitration complaint only as alleged breach,,,,,0
+6500015,0,Specific performance order; arbitration only in an analogy citation (Brock),,,,,0
+6800391,0,Prior arbitration mentioned only in background footnote,,,,,0
+6800392,0,Arbitration not mentioned,,,,,0
+6800890,0,Anti-SLAPP; arbitration only in a quoted case,,,,,0
+7275462,1,Affirms order vacating order compelling arbitration; CCP 1281.97-98 not preempted by FAA,,,,,1
+7275476,0,Arbitration only in quoted release language,,,,,0
+7360897,0,Collateral estoppel; arbitration only in a cited case (Corral),,,,,0
+7360960,0,Sanctions standard; arbitration statutes cited only as examples,,,,,0
+7361234,0,Release authentication; Espejo arbitration case discussed only as distinguishable authority,,,,,0
+7361376,0,Arbitration mentioned only in testimony/facts,,,,,0
+7374834,0,Arbitration only in quoted text,,,,,0
+7797530,1,Affirms confirmation of arbitration award; arbitration clause severable despite unlicensed practice,,,,,1
+7797864,0,"CLOSE: affirms order including dismissal for failure to arbitrate, but appellant did not challenge the arbitration ground; court decides only service issues",,,,,0
+7802169,0,Family law settlement motion; arbitration not mentioned,,,,,0
+7802522,0,Dependency case; arbitration only in a cited case,0,citation parenthetical only,,,0
+7803405,0,Interim attorney fees; arbitration only in cited cases,,,,,0
+7804009,0,Arbitration only in a cited case parenthetical,,,,,0
+7804875,0,Terminating sanctions; judicial arbitration only in a cited case,,,,,0
+7804977,0,Fees under rent stabilization and arbitration ordinance; no arbitration issue,,,,,0
+7804978,0,Rent ordinance name only,,,,,0
+7805512,0,Rent board name only,,,,,0
+7806168,1,Reverses denial of motion to compel arbitration under CBA PAGA waiver,,,,,1
+7806799,1,Affirms denial of motion to vacate award and confirmation,1,affirms judgment confirming award; rejects 1286.2 vacatur grounds,,,1
+7807123,0,Arbitration award only in discussion of cited case (Ling),,,,,0
+7827868,0,Arbitration clause in facts only,,,,,0
+8205787,0,Arbitration award vacatur only in a case parenthetical,0,citation parenthetical only,,,0
+8206360,1,Affirms partial denial of motion to compel arbitration under CBAs,,,,,1
+8206712,0,Employee discipline mandamus; prior arbitration decisions cited only,,,,,0
+8207624,1,Affirms order confirming award and denying untimely motion to vacate; consent to arbitrate,,,,,1
+8208106,0,'Sole arbitrator' used figuratively in dependency case,0,'sole arbitrator' figurative; dependency,,,0
+8208183,1,Affirms denial of union petition to compel arbitration; arbitrability for court,,,,,1
+8209947,1,Affirms confirmation of award over petition to vacate,,,,,1
+8209986,0,Arbitration only in discussion of a cited case (Bruni),,,,,0
+8210392,1,Reviews denial of petition to vacate award; arbitrator did not exceed powers,,,,,1
+8212699,0,Criminal history reference only,,,,,0
+8212958,1,Affirms confirmation of award; arbitrator did not exceed powers on illegality,1,affirms judgment confirming award; illegality challenge rejected,,,1
+8213257,0,Arbitration only in a case parenthetical,,,,,0
+8313961,1,Affirms denial of petitions to vacate and confirmation of award,1,affirms confirmation; denial of petitions to vacate (1286.2(a)(5)),,,1
+8374225,1,Affirms denial of petition to compel arbitration on waiver ground,1,affirms denial of petition to compel arbitration on waiver,,,1
+8374699,0,Settlement enforceable by arbitrator mentioned in facts; no arbitration ruling,,,,,0
+8377516,0,"Hospital peer review hearing officer called 'arbitrator'; administrative mandamus, not arbitration",0,peer review hearing officer called 'arbitrator'; administrative mandamus,,,0
+8406104,0,Section 998 offer timing; statutory 'trial or arbitration' language only,,,,,0
+8406211,0,Arbitrators listed in immunity discussion only,,,,,0
+8407281,0,Separate Caltrans arbitration in facts; statute of limitations issue,,,,,0
+8417900,0,No arbitration discussion,,,,,0
+8421805,0,Only 'arbitrary' in abuse-of-discretion standard,,,,,0
+8444722,1,Affirms vacatur of arbitrator's corrected fee award as beyond authority,,,,,1
+8483254,0,Arbitrator mentioned in quoted case only,0,quote about arbitrator only,,,0
+8484579,0,Attorney fee clause mentions arbitration; no arbitration issue,,,,,0
+8484580,0,Arbitration only in a case parenthetical,,,,,0
+8598631,1,Affirms judgment confirming arbitration award; no grounds to vacate,,,,,1
+9323354,0,Collateral estoppel effect of prior arbitration award rejected; no compel/confirm/vacate issue,0,collateral estoppel effect of prior award; no arbitration-law ruling,,,0
+9323655,0,CLOSE: decides employer repudiation excuses exhaustion of CBA grievance/arbitration procedure on demurrer; not a motion to compel or arbitration agreement enforceability,0,"CLOSE: CBA grievance/arbitration exhaustion excused by repudiation exception; section 301 exhaustion, not a motion to compel or award",,,0
+9324344,1,Reverses trial court's correction of arbitration award,,,,,1
+9324687,0,Five-year rule; judicial arbitration tolling in cited cases only,0,five-year rule; arbitration in cited cases only,,,0
+9340422,0,Contempt/sentencing; 'arbitrators' in statute and 'arbitrary' only,0,statute quote only,,,0
+9348962,0,Arbitration word in a quoted statute only,0,regulation text mentions arbitrating disputes; wage case,,,0
+9350810,0,Arbitration appears only in a case citation,,,,,0
+9352122,0,Fee award reversed under fee clause limited to arbitration; no arbitration issue decided,,,,,0
+9353143,0,Arbitration only in a case parenthetical,,,,,0
+9353152,0,Brother's grievance arbitration is background to retaliation claim,,,,,0
+9363987,0,Attorney fee clause mentions arbitration; fee dispute only,,,,,0
+9364203,1,Affirms confirmation of award; rejects arbitrator disclosure challenge to vacate,,,,,1
+9364689,0,Prior arbitration discussed only within cited res judicata case,,,,,0
+9364936,0,Order compelling arbitration mentioned only in a case parenthetical,,,,,0
+9366047,0,Personal jurisdiction; policy arbitration clause noted only as a consideration,,,,,0
+9366068,0,Contract duties listing arbitration in facts only,,,,,0
+9366479,1,Affirms confirmation; untimely petition to vacate/correct bars challenges,,,,,1
+9367097,1,"Affirms denial of nonsignatories' motion to compel arbitration (estoppel, agency, third-party beneficiary)",,,,,1
+9367117,0,Only 'arbitrary' in vagueness quote,,,,,0
+9367118,0,Firefighter discipline mandamus; advisory arbitration recommendation in facts only,,,,,0
+9368086,1,Affirms denial of petition to compel arbitration (no agency); remands arbitrability of individual claim,,,,,1
+9369070,0,"CLOSE: section 187 motion to add alter ego debtors to judgment on confirmed award; decides collateral estoppel effect of arbitral findings, not confirm/vacate/compel",,,,,0
+9369177,0,Settlement addendum arbitration clause in facts only,,,,,0
+9371268,0,No arbitration discussion,,,,,0
+9371389,0,No arbitration discussion,,,,,0
+9375072,1,Affirms judgment confirming award; trial court had jurisdiction to appoint arbitrator and confirm,,,,,1
+9375530,0,Arbitration award mentioned in a cited case only,,,,,0
+9376101,1,Affirms confirmation of award; petition to vacate untimely,1,affirms denial of petition to vacate award against nonsignatory officer,,,1
+9377057,1,Reverses order vacating arbitration award (contractor licensing),,,,,1
+9377922,0,Attorney fee clause mentions arbitration; fee dispute only,0,fee clause and analogy only,,,0
+9378311,0,Rent board name in a citation only,,,,,0
+9378874,0,Forum selection clause dismissal; arbitration cases cited by analogy only,,,,,0
+9379107,0,Motion to compel arbitration only in discussion of cited case (Ayyad),,,,,0
+9379137,0,Arbitration only in a case parenthetical,,,,,0
+9379186,0,No arbitration discussion,0,no arbitration mention,,,0
+9380417,0,No arbitration discussion,,,,,0
+9382205,0,Discovery sanctions; referee's background as arbitrator only,,,,,0
+9382753,1,Affirms denial of motion to stay arbitration over arbitrator appointment,1,affirms confirmation; arbitrator-appointment challenge harmless,,,1
+9382754,0,Good-faith settlement determination; underlying arbitration is background,0,good faith settlement appeal dismissed; underlying arbitration in facts only,,,0
+9383624,0,No arbitration discussion,,,,,0
+9383658,1,Affirms confirmation; arbitrator disclosure duties under section 1281.9,,,,,1
+9383661,0,Statute quotation mentioning arbitration only,,,,,0
+9383665,0,'Judge or arbitrator' in dictionary quote only,,,,,0
+9385140,0,No arbitration discussion,,,,,0
+9385665,0,CLOSE: appeal of costs order after confirmation; holds arbitrator's own-costs ruling does not govern court costs; confirmation itself not challenged,0,CLOSE: costs after petition to confirm (1293.2); court rules arbitrator's own-costs order does not govern court costs; confirmation itself not at issue,,,0
+9385674,1,Affirms confirmation of award; arbitrator did not exceed authority,,,,,1
+9387341,1,"CLOSE: decides whether officer forfeited right to arbitrate termination by untimely demand and whether City can be compelled to accept it; framed as declaratory relief/demurrer, not a CAA petition",,,,,1
+9387690,1,Reviews award for legal error under parties' expanded-review clause; affirms judgment on award with modification,,,,,1
+9389117,0,CLOSE: exhaustion of Education Code grievance procedure ending in arbitration; not an arbitration-agreement or award ruling,,,,,0
+9389122,0,Attorney disqualification; fee arbitration petition only in history,,,,,0
+9389499,0,No arbitration mention,,,,,0
+9390026,1,"Affirms denial of motion to compel arbitration by nonsignatory manufacturer (equitable estoppel, third-party beneficiary)",1,"affirms denial of motion to compel arbitration by nonsignatories (estoppel, third-party beneficiary)",,,1
+9390168,0,No arbitration mention,0,no arbitration mention,,,0
+9390551,1,Affirms denial of petition to vacate and confirmation of award,1,"affirms judgment confirming award, denial of petition to vacate",,,1
+9390552,0,Arbitration case cited by analogy on settlement appeal waiver,,,,,0
+9391249,0,"Fraudulent conveyance; underlying award background; rejects collateral-attack framing, no arbitration issue decided",0,confirmed award in background; summary judgment not a collateral attack,,,0
+9392399,1,Affirms denial of petition to vacate/correct and confirmation of award,,,,,1
+9393271,0,Arbitration only in LMRA preemption quotation,,,,,0
+9393570,0,Prior order compelling arbitration only in procedural history,0,prior arbitration order in history only,,,0
+9393578,0,"CLOSE: anti-SLAPP; holds MFAA fee arbitration cannot ground malicious prosecution or abuse of process; tort issue, not compel/enforce/award",0,anti-SLAPP: fee arbitration as protected activity and not basis for malicious prosecution; no arbitration-law ruling,,,0
+9395086,0,No arbitration mention,,,,,0
+9395950,0,Grievance arbitration only in description of cited case,0,case description of grievance arbitration only,,,0
+9396205,0,Motion to compel arbitration only in procedural history; appeal on vacating PAGA judgment,0,motion to compel arbitration in procedural history only,,,0
+9396515,1,Affirms denial of motion to compel defendants to pay arbitration fees or find waiver of arbitration,,,,,1
+9396774,0,Forum selection clause case; arbitration cases cited by analogy only,0,forum selection clause; arbitration cases cited by analogy only,,,0
+9401651,0,Only 'arbitrary' standard,,,,,0
+9402536,1,"CLOSE: reverses denial of petition to vacate arbitrator's order enforcing nonparty subpoenas under CAA 1282.6; arbitration procedure issue, not an award",,,,,1
+9403819,0,No arbitration mention,,,,,0
+9404420,0,Arbitrator only in quoted referee disclosure rule,,,,,0
+9404864,1,Supreme Court: CCP 1288.2 100-day deadline to seek vacatur not jurisdictional; tolling/estoppel available,,,,,1
+9404865,0,Forum selection clause dismissal; arbitration clause only quoted,,,,,0
+9405281,0,Song-Beverly release; arbitration only in discussion of cited case,0,antiwaiver/forum selection; arbitration case discussed by analogy,,,0
+9405709,1,Affirms employee's withdrawal from arbitration under CCP 1281.98 for late fee payment,1,affirms withdrawal from arbitration under 1281.97/1281.98 for late fees,,,1
+9406395,1,Affirms confirmation and denial of cross-petition to vacate award,,,,,1
+9406547,1,"Affirms quash of service of petition to correct award (untimely service), petition moot",,,,,1
+9407356,0,Arbitration only in quoted attorney fee clause,0,attorney fee clause quoting 'arbitration' only,,,0
+9407392,0,Arbitration only in quoted settlement term,,,,,0
+9408214,0,Arbitration only in description of cited case,,,,,0
+9409388,0,Arbitration only in description of cited Rockefeller case,,,,,0
+9409550,0,Witness described as arbitrator only,,,,,0
+9409558,1,Affirms confirmation of award; arbitrators did not exceed powers,,,,,1
+9409863,0,No arbitration mention,,,,,0
+9410852,0,Arbitration only as background statutory alternative,,,,,0
+9411089,0,Only 'arbitrary' standard,,,,,0
+9411535,0,Only name of Rent Stabilization and Arbitration Ordinance/Board,,,,,0
+9412556,1,"Affirms withdrawal from arbitration under CCP 1281.97; court, not arbitrator, decides breach",1,affirms withdrawal from arbitration under 1281.97 for late fee payment,,,1
+9422602,0,No arbitration mention,,,,,0
+9440712,0,Arbitration only in quoted fee clause of cited case,,,,,0
+9554340,1,CLOSE: suit against JAMS; holds arbitration clause did not authorize JAMS forum and arbitral immunity bars claim; not compel/award,,,,,1
+9555663,0,No arbitration mention,,,,,0
+9556039,1,Affirms judgment confirming arbitration award; vacatur arguments rejected,1,affirms judgment confirming arbitration award; 1286.2 challenges rejected,,,1
+9556894,0,Stay pending arbitration in other action only background,,,,,0
+9564674,0,Arbitration only in charter interpretation discussion,,,,,0
+9564685,1,Affirms denial of petition to vacate award; arbitrator did not exceed powers,,,,,1
+9574243,1,Affirms denial of petition to vacate and confirmation of award,,,,,1
+9690297,0,Prior arbitration settlement only background to release issue,,,,,0
+9691043,0,No arbitration mention,,,,,0
+9693885,0,Only 'arbitrary' standard and statutory text,,,,,0
+9751787,1,Reverses confirmation; superior court must perform agreed merits review of award,,,,,1
+9758003,1,Affirms confirmation of award; new vacatur arguments forfeited,,,,,1
+9758004,1,Affirms confirmation of award; vacatur challenge forfeited by not petitioning,,,,,1
+9838603,1,Writ directing denial of motion to compel arbitration by manufacturer as nonsignatory,,,,,1
+9840522,0,Only Rent Ordinance name and 'arbitrary',,,,,0
+9840677,1,Reverses denial of petition to compel arbitration; mutual assent shown,,,,,1
+9840951,1,Affirms denial of petition to compel arbitration; no arbitration agreement shown,1,affirms denial of petition to compel arbitration: no agreement shown,,,1
+9841073,1,Affirms confirmation of award; arbitrator did not exceed powers; illegality challenge forfeited,,,,,1
+9865482,0,Arbitration only in quoted fee agreement,,,,,0
+9865593,1,Reverses denial of motion to compel arbitration of PAGA claim after Viking River/Adolph,,,,,1
+9865851,0,Arbitration only in footnote describing another case,,,,,0
+9868169,0,Arbitration only in parenthetical of cited case,,,,,0
+9880826,1,Writ: late payment of arbitration fees under CCP 1281.98 is material breach; plaintiff may withdraw,,,,,1
+9880912,1,Affirms judgment confirming award; no agreement for merits review,,,,,1
+9881076,0,Arbitration only in statutory text on contingency fees,,,,,0
+9881732,0,Anti-SLAPP on fee lien; fee arbitration and compelled arbitration only in history,0,anti-SLAPP; fee arbitration in facts and protected-activity argument only,,,0
+9882341,0,"UIM bad faith; arbitration demand facts only, no arbitration issue decided",,,,,0
+9891220,1,Reverses confirmation; arbitration award vacated for appearance of arbitrator bias,,,,,1
+9891278,0,Grievance arbitration award only background in FEHA summary judgment; estoppel theory not reached,,,,,0
+9891782,0,Only name of SF Rent Stabilization and Arbitration Ordinance,0,Rent Arbitration Ordinance name only,,,0
+9891912,0,Prior arbitration only background to malpractice demurrer,,,,,0
+9892432,0,Arbitration only in description of a past initiative,,,,,0
+9892629,1,Reverses vacatur; arbitrator did not exceed powers; directs confirmation of award,,,,,1
+9893397,0,No arbitration mention,,,,,0
+9893545,1,"On remand, affirms vacatur ruling; equitable relief from 1288.2 deadline",1,on remand affirms order vacating arbitration award (timeliness of request to vacate),,,1
+9893569,0,Only 'arbitrary' standard,,,,,0
+9896138,1,Affirms judgment confirming arbitration award,1,"affirms judgment enforcing award; rejects vacatur (virtual hearing, final award)",,,1
+9896288,0,No arbitration mention,,,,,0
+9896289,0,Prior arbitration award only background,,,,,0
+9896306,1,Dismisses appeal from order compelling arbitration as nonappealable,1,appeal from order compelling arbitration dismissed as nonappealable,,,1
+9899009,0,"Lease rent-setting process with 'neutral arbitrator'; court decides option/waiver of lease steps, no arbitration ruling",,,,,0
+9899036,1,"Affirms judgment confirming award; petition to confirm not premature, petition to vacate properly denied",,,,,1
+9899148,0,No mention of arbitration,,,,,0
+9900903,1,Petition to compel arbitration denied; court decides scope/applicability of arbitration agreement,,,,,1
+9900960,0,No mention of arbitration,,,,,0
+9901076,1,Reverses denial of motion to compel by nonsignatory (equitable estoppel); affirms stay pending arbitration ruling,,,,,1
+9901086,0,No mention of arbitration,,,,,0
+9901993,1,Affirms denial of motion to compel; arbitration agreement with H-2A worker void,,,,,1
+9902110,0,Arbitration only in description of cited Crestwood case (intervention timeliness),,,,,0
+9904741,0,Only 'arbitrary' fee ruling and 998 statutory quote,,,,,0
+9904810,0,Arbitration only in testimony about foreign dispute,,,,,0
+9906010,0,CLOSE: fee award after defendants lost motion to compel; court rejects 1717 fees based on arbitration agreement fee clause; no arbitration ruling itself,,,,,0
+9906018,0,Anti-SLAPP; arbitration only in cited Paul case,0,cited case involving arbitration only,,,0
+9906595,0,Class settlement approval; arbitration agreements only as litigation risk,,,,,0
+9907018,0,Arbitration only in description of cited case,0,cited case only,,,0
+9907564,0,No mention of arbitration,,,,,0
+9909558,0,No mention of arbitration,,,,,0
+9910011,1,CLOSE: rejects collateral attack that court exceeded authority correcting award (post-arbitration damages) by invited error; then res judicata,,,,,1
+9910541,0,No mention of arbitration,,,,,0
+9910843,1,Affirms judgment confirming award; challenges to arbitrator's legal/factual rulings unreviewable,,,,,1
+9910910,0,"CLOSE: WCAB reconsideration of workers' comp arbitrator decision void after 60 days (Lab. Code 5909); administrative review, not a CAA confirm/vacate issue",,,,,0
+9911739,0,Arbitration only as background of prior representation,,,,,0
+9911750,0,No mention of arbitration,,,,,0
+9912172,1,Reverses denial of motion to compel arbitration of individual PAGA claim (Viking River),,,,,1
+9912212,0,Family law; arbitration order only attached to prior judgment,,,,,0
+9913135,0,Insurance coverage; arbitration award only in cited federal case,,,,,0
+9913154,0,Legal malpractice limitations; confirmation of award only as date of injury argument,,,,,0
+9914182,1,Affirms confirmation; rejects claim arbitrator exceeded powers,,,,,1
+9915195,0,Anti-SLAPP on cross-complaint about arbitration communications; no arbitration ruling,,,,,0
+9915548,0,CLOSE: holds malicious prosecution cannot rest on favorable arbitration award; not a compel/enforceability/confirm-vacate issue,,,,,0
+9915922,0,Arbitration clause cases cited by analogy for 'arising out of',,,,,0
+9916435,1,CLOSE: footnote rejects employer's argument retaliation claim should be deferred to CBA arbitration; dismissal claim not subject to contractual arbitration,,,,,1
+9918855,1,Affirms judgment confirming award; arbitrator did not exceed powers,,,,,1
+9919533,0,Arbitration only in description of cited Lyons case,,,,,0
+9919538,0,Declaratory relief; arbitration only in cited Sprint case,,,,,0
+9925437,0,Attorney disqualification; prior arbitration petitions only as background,,,,,0
+9925657,0,Capital case; only 'arbitrary' in other contexts,,,,,0
+9925764,0,Lis pendens writ; prior petition to confirm award only background,,,,,0
+9926433,1,Writ: employer's late payment of arbitration fees waives right to arbitrate (1281.97),1,"writ: employer's late fee payment under 1281.97, employee may withdraw from arbitration",,,1
+9926444,0,Joint employer demurrer and costs; arbitration only in cited Jarboe and Ling,,,,,0
+9926836,0,No mention of arbitration,,,,,0
+9926864,0,Fees after judicial reference motion; arbitration only in cited cases,,,,,0
+9926867,0,No mention of arbitration,,,,,0
+9926900,0,Only 'arbitrary or capricious' standard,,,,,0
+9927306,0,Only 'arbitrary or capricious' standard and 'will not arbitrate between scientists',,,,,0
+9927413,1,"CLOSE: on motion to compel individual PAGA claims, vacates dismissal of non-individual claims and declines to direct stay pending arbitration",,,,,1
+9928671,0,Family law; cited arbitration decisions inapposite,,,,,0
+9929501,0,Consumer contract notice; arbitration only in cited cases,,,,,0
+9930498,0,No mention of arbitration,,,,,0
+9931696,0,Restraining order case; prior arbitration award only in background and case cites,,,,,0
+9939341,0,No mention of arbitration,0,no arbitration mention,,,0
+9939458,0,No mention of arbitration,,,,,0
+9940349,1,Affirms confirmation of award; rejects petition to vacate/correct (1286.2),,,,,1
+9940355,1,Affirms denial of motion to compel; employer waived right to arbitrate,,,,,1
+9941705,0,Fee motion deadline; judicial arbitration only in cited Karamzai case,,,,,0
+9942408,0,Fees under 1717; Kalai arbitration fee case only cited,,,,,0
+9942883,0,Fee-arbitration notice issue expressly not addressed,,,,,0
+9943591,1,"Petition to vacate award for arbitrator bias; appeal treated/denied, no bias shown",1,denies writ (construed appeal) re petition to vacate award for arbitrator bias; directs confirmation,,,1
+9944608,0,No mention of arbitration,,,,,0
+9945400,0,Section 998 offer; arbitration only in statute and separate opinion discussion,,,,,0
+9945500,1,Affirms confirmation of award; request to vacate untimely,,,,,1
+9945929,0,Tribal immunity; arbitration clause only in trial court ruling and cited case,,,,,0
+9945945,1,Affirms denial of petition to vacate appraisal-arbitration award and confirmation,1,affirms confirmation of appraisal-arbitration award; petition to vacate denied,,,1
+9945946,0,Bad faith claim after UIM arbitration award paid; no arbitration ruling,,,,,0
+9946077,0,Arbitration only in parenthetical of cited NORCAL case,,,,,0
+9946516,0,Only statutory quote of section 998 mentioning arbitrator,,,,,0
+9947843,0,No mention of arbitration,,,,,0
+9947945,0,Arbitration only in parenthetical of cited Berke case,,,,,0
+9948422,0,CLOSE: limitations writ; construes CAA 1281.97 tolling end date but assumes without deciding breach/waiver,,,,,0
+9949102,0,Only 'arbitrary' and statutory quote mentioning arbitration costs,,,,,0
+9949829,0,Only 'arbitrary' and rent arbitration board case names,,,,,0
+9952522,0,Peer review fair procedure; 'arbitrary' and statutory reference to arbitrator only,,,,,0
+9952789,1,Affirms confirmation of award; arbitrators did not exceed powers (illegality claim),,,,,1
+9953760,0,Fee dispute; trial court remark that no one requested (State Bar) arbitration; no arbitration ruling,,,,,0
+9954060,0,Meal period CBA exemption; arbitration only in Labor Code 512(e) text,,,,,0
+9954372,0,No mention of arbitration,,,,,0
+9955114,0,Insurance bad faith limitations; underlying arbitration only background,,,,,0
+9955152,1,Affirms vacatur of arbitrator's costs-of-proof award as exceeding powers; confirms rest,,,,,1
+9955881,0,Dismisses appeal of order on ORAP motion to quash; Mid-Wilshire arbitration case only cited by analogy,,,,,0
+9955938,0,Limitations/equitable tolling; rabbinical arbitration only background,,,,,0
+9955994,1,dismisses appeal of order compelling arbitration as nonappealable (no death knell),1,appeal from order compelling arbitration dismissed as nonappealable (no death knell),,,1
+9969037,0,no mention of arbitration,0,no arbitration mention,,,0
+9969074,0,PAGA standing; motion to compel arbitration only in facts,,,,,0
+9969098,0,discovery sanctions; arbitration objection mentioned only in facts/footnote,,,,,0
+9969101,1,writ granted: employer's late fee payment under 1281.98 waives right to arbitrate; employee may withdraw,,,,,1
+9969126,0,buyout enforcement; prior arbitration and vacatur petition only in history,,,,,0
+9969137,1,affirms denial of motion to compel arbitration under FAA transportation worker exemption,,,,,1
+9969160,1,affirms denial of motion to compel arbitration on waiver; no prejudice required,,,,,1
+9971076,0,only 'arbitrary' language,,,,,0
+9972128,0,no mention of arbitration,,,,,0
+9972665,1,affirms refusal to stay action pending arbitration,,,,,1
+9972718,1,CLOSE: peer review arbitrator nondisclosure; holds CAA vacatur/disclosure provisions inapplicable to section 809.2 arbitration and rejects vacatur bid,,,,,1
+9973001,1,"holds individual PAGA claims correctly compelled to arbitration, rejects 'nothing to arbitrate' claim; directs stay pending arbitration",,,,,1
+9975647,0,only 'arbitrary' standard-of-review language,,,,,0
+9975703,0,equitable estoppel case discussed by analogy; no arbitration issue,,,,,0
+9976815,0,quo warranto over charter repeal of interest arbitration; no arbitration ruling,,,,,0
+9998687,1,affirms judgment confirming award; rejects arbitrator-exceeded-powers challenges,,,,,1
+10012875,0,no mention of arbitration,,,,,0
+10034141,1,CLOSE: renewal of judgment on confirmed award; holds court had jurisdiction to confirm award and rejects void-arbitration-agreement claim as forfeited and meritless,,,,,1
+10079626,0,no mention of arbitration,,,,,0
+10239031,1,affirms denial of petition to compel arbitration; claims outside scope of clauses,1,affirms denial of petition to compel arbitration: claims outside scope,,,1
+10241950,0,declines to consider forfeited forum-choice argument based on Uber terms' arbitration exception; no arbitration ruling,,,,,0
+10453489,1,"CLOSE: decides insured lost right to UIM arbitration by not arbitrating within statutory five years (no excuse); forfeiture of right to arbitrate, not a motion to compel",1,CLOSE: UIM claim barred for failure to conclude arbitration within 5 years (Ins. Code 11580.2(i)); excuse rejected,,,1
+10453919,1,affirms confirmation; petition to vacate untimely under section 1290.6,,,,,1
+10464079,0,arbitrator finding only in footnote background,,,,,0
+10464093,1,reverses confirmation; orders vacatur because arbitrator exceeded powers on unwaivable fee right,,,,,1
+10464104,1,"affirms denial of petition to compel nonsignatory to arbitrate (third-party beneficiary, conduct)",1,affirms denial of petition to compel nonsignatory parent to arbitrate,,,1
+10470155,1,affirms confirmation of MFAA arbitration award against all plaintiffs,1,affirms judgment on MFAA award as binding (willful nonappearance),,,1
+10471291,0,no mention of arbitration,,,,,0
+10473700,0,postjudgment contribution motion after arbitration; award only background,,,,,0
+10473701,0,postjudgment enforcement fees; arbitration only background,,,,,0
+10473702,1,affirms judgment confirming award as made; court could not add indemnification,,,,,1
+10478473,0,release/summary judgment; arbitration request only in evidence list,,,,,0
+10479919,0,CLOSE: elisor appointment to enforce judgment on confirmed award; court reads award scope but no confirm/vacate/compel ruling,0,elisor appointment after confirmed award; award in background only,,,0
+10480060,0,default set-aside; motion to compel arbitration only in procedural history,,,,,0
+10481046,1,affirms denial of motion to compel arbitration on waiver,,,,,1
+10481962,1,affirms judgment confirming legal malpractice arbitration award,,,,,1
+10491278,0,no mention of arbitration,,,,,0
+10492610,0,no mention of arbitration,,,,,0
+10493484,0,only 'arbitrary' and a case parenthetical,,,,,0
+10498256,0,settlement enforcement; arbitration only in case parenthetical,,,,,0
+10511616,0,no mention of arbitration,,,,,0
+10512851,1,affirms judgments confirming fee awards; rejects exceeded-powers and disclosure challenges,,,,,1
+10512979,0,no mention of arbitration,,,,,0
+10517543,0,arbitration only in quoted statute (medical info disclosure),,,,,0
+10523201,1,dismisses appeal from order denying petition to vacate award as nonappealable,,,,,1
+10538601,0,arbitration only in appealability statute description,,,,,0
+10540256,0,CLOSE: arbitral immunity bars suit against arbitrator/JAMS; not a compel/enforce/vacate ruling,,,,,0
+10540258,1,affirms denial of petition to compel arbitration under Ending Forced Arbitration Act,,,,,1
+10556855,0,appealability of dismissal; arbitration award only in distinguishing a cited case,,,,,0
+10564755,0,arbitration only in quoted standard-of-review footnote,,,,,0
+10565348,0,no mention of arbitration,,,,,0
+10566360,1,affirms denial of motion to compel arbitration; no mutual assent to sign-in wrap,,,,,1
+10566409,0,arbitration only in case parenthetical,0,citation parenthetical only,,,0
+10566485,0,arbitration only in quoted section 998,0,statute quote ('court or arbitrator') only,,,0
+10566637,0,anti-SLAPP; related arbitration case only cited,,,,,0
+10572119,1,dismisses appeal of order denying motion to vacate order compelling arbitration as nonappealable,,,,,1
+10572331,0,arbitration only in procedural history,,,,,0
+10579235,0,collateral estoppel effect of prior arbitration decision declined; no compel/confirm/vacate ruling,,,,,0
+10580006,0,arbitration only in case parenthetical,0,citation parenthetical only,,,0
+10581114,0,only in name of SF Rent Stabilization and Arbitration Board,,,,,0
+10581988,1,affirms denial of petition to vacate award for fraud,,,,,1
+10585276,0,arbitration only in passing description of trial court remarks,,,,,0
+10586326,0,CLOSE: PAGA dismissal reversed; court finds no order compelling arbitration in record and leaves arbitrability unresolved; no ruling on compel/enforceability,,,,,0
+10587417,0,no mention of arbitration,,,,,0
+10587498,1,affirms functional denial of competing petition to compel arbitration in Missouri (battle of forms),,,,,1
+10587671,1,affirms denial of 1281.97 petition; employer's arbitration fee payment timely,,,,,1
+10588555,0,litigation privilege; arbitration award only background,,,,,0
+10590857,1,"writ: manufacturer cannot compel arbitration via dealer contract (third-party beneficiary, estoppel)",,,,,1
+10591570,0,no mention of arbitration,,,,,0
+10594340,0,no mention of arbitration,,,,,0
+10596287,0,arbitration only in quoted emergency rule,,,,,0
+10597118,1,affirms denial of motion to compel arbitration; public injunctive relief claims,1,affirms denial of motion to compel arbitration (public injunctive relief),,,1
+10602366,0,arbitration only in quoted engagement letter,,,,,0
+10607584,0,"CLOSE: advisory MOU arbitrator in police discipline appeal; administrative mandate, not an arbitration-law ruling",,,,,0
+10611327,1,affirms denial of petition to compel arbitration; no agreement to arbitrate established,,,,,1
+10611328,0,no mention of arbitration,,,,,0
+10621657,1,reverses order compelling individual PAGA claims to arbitration based on agreement's PAGA carve-out,1,reverses order compelling arbitration of individual PAGA claims under agreement's PAGA carve-out,,,1
+10621659,0,arbitration only in passing (FERC proceedings),0,FERC mention of arbitration as option only,,,0
+10626974,0,arbitration only in quoted Probate Code section,,,,,0
+10627082,1,CLOSE: demurrer on failure to exhaust MOU grievance/arbitration procedure; court holds failure-to-arbitrate defense (whether arbitration clause is exclusive/covers dispute) cannot be decided on demurrer,,,,,1
+10627681,0,criminal appeal; no arbitration,,,,,0
+10628342,0,CLOSE: legal malpractice claim barred by preclusive effect of confirmed arbitration award; no compel/confirm/vacate ruling,,,,,0
+10628596,0,horse racing stall dispute; arbitration clause quoted in facts only,,,,,0
+10628624,0,no arbitration,,,,,0
+10628704,0,settlement enforcement; prior arbitration only in background,,,,,0
+10629570,1,affirms denial of motion to compel arbitration; no proof online terms conspicuous,,,,,1
+10641997,1,"orders compelling arbitration and confirming award affirmed as to Amex, reversed as to nonsignatory Gearys",1,"orders compelling arbitration and confirming award affirmed as to Amex, reversed as to nonsignatory Gearys",,,1
+10733036,1,reverses order confirming interim award and vacating final award; directs confirmation of final award,,,,,1
+10737108,0,personal jurisdiction; prior arbitration only in facts,0,prior arbitration in facts only; personal jurisdiction,,,0
+10740892,0,no arbitration,,,,,0
+10741721,0,class certification; arbitration agreements mentioned as defense only,,,,,0
+10742571,0,service of process; arbitration only in cited report title,,,,,0
+10748046,0,settlement judgment forfeiture; arbitration only in cited case,,,,,0
+10748966,0,attorney fees; arbitration only in quoted fee clause,0,fee clause quote only,,,0
+10753692,0,class certification; earlier order compelling arbitration noted in footnote,,,,,0
+10753800,0,insurance/anti-SLAPP; confirmed award only in background,,,,,0
+10757915,0,arbitrator award offered as new evidence only,,,,,0
+10757924,0,"CLOSE: trustee appointment; court rejects issue preclusion from prior arbitrator ruling, not a confirm/vacate or compel issue",,,,,0
+10757925,0,indemnity; arbitrate mentioned in funding agreement only,,,,,0
+10759447,0,class claims; prior motion to compel arbitration appeals in history only,,,,,0
+10761074,0,writ petition; arbitration only in cited case,,,,,0
+10762113,0,anti-SLAPP abuse of process; choice to sue rather than arbitrate is not an arbitration ruling,,,,,0
+10763799,0,no arbitration,,,,,0
+10769820,0,Rent Stabilization and Arbitration Ordinance name only,,,,,0
+10769909,0,water rights; 1902 arbitration agreement mentioned only,,,,,0
+10770732,0,easement case; claims against others sent to arbitration in footnote only,0,claims sent to arbitration in footnote only,,,0
+10771221,0,no arbitration,0,no arbitration mention,,,0
+10771222,0,RFA cost-of-proof appeal; prior arbitration appeal in history only,,,,,0
+10772164,0,section 998 costs; arbitration only in statute text,,,,,0
+10772962,1,affirms denial of petition to compel arbitration,,,,,1
+10777091,0,partnership accounting; arbitration fees as income item only,0,arbitration fee refund as income item only,,,0
+10779223,0,inspection warrant; neutral arbitrator phrase only,0,'neutral arbitrator' phrase only; inspection warrant appeal,,,0
+10780119,0,personal jurisdiction/forum; Jordanian arbitration in facts only,,,,,0
+10781059,0,no arbitration,,,,,0
+10781747,0,"CLOSE: attorney fees/costs after award vacated (Civ. Code 1717, CCP 1293.2); vacatur itself decided in earlier appeal",,,,,0
+10786635,1,"CLOSE: reverses dismissal for failure to prosecute; trial court lacked power to dismiss while action stayed pending arbitration under 1281.4, stay excluded from five-year period",,,,,1
+10787267,0,prejudgment interest on damages under old arbitration award; no compel/confirm/vacate issue,0,applies effect of 2008 award to later distributions; no arbitration-law ruling,,,0
+10787651,0,lease interpretation; arbitration only in cited case,,,,,0
+10787732,1,affirms confirmation of award and denial of motion to vacate; arbitrator did not exceed powers,,,,,1
+10789012,0,probate/undue influence; arbitration award in quoted fee clause only,,,,,0
+10789018,1,affirms denial of motion to compel arbitration; no agreement proven,,,,,1
+10789886,0,section 998 offer; arbitration only in statute text,,,,,0
+10791436,0,anti-SLAPP; arbitration only in cited case,0,anti-SLAPP; cited arbitration case only,,,0
+10793435,0,reconsideration; arbitration only in cited case,0,cited case about vacating award; reconsideration issue,,,0
+10794281,0,CLOSE: sister-state judgment; court gives full faith and credit to Utah court's denial of motion to compel arbitration rather than deciding it; preclusion from unrelated award rejected,0,Utah court's arbitration ruling and third-party award in background; full faith and credit,,,0
+10794307,0,no arbitration,,,,,0
+10794438,0,CLOSE: appeal of attorney fee award in confirm/vacate proceedings (prevailing party); confirmation itself not at issue,0,CLOSE: prevailing-party fee award after petitions to confirm/correct/vacate; confirmation rulings not challenged,,,0
+10795162,1,affirms denial of petition to compel arbitration on issue preclusion,,,,,1
+10795870,0,malpractice; arbitrate used in generic sense in quote,,,,,0
+10795910,0,class cert appealability; arbitration only in cited case,,,,,0
+10796976,1,CLOSE: appeal of sanctions for opposing petition to confirm; court holds 1286.2 vacatur arguments frivolous under Moncharsh,,,,,1
+10800254,0,no arbitration,,,,,0
+10802237,0,"peer review; arbitrator as trier of fact discussed, not an arbitration issue",,,,,0
+10803117,1,affirms judgment on arbitration award; vacatur challenge fails for no ground and inadequate record,,,,,1
+10809938,1,affirms order confirming arbitral award and denying petition to vacate,,,,,1
+10814369,1,affirms denial of petition to vacate award; arbitrator disclosure,,,,,1
+10814414,1,reverses denial of petition to compel arbitration; interprets arbitration clause scope,,,,,1
+10819741,0,dismissal notice; arbitration only in cited case,,,,,0
+10819852,0,forum non conveniens/trade secrets; arbitration clause in facts only,,,,,0
+10823255,0,escrow deposit; arbitration in quoted clause only,,,,,0
+10823931,0,attorney fees mediation condition; arbitration in quoted clause only,,,,,0
+10824220,0,attorney fees; arbitration in quoted clause only,0,fee clause quote only,,,0
+10824226,1,reverses order compelling arbitration; manufacturer cannot use equitable estoppel,,,,,1
+10824389,0,sanctions/relief; arbitration only in cited case footnote,0,footnote describing cited case only,,,0
+10827137,0,section 998 costs; arbitration only in statute text,,,,,0
+10827138,0,no arbitration,,,,,0
+10830204,1,affirms judgment confirming award; no ground to vacate,,,,,1
+10830210,0,anti-SLAPP; Rent Arbitration Ordinance name only,,,,,0
+10830212,0,judicial bias; arbitration vacatur standard cited by analogy only,,,,,0
+10832189,0,writ of mandate on termination after advisory MOU arbitration; no arbitration issue decided,,,,,0
+10834550,1,affirms denial of petition to compel uninsured motorist arbitration as untimely,,,,,1
+10837335,0,civil service discipline; arbitrators' decisions not considered as precedent,,,,,0
+10837351,0,no arbitration,,,,,0
+10838070,1,reverses order confirming arbitrator's award; must confirm as modified with remedy,,,,,1
+10838874,0,no arbitration,0,no arbitration mention,,,0
+10838949,0,no arbitration,,,,,0
+10840320,0,no arbitration,,,,,0
+10842061,0,arbitration mentioned in quoted email only,,,,,0
+10842739,0,arbitrators mentioned in cited case only,,,,,0
+10843593,1,affirms judgment confirming MFAA attorney fee arbitration award,,,,,1
+10845473,0,no arbitration issue; criminal motion to vacate conviction (immigration advisement),,,,,0
+10849053,0,headless PAGA; individual claims arbitrated only background; Adolph discussed for standing,,,,,0
+10850970,0,Supreme Court Civ. Code 1668 question; arbitration only in description of cited case,,,,,0
+10851876,1,CLOSE: reverses denial of equitable motion to set aside judgment confirming fee arbitration award; treated as challenge to confirmation,,,,,1
+10872089,0,death knell appealability; compelled arbitration only in description of Cortez,0,Cortez discussion of compel order; appealability of different order,,,0
+10929273,1,"CLOSE: denies respondent's request to stay appeal pending arbitration under parties' agreement, on procedural grounds; anti-SLAPP merits otherwise",1,CLOSE: denies respondent's request to stay appeal pending arbitration (procedural grounds); declines to reconsider dismissal based on arbitration agreement,,,1
+10930205,1,affirms denial of motion to compel arbitration; grievances outside CBA arbitration clause,,,,,1
+11022654,0,arbitration award only in quoted lien clause,,,,,0
+11048316,1,affirms denial of motion to compel; waiver under Quach,,,,,1
+11048666,0,no arbitration mention; sanctions order,,,,,0
+11048678,1,affirms confirmation of rabbinical panel award; denial of motion not to enforce award,,,,,1
+11051618,0,no arbitration mention; attorney fee collection after trial,,,,,0
+11052387,1,affirms confirmation over motion to vacate; arbitrator did not exceed powers,,,,,1
+11053320,0,no arbitration mention,,,,,0
+11054033,0,relief from default; arbitration only in facts of stipulation negotiations,,,,,0
+11054841,1,affirms order confirming final arbitration award,,,,,1
+11055018,0,no arbitration mention; wage and hour,,,,,0
+11058149,0,"peer review exhaustion; hearing arbitrators under bylaws, not contractual arbitration",0,peer review exhaustion; no arbitration issue,,,0
+11058799,0,no arbitration mention,,,,,0
+11059585,0,no arbitration mention; settlement wire-fraud risk of loss,,,,,0
+11059632,0,PAGA standing; order compelling arbitration not challenged on appeal,,,,,0
+11059635,0,LLC records; arbitration only in background and fee award,,,,,0
+11059687,0,arbitration only in a records request description,,,,,0
+11060403,0,arbitration only in quoted contract fee clause,,,,,0
+11060441,1,CLOSE: annuls WCAB order sending coverage dispute to mandatory arbitration under Lab. Code 5275; statutory rather than contractual arbitration,,,,,1
+11060579,0,alter ego; arbitration award only in facts,,,,,0
+11061484,0,only the word arbitrarily; lease dispute,,,,,0
+11062360,1,"affirms order confirming award; 100-day deadline to correct, no equitable excuse",,,,,1
+11064075,0,section 998 costs; arbitration only in statutory quotation,,,,,0
+11065019,0,mandatory fee arbitration only in a cited case parenthetical,,,,,0
+11065020,0,arbitration only in description of a cited case,,,,,0
+11065064,0,specific performance; prior confirmed award used for issue preclusion only,0,issue preclusion from confirmed award; no arbitration ruling,,,0
+11065065,0,no arbitration mention,,,,,0
+11065066,0,no arbitration mention,,,,,0
+11071137,0,arbitration only in a list of State Bar rule exceptions,,,,,0
+11082050,0,no arbitration mention; PayPal conversion/contract claims,,,,,0
+11082051,0,section 998 costs; arbitration only in statutory quotation,0,section 998 statute quote only,,,0
+11084503,0,only the name of SF rent ordinance,,,,,0
+11085527,1,reverses order letting plaintiff withdraw from arbitration under 1281.98; FAA procedure governs,,,,,1
+11086746,0,no arbitration mention,0,no arbitration mention,,,0
+11087609,0,no arbitration mention; HOA,,,,,0
+11087778,1,reverses order confirming appraisal reports as arbitration awards under CAA,,,,,1
+11090281,0,CLOSE: anti-SLAPP; MFAA fee arbitration stay/order below not reviewed; court only rejects reconsideration and collateral estoppel arguments about it,,,,,0
+11093409,0,CLOSE: arbitral immunity bars claims against arbitration provider; not a compel/enforce/confirm/vacate issue,,,,,0
+11104442,0,arbitration only in a case parenthetical,,,,,0
+11104564,0,lease appraisal condition precedent; Platt Pacific arbitration case cited by analogy,,,,,0
+11105341,0,no arbitration issue; costs under 1032 (ADR only in a case name),,,,,0
+11106365,0,disentitlement; arbitration only in a case parenthetical,,,,,0
+11106388,0,insurance conservatorship; arbitration only in background on RPA litigation,,,,,0
+11107170,0,equal protection challenge to State Bar rule barring inactive licensees as arbitrators; no arbitration agreement or award issue,,,,,0
+11107171,1,dismisses appeal of order declining to enter judgment on confirmed award as nonappealable,,,,,1
+11107813,0,legal malpractice; initiating arbitration only in facts,,,,,0
+11108100,1,affirms judgment after confirmation of award; appellant forfeited challenge and cannot relitigate arbitrated claims,,,,,1
+11109324,0,anti-SLAPP; arbitration only in case parenthetical,,,,,0
+11111332,0,turnover order enforcing judgment; confirmed award only background,,,,,0
+11112126,0,CLOSE: anti-SLAPP strikes collateral attack on judgment confirming award; no ruling on confirm/vacate itself,,,,,0
+11112133,1,affirms judgment confirming award; arbitrator did not exceed powers,,,,,1
+11112134,1,dismisses appeal of order granting petition to compel arbitration as nonappealable,,,,,1
+11112197,0,only arbitrary and an Evidence Code quotation,,,,,0
+11117069,0,no arbitration mention,,,,,0
+11117077,1,affirms denial of motion to compel; CBA arbitration clauses not clear and unmistakable waiver,,,,,1
+11120631,0,section 998 offers; arbitration only in statutory language,,,,,0
+11120649,0,rent control takings; arbitrator only in quoted allegation,,,,,0
+11122402,1,reverses order vacating arbitration award; arbitrator could award rescission/restitution,,,,,1
+11122406,1,affirms denial of motion to compel arbitration; no individual PAGA claim,,,,,1
+11122472,1,affirms denial of motion to compel arbitration; headless PAGA action,,,,,1
+11123287,1,affirms denial of motion to compel arbitration; headless PAGA,,,,,1
+11123372,0,Brown Act; arbitrator only in statutory definition,,,,,0
+11123453,1,affirms denial of arbitration fees requested on petition to confirm award; court lacks power beyond award,,,,,1
+11124036,0,WCAB deadline; arbitration award case cited by analogy only,,,,,0
+11124673,1,CLOSE: section 1281.98 sanctions for nonpayment of arbitration fees; court decides which CAA fee statute applies and affirms reduced award,,,,,1
+11125367,0,no arbitration mention; probate,,,,,0
+11129796,0,discovery sanctions; denial of motion to compel arbitration only in footnote background,,,,,0
+11129804,0,CLOSE: parenting coordinator disqualification; court holds stipulation is not an arbitration agreement and does not incorporate CAA disqualification rules; not an arbitration agreement/award issue,,,,,0
+11131370,0,military diversion writ; only arbitrary and a case parenthetical,0,citation parenthetical only,,,0
+11132914,0,no arbitration mention; marital dissolution,,,,,0
+11133012,0,labor injunction; voluntary arbitration only in statutory language,0,Labor Code 'voluntary arbitration' statutory language only,,,0
+11133054,1,reverses denial of motion to compel arbitration; chargeback was not waiver,,,,,1
+11133517,0,defamation demurrer; prior arbitration only background/preclusion of relitigation,0,prior arbitration in background; defamation malice,,,0
+11135903,0,Primary jurisdiction/consumer finance; arbitrary only,,,,,0
+11136665,0,E-signature authenticity; arbitration cases cited by analogy only,,,,,0
+11136667,0,Rent Ordinance name only,,,,,0
+11136726,1,Affirms confirmation of award and denial of petition to vacate (1286.2 grounds),1,affirms confirmation and denial of petition to vacate (1286.2 grounds),,,1
+11140349,0,Attorney fees; arbitration only in quoted fee clause,,,,,0
+11144313,0,Lender consent dispute; dismissed arbitration only in facts,0,dismissed arbitration in facts only,,,0
+11148415,1,Affirms confirmation of award and denial of motion to withdraw from arbitration under 1281.98,,,,,1
+11148478,0,Labor Code polygraph claim; arbitration only in legislative history of 432.6,,,,,0
+11153616,0,Unlawful detainer; no arbitration,,,,,0
+11154465,1,"CLOSE: fee-award appeal, but court holds as matter of law employer did not forfeit arbitral rights under 1281.98 (Hohenshelt)",1,"1281.98 late arbitration fee payment: under Hohenshelt not willful, so no forfeiture of arbitral rights; fee award reversed",,,1
+11158138,0,Insurance broker negligence/limitations; arbitration award only in facts,,,,,0
+11158683,1,Reverses order vacating order compelling arbitration under 1281.97 in light of Hohenshelt,,,,,1
+11166349,0,Claim preclusion from prior suits; prior arbitrations and petition to compel only history,,,,,0
+11166989,0,Marital settlement set-aside; no arbitration,0,no arbitration mention,,,0
+11170350,0,Receivership writ; no arbitration,,,,,0
+11171800,0,RJA dissent from denial of review; arbitrator bias case cited only,0,citation parenthetical only,,,0
+11171912,0,CLOSE: MFAA notice and attachment during fee-arbitration stay; no compel/stay/award ruling on arbitration itself,,,,,0
+11173926,1,Reverses 1281.98 order withdrawing claims from arbitration; FAA governs agreement,,,,,1
+11173964,0,Hospital reimbursement; federal IDR arbitration only in footnote,,,,,0
+11174700,0,HOA fees and costs; ADR definition in footnote only,,,,,0
+11176456,1,"CLOSE: affirms judgment declaring no valid contract (incl. arbitration clause) and permanently enjoining arbitration, on sheriff's lack of authority",1,"CLOSE: affirms declaratory judgment that retainer was invalid, so no valid arbitration agreement; arbitration permanently enjoined",,,1
+11177119,1,Affirms denial of vacatur of award; remands on correction of award,,,,,1
+11177131,0,Criminal restitution; no arbitration,,,,,0
+11178261,0,"Probate fee petition; parties' waiver of fee arbitration only in background, not decided",0,fee arbitration waiver mentioned in history; appeal about motion to vacate probate order,,,0
+11178346,0,Anti-SLAPP malicious prosecution; no arbitration,,,,,0
+11178363,1,"Reverses denial of petition to compel arbitration; FAA applies, release enforceable",,,,,1
+11178364,1,Affirms denial of petition to vacate award; arbitrability decided,,,,,1
+11178369,0,Fictitious business name statute; arbitration case cited only,0,citation parenthetical only,,,0
+11180632,1,Reverses denial of union petition to compel arbitration of MOU grievance,1,reverses denial of union petition to compel grievance arbitration under MOU,,,1
+11180822,0,Claim preclusion from prior arbitration award; no compel/vacate/confirm issue,,,,,0
+11197020,0,Faculty dismissal; arbitrator in statute quote only,,,,,0
+11197816,0,Anti-SLAPP; no arbitration,,,,,0
+11197841,0,Legal malpractice; plaintiff's FINRA arbitrator role only in facts,,,,,0
+11198704,0,Attorney fees and mediation clause; arbitration only in contract language,,,,,0
+11198718,1,Writ: discovery must be stayed under 1281.4 pending mediation/arbitration,,,,,1
+11200793,0,Postjudgment attorney fee order; no arbitration,0,no arbitration mention,,,0
+11201654,0,Wende criminal review; no arbitration,,,,,0
+11201655,0,Criminal; counsel's unrelated arbitration only in facts,,,,,0
+11202532,0,Five-year dismissal; arbitration case cited only,,,,,0
+11203455,1,"Affirms denial of motion to compel arbitration (equitable estoppel, nonsignatory)",,,,,1
+11204915,0,Wage claims summary adjudication; withdrawal from arbitration only procedural history,,,,,0
+11206574,0,998 offer costs; arbitration only in statute quote,,,,,0
+11207065,0,Marital property/straw buyer; no arbitration,0,no arbitration mention,,,0
+11208083,0,Criminal resentencing; no arbitration,,,,,0
+11208096,1,Affirms denial of petition to vacate award for arbitrator nondisclosure,1,affirms confirmation; petition to vacate for nondisclosure denied,,,1
+11208856,0,Discovery terminating sanctions; arbitration case cited only,,,,,0
+11211551,0,Restraining order renewal; arbitration award only in record description,,,,,0
+11212618,0,Family law; arbitrary only,,,,,0
+11213617,0,Wende criminal review; no arbitration,,,,,0
+11214318,1,Reverses denial of petition to compel arbitration (judicial estoppel error),,,,,1
+11214319,1,Affirms confirmation of award; rejects argument award void as to defendant individually,,,,,1
+11214904,0,Anti-SLAPP; arbitration program only in allegations and history,,,,,0
+11215880,0,Anti-SLAPP malicious prosecution; HOA mediator/arbitrator only in facts,,,,,0
+11217495,1,Affirms dismissal of petition to vacate award for untimely service under 1288,,,,,1
+11225047,0,Judgment satisfaction appeal dismissed; prior arbitration award only mentioned in footnote,,,,,0
+11225991,1,Reverses order vacating order compelling arbitration under 1281.97/1281.98; remand under Hohenshelt,,,,,1
+11227603,1,"Affirms judgment confirming fee arbitration award, rejecting vacatur arguments",,,,,1
+11227765,0,Statute of limitations; arbitration case cited for meaning of dispute only,,,,,0
+11229676,0,Tax refund demurrer; no arbitration,,,,,0
+11229872,0,Anti-SLAPP dismissal; prior motion to compel arbitration only procedural history,,,,,0
+11230690,0,Forum selection clause enforcement; not arbitration,,,,,0
+11230701,0,Criminal appeal; no arbitration,,,,,0
+11230977,0,Trust accounting; prior confirmed award background; preclusion argument forfeited,,,,,0
+11230979,1,"On transfer after Hohenshelt, reverses denial of motion to compel arbitration re 1281.97 nonpayment",,,,,1
+11232626,0,Arbitration case cited for hearing standard only,0,citation parenthetical only,,,0
+11233397,0,Prop 36 diversion; arbitration acts cited by analogy only,,,,,0
+11234235,0,Anti-SLAPP defamation; no arbitration,0,no arbitration mention,,,0
+11236400,0,Legal malpractice; prior insurance arbitrations only in facts,0,insurance arbitrations in facts only,,,0
+11237222,0,Demurrer to Twitter class action; no arbitration,,,,,0
+11237223,0,PAGA notice; court declines to reach arbitration award/res judicata issues,,,,,0
+11237839,0,"CLOSE: postjudgment fee award after petition to appoint arbitrator; only prevailing-party issue decided, not the arbitration petition",,,,,0
+11240603,0,PUC writ dismissed; commission arbitration jurisdiction only quoted,,,,,0
+11240612,0,Writ re demurrer/statute of frauds; no arbitration,,,,,0
+11241712,0,Statute of frauds demurrer; no arbitration,,,,,0
+11242144,0,Default judgment/section 580; arbitration case cited only,,,,,0
+11244124,1,Affirms confirmation of award; refusal to vacate for res judicata error,,,,,1
+11244857,0,Song-Beverly fee award; failed motion to compel arbitration only mentioned in background,,,,,0
+11245417,0,Family law mediator delegation; arbitration only in quoted policy,,,,,0
+11245496,0,Standing/demurrer; earlier failed attempt to compel arbitration only procedural history,,,,,0
+11245497,0,"Attorney fees under MOU clause; parties litigated, no arbitration issue",,,,,0
+11245519,0,motion to compel only in description of cited case,,,,,0
+11246803,1,affirms denial of petition to vacate and confirmation of award,,,,,1
+11247388,1,rent-setting procedure is arbitration; suit must be petition to vacate award; leave to amend to seek vacatur,,,,,1
+11247512,0,judicial arbitration only in discussion of cited cases; appeal dismissed on costs judgment appealability,,,,,0
+11247818,0,CLOSE: arbitral immunity bars suit against arbitrator; not compel/enforceability/waiver/confirm/vacate,,,,,0
+11248688,0,arbitration only in case parenthetical,,,,,0
+11248705,0,arbitration waiver only in description of cited case,,,,,0
+11249506,0,arbitration only in quoted case parenthetical; anti-SLAPP bad faith,,,,,0
+11249942,1,affirms denial of petition to vacate award for bias/due process and confirmation,,,,,1
+11256321,0,no arbitration mention,,,,,0
+11256330,1,section 1281.98 withdrawal from arbitration vacated after Hohenshelt,,,,,1
+11261806,0,arbitration only in quoted cite,,,,,0
+11261843,1,affirms confirmation of award; denial of motion to vacate or correct (Kolchinsky),,,,,1
+11261849,1,affirms confirmation of award; denial of motion to vacate or correct (Gilberg),,,,,1
+11262477,1,CLOSE: court rejects claim trial court erred by not compelling arbitration of settlement allocation because EFD never moved to compel; reviewed only as new-trial denial,,,,,1
+11263709,1,dismissal after order compelling arbitration reversed; court must appoint arbitrator,,,,,1
+11267802,0,arbitrators mentioned only in describing immunity classes,,,,,0
+11268330,0,no arbitration mention,,,,,0
+11269247,0,no arbitration mention,,,,,0
+11270415,0,fee clause mentions arbitration only,,,,,0
+11271816,0,arbitration only in statutory cite,,,,,0
+11275382,0,prior grievance arbitration in background; anti-SLAPP appeal,,,,,0
+11276087,0,arbitration mentioned in quoted counsel statement; anti-SLAPP,,,,,0
+11276726,0,no arbitration mention,,,,,0
+11277341,0,arbitration award only in statutory quote,0,statute quote only,,,0
+11277349,1,"affirms confirmation of appraisal arbitration award; award final, vacatur denied",1,"affirms confirmation; award final despite correction requests, vacate request denied",,,1
+11278054,0,prior arbitration and confirmation only in background; appeal is demurrer/economic loss rule,,,,,0
+11280553,0,only 'arbitrary',,,,,0
+11280955,0,lay fee arbitrator background only,,,,,0
+11281074,0,CLOSE: fees/costs after dismissal of petition to confirm; court does not decide confirmation or vacatur itself,,,,,0
+11281082,1,reverses denial of petition to confirm award; defendants were parties to arbitration,,,,,1
+11281646,0,no arbitration mention,,,,,0
+11294260,0,CLOSE: decides collateral estoppel effect of arbitration award on nonparty broker; not compel/enforceability/waiver/confirm/vacate,0,collateral estoppel from prior arbitration findings; not an arbitration-law issue,,,0
+11296611,1,affirms confirmation; claims insufficient to vacate award,,,,,1
+11296740,1,affirms confirmation with correction of mathematical error in award,1,affirms confirmation with correction of mathematical error in award,,,1
+11296777,0,underlying arbitration in facts; legal malpractice statute of limitations,,,,,0
+11298766,1,arbitrator disqualification not an award reviewable by petition to vacate,,,,,1
+11299326,0,confirmed award in background; alter ego amendment of judgment,,,,,0
+11299398,0,arbitration only in statutory quote,,,,,0
+11299401,0,arbitrator only in quoted text,,,,,0
+11299409,0,arbitration agreements mentioned in facts; writ concerns curative notice for settlement agreements,,,,,0
+11306218,0,arbitration only in description of cited case,,,,,0
+11306766,0,arbitrator only in Sandquist quote on remedy,,,,,0
+11309434,0,arbitration only in statute quote and case discussion; indemnity clause severance,,,,,0
+11310010,0,arbitration only in citations; alter ego amendment,,,,,0
+11310848,0,lease binding-arbitration clause quoted in facts only,,,,,0
+11313686,0,arbitration only in cited cases; mediation context,,,,,0
+11314139,1,"petition to compel arbitration: delegation, waiver, nonsignatory standing",,,,,1
+11314715,0,arbitration only in case name,,,,,0
+11316014,1,rejects need for new arbitration/rehearing under 1287 after vacatur; arbitrators decide arbitration fees,,,,,1
+11316515,0,pending arbitration in background; CSLL declaratory relief,,,,,0
+11318732,0,prior arbitration and confirmation in background; Bane Act demurrer,,,,,0
+11324986,0,criminal embezzlement; State Bar fee arbitration award admitted as evidence - evidentiary ruling only,,,,,0
+11325729,1,affirms confirmation; denial of petition to vacate for arbitrator bias,,,,,1
+11325758,0,arbitration decision in facts only,,,,,0
+11326451,0,arbitration only in quoted dicta,,,,,0
+11326879,0,only 'arbitrary' standard of review,,,,,0
+11327324,1,petition to vacate or correct labor arbitration award,,,,,1
+11327329,0,no arbitration mention,,,,,0
+11327598,0,petition to compel arbitration mentioned only in trial facts,,,,,0
+11329782,0,arbitration only in case parenthetical,,,,,0
+11329905,0,arbitration only in case parenthetical,,,,,0
+11330902,0,arbitration only in cited anti-SLAPP case,,,,,0
+11332508,0,prior arbitration award in background; CUTSA demurrer,,,,,0
+11332654,0,arbitration only in policy language and cite,,,,,0
+11335519,0,only 'arbitrary',0,no arbitration mention,,,0
+11336488,0,only 'arbitrary',,,,,0
+11336536,0,no arbitration mention,,,,,0
+11336537,0,fee arbitrator declarant in fee motion; only 'arbitrary',0,fee arbitrator as declarant only,,,0
+11337789,0,arbitration only in case parenthetical,,,,,0
+11341919,0,"CLOSE: bid protest waived for misdirected arbitration deposit; administrative protest procedure, not an arbitration-agreement or award ruling",,,,,0
+11344830,0,arbitration only in cited anti-SLAPP case,,,,,0
+11344836,0,insurance appraisal arbitration in facts; footnote declines forfeited argument; bad faith summary judgment,,,,,0
+11345748,1,"CLOSE: decides MAA proposals not eligible for binding interest arbitration under SF Charter (City need not arbitrate); statutory labor interest arbitration, not a contract to arbitrate",,,,,1
+11346537,0,arbitration only in case parenthetical,,,,,0
+11347374,0,no arbitration mention,,,,,0
+11348010,0,fee arbitration only in cited anti-SLAPP cases,0,fee arbitration cited as analogy in anti-SLAPP,,,0
+11348089,0,rent arbitration ordinance name only,,,,,0
+11348685,0,BASF fee arbitration award in background; affirmed on inadequate record,,,,,0
+11349237,1,section 1281.98 arbitration fee nonpayment and fee/sanction award reconsidered after Hohenshelt,,,,,1
+11349385,1,Affirms confirmation and denial of motion to vacate employment arbitration award,,,,,1
+11349428,0,Settlement/insurer dispute; right to arbitrate counsel rates only in facts,,,,,0
+11351111,1,Affirms judgment confirming arbitration award (Optum360),,,,,1
+11352716,1,Reverses denial of motion to compel arbitration; FAA transportation worker exemption,,,,,1
+11382654,0,School district/board member order; no arbitration,0,no arbitration mention,,,0
+11382725,0,Discovery dispute; prior motion to compel arbitration only in procedural history,,,,,0
+11385003,0,Water district stock ownership; arbitration only in case description and 'arbitrary',0,cited case on binding arbitration statute only,,,0
+11387118,0,Commercial lease dispute; no arbitration,,,,,0
+11393102,0,Criminal 1473.7 motion; no arbitration,,,,,0
+11393108,1,Decides whether arbitrator exceeded powers; petition to vacate award,,,,,1
+11399286,1,Affirms denial of motion to compel arbitration; claims outside scope,,,,,1
+11399704,0,Attorney discipline; fee arbitration mentioned only in quoting prior ruling,0,attorney discipline; fee arbitration cited only,,,0
+11400657,0,Arbitration only in description of cited NNN Capital case,,,,,0
+11402114,0,Demurrer dismissal; no arbitration,,,,,0
+11403033,0,Fee clause and arbitration provision quoted only,0,purchase agreement arbitration/mediation clauses quoted; no arbitration ruling,,,0
+11403387,0,Arbitration discussed only via Vandenberg in issue preclusion analysis,,,,,0
+11403553,0,Legal malpractice; arbitrator only in quoted disqualification rule,,,,,0
+11403562,1,Affirms confirmation of award; challenges to agreement and vacatur forfeited,,,,,1
+11403851,1,Affirms order denying motion to vacate and confirming Uber arbitration award,,,,,1
+11404364,0,Denies judicial notice of fee arbitration award; no arbitration issue decided,,,,,0
+11404417,1,Decides CCP 1281.98 forfeiture for late arbitration fees and excusal,,,,,1
+11404429,0,Class settlement approval; arbitration agreements discussed only as settlement context,,,,,0
+11405073,1,Reviews petition to vacate arbitration award (extraterritoriality ruling),,,,,1
+11405082,0,Restraining order/evidence; prior motion to compel arbitration only in background,,,,,0
+11405508,0,Anti-SLAPP/attorney loyalty; arbitration in quoted case only,,,,,0
+11406192,0,Retirement board/civil service; arbitration only in case description,,,,,0
+11406311,0,Fee clause mentioning arbitration only,,,,,0
+11408504,0,CCP 998 offer; statute quote mentions arbitration only,,,,,0
+11408557,1,"CLOSE: holds Department not obligated to arbitrate under 1984 agreement after changed conditions; enforceability of arbitration obligation, not a motion to compel",,,,,1
+11409080,0,WCAB writ review of insurance cancellation; workers comp arbitrator only in procedural history,0,"CLOSE: WCAB writ of review of Board order adopting workers' comp arbitrator's decision; insurance cancellation issue, not an arbitration-award petition",,,0
+11410090,0,Trial continuance/discovery; no arbitration,,,,,0
+11411478,0,Supreme Court in forma pauperis case; Roldan arbitration-fee case discussed as precedent only,,,,,0
+11411573,1,Affirms judgment confirming arbitration award; rejects bias/vacatur claims,1,affirms order confirming award; undue means and bias claims rejected,,,1
+11414978,0,Exhaustion of PERB remedies; union arbitration demand only in background,,,,,0
+11416373,0,Partnership agreement arbitration clause in facts only,,,,,0
+11416375,0,Stay pending appeal; Coinbase arbitration stay cited only,,,,,0
+11419609,1,Decides CCP 1281.98 forfeiture of arbitral rights and related fees/sanctions,,,,,1
+11419640,0,No arbitration,,,,,0
+11420865,0,CLOSE: PAGA construction exemption turns on CBA arbitration terms; alternative motion to compel not heard,,,,,0
+11420867,1,Affirms order approving arbitrator's property division; consent to arbitration and award review,1,affirms order approving arbitrator's property division; finds wife consented to arbitration and limited review of award,,,1
+11420870,1,Rejects challenges to award; arbitrator disqualification forfeited,,,,,1
+11421448,0,Arbitration waiver case (Quach) distinguished by analogy only,,,,,0
+11421765,0,"CLOSE: general judicial reference (CCP 638) and referee fees, not arbitration; Aronow arbitration-fee case cited by analogy only",,,,,0
+11422524,0,Street renaming; 'arbitrary' and arbitration only in cited case,,,,,0
+11424352,0,Postjudgment order; no arbitration,,,,,0
+11424360,1,"Rejects challenge to arbitration award; judicial vs contractual arbitration, trial de novo",,,,,1
+11424385,0,Mandatory relief under 473; arbitration only in cited case,,,,,0
+11424394,1,Reviews arbitration award against Kaiser; limited judicial review of award,,,,,1
+11425331,1,Reverses order vacating arbitration under 1281.98; remands under Hohenshelt,,,,,1
+11426211,0,Attorney fees; only 'arbitrary' and quote,,,,,0
+11430577,0,Employment summary judgment; arbitrator selection only in facts,,,,,0
+11430684,1,Affirms confirmation; untimely response to petition to confirm under 1290.6,,,,,1
+11430781,0,LMRA 301 preemption; CBA arbitration only as interpretation context,,,,,0
+11430790,0,Contract illegality; no arbitration,,,,,0
+11431346,0,Criminal appeal; no arbitration,,,,,0
+11433150,0,Fair procedure claim; only 'arbitrary' and neutral arbitrator in quotes,0,'neutral arbitrator' quote in peer review only,,,0
+11435089,0,Dual agency disclosure; arbitrator disclosure rules mentioned by analogy only,,,,,0
+11436925,0,Choice-of-law waiver for fees; arbitration in fee clause and cited case only,,,,,0
+11440933,1,Reverses denial of petition to compel arbitration; third-party beneficiary/scope,,,,,1
+11444506,0,Peer review writ; arbitrators on hearing panel only in facts,,,,,0
+11446190,0,Prior grant of motion to compel arbitration only in procedural history,,,,,0
+11447052,1,Affirms confirmation of arbitration award; rejects claim of error in arbitration,,,,,1
+11448840,0,Equitable tolling; no arbitration,0,no arbitration mention,,,0
+11450780,0,CCP 998 costs; statute quotation mentions arbitrator only,,,,,0
+11453790,1,Affirms confirmation of award; rejects voidness of agreement and arbitrator disclosure claims,,,,,1
+11453934,0,Labor injunction criteria; arbitration only in statute and cites,,,,,0
+11453942,1,Affirms confirmation of award; arbitrator's findings beyond review,,,,,1
+11475650,1,Affirms judgment confirming final arbitration award,,,,,1
+11481893,0,Arbitration result mentioned only as exhibit,,,,,0
+11486211,0,Elder abuse/fiduciary; prior FINRA arbitration only for limitations tolling,,,,,0
+11492481,0,Trust/limitations dispute; prior arbitration only in background,,,,,0
+11501821,0,Contractual limitations provision; no arbitration,,,,,0
+11503013,0,CLOSE: prevailing-party fees premature while arbitration pending; no ruling on compelling arbitration or award,,,,,0
+11504785,0,Default judgment; closed AAA arbitration only in footnote,,,,,0

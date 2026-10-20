@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 5 | 11 | 0 / 0 | 2 |
-| [Right to counsel](#right-to-counsel) (floor) | 3 | 12 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 10 | 32 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 6 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 4 | 7 | 1 / 0 | — |
-| [Jury selection](#jury-selection) | 5 | 8 | 1 / 1 | — |
+| [Interrogation](#interrogation) (floor) | 4 | 7 | 1 / 0 | 1 |
+| [Jury selection](#jury-selection) | 5 | 8 | 1 / 1 | 4 |
 | [Police records](#police-records) | 3 | 9 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 0 | 2 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 0 | 2 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 26 | 128 | 1 / 2 | — |
 | [Anti-SLAPP](#anti-slapp) | 11 | 32 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 13 | 27 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 15 | 36 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 7 | 13 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 8 | 19 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 3 | 0 / 0 | — |
@@ -67,11 +67,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 3 | 12 | 0 | 0 |
+| 10 | 32 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -87,11 +85,22 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 4 | 7 | 1 | 0 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that a station-house interview, noncustodial at first, became custodial when the detective confronted the defendant with accusations and interrogation techniques, so his later unwarned statements should have been suppressed under Miranda; rejected a related right-to-counsel claim; found the error prejudicial and reversed. *People v. NavaAdame* (G064663, 2025-11-17; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10737686/people-v-navaadame/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 5 | 8 | 1 | 1 |
+
+**Listed cases** (4). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the 2–1 opinion holding the defendant did not forfeit a section 231.7 claim that the prosecution's reason for striking a prospective juror, that she was a nurse, was presumptively invalid, and the trial court erred by not considering it; reversed. The dissent would have required a prejudice analysis. *People v. Espiritu* (G063841, 2026-04-13; published; vote 2-1). [Opinion](https://www.courtlistener.com/opinion/10842147/people-v-espiritu/)
+- Wrote the opinion holding the trial court failed to follow section 231.7 when it overruled an objection to a peremptory challenge before the prosecution gave its reasons, and did not evaluate the presumptively invalid reasons later offered; reversed for a new trial. *People v. Mendoza* (G063433, 2025-09-29; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10679506/people-v-mendoza-ca43/)
+- Concurred and dissented. Agreed the trial court erred in overruling a section 231.7 objection and that reversal was required, but reasoned the prosecution relied on the prospective juror's demeanor, a presumptively invalid reason not rebutted. Dissented from leaving four other issues undecided and from not publishing. *People v. Bieser* (G062491, 2025-05-22; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10590074/people-v-bieser-ca43/)
+- Wrote the opinion holding the trial court erred in overruling a section 231.7 objection because the record did not support either of the prosecution's reasons for striking a Hispanic prospective juror: that she volunteered a bias unprompted, and her demeanor in answering questions. Reversed for a new trial. *People v. Valdivia-Guzman* (G062516, 2024-10-17; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10145124/people-v-valdivia-guzman-ca43/)
 
 ### Police records
 
@@ -104,6 +113,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 2 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Resentencing
 
@@ -119,11 +130,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 13 | 27 | 0 | 0 |
+| 15 | 36 | 0 | 0 |
 
 ### Consumer protection
 

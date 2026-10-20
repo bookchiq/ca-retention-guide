@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 1 | 1 | 0 / 0 | 0 |
-| [Right to counsel](#right-to-counsel) (floor) | 3 | 8 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 5 | 18 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 2 | 4 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 0 | 0 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 0 | 0 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 0 | 0 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 0 | 0 | 0 / 0 | 0 |
 | [Police records](#police-records) | 0 | 0 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 0 | 0 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 0 | 0 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 15 | 46 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 3 | 9 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 1 | 4 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 2 | 6 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 0 | 1 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 3 | 9 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 0 | 0 | 0 / 0 | — |
@@ -64,11 +64,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 3 | 8 | 0 | 0 |
+| 5 | 18 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -84,11 +82,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 0 | 0 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 0 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Police records
 
@@ -101,6 +103,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 0 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Resentencing
 
@@ -116,11 +120,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 1 | 4 | 0 | 0 |
+| 2 | 6 | 0 | 0 |
 
 ### Consumer protection
 

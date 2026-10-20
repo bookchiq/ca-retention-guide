@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 12 | 0 / 0 | 0 |
-| [Right to counsel](#right-to-counsel) (floor) | 19 | 64 | 1 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 31 | 120 | 1 / 1 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 0 | 5 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 0 | 7 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 1 | 4 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 0 | 7 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 1 | 4 | 0 / 0 | 0 |
 | [Police records](#police-records) | 2 | 2 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 3 | 7 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 3 | 7 | 0 / 0 | 1 |
 | [Resentencing](#resentencing) | 40 | 130 | 1 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 11 | 38 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 8 | 23 | 2 / 0 | — |
+| [Arbitration](#arbitration) | 11 | 35 | 2 / 0 | — |
 | [Consumer protection](#consumer-protection) | 3 | 8 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 12 | 31 | 0 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 1 | 6 | 0 / 0 | — |
@@ -64,11 +64,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 19 | 64 | 1 | 0 |
+| 31 | 120 | 1 | 1 |
 
 ### Immigration consequences of pleas
 
@@ -84,11 +82,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 0 | 7 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (9 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 4 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (3 candidates reviewed).
 
 ### Police records
 
@@ -101,6 +103,10 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 7 | 0 | 0 |
+
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that an indigent Racial Justice Act habeas petitioner is entitled to appointed counsel if the petition alleges facts that would establish a violation, a separate test from the prima facie showing for an order to show cause; granted writ relief. *McIntosh v. Super. Ct.* (D084379, 2025-03-28; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10367937/mcintosh-v-super-ct/)
 
 ### Resentencing
 
@@ -116,11 +122,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 8 | 23 | 2 | 0 |
+| 11 | 35 | 2 | 0 |
 
 ### Consumer protection
 

@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 3 | 12 | 0 / 0 | 1 |
-| [Right to counsel](#right-to-counsel) (floor) | 6 | 37 | 1 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 20 | 72 | 2 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 1 | 1 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 3 | 7 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 0 | 5 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 3 | 7 | 0 / 0 | 0 |
+| [Jury selection](#jury-selection) | 0 | 5 | 0 / 0 | 0 |
 | [Police records](#police-records) | 2 | 4 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 4 | 7 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 4 | 7 | 0 / 0 | 3 |
 | [Resentencing](#resentencing) | 27 | 58 | 1 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 5 | 15 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 11 | 20 | 0 / 0 | — |
+| [Arbitration](#arbitration) | 18 | 36 | 0 / 0 | — |
 | [Consumer protection](#consumer-protection) | 2 | 10 | 0 / 0 | — |
 | [Employment](#employment) (floor) | 10 | 25 | 1 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 2 | 11 | 0 / 0 | — |
@@ -66,11 +66,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 6 | 37 | 1 | 0 |
+| 20 | 72 | 2 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -86,11 +84,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 3 | 7 | 0 | 0 |
 
+**Listed cases:** none. No case in the window met the listing rules (8 candidates reviewed).
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 0 | 5 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Police records
 
@@ -103,6 +105,12 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 4 | 7 | 0 | 0 |
+
+**Listed cases** (3). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that a defendant may show good cause for Racial Justice Act discovery with county-level statistical evidence, without case-specific facts, and that the defendant did so; granted the writ and remanded for the trial court to set the scope of discovery. *McDaniel v. Super. Ct.* (A171858, 2025-05-19; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/10586641/mcdaniel-v-super-ct/)
+- Wrote the opinion, on transfer from the Supreme Court, holding that Racial Justice Act claims raised for the first time on direct appeal remain subject to ordinary forfeiture rules after Assembly Bill 1118's amendments; found the claim forfeited, denied a stay and remand, and affirmed. *People v. Lashon* (A163074, 2024-01-08; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9458112/people-v-lashon/)
+- Wrote the opinion affirming the conviction but reversing an order denying the defendant's request for disclosure under the Racial Justice Act, directing the trial court to reconsider it under the good-cause standard announced after its ruling and the statute's amendments. *People v. Cortijo* (A162926, 2023-06-21; unpublished; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/9408300/people-v-cortijo-ca13/)
 
 ### Resentencing
 
@@ -118,11 +126,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 11 | 20 | 0 | 0 |
+| 18 | 36 | 0 | 0 |
 
 ### Consumer protection
 

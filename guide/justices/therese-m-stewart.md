@@ -36,15 +36,15 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Topic | Opinions written | Panels sat on | Contested: majority / dissenting | Listed cases |
 |---|---|---|---|---|
 | [Search and seizure](#search-and-seizure) | 6 | 16 | 0 / 0 | 2 |
-| [Right to counsel](#right-to-counsel) (floor) | 13 | 38 | 0 / 0 | — |
+| [Right to counsel](#right-to-counsel) | 30 | 77 | 0 / 0 | — |
 | [Immigration consequences of pleas](#immigration-consequences-of-pleas) | 4 | 7 | 0 / 0 | — |
-| [Interrogation](#interrogation) (floor) | 2 | 3 | 0 / 0 | — |
-| [Jury selection](#jury-selection) | 3 | 4 | 0 / 0 | — |
+| [Interrogation](#interrogation) (floor) | 2 | 3 | 0 / 0 | 1 |
+| [Jury selection](#jury-selection) | 3 | 4 | 0 / 0 | 0 |
 | [Police records](#police-records) | 2 | 4 | 0 / 0 | — |
-| [Racial Justice Act](#racial-justice-act) | 1 | 3 | 0 / 0 | — |
+| [Racial Justice Act](#racial-justice-act) | 1 | 3 | 0 / 0 | 0 |
 | [Resentencing](#resentencing) | 14 | 56 | 0 / 0 | — |
 | [Anti-SLAPP](#anti-slapp) | 6 | 20 | 0 / 0 | — |
-| [Arbitration](#arbitration) (floor) | 2 | 18 | 1 / 0 | — |
+| [Arbitration](#arbitration) | 2 | 22 | 1 / 0 | — |
 | [Consumer protection](#consumer-protection) | 2 | 12 | 0 / 1 | — |
 | [Employment](#employment) (floor) | 3 | 14 | 1 / 0 | — |
 | [Land use and housing](#land-use-and-housing) (floor) | 3 | 11 | 1 / 0 | — |
@@ -67,11 +67,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Right to counsel
 
-*These counts are a floor: the keywords likely miss about 58% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 13 | 38 | 0 | 0 |
+| 30 | 77 | 0 | 0 |
 
 ### Immigration consequences of pleas
 
@@ -87,11 +85,17 @@ Counts are opinions that address the topic, found by keyword matching or by read
 |---|---|---|---|
 | 2 | 3 | 0 | 0 |
 
+**Listed cases** (1). Each was selected by a fixed rule applied to every justice and verified against the opinion.
+
+- Wrote the opinion holding that an officer's unwarned questioning of the defendant, who was in custody on firearm charges, about his son's murder was not interrogation under Miranda, because the officer had no reason to know the questions were likely to elicit incriminating responses; affirmed. *People v. Tousant* (A156044, 2021-06-24; published; vote 3-0). [Opinion](https://www.courtlistener.com/opinion/4894702/people-v-tousant/)
+
 ### Jury selection
 
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 3 | 4 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (0 candidates reviewed).
 
 ### Police records
 
@@ -104,6 +108,8 @@ Counts are opinions that address the topic, found by keyword matching or by read
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
 | 1 | 3 | 0 | 0 |
+
+**Listed cases:** none. No case in the window met the listing rules (1 candidate reviewed).
 
 ### Resentencing
 
@@ -119,11 +125,9 @@ Counts are opinions that address the topic, found by keyword matching or by read
 
 ### Arbitration
 
-*These counts are a floor: the keywords likely miss about 51% of opinions on this topic (see the [methodology](../methodology.md#topics)).*
-
 | Opinions written | Panels sat on | Contested, in the majority | Contested, dissenting |
 |---|---|---|---|
-| 2 | 18 | 1 | 0 |
+| 2 | 22 | 1 | 0 |
 
 ### Consumer protection
 
